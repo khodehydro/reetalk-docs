@@ -21,7 +21,7 @@ SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 # Only names actually spoken in the first category; ordinary words still need cards.
 PROPER_NAMES = {
     "sara", "amir", "leila", "omid", "shiraz", "isfahan", "maryam", "tabriz", "nima.rezaei",
-    "nadia", "farhad", "sam", "laila", "nigar", "arman", "poya", "mina", "arash", "milad",
+    "nadia", "hamid", "sam", "laila", "nigar", "arman", "poya", "mina", "arash", "milad",
     "tehran", "elham", "dr", "kamrani",
 }
 

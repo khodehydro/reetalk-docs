@@ -38,6 +38,17 @@ class DraftValidationTests(unittest.TestCase):
                 self.assertEqual(d["dialogueId"], f"en-t01-s{index:02}")
                 validate(d, path.read_text(encoding="utf-8"), studio=index > 4)
 
+    def test_new_neighbor_is_hamid_in_source_and_draft(self):
+        path = ENGLISH / "01 - معرفی و آشنایی" / "05 - همسایه تازه‌وارد طبقه سوم.txt"
+        source = path.read_text(encoding="utf-8")
+        draft = load(path.with_suffix(".json"))
+        self.assertIn("Hamid: Yes, I moved in yesterday, my name is Hamid.", source)
+        self.assertEqual(draft["speakers"][1], {"id": "hamid", "name": "Hamid", "gender": "man"})
+        for text in (source, json.dumps(draft, ensure_ascii=False)):
+            self.assertNotIn("farhad", text.lower())
+            self.assertNotIn("فرهاد", text)
+        validate(draft, source)
+
     def test_word_example_must_be_a_real_turn(self):
         d = self.draft()
         d["learning"]["words"][0]["example"]["text"] = "A made-up example."
