@@ -1,0 +1,4458 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s10",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "آن استیک واقعاً خوب بود؟",
+    "en": "Was That Steak Really Good?"
+  },
+  "objective": {
+    "fa": "ارزیابی غذا، خدمات و ارزش خرید با توضیح دلیل، لحن سنجیده و پاسخ‌های کوتاه.",
+    "en": "Evaluate food, service and value using reasons, measured judgments and elliptical responses."
+  },
+  "speakers": [
+    {
+      "id": "elham",
+      "name": "Elham",
+      "gender": "woman"
+    },
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "elham",
+      "text": "That steak we had last night was really excellent, do you agree?",
+      "translation": {
+        "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+        "en": "That steak we had last night was really excellent, do you agree?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "steak",
+          "gloss": {
+            "fa": "استیک",
+            "en": "steak; a cut of meat served cooked"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "خوردیم؛ دربارهٔ غذای دیشب",
+            "en": "had; ate or experienced a meal in the past"
+          }
+        },
+        {
+          "surface": "last",
+          "gloss": {
+            "fa": "گذشته؛ قبلی",
+            "en": "last; the previous one"
+          }
+        },
+        {
+          "surface": "night",
+          "gloss": {
+            "fa": "شب",
+            "en": "night; the dark part of the day"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "excellent,",
+          "gloss": {
+            "fa": "عالی؛ بسیار خوب",
+            "en": "excellent; extremely good"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "agree?",
+          "gloss": {
+            "fa": "موافق بودن",
+            "en": "agree; have the same opinion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "arman",
+      "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+      "translation": {
+        "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+        "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «I do»: موافقم",
+            "en": "In “I do”: substitutes for I agree"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "در «I do»: موافقم",
+            "en": "In “I do”: substitutes for I agree"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "meat",
+          "gloss": {
+            "fa": "گوشت",
+            "en": "meat; animal flesh served as food"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "perfectly",
+          "gloss": {
+            "fa": "کاملاً؛ به بهترین شکل",
+            "en": "perfectly; exactly as desired"
+          }
+        },
+        {
+          "surface": "cooked",
+          "gloss": {
+            "fa": "پخته‌شده",
+            "en": "cooked; prepared by heating"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "sauce",
+          "gloss": {
+            "fa": "سس",
+            "en": "sauce; a flavored liquid served with food"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "wonderful.",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "elham",
+      "text": "What did you like most, the meat itself or the side dishes?",
+      "translation": {
+        "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+        "en": "What did you like most, the meat itself or the side dishes?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+            "en": "did; used in past questions or negatives"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داشتن؛ مثلِ",
+            "en": "like; enjoy or want, or similar to"
+          }
+        },
+        {
+          "surface": "most,",
+          "gloss": {
+            "fa": "بیشترین؛ برای برترین‌بودن",
+            "en": "most; the greatest degree or number"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "meat",
+          "gloss": {
+            "fa": "گوشت",
+            "en": "meat; animal flesh served as food"
+          }
+        },
+        {
+          "surface": "itself",
+          "gloss": {
+            "fa": "خودِ آن",
+            "en": "itself; emphasizes the thing just mentioned"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "side",
+          "gloss": {
+            "fa": "کنار؛ در side dishes یعنی مخلفات",
+            "en": "side; in side dishes, accompaniments to the main food"
+          }
+        },
+        {
+          "surface": "dishes?",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "arman",
+      "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+      "translation": {
+        "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+        "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "combination,",
+          "gloss": {
+            "fa": "ترکیب",
+            "en": "combination; several things working together"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rice",
+          "gloss": {
+            "fa": "برنج",
+            "en": "rice; a grain served cooked"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "grilled",
+          "gloss": {
+            "fa": "کبابی؛ گریل‌شده",
+            "en": "grilled; cooked over or under direct heat"
+          }
+        },
+        {
+          "surface": "vegetables",
+          "gloss": {
+            "fa": "سبزیجات",
+            "en": "vegetables; plants or plant parts eaten as food"
+          }
+        },
+        {
+          "surface": "balanced",
+          "gloss": {
+            "fa": "متعادل کرد؛ اجزا همدیگر را کامل کردند",
+            "en": "balanced; made the meal feel harmonious, a past-tense verb"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "meal",
+          "gloss": {
+            "fa": "وعدهٔ غذا",
+            "en": "meal; food eaten on one occasion"
+          }
+        },
+        {
+          "surface": "perfectly.",
+          "gloss": {
+            "fa": "کاملاً؛ به بهترین شکل",
+            "en": "perfectly; exactly as desired"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "elham",
+      "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+      "translation": {
+        "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+        "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "liked",
+          "gloss": {
+            "fa": "دوست داشتم",
+            "en": "liked; enjoyed"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "dessert,",
+          "gloss": {
+            "fa": "دسر",
+            "en": "dessert; sweet food after the main course"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "ice",
+          "gloss": {
+            "fa": "در «ice cream»: بستنی",
+            "en": "In “ice cream”: a frozen sweet dessert"
+          }
+        },
+        {
+          "surface": "cream",
+          "gloss": {
+            "fa": "در «ice cream»: بستنی",
+            "en": "In “ice cream”: a frozen sweet dessert"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "homemade",
+          "gloss": {
+            "fa": "خانگی؛ تهیه‌شده در محل",
+            "en": "homemade; made in the home or establishment rather than mass-produced"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "fresh.",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "arman",
+      "text": "The service was good too, the waiter was attentive without being intrusive.",
+      "translation": {
+        "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+        "en": "The service was good too, the waiter was attentive without being intrusive."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "service",
+          "gloss": {
+            "fa": "خدمات؛ سرویس‌دهی",
+            "en": "service; attention and assistance provided to diners"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also, adding another positive point"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "waiter",
+          "gloss": {
+            "fa": "پیشخدمت",
+            "en": "waiter; a person serving diners"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "attentive",
+          "gloss": {
+            "fa": "با‌توجه؛ مراقب نیاز مشتری",
+            "en": "attentive; paying considerate attention"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+            "en": "In “without being intrusive”: without interfering more than welcome"
+          }
+        },
+        {
+          "surface": "being",
+          "gloss": {
+            "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+            "en": "In “without being intrusive”: without interfering more than welcome"
+          }
+        },
+        {
+          "surface": "intrusive.",
+          "gloss": {
+            "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+            "en": "In “without being intrusive”: without interfering more than welcome"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "elham",
+      "text": "Do you think the price was fair for the quality we received?",
+      "translation": {
+        "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+        "en": "Do you think the price was fair for the quality we received?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "price",
+          "gloss": {
+            "fa": "قیمت",
+            "en": "price; the cost of something"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "fair",
+          "gloss": {
+            "fa": "منصفانه",
+            "en": "fair; reasonable in price or treatment"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "quality",
+          "gloss": {
+            "fa": "کیفیت",
+            "en": "quality; how well something is made"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "received?",
+          "gloss": {
+            "fa": "دریافت کردیم",
+            "en": "received; obtained"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "arman",
+      "text": "Yes, considering the quality, I would say it was quite reasonable.",
+      "translation": {
+        "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+        "en": "Yes, considering the quality, I would say it was quite reasonable."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "considering",
+          "gloss": {
+            "fa": "با درنظرگرفتنِ",
+            "en": "considering; taking the quality into account"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "quality,",
+          "gloss": {
+            "fa": "کیفیت",
+            "en": "quality; how well something is made"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+            "en": "In “I would say”: softens the speaker’s judgment"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+            "en": "In “I would say”: softens the speaker’s judgment"
+          }
+        },
+        {
+          "surface": "say",
+          "gloss": {
+            "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+            "en": "In “I would say”: softens the speaker’s judgment"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "quite",
+          "gloss": {
+            "fa": "کاملاً؛ نسبتاً زیاد",
+            "en": "quite; to a considerable degree"
+          }
+        },
+        {
+          "surface": "reasonable.",
+          "gloss": {
+            "fa": "معقول؛ منصفانه",
+            "en": "reasonable; fair and not excessive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "elham",
+      "text": "Then we should go back there for another dinner sometime.",
+      "translation": {
+        "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+        "en": "Then we should go back there for another dinner sometime."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or an appropriate action"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; travel to a place"
+          }
+        },
+        {
+          "surface": "back",
+          "gloss": {
+            "fa": "دوباره؛ بازگشت",
+            "en": "back; returning to an earlier place"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا؛ یا برای گفتن وجود داشتن",
+            "en": "there; in that place, or used to say something exists"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "another",
+          "gloss": {
+            "fa": "یک ... دیگر",
+            "en": "another; an additional one"
+          }
+        },
+        {
+          "surface": "dinner",
+          "gloss": {
+            "fa": "شام",
+            "en": "dinner; the main evening meal"
+          }
+        },
+        {
+          "surface": "sometime.",
+          "gloss": {
+            "fa": "یک وقتی؛ در زمانی نامشخص",
+            "en": "sometime; at an unspecified time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "arman",
+      "text": "I would like that, maybe next month for a special occasion.",
+      "translation": {
+        "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+        "en": "I would like that, maybe next month for a special occasion."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: دوست دارم؛ پذیرش پیشنهاد",
+            "en": "In “would like”: politely welcomes the idea of returning"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: دوست دارم؛ پذیرش پیشنهاد",
+            "en": "In “would like”: politely welcomes the idea of returning"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "month",
+          "gloss": {
+            "fa": "ماه",
+            "en": "month; one of twelve calendar periods"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "special",
+          "gloss": {
+            "fa": "خاص",
+            "en": "special; different from ordinary"
+          }
+        },
+        {
+          "surface": "occasion.",
+          "gloss": {
+            "fa": "مناسبت",
+            "en": "occasion; a special event"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "elham",
+      "text": "Let us make a note of it, and I will recommend it to my friends too.",
+      "translation": {
+        "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+        "en": "Let us make a note of it, and I will recommend it to my friends too."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بگذار؛ اجازه بده",
+            "en": "let; allow or propose an action"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+            "en": "In “make a note of it”: record or remember the plan for a return visit"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+            "en": "In “make a note of it”: record or remember the plan for a return visit"
+          }
+        },
+        {
+          "surface": "note",
+          "gloss": {
+            "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+            "en": "In “make a note of it”: record or remember the plan for a return visit"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+            "en": "In “make a note of it”: record or remember the plan for a return visit"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+            "en": "In “make a note of it”: record or remember the plan for a return visit"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "recommend",
+          "gloss": {
+            "fa": "توصیه کردن",
+            "en": "recommend; suggest to others as a good choice"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "friends",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also, adding another positive point"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "arman",
+      "text": "It deserves it, few restaurants offer both taste and service like that.",
+      "translation": {
+        "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+        "en": "It deserves it, few restaurants offer both taste and service like that."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ رستوران",
+            "en": "It; the restaurant that deserves the recommendation"
+          }
+        },
+        {
+          "surface": "deserves",
+          "gloss": {
+            "fa": "شایسته است",
+            "en": "deserves; is worthy of praise or recommendation"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "آن؛ توصیه‌شدن",
+            "en": "it; the recommendation, not the restaurant itself"
+          }
+        },
+        {
+          "surface": "few",
+          "gloss": {
+            "fa": "تعداد کمی از؛ نه بسیاری",
+            "en": "few; not many restaurants, emphasizing rarity"
+          }
+        },
+        {
+          "surface": "restaurants",
+          "gloss": {
+            "fa": "رستوران‌ها",
+            "en": "restaurants; places serving meals"
+          }
+        },
+        {
+          "surface": "offer",
+          "gloss": {
+            "fa": "ارائه می‌کنند",
+            "en": "offer; provide food quality and service, a verb"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "در «both taste and service»: هم طعم و هم خدمات",
+            "en": "In “both taste and service”: the two qualities together"
+          }
+        },
+        {
+          "surface": "taste",
+          "gloss": {
+            "fa": "در «both taste and service»: هم طعم و هم خدمات",
+            "en": "In “both taste and service”: the two qualities together"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "در «both taste and service»: هم طعم و هم خدمات",
+            "en": "In “both taste and service”: the two qualities together"
+          }
+        },
+        {
+          "surface": "service",
+          "gloss": {
+            "fa": "در «both taste and service»: هم طعم و هم خدمات",
+            "en": "In “both taste and service”: the two qualities together"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داشتن؛ مثلِ",
+            "en": "like; enjoy or want, or similar to"
+          }
+        },
+        {
+          "surface": "that.",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "elham",
+      "text": "Agreed, and I still remember the taste of that steak.",
+      "translation": {
+        "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+        "en": "Agreed, and I still remember the taste of that steak."
+      },
+      "tokens": [
+        {
+          "surface": "Agreed,",
+          "gloss": {
+            "fa": "موافقم",
+            "en": "agreed; expresses agreement"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "still",
+          "gloss": {
+            "fa": "هنوز؛ با وجود این",
+            "en": "still; continuing despite something"
+          }
+        },
+        {
+          "surface": "remember",
+          "gloss": {
+            "fa": "به یاد داشتن",
+            "en": "remember; keep in one’s memory"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "taste",
+          "gloss": {
+            "fa": "طعم؛ مزه",
+            "en": "taste; flavor, a noun here"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "steak.",
+          "gloss": {
+            "fa": "استیک",
+            "en": "steak; a cut of meat served cooked"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "arman",
+      "text": "So do I, and that is the sign of a truly good meal.",
+      "translation": {
+        "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+        "en": "So do I, and that is the sign of a truly good meal."
+      },
+      "tokens": [
+        {
+          "surface": "So",
+          "gloss": {
+            "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+            "en": "In “So do I”: I also remember the taste"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+            "en": "In “So do I”: I also remember the taste"
+          }
+        },
+        {
+          "surface": "I,",
+          "gloss": {
+            "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+            "en": "In “So do I”: I also remember the taste"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "sign",
+          "gloss": {
+            "fa": "نشانه",
+            "en": "sign; an indication"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "truly",
+          "gloss": {
+            "fa": "واقعاً؛ به‌راستی",
+            "en": "truly; genuinely"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "meal.",
+          "gloss": {
+            "fa": "وعدهٔ غذا",
+            "en": "meal; food eaten on one occasion"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "steak",
+        "text": "steak",
+        "pronunciation": {
+          "faReading": "سْتِیک",
+          "ipa": "/steɪk/"
+        },
+        "meaning": {
+          "fa": "استیک",
+          "en": "steak; a cut of meat served cooked"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "خوردیم؛ دربارهٔ غذای دیشب",
+          "en": "had; ate or experienced a meal in the past"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "last",
+        "text": "last",
+        "pronunciation": {
+          "faReading": "لَست",
+          "ipa": "/læst/"
+        },
+        "meaning": {
+          "fa": "گذشته؛ قبلی",
+          "en": "last; the previous one"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "night",
+        "text": "night",
+        "pronunciation": {
+          "faReading": "نایت",
+          "ipa": "/naɪt/"
+        },
+        "meaning": {
+          "fa": "شب",
+          "en": "night; the dark part of the day"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "excellent",
+        "text": "excellent",
+        "pronunciation": {
+          "faReading": "اِکسِلِنت",
+          "ipa": "/ˈɛksələnt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ بسیار خوب",
+          "en": "excellent; extremely good"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ یا انجام دادن",
+          "en": "do; helps form questions, or perform an action"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "That steak we had last night was really excellent, do you agree?",
+          "translation": {
+            "fa": "آن استیکی که دیشب خوردیم واقعاً عالی بود؛ موافقی؟",
+            "en": "That steak we had last night was really excellent, do you agree?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «I do»: موافقم",
+          "en": "In “I do”: substitutes for I agree"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "do-2",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «I do»: موافقم",
+          "en": "In “I do”: substitutes for I agree"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "meat",
+        "text": "meat",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "گوشت",
+          "en": "meat; animal flesh served as food"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "perfectly",
+        "text": "perfectly",
+        "pronunciation": {
+          "faReading": "پِرفِکتلی",
+          "ipa": "/ˈpɝfɪktli/"
+        },
+        "meaning": {
+          "fa": "کاملاً؛ به بهترین شکل",
+          "en": "perfectly; exactly as desired"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "cooked",
+        "text": "cooked",
+        "pronunciation": {
+          "faReading": "کوکت",
+          "ipa": "/kʊkt/"
+        },
+        "meaning": {
+          "fa": "پخته‌شده",
+          "en": "cooked; prepared by heating"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "sauce",
+        "text": "sauce",
+        "pronunciation": {
+          "faReading": "ساس",
+          "ipa": "/sɔs/"
+        },
+        "meaning": {
+          "fa": "سس",
+          "en": "sauce; a flavored liquid served with food"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+          "en": "did; used in past questions or negatives"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن؛ مثلِ",
+          "en": "like; enjoy or want, or similar to"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشترین؛ برای برترین‌بودن",
+          "en": "most; the greatest degree or number"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "itself",
+        "text": "itself",
+        "pronunciation": {
+          "faReading": "ایتسِلف",
+          "ipa": "/ɪtˈsɛlf/"
+        },
+        "meaning": {
+          "fa": "خودِ آن",
+          "en": "itself; emphasizes the thing just mentioned"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "side",
+        "text": "side",
+        "pronunciation": {
+          "faReading": "ساید",
+          "ipa": "/saɪd/"
+        },
+        "meaning": {
+          "fa": "کنار؛ در side dishes یعنی مخلفات",
+          "en": "side; in side dishes, accompaniments to the main food"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "combination",
+        "text": "combination",
+        "pronunciation": {
+          "faReading": "کامبِنِیشن",
+          "ipa": "/ˌkɑmbəˈneɪʃən/"
+        },
+        "meaning": {
+          "fa": "ترکیب",
+          "en": "combination; several things working together"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "rice",
+        "text": "rice",
+        "pronunciation": {
+          "faReading": "رایس",
+          "ipa": "/raɪs/"
+        },
+        "meaning": {
+          "fa": "برنج",
+          "en": "rice; a grain served cooked"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "grilled",
+        "text": "grilled",
+        "pronunciation": {
+          "faReading": "گْریلد",
+          "ipa": "/ɡrɪld/"
+        },
+        "meaning": {
+          "fa": "کبابی؛ گریل‌شده",
+          "en": "grilled; cooked over or under direct heat"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "vegetables",
+        "text": "vegetables",
+        "pronunciation": {
+          "faReading": "وِجتِبِلز",
+          "ipa": "/ˈvɛdʒtəbəlz/"
+        },
+        "meaning": {
+          "fa": "سبزیجات",
+          "en": "vegetables; plants or plant parts eaten as food"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "balanced",
+        "text": "balanced",
+        "pronunciation": {
+          "faReading": "بَلِنست",
+          "ipa": "/ˈbælənst/"
+        },
+        "meaning": {
+          "fa": "متعادل کرد؛ اجزا همدیگر را کامل کردند",
+          "en": "balanced; made the meal feel harmonious, a past-tense verb"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "meal",
+        "text": "meal",
+        "pronunciation": {
+          "faReading": "میل",
+          "ipa": "/mil/"
+        },
+        "meaning": {
+          "fa": "وعدهٔ غذا",
+          "en": "meal; food eaten on one occasion"
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "liked",
+        "text": "liked",
+        "pronunciation": {
+          "faReading": "لایکت",
+          "ipa": "/laɪkt/"
+        },
+        "meaning": {
+          "fa": "دوست داشتم",
+          "en": "liked; enjoyed"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "dessert",
+        "text": "dessert",
+        "pronunciation": {
+          "faReading": "دیزِرت",
+          "ipa": "/dɪˈzɝt/"
+        },
+        "meaning": {
+          "fa": "دسر",
+          "en": "dessert; sweet food after the main course"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "ice",
+        "text": "ice",
+        "pronunciation": {
+          "faReading": "آیس",
+          "ipa": "/aɪs/"
+        },
+        "meaning": {
+          "fa": "در «ice cream»: بستنی",
+          "en": "In “ice cream”: a frozen sweet dessert"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "cream",
+        "text": "cream",
+        "pronunciation": {
+          "faReading": "کْریم",
+          "ipa": "/krim/"
+        },
+        "meaning": {
+          "fa": "در «ice cream»: بستنی",
+          "en": "In “ice cream”: a frozen sweet dessert"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "homemade",
+        "text": "homemade",
+        "pronunciation": {
+          "faReading": "هُوم مِید",
+          "ipa": "/ˌhoʊmˈmeɪd/"
+        },
+        "meaning": {
+          "fa": "خانگی؛ تهیه‌شده در محل",
+          "en": "homemade; made in the home or establishment rather than mass-produced"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "fresh",
+        "pronunciation": {
+          "faReading": "فْرِش",
+          "ipa": "/frɛʃ/"
+        },
+        "meaning": {
+          "fa": "تازه",
+          "en": "fresh; recently prepared or obtained"
+        },
+        "example": {
+          "text": "I also liked the dessert, the ice cream was homemade and very fresh.",
+          "translation": {
+            "fa": "از دسر هم خوشم آمد؛ بستنی خانگی و خیلی تازه بود.",
+            "en": "I also liked the dessert, the ice cream was homemade and very fresh."
+          }
+        }
+      },
+      {
+        "id": "service",
+        "text": "service",
+        "pronunciation": {
+          "faReading": "سِرویس",
+          "ipa": "/ˈsɝvɪs/"
+        },
+        "meaning": {
+          "fa": "خدمات؛ سرویس‌دهی",
+          "en": "service; attention and assistance provided to diners"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also, adding another positive point"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "waiter",
+        "text": "waiter",
+        "pronunciation": {
+          "faReading": "وِیتِر",
+          "ipa": "/ˈweɪtɚ/"
+        },
+        "meaning": {
+          "fa": "پیشخدمت",
+          "en": "waiter; a person serving diners"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "attentive",
+        "text": "attentive",
+        "pronunciation": {
+          "faReading": "اِتِنتیو",
+          "ipa": "/əˈtɛntɪv/"
+        },
+        "meaning": {
+          "fa": "با‌توجه؛ مراقب نیاز مشتری",
+          "en": "attentive; paying considerate attention"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+          "en": "In “without being intrusive”: without interfering more than welcome"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "being",
+        "text": "being",
+        "pronunciation": {
+          "faReading": "بی‌اینگ",
+          "ipa": "/ˈbiɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+          "en": "In “without being intrusive”: without interfering more than welcome"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "intrusive",
+        "text": "intrusive",
+        "pronunciation": {
+          "faReading": "اینتْروسیو",
+          "ipa": "/ɪnˈtrusɪv/"
+        },
+        "meaning": {
+          "fa": "در «without being intrusive»: بدون مزاحم‌بودن",
+          "en": "In “without being intrusive”: without interfering more than welcome"
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "price",
+        "text": "price",
+        "pronunciation": {
+          "faReading": "پْرایس",
+          "ipa": "/praɪs/"
+        },
+        "meaning": {
+          "fa": "قیمت",
+          "en": "price; the cost of something"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "fair",
+        "text": "fair",
+        "pronunciation": {
+          "faReading": "فِر",
+          "ipa": "/fɛr/"
+        },
+        "meaning": {
+          "fa": "منصفانه",
+          "en": "fair; reasonable in price or treatment"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "quality",
+        "text": "quality",
+        "pronunciation": {
+          "faReading": "کْوالِتی",
+          "ipa": "/ˈkwɑləti/"
+        },
+        "meaning": {
+          "fa": "کیفیت",
+          "en": "quality; how well something is made"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "received",
+        "text": "received",
+        "pronunciation": {
+          "faReading": "ریسیود",
+          "ipa": "/rɪˈsivd/"
+        },
+        "meaning": {
+          "fa": "دریافت کردیم",
+          "en": "received; obtained"
+        },
+        "example": {
+          "text": "Do you think the price was fair for the quality we received?",
+          "translation": {
+            "fa": "فکر می‌کنی قیمت با توجه به کیفیتی که گرفتیم منصفانه بود؟",
+            "en": "Do you think the price was fair for the quality we received?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "considering",
+        "text": "considering",
+        "pronunciation": {
+          "faReading": "کِنسیدِرینگ",
+          "ipa": "/kənˈsɪdɚɪŋ/"
+        },
+        "meaning": {
+          "fa": "با درنظرگرفتنِ",
+          "en": "considering; taking the quality into account"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "i-3",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+          "en": "In “I would say”: softens the speaker’s judgment"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+          "en": "In “I would say”: softens the speaker’s judgment"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "say",
+        "text": "say",
+        "pronunciation": {
+          "faReading": "سِی",
+          "ipa": "/seɪ/"
+        },
+        "meaning": {
+          "fa": "در «I would say»: به نظرم؛ با لحنی سنجیده",
+          "en": "In “I would say”: softens the speaker’s judgment"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "quite",
+        "text": "quite",
+        "pronunciation": {
+          "faReading": "کوایت",
+          "ipa": "/kwaɪt/"
+        },
+        "meaning": {
+          "fa": "کاملاً؛ نسبتاً زیاد",
+          "en": "quite; to a considerable degree"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "reasonable",
+        "text": "reasonable",
+        "pronunciation": {
+          "faReading": "ریزِنِبِل",
+          "ipa": "/ˈrizənəbəl/"
+        },
+        "meaning": {
+          "fa": "معقول؛ منصفانه",
+          "en": "reasonable; fair and not excessive"
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or an appropriate action"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "رفتن",
+          "en": "go; travel to a place"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "back",
+        "text": "back",
+        "pronunciation": {
+          "faReading": "بَک",
+          "ipa": "/bæk/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ بازگشت",
+          "en": "back; returning to an earlier place"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا؛ یا برای گفتن وجود داشتن",
+          "en": "there; in that place, or used to say something exists"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "another",
+        "text": "another",
+        "pronunciation": {
+          "faReading": "اِناذِر",
+          "ipa": "/əˈnʌðɚ/"
+        },
+        "meaning": {
+          "fa": "یک ... دیگر",
+          "en": "another; an additional one"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "dinner",
+        "text": "dinner",
+        "pronunciation": {
+          "faReading": "دینِر",
+          "ipa": "/ˈdɪnɚ/"
+        },
+        "meaning": {
+          "fa": "شام",
+          "en": "dinner; the main evening meal"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "sometime",
+        "text": "sometime",
+        "pronunciation": {
+          "faReading": "سام‌تایم",
+          "ipa": "/ˈsʌmˌtaɪm/"
+        },
+        "meaning": {
+          "fa": "یک وقتی؛ در زمانی نامشخص",
+          "en": "sometime; at an unspecified time"
+        },
+        "example": {
+          "text": "Then we should go back there for another dinner sometime.",
+          "translation": {
+            "fa": "پس بهتر است یک وقت دیگر برای شام به آنجا برگردیم.",
+            "en": "Then we should go back there for another dinner sometime."
+          }
+        }
+      },
+      {
+        "id": "would-2",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would like»: دوست دارم؛ پذیرش پیشنهاد",
+          "en": "In “would like”: politely welcomes the idea of returning"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "like-2",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would like»: دوست دارم؛ پذیرش پیشنهاد",
+          "en": "In “would like”: politely welcomes the idea of returning"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "month",
+        "text": "month",
+        "pronunciation": {
+          "faReading": "مَنث",
+          "ipa": "/mʌnθ/"
+        },
+        "meaning": {
+          "fa": "ماه",
+          "en": "month; one of twelve calendar periods"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "special",
+        "text": "special",
+        "pronunciation": {
+          "faReading": "سْپِشِل",
+          "ipa": "/ˈspɛʃəl/"
+        },
+        "meaning": {
+          "fa": "خاص",
+          "en": "special; different from ordinary"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "occasion",
+        "text": "occasion",
+        "pronunciation": {
+          "faReading": "اِکِیژِن",
+          "ipa": "/əˈkeɪʒən/"
+        },
+        "meaning": {
+          "fa": "مناسبت",
+          "en": "occasion; a special event"
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بگذار؛ اجازه بده",
+          "en": "let; allow or propose an action"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+          "en": "In “make a note of it”: record or remember the plan for a return visit"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+          "en": "In “make a note of it”: record or remember the plan for a return visit"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "note",
+        "pronunciation": {
+          "faReading": "نُوت",
+          "ipa": "/noʊt/"
+        },
+        "meaning": {
+          "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+          "en": "In “make a note of it”: record or remember the plan for a return visit"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+          "en": "In “make a note of it”: record or remember the plan for a return visit"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "it-2",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در «make a note of it»: یادداشتش کنیم؛ برای بعد به خاطر بسپاریم",
+          "en": "In “make a note of it”: record or remember the plan for a return visit"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "recommend",
+        "text": "recommend",
+        "pronunciation": {
+          "faReading": "رِکِمِند",
+          "ipa": "/ˌrɛkəˈmɛnd/"
+        },
+        "meaning": {
+          "fa": "توصیه کردن",
+          "en": "recommend; suggest to others as a good choice"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "it-3",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ رستوران",
+          "en": "It; the restaurant that deserves the recommendation"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "deserves",
+        "text": "deserves",
+        "pronunciation": {
+          "faReading": "دیزِروز",
+          "ipa": "/dɪˈzɝvz/"
+        },
+        "meaning": {
+          "fa": "شایسته است",
+          "en": "deserves; is worthy of praise or recommendation"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "it-4",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ توصیه‌شدن",
+          "en": "it; the recommendation, not the restaurant itself"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "few",
+        "text": "few",
+        "pronunciation": {
+          "faReading": "فیو",
+          "ipa": "/fju/"
+        },
+        "meaning": {
+          "fa": "تعداد کمی از؛ نه بسیاری",
+          "en": "few; not many restaurants, emphasizing rarity"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "restaurants",
+        "text": "restaurants",
+        "pronunciation": {
+          "faReading": "رِستِرانتس",
+          "ipa": "/ˈrɛstəˌrɑnts/"
+        },
+        "meaning": {
+          "fa": "رستوران‌ها",
+          "en": "restaurants; places serving meals"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "offer",
+        "text": "offer",
+        "pronunciation": {
+          "faReading": "آفِر",
+          "ipa": "/ˈɔfɚ/"
+        },
+        "meaning": {
+          "fa": "ارائه می‌کنند",
+          "en": "offer; provide food quality and service, a verb"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "در «both taste and service»: هم طعم و هم خدمات",
+          "en": "In “both taste and service”: the two qualities together"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "taste",
+        "text": "taste",
+        "pronunciation": {
+          "faReading": "تِیست",
+          "ipa": "/teɪst/"
+        },
+        "meaning": {
+          "fa": "در «both taste and service»: هم طعم و هم خدمات",
+          "en": "In “both taste and service”: the two qualities together"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "and-2",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "در «both taste and service»: هم طعم و هم خدمات",
+          "en": "In “both taste and service”: the two qualities together"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "service-2",
+        "text": "service",
+        "pronunciation": {
+          "faReading": "سِرویس",
+          "ipa": "/ˈsɝvɪs/"
+        },
+        "meaning": {
+          "fa": "در «both taste and service»: هم طعم و هم خدمات",
+          "en": "In “both taste and service”: the two qualities together"
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        }
+      },
+      {
+        "id": "agreed",
+        "text": "Agreed",
+        "pronunciation": {
+          "faReading": "اِگْرید",
+          "ipa": "/əˈɡrid/"
+        },
+        "meaning": {
+          "fa": "موافقم",
+          "en": "agreed; expresses agreement"
+        },
+        "example": {
+          "text": "Agreed, and I still remember the taste of that steak.",
+          "translation": {
+            "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+            "en": "Agreed, and I still remember the taste of that steak."
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "هنوز؛ با وجود این",
+          "en": "still; continuing despite something"
+        },
+        "example": {
+          "text": "Agreed, and I still remember the taste of that steak.",
+          "translation": {
+            "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+            "en": "Agreed, and I still remember the taste of that steak."
+          }
+        }
+      },
+      {
+        "id": "remember",
+        "text": "remember",
+        "pronunciation": {
+          "faReading": "ریمِمبِر",
+          "ipa": "/rɪˈmɛmbɚ/"
+        },
+        "meaning": {
+          "fa": "به یاد داشتن",
+          "en": "remember; keep in one’s memory"
+        },
+        "example": {
+          "text": "Agreed, and I still remember the taste of that steak.",
+          "translation": {
+            "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+            "en": "Agreed, and I still remember the taste of that steak."
+          }
+        }
+      },
+      {
+        "id": "taste-2",
+        "text": "taste",
+        "pronunciation": {
+          "faReading": "تِیست",
+          "ipa": "/teɪst/"
+        },
+        "meaning": {
+          "fa": "طعم؛ مزه",
+          "en": "taste; flavor, a noun here"
+        },
+        "example": {
+          "text": "Agreed, and I still remember the taste of that steak.",
+          "translation": {
+            "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+            "en": "Agreed, and I still remember the taste of that steak."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "Agreed, and I still remember the taste of that steak.",
+          "translation": {
+            "fa": "موافقم؛ هنوز هم مزهٔ آن استیک را به یاد دارم.",
+            "en": "Agreed, and I still remember the taste of that steak."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "So",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+          "en": "In “So do I”: I also remember the taste"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      },
+      {
+        "id": "do-3",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+          "en": "In “So do I”: I also remember the taste"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      },
+      {
+        "id": "i-4",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «So do I»: من هم همین‌طور؛ مزه‌اش را به یاد دارم",
+          "en": "In “So do I”: I also remember the taste"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      },
+      {
+        "id": "sign",
+        "text": "sign",
+        "pronunciation": {
+          "faReading": "ساین",
+          "ipa": "/saɪn/"
+        },
+        "meaning": {
+          "fa": "نشانه",
+          "en": "sign; an indication"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      },
+      {
+        "id": "truly",
+        "text": "truly",
+        "pronunciation": {
+          "faReading": "تْرولی",
+          "ipa": "/ˈtruli/"
+        },
+        "meaning": {
+          "fa": "واقعاً؛ به‌راستی",
+          "en": "truly; genuinely"
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "relative-and-echo",
+        "title": {
+          "fa": "بند موصولی و پاسخ جانشین",
+          "en": "A relative clause and an echo response"
+        },
+        "explanation": {
+          "fa": "That steak we had last night دارای بند موصولی با that حذف‌شده پس از steak است؛ steak مفعول had است. I do جای I agree می‌نشیند و با فعل پرسش do you agree هماهنگ است، نه با was در جملهٔ اول.",
+          "en": "That steak we had last night contains a relative clause with omitted that after steak; steak is the object of had. I do substitutes for I agree, matching do you agree rather than was in the opening statement."
+        },
+        "example": {
+          "text": "I do, the meat was perfectly cooked and the sauce was wonderful.",
+          "translation": {
+            "fa": "بله موافقم، گوشت کاملاً خوب پخته شده بود و سس هم فوق‌العاده بود.",
+            "en": "I do, the meat was perfectly cooked and the sauce was wonderful."
+          }
+        },
+        "takeaway": {
+          "fa": "پاسخ کوتاه به فعل پرسش نزدیک وابسته است، نه هر فعل قبلی.",
+          "en": "The short response follows the relevant question’s verb, not any preceding verb."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بند موصولی و پاسخ جانشین",
+              "en": "A relative clause and an echo response"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "That steak we had last night"
+                },
+                {
+                  "text": "noun + relative clause without that"
+                },
+                {
+                  "fa": "آن استیکی که دیشب خوردیم",
+                  "en": "Steak is the object of had"
+                }
+              ],
+              [
+                {
+                  "text": "I do"
+                },
+                {
+                  "text": "subject + do"
+                },
+                {
+                  "fa": "موافقم",
+                  "en": "Substitutes for I agree"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "focus-itself-and-combination",
+        "title": {
+          "fa": "تأکید روی جزء و ارزیابی ترکیب",
+          "en": "Emphasis on a component and the combination"
+        },
+        "explanation": {
+          "fa": "the meat itself با itself خود گوشت را از مخلفات جدا می‌کند. پاسخ The combination یک گروه اسمی مستقلِ گفتاری است و کل ترکیب را انتخاب می‌کند. balanced در این متن یعنی اجزای غذا همدیگر را متعادل کرده‌اند، نه ترازوی فیزیکی یا تضمین رژیم پزشکی.",
+          "en": "The meat itself uses itself to distinguish the meat from accompaniments. The combination is a standalone spoken noun phrase selecting the whole pairing. Balanced describes how components complemented the meal, not physical scales or a medically verified diet."
+        },
+        "example": {
+          "text": "The combination, the rice and the grilled vegetables balanced the meal perfectly.",
+          "translation": {
+            "fa": "از ترکیبشان؛ برنج و سبزیجات گریل‌شده غذا را کاملاً متعادل کرده بودند.",
+            "en": "The combination, the rice and the grilled vegetables balanced the meal perfectly."
+          }
+        },
+        "takeaway": {
+          "fa": "itself تأکید می‌کند؛ پاسخ کوتاه می‌تواند یک گروه اسمی باشد.",
+          "en": "Itself adds emphasis; a short answer can be a noun phrase."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تأکید روی جزء و ارزیابی ترکیب",
+              "en": "Emphasis on a component and the combination"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the meat itself or the side dishes"
+                },
+                {
+                  "text": "emphatic itself + alternatives"
+                },
+                {
+                  "fa": "خود گوشت یا مخلفات",
+                  "en": "Contrasts the component with accompaniments"
+                }
+              ],
+              [
+                {
+                  "text": "The combination"
+                },
+                {
+                  "text": "elliptical noun-phrase answer"
+                },
+                {
+                  "fa": "ترکیبشان",
+                  "en": "Selects the combined effect"
+                }
+              ],
+              [
+                {
+                  "text": "balanced the meal perfectly"
+                },
+                {
+                  "text": "past transitive verb + object"
+                },
+                {
+                  "fa": "غذا را کاملاً متعادل کرده بودند",
+                  "en": "A qualitative dining judgment"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "attentive-without-intrusive",
+        "title": {
+          "fa": "توجه بدون مزاحمت",
+          "en": "Attentive without being intrusive"
+        },
+        "explanation": {
+          "fa": "attentive without being intrusive دو مفهوم نزدیک در خدمات را با مرز روشن کنار هم می‌گذارد: توجه کافی، نه دخالت ناخواسته. without پس از خود being می‌گیرد؛ فاعل فهمیده‌شدهٔ being همان waiter است. intrusive به کیفیت تعامل اشاره دارد نه ورود فیزیکی به رستوران.",
+          "en": "Attentive without being intrusive draws a boundary between considerate attention and unwanted interference. Without is followed by being, whose understood subject is the waiter. Intrusive evaluates interaction rather than physical entry into the restaurant."
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        },
+        "takeaway": {
+          "fa": "without + -ing فعالیت یا حالتِ رخ‌نداده را بیان می‌کند.",
+          "en": "Without + -ing specifies an absent action or state."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توجه بدون مزاحمت",
+              "en": "Attentive without being intrusive"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the waiter was attentive without being intrusive"
+                },
+                {
+                  "text": "adjective + without + being + adjective"
+                },
+                {
+                  "fa": "با‌توجه بود بدون اینکه مزاحم باشد",
+                  "en": "A balanced service assessment"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "value-and-hedging",
+        "title": {
+          "fa": "ارزش خرید و داوری سنجیده",
+          "en": "Value and a hedged judgment"
+        },
+        "explanation": {
+          "fa": "fair for the quality قیمت را نسبی به کیفیت می‌سنجد، نه لزوماً ارزان‌بودن مطلق. considering the quality مبنای داوری را پیش می‌اندازد. I would say قطعیت لحن را کم می‌کند، نه اینکه فقط یک شرط فرضیِ بیان‌نشده باشد. quite reasonable درجهٔ مثبت ارزیابی را نشان می‌دهد.",
+          "en": "Fair for the quality evaluates price relative to quality, not necessarily absolute cheapness. Considering the quality foregrounds the basis of judgment. I would say softens the assessment rather than requiring an unstated hypothetical condition. Quite reasonable gives a positive degree of evaluation."
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        },
+        "takeaway": {
+          "fa": "reasonable را با cheapest و would say را با قطعیت مطلق یکی نکن.",
+          "en": "Do not equate reasonable with cheapest or would say with absolute certainty."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ارزش خرید و داوری سنجیده",
+              "en": "Value and a hedged judgment"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "fair for the quality we received"
+                },
+                {
+                  "text": "evaluation + for + standard"
+                },
+                {
+                  "fa": "منصفانه نسبت به کیفیت دریافتی",
+                  "en": "Value relative to quality"
+                }
+              ],
+              [
+                {
+                  "text": "considering the quality, I would say"
+                },
+                {
+                  "text": "framing phrase + hedge"
+                },
+                {
+                  "fa": "با توجه به کیفیت، به نظرم",
+                  "en": "Frames and softens the judgment"
+                }
+              ],
+              [
+                {
+                  "text": "quite reasonable"
+                },
+                {
+                  "text": "degree adverb + adjective"
+                },
+                {
+                  "fa": "تا حد خوبی معقول",
+                  "en": "Positive but measured evaluation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "return-plan-not-booking",
+        "title": {
+          "fa": "پیشنهاد بازگشت، نه رزرو قطعی",
+          "en": "A return suggestion, not a confirmed booking"
+        },
+        "explanation": {
+          "fa": "should go back پیشنهاد است؛ sometime زمان نامشخص می‌دهد. maybe next month احتمال را محدودتر می‌کند اما تاریخ قطعی یا رزرو نمی‌سازد. I would like that پذیرشِ مثبتِ ایده و make a note of it ثبت یا به‌خاطر‌سپردن برنامه است.",
+          "en": "Should go back is a suggestion; sometime leaves timing open. Maybe next month narrows a possibility without confirming a date or reservation. I would like that welcomes the idea, and make a note of it means record or remember the plan."
+        },
+        "example": {
+          "text": "I would like that, maybe next month for a special occasion.",
+          "translation": {
+            "fa": "دوست دارم؛ شاید ماه آینده برای یک مناسبت خاص.",
+            "en": "I would like that, maybe next month for a special occasion."
+          }
+        },
+        "takeaway": {
+          "fa": "پیشنهادِ ماه بعد هنوز رزرو انجام‌شده نیست.",
+          "en": "A possible return next month is not a completed reservation."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد بازگشت، نه رزرو قطعی",
+              "en": "A return suggestion, not a confirmed booking"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "go back there for another dinner sometime"
+                },
+                {
+                  "text": "suggestion + indefinite time"
+                },
+                {
+                  "fa": "یک وقت دیگر برای شام برگردیم",
+                  "en": "An open-ended suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "maybe next month for a special occasion"
+                },
+                {
+                  "text": "maybe + possible time"
+                },
+                {
+                  "fa": "شاید ماه آینده برای مناسبت خاص",
+                  "en": "Tentative timing"
+                }
+              ],
+              [
+                {
+                  "text": "make a note of it"
+                },
+                {
+                  "text": "fixed expression"
+                },
+                {
+                  "fa": "یادداشتش کنیم",
+                  "en": "Record or remember the idea"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "few-and-both",
+        "title": {
+          "fa": "کم‌بودن و جفت‌بودن مزیت‌ها",
+          "en": "Rarity and paired strengths"
+        },
+        "explanation": {
+          "fa": "few restaurants تعداد کم را برجسته می‌کند؛ a few بیشتر بر وجود چند مورد تأکید می‌کرد. both taste and service دو مزیت را یکجا می‌خواهد. It deserves it دو مرجع متفاوت دارد: رستوران شایستهٔ توصیه است؛ it دوم همان توصیهٔ جملهٔ قبل است.",
+          "en": "Few restaurants emphasizes scarcity; a few would foreground the existence of some. Both taste and service coordinates two strengths. It deserves it has different references: the restaurant deserves the recommendation mentioned in the preceding turn."
+        },
+        "example": {
+          "text": "It deserves it, few restaurants offer both taste and service like that.",
+          "translation": {
+            "fa": "شایسته‌اش است؛ رستوران‌های کمی هم طعم و هم خدماتی مثل آن ارائه می‌کنند.",
+            "en": "It deserves it, few restaurants offer both taste and service like that."
+          }
+        },
+        "takeaway": {
+          "fa": "few با a few هم‌لحن نیست؛ هر it را جدا حل کن.",
+          "en": "Few and a few differ in emphasis; resolve each it separately."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کم‌بودن و جفت‌بودن مزیت‌ها",
+              "en": "Rarity and paired strengths"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "It deserves it"
+                },
+                {
+                  "text": "subject pronoun + verb + object pronoun"
+                },
+                {
+                  "fa": "رستوران شایستهٔ توصیه است",
+                  "en": "Two different pronoun references"
+                }
+              ],
+              [
+                {
+                  "text": "few restaurants offer both taste and service like that"
+                },
+                {
+                  "text": "few + plural; both X and Y"
+                },
+                {
+                  "fa": "رستوران‌های کمی هر دو مزیت را دارند",
+                  "en": "Scarcity of the combined qualities"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "so-do-i-and-memory",
+        "title": {
+          "fa": "همراهی با وارونگی و معنی sign",
+          "en": "Agreement by inversion and the meaning of sign"
+        },
+        "explanation": {
+          "fa": "So do I با جابه‌جایی do و I موافقت با I still remember ... را می‌رساند؛ به معنی «پس من انجام می‌دهم» نیست. sign اینجا نشانهٔ یک غذای خوب است، نه امضای سند. یادآوری طعم داوری شخصیت‌هاست و معیار علمی کیفیت همهٔ غذاها معرفی نشده است.",
+          "en": "So do I uses inversion to echo I still remember ...; it does not mean therefore I perform an action. Sign means an indication, not a signature. Remembered taste is the speakers’ evaluative criterion, not a scientific universal measure."
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        },
+        "takeaway": {
+          "fa": "So + فعل کمکی + فاعل برای «من هم همین‌طور».",
+          "en": "So + auxiliary + subject expresses shared positive experience."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "همراهی با وارونگی و معنی sign",
+              "en": "Agreement by inversion and the meaning of sign"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "So do I"
+                },
+                {
+                  "text": "So + do + subject"
+                },
+                {
+                  "fa": "من هم به یاد دارم",
+                  "en": "Echoes the preceding present-simple statement"
+                }
+              ],
+              [
+                {
+                  "text": "the sign of a truly good meal"
+                },
+                {
+                  "text": "sign of + evaluation"
+                },
+                {
+                  "fa": "نشانهٔ غذایی واقعاً خوب",
+                  "en": "An evaluative indication"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "most",
+        "text": "What did you like most",
+        "pronunciation": {
+          "faReading": "وات دید یو لایک مُوست",
+          "ipa": "/wʌt dɪd ju laɪk moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشتر از چه خوشت آمد؟",
+          "en": "What did you enjoy the most?"
+        },
+        "context": {
+          "fa": "پرسش برای مشخص‌کردن جزء یا ترکیب محبوب است.",
+          "en": "Asks which component or combination was most enjoyed."
+        },
+        "example": {
+          "text": "What did you like most, the meat itself or the side dishes?",
+          "translation": {
+            "fa": "بیشتر از کدام خوشت آمد، خود گوشت یا مخلفات؟",
+            "en": "What did you like most, the meat itself or the side dishes?"
+          }
+        }
+      },
+      {
+        "id": "service",
+        "text": "attentive without being intrusive",
+        "pronunciation": {
+          "faReading": "اِتِنتیو ویذاوت بی‌اینگ اینتْروسیو",
+          "ipa": "/əˈtɛntɪv wɪˈðaʊt ˈbiɪŋ ɪnˈtrusɪv/"
+        },
+        "meaning": {
+          "fa": "با‌توجه بدون مزاحمت",
+          "en": "Considerate without unwanted interference"
+        },
+        "context": {
+          "fa": "تعادل مطلوب در شیوهٔ سرویس‌دهی است.",
+          "en": "A desirable balance in service style."
+        },
+        "example": {
+          "text": "The service was good too, the waiter was attentive without being intrusive.",
+          "translation": {
+            "fa": "خدمات هم خوب بود؛ پیشخدمت حواسش به ما بود، بدون اینکه مزاحم باشد.",
+            "en": "The service was good too, the waiter was attentive without being intrusive."
+          }
+        }
+      },
+      {
+        "id": "quality",
+        "text": "considering the quality",
+        "pronunciation": {
+          "faReading": "کِنسیدِرینگ ذِ کْوالِتی",
+          "ipa": "/kənˈsɪdɚɪŋ ðə ˈkwɑləti/"
+        },
+        "meaning": {
+          "fa": "با درنظرگرفتن کیفیت",
+          "en": "Taking the quality into account"
+        },
+        "context": {
+          "fa": "مبنای قضاوت دربارهٔ قیمت است.",
+          "en": "Frames the price judgment."
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "hedge",
+        "text": "I would say",
+        "pronunciation": {
+          "faReading": "آی وود سِی",
+          "ipa": "/aɪ wʊd seɪ/"
+        },
+        "meaning": {
+          "fa": "به نظرم؛ می‌توان گفت",
+          "en": "I would say"
+        },
+        "context": {
+          "fa": "لحن ارزیابی را نرم می‌کند؛ شرط فرضی لازم ندارد.",
+          "en": "Softens the evaluation without requiring a hypothetical condition."
+        },
+        "example": {
+          "text": "Yes, considering the quality, I would say it was quite reasonable.",
+          "translation": {
+            "fa": "بله، با درنظرگرفتن کیفیت، می‌گویم کاملاً معقول بود.",
+            "en": "Yes, considering the quality, I would say it was quite reasonable."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "make a note of it",
+        "pronunciation": {
+          "faReading": "مِیک اِ نُوت آو ایت",
+          "ipa": "/meɪk ə noʊt əv ɪt/"
+        },
+        "meaning": {
+          "fa": "یادداشتش کنیم؛ به خاطر بسپاریم",
+          "en": "Record or remember the plan"
+        },
+        "context": {
+          "fa": "برنامهٔ بازگشت هنوز تاریخ قطعی ندارد.",
+          "en": "The return idea has no confirmed date."
+        },
+        "example": {
+          "text": "Let us make a note of it, and I will recommend it to my friends too.",
+          "translation": {
+            "fa": "بیا یادداشتش کنیم؛ به دوستانم هم توصیه‌اش می‌کنم.",
+            "en": "Let us make a note of it, and I will recommend it to my friends too."
+          }
+        }
+      },
+      {
+        "id": "echo",
+        "text": "So do I",
+        "pronunciation": {
+          "faReading": "سُو دو آی",
+          "ipa": "/soʊ du aɪ/"
+        },
+        "meaning": {
+          "fa": "من هم همین‌طور",
+          "en": "I do too"
+        },
+        "context": {
+          "fa": "در اینجا یعنی من هم طعم استیک را به یاد دارم.",
+          "en": "Here it echoes remembering the steak’s taste."
+        },
+        "example": {
+          "text": "So do I, and that is the sign of a truly good meal.",
+          "translation": {
+            "fa": "من هم همین‌طور؛ این نشانهٔ یک غذای واقعاً خوب است.",
+            "en": "So do I, and that is the sign of a truly good meal."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "معیارهای اصلی ارزیابی آن‌ها چیست؟",
+          "en": "What are their main evaluation criteria?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط اندازهٔ رستوران و جای پارک",
+              "en": "Only the restaurant’s size and parking"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط قیمت بدون توجه به کیفیت",
+              "en": "Only price without considering quality"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "طعم و ترکیب غذا، خدمات و ارزش نسبت به قیمت",
+              "en": "Food quality and combination, service and value for the price"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "غذا، دسر، رفتار پیشخدمت و قیمت نسبت به کیفیت همگی بررسی می‌شوند.",
+          "en": "They assess the food, dessert, waiter’s manner and price relative to quality."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t04",
+          "t05",
+          "t06",
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "combination",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان در پاسخ به گوشت یا مخلفات چه چیزی را می‌پسندد؟",
+          "en": "What does Arman prefer when asked about meat or side dishes?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ترکیبشان، با برنج و سبزیجات گریل‌شده",
+              "en": "Their combination, with rice and grilled vegetables"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط خود گوشت، بدون مخلفات",
+              "en": "Only the meat, without accompaniments"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط دسر، نه غذای اصلی",
+              "en": "Only dessert, not the main course"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پاسخ او The combination است و سپس اجزای همراه را توضیح می‌دهد.",
+          "en": "He answers The combination and then explains the accompaniments."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t04"
+        ]
+      },
+      {
+        "id": "service",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیشخدمت چگونه توصیف می‌شود؟",
+          "en": "How is the waiter described?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دور و بی‌توجه",
+              "en": "Distant and inattentive"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "با‌توجه بدون مزاحمت",
+              "en": "Attentive without being intrusive"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دخالت‌کننده و بی‌ادب",
+              "en": "Intrusive and rude"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "without being intrusive مرز توجه خوب و مزاحمت را مشخص می‌کند.",
+          "en": "Without being intrusive distinguishes considerate attention from interference."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "price",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "قیمت را نسبت به چه چیزی منصفانه می‌دانند؟",
+          "en": "Relative to what do they judge the price fair?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قیمت ارزان‌ترین رستوران شهر",
+              "en": "The cheapest restaurant in the city"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تخفیف وعدهٔ بعدی",
+              "en": "A discount on the next meal"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کیفیت دریافت‌شده",
+              "en": "The quality received"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "fair for the quality و considering the quality معیار را کیفیت می‌گذارند، نه کمترین قیمت شهر.",
+          "en": "Fair for the quality and considering the quality set quality as the basis, not the city’s lowest price."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "plan-certainty",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برنامهٔ بازگشت چقدر قطعی است؟",
+          "en": "How definite is their return plan?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پیشنهادی مثبت با احتمال ماه آینده، بدون رزرو قطعی",
+              "en": "A welcomed suggestion, possibly next month, without a confirmed booking"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رزرو نهایی برای فرداشب انجام شده است",
+              "en": "A final booking for tomorrow night has been made"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آن‌ها هرگونه بازگشت را رد می‌کنند",
+              "en": "They rule out any return"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "sometime و maybe next month زمان را باز می‌گذارند؛ رزروی گزارش نمی‌شود.",
+          "en": "Sometime and maybe next month leave timing open; no reservation is reported."
+        },
+        "evidenceTurnIds": [
+          "t09",
+          "t10",
+          "t11"
+        ]
+      },
+      {
+        "id": "echo",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "So do I در پایان به چه اشاره دارد؟",
+          "en": "What does So do I echo at the end?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آرمان هم می‌خواهد همین حالا سفارش بدهد",
+              "en": "Arman also wants to order immediately"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آرمان هم طعم استیک را به یاد دارد",
+              "en": "Arman also remembers the steak’s taste"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آرمان هم فقط دسر را پسندیده است",
+              "en": "Arman also liked only the dessert"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پاسخ به I still remember the taste ... است، نه به برنامهٔ سفارش تازه.",
+          "en": "It answers I still remember the taste ..., not a new order plan."
+        },
+        "evidenceTurnIds": [
+          "t13",
+          "t14"
+        ]
+      }
+    ]
+  }
+}

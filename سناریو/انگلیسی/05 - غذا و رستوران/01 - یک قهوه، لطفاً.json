@@ -1,0 +1,2485 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s01",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "یک قهوه، لطفاً",
+    "en": "A Coffee, Please"
+  },
+  "objective": {
+    "fa": "سفارش قهوه با شیر دلخواه، درخواست صورت‌حساب و گفتن محدودیت زمان.",
+    "en": "Order coffee with a milk preference, request the bill and state a time constraint."
+  },
+  "speakers": [
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "gender": "man"
+    },
+    {
+      "id": "customer",
+      "name": "Customer",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "waiter",
+      "text": "Good morning, what would you like to drink?",
+      "translation": {
+        "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+        "en": "Good morning, what would you like to drink?"
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "drink?",
+          "gloss": {
+            "fa": "بنوشید",
+            "en": "drink; consume a beverage, a verb"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "customer",
+      "text": "A cup of coffee, please, with milk and no sugar.",
+      "translation": {
+        "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+        "en": "A cup of coffee, please, with milk and no sugar."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "در «A cup of coffee»: یک فنجان قهوه",
+            "en": "In “A cup of coffee”: one serving of coffee in a cup"
+          }
+        },
+        {
+          "surface": "cup",
+          "gloss": {
+            "fa": "در «A cup of coffee»: یک فنجان قهوه",
+            "en": "In “A cup of coffee”: one serving of coffee in a cup"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «A cup of coffee»: یک فنجان قهوه",
+            "en": "In “A cup of coffee”: one serving of coffee in a cup"
+          }
+        },
+        {
+          "surface": "coffee,",
+          "gloss": {
+            "fa": "در «A cup of coffee»: یک فنجان قهوه",
+            "en": "In “A cup of coffee”: one serving of coffee in a cup"
+          }
+        },
+        {
+          "surface": "please,",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "milk",
+          "gloss": {
+            "fa": "شیر",
+            "en": "milk; a dairy drink"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "no",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "sugar.",
+          "gloss": {
+            "fa": "شکر",
+            "en": "sugar; a sweetener"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "waiter",
+      "text": "Of course, would you like it with hot milk or cold milk?",
+      "translation": {
+        "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+        "en": "Of course, would you like it with hot milk or cold milk?"
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "hot",
+          "gloss": {
+            "fa": "داغ",
+            "en": "hot; high in temperature"
+          }
+        },
+        {
+          "surface": "milk",
+          "gloss": {
+            "fa": "شیر",
+            "en": "milk; a dairy drink"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "cold",
+          "gloss": {
+            "fa": "سرد",
+            "en": "cold; not warm"
+          }
+        },
+        {
+          "surface": "milk?",
+          "gloss": {
+            "fa": "شیر",
+            "en": "milk; a dairy drink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "customer",
+      "text": "Hot milk, and could you bring the bill with the coffee?",
+      "translation": {
+        "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+        "en": "Hot milk, and could you bring the bill with the coffee?"
+      },
+      "tokens": [
+        {
+          "surface": "Hot",
+          "gloss": {
+            "fa": "داغ",
+            "en": "hot; high in temperature"
+          }
+        },
+        {
+          "surface": "milk,",
+          "gloss": {
+            "fa": "شیر",
+            "en": "milk; a dairy drink"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "در «could you bring»: می‌شود بیاورید؟",
+            "en": "In “could you bring”: politely asks the waiter to bring something"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «could you bring»: می‌شود بیاورید؟",
+            "en": "In “could you bring”: politely asks the waiter to bring something"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "در «could you bring»: می‌شود بیاورید؟",
+            "en": "In “could you bring”: politely asks the waiter to bring something"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bill",
+          "gloss": {
+            "fa": "صورت‌حساب",
+            "en": "bill; an itemized request for payment"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "coffee?",
+          "gloss": {
+            "fa": "قهوه",
+            "en": "coffee; a hot drink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "waiter",
+      "text": "Certainly, the coffee will be ready in just a moment.",
+      "translation": {
+        "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+        "en": "Certainly, the coffee will be ready in just a moment."
+      },
+      "tokens": [
+        {
+          "surface": "Certainly,",
+          "gloss": {
+            "fa": "حتماً؛ البته",
+            "en": "certainly; a confident affirmative response"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "coffee",
+          "gloss": {
+            "fa": "قهوه",
+            "en": "coffee; a hot drink"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+            "en": "In “in just a moment”: after a very short wait"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "فقط؛ برای کوتاه‌بودن انتظار",
+            "en": "just; emphasizes how short the wait will be"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+            "en": "In “in just a moment”: after a very short wait"
+          }
+        },
+        {
+          "surface": "moment.",
+          "gloss": {
+            "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+            "en": "In “in just a moment”: after a very short wait"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "customer",
+      "text": "Thank you, I have to leave in about ten minutes.",
+      "translation": {
+        "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+        "en": "Thank you, I have to leave in about ten minutes."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have to»: باید؛ لازم است",
+            "en": "In “have to”: must; need to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «have to»: باید؛ لازم است",
+            "en": "In “have to”: must; need to"
+          }
+        },
+        {
+          "surface": "leave",
+          "gloss": {
+            "fa": "رفتن؛ ترک کردن",
+            "en": "leave; depart"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "تا ... دیگر؛ برای زمان آینده",
+            "en": "in; after the stated amount of time"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "حدود؛ تقریباً",
+            "en": "about; approximately"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "minutes.",
+          "gloss": {
+            "fa": "دقیقه",
+            "en": "minutes; units of sixty seconds"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "waiter",
+      "text": "No problem, I will bring everything together.",
+      "translation": {
+        "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+        "en": "No problem, I will bring everything together."
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "در «No problem»: مشکلی نیست",
+            "en": "In “No problem”: willingly agrees to the request"
+          }
+        },
+        {
+          "surface": "problem,",
+          "gloss": {
+            "fa": "در «No problem»: مشکلی نیست",
+            "en": "In “No problem”: willingly agrees to the request"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "آوردن",
+            "en": "bring; carry something to the listener"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "customer",
+      "text": "That is perfect, thank you for your help.",
+      "translation": {
+        "fa": "عالی است، بابت کمکتان ممنون.",
+        "en": "That is perfect, thank you for your help."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "perfect,",
+          "gloss": {
+            "fa": "عالی؛ کاملاً مناسب",
+            "en": "perfect; exactly suitable"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "بابت؛ به‌خاطرِ",
+            "en": "for; gives the reason for thanks"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "help.",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "Good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "drink",
+        "text": "drink",
+        "pronunciation": {
+          "faReading": "دْرینک",
+          "ipa": "/drɪŋk/"
+        },
+        "meaning": {
+          "fa": "بنوشید",
+          "en": "drink; consume a beverage, a verb"
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "A",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «A cup of coffee»: یک فنجان قهوه",
+          "en": "In “A cup of coffee”: one serving of coffee in a cup"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "cup",
+        "text": "cup",
+        "pronunciation": {
+          "faReading": "کَپ",
+          "ipa": "/kʌp/"
+        },
+        "meaning": {
+          "fa": "در «A cup of coffee»: یک فنجان قهوه",
+          "en": "In “A cup of coffee”: one serving of coffee in a cup"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «A cup of coffee»: یک فنجان قهوه",
+          "en": "In “A cup of coffee”: one serving of coffee in a cup"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "coffee",
+        "text": "coffee",
+        "pronunciation": {
+          "faReading": "کافی",
+          "ipa": "/ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "در «A cup of coffee»: یک فنجان قهوه",
+          "en": "In “A cup of coffee”: one serving of coffee in a cup"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "milk",
+        "text": "milk",
+        "pronunciation": {
+          "faReading": "میلک",
+          "ipa": "/mɪlk/"
+        },
+        "meaning": {
+          "fa": "شیر",
+          "en": "milk; a dairy drink"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "sugar",
+        "text": "sugar",
+        "pronunciation": {
+          "faReading": "شوگِر",
+          "ipa": "/ˈʃʊɡɚ/"
+        },
+        "meaning": {
+          "fa": "شکر",
+          "en": "sugar; a sweetener"
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "hot",
+        "text": "hot",
+        "pronunciation": {
+          "faReading": "هات",
+          "ipa": "/hɑt/"
+        },
+        "meaning": {
+          "fa": "داغ",
+          "en": "hot; high in temperature"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "cold",
+        "text": "cold",
+        "pronunciation": {
+          "faReading": "کُولد",
+          "ipa": "/koʊld/"
+        },
+        "meaning": {
+          "fa": "سرد",
+          "en": "cold; not warm"
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "در «could you bring»: می‌شود بیاورید؟",
+          "en": "In “could you bring”: politely asks the waiter to bring something"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «could you bring»: می‌شود بیاورید؟",
+          "en": "In “could you bring”: politely asks the waiter to bring something"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «could you bring»: می‌شود بیاورید؟",
+          "en": "In “could you bring”: politely asks the waiter to bring something"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "bill",
+        "text": "bill",
+        "pronunciation": {
+          "faReading": "بیل",
+          "ipa": "/bɪl/"
+        },
+        "meaning": {
+          "fa": "صورت‌حساب",
+          "en": "bill; an itemized request for payment"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "coffee-2",
+        "text": "coffee",
+        "pronunciation": {
+          "faReading": "کافی",
+          "ipa": "/ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "قهوه",
+          "en": "coffee; a hot drink"
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "certainly",
+        "text": "Certainly",
+        "pronunciation": {
+          "faReading": "سِرتِنلی",
+          "ipa": "/ˈsɝtənli/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ البته",
+          "en": "certainly; a confident affirmative response"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+          "en": "In “in just a moment”: after a very short wait"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "فقط؛ برای کوتاه‌بودن انتظار",
+          "en": "just; emphasizes how short the wait will be"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+          "en": "In “in just a moment”: after a very short wait"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "moment",
+        "text": "moment",
+        "pronunciation": {
+          "faReading": "مُومِنت",
+          "ipa": "/ˈmoʊmənt/"
+        },
+        "meaning": {
+          "fa": "در «in just a moment»: تا چند لحظهٔ دیگر",
+          "en": "In “in just a moment”: after a very short wait"
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have to»: باید؛ لازم است",
+          "en": "In “have to”: must; need to"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «have to»: باید؛ لازم است",
+          "en": "In “have to”: must; need to"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "leave",
+        "text": "leave",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/liv/"
+        },
+        "meaning": {
+          "fa": "رفتن؛ ترک کردن",
+          "en": "leave; depart"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "in-2",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "تا ... دیگر؛ برای زمان آینده",
+          "en": "in; after the stated amount of time"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "حدود؛ تقریباً",
+          "en": "about; approximately"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "دقیقه",
+          "en": "minutes; units of sixty seconds"
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      },
+      {
+        "id": "no-2",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "در «No problem»: مشکلی نیست",
+          "en": "In “No problem”: willingly agrees to the request"
+        },
+        "example": {
+          "text": "No problem, I will bring everything together.",
+          "translation": {
+            "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+            "en": "No problem, I will bring everything together."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "در «No problem»: مشکلی نیست",
+          "en": "In “No problem”: willingly agrees to the request"
+        },
+        "example": {
+          "text": "No problem, I will bring everything together.",
+          "translation": {
+            "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+            "en": "No problem, I will bring everything together."
+          }
+        }
+      },
+      {
+        "id": "bring-2",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "آوردن",
+          "en": "bring; carry something to the listener"
+        },
+        "example": {
+          "text": "No problem, I will bring everything together.",
+          "translation": {
+            "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+            "en": "No problem, I will bring everything together."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "No problem, I will bring everything together.",
+          "translation": {
+            "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+            "en": "No problem, I will bring everything together."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "No problem, I will bring everything together.",
+          "translation": {
+            "fa": "مشکلی نیست، همه‌چیز را با هم می‌آورم.",
+            "en": "No problem, I will bring everything together."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly suitable"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "بابت؛ به‌خاطرِ",
+          "en": "for; gives the reason for thanks"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است، بابت کمکتان ممنون.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "polite-drink-choice",
+        "title": {
+          "fa": "میل دارید چه بنوشید؟",
+          "en": "What would you like to drink?"
+        },
+        "explanation": {
+          "fa": "what would you like to drink? سؤال مؤدبانه دربارهٔ نوشیدنی است. would you like ...? را به شکل یک الگوی آماده یاد بگیر. برای پاسخ لازم نیست جملهٔ بلند بگویی: A cup of coffee, please کافی است.",
+          "en": "What would you like to drink? politely asks for a drink choice. Learn would you like ...? as a useful pattern. A short answer such as A cup of coffee, please is enough."
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        },
+        "takeaway": {
+          "fa": "با would you like مؤدبانه انتخاب را بپرس.",
+          "en": "Use would you like to ask for a choice politely."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "میل دارید چه بنوشید؟",
+              "en": "What would you like to drink?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what would you like to drink"
+                },
+                {
+                  "text": "What would you like to + action?"
+                },
+                {
+                  "fa": "میل دارید چه بنوشید؟",
+                  "en": "Asks for a drink choice"
+                }
+              ],
+              [
+                {
+                  "text": "A cup of coffee, please"
+                },
+                {
+                  "text": "item + please"
+                },
+                {
+                  "fa": "یک فنجان قهوه لطفاً",
+                  "en": "A short polite order"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "with-and-no",
+        "title": {
+          "fa": "با شیر و بدون شکر",
+          "en": "With milk and no sugar"
+        },
+        "explanation": {
+          "fa": "with milk چیزی را به سفارش اضافه می‌کند؛ no sugar شکر را حذف می‌کند. hot و cold دو دمای شیر هستند و or بین دو انتخاب می‌آید. مشتری hot milk را انتخاب می‌کند.",
+          "en": "With milk adds something to the coffee; no sugar leaves sugar out. Hot and cold describe milk temperature. Or offers a choice between them; the customer chooses hot milk."
+        },
+        "example": {
+          "text": "Of course, would you like it with hot milk or cold milk?",
+          "translation": {
+            "fa": "حتماً، با شیر داغ میل دارید یا شیر سرد؟",
+            "en": "Of course, would you like it with hot milk or cold milk?"
+          }
+        },
+        "takeaway": {
+          "fa": "with برای افزودن؛ no برای نخواستن چیزی در سفارش.",
+          "en": "Use with to add something and no to leave something out of an order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "با شیر و بدون شکر",
+              "en": "With milk and no sugar"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "with milk and no sugar"
+                },
+                {
+                  "text": "with + addition; no + unwanted item"
+                },
+                {
+                  "fa": "با شیر و بدون شکر",
+                  "en": "Two preferences in one order"
+                }
+              ],
+              [
+                {
+                  "text": "hot milk or cold milk"
+                },
+                {
+                  "text": "choice + or + choice"
+                },
+                {
+                  "fa": "شیر داغ یا سرد",
+                  "en": "Asks about temperature"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "request-bill-together",
+        "title": {
+          "fa": "درخواست صورت‌حساب همراه قهوه",
+          "en": "Requesting the bill with the coffee"
+        },
+        "explanation": {
+          "fa": "Could you bring ...? درخواست مؤدبانه است. with the coffee یعنی صورت‌حساب همراه قهوه بیاید. everything together در پاسخ پیشخدمت همین درخواست را می‌پذیرد؛ قرار نیست اول قهوه و بعداً صورت‌حساب بیاید.",
+          "en": "Could you bring ...? is a polite request. With the coffee asks for the bill to arrive at the same time. Everything together accepts that request, rather than promising separate deliveries."
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        },
+        "takeaway": {
+          "fa": "Could you bring ...? برای درخواست آوردن چیزی.",
+          "en": "Use Could you bring ...? to request an item."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست صورت‌حساب همراه قهوه",
+              "en": "Requesting the bill with the coffee"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "could you bring the bill with the coffee"
+                },
+                {
+                  "text": "Could you bring + item + with + item?"
+                },
+                {
+                  "fa": "صورت‌حساب را همراه قهوه می‌آورید؟",
+                  "en": "A polite request for joint delivery"
+                }
+              ],
+              [
+                {
+                  "text": "I will bring everything together"
+                },
+                {
+                  "text": "will + action + together"
+                },
+                {
+                  "fa": "همه‌چیز را با هم می‌آورم",
+                  "en": "The waiter agrees"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "future-wait",
+        "title": {
+          "fa": "تا چند دقیقهٔ دیگر",
+          "en": "After a short wait"
+        },
+        "explanation": {
+          "fa": "will be ready می‌گوید سفارش در آینده آماده می‌شود. in just a moment یعنی تا چند لحظهٔ دیگر؛ in about ten minutes یعنی حدود ده دقیقهٔ دیگر. این‌ها مدت تا یک رویدادند، نه ساعت روی ساعت دیواری.",
+          "en": "Will be ready says the order will become ready. In just a moment means after a very short wait; in about ten minutes means roughly ten minutes from now. Neither gives a clock time."
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        },
+        "takeaway": {
+          "fa": "in + مدت می‌تواند یعنی تا آن مدت دیگر.",
+          "en": "In + a time period can mean that long from now."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تا چند دقیقهٔ دیگر",
+              "en": "After a short wait"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "will be ready in just a moment"
+                },
+                {
+                  "text": "will be ready + in + short period"
+                },
+                {
+                  "fa": "تا چند لحظهٔ دیگر آماده است",
+                  "en": "A short wait for coffee"
+                }
+              ],
+              [
+                {
+                  "text": "in about ten minutes"
+                },
+                {
+                  "text": "in about + duration"
+                },
+                {
+                  "fa": "حدود ده دقیقهٔ دیگر",
+                  "en": "Time until the customer must leave"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "need-and-thanks",
+        "title": {
+          "fa": "باید بروم؛ ممنون از کمک",
+          "en": "Needing to leave and giving thanks"
+        },
+        "explanation": {
+          "fa": "I have to leave یعنی باید بروم؛ have to اینجا داشتنِ چیزی نیست. Thank you for your help تشکر بابت کمک است. No problem پاسخ دوستانه به درخواست مشتری است، نه گفتن اینکه او هیچ مشکلی در زندگی ندارد.",
+          "en": "I have to leave means I need to depart; have to is not possession here. Thank you for your help thanks someone for assistance. No problem willingly accepts the request, rather than making a claim about every problem in life."
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        },
+        "takeaway": {
+          "fa": "have to + کار یعنی لازم است آن کار را انجام بدهم.",
+          "en": "Have to + an action says the action is necessary."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "باید بروم؛ ممنون از کمک",
+              "en": "Needing to leave and giving thanks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have to leave"
+                },
+                {
+                  "text": "have to + action"
+                },
+                {
+                  "fa": "باید بروم",
+                  "en": "A time constraint"
+                }
+              ],
+              [
+                {
+                  "text": "thank you for your help"
+                },
+                {
+                  "text": "thank you for + thing"
+                },
+                {
+                  "fa": "بابت کمکتان ممنون",
+                  "en": "Thanks for assistance"
+                }
+              ],
+              [
+                {
+                  "text": "No problem"
+                },
+                {
+                  "text": "No problem"
+                },
+                {
+                  "fa": "مشکلی نیست",
+                  "en": "Willing agreement"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "drink-choice",
+        "text": "what would you like to drink",
+        "pronunciation": {
+          "faReading": "وات وود یو لایک تو دْرینک",
+          "ipa": "/wʌt wʊd ju laɪk tə drɪŋk/"
+        },
+        "meaning": {
+          "fa": "میل دارید چه بنوشید؟",
+          "en": "What would you like to drink?"
+        },
+        "context": {
+          "fa": "پیشخدمت انتخاب نوشیدنی را مؤدبانه می‌پرسد.",
+          "en": "The waiter politely asks for a drink choice."
+        },
+        "example": {
+          "text": "Good morning, what would you like to drink?",
+          "translation": {
+            "fa": "صبح بخیر، میل دارید چه بنوشید؟",
+            "en": "Good morning, what would you like to drink?"
+          }
+        }
+      },
+      {
+        "id": "coffee",
+        "text": "A cup of coffee",
+        "pronunciation": {
+          "faReading": "اِ کاپ آو کافی",
+          "ipa": "/ə kʌp əv ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "یک فنجان قهوه",
+          "en": "One cup of coffee"
+        },
+        "context": {
+          "fa": "اندازهٔ سرو نوشیدنی است.",
+          "en": "The drink serving requested."
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "preferences",
+        "text": "with milk and no sugar",
+        "pronunciation": {
+          "faReading": "ویذ میلک اَند نُو شوگِر",
+          "ipa": "/wɪð mɪlk ən noʊ ˈʃʊɡɚ/"
+        },
+        "meaning": {
+          "fa": "با شیر و بدون شکر",
+          "en": "With milk and without sugar"
+        },
+        "context": {
+          "fa": "دو ترجیح مشتری را هم‌زمان می‌گوید.",
+          "en": "States two customer preferences together."
+        },
+        "example": {
+          "text": "A cup of coffee, please, with milk and no sugar.",
+          "translation": {
+            "fa": "یک فنجان قهوه لطفاً، با شیر و بدون شکر.",
+            "en": "A cup of coffee, please, with milk and no sugar."
+          }
+        }
+      },
+      {
+        "id": "bill",
+        "text": "bring the bill with the coffee",
+        "pronunciation": {
+          "faReading": "بْرینگ ذِ بیل ویذ ذِ کافی",
+          "ipa": "/brɪŋ ðə bɪl wɪð ðə ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "صورت‌حساب را همراه قهوه بیاورید",
+          "en": "Bring the bill together with the coffee"
+        },
+        "context": {
+          "fa": "درخواست تحویل هم‌زمان است.",
+          "en": "Requests both items at the same time."
+        },
+        "example": {
+          "text": "Hot milk, and could you bring the bill with the coffee?",
+          "translation": {
+            "fa": "شیر داغ؛ می‌شود صورت‌حساب را هم همراه قهوه بیاورید؟",
+            "en": "Hot milk, and could you bring the bill with the coffee?"
+          }
+        }
+      },
+      {
+        "id": "short-wait",
+        "text": "in just a moment",
+        "pronunciation": {
+          "faReading": "این جاست اِ مُومِنت",
+          "ipa": "/ɪn dʒʌst ə ˈmoʊmənt/"
+        },
+        "meaning": {
+          "fa": "تا چند لحظهٔ دیگر",
+          "en": "After a very short wait"
+        },
+        "context": {
+          "fa": "زمان تقریبی آماده‌شدن قهوه است.",
+          "en": "A very short readiness estimate."
+        },
+        "example": {
+          "text": "Certainly, the coffee will be ready in just a moment.",
+          "translation": {
+            "fa": "حتماً، قهوه تا چند لحظهٔ دیگر آماده می‌شود.",
+            "en": "Certainly, the coffee will be ready in just a moment."
+          }
+        }
+      },
+      {
+        "id": "leave",
+        "text": "I have to leave",
+        "pronunciation": {
+          "faReading": "آی هَو تو لیو",
+          "ipa": "/aɪ hæf tə liv/"
+        },
+        "meaning": {
+          "fa": "باید بروم",
+          "en": "I need to leave"
+        },
+        "context": {
+          "fa": "محدودیت زمان مشتری را توضیح می‌دهد.",
+          "en": "Explains the customer’s time constraint."
+        },
+        "example": {
+          "text": "Thank you, I have to leave in about ten minutes.",
+          "translation": {
+            "fa": "ممنون، باید حدود ده دقیقهٔ دیگر بروم.",
+            "en": "Thank you, I have to leave in about ten minutes."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشتری چه می‌خواهد؟",
+          "en": "What does the customer want?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قهوه با ترجیح مشخص و صورت‌حساب همراه آن",
+              "en": "Coffee with specified preferences and the bill together"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چای و صبحانه با صورت‌حساب جدا",
+              "en": "Tea and breakfast with a separate bill"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "قهوهٔ سرد و یک لیوان آب",
+              "en": "Cold coffee and a glass of water"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "دربارهٔ قهوه، شیر، شکر و آوردن هم‌زمان حساب صحبت می‌کند.",
+          "en": "The customer specifies coffee, milk, sugar and joint delivery of the bill."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t04"
+        ]
+      },
+      {
+        "id": "milk",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام شیر انتخاب می‌شود؟",
+          "en": "Which milk does the customer choose?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شیر سرد",
+              "en": "Cold milk"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شیر داغ",
+              "en": "Hot milk"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بدون شیر",
+              "en": "No milk"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مشتری به انتخاب hot or cold با Hot milk پاسخ می‌دهد.",
+          "en": "The customer answers the hot-or-cold choice with Hot milk."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t04"
+        ]
+      },
+      {
+        "id": "sugar",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشتری دربارهٔ شکر چه می‌گوید؟",
+          "en": "What does the customer say about sugar?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شکر کم",
+              "en": "A little sugar"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شکر اضافه",
+              "en": "Extra sugar"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بدون شکر",
+              "en": "No sugar"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "no sugar یعنی شکر نمی‌خواهد، نه فقط مقدار کم.",
+          "en": "No sugar means none, not just a small amount."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "bill-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "صورت‌حساب کی خواسته می‌شود؟",
+          "en": "When is the bill requested?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همراه قهوه",
+              "en": "With the coffee"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پس از تمام‌شدن قهوه",
+              "en": "After the coffee is finished"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هنگام سفارش غذای بعدی",
+              "en": "When ordering the next dish"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "with the coffee درخواست هم‌زمان است و پیشخدمت می‌گوید everything together.",
+          "en": "With the coffee requests simultaneous delivery; the waiter agrees with everything together."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t07"
+        ]
+      },
+      {
+        "id": "leave",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشتری حدود چه مدت دیگر باید برود؟",
+          "en": "In about how long must the customer leave?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پنج دقیقه",
+              "en": "Five minutes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده دقیقه",
+              "en": "Ten minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیست دقیقه",
+              "en": "Twenty minutes"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "in about ten minutes زمان تا رفتن را می‌گوید.",
+          "en": "In about ten minutes states the time until departure."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4461 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s11",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "منوی جشن نامزدی",
+    "en": "The Engagement Party Menu"
+  },
+  "objective": {
+    "fa": "برنامه‌ریزی منوی متنوع با توجه به مهمان‌ها، گزینه‌های غذایی و برچسب‌گذاری.",
+    "en": "Plan a varied celebration menu with attention to guests, dietary options and labeling."
+  },
+  "speakers": [
+    {
+      "id": "nigar",
+      "name": "Nigar",
+      "gender": "woman"
+    },
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nigar",
+      "text": "We are planning the menu for the engagement party, it is hard to choose.",
+      "translation": {
+        "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+        "en": "We are planning the menu for the engagement party, it is hard to choose."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "planning",
+          "gloss": {
+            "fa": "برنامه‌ریزی",
+            "en": "planning; deciding what to do"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "menu",
+          "gloss": {
+            "fa": "منو؛ برنامهٔ غذاهای جشن",
+            "en": "menu; the planned selection of food for the party"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "engagement",
+          "gloss": {
+            "fa": "نامزدی",
+            "en": "engagement; an agreement to marry"
+          }
+        },
+        {
+          "surface": "party,",
+          "gloss": {
+            "fa": "مهمانی",
+            "en": "party; a social gathering"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "hard",
+          "gloss": {
+            "fa": "سخت",
+            "en": "hard; difficult"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "choose.",
+          "gloss": {
+            "fa": "انتخاب کردن",
+            "en": "choose; select among options"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "arman",
+      "text": "How many guests are coming, that will help us narrow the choices.",
+      "translation": {
+        "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+        "en": "How many guests are coming, that will help us narrow the choices."
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How many»: چند نفر",
+            "en": "In “How many”: asks for the number of guests"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "در «How many»: چند نفر",
+            "en": "In “How many”: asks for the number of guests"
+          }
+        },
+        {
+          "surface": "guests",
+          "gloss": {
+            "fa": "مهمانان",
+            "en": "guests; invited participants"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "coming,",
+          "gloss": {
+            "fa": "می‌آید؛ در راه است",
+            "en": "coming; being brought or arriving"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "help",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "narrow",
+          "gloss": {
+            "fa": "محدودتر کردن",
+            "en": "narrow; reduce the range of choices"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "choices.",
+          "gloss": {
+            "fa": "انتخاب‌ها",
+            "en": "choices; decisions between possibilities"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nigar",
+      "text": "About fifty guests, so we need a menu that suits everyone.",
+      "translation": {
+        "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+        "en": "About fifty guests, so we need a menu that suits everyone."
+      },
+      "tokens": [
+        {
+          "surface": "About",
+          "gloss": {
+            "fa": "حدود؛ تقریباً",
+            "en": "about; approximately"
+          }
+        },
+        {
+          "surface": "fifty",
+          "gloss": {
+            "fa": "پنجاه",
+            "en": "fifty; 50"
+          }
+        },
+        {
+          "surface": "guests,",
+          "gloss": {
+            "fa": "مهمانان",
+            "en": "guests; invited participants"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to such a degree"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "menu",
+          "gloss": {
+            "fa": "منو؛ فهرست غذا",
+            "en": "menu; a list or planned selection of dishes"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "suits",
+          "gloss": {
+            "fa": "مناسب است برای",
+            "en": "suits; is suitable for"
+          }
+        },
+        {
+          "surface": "everyone.",
+          "gloss": {
+            "fa": "همه؛ همگی",
+            "en": "everyone; all the people"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "arman",
+      "text": "A mixed menu is best, with both meat and vegetarian options.",
+      "translation": {
+        "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+        "en": "A mixed menu is best, with both meat and vegetarian options."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "mixed",
+          "gloss": {
+            "fa": "متنوع؛ ترکیبی",
+            "en": "mixed; including different types"
+          }
+        },
+        {
+          "surface": "menu",
+          "gloss": {
+            "fa": "منو؛ فهرست غذا",
+            "en": "menu; a list or planned selection of dishes"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "best,",
+          "gloss": {
+            "fa": "بهترین؛ مناسب‌ترین",
+            "en": "best; most suitable"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two things together"
+          }
+        },
+        {
+          "surface": "meat",
+          "gloss": {
+            "fa": "گوشت",
+            "en": "meat; animal flesh served as food"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "vegetarian",
+          "gloss": {
+            "fa": "گیاه‌خواری؛ بدون گوشت",
+            "en": "vegetarian; not containing meat"
+          }
+        },
+        {
+          "surface": "options.",
+          "gloss": {
+            "fa": "گزینه‌ها",
+            "en": "options; available choices"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nigar",
+      "text": "For the main course, should we choose rice with meat or a traditional stew?",
+      "translation": {
+        "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+        "en": "For the main course, should we choose rice with meat or a traditional stew?"
+      },
+      "tokens": [
+        {
+          "surface": "For",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "در «main course»: غذای اصلی",
+            "en": "In “main course”: the central dish of the meal"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «main course»: غذای اصلی",
+            "en": "In “main course”: the central dish of the meal"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or an appropriate action"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "choose",
+          "gloss": {
+            "fa": "انتخاب کردن",
+            "en": "choose; select among options"
+          }
+        },
+        {
+          "surface": "rice",
+          "gloss": {
+            "fa": "برنج",
+            "en": "rice; a grain served cooked"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "meat",
+          "gloss": {
+            "fa": "گوشت",
+            "en": "meat; animal flesh served as food"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "traditional",
+          "gloss": {
+            "fa": "سنتی",
+            "en": "traditional; connected with established customs"
+          }
+        },
+        {
+          "surface": "stew?",
+          "gloss": {
+            "fa": "خورش",
+            "en": "stew; food cooked slowly in liquid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "arman",
+      "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+      "translation": {
+        "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+        "en": "Both are good, but a stew feels more festive and richer for such occasions."
+      },
+      "tokens": [
+        {
+          "surface": "Both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two things together"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "good,",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "stew",
+          "gloss": {
+            "fa": "خورش",
+            "en": "stew; food cooked slowly in liquid"
+          }
+        },
+        {
+          "surface": "feels",
+          "gloss": {
+            "fa": "حس می‌شود؛ احساس می‌کند",
+            "en": "feels; gives an impression or has an emotion"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "festive",
+          "gloss": {
+            "fa": "جشنی؛ مناسب جشن",
+            "en": "festive; suited to a celebration"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "richer",
+          "gloss": {
+            "fa": "پُرمایه‌تر؛ دربارهٔ غذا",
+            "en": "richer; fuller or more substantial in flavor, not wealthier"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "such",
+          "gloss": {
+            "fa": "چنین؛ این‌قدر",
+            "en": "such; adds emphasis to a description"
+          }
+        },
+        {
+          "surface": "occasions.",
+          "gloss": {
+            "fa": "مناسبت‌ها",
+            "en": "occasions; special events"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nigar",
+      "text": "Good point, and what about the starters and the dessert?",
+      "translation": {
+        "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+        "en": "Good point, and what about the starters and the dessert?"
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "در «Good point»: نکتهٔ خوبی است",
+            "en": "In “Good point”: acknowledges a useful reason"
+          }
+        },
+        {
+          "surface": "point,",
+          "gloss": {
+            "fa": "در «Good point»: نکتهٔ خوبی است",
+            "en": "In “Good point”: acknowledges a useful reason"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ؛ حدود",
+            "en": "about; concerning, or approximately"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "starters",
+          "gloss": {
+            "fa": "پیش‌غذاها",
+            "en": "starters; dishes served before the main course"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "dessert?",
+          "gloss": {
+            "fa": "دسر",
+            "en": "dessert; sweet food after the main course"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "arman",
+      "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+      "translation": {
+        "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+        "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+      },
+      "tokens": [
+        {
+          "surface": "Starters",
+          "gloss": {
+            "fa": "پیش‌غذاها",
+            "en": "starters; dishes served before the main course"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مانندِ؛ برای مثال",
+            "en": "like; introduces examples of starters"
+          }
+        },
+        {
+          "surface": "salads",
+          "gloss": {
+            "fa": "سالادها",
+            "en": "salads; vegetable or mixed dishes"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "dips,",
+          "gloss": {
+            "fa": "دیپ‌ها؛ سس‌های غلیظ کنار غذا",
+            "en": "dips; thick sauces eaten with other food"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "dessert,",
+          "gloss": {
+            "fa": "دسر",
+            "en": "dessert; sweet food after the main course"
+          }
+        },
+        {
+          "surface": "cake",
+          "gloss": {
+            "fa": "کیک",
+            "en": "cake; a sweet baked dessert"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "fresh",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        },
+        {
+          "surface": "fruit.",
+          "gloss": {
+            "fa": "میوه",
+            "en": "fruit; food such as apples and figs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "nigar",
+      "text": "We also need drinks, what do you suggest for a mixed group?",
+      "translation": {
+        "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+        "en": "We also need drinks, what do you suggest for a mixed group?"
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "drinks,",
+          "gloss": {
+            "fa": "نوشیدنی‌ها",
+            "en": "drinks; beverages"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "suggest",
+          "gloss": {
+            "fa": "پیشنهاد کردن",
+            "en": "suggest; offer an idea"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "mixed",
+          "gloss": {
+            "fa": "متنوع؛ ترکیبی",
+            "en": "mixed; including different types"
+          }
+        },
+        {
+          "surface": "group?",
+          "gloss": {
+            "fa": "گروه",
+            "en": "group; a set of people"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "arman",
+      "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+      "translation": {
+        "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+        "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+      },
+      "tokens": [
+        {
+          "surface": "Soft",
+          "gloss": {
+            "fa": "در «Soft drinks»: نوشیدنی‌های غیرالکلی",
+            "en": "In “Soft drinks”: non-alcoholic drinks such as sodas"
+          }
+        },
+        {
+          "surface": "drinks,",
+          "gloss": {
+            "fa": "در «Soft drinks»: نوشیدنی‌های غیرالکلی",
+            "en": "In “Soft drinks”: non-alcoholic drinks such as sodas"
+          }
+        },
+        {
+          "surface": "tea,",
+          "gloss": {
+            "fa": "چای",
+            "en": "tea; a drink made from tea leaves"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "juice,",
+          "gloss": {
+            "fa": "آب‌میوه",
+            "en": "juice; a fruit drink"
+          }
+        },
+        {
+          "surface": "plus",
+          "gloss": {
+            "fa": "به‌علاوه",
+            "en": "plus; in addition to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "moderate",
+          "gloss": {
+            "fa": "متوسط؛ متعادل",
+            "en": "moderate; neither very high nor excessive"
+          }
+        },
+        {
+          "surface": "amount",
+          "gloss": {
+            "fa": "مقدار؛ دربارهٔ نوشیدنی",
+            "en": "amount; a quantity of drink, not a sum of money"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "alcohol",
+          "gloss": {
+            "fa": "نوشیدنی الکلی",
+            "en": "alcohol; alcoholic drinks"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "those",
+          "gloss": {
+            "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+            "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+          }
+        },
+        {
+          "surface": "who",
+          "gloss": {
+            "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+            "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+            "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+            "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "nigar",
+      "text": "That sounds complete, and we must consider guests with special diets too.",
+      "translation": {
+        "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+        "en": "That sounds complete, and we must consider guests with special diets too."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+            "en": "sounds; gives an impression from what is heard"
+          }
+        },
+        {
+          "surface": "complete,",
+          "gloss": {
+            "fa": "کامل",
+            "en": "complete; including the needed parts"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "باید",
+            "en": "must; expresses necessity"
+          }
+        },
+        {
+          "surface": "consider",
+          "gloss": {
+            "fa": "در نظر گرفتن",
+            "en": "consider; take into account"
+          }
+        },
+        {
+          "surface": "guests",
+          "gloss": {
+            "fa": "مهمانان",
+            "en": "guests; invited participants"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "special",
+          "gloss": {
+            "fa": "خاص",
+            "en": "special; different from ordinary"
+          }
+        },
+        {
+          "surface": "diets",
+          "gloss": {
+            "fa": "رژیم‌های غذایی",
+            "en": "diets; patterns or restrictions in what people eat"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also, adding another positive point"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "arman",
+      "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+      "translation": {
+        "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+        "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+      },
+      "tokens": [
+        {
+          "surface": "Absolutely,",
+          "gloss": {
+            "fa": "کاملاً؛ حتماً",
+            "en": "absolutely; a strong expression of agreement"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or an appropriate action"
+          }
+        },
+        {
+          "surface": "label",
+          "gloss": {
+            "fa": "برچسب زدن",
+            "en": "label; mark a container to identify it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "dishes",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "note",
+          "gloss": {
+            "fa": "مشخص کنیم؛ ثبت کنیم",
+            "en": "note; identify or mark the vegetarian dishes"
+          }
+        },
+        {
+          "surface": "which",
+          "gloss": {
+            "fa": "کدام؛ که",
+            "en": "which; asks for a choice or introduces information"
+          }
+        },
+        {
+          "surface": "ones",
+          "gloss": {
+            "fa": "غذاها؛ جایگزین dishes",
+            "en": "ones; stands for dishes, not guests"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "vegetarian.",
+          "gloss": {
+            "fa": "گیاه‌خواری؛ بدون گوشت",
+            "en": "vegetarian; not containing meat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "nigar",
+      "text": "You are right, let us finalize this menu and give it to the restaurant.",
+      "translation": {
+        "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+        "en": "You are right, let us finalize this menu and give it to the restaurant."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست؛ همین",
+            "en": "right; correct or immediate"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes finalizing the menu"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes finalizing the menu"
+          }
+        },
+        {
+          "surface": "finalize",
+          "gloss": {
+            "fa": "نهایی کردن",
+            "en": "finalize; make a plan final"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "menu",
+          "gloss": {
+            "fa": "منو؛ فهرست غذا",
+            "en": "menu; a list or planned selection of dishes"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "restaurant.",
+          "gloss": {
+            "fa": "رستوران",
+            "en": "restaurant; a place serving meals"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "arman",
+      "text": "I am sure the guests will be happy with such a thoughtful menu.",
+      "translation": {
+        "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+        "en": "I am sure the guests will be happy with such a thoughtful menu."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "مطمئن",
+            "en": "sure; confident"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "guests",
+          "gloss": {
+            "fa": "مهمانان",
+            "en": "guests; invited participants"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy; pleased"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "such",
+          "gloss": {
+            "fa": "چنین؛ این‌قدر",
+            "en": "such; adds emphasis to a description"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "thoughtful",
+          "gloss": {
+            "fa": "باملاحظه؛ با‌توجه به دیگران",
+            "en": "thoughtful; considerate of others’ needs"
+          }
+        },
+        {
+          "surface": "menu.",
+          "gloss": {
+            "fa": "منو؛ فهرست غذا",
+            "en": "menu; a list or planned selection of dishes"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "planning",
+        "text": "planning",
+        "pronunciation": {
+          "faReading": "پْلَنینگ",
+          "ipa": "/ˈplænɪŋ/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی",
+          "en": "planning; deciding what to do"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "menu",
+        "text": "menu",
+        "pronunciation": {
+          "faReading": "مِنیو",
+          "ipa": "/ˈmɛnju/"
+        },
+        "meaning": {
+          "fa": "منو؛ برنامهٔ غذاهای جشن",
+          "en": "menu; the planned selection of food for the party"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "engagement",
+        "text": "engagement",
+        "pronunciation": {
+          "faReading": "اینگِیجمِنت",
+          "ipa": "/ɪnˈɡeɪdʒmənt/"
+        },
+        "meaning": {
+          "fa": "نامزدی",
+          "en": "engagement; an agreement to marry"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "party",
+        "text": "party",
+        "pronunciation": {
+          "faReading": "پارْتی",
+          "ipa": "/ˈpɑrti/"
+        },
+        "meaning": {
+          "fa": "مهمانی",
+          "en": "party; a social gathering"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "hard",
+        "text": "hard",
+        "pronunciation": {
+          "faReading": "هارد",
+          "ipa": "/hɑrd/"
+        },
+        "meaning": {
+          "fa": "سخت",
+          "en": "hard; difficult"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "choose",
+        "text": "choose",
+        "pronunciation": {
+          "faReading": "چوز",
+          "ipa": "/tʃuz/"
+        },
+        "meaning": {
+          "fa": "انتخاب کردن",
+          "en": "choose; select among options"
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How many»: چند نفر",
+          "en": "In “How many”: asks for the number of guests"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "در «How many»: چند نفر",
+          "en": "In “How many”: asks for the number of guests"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "guests",
+        "text": "guests",
+        "pronunciation": {
+          "faReading": "گِستس",
+          "ipa": "/ɡɛsts/"
+        },
+        "meaning": {
+          "fa": "مهمانان",
+          "en": "guests; invited participants"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "coming",
+        "text": "coming",
+        "pronunciation": {
+          "faReading": "کامینگ",
+          "ipa": "/ˈkʌmɪŋ/"
+        },
+        "meaning": {
+          "fa": "می‌آید؛ در راه است",
+          "en": "coming; being brought or arriving"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "narrow",
+        "text": "narrow",
+        "pronunciation": {
+          "faReading": "نَرو",
+          "ipa": "/ˈnæroʊ/"
+        },
+        "meaning": {
+          "fa": "محدودتر کردن",
+          "en": "narrow; reduce the range of choices"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "choices",
+        "text": "choices",
+        "pronunciation": {
+          "faReading": "چویسِز",
+          "ipa": "/ˈtʃɔɪsɪz/"
+        },
+        "meaning": {
+          "fa": "انتخاب‌ها",
+          "en": "choices; decisions between possibilities"
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "About",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "حدود؛ تقریباً",
+          "en": "about; approximately"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "fifty",
+        "text": "fifty",
+        "pronunciation": {
+          "faReading": "فیفتی",
+          "ipa": "/ˈfɪfti/"
+        },
+        "meaning": {
+          "fa": "پنجاه",
+          "en": "fifty; 50"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to such a degree"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "menu-2",
+        "text": "menu",
+        "pronunciation": {
+          "faReading": "مِنیو",
+          "ipa": "/ˈmɛnju/"
+        },
+        "meaning": {
+          "fa": "منو؛ فهرست غذا",
+          "en": "menu; a list or planned selection of dishes"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "suits",
+        "text": "suits",
+        "pronunciation": {
+          "faReading": "سوتس",
+          "ipa": "/suts/"
+        },
+        "meaning": {
+          "fa": "مناسب است برای",
+          "en": "suits; is suitable for"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "everyone",
+        "text": "everyone",
+        "pronunciation": {
+          "faReading": "اِوری‌وان",
+          "ipa": "/ˈɛvriwʌn/"
+        },
+        "meaning": {
+          "fa": "همه؛ همگی",
+          "en": "everyone; all the people"
+        },
+        "example": {
+          "text": "About fifty guests, so we need a menu that suits everyone.",
+          "translation": {
+            "fa": "حدود پنجاه مهمان؛ پس منویی لازم داریم که برای همه مناسب باشد.",
+            "en": "About fifty guests, so we need a menu that suits everyone."
+          }
+        }
+      },
+      {
+        "id": "mixed",
+        "text": "mixed",
+        "pronunciation": {
+          "faReading": "میکست",
+          "ipa": "/mɪkst/"
+        },
+        "meaning": {
+          "fa": "متنوع؛ ترکیبی",
+          "en": "mixed; including different types"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "best",
+        "text": "best",
+        "pronunciation": {
+          "faReading": "بِست",
+          "ipa": "/bɛst/"
+        },
+        "meaning": {
+          "fa": "بهترین؛ مناسب‌ترین",
+          "en": "best; most suitable"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two things together"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "meat",
+        "text": "meat",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "گوشت",
+          "en": "meat; animal flesh served as food"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "vegetarian",
+        "text": "vegetarian",
+        "pronunciation": {
+          "faReading": "وِجِتِریِن",
+          "ipa": "/ˌvɛdʒəˈtɛriən/"
+        },
+        "meaning": {
+          "fa": "گیاه‌خواری؛ بدون گوشت",
+          "en": "vegetarian; not containing meat"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "options",
+        "text": "options",
+        "pronunciation": {
+          "faReading": "آپشِنز",
+          "ipa": "/ˈɑpʃənz/"
+        },
+        "meaning": {
+          "fa": "گزینه‌ها",
+          "en": "options; available choices"
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "در «main course»: غذای اصلی",
+          "en": "In “main course”: the central dish of the meal"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «main course»: غذای اصلی",
+          "en": "In “main course”: the central dish of the meal"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or an appropriate action"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "rice",
+        "text": "rice",
+        "pronunciation": {
+          "faReading": "رایس",
+          "ipa": "/raɪs/"
+        },
+        "meaning": {
+          "fa": "برنج",
+          "en": "rice; a grain served cooked"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "traditional",
+        "text": "traditional",
+        "pronunciation": {
+          "faReading": "تْرِدیشِنِل",
+          "ipa": "/trəˈdɪʃənəl/"
+        },
+        "meaning": {
+          "fa": "سنتی",
+          "en": "traditional; connected with established customs"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "stew",
+        "text": "stew",
+        "pronunciation": {
+          "faReading": "سْتو",
+          "ipa": "/stu/"
+        },
+        "meaning": {
+          "fa": "خورش",
+          "en": "stew; food cooked slowly in liquid"
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "feels",
+        "text": "feels",
+        "pronunciation": {
+          "faReading": "فیلز",
+          "ipa": "/filz/"
+        },
+        "meaning": {
+          "fa": "حس می‌شود؛ احساس می‌کند",
+          "en": "feels; gives an impression or has an emotion"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "festive",
+        "text": "festive",
+        "pronunciation": {
+          "faReading": "فِستیو",
+          "ipa": "/ˈfɛstɪv/"
+        },
+        "meaning": {
+          "fa": "جشنی؛ مناسب جشن",
+          "en": "festive; suited to a celebration"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "richer",
+        "text": "richer",
+        "pronunciation": {
+          "faReading": "ریچِر",
+          "ipa": "/ˈrɪtʃɚ/"
+        },
+        "meaning": {
+          "fa": "پُرمایه‌تر؛ دربارهٔ غذا",
+          "en": "richer; fuller or more substantial in flavor, not wealthier"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "such",
+        "text": "such",
+        "pronunciation": {
+          "faReading": "سَچ",
+          "ipa": "/sʌtʃ/"
+        },
+        "meaning": {
+          "fa": "چنین؛ این‌قدر",
+          "en": "such; adds emphasis to a description"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "occasions",
+        "text": "occasions",
+        "pronunciation": {
+          "faReading": "اِکِیژِنز",
+          "ipa": "/əˈkeɪʒənz/"
+        },
+        "meaning": {
+          "fa": "مناسبت‌ها",
+          "en": "occasions; special events"
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        }
+      },
+      {
+        "id": "good-2",
+        "text": "Good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "در «Good point»: نکتهٔ خوبی است",
+          "en": "In “Good point”: acknowledges a useful reason"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "point",
+        "text": "point",
+        "pronunciation": {
+          "faReading": "پوینت",
+          "ipa": "/pɔɪnt/"
+        },
+        "meaning": {
+          "fa": "در «Good point»: نکتهٔ خوبی است",
+          "en": "In “Good point”: acknowledges a useful reason"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "about-2",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ؛ حدود",
+          "en": "about; concerning, or approximately"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "starters",
+        "text": "starters",
+        "pronunciation": {
+          "faReading": "سْتارتِرز",
+          "ipa": "/ˈstɑrtɚz/"
+        },
+        "meaning": {
+          "fa": "پیش‌غذاها",
+          "en": "starters; dishes served before the main course"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "dessert",
+        "text": "dessert",
+        "pronunciation": {
+          "faReading": "دیزِرت",
+          "ipa": "/dɪˈzɝt/"
+        },
+        "meaning": {
+          "fa": "دسر",
+          "en": "dessert; sweet food after the main course"
+        },
+        "example": {
+          "text": "Good point, and what about the starters and the dessert?",
+          "translation": {
+            "fa": "نکتهٔ خوبی است؛ پیش‌غذا و دسر چطور؟",
+            "en": "Good point, and what about the starters and the dessert?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مانندِ؛ برای مثال",
+          "en": "like; introduces examples of starters"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "salads",
+        "text": "salads",
+        "pronunciation": {
+          "faReading": "سَلِدز",
+          "ipa": "/ˈsælədz/"
+        },
+        "meaning": {
+          "fa": "سالادها",
+          "en": "salads; vegetable or mixed dishes"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "dips",
+        "text": "dips",
+        "pronunciation": {
+          "faReading": "دیپس",
+          "ipa": "/dɪps/"
+        },
+        "meaning": {
+          "fa": "دیپ‌ها؛ سس‌های غلیظ کنار غذا",
+          "en": "dips; thick sauces eaten with other food"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "cake",
+        "text": "cake",
+        "pronunciation": {
+          "faReading": "کِیک",
+          "ipa": "/keɪk/"
+        },
+        "meaning": {
+          "fa": "کیک",
+          "en": "cake; a sweet baked dessert"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "fresh",
+        "pronunciation": {
+          "faReading": "فْرِش",
+          "ipa": "/frɛʃ/"
+        },
+        "meaning": {
+          "fa": "تازه",
+          "en": "fresh; recently prepared or obtained"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "fruit",
+        "text": "fruit",
+        "pronunciation": {
+          "faReading": "فْروت",
+          "ipa": "/frut/"
+        },
+        "meaning": {
+          "fa": "میوه",
+          "en": "fruit; food such as apples and figs"
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "drinks",
+        "text": "drinks",
+        "pronunciation": {
+          "faReading": "دْرینکس",
+          "ipa": "/drɪŋks/"
+        },
+        "meaning": {
+          "fa": "نوشیدنی‌ها",
+          "en": "drinks; beverages"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ یا انجام دادن",
+          "en": "do; helps form questions, or perform an action"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "suggest",
+        "text": "suggest",
+        "pronunciation": {
+          "faReading": "سِجِست",
+          "ipa": "/səˈdʒɛst/"
+        },
+        "meaning": {
+          "fa": "پیشنهاد کردن",
+          "en": "suggest; offer an idea"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "group",
+        "text": "group",
+        "pronunciation": {
+          "faReading": "گْروپ",
+          "ipa": "/ɡrup/"
+        },
+        "meaning": {
+          "fa": "گروه",
+          "en": "group; a set of people"
+        },
+        "example": {
+          "text": "We also need drinks, what do you suggest for a mixed group?",
+          "translation": {
+            "fa": "نوشیدنی هم لازم داریم؛ برای یک گروه متنوع چه پیشنهاد می‌دهی؟",
+            "en": "We also need drinks, what do you suggest for a mixed group?"
+          }
+        }
+      },
+      {
+        "id": "soft",
+        "text": "Soft",
+        "pronunciation": {
+          "faReading": "سافت",
+          "ipa": "/sɔft/"
+        },
+        "meaning": {
+          "fa": "در «Soft drinks»: نوشیدنی‌های غیرالکلی",
+          "en": "In “Soft drinks”: non-alcoholic drinks such as sodas"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "drinks-2",
+        "text": "drinks",
+        "pronunciation": {
+          "faReading": "دْرینکس",
+          "ipa": "/drɪŋks/"
+        },
+        "meaning": {
+          "fa": "در «Soft drinks»: نوشیدنی‌های غیرالکلی",
+          "en": "In “Soft drinks”: non-alcoholic drinks such as sodas"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "tea",
+        "text": "tea",
+        "pronunciation": {
+          "faReading": "تی",
+          "ipa": "/ti/"
+        },
+        "meaning": {
+          "fa": "چای",
+          "en": "tea; a drink made from tea leaves"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "juice",
+        "text": "juice",
+        "pronunciation": {
+          "faReading": "جوس",
+          "ipa": "/dʒus/"
+        },
+        "meaning": {
+          "fa": "آب‌میوه",
+          "en": "juice; a fruit drink"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "plus",
+        "text": "plus",
+        "pronunciation": {
+          "faReading": "پْلاس",
+          "ipa": "/plʌs/"
+        },
+        "meaning": {
+          "fa": "به‌علاوه",
+          "en": "plus; in addition to"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "moderate",
+        "text": "moderate",
+        "pronunciation": {
+          "faReading": "مادِرِت",
+          "ipa": "/ˈmɑdərət/"
+        },
+        "meaning": {
+          "fa": "متوسط؛ متعادل",
+          "en": "moderate; neither very high nor excessive"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "amount",
+        "text": "amount",
+        "pronunciation": {
+          "faReading": "اِماونت",
+          "ipa": "/əˈmaʊnt/"
+        },
+        "meaning": {
+          "fa": "مقدار؛ دربارهٔ نوشیدنی",
+          "en": "amount; a quantity of drink, not a sum of money"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "alcohol",
+        "text": "alcohol",
+        "pronunciation": {
+          "faReading": "اَلکِهال",
+          "ipa": "/ˈælkəˌhɔl/"
+        },
+        "meaning": {
+          "fa": "نوشیدنی الکلی",
+          "en": "alcohol; alcoholic drinks"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "those",
+        "text": "those",
+        "pronunciation": {
+          "faReading": "ذُوز",
+          "ipa": "/ðoʊz/"
+        },
+        "meaning": {
+          "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+          "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "who",
+        "text": "who",
+        "pronunciation": {
+          "faReading": "هو",
+          "ipa": "/hu/"
+        },
+        "meaning": {
+          "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+          "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+          "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "it-2",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در «those who want it»: کسانی که آن را می‌خواهند",
+          "en": "In “those who want it”: only guests who want alcohol; their ages are not specified"
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+          "en": "sounds; gives an impression from what is heard"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "complete",
+        "text": "complete",
+        "pronunciation": {
+          "faReading": "کِمپْلیت",
+          "ipa": "/kəmˈplit/"
+        },
+        "meaning": {
+          "fa": "کامل",
+          "en": "complete; including the needed parts"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "باید",
+          "en": "must; expresses necessity"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "consider",
+        "text": "consider",
+        "pronunciation": {
+          "faReading": "کِنسیدِر",
+          "ipa": "/kənˈsɪdɚ/"
+        },
+        "meaning": {
+          "fa": "در نظر گرفتن",
+          "en": "consider; take into account"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "special",
+        "text": "special",
+        "pronunciation": {
+          "faReading": "سْپِشِل",
+          "ipa": "/ˈspɛʃəl/"
+        },
+        "meaning": {
+          "fa": "خاص",
+          "en": "special; different from ordinary"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "diets",
+        "text": "diets",
+        "pronunciation": {
+          "faReading": "دایِتس",
+          "ipa": "/ˈdaɪəts/"
+        },
+        "meaning": {
+          "fa": "رژیم‌های غذایی",
+          "en": "diets; patterns or restrictions in what people eat"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also, adding another positive point"
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "absolutely",
+        "text": "Absolutely",
+        "pronunciation": {
+          "faReading": "اَبسِلوتلی",
+          "ipa": "/ˈæbsəˌlutli/"
+        },
+        "meaning": {
+          "fa": "کاملاً؛ حتماً",
+          "en": "absolutely; a strong expression of agreement"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "label",
+        "text": "label",
+        "pronunciation": {
+          "faReading": "لِیبِل",
+          "ipa": "/ˈleɪbəl/"
+        },
+        "meaning": {
+          "fa": "برچسب زدن",
+          "en": "label; mark a container to identify it"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "note",
+        "pronunciation": {
+          "faReading": "نُوت",
+          "ipa": "/noʊt/"
+        },
+        "meaning": {
+          "fa": "مشخص کنیم؛ ثبت کنیم",
+          "en": "note; identify or mark the vegetarian dishes"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "which",
+        "text": "which",
+        "pronunciation": {
+          "faReading": "ویچ",
+          "ipa": "/wɪtʃ/"
+        },
+        "meaning": {
+          "fa": "کدام؛ که",
+          "en": "which; asks for a choice or introduces information"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "ones",
+        "text": "ones",
+        "pronunciation": {
+          "faReading": "وانز",
+          "ipa": "/wʌnz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ جایگزین dishes",
+          "en": "ones; stands for dishes, not guests"
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست؛ همین",
+          "en": "right; correct or immediate"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes finalizing the menu"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "us-2",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes finalizing the menu"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "finalize",
+        "text": "finalize",
+        "pronunciation": {
+          "faReading": "فاینِلایز",
+          "ipa": "/ˈfaɪnəlaɪz/"
+        },
+        "meaning": {
+          "fa": "نهایی کردن",
+          "en": "finalize; make a plan final"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "restaurant",
+        "text": "restaurant",
+        "pronunciation": {
+          "faReading": "رِستِرانت",
+          "ipa": "/ˈrɛstəˌrɑnt/"
+        },
+        "meaning": {
+          "fa": "رستوران",
+          "en": "restaurant; a place serving meals"
+        },
+        "example": {
+          "text": "You are right, let us finalize this menu and give it to the restaurant.",
+          "translation": {
+            "fa": "حق با توست؛ بیا این منو را نهایی کنیم و به رستوران بدهیم.",
+            "en": "You are right, let us finalize this menu and give it to the restaurant."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "مطمئن",
+          "en": "sure; confident"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      },
+      {
+        "id": "thoughtful",
+        "text": "thoughtful",
+        "pronunciation": {
+          "faReading": "ثاتفِل",
+          "ipa": "/ˈθɔtfəl/"
+        },
+        "meaning": {
+          "fa": "باملاحظه؛ با‌توجه به دیگران",
+          "en": "thoughtful; considerate of others’ needs"
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "planning-and-guest-number",
+        "title": {
+          "fa": "برنامه‌ریزی و تعداد تقریبی",
+          "en": "Planning and approximate guest numbers"
+        },
+        "explanation": {
+          "fa": "are planning فرایند فعلی و are coming قرار یا انتظار آینده را بیان می‌کنند. About fifty تقریب است، نه عدد دقیق پنجاه. that will help به دانستن تعداد مهمان‌ها برمی‌گردد، چون دامنهٔ انتخاب را محدود می‌کند.",
+          "en": "Are planning gives the current process, while are coming gives a future arrangement or expectation. About fifty is approximate, not exactly fifty. That will help refers to knowing the guest count, which helps narrow the choices."
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        },
+        "takeaway": {
+          "fa": "about را در بازگویی تعداد حذف نکن.",
+          "en": "Retain about when restating the guest count."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برنامه‌ریزی و تعداد تقریبی",
+              "en": "Planning and approximate guest numbers"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We are planning the menu"
+                },
+                {
+                  "text": "present continuous"
+                },
+                {
+                  "fa": "در حال برنامه‌ریزی منو هستیم",
+                  "en": "An ongoing process"
+                }
+              ],
+              [
+                {
+                  "text": "How many guests are coming"
+                },
+                {
+                  "text": "present continuous for future attendance"
+                },
+                {
+                  "fa": "چند مهمان می‌آیند؟",
+                  "en": "Expected attendance"
+                }
+              ],
+              [
+                {
+                  "text": "About fifty guests"
+                },
+                {
+                  "text": "approximation + number"
+                },
+                {
+                  "fa": "حدود پنجاه مهمان",
+                  "en": "An estimate"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "menu-that-suits-and-both",
+        "title": {
+          "fa": "منوی مناسب و دو گروه گزینه",
+          "en": "A suitable menu and two option groups"
+        },
+        "explanation": {
+          "fa": "a menu that suits everyone بند موصولی دارد و suits با menu مفرد هماهنگ است. both meat and vegetarian options یعنی هر دو نوع گزینه در منو، نه اینکه همهٔ مهمانان هر دو را بخورند. everyone هدف برنامه‌ریزی است؛ هنوز نیاز تک‌تک افراد شناسایی نشده است.",
+          "en": "A menu that suits everyone contains a relative clause, with singular suits agreeing with menu. Both meat and vegetarian options means both categories are available, not that every guest eats both. Everyone states the planning aim; individual requirements are not all identified."
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        },
+        "takeaway": {
+          "fa": "هدفِ مناسب‌بودن برای همه با تأیید نیاز همه فرق دارد.",
+          "en": "An aim to suit everyone is not confirmation that every need is already met."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "منوی مناسب و دو گروه گزینه",
+              "en": "A suitable menu and two option groups"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a menu that suits everyone"
+                },
+                {
+                  "text": "noun + that + singular verb"
+                },
+                {
+                  "fa": "منویی که برای همه مناسب باشد",
+                  "en": "Relative clause with agreement"
+                }
+              ],
+              [
+                {
+                  "text": "with both meat and vegetarian options"
+                },
+                {
+                  "text": "both + X + and + Y"
+                },
+                {
+                  "fa": "با هر دو نوع گزینه",
+                  "en": "Two available categories"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comparative-and-festive-evaluation",
+        "title": {
+          "fa": "مقایسه و قضاوت جشنی",
+          "en": "Comparative forms and festive evaluation"
+        },
+        "explanation": {
+          "fa": "more festive و richer دو ساخت مقایسه‌ای متفاوت دارند. richer در این بافت پُرمایه‌تر از نظر غذاست، نه ثروتمندتر. Both are good پذیرش اولیهٔ دو گزینه است و but ترجیح خورش را می‌آورد؛ این یک ارزیابی سلیقه‌ای است نه قانون جشن نامزدی.",
+          "en": "More festive and richer use different comparative forms. Richer refers to the food’s fullness or flavor, not wealth. Both are good acknowledges the alternatives before but introduces a preference for stew. This is a subjective evaluation, not a universal engagement-party rule."
+        },
+        "example": {
+          "text": "Both are good, but a stew feels more festive and richer for such occasions.",
+          "translation": {
+            "fa": "هر دو خوب‌اند، ولی خورش برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر به نظر می‌رسد.",
+            "en": "Both are good, but a stew feels more festive and richer for such occasions."
+          }
+        },
+        "takeaway": {
+          "fa": "more + صفت و صفت + -er هر دو می‌توانند مقایسه بسازند.",
+          "en": "More + adjective and adjective + -er can both form comparisons."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقایسه و قضاوت جشنی",
+              "en": "Comparative forms and festive evaluation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Both are good, but a stew feels more festive and richer"
+                },
+                {
+                  "text": "concession + but + comparative evaluation"
+                },
+                {
+                  "fa": "هر دو خوب‌اند ولی خورش جشنی‌تر و پُرمایه‌تر است",
+                  "en": "Acknowledgment followed by preference"
+                }
+              ],
+              [
+                {
+                  "text": "for such occasions"
+                },
+                {
+                  "text": "for + such + plural noun"
+                },
+                {
+                  "fa": "برای چنین مناسبت‌هایی",
+                  "en": "Links the preference to this type of event"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "menu-fragments-and-courses",
+        "title": {
+          "fa": "پاسخ‌های فهرستی و بخش‌های وعده",
+          "en": "List-like replies and meal courses"
+        },
+        "explanation": {
+          "fa": "Starters like salads and dips و for dessert, cake and fresh fruit پاسخ‌های فهرستی بدون فعل کامل‌اند. like مثال معرفی می‌کند. main course غذای اصلی است، نه دورهٔ آموزشی؛ course در Of course درس‌های قبلی معنای دیگری داشت.",
+          "en": "Starters like salads and dips and for dessert, cake and fresh fruit are list-like spoken answers without a full finite clause. Like introduces examples. Main course is the central meal dish, not a training course or the expression of course."
+        },
+        "example": {
+          "text": "Starters like salads and dips, and for dessert, cake and fresh fruit.",
+          "translation": {
+            "fa": "پیش‌غذاهایی مثل سالاد و دیپ؛ برای دسر هم کیک و میوهٔ تازه.",
+            "en": "Starters like salads and dips, and for dessert, cake and fresh fruit."
+          }
+        },
+        "takeaway": {
+          "fa": "پاسخ گفتاری می‌تواند فهرست باشد؛ course را از بافت معنی کن.",
+          "en": "A spoken reply may be a list; interpret course from context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پاسخ‌های فهرستی و بخش‌های وعده",
+              "en": "List-like replies and meal courses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "For the main course"
+                },
+                {
+                  "text": "for + meal course"
+                },
+                {
+                  "fa": "برای غذای اصلی",
+                  "en": "The central course"
+                }
+              ],
+              [
+                {
+                  "text": "Starters like salads and dips"
+                },
+                {
+                  "text": "noun + like + examples"
+                },
+                {
+                  "fa": "پیش‌غذاهایی مثل سالاد و دیپ",
+                  "en": "A list of examples"
+                }
+              ],
+              [
+                {
+                  "text": "for dessert, cake and fresh fruit"
+                },
+                {
+                  "text": "topic phrase + food list"
+                },
+                {
+                  "fa": "برای دسر، کیک و میوه",
+                  "en": "An elliptical spoken selection"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "drinks-and-restricted-group",
+        "title": {
+          "fa": "نوشیدنی‌ها و گروه محدود",
+          "en": "Drinks and a restricted group"
+        },
+        "explanation": {
+          "fa": "soft drinks نوشیدنی‌های غیرالکلی‌اند، نه نوشیدنی نرم. plus یک بخش اضافه می‌کند و for those who want it دریافت‌کنندگان الکل را محدود می‌کند. it به alcohol برمی‌گردد؛ نه mixed group سن افراد را تعیین می‌کند و نه جمله می‌گوید همه الکل می‌نوشند.",
+          "en": "Soft drinks means non-alcoholic drinks, not physically soft drinks. Plus adds an item; for those who want it restricts who receives the alcohol. It refers to alcohol. Mixed group specifies no ages, and the sentence does not say everyone drinks alcohol."
+        },
+        "example": {
+          "text": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it.",
+          "translation": {
+            "fa": "نوشیدنی‌های غیرالکلی، چای و آب‌میوه، به‌علاوهٔ مقدار متعادلی نوشیدنی الکلی برای کسانی که می‌خواهند.",
+            "en": "Soft drinks, tea, and juice, plus a moderate amount of alcohol for those who want it."
+          }
+        },
+        "takeaway": {
+          "fa": "those who گروه را محدود می‌کند؛ سن مهمانان از متن معلوم نیست.",
+          "en": "Those who restricts the group; guest ages are unspecified."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نوشیدنی‌ها و گروه محدود",
+              "en": "Drinks and a restricted group"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Soft drinks, tea, and juice"
+                },
+                {
+                  "text": "coordinated drink list"
+                },
+                {
+                  "fa": "نوشیدنی غیرالکلی، چای و آب‌میوه",
+                  "en": "Several drink choices"
+                }
+              ],
+              [
+                {
+                  "text": "plus a moderate amount of alcohol for those who want it"
+                },
+                {
+                  "text": "addition + quantity + restricted recipients"
+                },
+                {
+                  "fa": "مقدار متعادل الکل برای خواهانش",
+                  "en": "Not an offer to every guest by default"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "must-should-and-embedded-which",
+        "title": {
+          "fa": "ضرورت، توصیه و پرسش داخلی",
+          "en": "Necessity, advice and an embedded which-clause"
+        },
+        "explanation": {
+          "fa": "must consider ضرورت در نظرگرفتن رژیم‌ها را بیان می‌کند؛ should label اقدام پیشنهادی را مشخص می‌کند. note which ones are vegetarian پرسش داخلی با ترتیب خبری ones are دارد؛ ones جای dishes است، نه guests. vegetarian را با vegan یا تضمین بی‌خطر بودن برای هر حساسیت یکی نمی‌گیریم.",
+          "en": "Must consider states a need to account for diets; should label proposes an action. Note which ones are vegetarian embeds a question with statement order, ones are. Ones replaces dishes, not guests. Vegetarian is not equated with vegan or safety for every allergy."
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        },
+        "takeaway": {
+          "fa": "which ones به غذاها برمی‌گردد؛ محدودیت غذایی را دقیق بخوان.",
+          "en": "Which ones refers to dishes; keep dietary categories precise."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ضرورت، توصیه و پرسش داخلی",
+              "en": "Necessity, advice and an embedded which-clause"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we must consider guests with special diets too"
+                },
+                {
+                  "text": "must + action"
+                },
+                {
+                  "fa": "باید رژیم‌های خاص را هم در نظر بگیریم",
+                  "en": "A planning necessity"
+                }
+              ],
+              [
+                {
+                  "text": "we should label the dishes"
+                },
+                {
+                  "text": "should + action"
+                },
+                {
+                  "fa": "بهتر است برچسب بزنیم",
+                  "en": "A proposed practical step"
+                }
+              ],
+              [
+                {
+                  "text": "note which ones are vegetarian"
+                },
+                {
+                  "text": "embedded which-clause"
+                },
+                {
+                  "fa": "مشخص کنیم کدام غذاها گیاه‌خواری‌اند",
+                  "en": "Ones replaces dishes"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "finalize-and-confidence",
+        "title": {
+          "fa": "نهایی‌کردن پیشنهادی و اطمینان ذهنی",
+          "en": "Proposed finalization and expressed confidence"
+        },
+        "explanation": {
+          "fa": "let us finalize ... and give ... دو اقدام پیشنهادی با us مشترک‌اند. هنوز رسیدن منو به رستوران گزارش نشده است. I am sure ... will be happy اطمینان آرمان دربارهٔ آینده است، نه نظر واقعی مهمان‌ها پس از جشن. such a thoughtful menu کیفیت توجه به نیازها را برجسته می‌کند.",
+          "en": "Let us finalize ... and give ... coordinates two proposed actions with shared us. Delivery of the menu is not reported as complete. I am sure ... will be happy expresses Arman’s confidence about the future, not actual guest feedback after the party. Such a thoughtful menu highlights considerate planning."
+        },
+        "example": {
+          "text": "I am sure the guests will be happy with such a thoughtful menu.",
+          "translation": {
+            "fa": "مطمئنم مهمان‌ها از چنین منوی باملاحظه‌ای خوشحال خواهند شد.",
+            "en": "I am sure the guests will be happy with such a thoughtful menu."
+          }
+        },
+        "takeaway": {
+          "fa": "اطمینان گوینده و پیشنهادِ نهایی‌کردن را از رویداد رخ‌داده جدا کن.",
+          "en": "Separate speaker confidence and proposed finalization from completed events."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نهایی‌کردن پیشنهادی و اطمینان ذهنی",
+              "en": "Proposed finalization and expressed confidence"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "let us finalize this menu and give it to the restaurant"
+                },
+                {
+                  "text": "let us + verb + and + verb"
+                },
+                {
+                  "fa": "منو را نهایی کنیم و به رستوران بدهیم",
+                  "en": "Two proposed actions"
+                }
+              ],
+              [
+                {
+                  "text": "I am sure the guests will be happy"
+                },
+                {
+                  "text": "stance + future clause"
+                },
+                {
+                  "fa": "مطمئنم مهمان‌ها خوشحال خواهند شد",
+                  "en": "A confident prediction"
+                }
+              ],
+              [
+                {
+                  "text": "such a thoughtful menu"
+                },
+                {
+                  "text": "such a + adjective + noun"
+                },
+                {
+                  "fa": "چنین منوی باملاحظه‌ای",
+                  "en": "Emphasizes considerate planning"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "party",
+        "text": "the engagement party",
+        "pronunciation": {
+          "faReading": "ذی اینگِیجمِنت پارتی",
+          "ipa": "/ði ɪnˈɡeɪdʒmənt ˈpɑrti/"
+        },
+        "meaning": {
+          "fa": "جشن نامزدی",
+          "en": "The engagement celebration"
+        },
+        "context": {
+          "fa": "مناسبتی که منو برای آن برنامه‌ریزی می‌شود.",
+          "en": "The occasion for which the menu is planned."
+        },
+        "example": {
+          "text": "We are planning the menu for the engagement party, it is hard to choose.",
+          "translation": {
+            "fa": "داریم منوی جشن نامزدی را برنامه‌ریزی می‌کنیم؛ انتخاب سخت است.",
+            "en": "We are planning the menu for the engagement party, it is hard to choose."
+          }
+        }
+      },
+      {
+        "id": "narrow",
+        "text": "narrow the choices",
+        "pronunciation": {
+          "faReading": "نَرو ذِ چویسِز",
+          "ipa": "/ˈnæroʊ ðə ˈtʃɔɪsɪz/"
+        },
+        "meaning": {
+          "fa": "گزینه‌ها را محدودتر کردن",
+          "en": "Reduce the range of options"
+        },
+        "context": {
+          "fa": "تعداد مهمان‌ها به تصمیم‌گیری کمک می‌کند.",
+          "en": "The guest count helps focus the decision."
+        },
+        "example": {
+          "text": "How many guests are coming, that will help us narrow the choices.",
+          "translation": {
+            "fa": "چند مهمان می‌آیند؟ این کمک می‌کند گزینه‌ها را محدودتر کنیم.",
+            "en": "How many guests are coming, that will help us narrow the choices."
+          }
+        }
+      },
+      {
+        "id": "options",
+        "text": "both meat and vegetarian options",
+        "pronunciation": {
+          "faReading": "بُوث میت اَند وِجِتِریِن آپشِنز",
+          "ipa": "/boʊθ mit ən ˌvɛdʒəˈtɛriən ˈɑpʃənz/"
+        },
+        "meaning": {
+          "fa": "هم گزینه‌های گوشتی و هم گیاه‌خواری",
+          "en": "Both meat-based and vegetarian choices"
+        },
+        "context": {
+          "fa": "منو دو نوع گزینه دارد؛ لازم نیست هر مهمان هر دو را بخورد.",
+          "en": "The menu offers both categories; not every guest must eat both."
+        },
+        "example": {
+          "text": "A mixed menu is best, with both meat and vegetarian options.",
+          "translation": {
+            "fa": "منوی متنوع بهترین است، هم با گزینه‌های گوشتی و هم گیاه‌خواری.",
+            "en": "A mixed menu is best, with both meat and vegetarian options."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "the main course",
+        "pronunciation": {
+          "faReading": "ذِ مِین کورس",
+          "ipa": "/ðə meɪn kɔrs/"
+        },
+        "meaning": {
+          "fa": "غذای اصلی",
+          "en": "The central dish of the meal"
+        },
+        "context": {
+          "fa": "course در اینجا بخش وعده است، نه دورهٔ آموزشی.",
+          "en": "Course means a meal stage, not a training course."
+        },
+        "example": {
+          "text": "For the main course, should we choose rice with meat or a traditional stew?",
+          "translation": {
+            "fa": "برای غذای اصلی برنج با گوشت انتخاب کنیم یا یک خورش سنتی؟",
+            "en": "For the main course, should we choose rice with meat or a traditional stew?"
+          }
+        }
+      },
+      {
+        "id": "diets",
+        "text": "guests with special diets",
+        "pronunciation": {
+          "faReading": "گِستس ویذ سْپِشِل دایِتس",
+          "ipa": "/ɡɛsts wɪð ˈspɛʃəl ˈdaɪəts/"
+        },
+        "meaning": {
+          "fa": "مهمانان با رژیم غذایی خاص",
+          "en": "Guests with particular dietary requirements"
+        },
+        "context": {
+          "fa": "جزئیات نیاز هر مهمان در منبع تعیین نشده است.",
+          "en": "Individual guests’ exact requirements are unspecified."
+        },
+        "example": {
+          "text": "That sounds complete, and we must consider guests with special diets too.",
+          "translation": {
+            "fa": "کامل به نظر می‌رسد؛ باید مهمان‌های دارای رژیم غذایی خاص را هم در نظر بگیریم.",
+            "en": "That sounds complete, and we must consider guests with special diets too."
+          }
+        }
+      },
+      {
+        "id": "label",
+        "text": "label the dishes",
+        "pronunciation": {
+          "faReading": "لِیبِل ذِ دیشِز",
+          "ipa": "/ˈleɪbəl ðə ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "روی غذاها برچسب بزنیم",
+          "en": "Label the food items"
+        },
+        "context": {
+          "fa": "برای مشخص‌شدن گزینه‌های گیاه‌خواری پیشنهاد می‌شود.",
+          "en": "Proposed to identify vegetarian options."
+        },
+        "example": {
+          "text": "Absolutely, we should label the dishes and note which ones are vegetarian.",
+          "translation": {
+            "fa": "حتماً، بهتر است روی غذاها برچسب بزنیم و مشخص کنیم کدام‌ها گیاه‌خواری‌اند.",
+            "en": "Absolutely, we should label the dishes and note which ones are vegetarian."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع و هدف برنامه‌ریزی چیست؟",
+          "en": "What are they planning and why?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "غذای روزانه برای دو نفر با کمترین تنوع",
+              "en": "A minimally varied daily meal for two"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جشن پایان تحصیل با یک غذای اجباری",
+              "en": "A graduation party with one compulsory dish"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "منوی جشن نامزدی با گزینه‌های متنوع برای نیازهای مختلف",
+              "en": "An engagement menu with varied options for different needs"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "جشن نامزدی، گزینهٔ گوشتی و گیاه‌خواری و رژیم‌های خاص مطرح‌اند.",
+          "en": "They discuss an engagement party, meat and vegetarian choices and special diets."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t11"
+        ]
+      },
+      {
+        "id": "number",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "تعداد مهمان‌ها چگونه بیان می‌شود؟",
+          "en": "How is the guest count stated?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حدود پنجاه نفر",
+              "en": "About fifty"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دقیقاً پانزده نفر",
+              "en": "Exactly fifteen"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیش از صد نفر",
+              "en": "More than a hundred"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "About fifty تقریبی است؛ حذف about دقت ادعا را تغییر می‌دهد.",
+          "en": "About fifty is approximate; omitting about changes the claim’s precision."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "stew",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا آرمان به خورش متمایل است؟",
+          "en": "Why does Arman lean toward a stew?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط چون هیچ مهمانی گوشت نمی‌خورد",
+              "en": "Only because no guest eats meat"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چون برای چنین مناسبت‌هایی جشنی‌تر و پُرمایه‌تر حس می‌شود",
+              "en": "Because it feels more festive and richer for such occasions"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چون رستوران برنج ندارد",
+              "en": "Because the restaurant has no rice"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او هر دو گزینه را خوب می‌داند ولی این دلیل را برای ترجیح خورش می‌آورد.",
+          "en": "He calls both options good, then gives this reason for preferring stew."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "dessert",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه چیزی برای دسر پیشنهاد می‌شود؟",
+          "en": "What is suggested for dessert?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بستنی و شکلات",
+              "en": "Ice cream and chocolate"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ماست و نان",
+              "en": "Yogurt and bread"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کیک و میوهٔ تازه",
+              "en": "Cake and fresh fruit"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "for dessert, cake and fresh fruit انتخاب دسر را صریح می‌گوید.",
+          "en": "For dessert, cake and fresh fruit explicitly lists the dessert choices."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "alcohol-scope",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیشنهاد الکل در متن به چه گروهی محدود است؟",
+          "en": "To whom is the alcohol suggestion restricted in the text?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کسانی که آن را می‌خواهند؛ سن‌ها مشخص نیست",
+              "en": "Those who want it; ages are unspecified"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "همهٔ مهمان‌ها بدون توجه به خواستشان",
+              "en": "Every guest regardless of preference"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط آشپزهای رستوران",
+              "en": "Only the restaurant’s cooks"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "for those who want it شرط خواستن را می‌گذارد؛ سن یا مصرف همگانی گزارش نمی‌شود.",
+          "en": "For those who want it restricts by preference; ages and universal consumption are not stated."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "ones",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "در note which ones are vegetarian، ones چیست؟",
+          "en": "What does ones refer to in note which ones are vegetarian?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مهمان‌ها",
+              "en": "The guests"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "غذاها",
+              "en": "The dishes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نوشیدنی‌های الکلی",
+              "en": "The alcoholic drinks"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "the dishes درست پیش از which ones آمده و مرجع جایگزینی است؛ برچسب روی غذاهاست.",
+          "en": "The dishes precedes which ones and supplies the replacement reference; the labels go on food."
+        },
+        "evidenceTurnIds": [
+          "t12"
+        ]
+      }
+    ]
+  }
+}

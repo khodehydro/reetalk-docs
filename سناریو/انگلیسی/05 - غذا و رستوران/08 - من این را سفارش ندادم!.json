@@ -1,0 +1,4250 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s08",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "من این را سفارش ندادم!",
+    "en": "I Did Not Order This!"
+  },
+  "objective": {
+    "fa": "شرح مغایرت سفارش، فهم عذرخواهی و جبران و پرسیدن اثر بر سفارش‌های دیگر.",
+    "en": "Explain an order mismatch, understand apologies and compensation, and ask about other dishes."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+      "translation": {
+        "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+        "en": "Excuse me, I did not order this dish, this is not what I asked for."
+      },
+      "tokens": [
+        {
+          "surface": "Excuse",
+          "gloss": {
+            "fa": "در «Excuse me»: ببخشید",
+            "en": "In “Excuse me”: politely gets attention before a complaint"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "در «Excuse me»: ببخشید",
+            "en": "In “Excuse me”: politely gets attention before a complaint"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "در «did not order»: سفارش ندادم",
+            "en": "In “did not order”: denies making that order in the past"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «did not order»: سفارش ندادم",
+            "en": "In “did not order”: denies making that order in the past"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "در «did not order»: سفارش ندادم",
+            "en": "In “did not order”: denies making that order in the past"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "dish,",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "در «what I asked for»: چیزی که خواسته بودم",
+            "en": "In “what I asked for”: the food requested, not a question that was asked"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «what I asked for»: چیزی که خواسته بودم",
+            "en": "In “what I asked for”: the food requested, not a question that was asked"
+          }
+        },
+        {
+          "surface": "asked",
+          "gloss": {
+            "fa": "در «what I asked for»: چیزی که خواسته بودم",
+            "en": "In “what I asked for”: the food requested, not a question that was asked"
+          }
+        },
+        {
+          "surface": "for.",
+          "gloss": {
+            "fa": "در «what I asked for»: چیزی که خواسته بودم",
+            "en": "In “what I asked for”: the food requested, not a question that was asked"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "waiter",
+      "text": "I am sorry, let me check your order right away, what did you order?",
+      "translation": {
+        "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+        "en": "I am sorry, let me check your order right away, what did you order?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sorry,",
+          "gloss": {
+            "fa": "متأسف",
+            "en": "sorry; feeling regret"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "بگذار؛ اجازه بده",
+            "en": "let; allow or propose an action"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "check",
+          "gloss": {
+            "fa": "بررسی کردن",
+            "en": "check; examine to confirm information"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش",
+            "en": "order; a request for food, a noun here"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "در «right away»: همین الان؛ بی‌درنگ",
+            "en": "In “right away”: immediately"
+          }
+        },
+        {
+          "surface": "away,",
+          "gloss": {
+            "fa": "در «right away»: همین الان؛ بی‌درنگ",
+            "en": "In “right away”: immediately"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+            "en": "did; used in past questions or negatives"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "order?",
+          "gloss": {
+            "fa": "سفارش دادن",
+            "en": "order; request food, a verb here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+      "translation": {
+        "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+        "en": "I ordered the grilled fish with rice, but this is a fried dish."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "ordered",
+          "gloss": {
+            "fa": "سفارش دادم",
+            "en": "ordered; requested food"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "grilled",
+          "gloss": {
+            "fa": "کبابی؛ گریل‌شده",
+            "en": "grilled; cooked over or under direct heat"
+          }
+        },
+        {
+          "surface": "fish",
+          "gloss": {
+            "fa": "ماهی؛ گوشت ماهی",
+            "en": "fish; fish served as food"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "rice,",
+          "gloss": {
+            "fa": "برنج",
+            "en": "rice; a grain served cooked"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "fried",
+          "gloss": {
+            "fa": "سرخ‌شده",
+            "en": "fried; cooked in hot oil"
+          }
+        },
+        {
+          "surface": "dish.",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "waiter",
+      "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+      "translation": {
+        "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+        "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+      },
+      "tokens": [
+        {
+          "surface": "This",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "serious",
+          "gloss": {
+            "fa": "جدی",
+            "en": "serious; significant and requiring attention"
+          }
+        },
+        {
+          "surface": "mistake,",
+          "gloss": {
+            "fa": "اشتباه",
+            "en": "mistake; an error"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "accept",
+          "gloss": {
+            "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+            "en": "In “accept my apologies”: a formal apology"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+            "en": "In “accept my apologies”: a formal apology"
+          }
+        },
+        {
+          "surface": "apologies,",
+          "gloss": {
+            "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+            "en": "In “accept my apologies”: a formal apology"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "fix",
+          "gloss": {
+            "fa": "اصلاح کنم؛ مشکل سفارش را برطرف کنم",
+            "en": "fix; resolve the order mistake, not repair a machine"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "immediately.",
+          "gloss": {
+            "fa": "فوراً",
+            "en": "immediately; without delay"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+      "translation": {
+        "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+        "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "rude,",
+          "gloss": {
+            "fa": "بی‌ادب",
+            "en": "rude; impolite"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "cannot",
+          "gloss": {
+            "fa": "نمی‌توانم",
+            "en": "cannot; am unable to"
+          }
+        },
+        {
+          "surface": "eat",
+          "gloss": {
+            "fa": "خوردن",
+            "en": "eat; have food"
+          }
+        },
+        {
+          "surface": "this,",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "waiting",
+          "gloss": {
+            "fa": "منتظر بودن",
+            "en": "waiting; staying until someone or something arrives"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "guests.",
+          "gloss": {
+            "fa": "مهمانان",
+            "en": "guests; invited participants"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "waiter",
+      "text": "I understand completely, the correct dish will be ready in ten minutes.",
+      "translation": {
+        "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+        "en": "I understand completely, the correct dish will be ready in ten minutes."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "understand",
+          "gloss": {
+            "fa": "فهمیدن",
+            "en": "understand; know what someone means"
+          }
+        },
+        {
+          "surface": "completely,",
+          "gloss": {
+            "fa": "کاملاً",
+            "en": "completely; entirely"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "correct",
+          "gloss": {
+            "fa": "درست؛ مطابق سفارش",
+            "en": "correct; matching the order"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+            "en": "In “in ten minutes”: after a ten-minute wait"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+            "en": "In “in ten minutes”: after a ten-minute wait"
+          }
+        },
+        {
+          "surface": "minutes.",
+          "gloss": {
+            "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+            "en": "In “in ten minutes”: after a ten-minute wait"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "Will the other dishes be delayed because of this mistake?",
+      "translation": {
+        "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+        "en": "Will the other dishes be delayed because of this mistake?"
+      },
+      "tokens": [
+        {
+          "surface": "Will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "دیگر؛ غیر از مورد گفته‌شده",
+            "en": "other; different or remaining"
+          }
+        },
+        {
+          "surface": "dishes",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "delayed",
+          "gloss": {
+            "fa": "با تأخیر روبه‌رو",
+            "en": "delayed; made later than planned"
+          }
+        },
+        {
+          "surface": "because",
+          "gloss": {
+            "fa": "چون؛ زیرا",
+            "en": "because; introduces a reason"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "mistake?",
+          "gloss": {
+            "fa": "اشتباه",
+            "en": "mistake; an error"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "waiter",
+      "text": "No, your other orders are ready, and they will not be affected.",
+      "translation": {
+        "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+        "en": "No, your other orders are ready, and they will not be affected."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "دیگر؛ غیر از مورد گفته‌شده",
+            "en": "other; different or remaining"
+          }
+        },
+        {
+          "surface": "orders",
+          "gloss": {
+            "fa": "سفارش‌ها",
+            "en": "orders; requests for food"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "ready,",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+            "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+            "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+            "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+          }
+        },
+        {
+          "surface": "affected.",
+          "gloss": {
+            "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+            "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "I am glad to hear that, but I hope this has no other consequence.",
+      "translation": {
+        "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+        "en": "I am glad to hear that, but I hope this has no other consequence."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال؛ خرسند",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "hear",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear; listen to news or sounds"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+            "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+          }
+        },
+        {
+          "surface": "no",
+          "gloss": {
+            "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+            "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+            "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+          }
+        },
+        {
+          "surface": "consequence.",
+          "gloss": {
+            "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+            "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "waiter",
+      "text": "To make up for this, we will not charge you for this wrong dish.",
+      "translation": {
+        "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+        "en": "To make up for this, we will not charge you for this wrong dish."
+      },
+      "tokens": [
+        {
+          "surface": "To",
+          "gloss": {
+            "fa": "در «To make up for this»: برای جبران این اشتباه",
+            "en": "In “To make up for this”: to compensate for the mistake"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "در «To make up for this»: برای جبران این اشتباه",
+            "en": "In “To make up for this”: to compensate for the mistake"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "در «To make up for this»: برای جبران این اشتباه",
+            "en": "In “To make up for this”: to compensate for the mistake"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «To make up for this»: برای جبران این اشتباه",
+            "en": "In “To make up for this”: to compensate for the mistake"
+          }
+        },
+        {
+          "surface": "this,",
+          "gloss": {
+            "fa": "در «To make up for this»: برای جبران این اشتباه",
+            "en": "In “To make up for this”: to compensate for the mistake"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "charge",
+          "gloss": {
+            "fa": "هزینه بگیریم از",
+            "en": "charge; require payment, a verb"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "wrong",
+          "gloss": {
+            "fa": "اشتباه؛ نادرست",
+            "en": "wrong; not the item requested"
+          }
+        },
+        {
+          "surface": "dish.",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "arman",
+      "text": "Thank you, that is fair, and I appreciate the quick response.",
+      "translation": {
+        "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+        "en": "Thank you, that is fair, and I appreciate the quick response."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "fair,",
+          "gloss": {
+            "fa": "منصفانه",
+            "en": "fair; reasonable in price or treatment"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی کردن از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "quick",
+          "gloss": {
+            "fa": "سریع؛ کوتاه‌مدت",
+            "en": "quick; taking little time"
+          }
+        },
+        {
+          "surface": "response.",
+          "gloss": {
+            "fa": "پاسخ؛ واکنش",
+            "en": "response; a reaction to a request or problem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "waiter",
+      "text": "We are sorry for the inconvenience, the correct dish is coming now.",
+      "translation": {
+        "fa": "بابت این دردسر متأسفیم؛ غذای درست همین الان در راه است.",
+        "en": "We are sorry for the inconvenience, the correct dish is coming now."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "sorry",
+          "gloss": {
+            "fa": "متأسف",
+            "en": "sorry; feeling regret"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "inconvenience,",
+          "gloss": {
+            "fa": "دردسر؛ زحمت ایجادشده",
+            "en": "inconvenience; trouble or disruption caused"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "correct",
+          "gloss": {
+            "fa": "درست؛ مطابق سفارش",
+            "en": "correct; matching the order"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "coming",
+          "gloss": {
+            "fa": "می‌آید؛ در راه است",
+            "en": "coming; being brought or arriving"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "arman",
+      "text": "I am satisfied, thank you for solving the problem so well.",
+      "translation": {
+        "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+        "en": "I am satisfied, thank you for solving the problem so well."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "satisfied,",
+          "gloss": {
+            "fa": "راضی",
+            "en": "satisfied; pleased with the resolution"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "solving",
+          "gloss": {
+            "fa": "حل‌کردن",
+            "en": "solving; resolving a problem"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "problem",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; a difficulty"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "در «so well»: این‌قدر خوب",
+            "en": "In “so well”: to such a good standard"
+          }
+        },
+        {
+          "surface": "well.",
+          "gloss": {
+            "fa": "در «so well»: این‌قدر خوب",
+            "en": "In “so well”: to such a good standard"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "excuse",
+        "text": "Excuse",
+        "pronunciation": {
+          "faReading": "ایکسکیوز",
+          "ipa": "/ɪkˈskjuz/"
+        },
+        "meaning": {
+          "fa": "در «Excuse me»: ببخشید",
+          "en": "In “Excuse me”: politely gets attention before a complaint"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "در «Excuse me»: ببخشید",
+          "en": "In “Excuse me”: politely gets attention before a complaint"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "در «did not order»: سفارش ندادم",
+          "en": "In “did not order”: denies making that order in the past"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «did not order»: سفارش ندادم",
+          "en": "In “did not order”: denies making that order in the past"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "در «did not order»: سفارش ندادم",
+          "en": "In “did not order”: denies making that order in the past"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "dish",
+        "text": "dish",
+        "pronunciation": {
+          "faReading": "دیش",
+          "ipa": "/dɪʃ/"
+        },
+        "meaning": {
+          "fa": "غذا؛ نوع غذا",
+          "en": "dish; a prepared food or menu item"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "not-2",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «what I asked for»: چیزی که خواسته بودم",
+          "en": "In “what I asked for”: the food requested, not a question that was asked"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «what I asked for»: چیزی که خواسته بودم",
+          "en": "In “what I asked for”: the food requested, not a question that was asked"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "asked",
+        "text": "asked",
+        "pronunciation": {
+          "faReading": "اَسکت",
+          "ipa": "/æskt/"
+        },
+        "meaning": {
+          "fa": "در «what I asked for»: چیزی که خواسته بودم",
+          "en": "In “what I asked for”: the food requested, not a question that was asked"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «what I asked for»: چیزی که خواسته بودم",
+          "en": "In “what I asked for”: the food requested, not a question that was asked"
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "sorry",
+        "text": "sorry",
+        "pronunciation": {
+          "faReading": "ساری",
+          "ipa": "/ˈsɑri/"
+        },
+        "meaning": {
+          "fa": "متأسف",
+          "en": "sorry; feeling regret"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بگذار؛ اجازه بده",
+          "en": "let; allow or propose an action"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "me-2",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "check",
+        "text": "check",
+        "pronunciation": {
+          "faReading": "چِک",
+          "ipa": "/tʃɛk/"
+        },
+        "meaning": {
+          "fa": "بررسی کردن",
+          "en": "check; examine to confirm information"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "order-2",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش",
+          "en": "order; a request for food, a noun here"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "در «right away»: همین الان؛ بی‌درنگ",
+          "en": "In “right away”: immediately"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "away",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "در «right away»: همین الان؛ بی‌درنگ",
+          "en": "In “right away”: immediately"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "what-2",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "did-2",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+          "en": "did; used in past questions or negatives"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "order-3",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش دادن",
+          "en": "order; request food, a verb here"
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "ordered",
+        "text": "ordered",
+        "pronunciation": {
+          "faReading": "اُوردِرد",
+          "ipa": "/ˈɔrdɚd/"
+        },
+        "meaning": {
+          "fa": "سفارش دادم",
+          "en": "ordered; requested food"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "grilled",
+        "text": "grilled",
+        "pronunciation": {
+          "faReading": "گْریلد",
+          "ipa": "/ɡrɪld/"
+        },
+        "meaning": {
+          "fa": "کبابی؛ گریل‌شده",
+          "en": "grilled; cooked over or under direct heat"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "fish",
+        "text": "fish",
+        "pronunciation": {
+          "faReading": "فیش",
+          "ipa": "/fɪʃ/"
+        },
+        "meaning": {
+          "fa": "ماهی؛ گوشت ماهی",
+          "en": "fish; fish served as food"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "rice",
+        "text": "rice",
+        "pronunciation": {
+          "faReading": "رایس",
+          "ipa": "/raɪs/"
+        },
+        "meaning": {
+          "fa": "برنج",
+          "en": "rice; a grain served cooked"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "fried",
+        "text": "fried",
+        "pronunciation": {
+          "faReading": "فْراید",
+          "ipa": "/fraɪd/"
+        },
+        "meaning": {
+          "fa": "سرخ‌شده",
+          "en": "fried; cooked in hot oil"
+        },
+        "example": {
+          "text": "I ordered the grilled fish with rice, but this is a fried dish.",
+          "translation": {
+            "fa": "ماهی گریل‌شده با برنج سفارش دادم، ولی این غذا سرخ‌شده است.",
+            "en": "I ordered the grilled fish with rice, but this is a fried dish."
+          }
+        }
+      },
+      {
+        "id": "serious",
+        "text": "serious",
+        "pronunciation": {
+          "faReading": "سیریِس",
+          "ipa": "/ˈsɪriəs/"
+        },
+        "meaning": {
+          "fa": "جدی",
+          "en": "serious; significant and requiring attention"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "mistake",
+        "text": "mistake",
+        "pronunciation": {
+          "faReading": "میستِیک",
+          "ipa": "/mɪˈsteɪk/"
+        },
+        "meaning": {
+          "fa": "اشتباه",
+          "en": "mistake; an error"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "accept",
+        "text": "accept",
+        "pronunciation": {
+          "faReading": "اَکسِپت",
+          "ipa": "/əkˈsɛpt/"
+        },
+        "meaning": {
+          "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+          "en": "In “accept my apologies”: a formal apology"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+          "en": "In “accept my apologies”: a formal apology"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "apologies",
+        "text": "apologies",
+        "pronunciation": {
+          "faReading": "اِپالِجیز",
+          "ipa": "/əˈpɑlədʒiz/"
+        },
+        "meaning": {
+          "fa": "در «accept my apologies»: عذرخواهی مرا بپذیرید",
+          "en": "In “accept my apologies”: a formal apology"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "fix",
+        "text": "fix",
+        "pronunciation": {
+          "faReading": "فیکس",
+          "ipa": "/fɪks/"
+        },
+        "meaning": {
+          "fa": "اصلاح کنم؛ مشکل سفارش را برطرف کنم",
+          "en": "fix; resolve the order mistake, not repair a machine"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "immediately",
+        "text": "immediately",
+        "pronunciation": {
+          "faReading": "ایمیدیِتلی",
+          "ipa": "/ɪˈmidiətli/"
+        },
+        "meaning": {
+          "fa": "فوراً",
+          "en": "immediately; without delay"
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "not-3",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "rude",
+        "text": "rude",
+        "pronunciation": {
+          "faReading": "رود",
+          "ipa": "/rud/"
+        },
+        "meaning": {
+          "fa": "بی‌ادب",
+          "en": "rude; impolite"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "cannot",
+        "text": "cannot",
+        "pronunciation": {
+          "faReading": "کَنات",
+          "ipa": "/ˈkænɑt/"
+        },
+        "meaning": {
+          "fa": "نمی‌توانم",
+          "en": "cannot; am unable to"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "eat",
+        "text": "eat",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/it/"
+        },
+        "meaning": {
+          "fa": "خوردن",
+          "en": "eat; have food"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "waiting",
+        "text": "waiting",
+        "pronunciation": {
+          "faReading": "وِیتینگ",
+          "ipa": "/ˈweɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "منتظر بودن",
+          "en": "waiting; staying until someone or something arrives"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "for-2",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "guests",
+        "text": "guests",
+        "pronunciation": {
+          "faReading": "گِستس",
+          "ipa": "/ɡɛsts/"
+        },
+        "meaning": {
+          "fa": "مهمانان",
+          "en": "guests; invited participants"
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "understand",
+        "text": "understand",
+        "pronunciation": {
+          "faReading": "آندِرْسْتَند",
+          "ipa": "/ˌʌndɚˈstænd/"
+        },
+        "meaning": {
+          "fa": "فهمیدن",
+          "en": "understand; know what someone means"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "completely",
+        "text": "completely",
+        "pronunciation": {
+          "faReading": "کِمپْلیتلی",
+          "ipa": "/kəmˈplitli/"
+        },
+        "meaning": {
+          "fa": "کاملاً",
+          "en": "completely; entirely"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "correct",
+        "text": "correct",
+        "pronunciation": {
+          "faReading": "کِرِکت",
+          "ipa": "/kəˈrɛkt/"
+        },
+        "meaning": {
+          "fa": "درست؛ مطابق سفارش",
+          "en": "correct; matching the order"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+          "en": "In “in ten minutes”: after a ten-minute wait"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+          "en": "In “in ten minutes”: after a ten-minute wait"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "در «in ten minutes»: ده دقیقهٔ دیگر",
+          "en": "In “in ten minutes”: after a ten-minute wait"
+        },
+        "example": {
+          "text": "I understand completely, the correct dish will be ready in ten minutes.",
+          "translation": {
+            "fa": "کاملاً درک می‌کنم، غذای درست ده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "I understand completely, the correct dish will be ready in ten minutes."
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ غیر از مورد گفته‌شده",
+          "en": "other; different or remaining"
+        },
+        "example": {
+          "text": "Will the other dishes be delayed because of this mistake?",
+          "translation": {
+            "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+            "en": "Will the other dishes be delayed because of this mistake?"
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "Will the other dishes be delayed because of this mistake?",
+          "translation": {
+            "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+            "en": "Will the other dishes be delayed because of this mistake?"
+          }
+        }
+      },
+      {
+        "id": "delayed",
+        "text": "delayed",
+        "pronunciation": {
+          "faReading": "دیلِید",
+          "ipa": "/dɪˈleɪd/"
+        },
+        "meaning": {
+          "fa": "با تأخیر روبه‌رو",
+          "en": "delayed; made later than planned"
+        },
+        "example": {
+          "text": "Will the other dishes be delayed because of this mistake?",
+          "translation": {
+            "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+            "en": "Will the other dishes be delayed because of this mistake?"
+          }
+        }
+      },
+      {
+        "id": "because",
+        "text": "because",
+        "pronunciation": {
+          "faReading": "بی‌کاز",
+          "ipa": "/bɪˈkɔz/"
+        },
+        "meaning": {
+          "fa": "چون؛ زیرا",
+          "en": "because; introduces a reason"
+        },
+        "example": {
+          "text": "Will the other dishes be delayed because of this mistake?",
+          "translation": {
+            "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+            "en": "Will the other dishes be delayed because of this mistake?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "Will the other dishes be delayed because of this mistake?",
+          "translation": {
+            "fa": "آیا غذاهای دیگر به‌خاطر این اشتباه با تأخیر آماده می‌شوند؟",
+            "en": "Will the other dishes be delayed because of this mistake?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "orders",
+        "text": "orders",
+        "pronunciation": {
+          "faReading": "اُوردِرز",
+          "ipa": "/ˈɔrdɚz/"
+        },
+        "meaning": {
+          "fa": "سفارش‌ها",
+          "en": "orders; requests for food"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "will-2",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+          "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "not-4",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+          "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "be-2",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+          "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "affected",
+        "text": "affected",
+        "pronunciation": {
+          "faReading": "اِفِکتِد",
+          "ipa": "/əˈfɛktɪd/"
+        },
+        "meaning": {
+          "fa": "در «will not be affected»: تحت تأثیر قرار نخواهند گرفت",
+          "en": "In “will not be affected”: the waiter promises the other orders will not be disrupted"
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; listen to news or sounds"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+          "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "no-2",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+          "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "other-2",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+          "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "consequence",
+        "text": "consequence",
+        "pronunciation": {
+          "faReading": "کانسِکْوِنس",
+          "ipa": "/ˈkɑnsəkwɛns/"
+        },
+        "meaning": {
+          "fa": "در «has no other consequence»: پیامد دیگری نداشته باشد",
+          "en": "In “has no other consequence”: has no additional adverse result, as Arman hopes"
+        },
+        "example": {
+          "text": "I am glad to hear that, but I hope this has no other consequence.",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم، ولی امیدوارم پیامد دیگری نداشته باشد.",
+            "en": "I am glad to hear that, but I hope this has no other consequence."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "To",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «To make up for this»: برای جبران این اشتباه",
+          "en": "In “To make up for this”: to compensate for the mistake"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "در «To make up for this»: برای جبران این اشتباه",
+          "en": "In “To make up for this”: to compensate for the mistake"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "در «To make up for this»: برای جبران این اشتباه",
+          "en": "In “To make up for this”: to compensate for the mistake"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "for-3",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «To make up for this»: برای جبران این اشتباه",
+          "en": "In “To make up for this”: to compensate for the mistake"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "this-2",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "در «To make up for this»: برای جبران این اشتباه",
+          "en": "In “To make up for this”: to compensate for the mistake"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "charge",
+        "text": "charge",
+        "pronunciation": {
+          "faReading": "چارج",
+          "ipa": "/tʃɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "هزینه بگیریم از",
+          "en": "charge; require payment, a verb"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "wrong",
+        "text": "wrong",
+        "pronunciation": {
+          "faReading": "رانگ",
+          "ipa": "/rɔŋ/"
+        },
+        "meaning": {
+          "fa": "اشتباه؛ نادرست",
+          "en": "wrong; not the item requested"
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, that is fair, and I appreciate the quick response.",
+          "translation": {
+            "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+            "en": "Thank you, that is fair, and I appreciate the quick response."
+          }
+        }
+      },
+      {
+        "id": "fair",
+        "text": "fair",
+        "pronunciation": {
+          "faReading": "فِر",
+          "ipa": "/fɛr/"
+        },
+        "meaning": {
+          "fa": "منصفانه",
+          "en": "fair; reasonable in price or treatment"
+        },
+        "example": {
+          "text": "Thank you, that is fair, and I appreciate the quick response.",
+          "translation": {
+            "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+            "en": "Thank you, that is fair, and I appreciate the quick response."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "Thank you, that is fair, and I appreciate the quick response.",
+          "translation": {
+            "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+            "en": "Thank you, that is fair, and I appreciate the quick response."
+          }
+        }
+      },
+      {
+        "id": "quick",
+        "text": "quick",
+        "pronunciation": {
+          "faReading": "کْویک",
+          "ipa": "/kwɪk/"
+        },
+        "meaning": {
+          "fa": "سریع؛ کوتاه‌مدت",
+          "en": "quick; taking little time"
+        },
+        "example": {
+          "text": "Thank you, that is fair, and I appreciate the quick response.",
+          "translation": {
+            "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+            "en": "Thank you, that is fair, and I appreciate the quick response."
+          }
+        }
+      },
+      {
+        "id": "response",
+        "text": "response",
+        "pronunciation": {
+          "faReading": "ریسپانس",
+          "ipa": "/rɪˈspɑns/"
+        },
+        "meaning": {
+          "fa": "پاسخ؛ واکنش",
+          "en": "response; a reaction to a request or problem"
+        },
+        "example": {
+          "text": "Thank you, that is fair, and I appreciate the quick response.",
+          "translation": {
+            "fa": "ممنون، منصفانه است و از واکنش سریعتان قدردانی می‌کنم.",
+            "en": "Thank you, that is fair, and I appreciate the quick response."
+          }
+        }
+      },
+      {
+        "id": "inconvenience",
+        "text": "inconvenience",
+        "pronunciation": {
+          "faReading": "اینکِنوینیِنس",
+          "ipa": "/ˌɪnkənˈvinjəns/"
+        },
+        "meaning": {
+          "fa": "دردسر؛ زحمت ایجادشده",
+          "en": "inconvenience; trouble or disruption caused"
+        },
+        "example": {
+          "text": "We are sorry for the inconvenience, the correct dish is coming now.",
+          "translation": {
+            "fa": "بابت این دردسر متأسفیم؛ غذای درست همین الان در راه است.",
+            "en": "We are sorry for the inconvenience, the correct dish is coming now."
+          }
+        }
+      },
+      {
+        "id": "coming",
+        "text": "coming",
+        "pronunciation": {
+          "faReading": "کامینگ",
+          "ipa": "/ˈkʌmɪŋ/"
+        },
+        "meaning": {
+          "fa": "می‌آید؛ در راه است",
+          "en": "coming; being brought or arriving"
+        },
+        "example": {
+          "text": "We are sorry for the inconvenience, the correct dish is coming now.",
+          "translation": {
+            "fa": "بابت این دردسر متأسفیم؛ غذای درست همین الان در راه است.",
+            "en": "We are sorry for the inconvenience, the correct dish is coming now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "We are sorry for the inconvenience, the correct dish is coming now.",
+          "translation": {
+            "fa": "بابت این دردسر متأسفیم؛ غذای درست همین الان در راه است.",
+            "en": "We are sorry for the inconvenience, the correct dish is coming now."
+          }
+        }
+      },
+      {
+        "id": "satisfied",
+        "text": "satisfied",
+        "pronunciation": {
+          "faReading": "سَتِسفاید",
+          "ipa": "/ˈsætəsfaɪd/"
+        },
+        "meaning": {
+          "fa": "راضی",
+          "en": "satisfied; pleased with the resolution"
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        }
+      },
+      {
+        "id": "solving",
+        "text": "solving",
+        "pronunciation": {
+          "faReading": "سالوینگ",
+          "ipa": "/ˈsɑlvɪŋ/"
+        },
+        "meaning": {
+          "fa": "حل‌کردن",
+          "en": "solving; resolving a problem"
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; a difficulty"
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "در «so well»: این‌قدر خوب",
+          "en": "In “so well”: to such a good standard"
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "در «so well»: این‌قدر خوب",
+          "en": "In “so well”: to such a good standard"
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "past-order-and-request",
+        "title": {
+          "fa": "سفارش گذشته و چیزی که خواسته شد",
+          "en": "The past order and what was requested"
+        },
+        "explanation": {
+          "fa": "did not order انکار سفارش در گذشته است؛ order پس از did ساده می‌ماند. what I asked for یعنی چیزی که درخواست کردم و for بخشی از ask for است. در what did you order? سؤال مستقیم با did می‌آید، اما بخش what I asked for ترتیب خبری دارد.",
+          "en": "Did not order denies a past action, with base-form order after did. What I asked for means the thing requested, with for belonging to ask for. The direct question what did you order? uses did, unlike the statement order inside what I asked for."
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        },
+        "takeaway": {
+          "fa": "did not + فعل ساده؛ asked for یعنی درخواست کرد.",
+          "en": "Use did not + base verb; asked for means requested."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "سفارش گذشته و چیزی که خواسته شد",
+              "en": "The past order and what was requested"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I did not order this dish"
+                },
+                {
+                  "text": "did not + base verb"
+                },
+                {
+                  "fa": "این غذا را سفارش ندادم",
+                  "en": "Past denial"
+                }
+              ],
+              [
+                {
+                  "text": "this is not what I asked for"
+                },
+                {
+                  "text": "what + statement order + for"
+                },
+                {
+                  "fa": "این چیزی نیست که خواستم",
+                  "en": "The requested item"
+                }
+              ],
+              [
+                {
+                  "text": "what did you order"
+                },
+                {
+                  "text": "what + did + subject + base verb?"
+                },
+                {
+                  "fa": "چه سفارش دادید؟",
+                  "en": "Direct past question"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "contrast-and-tact",
+        "title": {
+          "fa": "تفاوت غذا و اعتراض مؤدبانه",
+          "en": "Food contrast and a tactful complaint"
+        },
+        "explanation": {
+          "fa": "but غذای سفارش‌داده‌شده را با غذای رسیده مقایسه می‌کند: grilled در برابر fried. I do not want to be rude اعتراض را نرم می‌کند، اما I cannot eat this محدودیت روشن را نگه می‌دارد. دلیل پزشکی یا حساسیت در این درس گفته نشده است.",
+          "en": "But contrasts the ordered grilled fish with the fried dish received. I do not want to be rude softens the complaint, while I cannot eat this maintains a firm limit. No medical reason or allergy is specified in this lesson."
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        },
+        "takeaway": {
+          "fa": "اعتراض مؤدبانه می‌تواند هم نرم باشد و هم روشن.",
+          "en": "A tactful complaint can remain clear and firm."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تفاوت غذا و اعتراض مؤدبانه",
+              "en": "Food contrast and a tactful complaint"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I ordered the grilled fish with rice, but this is a fried dish"
+                },
+                {
+                  "text": "past order + but + current mismatch"
+                },
+                {
+                  "fa": "ماهی گریل‌شده خواستم ولی این سرخ‌شده است",
+                  "en": "Contrasts the two dishes"
+                }
+              ],
+              [
+                {
+                  "text": "I do not want to be rude, but I cannot eat this"
+                },
+                {
+                  "text": "softening phrase + but + limit"
+                },
+                {
+                  "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم بخورم",
+                  "en": "Tact plus a firm objection"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "apology-and-immediate-action",
+        "title": {
+          "fa": "عذرخواهی و وعدهٔ اصلاح",
+          "en": "An apology and a promise to correct"
+        },
+        "explanation": {
+          "fa": "accept my apologies عذرخواهی رسمی‌تر است و مسئولیت اشتباه را می‌پذیرد. will fix وعدهٔ اصلاح است؛ fix it در این بافت اصلاح سفارش است نه تعمیر دستگاه. immediately و right away هر دو فوریت را می‌رسانند، نه زمان عددی دقیق.",
+          "en": "Accept my apologies is a formal apology acknowledging the error. Will fix promises correction; fix it here means resolve the order problem, not repair a device. Immediately and right away express urgency, not a precise numerical wait."
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        },
+        "takeaway": {
+          "fa": "fix the problem یعنی مشکل را برطرف کردن.",
+          "en": "Fix the problem means resolve it."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عذرخواهی و وعدهٔ اصلاح",
+              "en": "An apology and a promise to correct"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "please accept my apologies"
+                },
+                {
+                  "text": "please + accept + apology"
+                },
+                {
+                  "fa": "عذرخواهی مرا بپذیرید",
+                  "en": "A formal apology"
+                }
+              ],
+              [
+                {
+                  "text": "I will fix it immediately"
+                },
+                {
+                  "text": "will + action + urgency"
+                },
+                {
+                  "fa": "فوراً اصلاحش می‌کنم",
+                  "en": "A corrective promise"
+                }
+              ],
+              [
+                {
+                  "text": "right away"
+                },
+                {
+                  "text": "time expression"
+                },
+                {
+                  "fa": "همین الان",
+                  "en": "Urgency"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "future-passive-and-delay",
+        "title": {
+          "fa": "آیندهٔ مجهول و اثر بر سفارش‌ها",
+          "en": "Future passives and effects on other orders"
+        },
+        "explanation": {
+          "fa": "Will the other dishes be delayed? سؤال آیندهٔ مجهول است و بر نتیجهٔ غذاها تمرکز می‌کند. will not be affected وعده می‌دهد سفارش‌های دیگر دچار اثر نشوند. in ten minutes مدت تا آماده‌شدن غذای درست است؛ قول رایگان‌شدن همهٔ سفارش‌ها نیست.",
+          "en": "Will the other dishes be delayed? is a future passive question focused on the dishes’ timing. Will not be affected promises that the other orders will not be disrupted. In ten minutes gives time until the correct dish is ready, not a promise to waive all charges."
+        },
+        "example": {
+          "text": "No, your other orders are ready, and they will not be affected.",
+          "translation": {
+            "fa": "نه، سفارش‌های دیگرتان آماده‌اند و تحت تأثیر قرار نمی‌گیرند.",
+            "en": "No, your other orders are ready, and they will not be affected."
+          }
+        },
+        "takeaway": {
+          "fa": "will be + شکل سوم برای کاری که روی سفارش‌ها رخ می‌دهد.",
+          "en": "Will be + past participle focuses on what happens to the orders."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "آیندهٔ مجهول و اثر بر سفارش‌ها",
+              "en": "Future passives and effects on other orders"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Will the other dishes be delayed"
+                },
+                {
+                  "text": "Will + subject + be + past participle?"
+                },
+                {
+                  "fa": "غذاهای دیگر تأخیر خواهند داشت؟",
+                  "en": "Future passive question"
+                }
+              ],
+              [
+                {
+                  "text": "they will not be affected"
+                },
+                {
+                  "text": "will not be + past participle"
+                },
+                {
+                  "fa": "تحت تأثیر نخواهند بود",
+                  "en": "Negative passive promise"
+                }
+              ],
+              [
+                {
+                  "text": "ready in ten minutes"
+                },
+                {
+                  "text": "ready in + period"
+                },
+                {
+                  "fa": "ده دقیقهٔ دیگر آماده",
+                  "en": "Time until replacement readiness"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "compensation-scope",
+        "title": {
+          "fa": "دامنهٔ جبران",
+          "en": "The scope of compensation"
+        },
+        "explanation": {
+          "fa": "To make up for this هدفِ جبران را معرفی می‌کند. will not charge you for this wrong dish فقط هزینهٔ غذای اشتباه را حذف می‌کند؛ نمی‌گوید همهٔ غذاها یا غذای درست هم رایگان‌اند. charge اینجا فعل و در service charge درس ۳ اسم است.",
+          "en": "To make up for this introduces compensation as a purpose. Will not charge you for this wrong dish waives payment for the incorrect dish only. It does not make all dishes or the replacement explicitly free. Charge is a verb here, unlike the noun in service charge."
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        },
+        "takeaway": {
+          "fa": "دامنهٔ this wrong dish را به همهٔ سفارش گسترش نده.",
+          "en": "Do not expand this wrong dish to the whole order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دامنهٔ جبران",
+              "en": "The scope of compensation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "To make up for this"
+                },
+                {
+                  "text": "to + phrasal verb"
+                },
+                {
+                  "fa": "برای جبران این اشتباه",
+                  "en": "Purpose of compensation"
+                }
+              ],
+              [
+                {
+                  "text": "we will not charge you for this wrong dish"
+                },
+                {
+                  "text": "charge + person + for + item"
+                },
+                {
+                  "fa": "برای غذای اشتباه پول نمی‌گیریم",
+                  "en": "A narrowly specified waiver"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "promise-to-update-and-satisfaction",
+        "title": {
+          "fa": "از وعده تا خبر و رضایت",
+          "en": "From promise to update and satisfaction"
+        },
+        "explanation": {
+          "fa": "ready in ten minutes ابتدا یک انتظار اعلام‌شده است. is coming now خبر بعدیِ در راه بودن غذاست؛ متن فاصلهٔ واقعی میان نوبت‌ها را زمان‌سنجی نمی‌کند. satisfied گزارش رضایت آرمان است؛ تحویل فیزیکی یا خورده‌شدن غذا صریحاً گفته نشده است.",
+          "en": "Ready in ten minutes is an initial estimate; is coming now is a later progress update. The text does not timestamp the interval between turns. Satisfied reports Arman’s reaction; physical delivery or eating is not explicitly narrated."
+        },
+        "example": {
+          "text": "I am satisfied, thank you for solving the problem so well.",
+          "translation": {
+            "fa": "راضی هستم؛ ممنون که مشکل را این‌قدر خوب حل کردید.",
+            "en": "I am satisfied, thank you for solving the problem so well."
+          }
+        },
+        "takeaway": {
+          "fa": "به‌روزرسانی بعدی را با زمان‌سنجی واقعی یا خوردن غذا یکی نگیر.",
+          "en": "Do not turn a later update into measured elapsed time or reported eating."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "از وعده تا خبر و رضایت",
+              "en": "From promise to update and satisfaction"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the correct dish is coming now"
+                },
+                {
+                  "text": "present continuous + now"
+                },
+                {
+                  "fa": "غذای درست الان در راه است",
+                  "en": "A progress update"
+                }
+              ],
+              [
+                {
+                  "text": "I am satisfied"
+                },
+                {
+                  "text": "be + state"
+                },
+                {
+                  "fa": "راضی هستم",
+                  "en": "Customer’s stated reaction"
+                }
+              ],
+              [
+                {
+                  "text": "thank you for solving the problem so well"
+                },
+                {
+                  "text": "for + -ing + degree"
+                },
+                {
+                  "fa": "ممنون که مشکل را خوب حل کردید",
+                  "en": "Appreciation of the response"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "complaint",
+        "text": "this is not what I asked for",
+        "pronunciation": {
+          "faReading": "ذیس ایز نات وات آی اَسکت فور",
+          "ipa": "/ðɪs ɪz nɑt wʌt aɪ æskt fɔr/"
+        },
+        "meaning": {
+          "fa": "این چیزی نیست که خواسته بودم",
+          "en": "This is not the item I requested"
+        },
+        "context": {
+          "fa": "آرمان مغایرت سفارش را روشن می‌کند.",
+          "en": "Arman identifies the order mismatch."
+        },
+        "example": {
+          "text": "Excuse me, I did not order this dish, this is not what I asked for.",
+          "translation": {
+            "fa": "ببخشید، من این غذا را سفارش ندادم؛ این چیزی نیست که خواسته بودم.",
+            "en": "Excuse me, I did not order this dish, this is not what I asked for."
+          }
+        }
+      },
+      {
+        "id": "immediate",
+        "text": "right away",
+        "pronunciation": {
+          "faReading": "رایت اِوِی",
+          "ipa": "/raɪt əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "بی‌درنگ",
+          "en": "Immediately"
+        },
+        "context": {
+          "fa": "پیشخدمت بررسی فوری را وعده می‌دهد.",
+          "en": "The waiter promises an immediate check."
+        },
+        "example": {
+          "text": "I am sorry, let me check your order right away, what did you order?",
+          "translation": {
+            "fa": "متأسفم، بگذارید همین الان سفارشتان را بررسی کنم؛ چه سفارش داده بودید؟",
+            "en": "I am sorry, let me check your order right away, what did you order?"
+          }
+        }
+      },
+      {
+        "id": "apology",
+        "text": "please accept my apologies",
+        "pronunciation": {
+          "faReading": "پْلیز اَکسِپت مای اِپالِجیز",
+          "ipa": "/pliz əkˈsɛpt maɪ əˈpɑlədʒiz/"
+        },
+        "meaning": {
+          "fa": "لطفاً عذرخواهی مرا بپذیرید",
+          "en": "Please accept my apologies"
+        },
+        "context": {
+          "fa": "عذرخواهی رسمی برای اشتباه است.",
+          "en": "A formal apology for the mistake."
+        },
+        "example": {
+          "text": "This is a serious mistake, please accept my apologies, I will fix it immediately.",
+          "translation": {
+            "fa": "اشتباه جدی‌ای است؛ لطفاً عذرخواهی مرا بپذیرید، فوراً درستش می‌کنم.",
+            "en": "This is a serious mistake, please accept my apologies, I will fix it immediately."
+          }
+        }
+      },
+      {
+        "id": "tact",
+        "text": "I do not want to be rude",
+        "pronunciation": {
+          "faReading": "آی دو نات وانت تو بی رود",
+          "ipa": "/aɪ du nɑt wɑnt tə bi rud/"
+        },
+        "meaning": {
+          "fa": "نمی‌خواهم بی‌ادب باشم",
+          "en": "I do not want to be rude"
+        },
+        "context": {
+          "fa": "آغاز اعتراض مؤدبانه ولی روشن است.",
+          "en": "Softens a clear objection."
+        },
+        "example": {
+          "text": "I do not want to be rude, but I cannot eat this, I am waiting for guests.",
+          "translation": {
+            "fa": "نمی‌خواهم بی‌ادب باشم، ولی نمی‌توانم این را بخورم؛ منتظر مهمان هستم.",
+            "en": "I do not want to be rude, but I cannot eat this, I am waiting for guests."
+          }
+        }
+      },
+      {
+        "id": "compensate",
+        "text": "To make up for this",
+        "pronunciation": {
+          "faReading": "تو مِیک آپ فور ذیس",
+          "ipa": "/tə meɪk ʌp fɚ ðɪs/"
+        },
+        "meaning": {
+          "fa": "برای جبران این اشتباه",
+          "en": "To compensate for this"
+        },
+        "context": {
+          "fa": "مقدمهٔ حذف هزینهٔ غذای اشتباه است، نه کل سفارش.",
+          "en": "Introduces waiving the wrong dish’s cost, not the entire order."
+        },
+        "example": {
+          "text": "To make up for this, we will not charge you for this wrong dish.",
+          "translation": {
+            "fa": "برای جبران، بابت این غذای اشتباه از شما پول نمی‌گیریم.",
+            "en": "To make up for this, we will not charge you for this wrong dish."
+          }
+        }
+      },
+      {
+        "id": "inconvenience",
+        "text": "sorry for the inconvenience",
+        "pronunciation": {
+          "faReading": "ساری فور ذی اینکِنوینیِنس",
+          "ipa": "/ˈsɑri fɚ ði ˌɪnkənˈvinjəns/"
+        },
+        "meaning": {
+          "fa": "بابت دردسر متأسفیم",
+          "en": "Sorry for the trouble caused"
+        },
+        "context": {
+          "fa": "کارکنان اثر اشتباه بر مشتری را می‌پذیرند.",
+          "en": "The staff acknowledges the disruption to the customer."
+        },
+        "example": {
+          "text": "We are sorry for the inconvenience, the correct dish is coming now.",
+          "translation": {
+            "fa": "بابت این دردسر متأسفیم؛ غذای درست همین الان در راه است.",
+            "en": "We are sorry for the inconvenience, the correct dish is coming now."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشکل و مسیر پاسخ رستوران چیست؟",
+          "en": "What is the problem and how does the restaurant respond?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مبلغ زیاد است و تخفیف همهٔ غذاها می‌دهند",
+              "en": "The bill is high and all dishes are discounted"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "میز اشتباه است و گروه را جابه‌جا می‌کنند",
+              "en": "The table is wrong and the group is moved"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "غذای اشتباه آمده و اصلاح و جبران پیشنهاد می‌شود",
+              "en": "The wrong dish arrives and correction and compensation are offered"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سفارش با غذای رسیده فرق دارد؛ عذرخواهی، غذای درست و حذف هزینهٔ غذای اشتباه مطرح‌اند.",
+          "en": "The delivered dish differs from the order; an apology, correction and waiver for the wrong dish are offered."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t04",
+          "t10"
+        ]
+      },
+      {
+        "id": "ordered",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان واقعاً چه سفارش داده بود؟",
+          "en": "What had Arman actually ordered?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ماهی گریل‌شده با برنج",
+              "en": "Grilled fish with rice"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مرغ سرخ‌شده با سالاد",
+              "en": "Fried chicken with salad"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماهی سرخ‌شده با نان",
+              "en": "Fried fish with bread"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "او grilled fish with rice را در برابر fried dish می‌گذارد.",
+          "en": "He contrasts grilled fish with rice with the fried dish received."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "wait",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیشخدمت ابتدا چه مدت برای غذای درست اعلام می‌کند؟",
+          "en": "What wait does the waiter initially give for the correct dish?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پانزده دقیقه",
+              "en": "Fifteen minutes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده دقیقه",
+              "en": "Ten minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیست دقیقه",
+              "en": "Twenty minutes"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "ready in ten minutes برآورد اولیه است؛ خبر coming now بعداً می‌آید و زمان دقیق نوبت‌ها ثبت نشده است.",
+          "en": "Ready in ten minutes is the initial estimate; coming now is a later update without turn timestamps."
+        },
+        "evidenceTurnIds": [
+          "t06",
+          "t12"
+        ]
+      },
+      {
+        "id": "others",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دربارهٔ سفارش‌های دیگر چه پاسخی می‌دهد؟",
+          "en": "What does the waiter say about the other orders?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همه لغو می‌شوند",
+              "en": "They will all be canceled"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هنوز شروع نشده‌اند",
+              "en": "They have not yet been started"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آماده‌اند و تحت تأثیر قرار نمی‌گیرند",
+              "en": "They are ready and will not be affected"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "پاسخ صریح ready و will not be affected است.",
+          "en": "The reply explicitly says ready and will not be affected."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "waiver",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دقیقاً کدام هزینه بخشیده می‌شود؟",
+          "en": "Which charge is explicitly waived?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هزینهٔ غذای اشتباه",
+              "en": "The cost of the wrong dish"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هزینهٔ تمام سفارش‌ها",
+              "en": "The cost of all orders"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هزینهٔ همهٔ نوشیدنی‌ها",
+              "en": "The cost of all drinks"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "this wrong dish دامنه را محدود می‌کند؛ رایگان‌شدن کل وعده یا غذای درست صریح نیست.",
+          "en": "This wrong dish limits the waiver; neither the entire meal nor the replacement is explicitly made free."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "satisfaction",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "واکنش نهایی آرمان چیست؟",
+          "en": "What is Arman’s final response?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اعتراض به افزایش مبلغ",
+              "en": "He objects to an increased total"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ابراز رضایت و تشکر از حل مشکل",
+              "en": "He expresses satisfaction and thanks them for solving the problem"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "درخواست لغو همهٔ غذاها",
+              "en": "He requests cancellation of all dishes"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "I am satisfied و thank you for solving ... پاسخ آخرند؛ خوردن غذا روایت نشده است.",
+          "en": "I am satisfied and thank you for solving ... are his closing response; eating is not narrated."
+        },
+        "evidenceTurnIds": [
+          "t13"
+        ]
+      }
+    ]
+  }
+}

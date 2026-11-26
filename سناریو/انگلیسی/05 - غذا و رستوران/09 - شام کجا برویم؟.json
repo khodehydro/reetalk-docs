@@ -1,0 +1,4005 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s09",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "شام کجا برویم؟",
+    "en": "Where Shall We Have Dinner?"
+  },
+  "objective": {
+    "fa": "ارزیابی پیشنهاد رستوران و هماهنگ‌کردن رزرو، حرکت و برنامهٔ جایگزین.",
+    "en": "Evaluate a restaurant suggestion and coordinate a reservation, travel and a fallback plan."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "We have not decided where to go for dinner tonight, any suggestions?",
+      "translation": {
+        "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+        "en": "We have not decided where to go for dinner tonight, any suggestions?"
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+            "en": "In “have not decided”: no decision has been made up to now"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+            "en": "In “have not decided”: no decision has been made up to now"
+          }
+        },
+        {
+          "surface": "decided",
+          "gloss": {
+            "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+            "en": "In “have not decided”: no decision has been made up to now"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "کجا",
+            "en": "where; asking about place"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; travel to a place"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "dinner",
+          "gloss": {
+            "fa": "شام",
+            "en": "dinner; the main evening meal"
+          }
+        },
+        {
+          "surface": "tonight,",
+          "gloss": {
+            "fa": "امشب",
+            "en": "tonight; this night"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "هیچ؛ مقداری؛ هر",
+            "en": "any; one or more, depending on the question or negative"
+          }
+        },
+        {
+          "surface": "suggestions?",
+          "gloss": {
+            "fa": "پیشنهادها",
+            "en": "suggestions; ideas offered for consideration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+      "translation": {
+        "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+        "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How about»: ... چطور است؟",
+            "en": "In “How about”: offers a restaurant suggestion"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "در «How about»: ... چطور است؟",
+            "en": "In “How about”: offers a restaurant suggestion"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "Persian",
+          "gloss": {
+            "fa": "ایرانی؛ فارسی",
+            "en": "Persian; relating here to Iranian cuisine"
+          }
+        },
+        {
+          "surface": "restaurant",
+          "gloss": {
+            "fa": "رستوران",
+            "en": "restaurant; a place serving meals"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در",
+            "en": "on; on a surface or at a named street"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "street,",
+          "gloss": {
+            "fa": "خیابان",
+            "en": "street; a road in a town"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "heard",
+          "gloss": {
+            "fa": "شنیدم؛ شنیده‌ام",
+            "en": "heard; received information by listening"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "reviews.",
+          "gloss": {
+            "fa": "نظرها؛ نقدها",
+            "en": "reviews; evaluations of a restaurant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "That sounds promising, is it expensive or reasonably priced?",
+      "translation": {
+        "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+        "en": "That sounds promising, is it expensive or reasonably priced?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+            "en": "sounds; gives an impression from what is heard"
+          }
+        },
+        {
+          "surface": "promising,",
+          "gloss": {
+            "fa": "امیدوارکننده",
+            "en": "promising; suggesting a good result is likely"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "expensive",
+          "gloss": {
+            "fa": "گران",
+            "en": "expensive; costing much money"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "reasonably",
+          "gloss": {
+            "fa": "در «reasonably priced»: با قیمت معقول",
+            "en": "In “reasonably priced”: offered at a fair or moderate price"
+          }
+        },
+        {
+          "surface": "priced?",
+          "gloss": {
+            "fa": "در «reasonably priced»: با قیمت معقول",
+            "en": "In “reasonably priced”: offered at a fair or moderate price"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "The prices are moderate, and the portions are generous.",
+      "translation": {
+        "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+        "en": "The prices are moderate, and the portions are generous."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "prices",
+          "gloss": {
+            "fa": "قیمت‌ها",
+            "en": "prices; amounts charged"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "moderate,",
+          "gloss": {
+            "fa": "متوسط؛ متعادل",
+            "en": "moderate; neither very high nor excessive"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "portions",
+          "gloss": {
+            "fa": "پرس‌ها؛ مقدار غذا در هر سرو",
+            "en": "portions; amounts served to each diner"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "generous.",
+          "gloss": {
+            "fa": "زیاد و پُرحجم؛ دربارهٔ پرس غذا",
+            "en": "generous; large in quantity, describing portions"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "Do we need to reserve a table, or can we just walk in?",
+      "translation": {
+        "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+        "en": "Do we need to reserve a table, or can we just walk in?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "reserve",
+          "gloss": {
+            "fa": "رزرو کردن",
+            "en": "reserve; book in advance"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "table,",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی؛ ممکن است",
+            "en": "can; ability, permission or possibility"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "فقط؛ همین",
+            "en": "just; only or merely"
+          }
+        },
+        {
+          "surface": "walk",
+          "gloss": {
+            "fa": "در «walk in»: بدون رزرو قبلی مراجعه کنیم",
+            "en": "In “walk in”: arrive without a reservation"
+          }
+        },
+        {
+          "surface": "in?",
+          "gloss": {
+            "fa": "در «walk in»: بدون رزرو قبلی مراجعه کنیم",
+            "en": "In “walk in”: arrive without a reservation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "It is better to reserve, Friday evenings get crowded quickly.",
+      "translation": {
+        "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+        "en": "It is better to reserve, Friday evenings get crowded quickly."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر",
+            "en": "better; more suitable"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "reserve,",
+          "gloss": {
+            "fa": "رزرو کردن",
+            "en": "reserve; book in advance"
+          }
+        },
+        {
+          "surface": "Friday",
+          "gloss": {
+            "fa": "جمعه",
+            "en": "Friday; the day after Thursday"
+          }
+        },
+        {
+          "surface": "evenings",
+          "gloss": {
+            "fa": "عصرها",
+            "en": "evenings; the later parts of days"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "می‌شود؛ دربارهٔ شلوغ‌شدن",
+            "en": "get; become crowded"
+          }
+        },
+        {
+          "surface": "crowded",
+          "gloss": {
+            "fa": "شلوغ",
+            "en": "crowded; full of people"
+          }
+        },
+        {
+          "surface": "quickly.",
+          "gloss": {
+            "fa": "به‌سرعت",
+            "en": "quickly; in a short time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "Then let us reserve for seven, I will call them right now.",
+      "translation": {
+        "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+        "en": "Then let us reserve for seven, I will call them right now."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes a joint plan"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes a joint plan"
+          }
+        },
+        {
+          "surface": "reserve",
+          "gloss": {
+            "fa": "رزرو کردن",
+            "en": "reserve; book in advance"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "seven,",
+          "gloss": {
+            "fa": "هفت",
+            "en": "seven; 7"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "call",
+          "gloss": {
+            "fa": "تماس تلفنی گرفتن با",
+            "en": "call; telephone someone"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; refers to people or things mentioned"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "در «right now»: همین الان",
+            "en": "In “right now”: immediately"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "در «right now»: همین الان",
+            "en": "In “right now”: immediately"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "Good, and should we meet at the restaurant or go together from here?",
+      "translation": {
+        "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+        "en": "Good, and should we meet at the restaurant or go together from here?"
+      },
+      "tokens": [
+        {
+          "surface": "Good,",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+            "en": "In “should we meet”: asks which meeting arrangement to choose"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+            "en": "In “should we meet”: asks which meeting arrangement to choose"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+            "en": "In “should we meet”: asks which meeting arrangement to choose"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل، ساعت یا قیمت",
+            "en": "at; marks place, clock time or unit price"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "restaurant",
+          "gloss": {
+            "fa": "رستوران",
+            "en": "restaurant; a place serving meals"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; travel to a place"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; marks origin or source"
+          }
+        },
+        {
+          "surface": "here?",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "Let us go together from here, it is only a ten-minute drive.",
+      "translation": {
+        "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+        "en": "Let us go together from here, it is only a ten-minute drive."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "در «Let us»: بیا با هم",
+            "en": "In “Let us”: proposes a joint plan"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "در «Let us»: بیا با هم",
+            "en": "In “Let us”: proposes a joint plan"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; travel to a place"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; marks origin or source"
+          }
+        },
+        {
+          "surface": "here,",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "ten-minute",
+          "gloss": {
+            "fa": "ده‌دقیقه‌ای",
+            "en": "ten-minute; lasting ten minutes"
+          }
+        },
+        {
+          "surface": "drive.",
+          "gloss": {
+            "fa": "مسیر با خودرو؛ اینجا ده دقیقه راه",
+            "en": "drive; a car journey, a noun"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+      "translation": {
+        "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+        "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+      },
+      "tokens": [
+        {
+          "surface": "Perfect,",
+          "gloss": {
+            "fa": "عالی؛ کاملاً مناسب",
+            "en": "perfect; exactly suitable"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل، ساعت یا قیمت",
+            "en": "at; marks place, clock time or unit price"
+          }
+        },
+        {
+          "surface": "six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "thirty,",
+          "gloss": {
+            "fa": "سی",
+            "en": "thirty; 30"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "looking",
+          "gloss": {
+            "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+            "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+          }
+        },
+        {
+          "surface": "forward",
+          "gloss": {
+            "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+            "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+            "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+            "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "reza",
+      "text": "I am too, and I hope the food is as good as people say.",
+      "translation": {
+        "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+        "en": "I am too, and I hope the food is as good as people say."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «I am too»: من هم مشتاقم",
+            "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "در «I am too»: من هم مشتاقم",
+            "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "در «I am too»: من هم مشتاقم",
+            "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "food",
+          "gloss": {
+            "fa": "غذا",
+            "en": "food; things people eat"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "در «as good as»: به خوبیِ",
+            "en": "In “as good as”: compares the hoped-for quality with what people say"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "در «as good as»: به خوبیِ",
+            "en": "In “as good as”: compares the hoped-for quality with what people say"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "در «as good as»: به خوبیِ",
+            "en": "In “as good as”: compares the hoped-for quality with what people say"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "say.",
+          "gloss": {
+            "fa": "گفتن",
+            "en": "say; express in words"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "sara",
+      "text": "If not, we can try the Italian place next door next time.",
+      "translation": {
+        "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+        "en": "If not, we can try the Italian place next door next time."
+      },
+      "tokens": [
+        {
+          "surface": "If",
+          "gloss": {
+            "fa": "در «If not»: اگر این‌طور نبود؛ غذا آن‌قدر خوب نبود",
+            "en": "In “If not”: if the food is not as good as hoped"
+          }
+        },
+        {
+          "surface": "not,",
+          "gloss": {
+            "fa": "در «If not»: اگر این‌طور نبود؛ غذا آن‌قدر خوب نبود",
+            "en": "In “If not”: if the food is not as good as hoped"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی؛ ممکن است",
+            "en": "can; ability, permission or possibility"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "امتحان کردن",
+            "en": "try; experience something to see if you like it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "Italian",
+          "gloss": {
+            "fa": "ایتالیایی",
+            "en": "Italian; relating to Italy"
+          }
+        },
+        {
+          "surface": "place",
+          "gloss": {
+            "fa": "جا؛ اینجا رستوران",
+            "en": "place; a location, here a restaurant"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "در «next door»: کنارِ آنجا؛ مجاور",
+            "en": "In “next door”: in the adjacent premises"
+          }
+        },
+        {
+          "surface": "door",
+          "gloss": {
+            "fa": "در «next door»: کنارِ آنجا؛ مجاور",
+            "en": "In “next door”: in the adjacent premises"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "time.",
+          "gloss": {
+            "fa": "زمان؛ بار",
+            "en": "time; a point in time or an occasion"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+          "en": "In “have not decided”: no decision has been made up to now"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+          "en": "In “have not decided”: no decision has been made up to now"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "decided",
+        "text": "decided",
+        "pronunciation": {
+          "faReading": "دیسایدِد",
+          "ipa": "/dɪˈsaɪdɪd/"
+        },
+        "meaning": {
+          "fa": "در «have not decided»: هنوز تصمیم نگرفته‌ایم",
+          "en": "In “have not decided”: no decision has been made up to now"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "کجا",
+          "en": "where; asking about place"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "رفتن",
+          "en": "go; travel to a place"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "dinner",
+        "text": "dinner",
+        "pronunciation": {
+          "faReading": "دینِر",
+          "ipa": "/ˈdɪnɚ/"
+        },
+        "meaning": {
+          "fa": "شام",
+          "en": "dinner; the main evening meal"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "tonight",
+        "text": "tonight",
+        "pronunciation": {
+          "faReading": "تِنایت",
+          "ipa": "/təˈnaɪt/"
+        },
+        "meaning": {
+          "fa": "امشب",
+          "en": "tonight; this night"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "any",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "هیچ؛ مقداری؛ هر",
+          "en": "any; one or more, depending on the question or negative"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "suggestions",
+        "text": "suggestions",
+        "pronunciation": {
+          "faReading": "سِجِسچِنز",
+          "ipa": "/səˈdʒɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پیشنهادها",
+          "en": "suggestions; ideas offered for consideration"
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How about»: ... چطور است؟",
+          "en": "In “How about”: offers a restaurant suggestion"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "در «How about»: ... چطور است؟",
+          "en": "In “How about”: offers a restaurant suggestion"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "persian",
+        "text": "Persian",
+        "pronunciation": {
+          "faReading": "پِرژِن",
+          "ipa": "/ˈpɝʒən/"
+        },
+        "meaning": {
+          "fa": "ایرانی؛ فارسی",
+          "en": "Persian; relating here to Iranian cuisine"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "restaurant",
+        "text": "restaurant",
+        "pronunciation": {
+          "faReading": "رِستِرانت",
+          "ipa": "/ˈrɛstəˌrɑnt/"
+        },
+        "meaning": {
+          "fa": "رستوران",
+          "en": "restaurant; a place serving meals"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در",
+          "en": "on; on a surface or at a named street"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "street",
+        "text": "street",
+        "pronunciation": {
+          "faReading": "سْتْریت",
+          "ipa": "/strit/"
+        },
+        "meaning": {
+          "fa": "خیابان",
+          "en": "street; a road in a town"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "heard",
+        "text": "heard",
+        "pronunciation": {
+          "faReading": "هِرد",
+          "ipa": "/hɝd/"
+        },
+        "meaning": {
+          "fa": "شنیدم؛ شنیده‌ام",
+          "en": "heard; received information by listening"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "reviews",
+        "text": "reviews",
+        "pronunciation": {
+          "faReading": "ریویوز",
+          "ipa": "/rɪˈvjuz/"
+        },
+        "meaning": {
+          "fa": "نظرها؛ نقدها",
+          "en": "reviews; evaluations of a restaurant"
+        },
+        "example": {
+          "text": "How about the new Persian restaurant on the main street, I heard good reviews.",
+          "translation": {
+            "fa": "رستوران ایرانی جدید در خیابان اصلی چطور است؟ نظرهای خوبی درباره‌اش شنیده‌ام.",
+            "en": "How about the new Persian restaurant on the main street, I heard good reviews."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+          "en": "sounds; gives an impression from what is heard"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "promising",
+        "text": "promising",
+        "pronunciation": {
+          "faReading": "پْرامیسینگ",
+          "ipa": "/ˈprɑmɪsɪŋ/"
+        },
+        "meaning": {
+          "fa": "امیدوارکننده",
+          "en": "promising; suggesting a good result is likely"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "expensive",
+        "text": "expensive",
+        "pronunciation": {
+          "faReading": "ایکسپِنسیو",
+          "ipa": "/ɪkˈspɛnsɪv/"
+        },
+        "meaning": {
+          "fa": "گران",
+          "en": "expensive; costing much money"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "reasonably",
+        "text": "reasonably",
+        "pronunciation": {
+          "faReading": "ریزِنِبلی",
+          "ipa": "/ˈrizənəbli/"
+        },
+        "meaning": {
+          "fa": "در «reasonably priced»: با قیمت معقول",
+          "en": "In “reasonably priced”: offered at a fair or moderate price"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "priced",
+        "text": "priced",
+        "pronunciation": {
+          "faReading": "پْرایست",
+          "ipa": "/praɪst/"
+        },
+        "meaning": {
+          "fa": "در «reasonably priced»: با قیمت معقول",
+          "en": "In “reasonably priced”: offered at a fair or moderate price"
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "prices",
+        "text": "prices",
+        "pronunciation": {
+          "faReading": "پْرایسِز",
+          "ipa": "/ˈpraɪsɪz/"
+        },
+        "meaning": {
+          "fa": "قیمت‌ها",
+          "en": "prices; amounts charged"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "moderate",
+        "text": "moderate",
+        "pronunciation": {
+          "faReading": "مادِرِت",
+          "ipa": "/ˈmɑdərət/"
+        },
+        "meaning": {
+          "fa": "متوسط؛ متعادل",
+          "en": "moderate; neither very high nor excessive"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "portions",
+        "text": "portions",
+        "pronunciation": {
+          "faReading": "پورشِنز",
+          "ipa": "/ˈpɔrʃənz/"
+        },
+        "meaning": {
+          "fa": "پرس‌ها؛ مقدار غذا در هر سرو",
+          "en": "portions; amounts served to each diner"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "generous",
+        "text": "generous",
+        "pronunciation": {
+          "faReading": "جِنِرِس",
+          "ipa": "/ˈdʒɛnərəs/"
+        },
+        "meaning": {
+          "fa": "زیاد و پُرحجم؛ دربارهٔ پرس غذا",
+          "en": "generous; large in quantity, describing portions"
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ یا انجام دادن",
+          "en": "do; helps form questions, or perform an action"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "reserve",
+        "text": "reserve",
+        "pronunciation": {
+          "faReading": "ریزِرو",
+          "ipa": "/rɪˈzɝv/"
+        },
+        "meaning": {
+          "fa": "رزرو کردن",
+          "en": "reserve; book in advance"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "table",
+        "text": "table",
+        "pronunciation": {
+          "faReading": "تِیبِل",
+          "ipa": "/ˈteɪbəl/"
+        },
+        "meaning": {
+          "fa": "میز",
+          "en": "table; a dining table"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی؛ ممکن است",
+          "en": "can; ability, permission or possibility"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "فقط؛ همین",
+          "en": "just; only or merely"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "walk",
+        "text": "walk",
+        "pronunciation": {
+          "faReading": "واک",
+          "ipa": "/wɔk/"
+        },
+        "meaning": {
+          "fa": "در «walk in»: بدون رزرو قبلی مراجعه کنیم",
+          "en": "In “walk in”: arrive without a reservation"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «walk in»: بدون رزرو قبلی مراجعه کنیم",
+          "en": "In “walk in”: arrive without a reservation"
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر",
+          "en": "better; more suitable"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "friday",
+        "text": "Friday",
+        "pronunciation": {
+          "faReading": "فْرای‌دِی",
+          "ipa": "/ˈfraɪdeɪ/"
+        },
+        "meaning": {
+          "fa": "جمعه",
+          "en": "Friday; the day after Thursday"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "evenings",
+        "text": "evenings",
+        "pronunciation": {
+          "faReading": "ایونینگْز",
+          "ipa": "/ˈivnɪŋz/"
+        },
+        "meaning": {
+          "fa": "عصرها",
+          "en": "evenings; the later parts of days"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "می‌شود؛ دربارهٔ شلوغ‌شدن",
+          "en": "get; become crowded"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "crowded",
+        "text": "crowded",
+        "pronunciation": {
+          "faReading": "کْراودِد",
+          "ipa": "/ˈkraʊdɪd/"
+        },
+        "meaning": {
+          "fa": "شلوغ",
+          "en": "crowded; full of people"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "quickly",
+        "text": "quickly",
+        "pronunciation": {
+          "faReading": "کْویکلی",
+          "ipa": "/ˈkwɪkli/"
+        },
+        "meaning": {
+          "fa": "به‌سرعت",
+          "en": "quickly; in a short time"
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes a joint plan"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes a joint plan"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "seven",
+        "text": "seven",
+        "pronunciation": {
+          "faReading": "سِوِن",
+          "ipa": "/ˈsɛvən/"
+        },
+        "meaning": {
+          "fa": "هفت",
+          "en": "seven; 7"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "call",
+        "text": "call",
+        "pronunciation": {
+          "faReading": "کال",
+          "ipa": "/kɔl/"
+        },
+        "meaning": {
+          "fa": "تماس تلفنی گرفتن با",
+          "en": "call; telephone someone"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; refers to people or things mentioned"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "در «right now»: همین الان",
+          "en": "In “right now”: immediately"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "در «right now»: همین الان",
+          "en": "In “right now”: immediately"
+        },
+        "example": {
+          "text": "Then let us reserve for seven, I will call them right now.",
+          "translation": {
+            "fa": "پس بیا برای ساعت هفت رزرو کنیم؛ همین الان به آن‌ها زنگ می‌زنم.",
+            "en": "Then let us reserve for seven, I will call them right now."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+          "en": "In “should we meet”: asks which meeting arrangement to choose"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "we-2",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+          "en": "In “should we meet”: asks which meeting arrangement to choose"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "در «should we meet»: بهتر است همدیگر را ببینیم؟",
+          "en": "In “should we meet”: asks which meeting arrangement to choose"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل، ساعت یا قیمت",
+          "en": "at; marks place, clock time or unit price"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از",
+          "en": "from; marks origin or source"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Good, and should we meet at the restaurant or go together from here?",
+          "translation": {
+            "fa": "خوب است؛ در رستوران همدیگر را ببینیم یا از اینجا با هم برویم؟",
+            "en": "Good, and should we meet at the restaurant or go together from here?"
+          }
+        }
+      },
+      {
+        "id": "let-2",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "در «Let us»: بیا با هم",
+          "en": "In “Let us”: proposes a joint plan"
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "us-2",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «Let us»: بیا با هم",
+          "en": "In “Let us”: proposes a joint plan"
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "ten-minute",
+        "text": "ten-minute",
+        "pronunciation": {
+          "faReading": "تِن مینِت",
+          "ipa": "/ˈtɛnˌmɪnət/"
+        },
+        "meaning": {
+          "fa": "ده‌دقیقه‌ای",
+          "en": "ten-minute; lasting ten minutes"
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "drive",
+        "text": "drive",
+        "pronunciation": {
+          "faReading": "دْرایو",
+          "ipa": "/draɪv/"
+        },
+        "meaning": {
+          "fa": "مسیر با خودرو؛ اینجا ده دقیقه راه",
+          "en": "drive; a car journey, a noun"
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "Perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly suitable"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "six",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "شش",
+          "en": "six; 6"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "thirty",
+        "text": "thirty",
+        "pronunciation": {
+          "faReading": "ثِرتی",
+          "ipa": "/ˈθɝti/"
+        },
+        "meaning": {
+          "fa": "سی",
+          "en": "thirty; 30"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "looking",
+        "text": "looking",
+        "pronunciation": {
+          "faReading": "لوکینگ",
+          "ipa": "/ˈlʊkɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+          "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "forward",
+        "text": "forward",
+        "pronunciation": {
+          "faReading": "فوروِرد",
+          "ipa": "/ˈfɔrwɚd/"
+        },
+        "meaning": {
+          "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+          "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+          "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "it-2",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در «looking forward to it»: مشتاقانه منتظر آن هستم",
+          "en": "In “looking forward to it”: anticipating the shared dinner with pleasure"
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «I am too»: من هم مشتاقم",
+          "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "am-2",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "در «I am too»: من هم مشتاقم",
+          "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «I am too»: من هم مشتاقم",
+          "en": "In “I am too”: shares Sara’s anticipation of the dinner"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "food",
+        "text": "food",
+        "pronunciation": {
+          "faReading": "فود",
+          "ipa": "/fud/"
+        },
+        "meaning": {
+          "fa": "غذا",
+          "en": "food; things people eat"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "در «as good as»: به خوبیِ",
+          "en": "In “as good as”: compares the hoped-for quality with what people say"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "good-2",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "در «as good as»: به خوبیِ",
+          "en": "In “as good as”: compares the hoped-for quality with what people say"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "say",
+        "text": "say",
+        "pronunciation": {
+          "faReading": "سِی",
+          "ipa": "/seɪ/"
+        },
+        "meaning": {
+          "fa": "گفتن",
+          "en": "say; express in words"
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "If",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "در «If not»: اگر این‌طور نبود؛ غذا آن‌قدر خوب نبود",
+          "en": "In “If not”: if the food is not as good as hoped"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "not-2",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «If not»: اگر این‌طور نبود؛ غذا آن‌قدر خوب نبود",
+          "en": "In “If not”: if the food is not as good as hoped"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "امتحان کردن",
+          "en": "try; experience something to see if you like it"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "italian",
+        "text": "Italian",
+        "pronunciation": {
+          "faReading": "ایتَلیِن",
+          "ipa": "/ɪˈtæljən/"
+        },
+        "meaning": {
+          "fa": "ایتالیایی",
+          "en": "Italian; relating to Italy"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا رستوران",
+          "en": "place; a location, here a restaurant"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "در «next door»: کنارِ آنجا؛ مجاور",
+          "en": "In “next door”: in the adjacent premises"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "door",
+        "text": "door",
+        "pronunciation": {
+          "faReading": "دور",
+          "ipa": "/dɔr/"
+        },
+        "meaning": {
+          "fa": "در «next door»: کنارِ آنجا؛ مجاور",
+          "en": "In “next door”: in the adjacent premises"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "next-2",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "زمان؛ بار",
+          "en": "time; a point in time or an occasion"
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "undecided-and-suggestion",
+        "title": {
+          "fa": "تصمیم باز و پیشنهاد",
+          "en": "An open decision and a suggestion"
+        },
+        "explanation": {
+          "fa": "have not decided وضعیت حل‌نشده تا اکنون را می‌گوید. where to go یک انتخاب داخلی با where + to است. How about پیشنهاد معرفی می‌کند؛ heard good reviews گزارشی از شنیده‌های سارا است، نه تأیید تجربهٔ شخصیِ غذاخوردن او.",
+          "en": "Have not decided describes an unresolved choice up to now. Where to go embeds a where + infinitive choice. How about introduces a suggestion; heard good reviews reports Sara’s information, not a stated personal dining experience."
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        },
+        "takeaway": {
+          "fa": "شنیدن نظر خوب با تجربهٔ شخصی یکی نیست.",
+          "en": "Hearing good reviews is not the same as personal experience."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تصمیم باز و پیشنهاد",
+              "en": "An open decision and a suggestion"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "have not decided where to go"
+                },
+                {
+                  "text": "present perfect negative + wh-infinitive"
+                },
+                {
+                  "fa": "تصمیم نگرفته‌ایم کجا برویم",
+                  "en": "An unresolved choice"
+                }
+              ],
+              [
+                {
+                  "text": "How about the new Persian restaurant"
+                },
+                {
+                  "text": "How about + suggestion?"
+                },
+                {
+                  "fa": "رستوران ایرانی جدید چطور؟",
+                  "en": "A suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "I heard good reviews"
+                },
+                {
+                  "text": "past report of information"
+                },
+                {
+                  "fa": "نظرهای خوبی شنیدم",
+                  "en": "Secondhand evaluation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "value-and-portions",
+        "title": {
+          "fa": "قیمت و مقدار پرس غذا",
+          "en": "Price and portion size"
+        },
+        "explanation": {
+          "fa": "reasonably priced قیمت‌گذاری معقول را می‌گوید. moderate prices قیمت متوسط‌اند و generous portions یعنی پرس پُرحجم، نه پرس مهربان. promising هم برداشت امیدوارکننده است، نه تضمین کیفیت.",
+          "en": "Reasonably priced describes fair pricing. Moderate prices are mid-range; generous portions are large servings, not kind-hearted portions. Promising expresses a hopeful impression, not guaranteed quality."
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        },
+        "takeaway": {
+          "fa": "generous با portions یعنی پُرحجم.",
+          "en": "Generous with portions means large in amount."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قیمت و مقدار پرس غذا",
+              "en": "Price and portion size"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "reasonably priced"
+                },
+                {
+                  "text": "adverb + past participle"
+                },
+                {
+                  "fa": "با قیمت معقول",
+                  "en": "An evaluation of cost"
+                }
+              ],
+              [
+                {
+                  "text": "The prices are moderate, and the portions are generous"
+                },
+                {
+                  "text": "parallel descriptions"
+                },
+                {
+                  "fa": "قیمت متوسط و پرس پُرحجم",
+                  "en": "Cost and quantity are distinct"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reserve-or-walk-in",
+        "title": {
+          "fa": "رزرو یا مراجعهٔ بدون رزرو",
+          "en": "Reserve or walk in"
+        },
+        "explanation": {
+          "fa": "walk in در بافت رستوران بدون رزرو مراجعه‌کردن است، نه تأکید بر پیاده‌بودن سفر. need to و better to دو شدت متفاوت ضرورت/توصیه دارند. get crowded یعنی شلوغ شدن؛ Friday evenings دلیل معمول رزرو است، نه گزارش رزرو انجام‌شده.",
+          "en": "Walk in in a restaurant context means arrive without a reservation, not necessarily travel on foot. Need to and better to express necessity and advice with different force. Get crowded means become busy; Friday evenings supports reserving but does not report a completed booking."
+        },
+        "example": {
+          "text": "It is better to reserve, Friday evenings get crowded quickly.",
+          "translation": {
+            "fa": "بهتر است رزرو کنیم؛ عصرهای جمعه زود شلوغ می‌شود.",
+            "en": "It is better to reserve, Friday evenings get crowded quickly."
+          }
+        },
+        "takeaway": {
+          "fa": "walk in به رزرو مربوط است؛ drive به روش رفتن.",
+          "en": "Walk in concerns booking status; drive concerns transport."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "رزرو یا مراجعهٔ بدون رزرو",
+              "en": "Reserve or walk in"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Do we need to reserve a table, or can we just walk in"
+                },
+                {
+                  "text": "need to + action; or can + alternative?"
+                },
+                {
+                  "fa": "رزرو لازم است یا بدون رزرو می‌شود؟",
+                  "en": "Two booking options"
+                }
+              ],
+              [
+                {
+                  "text": "It is better to reserve"
+                },
+                {
+                  "text": "better to + action"
+                },
+                {
+                  "fa": "بهتر است رزرو کنیم",
+                  "en": "Recommendation"
+                }
+              ],
+              [
+                {
+                  "text": "Friday evenings get crowded quickly"
+                },
+                {
+                  "text": "get + adjective"
+                },
+                {
+                  "fa": "عصرهای جمعه زود شلوغ می‌شود",
+                  "en": "A recurring reason"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plan-and-clock-times",
+        "title": {
+          "fa": "هماهنگی برنامه و ساعت‌ها",
+          "en": "Coordinating plans and clock times"
+        },
+        "explanation": {
+          "fa": "Let us ... پیشنهاد کار مشترک و I will call تصمیم فردی رضا است. for seven ساعت رزرو پیشنهادی است؛ at six thirty آمادگی سارا و ten-minute drive مدت مسیر است. زمان خروج دقیق گفته نشده و نباید از این سه عدد ساعت حرکت قطعی ساخت.",
+          "en": "Let us ... proposes joint action; I will call states Reza’s individual decision. For seven is the proposed booking time; at six thirty is Sara’s readiness; ten-minute drive is journey length. No exact departure time is stated, so one should not be invented."
+        },
+        "example": {
+          "text": "Perfect, I will be ready at six thirty, and I am looking forward to it.",
+          "translation": {
+            "fa": "عالی، شش‌ونیم آماده‌ام و مشتاقش هستم.",
+            "en": "Perfect, I will be ready at six thirty, and I am looking forward to it."
+          }
+        },
+        "takeaway": {
+          "fa": "ساعت رزرو، ساعت آمادگی و مدت مسیر را جدا نگه دار.",
+          "en": "Keep booking time, readiness time and journey duration separate."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هماهنگی برنامه و ساعت‌ها",
+              "en": "Coordinating plans and clock times"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "reserve for seven"
+                },
+                {
+                  "text": "reserve for + clock time"
+                },
+                {
+                  "fa": "رزرو برای ساعت هفت",
+                  "en": "Proposed reservation time"
+                }
+              ],
+              [
+                {
+                  "text": "ready at six thirty"
+                },
+                {
+                  "text": "ready at + clock time"
+                },
+                {
+                  "fa": "شش‌ونیم آماده",
+                  "en": "Sara’s readiness"
+                }
+              ],
+              [
+                {
+                  "text": "a ten-minute drive"
+                },
+                {
+                  "text": "number-unit + journey noun"
+                },
+                {
+                  "fa": "ده دقیقه راه با خودرو",
+                  "en": "Duration; minute stays singular"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shared-anticipation-and-comparison",
+        "title": {
+          "fa": "اشتیاق مشترک و مقایسهٔ مطلوب",
+          "en": "Shared anticipation and a hoped-for comparison"
+        },
+        "explanation": {
+          "fa": "I am too از جملهٔ قبل looking forward to it را بازمی‌گیرد. as good as people say کیفیت مطلوب را با توصیف مردم برابر می‌خواهد؛ هنوز غذا را نخورده‌اند. hope مشخص می‌کند این یک انتظار مطلوب است، نه واقعیت سنجیده‌شده.",
+          "en": "I am too recovers looking forward to it from the prior turn. As good as people say expresses the hoped-for quality compared with others’ descriptions; they have not eaten there in this conversation. Hope marks a desired outcome, not an established finding."
+        },
+        "example": {
+          "text": "I am too, and I hope the food is as good as people say.",
+          "translation": {
+            "fa": "من هم همین‌طور و امیدوارم غذا به خوبیِ چیزی باشد که مردم می‌گویند.",
+            "en": "I am too, and I hope the food is as good as people say."
+          }
+        },
+        "takeaway": {
+          "fa": "I am too پاسخ به اشتیاق است؛ as ... as مقایسه می‌کند.",
+          "en": "I am too echoes anticipation; as ... as makes a comparison."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اشتیاق مشترک و مقایسهٔ مطلوب",
+              "en": "Shared anticipation and a hoped-for comparison"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am too"
+                },
+                {
+                  "text": "subject + be + too"
+                },
+                {
+                  "fa": "من هم مشتاقم",
+                  "en": "Shared predicate from the previous turn"
+                }
+              ],
+              [
+                {
+                  "text": "as good as people say"
+                },
+                {
+                  "text": "as + adjective + as + comparison"
+                },
+                {
+                  "fa": "به خوبیِ گفتهٔ مردم",
+                  "en": "A hoped-for comparison"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elliptical-fallback",
+        "title": {
+          "fa": "شرط کوتاه و گزینهٔ بعدی",
+          "en": "An elliptical condition and a fallback"
+        },
+        "explanation": {
+          "fa": "If not کوتاه‌شدهٔ اگر غذا به خوبیِ گفته‌ها نبود است. can try گزینهٔ آینده را باز می‌گذارد. next door مکان مجاور و next time فرصت بعدی است؛ آن‌ها تصمیم نمی‌گیرند حتماً همان شب به رستوران دیگر بروند.",
+          "en": "If not abbreviates if the food is not as good as people say. Can try keeps a future option available. Next door gives an adjacent location; next time gives a later occasion. They do not commit to switching restaurants that same night."
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        },
+        "takeaway": {
+          "fa": "next door مکان است و next time نوبت آینده.",
+          "en": "Next door gives place; next time gives a future occasion."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "شرط کوتاه و گزینهٔ بعدی",
+              "en": "An elliptical condition and a fallback"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "If not"
+                },
+                {
+                  "text": "if + understood negative clause"
+                },
+                {
+                  "fa": "اگر آن‌طور نبود",
+                  "en": "The condition is recovered from the previous turn"
+                }
+              ],
+              [
+                {
+                  "text": "the Italian place next door next time"
+                },
+                {
+                  "text": "place + adjacent location + future occasion"
+                },
+                {
+                  "fa": "رستوران ایتالیایی کناری در دفعهٔ بعد",
+                  "en": "A later fallback, not an immediate switch"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "suggestions",
+        "text": "any suggestions",
+        "pronunciation": {
+          "faReading": "اِنی سِجِسچِنز",
+          "ipa": "/ˈɛni səˈdʒɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پیشنهادی داری؟",
+          "en": "Any suggestions?"
+        },
+        "context": {
+          "fa": "درخواست کوتاه برای پیشنهاد محل شام است.",
+          "en": "A short request for dinner-location ideas."
+        },
+        "example": {
+          "text": "We have not decided where to go for dinner tonight, any suggestions?",
+          "translation": {
+            "fa": "هنوز تصمیم نگرفته‌ایم امشب برای شام کجا برویم؛ پیشنهادی داری؟",
+            "en": "We have not decided where to go for dinner tonight, any suggestions?"
+          }
+        }
+      },
+      {
+        "id": "price",
+        "text": "reasonably priced",
+        "pronunciation": {
+          "faReading": "ریزِنِبلی پْرایست",
+          "ipa": "/ˈrizənəbli praɪst/"
+        },
+        "meaning": {
+          "fa": "با قیمت معقول",
+          "en": "Fairly priced"
+        },
+        "context": {
+          "fa": "قیمت را ارزیابی می‌کند؛ رقم مشخصی نیست.",
+          "en": "Evaluates cost without giving a figure."
+        },
+        "example": {
+          "text": "That sounds promising, is it expensive or reasonably priced?",
+          "translation": {
+            "fa": "امیدوارکننده به نظر می‌رسد؛ گران است یا قیمتش معقول است؟",
+            "en": "That sounds promising, is it expensive or reasonably priced?"
+          }
+        }
+      },
+      {
+        "id": "portions",
+        "text": "the portions are generous",
+        "pronunciation": {
+          "faReading": "ذِ پورشِنز آر جِنِرِس",
+          "ipa": "/ðə ˈpɔrʃənz ɑr ˈdʒɛnərəs/"
+        },
+        "meaning": {
+          "fa": "پرس‌ها پُرحجم‌اند",
+          "en": "The servings are large"
+        },
+        "context": {
+          "fa": "generous دربارهٔ مقدار غذاست، نه اخلاق انسان.",
+          "en": "Generous describes food quantity, not human character."
+        },
+        "example": {
+          "text": "The prices are moderate, and the portions are generous.",
+          "translation": {
+            "fa": "قیمت‌ها متوسط‌اند و پرس‌ها پُرحجم‌اند.",
+            "en": "The prices are moderate, and the portions are generous."
+          }
+        }
+      },
+      {
+        "id": "walk-in",
+        "text": "walk in",
+        "pronunciation": {
+          "faReading": "واک این",
+          "ipa": "/wɔk ɪn/"
+        },
+        "meaning": {
+          "fa": "بدون رزرو مراجعه کردن",
+          "en": "Arrive without a reservation"
+        },
+        "context": {
+          "fa": "با رزرو مقایسه می‌شود؛ روش سفر با خودرو جداست.",
+          "en": "Contrasted with booking; transport by car is a separate matter."
+        },
+        "example": {
+          "text": "Do we need to reserve a table, or can we just walk in?",
+          "translation": {
+            "fa": "باید میز رزرو کنیم یا می‌توانیم بدون رزرو برویم؟",
+            "en": "Do we need to reserve a table, or can we just walk in?"
+          }
+        }
+      },
+      {
+        "id": "drive",
+        "text": "a ten-minute drive",
+        "pronunciation": {
+          "faReading": "اِ تِن مینِت دْرایو",
+          "ipa": "/ə ˈtɛnˌmɪnət draɪv/"
+        },
+        "meaning": {
+          "fa": "ده دقیقه راه با خودرو",
+          "en": "A car journey lasting ten minutes"
+        },
+        "context": {
+          "fa": "مدت مسیر است، نه ساعت خروج.",
+          "en": "Journey duration, not departure time."
+        },
+        "example": {
+          "text": "Let us go together from here, it is only a ten-minute drive.",
+          "translation": {
+            "fa": "بیا از اینجا با هم برویم؛ فقط ده دقیقه با ماشین راه است.",
+            "en": "Let us go together from here, it is only a ten-minute drive."
+          }
+        }
+      },
+      {
+        "id": "fallback",
+        "text": "next door next time",
+        "pronunciation": {
+          "faReading": "نِکست دور نِکست تایم",
+          "ipa": "/nɛkst dɔr nɛkst taɪm/"
+        },
+        "meaning": {
+          "fa": "کنارِ آنجا، دفعهٔ بعد",
+          "en": "Next door on a later occasion"
+        },
+        "context": {
+          "fa": "گزینهٔ جایگزین برای نوبت بعد است، نه تغییر برنامهٔ قطعی امشب.",
+          "en": "A future fallback, not a definite switch tonight."
+        },
+        "example": {
+          "text": "If not, we can try the Italian place next door next time.",
+          "translation": {
+            "fa": "اگر نبود، می‌توانیم دفعهٔ بعد رستوران ایتالیاییِ کناری را امتحان کنیم.",
+            "en": "If not, we can try the Italian place next door next time."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آن‌ها بیشتر چه چیزی را هماهنگ می‌کنند؟",
+          "en": "What are they mainly coordinating?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ارزیابی شام دیشب و بازپرداخت",
+              "en": "A review of last night’s meal and a refund"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "منوی جشن پنجاه‌نفره",
+              "en": "A menu for a fifty-person party"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انتخاب رستوران شام و برنامهٔ رزرو و رفتن",
+              "en": "A dinner restaurant, reservation and travel plan"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "پیشنهاد رستوران، رزرو هفت، رفتن با هم و آمادگی شش‌ونیم مطرح است.",
+          "en": "They discuss a restaurant, a seven o’clock booking, traveling together and readiness at six thirty."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t07",
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "restaurant",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سارا کدام رستوران را ابتدا پیشنهاد می‌دهد؟",
+          "en": "Which restaurant does Sara first suggest?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "رستوران ایرانی جدید در خیابان اصلی",
+              "en": "The new Persian restaurant on the main street"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رستوران ایتالیایی کنار آن",
+              "en": "The Italian restaurant next door"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رستوران قدیمی کنار بندر",
+              "en": "The old restaurant by the harbor"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پیشنهاد اولیه Persian restaurant است؛ Italian place گزینهٔ دفعهٔ بعد است.",
+          "en": "The initial suggestion is the Persian restaurant; the Italian place is a later fallback."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t12"
+        ]
+      },
+      {
+        "id": "reason",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا رزرو توصیه می‌شود؟",
+          "en": "Why is reserving recommended?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "چون ورود بدون کارت ممکن نیست",
+              "en": "Because entry without a card is impossible"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چون عصرهای جمعه زود شلوغ می‌شود",
+              "en": "Because Friday evenings get crowded quickly"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چون رستوران فقط بیرون‌بر دارد",
+              "en": "Because the restaurant only offers takeaway"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "دلیل سارا Friday evenings get crowded quickly است، نه ممنوعیت مطلق مراجعهٔ بدون رزرو.",
+          "en": "Sara’s reason is Friday evenings get crowded quickly, not an absolute ban on walk-ins."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "times",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام تطبیق زمان‌ها درست است؟",
+          "en": "Which mapping of times is correct?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "رزرو شش‌ونیم، آمادگی هفت، مسیر بیست دقیقه",
+              "en": "Booking at six thirty, readiness at seven, twenty-minute drive"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رزرو هفت، آمادگی شش، مسیر سی دقیقه",
+              "en": "Booking at seven, readiness at six, thirty-minute drive"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رزرو پیشنهادی هفت، آمادگی شش‌ونیم، مسیر ده دقیقه",
+              "en": "Proposed booking at seven, readiness at six thirty, ten-minute drive"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "هر زمان نقش متفاوت دارد؛ ساعت خروج دقیق و تأیید رزرو در متن نیست.",
+          "en": "Each time has a different role; exact departure and booking confirmation are not stated."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "transport",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برای رفتن کدام تصمیم را می‌گیرند؟",
+          "en": "What travel plan do they choose?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "با هم از همان‌جا بروند",
+              "en": "Go together from where they are"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جداگانه در رستوران همدیگر را ببینند",
+              "en": "Travel separately and meet at the restaurant"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بدون خودرو از دو مسیر بروند",
+              "en": "Take two separate routes without a car"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رضا Let us go together from here را انتخاب می‌کند؛ drive هم سفر با خودرو را می‌گوید.",
+          "en": "Reza chooses Let us go together from here; drive identifies a car journey."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "fallback",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "If not به چه وضعیتی اشاره دارد و راه جایگزین کی است؟",
+          "en": "What condition does If not refer to, and when is the fallback?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اگر رزرو تأیید نشد، همین الان جای دیگر بروند",
+              "en": "If the booking is not confirmed, switch places immediately"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اگر غذا به خوبیِ گفته‌ها نبود، دفعهٔ بعد ایتالیایی را امتحان کنند",
+              "en": "If the food is not as good as people say, try the Italian place next time"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اگر مسیر طولانی شد، شام فردا را لغو کنند",
+              "en": "If the drive is long, cancel tomorrow’s dinner"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "شرط از hope the food is as good ... فهمیده می‌شود و next time نوبت بعد است.",
+          "en": "The condition is recovered from hope the food is as good ...; next time means a later occasion."
+        },
+        "evidenceTurnIds": [
+          "t11",
+          "t12"
+        ]
+      }
+    ]
+  }
+}

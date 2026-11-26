@@ -1,0 +1,3200 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s04",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "میز برای چهار نفر",
+    "en": "A Table for Four"
+  },
+  "objective": {
+    "fa": "درخواست میز بدون رزرو، آب برای گروه و فهم زمان گرفتن سفارش.",
+    "en": "Request a table without a reservation, water for a group and understand when the order will be taken."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "We would like a table for four people, please.",
+      "translation": {
+        "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+        "en": "We would like a table for four people, please."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would like”: politely want"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "four",
+          "gloss": {
+            "fa": "چهار",
+            "en": "four; 4"
+          }
+        },
+        {
+          "surface": "people,",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "please.",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "waiter",
+      "text": "Do you have a reservation, or would you like a table right now?",
+      "translation": {
+        "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+        "en": "Do you have a reservation, or would you like a table right now?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used with another verb to connect an action to now"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "reservation,",
+          "gloss": {
+            "fa": "رزرو",
+            "en": "reservation; an advance booking"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "در «right now»: همین الان",
+            "en": "In “right now”: immediately, not at a later booking time"
+          }
+        },
+        {
+          "surface": "now?",
+          "gloss": {
+            "fa": "در «right now»: همین الان",
+            "en": "In “right now”: immediately, not at a later booking time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "No reservation, we are four, a table for four would be fine.",
+      "translation": {
+        "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+        "en": "No reservation, we are four, a table for four would be fine."
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "reservation,",
+          "gloss": {
+            "fa": "رزرو",
+            "en": "reservation; an advance booking"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "four,",
+          "gloss": {
+            "fa": "چهار",
+            "en": "four; 4"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "four",
+          "gloss": {
+            "fa": "چهار",
+            "en": "four; 4"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "برای خواسته یا پیشنهاد مؤدبانه",
+            "en": "would; makes a wish or suggestion less direct"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "fine.",
+          "gloss": {
+            "fa": "مناسب؛ قابل‌قبول",
+            "en": "fine; acceptable or satisfactory"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "waiter",
+      "text": "There is a table available near the window, would that suit you?",
+      "translation": {
+        "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+        "en": "There is a table available near the window, would that suit you?"
+      },
+      "tokens": [
+        {
+          "surface": "There",
+          "gloss": {
+            "fa": "در «There is»: وجود دارد",
+            "en": "In “There is”: introduces an available table"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «There is»: وجود دارد",
+            "en": "In “There is”: introduces an available table"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "available",
+          "gloss": {
+            "fa": "موجود؛ خالی برای استفاده",
+            "en": "available; free for use"
+          }
+        },
+        {
+          "surface": "near",
+          "gloss": {
+            "fa": "نزدیکِ",
+            "en": "near; not far from"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "window,",
+          "gloss": {
+            "fa": "پنجره",
+            "en": "window; a glazed opening in a wall"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "برای خواسته یا پیشنهاد مؤدبانه",
+            "en": "would; makes a wish or suggestion less direct"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "suit",
+          "gloss": {
+            "fa": "مناسب باشد؛ مورد پسند باشد",
+            "en": "suit; be acceptable or convenient"
+          }
+        },
+        {
+          "surface": "you?",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "That is perfect, the window table is exactly what we want.",
+      "translation": {
+        "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+        "en": "That is perfect, the window table is exactly what we want."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "perfect,",
+          "gloss": {
+            "fa": "عالی؛ کاملاً مناسب",
+            "en": "perfect; exactly suitable"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "window",
+          "gloss": {
+            "fa": "پنجره",
+            "en": "window; a glazed opening in a wall"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "exactly",
+          "gloss": {
+            "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+            "en": "In “exactly what we want”: the precise option wanted"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+            "en": "In “exactly what we want”: the precise option wanted"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+            "en": "In “exactly what we want”: the precise option wanted"
+          }
+        },
+        {
+          "surface": "want.",
+          "gloss": {
+            "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+            "en": "In “exactly what we want”: the precise option wanted"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "waiter",
+      "text": "Great, I will show you to the table and bring the menus.",
+      "translation": {
+        "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+        "en": "Great, I will show you to the table and bring the menus."
+      },
+      "tokens": [
+        {
+          "surface": "Great,",
+          "gloss": {
+            "fa": "عالی؛ بسیار زیاد",
+            "en": "great; excellent, or large in degree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "show",
+          "gloss": {
+            "fa": "در «show you to»: شما را راهنمایی کنم به",
+            "en": "In “show you to”: lead you to a place"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «show you to»: شما را راهنمایی کنم به",
+            "en": "In “show you to”: lead you to a place"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «show you to»: شما را راهنمایی کنم به",
+            "en": "In “show you to”: lead you to a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "table",
+          "gloss": {
+            "fa": "میز",
+            "en": "table; a dining table"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "آوردن",
+            "en": "bring; carry something to the listener"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "menus.",
+          "gloss": {
+            "fa": "منوها",
+            "en": "menus; lists of dishes available"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "Thank you, and could you also bring some water for all of us?",
+      "translation": {
+        "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+        "en": "Thank you, and could you also bring some water for all of us?"
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+            "en": "In “could you also bring”: adds a polite request"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+            "en": "In “could you also bring”: adds a polite request"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+            "en": "In “could you also bring”: adds a polite request"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+            "en": "In “could you also bring”: adds a polite request"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "مقداری؛ چند",
+            "en": "some; an unspecified amount or number"
+          }
+        },
+        {
+          "surface": "water",
+          "gloss": {
+            "fa": "آب",
+            "en": "water; the liquid supplied to a home"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; the whole amount"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "us?",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "waiter",
+      "text": "Of course, follow me, and I will get the water immediately.",
+      "translation": {
+        "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+        "en": "Of course, follow me, and I will get the water immediately."
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "follow",
+          "gloss": {
+            "fa": "در «follow me»: دنبالم بیایید",
+            "en": "In “follow me”: invites the group to walk after the waiter"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "در «follow me»: دنبالم بیایید",
+            "en": "In “follow me”: invites the group to walk after the waiter"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "بیاورم؛ تهیه کنم",
+            "en": "get; fetch the water"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "water",
+          "gloss": {
+            "fa": "آب",
+            "en": "water; the liquid supplied to a home"
+          }
+        },
+        {
+          "surface": "immediately.",
+          "gloss": {
+            "fa": "فوراً",
+            "en": "immediately; without delay"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "That is very kind, we are ready to order after looking at the menu.",
+      "translation": {
+        "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+        "en": "That is very kind, we are ready to order after looking at the menu."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "kind,",
+          "gloss": {
+            "fa": "مهربان؛ باملاحظه",
+            "en": "kind; considerate"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش دادن",
+            "en": "order; request food, a verb here"
+          }
+        },
+        {
+          "surface": "after",
+          "gloss": {
+            "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+            "en": "In “after looking at”: after examining the menu"
+          }
+        },
+        {
+          "surface": "looking",
+          "gloss": {
+            "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+            "en": "In “after looking at”: after examining the menu"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+            "en": "In “after looking at”: after examining the menu"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "menu.",
+          "gloss": {
+            "fa": "منو؛ فهرست غذا",
+            "en": "menu; a list or planned selection of dishes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "waiter",
+      "text": "I will return in a few minutes to take your order.",
+      "translation": {
+        "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+        "en": "I will return in a few minutes to take your order."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "return",
+          "gloss": {
+            "fa": "برگشتن",
+            "en": "return; come back"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+            "en": "In “in a few minutes”: after a short, unspecified wait"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+            "en": "In “in a few minutes”: after a short, unspecified wait"
+          }
+        },
+        {
+          "surface": "few",
+          "gloss": {
+            "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+            "en": "In “in a few minutes”: after a short, unspecified wait"
+          }
+        },
+        {
+          "surface": "minutes",
+          "gloss": {
+            "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+            "en": "In “in a few minutes”: after a short, unspecified wait"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «take your order»: سفارشتان را بگیرم",
+            "en": "In “take your order”: record what the diners want"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "در «take your order»: سفارشتان را بگیرم",
+            "en": "In “take your order”: record what the diners want"
+          }
+        },
+        {
+          "surface": "order.",
+          "gloss": {
+            "fa": "در «take your order»: سفارشتان را بگیرم",
+            "en": "In “take your order”: record what the diners want"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would like”: politely want"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would like”: politely want"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "table",
+        "text": "table",
+        "pronunciation": {
+          "faReading": "تِیبِل",
+          "ipa": "/ˈteɪbəl/"
+        },
+        "meaning": {
+          "fa": "میز",
+          "en": "table; a dining table"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "four",
+        "text": "four",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "چهار",
+          "en": "four; 4"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ یا انجام دادن",
+          "en": "do; helps form questions, or perform an action"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used with another verb to connect an action to now"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "reservation",
+        "text": "reservation",
+        "pronunciation": {
+          "faReading": "رِزِروِیشن",
+          "ipa": "/ˌrɛzɚˈveɪʃən/"
+        },
+        "meaning": {
+          "fa": "رزرو",
+          "en": "reservation; an advance booking"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "would-2",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "like-2",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "در «right now»: همین الان",
+          "en": "In “right now”: immediately, not at a later booking time"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "در «right now»: همین الان",
+          "en": "In “right now”: immediately, not at a later booking time"
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No reservation, we are four, a table for four would be fine.",
+          "translation": {
+            "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+            "en": "No reservation, we are four, a table for four would be fine."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "No reservation, we are four, a table for four would be fine.",
+          "translation": {
+            "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+            "en": "No reservation, we are four, a table for four would be fine."
+          }
+        }
+      },
+      {
+        "id": "would-3",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "برای خواسته یا پیشنهاد مؤدبانه",
+          "en": "would; makes a wish or suggestion less direct"
+        },
+        "example": {
+          "text": "No reservation, we are four, a table for four would be fine.",
+          "translation": {
+            "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+            "en": "No reservation, we are four, a table for four would be fine."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "No reservation, we are four, a table for four would be fine.",
+          "translation": {
+            "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+            "en": "No reservation, we are four, a table for four would be fine."
+          }
+        }
+      },
+      {
+        "id": "fine",
+        "text": "fine",
+        "pronunciation": {
+          "faReading": "فاین",
+          "ipa": "/faɪn/"
+        },
+        "meaning": {
+          "fa": "مناسب؛ قابل‌قبول",
+          "en": "fine; acceptable or satisfactory"
+        },
+        "example": {
+          "text": "No reservation, we are four, a table for four would be fine.",
+          "translation": {
+            "fa": "رزرو نداریم، چهار نفریم؛ یک میز چهارنفره مناسب است.",
+            "en": "No reservation, we are four, a table for four would be fine."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "There",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در «There is»: وجود دارد",
+          "en": "In “There is”: introduces an available table"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «There is»: وجود دارد",
+          "en": "In “There is”: introduces an available table"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "available",
+        "text": "available",
+        "pronunciation": {
+          "faReading": "اِوِیلِبِل",
+          "ipa": "/əˈveɪləbəl/"
+        },
+        "meaning": {
+          "fa": "موجود؛ خالی برای استفاده",
+          "en": "available; free for use"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "near",
+        "text": "near",
+        "pronunciation": {
+          "faReading": "نیر",
+          "ipa": "/nɪr/"
+        },
+        "meaning": {
+          "fa": "نزدیکِ",
+          "en": "near; not far from"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "window",
+        "text": "window",
+        "pronunciation": {
+          "faReading": "ویندُو",
+          "ipa": "/ˈwɪndoʊ/"
+        },
+        "meaning": {
+          "fa": "پنجره",
+          "en": "window; a glazed opening in a wall"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "suit",
+        "text": "suit",
+        "pronunciation": {
+          "faReading": "سوت",
+          "ipa": "/sut/"
+        },
+        "meaning": {
+          "fa": "مناسب باشد؛ مورد پسند باشد",
+          "en": "suit; be acceptable or convenient"
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly suitable"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+          "en": "In “exactly what we want”: the precise option wanted"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+          "en": "In “exactly what we want”: the precise option wanted"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "we-2",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+          "en": "In “exactly what we want”: the precise option wanted"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "در «exactly what we want»: دقیقاً همان چیزی که می‌خواهیم",
+          "en": "In “exactly what we want”: the precise option wanted"
+        },
+        "example": {
+          "text": "That is perfect, the window table is exactly what we want.",
+          "translation": {
+            "fa": "عالی است؛ میز کنار پنجره دقیقاً همان چیزی است که می‌خواهیم.",
+            "en": "That is perfect, the window table is exactly what we want."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "Great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ بسیار زیاد",
+          "en": "great; excellent, or large in degree"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "show",
+        "text": "show",
+        "pronunciation": {
+          "faReading": "شُو",
+          "ipa": "/ʃoʊ/"
+        },
+        "meaning": {
+          "fa": "در «show you to»: شما را راهنمایی کنم به",
+          "en": "In “show you to”: lead you to a place"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «show you to»: شما را راهنمایی کنم به",
+          "en": "In “show you to”: lead you to a place"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «show you to»: شما را راهنمایی کنم به",
+          "en": "In “show you to”: lead you to a place"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "آوردن",
+          "en": "bring; carry something to the listener"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "menus",
+        "text": "menus",
+        "pronunciation": {
+          "faReading": "مِنیوز",
+          "ipa": "/ˈmɛnjuz/"
+        },
+        "meaning": {
+          "fa": "منوها",
+          "en": "menus; lists of dishes available"
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+          "en": "In “could you also bring”: adds a polite request"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "you-4",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+          "en": "In “could you also bring”: adds a polite request"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+          "en": "In “could you also bring”: adds a polite request"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "bring-2",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «could you also bring»: می‌شود ... هم بیاورید؟",
+          "en": "In “could you also bring”: adds a polite request"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an unspecified amount or number"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "آب",
+          "en": "water; the liquid supplied to a home"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; the whole amount"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "follow",
+        "text": "follow",
+        "pronunciation": {
+          "faReading": "فالُو",
+          "ipa": "/ˈfɑloʊ/"
+        },
+        "meaning": {
+          "fa": "در «follow me»: دنبالم بیایید",
+          "en": "In “follow me”: invites the group to walk after the waiter"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "در «follow me»: دنبالم بیایید",
+          "en": "In “follow me”: invites the group to walk after the waiter"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "بیاورم؛ تهیه کنم",
+          "en": "get; fetch the water"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "immediately",
+        "text": "immediately",
+        "pronunciation": {
+          "faReading": "ایمیدیِتلی",
+          "ipa": "/ɪˈmidiətli/"
+        },
+        "meaning": {
+          "fa": "فوراً",
+          "en": "immediately; without delay"
+        },
+        "example": {
+          "text": "Of course, follow me, and I will get the water immediately.",
+          "translation": {
+            "fa": "حتماً، دنبالم بیایید؛ آب را فوراً می‌آورم.",
+            "en": "Of course, follow me, and I will get the water immediately."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "مهربان؛ باملاحظه",
+          "en": "kind; considerate"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش دادن",
+          "en": "order; request food, a verb here"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "after",
+        "text": "after",
+        "pronunciation": {
+          "faReading": "اَفتِر",
+          "ipa": "/ˈæftɚ/"
+        },
+        "meaning": {
+          "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+          "en": "In “after looking at”: after examining the menu"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "looking",
+        "text": "looking",
+        "pronunciation": {
+          "faReading": "لوکینگ",
+          "ipa": "/ˈlʊkɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+          "en": "In “after looking at”: after examining the menu"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در «after looking at»: بعد از نگاه‌کردن به",
+          "en": "In “after looking at”: after examining the menu"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "menu",
+        "text": "menu",
+        "pronunciation": {
+          "faReading": "مِنیو",
+          "ipa": "/ˈmɛnju/"
+        },
+        "meaning": {
+          "fa": "منو؛ فهرست غذا",
+          "en": "menu; a list or planned selection of dishes"
+        },
+        "example": {
+          "text": "That is very kind, we are ready to order after looking at the menu.",
+          "translation": {
+            "fa": "خیلی لطف دارید؛ بعد از نگاه‌کردن به منو آمادهٔ سفارش هستیم.",
+            "en": "That is very kind, we are ready to order after looking at the menu."
+          }
+        }
+      },
+      {
+        "id": "return",
+        "text": "return",
+        "pronunciation": {
+          "faReading": "ریتِرن",
+          "ipa": "/rɪˈtɝn/"
+        },
+        "meaning": {
+          "fa": "برگشتن",
+          "en": "return; come back"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+          "en": "In “in a few minutes”: after a short, unspecified wait"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+          "en": "In “in a few minutes”: after a short, unspecified wait"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "few",
+        "text": "few",
+        "pronunciation": {
+          "faReading": "فیو",
+          "ipa": "/fju/"
+        },
+        "meaning": {
+          "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+          "en": "In “in a few minutes”: after a short, unspecified wait"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "در «in a few minutes»: تا چند دقیقهٔ دیگر",
+          "en": "In “in a few minutes”: after a short, unspecified wait"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «take your order»: سفارشتان را بگیرم",
+          "en": "In “take your order”: record what the diners want"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "در «take your order»: سفارشتان را بگیرم",
+          "en": "In “take your order”: record what the diners want"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      },
+      {
+        "id": "order-2",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "در «take your order»: سفارشتان را بگیرم",
+          "en": "In “take your order”: record what the diners want"
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "polite-table-request",
+        "title": {
+          "fa": "درخواست میز و سؤال رزرو",
+          "en": "Requesting a table and checking a reservation"
+        },
+        "explanation": {
+          "fa": "We would like مؤدبانه‌تر از We want است. for four people ظرفیت مورد نیاز را می‌گوید. Do you have a reservation? از رزرو قبلی می‌پرسد و right now در برابر آن درخواست فعلی بدون رزرو را مطرح می‌کند.",
+          "en": "We would like is more polite than We want. For four people states the required capacity. Do you have a reservation? checks for an advance booking; right now contrasts with a previous reservation."
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        },
+        "takeaway": {
+          "fa": "میز برای چهار نفر با رزرو برای ساعت چهار فرق دارد.",
+          "en": "A table for four people is not a booking for four o’clock."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست میز و سؤال رزرو",
+              "en": "Requesting a table and checking a reservation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We would like a table for four people"
+                },
+                {
+                  "text": "would like + item + for + group"
+                },
+                {
+                  "fa": "میز برای چهار نفر می‌خواهیم",
+                  "en": "Capacity, not time"
+                }
+              ],
+              [
+                {
+                  "text": "Do you have a reservation"
+                },
+                {
+                  "text": "Do you have + booking?"
+                },
+                {
+                  "fa": "رزرو دارید؟",
+                  "en": "Checks prior arrangement"
+                }
+              ],
+              [
+                {
+                  "text": "right now"
+                },
+                {
+                  "text": "right + now"
+                },
+                {
+                  "fa": "همین الان",
+                  "en": "Immediate availability"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "available-and-would-suit",
+        "title": {
+          "fa": "میز خالی و مناسب‌بودن",
+          "en": "Availability and suitability"
+        },
+        "explanation": {
+          "fa": "There is a table available وجود میز خالی را می‌گوید. would that suit you? مؤدبانه می‌پرسد آیا پیشنهاد مناسب است؛ suit اینجا لباس نیست. No reservation پاسخ کوتاه است و we are four یعنی گروه چهار نفر است.",
+          "en": "There is a table available announces a free table. Would that suit you? politely checks whether it is acceptable; suit is a verb, not clothing. No reservation is a short reply, and we are four gives the group size."
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        },
+        "takeaway": {
+          "fa": "suit you یعنی برایتان مناسب باشد.",
+          "en": "Suit you means be suitable for you."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "میز خالی و مناسب‌بودن",
+              "en": "Availability and suitability"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "There is a table available near the window"
+                },
+                {
+                  "text": "there is + available item + location"
+                },
+                {
+                  "fa": "کنار پنجره میز خالی هست",
+                  "en": "Availability and location"
+                }
+              ],
+              [
+                {
+                  "text": "would that suit you"
+                },
+                {
+                  "text": "would + that + suit + person?"
+                },
+                {
+                  "fa": "برای شما مناسب است؟",
+                  "en": "Polite suitability check"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "exactly-what-and-all",
+        "title": {
+          "fa": "همان چیزی که می‌خواهیم؛ همهٔ ما",
+          "en": "Exactly what we want; all of us"
+        },
+        "explanation": {
+          "fa": "exactly what we want یک خواستهٔ مشخص را می‌گوید؛ what we want یعنی «چیزی که می‌خواهیم» و پرسش مستقیم نیست. some water مقدار نامشخص آب و all of us تمام چهار نفر را شامل می‌شود؛ تعداد بطری یا لیوان تعیین نشده است.",
+          "en": "Exactly what we want identifies the precise desired option. What we want means the thing we want, not a direct question. Some water gives an unspecified amount; all of us includes all four people without specifying bottles or glasses."
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        },
+        "takeaway": {
+          "fa": "all of us یعنی همهٔ گروه؛ some مقدار دقیق نمی‌دهد.",
+          "en": "All of us means the whole group; some leaves quantity unspecified."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "همان چیزی که می‌خواهیم؛ همهٔ ما",
+              "en": "Exactly what we want; all of us"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "exactly what we want"
+                },
+                {
+                  "text": "exactly + what-clause"
+                },
+                {
+                  "fa": "دقیقاً همان چیزی که می‌خواهیم",
+                  "en": "The precise desired option"
+                }
+              ],
+              [
+                {
+                  "text": "some water for all of us"
+                },
+                {
+                  "text": "some + drink + for + group"
+                },
+                {
+                  "fa": "مقداری آب برای همهٔ ما",
+                  "en": "No exact container count"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lead-and-bring",
+        "title": {
+          "fa": "راهنمایی‌کردن و آوردن",
+          "en": "Leading guests and bringing items"
+        },
+        "explanation": {
+          "fa": "show you to the table یعنی شما را تا میز راهنمایی کنم، نه فقط عکس میز را نشان بدهم. I will show ... and bring ... دو کار آینده با will مشترک دارد. follow me دعوت به دنبال پیشخدمت رفتن است.",
+          "en": "Show you to the table means guide you there, not merely show a picture. I will show ... and bring ... shares will across two future actions. Follow me invites the guests to walk behind the waiter."
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        },
+        "takeaway": {
+          "fa": "show someone to a place یعنی او را تا آنجا راهنمایی کردن.",
+          "en": "Show someone to a place means guide them there."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "راهنمایی‌کردن و آوردن",
+              "en": "Leading guests and bringing items"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "show you to the table and bring the menus"
+                },
+                {
+                  "text": "will + action + and + action"
+                },
+                {
+                  "fa": "راهنمایی به میز و آوردن منوها",
+                  "en": "Two promised actions"
+                }
+              ],
+              [
+                {
+                  "text": "follow me"
+                },
+                {
+                  "text": "action + person"
+                },
+                {
+                  "fa": "دنبالم بیایید",
+                  "en": "An instruction for reaching the table"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "after-looking-and-purpose",
+        "title": {
+          "fa": "پس از دیدن منو؛ هدف برگشتن",
+          "en": "After reading the menu; purpose of returning"
+        },
+        "explanation": {
+          "fa": "after looking at the menu زمان آماده‌شدن برای سفارش را می‌گوید؛ looking پس از after آمده است. in a few minutes مدت تقریبی تا برگشت پیشخدمت است. to take your order هدف برگشتن را می‌گوید؛ هنوز غذا انتخاب نشده است.",
+          "en": "After looking at the menu places readiness after examining it; looking follows after. In a few minutes gives a short wait until the waiter returns. To take your order gives the purpose of returning; no meal choice has yet been stated."
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        },
+        "takeaway": {
+          "fa": "after + -ing ترتیب را می‌گوید؛ to + فعل هدف را.",
+          "en": "After + -ing gives sequence; to + verb gives purpose."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پس از دیدن منو؛ هدف برگشتن",
+              "en": "After reading the menu; purpose of returning"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "after looking at the menu"
+                },
+                {
+                  "text": "after + -ing"
+                },
+                {
+                  "fa": "پس از دیدن منو",
+                  "en": "Sequence before ordering"
+                }
+              ],
+              [
+                {
+                  "text": "to take your order"
+                },
+                {
+                  "text": "to + action"
+                },
+                {
+                  "fa": "برای گرفتن سفارش",
+                  "en": "Purpose of the waiter’s return"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "group",
+        "text": "a table for four people",
+        "pronunciation": {
+          "faReading": "اِ تِیبِل فور فور پیپِل",
+          "ipa": "/ə ˈteɪbəl fɚ fɔr ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "میز برای چهار نفر",
+          "en": "A table for four people"
+        },
+        "context": {
+          "fa": "ظرفیت میز است، نه ساعت رزرو.",
+          "en": "The table capacity, not a booking time."
+        },
+        "example": {
+          "text": "We would like a table for four people, please.",
+          "translation": {
+            "fa": "لطفاً یک میز برای چهار نفر می‌خواهیم.",
+            "en": "We would like a table for four people, please."
+          }
+        }
+      },
+      {
+        "id": "reservation",
+        "text": "Do you have a reservation",
+        "pronunciation": {
+          "faReading": "دو یو هَو اِ رِزِروِیشن",
+          "ipa": "/də ju hæv ə ˌrɛzɚˈveɪʃən/"
+        },
+        "meaning": {
+          "fa": "رزرو دارید؟",
+          "en": "Do you have an advance booking?"
+        },
+        "context": {
+          "fa": "پیشخدمت دربارهٔ رزرو قبلی می‌پرسد.",
+          "en": "The waiter checks for an advance booking."
+        },
+        "example": {
+          "text": "Do you have a reservation, or would you like a table right now?",
+          "translation": {
+            "fa": "رزرو دارید یا همین الان میز می‌خواهید؟",
+            "en": "Do you have a reservation, or would you like a table right now?"
+          }
+        }
+      },
+      {
+        "id": "suit",
+        "text": "would that suit you",
+        "pronunciation": {
+          "faReading": "وود ذَت سوت یو",
+          "ipa": "/wʊd ðæt sut ju/"
+        },
+        "meaning": {
+          "fa": "این برایتان مناسب است؟",
+          "en": "Would that be suitable for you?"
+        },
+        "context": {
+          "fa": "پذیرفتنی‌بودن میز کنار پنجره را می‌سنجد.",
+          "en": "Checks whether the window table is acceptable."
+        },
+        "example": {
+          "text": "There is a table available near the window, would that suit you?",
+          "translation": {
+            "fa": "کنار پنجره یک میز خالی هست؛ برایتان مناسب است؟",
+            "en": "There is a table available near the window, would that suit you?"
+          }
+        }
+      },
+      {
+        "id": "lead",
+        "text": "show you to the table",
+        "pronunciation": {
+          "faReading": "شُو یو تو ذِ تِیبِل",
+          "ipa": "/ʃoʊ ju tə ðə ˈteɪbəl/"
+        },
+        "meaning": {
+          "fa": "شما را به میز راهنمایی کنم",
+          "en": "Guide you to the table"
+        },
+        "context": {
+          "fa": "پیشخدمت مهمانان را همراهی می‌کند.",
+          "en": "The waiter will lead the guests there."
+        },
+        "example": {
+          "text": "Great, I will show you to the table and bring the menus.",
+          "translation": {
+            "fa": "عالی، شما را به میز راهنمایی می‌کنم و منوها را می‌آورم.",
+            "en": "Great, I will show you to the table and bring the menus."
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "some water for all of us",
+        "pronunciation": {
+          "faReading": "سام ووتِر فور آل آو اَس",
+          "ipa": "/səm ˈwɔtɚ fɚ ɔl əv ʌs/"
+        },
+        "meaning": {
+          "fa": "مقداری آب برای همهٔ ما",
+          "en": "Some water for the whole group"
+        },
+        "context": {
+          "fa": "تعداد بطری یا لیوان مشخص نشده است.",
+          "en": "No number of bottles or glasses is specified."
+        },
+        "example": {
+          "text": "Thank you, and could you also bring some water for all of us?",
+          "translation": {
+            "fa": "ممنون، می‌شود برای همهٔ ما کمی آب هم بیاورید؟",
+            "en": "Thank you, and could you also bring some water for all of us?"
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "take your order",
+        "pronunciation": {
+          "faReading": "تِیک یور اُوردِر",
+          "ipa": "/teɪk jɚ ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارشتان را بگیرم",
+          "en": "Record your food choices"
+        },
+        "context": {
+          "fa": "هدف برگشتن پیشخدمت پس از دیدن منوست.",
+          "en": "The waiter’s purpose in returning after menu reading."
+        },
+        "example": {
+          "text": "I will return in a few minutes to take your order.",
+          "translation": {
+            "fa": "تا چند دقیقهٔ دیگر برمی‌گردم تا سفارشتان را بگیرم.",
+            "en": "I will return in a few minutes to take your order."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا و گروهش چه می‌خواهند؟",
+          "en": "What do Reza and his group want?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "میز چهارنفره بدون رزرو قبلی",
+              "en": "A table for four without an advance reservation"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "میز دونفره با رزرو قبلی",
+              "en": "A table for two with an advance reservation"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سفارش بیرون‌بر برای چهار نفر",
+              "en": "A takeaway order for four"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رضا four people و No reservation را صریح می‌گوید.",
+          "en": "Reza explicitly states four people and No reservation."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03"
+        ]
+      },
+      {
+        "id": "location",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "میز پیشنهادی کجاست؟",
+          "en": "Where is the offered table?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کنار آشپزخانه",
+              "en": "Near the kitchen"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کنار پنجره",
+              "en": "Near the window"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیرون رستوران",
+              "en": "Outside the restaurant"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "near the window محل میز است و رضا آن را می‌پسندد.",
+          "en": "Near the window locates the table, which Reza accepts."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "water",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا برای چه کسانی آب می‌خواهد؟",
+          "en": "For whom does Reza request water?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط خودش",
+              "en": "Only himself"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط دو نفر",
+              "en": "Only two people"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همهٔ گروه",
+              "en": "The whole group"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "for all of us تمام چهار نفر را در بر می‌گیرد؛ تعداد ظرف تعیین نشده است.",
+          "en": "For all of us includes all four people; no container count is given."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t07"
+        ]
+      },
+      {
+        "id": "menu-first",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه کاری پیش از آماده‌شدن برای سفارش مطرح می‌شود؟",
+          "en": "What do they plan to do before being ready to order?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نگاه‌کردن به منو",
+              "en": "Look at the menu"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پرداخت صورت‌حساب",
+              "en": "Pay the bill"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انتخاب دسر نهایی",
+              "en": "Choose a final dessert"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "after looking at the menu ترتیب آماده‌شدن را مشخص می‌کند.",
+          "en": "After looking at the menu states the sequence before ordering."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "return-purpose",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیشخدمت چرا چند دقیقهٔ دیگر برمی‌گردد؟",
+          "en": "Why will the waiter return in a few minutes?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای پس‌گرفتن میز",
+              "en": "To reclaim the table"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برای گرفتن سفارش",
+              "en": "To take the order"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای تحویل غذای انتخاب‌شده",
+              "en": "To deliver food already chosen"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "to take your order هدف برگشتن است؛ غذایی هنوز نام برده نشده است.",
+          "en": "To take your order gives the purpose; no food choice has yet been stated."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      }
+    ]
+  }
+}

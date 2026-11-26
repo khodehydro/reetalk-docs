@@ -1,0 +1,3904 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s07",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "نگار و حساسیت به بادام",
+    "en": "Nigar’s Nut Allergy"
+  },
+  "objective": {
+    "fa": "بیان حساسیت، درخواست تأیید مواد و پرسیدن دربارهٔ روغن و ابزار مشترک.",
+    "en": "State an allergy, request ingredient confirmation and ask about shared oil and utensils."
+  },
+  "speakers": [
+    {
+      "id": "nigar",
+      "name": "Nigar",
+      "gender": "woman"
+    },
+    {
+      "id": "server",
+      "name": "Server",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nigar",
+      "text": "I have a nut allergy, and I want to make sure my food is safe.",
+      "translation": {
+        "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+        "en": "I have a nut allergy, and I want to make sure my food is safe."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used with another verb to connect an action to now"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "nut",
+          "gloss": {
+            "fa": "مغز خوراکی",
+            "en": "nut; a hard-shelled food such as an almond"
+          }
+        },
+        {
+          "surface": "allergy,",
+          "gloss": {
+            "fa": "حساسیت غذایی",
+            "en": "allergy; a harmful immune reaction to a substance"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "در «make sure»: مطمئن شوم",
+            "en": "In “make sure”: check or establish that something is true"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "در «make sure»: مطمئن شوم",
+            "en": "In “make sure”: check or establish that something is true"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "food",
+          "gloss": {
+            "fa": "غذا",
+            "en": "food; things people eat"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "safe.",
+          "gloss": {
+            "fa": "امن",
+            "en": "safe; free from danger"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "server",
+      "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+      "translation": {
+        "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+        "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+            "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+            "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+            "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+          }
+        },
+        {
+          "surface": "telling",
+          "gloss": {
+            "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+            "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+          }
+        },
+        {
+          "surface": "us,",
+          "gloss": {
+            "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+            "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "بگذار؛ اجازه بده",
+            "en": "let; allow or propose an action"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "check",
+          "gloss": {
+            "fa": "بررسی کردن",
+            "en": "check; examine to confirm information"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "ingredients",
+          "gloss": {
+            "fa": "مواد اولیه؛ ترکیبات غذا",
+            "en": "ingredients; foods used to make a dish"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen.",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nigar",
+      "text": "I especially avoid almonds, can you confirm this dish has none?",
+      "translation": {
+        "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+        "en": "I especially avoid almonds, can you confirm this dish has none?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "especially",
+          "gloss": {
+            "fa": "به‌ویژه",
+            "en": "especially; particularly"
+          }
+        },
+        {
+          "surface": "avoid",
+          "gloss": {
+            "fa": "پرهیز کردن از",
+            "en": "avoid; keep away from"
+          }
+        },
+        {
+          "surface": "almonds,",
+          "gloss": {
+            "fa": "بادام‌ها؛ بادام",
+            "en": "almonds; a type of tree nut"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی؛ ممکن است",
+            "en": "can; ability, permission or possibility"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "confirm",
+          "gloss": {
+            "fa": "تأیید و قطعی کردن",
+            "en": "confirm; establish that an arrangement is definite"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "در «has none»: هیچ‌کدام از آن‌ها ندارد؛ اینجا بادام",
+            "en": "In “has none”: contains no almonds, as requested for confirmation"
+          }
+        },
+        {
+          "surface": "none?",
+          "gloss": {
+            "fa": "در «has none»: هیچ‌کدام از آن‌ها ندارد؛ اینجا بادام",
+            "en": "In “has none”: contains no almonds, as requested for confirmation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "server",
+      "text": "I have checked, this dish contains no almonds or any other nuts.",
+      "translation": {
+        "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+        "en": "I have checked, this dish contains no almonds or any other nuts."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have checked»: بررسی کرده‌ام",
+            "en": "In “have checked”: completed a check with a result relevant now"
+          }
+        },
+        {
+          "surface": "checked,",
+          "gloss": {
+            "fa": "در «have checked»: بررسی کرده‌ام",
+            "en": "In “have checked”: completed a check with a result relevant now"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "contains",
+          "gloss": {
+            "fa": "حاوی است",
+            "en": "contains; has as an ingredient"
+          }
+        },
+        {
+          "surface": "no",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        },
+        {
+          "surface": "almonds",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        },
+        {
+          "surface": "nuts.",
+          "gloss": {
+            "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+            "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nigar",
+      "text": "That is good to hear, but I still prefer to be very careful.",
+      "translation": {
+        "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+        "en": "That is good to hear, but I still prefer to be very careful."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "hear,",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear; listen to news or sounds"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "still",
+          "gloss": {
+            "fa": "هنوز؛ با وجود این",
+            "en": "still; continuing despite something"
+          }
+        },
+        {
+          "surface": "prefer",
+          "gloss": {
+            "fa": "ترجیح دادن",
+            "en": "prefer; like one choice more than another"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "careful.",
+          "gloss": {
+            "fa": "مراقب؛ محتاط",
+            "en": "careful; taking care to avoid a problem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "server",
+      "text": "That is completely understandable, we take allergies seriously here.",
+      "translation": {
+        "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+        "en": "That is completely understandable, we take allergies seriously here."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "completely",
+          "gloss": {
+            "fa": "کاملاً",
+            "en": "completely; entirely"
+          }
+        },
+        {
+          "surface": "understandable,",
+          "gloss": {
+            "fa": "قابل درک",
+            "en": "understandable; easy to sympathize with"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+            "en": "In “take allergies seriously”: treat allergies as an important concern"
+          }
+        },
+        {
+          "surface": "allergies",
+          "gloss": {
+            "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+            "en": "In “take allergies seriously”: treat allergies as an important concern"
+          }
+        },
+        {
+          "surface": "seriously",
+          "gloss": {
+            "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+            "en": "In “take allergies seriously”: treat allergies as an important concern"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nigar",
+      "text": "Is the oil used for frying shared with dishes that contain nuts?",
+      "translation": {
+        "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+        "en": "Is the oil used for frying shared with dishes that contain nuts?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "oil",
+          "gloss": {
+            "fa": "روغن",
+            "en": "oil; cooking fat in liquid form"
+          }
+        },
+        {
+          "surface": "used",
+          "gloss": {
+            "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+            "en": "In “used for frying”: employed for frying; describes the oil"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+            "en": "In “used for frying”: employed for frying; describes the oil"
+          }
+        },
+        {
+          "surface": "frying",
+          "gloss": {
+            "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+            "en": "In “used for frying”: employed for frying; describes the oil"
+          }
+        },
+        {
+          "surface": "shared",
+          "gloss": {
+            "fa": "مشترک؛ به‌اشتراک‌گذاشته‌شده",
+            "en": "shared; used in common"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "dishes",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "contain",
+          "gloss": {
+            "fa": "داشتن؛ حاوی بودن",
+            "en": "contain; have as an ingredient"
+          }
+        },
+        {
+          "surface": "nuts?",
+          "gloss": {
+            "fa": "مغزهای خوراکی",
+            "en": "nuts; foods such as almonds"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "server",
+      "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+      "translation": {
+        "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+        "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "use",
+          "gloss": {
+            "fa": "استفاده کردن",
+            "en": "use; make something serve a purpose"
+          }
+        },
+        {
+          "surface": "separate",
+          "gloss": {
+            "fa": "جدا",
+            "en": "separate; not included in another cost"
+          }
+        },
+        {
+          "surface": "oil",
+          "gloss": {
+            "fa": "روغن",
+            "en": "oil; cooking fat in liquid form"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "separate",
+          "gloss": {
+            "fa": "جدا",
+            "en": "separate; not included in another cost"
+          }
+        },
+        {
+          "surface": "utensils",
+          "gloss": {
+            "fa": "وسایل و ابزار آشپزی",
+            "en": "utensils; tools used in preparing or serving food"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "allergy-safe",
+          "gloss": {
+            "fa": "در «allergy-safe meals»: وعده‌های مناسبِ حساسیت، بنا به گفتهٔ کارکنان",
+            "en": "In “allergy-safe meals”: meals described as suitable by the server, not independently verified"
+          }
+        },
+        {
+          "surface": "meals.",
+          "gloss": {
+            "fa": "در «allergy-safe meals»: وعده‌های مناسبِ حساسیت، بنا به گفتهٔ کارکنان",
+            "en": "In “allergy-safe meals”: meals described as suitable by the server, not independently verified"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "nigar",
+      "text": "Then I feel safe ordering this, thank you for your care.",
+      "translation": {
+        "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+        "en": "Then I feel safe ordering this, thank you for your care."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس می‌کنم",
+            "en": "feel; expresses Nigar’s confidence, not an independent safety finding"
+          }
+        },
+        {
+          "surface": "safe",
+          "gloss": {
+            "fa": "امن",
+            "en": "safe; free from danger"
+          }
+        },
+        {
+          "surface": "ordering",
+          "gloss": {
+            "fa": "سفارش دادن",
+            "en": "ordering; requesting a meal"
+          }
+        },
+        {
+          "surface": "this,",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "care.",
+          "gloss": {
+            "fa": "توجه؛ مراقبت",
+            "en": "care; attention to someone’s needs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "server",
+      "text": "You are welcome, I will note your allergy on the order clearly.",
+      "translation": {
+        "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+        "en": "You are welcome, I will note your allergy on the order clearly."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "note",
+          "gloss": {
+            "fa": "یادداشت می‌کنم؛ اینجا فعل",
+            "en": "note; record the allergy on the order"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "allergy",
+          "gloss": {
+            "fa": "حساسیت غذایی",
+            "en": "allergy; a harmful immune reaction to a substance"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در",
+            "en": "on; on a surface or at a named street"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش",
+            "en": "order; a request for food, a noun here"
+          }
+        },
+        {
+          "surface": "clearly.",
+          "gloss": {
+            "fa": "به‌روشنی",
+            "en": "clearly; without confusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "nigar",
+      "text": "That is very thoughtful, I appreciate your attention.",
+      "translation": {
+        "fa": "خیلی باملاحظه است؛ از توجه شما قدردانی می‌کنم.",
+        "en": "That is very thoughtful, I appreciate your attention."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "thoughtful,",
+          "gloss": {
+            "fa": "باملاحظه؛ با‌توجه به دیگران",
+            "en": "thoughtful; considerate of others’ needs"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی کردن از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "attention.",
+          "gloss": {
+            "fa": "توجه",
+            "en": "attention; focused listening or consideration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "server",
+      "text": "It is our duty, please enjoy your meal without any worry.",
+      "translation": {
+        "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+        "en": "It is our duty, please enjoy your meal without any worry."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "duty,",
+          "gloss": {
+            "fa": "وظیفه",
+            "en": "duty; a responsibility"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "meal",
+          "gloss": {
+            "fa": "وعدهٔ غذا",
+            "en": "meal; food eaten on one occasion"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+            "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+            "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+          }
+        },
+        {
+          "surface": "worry.",
+          "gloss": {
+            "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+            "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used with another verb to connect an action to now"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "nut",
+        "text": "nut",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nʌt/"
+        },
+        "meaning": {
+          "fa": "مغز خوراکی",
+          "en": "nut; a hard-shelled food such as an almond"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "allergy",
+        "text": "allergy",
+        "pronunciation": {
+          "faReading": "اَلِرجی",
+          "ipa": "/ˈælɚdʒi/"
+        },
+        "meaning": {
+          "fa": "حساسیت غذایی",
+          "en": "allergy; a harmful immune reaction to a substance"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "در «make sure»: مطمئن شوم",
+          "en": "In “make sure”: check or establish that something is true"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "در «make sure»: مطمئن شوم",
+          "en": "In “make sure”: check or establish that something is true"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "food",
+        "text": "food",
+        "pronunciation": {
+          "faReading": "فود",
+          "ipa": "/fud/"
+        },
+        "meaning": {
+          "fa": "غذا",
+          "en": "food; things people eat"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "safe",
+        "text": "safe",
+        "pronunciation": {
+          "faReading": "سِیف",
+          "ipa": "/seɪf/"
+        },
+        "meaning": {
+          "fa": "امن",
+          "en": "safe; free from danger"
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+          "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+          "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+          "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "telling",
+        "text": "telling",
+        "pronunciation": {
+          "faReading": "تِلینگ",
+          "ipa": "/ˈtɛlɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+          "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «thank you for telling us»: ممنون که به ما گفتید",
+          "en": "In “thank you for telling us”: thanks Nigar for disclosing her allergy"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بگذار؛ اجازه بده",
+          "en": "let; allow or propose an action"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "check",
+        "text": "check",
+        "pronunciation": {
+          "faReading": "چِک",
+          "ipa": "/tʃɛk/"
+        },
+        "meaning": {
+          "fa": "بررسی کردن",
+          "en": "check; examine to confirm information"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "ingredients",
+        "text": "ingredients",
+        "pronunciation": {
+          "faReading": "اینگْریدیِنتس",
+          "ipa": "/ɪnˈɡridiənts/"
+        },
+        "meaning": {
+          "fa": "مواد اولیه؛ ترکیبات غذا",
+          "en": "ingredients; foods used to make a dish"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "Thank you for telling us, let me check the ingredients with the kitchen.",
+          "translation": {
+            "fa": "ممنون که گفتید؛ بگذارید مواد اولیه را با آشپزخانه بررسی کنم.",
+            "en": "Thank you for telling us, let me check the ingredients with the kitchen."
+          }
+        }
+      },
+      {
+        "id": "especially",
+        "text": "especially",
+        "pronunciation": {
+          "faReading": "ایسپِشِلی",
+          "ipa": "/ɪˈspɛʃəli/"
+        },
+        "meaning": {
+          "fa": "به‌ویژه",
+          "en": "especially; particularly"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "avoid",
+        "text": "avoid",
+        "pronunciation": {
+          "faReading": "اِووید",
+          "ipa": "/əˈvɔɪd/"
+        },
+        "meaning": {
+          "fa": "پرهیز کردن از",
+          "en": "avoid; keep away from"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "almonds",
+        "text": "almonds",
+        "pronunciation": {
+          "faReading": "آمِندز",
+          "ipa": "/ˈɑməndz/"
+        },
+        "meaning": {
+          "fa": "بادام‌ها؛ بادام",
+          "en": "almonds; a type of tree nut"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی؛ ممکن است",
+          "en": "can; ability, permission or possibility"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "confirm",
+        "text": "confirm",
+        "pronunciation": {
+          "faReading": "کِنفِرم",
+          "ipa": "/kənˈfɝm/"
+        },
+        "meaning": {
+          "fa": "تأیید و قطعی کردن",
+          "en": "confirm; establish that an arrangement is definite"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "dish",
+        "text": "dish",
+        "pronunciation": {
+          "faReading": "دیش",
+          "ipa": "/dɪʃ/"
+        },
+        "meaning": {
+          "fa": "غذا؛ نوع غذا",
+          "en": "dish; a prepared food or menu item"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "در «has none»: هیچ‌کدام از آن‌ها ندارد؛ اینجا بادام",
+          "en": "In “has none”: contains no almonds, as requested for confirmation"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "none",
+        "text": "none",
+        "pronunciation": {
+          "faReading": "نان",
+          "ipa": "/nʌn/"
+        },
+        "meaning": {
+          "fa": "در «has none»: هیچ‌کدام از آن‌ها ندارد؛ اینجا بادام",
+          "en": "In “has none”: contains no almonds, as requested for confirmation"
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "have-2",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have checked»: بررسی کرده‌ام",
+          "en": "In “have checked”: completed a check with a result relevant now"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "checked",
+        "text": "checked",
+        "pronunciation": {
+          "faReading": "چِکت",
+          "ipa": "/tʃɛkt/"
+        },
+        "meaning": {
+          "fa": "در «have checked»: بررسی کرده‌ام",
+          "en": "In “have checked”: completed a check with a result relevant now"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "contains",
+        "text": "contains",
+        "pronunciation": {
+          "faReading": "کِنتِینز",
+          "ipa": "/kənˈteɪnz/"
+        },
+        "meaning": {
+          "fa": "حاوی است",
+          "en": "contains; has as an ingredient"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "almonds-2",
+        "text": "almonds",
+        "pronunciation": {
+          "faReading": "آمِندز",
+          "ipa": "/ˈɑməndz/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "any",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "nuts",
+        "text": "nuts",
+        "pronunciation": {
+          "faReading": "ناتس",
+          "ipa": "/nʌts/"
+        },
+        "meaning": {
+          "fa": "در «no almonds or any other nuts»: نه بادام و نه هیچ مغز دیگری",
+          "en": "In “no almonds or any other nuts”: the server says neither almonds nor any other nuts are ingredients"
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; listen to news or sounds"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "هنوز؛ با وجود این",
+          "en": "still; continuing despite something"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "prefer",
+        "text": "prefer",
+        "pronunciation": {
+          "faReading": "پْریفِر",
+          "ipa": "/prɪˈfɝ/"
+        },
+        "meaning": {
+          "fa": "ترجیح دادن",
+          "en": "prefer; like one choice more than another"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "careful",
+        "text": "careful",
+        "pronunciation": {
+          "faReading": "کِرفِل",
+          "ipa": "/ˈkɛrfəl/"
+        },
+        "meaning": {
+          "fa": "مراقب؛ محتاط",
+          "en": "careful; taking care to avoid a problem"
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        }
+      },
+      {
+        "id": "completely",
+        "text": "completely",
+        "pronunciation": {
+          "faReading": "کِمپْلیتلی",
+          "ipa": "/kəmˈplitli/"
+        },
+        "meaning": {
+          "fa": "کاملاً",
+          "en": "completely; entirely"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "understandable",
+        "text": "understandable",
+        "pronunciation": {
+          "faReading": "آندِرسْتَندِبِل",
+          "ipa": "/ˌʌndɚˈstændəbəl/"
+        },
+        "meaning": {
+          "fa": "قابل درک",
+          "en": "understandable; easy to sympathize with"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+          "en": "In “take allergies seriously”: treat allergies as an important concern"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "allergies",
+        "text": "allergies",
+        "pronunciation": {
+          "faReading": "اَلِرجیز",
+          "ipa": "/ˈælɚdʒiz/"
+        },
+        "meaning": {
+          "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+          "en": "In “take allergies seriously”: treat allergies as an important concern"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "seriously",
+        "text": "seriously",
+        "pronunciation": {
+          "faReading": "سیریِسلی",
+          "ipa": "/ˈsɪriəsli/"
+        },
+        "meaning": {
+          "fa": "در «take allergies seriously»: حساسیت‌ها را جدی می‌گیریم",
+          "en": "In “take allergies seriously”: treat allergies as an important concern"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "oil",
+        "text": "oil",
+        "pronunciation": {
+          "faReading": "اُویل",
+          "ipa": "/ɔɪl/"
+        },
+        "meaning": {
+          "fa": "روغن",
+          "en": "oil; cooking fat in liquid form"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "used",
+        "text": "used",
+        "pronunciation": {
+          "faReading": "یوزد",
+          "ipa": "/juzd/"
+        },
+        "meaning": {
+          "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+          "en": "In “used for frying”: employed for frying; describes the oil"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "for-2",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+          "en": "In “used for frying”: employed for frying; describes the oil"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "frying",
+        "text": "frying",
+        "pronunciation": {
+          "faReading": "فْرای‌اینگ",
+          "ipa": "/ˈfraɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «used for frying»: که برای سرخ‌کردن استفاده می‌شود",
+          "en": "In “used for frying”: employed for frying; describes the oil"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "shared",
+        "text": "shared",
+        "pronunciation": {
+          "faReading": "شِرد",
+          "ipa": "/ʃɛrd/"
+        },
+        "meaning": {
+          "fa": "مشترک؛ به‌اشتراک‌گذاشته‌شده",
+          "en": "shared; used in common"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "contain",
+        "text": "contain",
+        "pronunciation": {
+          "faReading": "کِنتِین",
+          "ipa": "/kənˈteɪn/"
+        },
+        "meaning": {
+          "fa": "داشتن؛ حاوی بودن",
+          "en": "contain; have as an ingredient"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "nuts-2",
+        "text": "nuts",
+        "pronunciation": {
+          "faReading": "ناتس",
+          "ipa": "/nʌts/"
+        },
+        "meaning": {
+          "fa": "مغزهای خوراکی",
+          "en": "nuts; foods such as almonds"
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "no-2",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "use",
+        "text": "use",
+        "pronunciation": {
+          "faReading": "یوز",
+          "ipa": "/juz/"
+        },
+        "meaning": {
+          "fa": "استفاده کردن",
+          "en": "use; make something serve a purpose"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "separate",
+        "text": "separate",
+        "pronunciation": {
+          "faReading": "سِپِرِت",
+          "ipa": "/ˈsɛpərət/"
+        },
+        "meaning": {
+          "fa": "جدا",
+          "en": "separate; not included in another cost"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "utensils",
+        "text": "utensils",
+        "pronunciation": {
+          "faReading": "یوتِنسِلز",
+          "ipa": "/juˈtɛnsəlz/"
+        },
+        "meaning": {
+          "fa": "وسایل و ابزار آشپزی",
+          "en": "utensils; tools used in preparing or serving food"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "for-3",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "allergy-safe",
+        "text": "allergy-safe",
+        "pronunciation": {
+          "faReading": "اَلِرجی سِیف",
+          "ipa": "/ˈælɚdʒiˌseɪf/"
+        },
+        "meaning": {
+          "fa": "در «allergy-safe meals»: وعده‌های مناسبِ حساسیت، بنا به گفتهٔ کارکنان",
+          "en": "In “allergy-safe meals”: meals described as suitable by the server, not independently verified"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "meals",
+        "text": "meals",
+        "pronunciation": {
+          "faReading": "میلْز",
+          "ipa": "/milz/"
+        },
+        "meaning": {
+          "fa": "در «allergy-safe meals»: وعده‌های مناسبِ حساسیت، بنا به گفتهٔ کارکنان",
+          "en": "In “allergy-safe meals”: meals described as suitable by the server, not independently verified"
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس می‌کنم",
+          "en": "feel; expresses Nigar’s confidence, not an independent safety finding"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "ordering",
+        "text": "ordering",
+        "pronunciation": {
+          "faReading": "اُوردِرینگ",
+          "ipa": "/ˈɔrdɚɪŋ/"
+        },
+        "meaning": {
+          "fa": "سفارش دادن",
+          "en": "ordering; requesting a meal"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "thank-2",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "care",
+        "text": "care",
+        "pronunciation": {
+          "faReading": "کِر",
+          "ipa": "/kɛr/"
+        },
+        "meaning": {
+          "fa": "توجه؛ مراقبت",
+          "en": "care; attention to someone’s needs"
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "note",
+        "pronunciation": {
+          "faReading": "نُوت",
+          "ipa": "/noʊt/"
+        },
+        "meaning": {
+          "fa": "یادداشت می‌کنم؛ اینجا فعل",
+          "en": "note; record the allergy on the order"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در",
+          "en": "on; on a surface or at a named street"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش",
+          "en": "order; a request for food, a noun here"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "clearly",
+        "text": "clearly",
+        "pronunciation": {
+          "faReading": "کْلیرلی",
+          "ipa": "/ˈklɪrli/"
+        },
+        "meaning": {
+          "fa": "به‌روشنی",
+          "en": "clearly; without confusion"
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        }
+      },
+      {
+        "id": "thoughtful",
+        "text": "thoughtful",
+        "pronunciation": {
+          "faReading": "ثاتفِل",
+          "ipa": "/ˈθɔtfəl/"
+        },
+        "meaning": {
+          "fa": "باملاحظه؛ با‌توجه به دیگران",
+          "en": "thoughtful; considerate of others’ needs"
+        },
+        "example": {
+          "text": "That is very thoughtful, I appreciate your attention.",
+          "translation": {
+            "fa": "خیلی باملاحظه است؛ از توجه شما قدردانی می‌کنم.",
+            "en": "That is very thoughtful, I appreciate your attention."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "That is very thoughtful, I appreciate your attention.",
+          "translation": {
+            "fa": "خیلی باملاحظه است؛ از توجه شما قدردانی می‌کنم.",
+            "en": "That is very thoughtful, I appreciate your attention."
+          }
+        }
+      },
+      {
+        "id": "attention",
+        "text": "attention",
+        "pronunciation": {
+          "faReading": "اِتِنشِن",
+          "ipa": "/əˈtɛnʃən/"
+        },
+        "meaning": {
+          "fa": "توجه",
+          "en": "attention; focused listening or consideration"
+        },
+        "example": {
+          "text": "That is very thoughtful, I appreciate your attention.",
+          "translation": {
+            "fa": "خیلی باملاحظه است؛ از توجه شما قدردانی می‌کنم.",
+            "en": "That is very thoughtful, I appreciate your attention."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "duty",
+        "text": "duty",
+        "pronunciation": {
+          "faReading": "دوتی",
+          "ipa": "/ˈduti/"
+        },
+        "meaning": {
+          "fa": "وظیفه",
+          "en": "duty; a responsibility"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "meal",
+        "text": "meal",
+        "pronunciation": {
+          "faReading": "میل",
+          "ipa": "/mil/"
+        },
+        "meaning": {
+          "fa": "وعدهٔ غذا",
+          "en": "meal; food eaten on one occasion"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+          "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "any-2",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+          "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      },
+      {
+        "id": "worry",
+        "text": "worry",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈwɝi/"
+        },
+        "meaning": {
+          "fa": "در «without any worry»: بدون نگرانی؛ اطمینان‌بخشی کارکنان",
+          "en": "In “without any worry”: the server’s reassurance, not a guarantee of medical safety"
+        },
+        "example": {
+          "text": "It is our duty, please enjoy your meal without any worry.",
+          "translation": {
+            "fa": "وظیفهٔ ماست؛ لطفاً بدون نگرانی از غذایتان لذت ببرید.",
+            "en": "It is our duty, please enjoy your meal without any worry."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "allergy-and-assurance",
+        "title": {
+          "fa": "بیان حساسیت و درخواست اطمینان",
+          "en": "Stating an allergy and requesting assurance"
+        },
+        "explanation": {
+          "fa": "I have a nut allergy حساسیت به یک گروه را بیان می‌کند؛ especially almonds بادام را برجسته می‌کند ولی حساسیت را به آن محدود نمی‌کند. make sure و can you confirm درخواست بررسی‌اند. has none، none را به almonds در همان سؤال برمی‌گرداند.",
+          "en": "I have a nut allergy names a broader category; especially almonds highlights almonds without limiting the allergy to them. Make sure and can you confirm request verification. None in has none refers back to almonds in the same question."
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        },
+        "takeaway": {
+          "fa": "عنوان بادام را جایگزین nut allergy در متن نکن.",
+          "en": "Do not narrow the source’s nut allergy to almonds alone because of the title."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بیان حساسیت و درخواست اطمینان",
+              "en": "Stating an allergy and requesting assurance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have a nut allergy"
+                },
+                {
+                  "text": "have + allergy"
+                },
+                {
+                  "fa": "به مغزهای خوراکی حساسیت دارم",
+                  "en": "Names the allergy category"
+                }
+              ],
+              [
+                {
+                  "text": "I especially avoid almonds"
+                },
+                {
+                  "text": "especially + specific item"
+                },
+                {
+                  "fa": "به‌ویژه از بادام پرهیز می‌کنم",
+                  "en": "Highlights one member"
+                }
+              ],
+              [
+                {
+                  "text": "can you confirm this dish has none"
+                },
+                {
+                  "text": "confirm + clause with none"
+                },
+                {
+                  "fa": "تأیید می‌کنید هیچ بادامی ندارد؟",
+                  "en": "None refers to almonds"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "checked-and-no-any",
+        "title": {
+          "fa": "بررسی کامل‌شده و نفی مواد",
+          "en": "A completed check and excluded ingredients"
+        },
+        "explanation": {
+          "fa": "I have checked بررسی کامل‌شده با نتیجهٔ مرتبط با اکنون است. contains no almonds or any other nuts دامنهٔ نفی را به بادام و دیگر مغزها گسترش می‌دهد. این حرفِ کارکنان است؛ از نظر دستوری ادعای نبود ماده است، نه اثبات مستقل ایمنی غذا.",
+          "en": "I have checked reports a completed check with a present-relevant result. Contains no almonds or any other nuts extends the negative claim across almonds and other nuts. This is the server’s statement about ingredients, not independent proof of safety."
+        },
+        "example": {
+          "text": "I have checked, this dish contains no almonds or any other nuts.",
+          "translation": {
+            "fa": "بررسی کرده‌ام؛ این غذا نه بادام دارد و نه هیچ مغز خوراکی دیگری.",
+            "en": "I have checked, this dish contains no almonds or any other nuts."
+          }
+        },
+        "takeaway": {
+          "fa": "no ... or any other ... دامنهٔ نفی را گسترش می‌دهد.",
+          "en": "No ... or any other ... extends the negative scope."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بررسی کامل‌شده و نفی مواد",
+              "en": "A completed check and excluded ingredients"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have checked"
+                },
+                {
+                  "text": "have + past participle"
+                },
+                {
+                  "fa": "بررسی کرده‌ام",
+                  "en": "Completed action relevant now"
+                }
+              ],
+              [
+                {
+                  "text": "contains no almonds or any other nuts"
+                },
+                {
+                  "text": "no + item + or any other + group"
+                },
+                {
+                  "fa": "بادام یا مغز دیگری ندارد",
+                  "en": "Server’s broad negative ingredient claim"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shared-oil-and-relative",
+        "title": {
+          "fa": "روغن مشترک و توضیح‌های وابسته",
+          "en": "Shared oil and modifying clauses"
+        },
+        "explanation": {
+          "fa": "used for frying کوتاه‌شدهٔ which is used for frying است و oil را توصیف می‌کند. dishes that contain nuts گروه غذاهای دارای مغز را مشخص می‌کند. سؤال دربارهٔ مشترک‌بودن روغن است؛ صرفاً پرسیدن مواد داخل خود غذا نیست.",
+          "en": "Used for frying is a reduced form of which is used for frying, modifying oil. Dishes that contain nuts identifies a group of foods. The question concerns shared cooking oil, not merely ingredients in the selected dish."
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        },
+        "takeaway": {
+          "fa": "بررسی مادهٔ داخل غذا با بررسی ابزار و روغن مشترک فرق دارد.",
+          "en": "Ingredient checks differ from checks about shared equipment and oil."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "روغن مشترک و توضیح‌های وابسته",
+              "en": "Shared oil and modifying clauses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the oil used for frying"
+                },
+                {
+                  "text": "noun + reduced passive modifier"
+                },
+                {
+                  "fa": "روغن مورد استفاده برای سرخ‌کردن",
+                  "en": "Describes which oil"
+                }
+              ],
+              [
+                {
+                  "text": "dishes that contain nuts"
+                },
+                {
+                  "text": "noun + that + verb"
+                },
+                {
+                  "fa": "غذاهایی که مغز خوراکی دارند",
+                  "en": "Identifies another dish group"
+                }
+              ],
+              [
+                {
+                  "text": "Is the oil used for frying shared"
+                },
+                {
+                  "text": "Is + noun phrase + shared?"
+                },
+                {
+                  "fa": "آیا روغن مشترک است؟",
+                  "en": "Asks about the preparation process"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "still-prefer-careful",
+        "title": {
+          "fa": "احتیاط با وجود پاسخ اطمینان‌بخش",
+          "en": "Caution despite reassurance"
+        },
+        "explanation": {
+          "fa": "but I still prefer ... نشان می‌دهد خبر خوب نگرانی را کاملاً تمام نکرده است. prefer to be very careful ترجیح ادامهٔ احتیاط را می‌گوید. take allergies seriously یک ترکیب ثابت برای توجه جدی است، نه برداشتن جسمیِ حساسیت.",
+          "en": "But I still prefer ... shows that reassurance has not ended the concern. Prefer to be very careful expresses continued caution. Take allergies seriously is a fixed expression for treating the issue as important, not physical taking."
+        },
+        "example": {
+          "text": "That is good to hear, but I still prefer to be very careful.",
+          "translation": {
+            "fa": "خوب است که می‌شنوم، ولی هنوز ترجیح می‌دهم خیلی محتاط باشم.",
+            "en": "That is good to hear, but I still prefer to be very careful."
+          }
+        },
+        "takeaway": {
+          "fa": "still استمرار احتیاط را پس از خبر خوب نگه می‌دارد.",
+          "en": "Still maintains the caution after reassuring information."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "احتیاط با وجود پاسخ اطمینان‌بخش",
+              "en": "Caution despite reassurance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "but I still prefer to be very careful"
+                },
+                {
+                  "text": "but + still + prefer to + action"
+                },
+                {
+                  "fa": "با این حال هنوز احتیاط را ترجیح می‌دهم",
+                  "en": "Continued caution"
+                }
+              ],
+              [
+                {
+                  "text": "we take allergies seriously"
+                },
+                {
+                  "text": "take + issue + seriously"
+                },
+                {
+                  "fa": "حساسیت‌ها را جدی می‌گیریم",
+                  "en": "A statement of responsible attention"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "separate-and-recorded",
+        "title": {
+          "fa": "جدا بودن وسایل و ثبت سفارش",
+          "en": "Separate equipment and recording the order"
+        },
+        "explanation": {
+          "fa": "separate oil and separate utensils دو اقدام جداگانهٔ ادعاشده را فهرست می‌کند. will note ... clearly وعدهٔ ثبت حساسیت برای همین سفارش است، نه ثبت انجام‌شده. note اینجا فعل است؛ on the order محل ثبت اطلاعات را می‌گوید.",
+          "en": "Separate oil and separate utensils lists two claimed measures. Will note ... clearly promises to record the allergy for this order; recording is not yet reported as completed. Note is a verb here, and on the order identifies where the information will be recorded."
+        },
+        "example": {
+          "text": "You are welcome, I will note your allergy on the order clearly.",
+          "translation": {
+            "fa": "خواهش می‌کنم، حساسیت شما را به‌وضوح روی سفارش یادداشت می‌کنم.",
+            "en": "You are welcome, I will note your allergy on the order clearly."
+          }
+        },
+        "takeaway": {
+          "fa": "ادعای استفاده از وسایل جدا و وعدهٔ ثبت را با نتیجهٔ بررسی‌شده یکی نگیر.",
+          "en": "Distinguish claimed separate equipment and promised recording from verified outcomes."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جدا بودن وسایل و ثبت سفارش",
+              "en": "Separate equipment and recording the order"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "separate oil and separate utensils"
+                },
+                {
+                  "text": "repeated adjective + coordinated nouns"
+                },
+                {
+                  "fa": "روغن جدا و ابزار جدا",
+                  "en": "Two measures claimed by the server"
+                }
+              ],
+              [
+                {
+                  "text": "I will note your allergy on the order clearly"
+                },
+                {
+                  "text": "will + note + information + location"
+                },
+                {
+                  "fa": "حساسیت را واضح روی سفارش ثبت می‌کنم",
+                  "en": "A future record-keeping promise"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "felt-safety-not-guarantee",
+        "title": {
+          "fa": "احساس اطمینان با تضمین فرق دارد",
+          "en": "Feeling safe is not a guarantee"
+        },
+        "explanation": {
+          "fa": "I feel safe ordering this احساس نگار را گزارش می‌کند. ordering فعالیتی است که دربارهٔ آن احساس اطمینان دارد. allergy-safe و without any worry عبارت‌های کارکنان در متن‌اند؛ این آموزش ایمنی واقعیِ آشپزخانه یا حذف همهٔ خطرها را تأیید نمی‌کند.",
+          "en": "I feel safe ordering this reports Nigar’s confidence about an action. Allergy-safe and without any worry are the server’s descriptions and reassurance in the dialogue. This language lesson does not verify kitchen safety or establish that every risk has been eliminated."
+        },
+        "example": {
+          "text": "Then I feel safe ordering this, thank you for your care.",
+          "translation": {
+            "fa": "پس با خیال آسوده این را سفارش می‌دهم؛ ممنون از توجهتان.",
+            "en": "Then I feel safe ordering this, thank you for your care."
+          }
+        },
+        "takeaway": {
+          "fa": "زبانِ اطمینان‌بخشی را به تضمین پزشکی تبدیل نکن.",
+          "en": "Do not convert reassurance language into a medical guarantee."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "احساس اطمینان با تضمین فرق دارد",
+              "en": "Feeling safe is not a guarantee"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I feel safe ordering this"
+                },
+                {
+                  "text": "feel + adjective + -ing"
+                },
+                {
+                  "fa": "با خیال آسوده این را سفارش می‌دهم",
+                  "en": "Customer’s subjective confidence"
+                }
+              ],
+              [
+                {
+                  "text": "please enjoy your meal without any worry"
+                },
+                {
+                  "text": "polite reassurance"
+                },
+                {
+                  "fa": "بدون نگرانی از غذا لذت ببرید",
+                  "en": "Server’s reassurance, not independent verification"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "nut-allergy",
+        "text": "I have a nut allergy",
+        "pronunciation": {
+          "faReading": "آی هَو اِ نات اَلِرجی",
+          "ipa": "/aɪ hæv ə nʌt ˈælɚdʒi/"
+        },
+        "meaning": {
+          "fa": "به مغزهای خوراکی حساسیت دارم",
+          "en": "I have a nut allergy"
+        },
+        "context": {
+          "fa": "بیان مشکل از خود نگار است؛ فقط بادام را نمی‌گوید.",
+          "en": "Nigar states a broader allergy, not almonds alone."
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "make-sure",
+        "text": "make sure my food is safe",
+        "pronunciation": {
+          "faReading": "مِیک شور مای فود ایز سِیف",
+          "ipa": "/meɪk ʃʊr maɪ fud ɪz seɪf/"
+        },
+        "meaning": {
+          "fa": "مطمئن شوم غذایم بی‌خطر است",
+          "en": "Make sure my food is safe"
+        },
+        "context": {
+          "fa": "هدفِ بررسی را می‌گوید، نه نتیجهٔ تأییدشدهٔ مستقل.",
+          "en": "States a verification aim, not an independently confirmed result."
+        },
+        "example": {
+          "text": "I have a nut allergy, and I want to make sure my food is safe.",
+          "translation": {
+            "fa": "من به مغزهای خوراکی حساسیت دارم و می‌خواهم مطمئن شوم غذایم بی‌خطر است.",
+            "en": "I have a nut allergy, and I want to make sure my food is safe."
+          }
+        }
+      },
+      {
+        "id": "confirm",
+        "text": "can you confirm this dish has none",
+        "pronunciation": {
+          "faReading": "کَن یو کِنفِرم ذیس دیش هَز نان",
+          "ipa": "/kæn ju kənˈfɝm ðɪs dɪʃ hæz nʌn/"
+        },
+        "meaning": {
+          "fa": "تأیید می‌کنید این غذا هیچ بادامی ندارد؟",
+          "en": "Can you confirm it contains no almonds?"
+        },
+        "context": {
+          "fa": "none در این پرسش به almonds برمی‌گردد.",
+          "en": "None refers to almonds in this question."
+        },
+        "example": {
+          "text": "I especially avoid almonds, can you confirm this dish has none?",
+          "translation": {
+            "fa": "به‌ویژه از بادام پرهیز می‌کنم؛ می‌توانید تأیید کنید این غذا هیچ بادامی ندارد؟",
+            "en": "I especially avoid almonds, can you confirm this dish has none?"
+          }
+        }
+      },
+      {
+        "id": "seriously",
+        "text": "take allergies seriously",
+        "pronunciation": {
+          "faReading": "تِیک اَلِرجیز سیریِسلی",
+          "ipa": "/teɪk ˈælɚdʒiz ˈsɪriəsli/"
+        },
+        "meaning": {
+          "fa": "حساسیت‌ها را جدی گرفتن",
+          "en": "Treat allergies as important"
+        },
+        "context": {
+          "fa": "قول توجه مسئولانه از سوی کارکنان است.",
+          "en": "The server states a commitment to responsible attention."
+        },
+        "example": {
+          "text": "That is completely understandable, we take allergies seriously here.",
+          "translation": {
+            "fa": "کاملاً قابل درک است؛ اینجا حساسیت‌ها را جدی می‌گیریم.",
+            "en": "That is completely understandable, we take allergies seriously here."
+          }
+        }
+      },
+      {
+        "id": "shared-oil",
+        "text": "the oil used for frying",
+        "pronunciation": {
+          "faReading": "ذی اُویل یوزد فور فْرای‌اینگ",
+          "ipa": "/ði ɔɪl juzd fɚ ˈfraɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "روغن مورد استفاده برای سرخ‌کردن",
+          "en": "The oil used to fry food"
+        },
+        "context": {
+          "fa": "نگار دربارهٔ اشتراک در فرایند پخت هم سؤال می‌کند.",
+          "en": "Nigar also asks about shared preparation processes."
+        },
+        "example": {
+          "text": "Is the oil used for frying shared with dishes that contain nuts?",
+          "translation": {
+            "fa": "آیا روغنی که برای سرخ‌کردن استفاده می‌شود با غذاهای دارای مغزهای خوراکی مشترک است؟",
+            "en": "Is the oil used for frying shared with dishes that contain nuts?"
+          }
+        }
+      },
+      {
+        "id": "separate",
+        "text": "separate oil and separate utensils",
+        "pronunciation": {
+          "faReading": "سِپِرِت اُویل اَند سِپِرِت یوتِنسِلز",
+          "ipa": "/ˈsɛpərət ɔɪl ən ˈsɛpərət juˈtɛnsəlz/"
+        },
+        "meaning": {
+          "fa": "روغن جدا و ابزار جدا",
+          "en": "Separate oil and separate tools"
+        },
+        "context": {
+          "fa": "این ادعای کارکنان است، نه تضمین ایمنی پزشکی.",
+          "en": "This is the server’s claim, not a medical safety guarantee."
+        },
+        "example": {
+          "text": "No, we use separate oil and separate utensils for allergy-safe meals.",
+          "translation": {
+            "fa": "نه، برای وعده‌های مناسبِ حساسیت از روغن جدا و ابزار جدا استفاده می‌کنیم.",
+            "en": "No, we use separate oil and separate utensils for allergy-safe meals."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف نگار از پرسش‌ها چیست؟",
+          "en": "What is Nigar trying to do through her questions?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب ارزان‌ترین غذای منو",
+              "en": "Choose the cheapest dish on the menu"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "گرفتن دستور تهیهٔ غذا",
+              "en": "Obtain the dish’s recipe"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بررسی مواد و روش پخت در ارتباط با حساسیتش",
+              "en": "Check ingredients and preparation in relation to her allergy"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "او هم دربارهٔ مغزها و هم دربارهٔ روغن و ابزار مشترک می‌پرسد.",
+          "en": "She asks about nuts as well as shared oil and utensils."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "scope",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نگار حساسیت خود را چگونه بیان می‌کند؟",
+          "en": "How does Nigar describe her allergy?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حساسیت به مغزهای خوراکی، با تأکید ویژه بر بادام",
+              "en": "A nut allergy, with particular emphasis on almonds"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حساسیت فقط به شیر",
+              "en": "An allergy only to milk"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حساسیت به ماهی، بدون نگرانی از بادام",
+              "en": "A fish allergy with no concern about almonds"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "nut allergy دستهٔ کلی و especially almonds مورد برجسته است؛ متن را به فقط بادام محدود نمی‌کنیم.",
+          "en": "Nut allergy gives the category and especially almonds highlights one item; the text is not narrowed to almonds alone."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03"
+        ]
+      },
+      {
+        "id": "none-reference",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "none در پرسش نگار به چه اشاره می‌کند؟",
+          "en": "What does none refer to in Nigar’s question?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هیچ روغنی",
+              "en": "No oil"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هیچ بادامی",
+              "en": "No almonds"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هیچ سبزیجاتی",
+              "en": "No vegetables"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "almonds درست پیش از has none آمده و مرجع آن است.",
+          "en": "Almonds immediately precedes has none and supplies its reference."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "process",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پس از سؤال دربارهٔ مواد، چه موضوع دیگری را بررسی می‌کند؟",
+          "en": "After asking about ingredients, what else does she check?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دمای نوشیدنی و زمان سرو",
+              "en": "Drink temperature and serving time"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قیمت غذا و هزینهٔ سرویس",
+              "en": "Food price and service charge"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اشتراک روغن سرخ‌کردن با غذاهای دارای مغز",
+              "en": "Whether frying oil is shared with dishes containing nuts"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سؤال Is the oil ... shared ...? دربارهٔ فرایند تهیه است، نه فقط فهرست مواد.",
+          "en": "Is the oil ... shared ...? asks about preparation, not just the ingredient list."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "record",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کارکنان چه چیزی را وعده می‌دهند روی سفارش ثبت کنند؟",
+          "en": "What does the server promise to record on the order?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حساسیت نگار را به‌وضوح",
+              "en": "Nigar’s allergy clearly"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شمارهٔ میز همسایه را",
+              "en": "The neighboring table’s number"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فهرست همهٔ غذاهای رستوران را",
+              "en": "The restaurant’s entire menu"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "will note your allergy ... clearly وعدهٔ ثبت اطلاعات است، نه گزارش ثبت انجام‌شده.",
+          "en": "Will note your allergy ... clearly is a recording promise, not a report that it has already been recorded."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "safety-scope",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام برداشت از پایان گفت‌وگو دقیق‌تر است؟",
+          "en": "Which reading of the ending is most accurate?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همهٔ خطرها مستقلاً آزمایش و حذف شده‌اند",
+              "en": "Every risk has been independently tested and eliminated"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "نگار احساس اطمینان می‌کند و کارکنان اطمینان می‌دهند، ولی این تضمین مستقل پزشکی نیست",
+              "en": "Nigar feels confident and the server reassures her, but this is no independent medical guarantee"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نگار می‌گوید همچنان نمی‌تواند هیچ سفارشی بدهد",
+              "en": "Nigar says she still cannot order anything"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "feel safe احساس اوست و without any worry اطمینان‌بخشی کارکنان؛ نتیجهٔ آزمایش مستقلی در متن نیست.",
+          "en": "Feel safe is her reaction and without any worry is the server’s reassurance; the dialogue reports no independent test."
+        },
+        "evidenceTurnIds": [
+          "t09",
+          "t12"
+        ]
+      }
+    ]
+  }
+}

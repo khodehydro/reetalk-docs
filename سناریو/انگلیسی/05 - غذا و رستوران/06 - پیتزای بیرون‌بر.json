@@ -1,0 +1,3131 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s06",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "پیتزای بیرون‌بر",
+    "en": "A Takeaway Pizza"
+  },
+  "objective": {
+    "fa": "سفارش بیرون‌بر با افزودنی، پرسیدن مبلغ کل و زمان تحویل.",
+    "en": "Place a takeaway order with an extra topping and ask about the total and collection time."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "server",
+      "name": "Server",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "I would like to order a pizza to take away, please.",
+      "translation": {
+        "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+        "en": "I would like to order a pizza to take away, please."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would like”: politely want"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش دادن",
+            "en": "order; request food, a verb here"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "pizza",
+          "gloss": {
+            "fa": "پیتزا",
+            "en": "pizza; a baked flatbread with toppings"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+            "en": "In “to take away”: to be eaten away from the restaurant"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+            "en": "In “to take away”: to be eaten away from the restaurant"
+          }
+        },
+        {
+          "surface": "away,",
+          "gloss": {
+            "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+            "en": "In “to take away”: to be eaten away from the restaurant"
+          }
+        },
+        {
+          "surface": "please.",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "server",
+      "text": "Which pizza would you like, and what size?",
+      "translation": {
+        "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+        "en": "Which pizza would you like, and what size?"
+      },
+      "tokens": [
+        {
+          "surface": "Which",
+          "gloss": {
+            "fa": "کدام؛ که",
+            "en": "which; asks for a choice or introduces information"
+          }
+        },
+        {
+          "surface": "pizza",
+          "gloss": {
+            "fa": "پیتزا",
+            "en": "pizza; a baked flatbread with toppings"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "like,",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "size?",
+          "gloss": {
+            "fa": "اندازه",
+            "en": "size; how large something is"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "A large pepperoni pizza, with extra cheese if possible.",
+      "translation": {
+        "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+        "en": "A large pepperoni pizza, with extra cheese if possible."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "large",
+          "gloss": {
+            "fa": "بزرگ؛ دربارهٔ اندازهٔ پیتزا",
+            "en": "large; big in pizza size"
+          }
+        },
+        {
+          "surface": "pepperoni",
+          "gloss": {
+            "fa": "پپرونی؛ نوعی سوسیس ادویه‌دار",
+            "en": "pepperoni; a seasoned sausage used on pizza"
+          }
+        },
+        {
+          "surface": "pizza,",
+          "gloss": {
+            "fa": "پیتزا",
+            "en": "pizza; a baked flatbread with toppings"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "extra",
+          "gloss": {
+            "fa": "اضافی",
+            "en": "extra; in addition to the main item"
+          }
+        },
+        {
+          "surface": "cheese",
+          "gloss": {
+            "fa": "پنیر",
+            "en": "cheese; a food made from milk"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "در «if possible»: اگر ممکن است",
+            "en": "In “if possible”: makes the extra-cheese request conditional on availability"
+          }
+        },
+        {
+          "surface": "possible.",
+          "gloss": {
+            "fa": "در «if possible»: اگر ممکن است",
+            "en": "In “if possible”: makes the extra-cheese request conditional on availability"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "server",
+      "text": "No problem, would you like anything else, like a drink or a salad?",
+      "translation": {
+        "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+        "en": "No problem, would you like anything else, like a drink or a salad?"
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "problem,",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; a difficulty"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+            "en": "In “would you like”: politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مثلِ؛ برای مثال",
+            "en": "like; introduces examples"
+          }
+        },
+        {
+          "surface": "anything",
+          "gloss": {
+            "fa": "چیزی؛ هر چیزی",
+            "en": "anything; any thing"
+          }
+        },
+        {
+          "surface": "else,",
+          "gloss": {
+            "fa": "دیگر",
+            "en": "else; additional to what has been mentioned"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داشتن؛ مثلِ",
+            "en": "like; enjoy or want, or similar to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "drink",
+          "gloss": {
+            "fa": "نوشیدنی",
+            "en": "drink; a beverage, a noun"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "salad?",
+          "gloss": {
+            "fa": "سالاد",
+            "en": "salad; a dish of vegetables or other mixed ingredients"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "A bottle of water, please, that is all.",
+      "translation": {
+        "fa": "یک بطری آب لطفاً؛ همین است.",
+        "en": "A bottle of water, please, that is all."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "bottle",
+          "gloss": {
+            "fa": "بطری",
+            "en": "bottle; a container for a drink"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "water,",
+          "gloss": {
+            "fa": "آب",
+            "en": "water; the liquid supplied to a home"
+          }
+        },
+        {
+          "surface": "please,",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+            "en": "In “that is all”: ends the order"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+            "en": "In “that is all”: ends the order"
+          }
+        },
+        {
+          "surface": "all.",
+          "gloss": {
+            "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+            "en": "In “that is all”: ends the order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "server",
+      "text": "Understood, the pizza takes about twenty minutes to prepare.",
+      "translation": {
+        "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+        "en": "Understood, the pizza takes about twenty minutes to prepare."
+      },
+      "tokens": [
+        {
+          "surface": "Understood,",
+          "gloss": {
+            "fa": "متوجه شدم",
+            "en": "understood; acknowledges understanding"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "pizza",
+          "gloss": {
+            "fa": "پیتزا",
+            "en": "pizza; a baked flatbread with toppings"
+          }
+        },
+        {
+          "surface": "takes",
+          "gloss": {
+            "fa": "طول می‌کشد",
+            "en": "takes; requires a length of preparation time"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "حدود؛ تقریباً",
+            "en": "about; approximately"
+          }
+        },
+        {
+          "surface": "twenty",
+          "gloss": {
+            "fa": "بیست",
+            "en": "twenty; the number 20"
+          }
+        },
+        {
+          "surface": "minutes",
+          "gloss": {
+            "fa": "دقیقه",
+            "en": "minutes; units of sixty seconds"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "prepare.",
+          "gloss": {
+            "fa": "آماده کردن",
+            "en": "prepare; make food ready"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "That is fine, how much does everything come to?",
+      "translation": {
+        "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+        "en": "That is fine, how much does everything come to?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "fine,",
+          "gloss": {
+            "fa": "مناسب؛ قابل‌قبول",
+            "en": "fine; acceptable or satisfactory"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        },
+        {
+          "surface": "to?",
+          "gloss": {
+            "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+            "en": "In “how much does everything come to”: asks for the total price"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "server",
+      "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+      "translation": {
+        "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+        "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "total",
+          "gloss": {
+            "fa": "مجموع مبلغ",
+            "en": "total; the full amount"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "fifteen",
+          "gloss": {
+            "fa": "پانزده",
+            "en": "fifteen; the number 15"
+          }
+        },
+        {
+          "surface": "units,",
+          "gloss": {
+            "fa": "واحد؛ واحدهای پول نامشخص",
+            "en": "units; unspecified currency units"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش",
+            "en": "order; a request for food, a noun here"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+            "en": "In “in twenty minutes”: after a twenty-minute wait"
+          }
+        },
+        {
+          "surface": "twenty",
+          "gloss": {
+            "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+            "en": "In “in twenty minutes”: after a twenty-minute wait"
+          }
+        },
+        {
+          "surface": "minutes.",
+          "gloss": {
+            "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+            "en": "In “in twenty minutes”: after a twenty-minute wait"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "Thank you, I will come back to pick it up.",
+      "translation": {
+        "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+        "en": "Thank you, I will come back to pick it up."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمدن",
+            "en": "come; arrive or return"
+          }
+        },
+        {
+          "surface": "back",
+          "gloss": {
+            "fa": "دوباره؛ بازگشت",
+            "en": "back; returning to an earlier place"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "pick",
+          "gloss": {
+            "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+            "en": "In “pick it up”: collect the prepared pizza order"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+            "en": "In “pick it up”: collect the prepared pizza order"
+          }
+        },
+        {
+          "surface": "up.",
+          "gloss": {
+            "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+            "en": "In “pick it up”: collect the prepared pizza order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "server",
+      "text": "You are welcome, may I have your name for the order?",
+      "translation": {
+        "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+        "en": "You are welcome, may I have your name for the order?"
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+            "en": "In “may I have your name”: politely requests a name to identify the order"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+            "en": "In “may I have your name”: politely requests a name to identify the order"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+            "en": "In “may I have your name”: politely requests a name to identify the order"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+            "en": "In “may I have your name”: politely requests a name to identify the order"
+          }
+        },
+        {
+          "surface": "name",
+          "gloss": {
+            "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+            "en": "In “may I have your name”: politely requests a name to identify the order"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "order?",
+          "gloss": {
+            "fa": "سفارش",
+            "en": "order; a request for food, a noun here"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would like”: politely want"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would like”: politely want"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش دادن",
+          "en": "order; request food, a verb here"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "pizza",
+        "text": "pizza",
+        "pronunciation": {
+          "faReading": "پیتسا",
+          "ipa": "/ˈpitsə/"
+        },
+        "meaning": {
+          "fa": "پیتزا",
+          "en": "pizza; a baked flatbread with toppings"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+          "en": "In “to take away”: to be eaten away from the restaurant"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+          "en": "In “to take away”: to be eaten away from the restaurant"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "away",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "در «to take away»: برای بیرون بردن و خوردن جای دیگر",
+          "en": "In “to take away”: to be eaten away from the restaurant"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "which",
+        "text": "Which",
+        "pronunciation": {
+          "faReading": "ویچ",
+          "ipa": "/wɪtʃ/"
+        },
+        "meaning": {
+          "fa": "کدام؛ که",
+          "en": "which; asks for a choice or introduces information"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "would-2",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "like-2",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would you like»: میل دارید؛ می‌خواهم، مؤدبانه",
+          "en": "In “would you like”: politely want"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "size",
+        "text": "size",
+        "pronunciation": {
+          "faReading": "سایز",
+          "ipa": "/saɪz/"
+        },
+        "meaning": {
+          "fa": "اندازه",
+          "en": "size; how large something is"
+        },
+        "example": {
+          "text": "Which pizza would you like, and what size?",
+          "translation": {
+            "fa": "کدام پیتزا و چه اندازه‌ای میل دارید؟",
+            "en": "Which pizza would you like, and what size?"
+          }
+        }
+      },
+      {
+        "id": "large",
+        "text": "large",
+        "pronunciation": {
+          "faReading": "لارج",
+          "ipa": "/lɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "بزرگ؛ دربارهٔ اندازهٔ پیتزا",
+          "en": "large; big in pizza size"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "pepperoni",
+        "text": "pepperoni",
+        "pronunciation": {
+          "faReading": "پِپِرُونی",
+          "ipa": "/ˌpɛpəˈroʊni/"
+        },
+        "meaning": {
+          "fa": "پپرونی؛ نوعی سوسیس ادویه‌دار",
+          "en": "pepperoni; a seasoned sausage used on pizza"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "extra",
+        "text": "extra",
+        "pronunciation": {
+          "faReading": "اِکستْرا",
+          "ipa": "/ˈɛkstrə/"
+        },
+        "meaning": {
+          "fa": "اضافی",
+          "en": "extra; in addition to the main item"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "cheese",
+        "text": "cheese",
+        "pronunciation": {
+          "faReading": "چیز",
+          "ipa": "/tʃiz/"
+        },
+        "meaning": {
+          "fa": "پنیر",
+          "en": "cheese; a food made from milk"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "در «if possible»: اگر ممکن است",
+          "en": "In “if possible”: makes the extra-cheese request conditional on availability"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "possible",
+        "text": "possible",
+        "pronunciation": {
+          "faReading": "پاسِبِل",
+          "ipa": "/ˈpɑsəbəl/"
+        },
+        "meaning": {
+          "fa": "در «if possible»: اگر ممکن است",
+          "en": "In “if possible”: makes the extra-cheese request conditional on availability"
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; a difficulty"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "like-3",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مثلِ؛ برای مثال",
+          "en": "like; introduces examples"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "anything",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی؛ هر چیزی",
+          "en": "anything; any thing"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "else",
+        "text": "else",
+        "pronunciation": {
+          "faReading": "اِلس",
+          "ipa": "/ɛls/"
+        },
+        "meaning": {
+          "fa": "دیگر",
+          "en": "else; additional to what has been mentioned"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "like-4",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن؛ مثلِ",
+          "en": "like; enjoy or want, or similar to"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "drink",
+        "text": "drink",
+        "pronunciation": {
+          "faReading": "دْرینک",
+          "ipa": "/drɪŋk/"
+        },
+        "meaning": {
+          "fa": "نوشیدنی",
+          "en": "drink; a beverage, a noun"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "salad",
+        "text": "salad",
+        "pronunciation": {
+          "faReading": "سَلِد",
+          "ipa": "/ˈsæləd/"
+        },
+        "meaning": {
+          "fa": "سالاد",
+          "en": "salad; a dish of vegetables or other mixed ingredients"
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "bottle",
+        "text": "bottle",
+        "pronunciation": {
+          "faReading": "باتِل",
+          "ipa": "/ˈbɑtəl/"
+        },
+        "meaning": {
+          "fa": "بطری",
+          "en": "bottle; a container for a drink"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "آب",
+          "en": "water; the liquid supplied to a home"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+          "en": "In “that is all”: ends the order"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+          "en": "In “that is all”: ends the order"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "در «that is all»: همین است؛ چیز دیگری نمی‌خواهم",
+          "en": "In “that is all”: ends the order"
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "understood",
+        "text": "Understood",
+        "pronunciation": {
+          "faReading": "آندِرسْتود",
+          "ipa": "/ˌʌndɚˈstʊd/"
+        },
+        "meaning": {
+          "fa": "متوجه شدم",
+          "en": "understood; acknowledges understanding"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "takes",
+        "text": "takes",
+        "pronunciation": {
+          "faReading": "تِیکس",
+          "ipa": "/teɪks/"
+        },
+        "meaning": {
+          "fa": "طول می‌کشد",
+          "en": "takes; requires a length of preparation time"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "حدود؛ تقریباً",
+          "en": "about; approximately"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "twenty",
+        "text": "twenty",
+        "pronunciation": {
+          "faReading": "تْوِنتی",
+          "ipa": "/ˈtwɛnti/"
+        },
+        "meaning": {
+          "fa": "بیست",
+          "en": "twenty; the number 20"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "دقیقه",
+          "en": "minutes; units of sixty seconds"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "prepare",
+        "text": "prepare",
+        "pronunciation": {
+          "faReading": "پْری‌پِر",
+          "ipa": "/prɪˈpɛr/"
+        },
+        "meaning": {
+          "fa": "آماده کردن",
+          "en": "prepare; make food ready"
+        },
+        "example": {
+          "text": "Understood, the pizza takes about twenty minutes to prepare.",
+          "translation": {
+            "fa": "متوجه شدم، آماده‌کردن پیتزا حدود بیست دقیقه طول می‌کشد.",
+            "en": "Understood, the pizza takes about twenty minutes to prepare."
+          }
+        }
+      },
+      {
+        "id": "that-2",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "fine",
+        "text": "fine",
+        "pronunciation": {
+          "faReading": "فاین",
+          "ipa": "/faɪn/"
+        },
+        "meaning": {
+          "fa": "مناسب؛ قابل‌قبول",
+          "en": "fine; acceptable or satisfactory"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "to-3",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «how much does everything come to»: مبلغ کل چقدر می‌شود؟",
+          "en": "In “how much does everything come to”: asks for the total price"
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "total",
+        "text": "total",
+        "pronunciation": {
+          "faReading": "تُوتِل",
+          "ipa": "/ˈtoʊtəl/"
+        },
+        "meaning": {
+          "fa": "مجموع مبلغ",
+          "en": "total; the full amount"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "fifteen",
+        "text": "fifteen",
+        "pronunciation": {
+          "faReading": "فیفتین",
+          "ipa": "/ˌfɪfˈtin/"
+        },
+        "meaning": {
+          "fa": "پانزده",
+          "en": "fifteen; the number 15"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "units",
+        "text": "units",
+        "pronunciation": {
+          "faReading": "یونِتس",
+          "ipa": "/ˈjunɪts/"
+        },
+        "meaning": {
+          "fa": "واحد؛ واحدهای پول نامشخص",
+          "en": "units; unspecified currency units"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "order-2",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش",
+          "en": "order; a request for food, a noun here"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+          "en": "In “in twenty minutes”: after a twenty-minute wait"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "twenty-2",
+        "text": "twenty",
+        "pronunciation": {
+          "faReading": "تْوِنتی",
+          "ipa": "/ˈtwɛnti/"
+        },
+        "meaning": {
+          "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+          "en": "In “in twenty minutes”: after a twenty-minute wait"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "minutes-2",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "در «in twenty minutes»: بیست دقیقهٔ دیگر",
+          "en": "In “in twenty minutes”: after a twenty-minute wait"
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "come-2",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "آمدن",
+          "en": "come; arrive or return"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "back",
+        "text": "back",
+        "pronunciation": {
+          "faReading": "بَک",
+          "ipa": "/bæk/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ بازگشت",
+          "en": "back; returning to an earlier place"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "pick",
+        "text": "pick",
+        "pronunciation": {
+          "faReading": "پیک",
+          "ipa": "/pɪk/"
+        },
+        "meaning": {
+          "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+          "en": "In “pick it up”: collect the prepared pizza order"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+          "en": "In “pick it up”: collect the prepared pizza order"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "در «pick it up»: سفارشم را تحویل بگیرم",
+          "en": "In “pick it up”: collect the prepared pizza order"
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+          "en": "In “may I have your name”: politely requests a name to identify the order"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+          "en": "In “may I have your name”: politely requests a name to identify the order"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+          "en": "In “may I have your name”: politely requests a name to identify the order"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "your-2",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+          "en": "In “may I have your name”: politely requests a name to identify the order"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "name",
+        "text": "name",
+        "pronunciation": {
+          "faReading": "نِیم",
+          "ipa": "/neɪm/"
+        },
+        "meaning": {
+          "fa": "در «may I have your name»: می‌شود نامتان را بگویید؟",
+          "en": "In “may I have your name”: politely requests a name to identify the order"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "You are welcome, may I have your name for the order?",
+          "translation": {
+            "fa": "خواهش می‌کنم، می‌شود نامتان را برای سفارش داشته باشم؟",
+            "en": "You are welcome, may I have your name for the order?"
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "takeaway-and-size",
+        "title": {
+          "fa": "بیرون‌بر، نوع و اندازه",
+          "en": "Takeaway, type and size"
+        },
+        "explanation": {
+          "fa": "to take away هدف سفارش را می‌گوید: غذا را جای دیگری می‌خورد. Which pizza ... and what size? دو مشخصه می‌پرسد. A large pepperoni pizza پاسخ کوتاه است و نام نوع غذا در پایان می‌آید.",
+          "en": "To take away says the order is for eating elsewhere. Which pizza ... and what size? asks for two details. A large pepperoni pizza is a short answer with the food item last."
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        },
+        "takeaway": {
+          "fa": "نوع و اندازه را قبل از pizza بگو.",
+          "en": "Put size and type before pizza."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بیرون‌بر، نوع و اندازه",
+              "en": "Takeaway, type and size"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "to order a pizza to take away"
+                },
+                {
+                  "text": "order + item + to take away"
+                },
+                {
+                  "fa": "سفارش پیتزا برای بیرون بردن",
+                  "en": "Takeaway purpose"
+                }
+              ],
+              [
+                {
+                  "text": "A large pepperoni pizza"
+                },
+                {
+                  "text": "size + type + food"
+                },
+                {
+                  "fa": "پیتزای پپرونی بزرگ",
+                  "en": "A concise order"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "extras-and-examples",
+        "title": {
+          "fa": "افزودنی و مثال",
+          "en": "Extras and examples"
+        },
+        "explanation": {
+          "fa": "with extra cheese یک افزودنی می‌خواهد. if possible درخواست را به امکان تهیه وابسته می‌کند. anything else چیز بیشتری می‌پرسد و like در like a drink یعنی «مثلِ»، نه دوست داشتن.",
+          "en": "With extra cheese adds a topping request. If possible makes it conditional on availability. Anything else asks about additional items; like in like a drink means for example, not enjoy."
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        },
+        "takeaway": {
+          "fa": "like می‌تواند مثال معرفی کند؛ extra یعنی اضافه.",
+          "en": "Like can introduce examples; extra means additional."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "افزودنی و مثال",
+              "en": "Extras and examples"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "with extra cheese if possible"
+                },
+                {
+                  "text": "with + extra item + if possible"
+                },
+                {
+                  "fa": "با پنیر اضافه اگر ممکن است",
+                  "en": "A conditional preference"
+                }
+              ],
+              [
+                {
+                  "text": "anything else, like a drink or a salad"
+                },
+                {
+                  "text": "anything else + examples"
+                },
+                {
+                  "fa": "چیز دیگری مثل نوشیدنی یا سالاد",
+                  "en": "An offer of additions"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "counting-drinks-and-ending",
+        "title": {
+          "fa": "بطری آب و پایان سفارش",
+          "en": "A bottle of water and ending the order"
+        },
+        "explanation": {
+          "fa": "a bottle of water با ظرف، مقدار آب را می‌گوید. that is all سفارش را تمام می‌کند و نوشیدنی یا سالاد دیگری انتخاب نمی‌کند. may I have your name درخواست مؤدبانه برای ثبت سفارش است؛ نام آرمان در پاسخ گفته نمی‌شود، پس نوبت تازه‌ای نمی‌سازیم.",
+          "en": "A bottle of water uses a container to specify a drink quantity. That is all closes the order. May I have your name politely requests an order identifier; the source ends without Arman stating it, so no new reply is added."
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        },
+        "takeaway": {
+          "fa": "that is all یعنی چیز دیگری نمی‌خواهم.",
+          "en": "That is all means no additional items are wanted."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بطری آب و پایان سفارش",
+              "en": "A bottle of water and ending the order"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "A bottle of water, please, that is all"
+                },
+                {
+                  "text": "container + of + drink; closing phrase"
+                },
+                {
+                  "fa": "یک بطری آب؛ همین است",
+                  "en": "Closes the order"
+                }
+              ],
+              [
+                {
+                  "text": "may I have your name for the order"
+                },
+                {
+                  "text": "may I have + information?"
+                },
+                {
+                  "fa": "نامتان را برای سفارش می‌گویید؟",
+                  "en": "Polite request for an identifier"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "duration-versus-ready",
+        "title": {
+          "fa": "مدت آماده‌سازی و زمان تحویل",
+          "en": "Preparation duration and readiness"
+        },
+        "explanation": {
+          "fa": "takes about twenty minutes to prepare مدت آماده‌سازی را می‌گوید. will be ready in twenty minutes زمان آماده‌شدن نسبت به اکنون است. بیست دقیقه قیمت نیست و fifteen units مدت نیست؛ واحد پول در متن نام‌گذاری نشده است.",
+          "en": "Takes about twenty minutes to prepare gives preparation duration. Will be ready in twenty minutes places readiness twenty minutes from now. Twenty minutes is not the price; fifteen units is not a duration. No currency is named."
+        },
+        "example": {
+          "text": "The total is fifteen units, and your order will be ready in twenty minutes.",
+          "translation": {
+            "fa": "جمع مبلغ پانزده واحد است و سفارش شما بیست دقیقهٔ دیگر آماده می‌شود.",
+            "en": "The total is fifteen units, and your order will be ready in twenty minutes."
+          }
+        },
+        "takeaway": {
+          "fa": "takes + مدت؛ ready in + مدت تا آماده‌شدن.",
+          "en": "Takes + duration; ready in + time until readiness."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مدت آماده‌سازی و زمان تحویل",
+              "en": "Preparation duration and readiness"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "takes about twenty minutes to prepare"
+                },
+                {
+                  "text": "takes + duration + to + action"
+                },
+                {
+                  "fa": "آماده‌کردنش حدود بیست دقیقه زمان می‌برد",
+                  "en": "Preparation length"
+                }
+              ],
+              [
+                {
+                  "text": "will be ready in twenty minutes"
+                },
+                {
+                  "text": "will be ready in + period"
+                },
+                {
+                  "fa": "بیست دقیقهٔ دیگر آماده است",
+                  "en": "Readiness from now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "total-and-collection",
+        "title": {
+          "fa": "پرسیدن جمع مبلغ و تحویل‌گرفتن",
+          "en": "Asking the total and collecting the order"
+        },
+        "explanation": {
+          "fa": "come to در how much does everything come to? یعنی جمع مبلغ شدن، نه آمدن به جایی. pick it up یعنی سفارش آماده را تحویل گرفتن. it به سفارش پیتزا برمی‌گردد و up جهت بالا رفتن نیست.",
+          "en": "Come to in how much does everything come to? means total in price, not travel to a place. Pick it up means collect the prepared order; it refers to the pizza order and up is not a direction of travel."
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        },
+        "takeaway": {
+          "fa": "come to برای جمع قیمت؛ pick up برای تحویل‌گرفتن.",
+          "en": "Use come to for a total and pick up for collection."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن جمع مبلغ و تحویل‌گرفتن",
+              "en": "Asking the total and collecting the order"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how much does everything come to"
+                },
+                {
+                  "text": "How much does + order + come to?"
+                },
+                {
+                  "fa": "جمع مبلغ چقدر است؟",
+                  "en": "Asks the total price"
+                }
+              ],
+              [
+                {
+                  "text": "I will come back to pick it up"
+                },
+                {
+                  "text": "come back + to + phrasal action"
+                },
+                {
+                  "fa": "برمی‌گردم تحویل بگیرم",
+                  "en": "Return with a collection purpose"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "takeaway",
+        "text": "a pizza to take away",
+        "pronunciation": {
+          "faReading": "اِ پیتسا تو تِیک اِوِی",
+          "ipa": "/ə ˈpitsə tə teɪk əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "پیتزای بیرون‌بر",
+          "en": "A pizza to eat elsewhere"
+        },
+        "context": {
+          "fa": "آرمان قصد غذاخوردن در محل را بیان نمی‌کند.",
+          "en": "Arman orders for eating elsewhere."
+        },
+        "example": {
+          "text": "I would like to order a pizza to take away, please.",
+          "translation": {
+            "fa": "لطفاً می‌خواهم یک پیتزا برای بیرون‌بردن سفارش بدهم.",
+            "en": "I would like to order a pizza to take away, please."
+          }
+        }
+      },
+      {
+        "id": "extra",
+        "text": "with extra cheese if possible",
+        "pronunciation": {
+          "faReading": "ویذ اِکستْرا چیز ایف پاسِبِل",
+          "ipa": "/wɪð ˈɛkstrə tʃiz ɪf ˈpɑsəbəl/"
+        },
+        "meaning": {
+          "fa": "با پنیر اضافه اگر ممکن است",
+          "en": "With extra cheese if available"
+        },
+        "context": {
+          "fa": "افزودنی به امکان تهیه وابسته است.",
+          "en": "The addition is conditional on availability."
+        },
+        "example": {
+          "text": "A large pepperoni pizza, with extra cheese if possible.",
+          "translation": {
+            "fa": "یک پیتزای پپرونی بزرگ، اگر ممکن است با پنیر اضافه.",
+            "en": "A large pepperoni pizza, with extra cheese if possible."
+          }
+        }
+      },
+      {
+        "id": "else",
+        "text": "anything else",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ اِلس",
+          "ipa": "/ˈɛniˌθɪŋ ɛls/"
+        },
+        "meaning": {
+          "fa": "چیز دیگری",
+          "en": "Any additional item"
+        },
+        "context": {
+          "fa": "کارکنان نوشیدنی یا سالاد را مثال می‌زنند.",
+          "en": "The server offers a drink or salad as examples."
+        },
+        "example": {
+          "text": "No problem, would you like anything else, like a drink or a salad?",
+          "translation": {
+            "fa": "مشکلی نیست، چیز دیگری مثل نوشیدنی یا سالاد هم میل دارید؟",
+            "en": "No problem, would you like anything else, like a drink or a salad?"
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "that is all",
+        "pronunciation": {
+          "faReading": "ذَت ایز آل",
+          "ipa": "/ðæt ɪz ɔl/"
+        },
+        "meaning": {
+          "fa": "همین است",
+          "en": "Nothing else is wanted"
+        },
+        "context": {
+          "fa": "آرمان سفارش را پس از بطری آب می‌بندد.",
+          "en": "Arman closes the order after adding bottled water."
+        },
+        "example": {
+          "text": "A bottle of water, please, that is all.",
+          "translation": {
+            "fa": "یک بطری آب لطفاً؛ همین است.",
+            "en": "A bottle of water, please, that is all."
+          }
+        }
+      },
+      {
+        "id": "total",
+        "text": "how much does everything come to",
+        "pronunciation": {
+          "faReading": "هاو ماچ داز اِوری‌ثینگ کام تو",
+          "ipa": "/haʊ mʌtʃ dʌz ˈɛvriˌθɪŋ kʌm tu/"
+        },
+        "meaning": {
+          "fa": "جمع مبلغ چقدر است؟",
+          "en": "What is the total price?"
+        },
+        "context": {
+          "fa": "come to دربارهٔ مبلغ است، نه رسیدن به مکان.",
+          "en": "Come to refers to price, not arrival at a place."
+        },
+        "example": {
+          "text": "That is fine, how much does everything come to?",
+          "translation": {
+            "fa": "خوب است؛ مبلغ کل چقدر می‌شود؟",
+            "en": "That is fine, how much does everything come to?"
+          }
+        }
+      },
+      {
+        "id": "collect",
+        "text": "pick it up",
+        "pronunciation": {
+          "faReading": "پیک ایت آپ",
+          "ipa": "/pɪk ɪt ʌp/"
+        },
+        "meaning": {
+          "fa": "تحویلش بگیرم",
+          "en": "Collect the prepared order"
+        },
+        "context": {
+          "fa": "آرمان می‌خواهد برای دریافت سفارش برگردد.",
+          "en": "Arman plans to return to collect the order."
+        },
+        "example": {
+          "text": "Thank you, I will come back to pick it up.",
+          "translation": {
+            "fa": "ممنون، برمی‌گردم تحویلش بگیرم.",
+            "en": "Thank you, I will come back to pick it up."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان چه نوع سفارشی می‌دهد؟",
+          "en": "What kind of order does Arman place?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سفارش میز و غذا برای گروه",
+              "en": "A table and meal booking for a group"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سفارش پیتزای بیرون‌بر و آب",
+              "en": "A takeaway pizza and water order"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سفارش پیتزا برای خوردن در محل و سالاد",
+              "en": "A dine-in pizza and salad order"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "to take away و bottle of water نوع سفارش را مشخص می‌کنند.",
+          "en": "To take away and bottle of water identify the order."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t05"
+        ]
+      },
+      {
+        "id": "pizza",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام پیتزا را می‌خواهد؟",
+          "en": "Which pizza does he want?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پیتزای سبزیجات کوچک",
+              "en": "A small vegetable pizza"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پیتزای پنیر متوسط",
+              "en": "A medium cheese pizza"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پیتزای پپرونی بزرگ با پنیر اضافه در صورت امکان",
+              "en": "A large pepperoni pizza with extra cheese if possible"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "اندازه، نوع و درخواست افزودنی هر سه در پاسخ آرمان آمده‌اند.",
+          "en": "Arman names the size, type and conditional extra topping together."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "drink",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نوشیدنی انتخابی چیست؟",
+          "en": "What drink is chosen?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بطری آب",
+              "en": "A bottle of water"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "لیوان آب‌میوه",
+              "en": "A glass of juice"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فنجان چای",
+              "en": "A cup of tea"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "آرمان A bottle of water می‌گوید و سفارش را با that is all می‌بندد.",
+          "en": "Arman says A bottle of water and closes with that is all."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "total",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "جمع مبلغ چند واحد است؟",
+          "en": "How many units is the total?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بیست",
+              "en": "Twenty"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پانزده",
+              "en": "Fifteen"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ده",
+              "en": "Ten"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "fifteen units مبلغ است؛ twenty minutes مدت آماده‌شدن است و نام ارز گفته نشده است.",
+          "en": "Fifteen units is the price; twenty minutes is the wait, and no currency is named."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "collect",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان برای گرفتن سفارش چه برنامه‌ای دارد؟",
+          "en": "How does Arman plan to receive the order?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درخواست ارسال به خانه دارد",
+              "en": "He requests home delivery"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "منتظر سرو آن پشت میز می‌ماند",
+              "en": "He waits for table service"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برمی‌گردد آن را تحویل بگیرد",
+              "en": "He will come back to collect it"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "come back to pick it up یعنی بازگشت برای تحویل‌گرفتن.",
+          "en": "Come back to pick it up means returning to collect it."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      }
+    ]
+  }
+}

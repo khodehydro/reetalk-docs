@@ -1,0 +1,2910 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s03",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "صورت‌حساب، لطفاً",
+    "en": "The Bill, Please"
+  },
+  "objective": {
+    "fa": "بررسی اقلام و هزینهٔ سرویس و انجام پرداخت با کارت.",
+    "en": "Check bill items and the service charge, then follow card-payment instructions."
+  },
+  "speakers": [
+    {
+      "id": "customer",
+      "name": "Customer",
+      "gender": "woman"
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "customer",
+      "text": "Could I have the bill, please?",
+      "translation": {
+        "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+        "en": "Could I have the bill, please?"
+      },
+      "tokens": [
+        {
+          "surface": "Could",
+          "gloss": {
+            "fa": "در «Could I have»: می‌شود به من بدهید؟",
+            "en": "In “Could I have”: politely asks to receive the bill"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «Could I have»: می‌شود به من بدهید؟",
+            "en": "In “Could I have”: politely asks to receive the bill"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «Could I have»: می‌شود به من بدهید؟",
+            "en": "In “Could I have”: politely asks to receive the bill"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bill,",
+          "gloss": {
+            "fa": "صورت‌حساب",
+            "en": "bill; an itemized request for payment"
+          }
+        },
+        {
+          "surface": "please?",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "waiter",
+      "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+      "translation": {
+        "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+        "en": "Of course, here is your bill, it includes two teas and one sandwich."
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "در «here is»: این هم",
+            "en": "In “here is”: presents something to the customer"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «here is»: این هم",
+            "en": "In “here is”: presents something to the customer"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "bill,",
+          "gloss": {
+            "fa": "صورت‌حساب",
+            "en": "bill; an itemized request for payment"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "includes",
+          "gloss": {
+            "fa": "شامل می‌شود",
+            "en": "includes; contains as part of the total"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "teas",
+          "gloss": {
+            "fa": "فنجان‌های چای؛ اینجا دو سرو چای",
+            "en": "teas; servings of tea, not types of tea"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک؛ یکی",
+            "en": "one; the number one or a substitute for a thing"
+          }
+        },
+        {
+          "surface": "sandwich.",
+          "gloss": {
+            "fa": "ساندویچ",
+            "en": "sandwich; bread with a filling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "customer",
+      "text": "Let me check, the tea was one cup each, is that right?",
+      "translation": {
+        "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+        "en": "Let me check, the tea was one cup each, is that right?"
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "در «Let me check»: بگذارید بررسی کنم",
+            "en": "In “Let me check”: asks a moment to examine the bill"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "در «Let me check»: بگذارید بررسی کنم",
+            "en": "In “Let me check”: asks a moment to examine the bill"
+          }
+        },
+        {
+          "surface": "check,",
+          "gloss": {
+            "fa": "در «Let me check»: بگذارید بررسی کنم",
+            "en": "In “Let me check”: asks a moment to examine the bill"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "tea",
+          "gloss": {
+            "fa": "چای",
+            "en": "tea; a drink made from tea leaves"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک؛ یکی",
+            "en": "one; the number one or a substitute for a thing"
+          }
+        },
+        {
+          "surface": "cup",
+          "gloss": {
+            "fa": "فنجان",
+            "en": "cup; a small drinking container"
+          }
+        },
+        {
+          "surface": "each,",
+          "gloss": {
+            "fa": "هرکدام؛ در این عبارت ظاهراً هر نفر",
+            "en": "each; apparently each person in this awkward source wording"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "right?",
+          "gloss": {
+            "fa": "درست؛ همین",
+            "en": "right; correct or immediate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "waiter",
+      "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+      "translation": {
+        "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+        "en": "Yes, two cups of tea at one unit each, and one sandwich."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "cups",
+          "gloss": {
+            "fa": "فنجان‌ها",
+            "en": "cups; small drinking vessels"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "tea",
+          "gloss": {
+            "fa": "چای",
+            "en": "tea; a drink made from tea leaves"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+            "en": "In “at one unit each”: one unspecified currency unit per cup"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+            "en": "In “at one unit each”: one unspecified currency unit per cup"
+          }
+        },
+        {
+          "surface": "unit",
+          "gloss": {
+            "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+            "en": "In “at one unit each”: one unspecified currency unit per cup"
+          }
+        },
+        {
+          "surface": "each,",
+          "gloss": {
+            "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+            "en": "In “at one unit each”: one unspecified currency unit per cup"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک؛ یکی",
+            "en": "one; the number one or a substitute for a thing"
+          }
+        },
+        {
+          "surface": "sandwich.",
+          "gloss": {
+            "fa": "ساندویچ",
+            "en": "sandwich; bread with a filling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "customer",
+      "text": "I see, and the service charge is included in this amount?",
+      "translation": {
+        "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+        "en": "I see, and the service charge is included in this amount?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «I see»: متوجه شدم",
+            "en": "In “I see”: signals understanding"
+          }
+        },
+        {
+          "surface": "see,",
+          "gloss": {
+            "fa": "در «I see»: متوجه شدم",
+            "en": "In “I see”: signals understanding"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "service",
+          "gloss": {
+            "fa": "در «service charge»: هزینهٔ سرویس",
+            "en": "In “service charge”: a fee for service"
+          }
+        },
+        {
+          "surface": "charge",
+          "gloss": {
+            "fa": "در «service charge»: هزینهٔ سرویس",
+            "en": "In “service charge”: a fee for service"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "included",
+          "gloss": {
+            "fa": "حساب‌شده در مبلغ",
+            "en": "included; already part of the total"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در؛ تا مدتی دیگر",
+            "en": "in; inside, or after a stated period"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "amount?",
+          "gloss": {
+            "fa": "مبلغ",
+            "en": "amount; a sum of money"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "waiter",
+      "text": "Yes, everything is included, there is nothing extra to pay.",
+      "translation": {
+        "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+        "en": "Yes, everything is included, there is nothing extra to pay."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "included,",
+          "gloss": {
+            "fa": "حساب‌شده در مبلغ",
+            "en": "included; already part of the total"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        },
+        {
+          "surface": "nothing",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        },
+        {
+          "surface": "extra",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        },
+        {
+          "surface": "pay.",
+          "gloss": {
+            "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+            "en": "In “there is nothing extra to pay”: no additional payment is due"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "customer",
+      "text": "Thank you, I will pay by card, do you accept cards here?",
+      "translation": {
+        "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+        "en": "Thank you, I will pay by card, do you accept cards here?"
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "pay",
+          "gloss": {
+            "fa": "پرداخت کردن",
+            "en": "pay; give money for something"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "در «by card»: با کارت بانکی",
+            "en": "In “by card”: using a bank card"
+          }
+        },
+        {
+          "surface": "card,",
+          "gloss": {
+            "fa": "کارت بانکی",
+            "en": "card; a bank payment card"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن؛ یا انجام دادن",
+            "en": "do; helps form questions, or perform an action"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "accept",
+          "gloss": {
+            "fa": "پذیرفتن",
+            "en": "accept; agree to an offer"
+          }
+        },
+        {
+          "surface": "cards",
+          "gloss": {
+            "fa": "کارت‌های بانکی",
+            "en": "cards; bank payment cards"
+          }
+        },
+        {
+          "surface": "here?",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "waiter",
+      "text": "Yes, we do, please insert your card and enter the code.",
+      "translation": {
+        "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+        "en": "Yes, we do, please insert your card and enter the code."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+            "en": "In “Yes, we do”: confirms that cards are accepted"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+            "en": "In “Yes, we do”: confirms that cards are accepted"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+            "en": "In “Yes, we do”: confirms that cards are accepted"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "insert",
+          "gloss": {
+            "fa": "وارد کردن؛ گذاشتن داخل",
+            "en": "insert; put into a device"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "card",
+          "gloss": {
+            "fa": "کارت بانکی",
+            "en": "card; a bank payment card"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "enter",
+          "gloss": {
+            "fa": "وارد کردن",
+            "en": "enter; type information into a device"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "code.",
+          "gloss": {
+            "fa": "رمز کارت",
+            "en": "code; a payment-card security number here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "customer",
+      "text": "Done, here is the receipt, thank you for your service.",
+      "translation": {
+        "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+        "en": "Done, here is the receipt, thank you for your service."
+      },
+      "tokens": [
+        {
+          "surface": "Done,",
+          "gloss": {
+            "fa": "انجام شد؛ پرداخت انجام شد",
+            "en": "Done; payment is completed"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "در «here is»: این هم",
+            "en": "In “here is”: presents the receipt; the customer says this in the source"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «here is»: این هم",
+            "en": "In “here is”: presents the receipt; the customer says this in the source"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "receipt,",
+          "gloss": {
+            "fa": "رسید",
+            "en": "receipt; proof of payment"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "service.",
+          "gloss": {
+            "fa": "خدمات؛ سرویس‌دهی",
+            "en": "service; attention and assistance provided to diners"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "could",
+        "text": "Could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "در «Could I have»: می‌شود به من بدهید؟",
+          "en": "In “Could I have”: politely asks to receive the bill"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «Could I have»: می‌شود به من بدهید؟",
+          "en": "In “Could I have”: politely asks to receive the bill"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «Could I have»: می‌شود به من بدهید؟",
+          "en": "In “Could I have”: politely asks to receive the bill"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "bill",
+        "text": "bill",
+        "pronunciation": {
+          "faReading": "بیل",
+          "ipa": "/bɪl/"
+        },
+        "meaning": {
+          "fa": "صورت‌حساب",
+          "en": "bill; an itemized request for payment"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "در «here is»: این هم",
+          "en": "In “here is”: presents something to the customer"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «here is»: این هم",
+          "en": "In “here is”: presents something to the customer"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "includes",
+        "text": "includes",
+        "pronunciation": {
+          "faReading": "اینکْلودز",
+          "ipa": "/ɪnˈkludz/"
+        },
+        "meaning": {
+          "fa": "شامل می‌شود",
+          "en": "includes; contains as part of the total"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "teas",
+        "text": "teas",
+        "pronunciation": {
+          "faReading": "تیز",
+          "ipa": "/tiz/"
+        },
+        "meaning": {
+          "fa": "فنجان‌های چای؛ اینجا دو سرو چای",
+          "en": "teas; servings of tea, not types of tea"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک؛ یکی",
+          "en": "one; the number one or a substitute for a thing"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "sandwich",
+        "text": "sandwich",
+        "pronunciation": {
+          "faReading": "سَندویچ",
+          "ipa": "/ˈsændwɪtʃ/"
+        },
+        "meaning": {
+          "fa": "ساندویچ",
+          "en": "sandwich; bread with a filling"
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "در «Let me check»: بگذارید بررسی کنم",
+          "en": "In “Let me check”: asks a moment to examine the bill"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "در «Let me check»: بگذارید بررسی کنم",
+          "en": "In “Let me check”: asks a moment to examine the bill"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "check",
+        "text": "check",
+        "pronunciation": {
+          "faReading": "چِک",
+          "ipa": "/tʃɛk/"
+        },
+        "meaning": {
+          "fa": "در «Let me check»: بگذارید بررسی کنم",
+          "en": "In “Let me check”: asks a moment to examine the bill"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "tea",
+        "text": "tea",
+        "pronunciation": {
+          "faReading": "تی",
+          "ipa": "/ti/"
+        },
+        "meaning": {
+          "fa": "چای",
+          "en": "tea; a drink made from tea leaves"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "cup",
+        "text": "cup",
+        "pronunciation": {
+          "faReading": "کَپ",
+          "ipa": "/kʌp/"
+        },
+        "meaning": {
+          "fa": "فنجان",
+          "en": "cup; a small drinking container"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هرکدام؛ در این عبارت ظاهراً هر نفر",
+          "en": "each; apparently each person in this awkward source wording"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست؛ همین",
+          "en": "right; correct or immediate"
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "cups",
+        "text": "cups",
+        "pronunciation": {
+          "faReading": "کاپس",
+          "ipa": "/kʌps/"
+        },
+        "meaning": {
+          "fa": "فنجان‌ها",
+          "en": "cups; small drinking vessels"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+          "en": "In “at one unit each”: one unspecified currency unit per cup"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "one-2",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+          "en": "In “at one unit each”: one unspecified currency unit per cup"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "unit",
+        "text": "unit",
+        "pronunciation": {
+          "faReading": "یونِت",
+          "ipa": "/ˈjunɪt/"
+        },
+        "meaning": {
+          "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+          "en": "In “at one unit each”: one unspecified currency unit per cup"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "each-2",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "در «at one unit each»: هرکدام به قیمت یک واحد",
+          "en": "In “at one unit each”: one unspecified currency unit per cup"
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «I see»: متوجه شدم",
+          "en": "In “I see”: signals understanding"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "see",
+        "text": "see",
+        "pronunciation": {
+          "faReading": "سی",
+          "ipa": "/si/"
+        },
+        "meaning": {
+          "fa": "در «I see»: متوجه شدم",
+          "en": "In “I see”: signals understanding"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "service",
+        "text": "service",
+        "pronunciation": {
+          "faReading": "سِرویس",
+          "ipa": "/ˈsɝvɪs/"
+        },
+        "meaning": {
+          "fa": "در «service charge»: هزینهٔ سرویس",
+          "en": "In “service charge”: a fee for service"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "charge",
+        "text": "charge",
+        "pronunciation": {
+          "faReading": "چارج",
+          "ipa": "/tʃɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "در «service charge»: هزینهٔ سرویس",
+          "en": "In “service charge”: a fee for service"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "included",
+        "text": "included",
+        "pronunciation": {
+          "faReading": "اینکْلودِد",
+          "ipa": "/ɪnˈkludɪd/"
+        },
+        "meaning": {
+          "fa": "حساب‌شده در مبلغ",
+          "en": "included; already part of the total"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ تا مدتی دیگر",
+          "en": "in; inside, or after a stated period"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "amount",
+        "text": "amount",
+        "pronunciation": {
+          "faReading": "اِماونت",
+          "ipa": "/əˈmaʊnt/"
+        },
+        "meaning": {
+          "fa": "مبلغ",
+          "en": "amount; a sum of money"
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "is-3",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "extra",
+        "text": "extra",
+        "pronunciation": {
+          "faReading": "اِکستْرا",
+          "ipa": "/ˈɛkstrə/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "pay",
+        "text": "pay",
+        "pronunciation": {
+          "faReading": "پِی",
+          "ipa": "/peɪ/"
+        },
+        "meaning": {
+          "fa": "در «there is nothing extra to pay»: هیچ مبلغ اضافه‌ای برای پرداخت نیست",
+          "en": "In “there is nothing extra to pay”: no additional payment is due"
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "i-3",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "pay-2",
+        "text": "pay",
+        "pronunciation": {
+          "faReading": "پِی",
+          "ipa": "/peɪ/"
+        },
+        "meaning": {
+          "fa": "پرداخت کردن",
+          "en": "pay; give money for something"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "در «by card»: با کارت بانکی",
+          "en": "In “by card”: using a bank card"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "card",
+        "text": "card",
+        "pronunciation": {
+          "faReading": "کارد",
+          "ipa": "/kɑrd/"
+        },
+        "meaning": {
+          "fa": "کارت بانکی",
+          "en": "card; a bank payment card"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ یا انجام دادن",
+          "en": "do; helps form questions, or perform an action"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "accept",
+        "text": "accept",
+        "pronunciation": {
+          "faReading": "اَکسِپت",
+          "ipa": "/əkˈsɛpt/"
+        },
+        "meaning": {
+          "fa": "پذیرفتن",
+          "en": "accept; agree to an offer"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "cards",
+        "text": "cards",
+        "pronunciation": {
+          "faReading": "کاردز",
+          "ipa": "/kɑrdz/"
+        },
+        "meaning": {
+          "fa": "کارت‌های بانکی",
+          "en": "cards; bank payment cards"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "here-2",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "yes-2",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+          "en": "In “Yes, we do”: confirms that cards are accepted"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+          "en": "In “Yes, we do”: confirms that cards are accepted"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "do-2",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «Yes, we do»: بله، قبول می‌کنیم",
+          "en": "In “Yes, we do”: confirms that cards are accepted"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "insert",
+        "text": "insert",
+        "pronunciation": {
+          "faReading": "اینسِرت",
+          "ipa": "/ɪnˈsɝt/"
+        },
+        "meaning": {
+          "fa": "وارد کردن؛ گذاشتن داخل",
+          "en": "insert; put into a device"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "enter",
+        "text": "enter",
+        "pronunciation": {
+          "faReading": "اِنتِر",
+          "ipa": "/ˈɛntɚ/"
+        },
+        "meaning": {
+          "fa": "وارد کردن",
+          "en": "enter; type information into a device"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "code",
+        "text": "code",
+        "pronunciation": {
+          "faReading": "کُود",
+          "ipa": "/koʊd/"
+        },
+        "meaning": {
+          "fa": "رمز کارت",
+          "en": "code; a payment-card security number here"
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      },
+      {
+        "id": "done",
+        "text": "Done",
+        "pronunciation": {
+          "faReading": "دان",
+          "ipa": "/dʌn/"
+        },
+        "meaning": {
+          "fa": "انجام شد؛ پرداخت انجام شد",
+          "en": "Done; payment is completed"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      },
+      {
+        "id": "here-3",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "در «here is»: این هم",
+          "en": "In “here is”: presents the receipt; the customer says this in the source"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      },
+      {
+        "id": "is-4",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «here is»: این هم",
+          "en": "In “here is”: presents the receipt; the customer says this in the source"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      },
+      {
+        "id": "receipt",
+        "text": "receipt",
+        "pronunciation": {
+          "faReading": "ریسیت",
+          "ipa": "/rɪˈsit/"
+        },
+        "meaning": {
+          "fa": "رسید",
+          "en": "receipt; proof of payment"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      },
+      {
+        "id": "service-2",
+        "text": "service",
+        "pronunciation": {
+          "faReading": "سِرویس",
+          "ipa": "/ˈsɝvɪs/"
+        },
+        "meaning": {
+          "fa": "خدمات؛ سرویس‌دهی",
+          "en": "service; attention and assistance provided to diners"
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "bill-request-and-items",
+        "title": {
+          "fa": "درخواست و اقلام صورت‌حساب",
+          "en": "Requesting and reading the bill"
+        },
+        "explanation": {
+          "fa": "Could I have the bill? درخواست مؤدبانهٔ گرفتن صورت‌حساب است. it includes اقلام داخل حساب را معرفی می‌کند. two teas اینجا دو سرو چای است؛ از دو نوع چای مختلف حرف نمی‌زند.",
+          "en": "Could I have the bill? politely asks to receive it. It includes lists what is on the bill. Two teas means two servings of tea, not two different tea varieties."
+        },
+        "example": {
+          "text": "Of course, here is your bill, it includes two teas and one sandwich.",
+          "translation": {
+            "fa": "حتماً، این هم صورت‌حسابتان؛ شامل دو چای و یک ساندویچ است.",
+            "en": "Of course, here is your bill, it includes two teas and one sandwich."
+          }
+        },
+        "takeaway": {
+          "fa": "two teas می‌تواند یعنی دو فنجان چای.",
+          "en": "Two teas can mean two cups or servings of tea."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست و اقلام صورت‌حساب",
+              "en": "Requesting and reading the bill"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Could I have the bill, please"
+                },
+                {
+                  "text": "Could I have + item + please?"
+                },
+                {
+                  "fa": "می‌شود صورت‌حساب را بدهید؟",
+                  "en": "A polite request"
+                }
+              ],
+              [
+                {
+                  "text": "it includes two teas and one sandwich"
+                },
+                {
+                  "text": "includes + items"
+                },
+                {
+                  "fa": "دو چای و یک ساندویچ دارد",
+                  "en": "The bill’s items"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "each-and-unit-price",
+        "title": {
+          "fa": "هرکدام و قیمت واحد",
+          "en": "Each and the unit price"
+        },
+        "explanation": {
+          "fa": "عبارت the tea was one cup each در منبع کمی نامأنوس است و ظاهراً از یک فنجان برای هر نفر می‌گوید. پاسخ بعد روشن‌تر است: two cups ... at one unit each یعنی هر فنجان یک واحد پولی. نام ارز و قیمت ساندویچ گفته نشده، پس کل مبلغ را نمی‌سازیم.",
+          "en": "The source phrase the tea was one cup each is awkward and apparently describes one cup per person. The reply is clearer: two cups ... at one unit each prices each cup at one currency unit. No currency name or sandwich price is given, so no total is invented."
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        },
+        "takeaway": {
+          "fa": "at one unit each قیمت هر فنجان را می‌گوید.",
+          "en": "At one unit each gives the price per cup."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هرکدام و قیمت واحد",
+              "en": "Each and the unit price"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the tea was one cup each"
+                },
+                {
+                  "text": "one cup each"
+                },
+                {
+                  "fa": "ظاهراً یک فنجان برای هر نفر",
+                  "en": "Awkward source wording, preserved"
+                }
+              ],
+              [
+                {
+                  "text": "at one unit each"
+                },
+                {
+                  "text": "at + price + each"
+                },
+                {
+                  "fa": "هرکدام یک واحد",
+                  "en": "Per-cup price, not total bill"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "included-or-extra",
+        "title": {
+          "fa": "داخل مبلغ یا اضافه؟",
+          "en": "Included or extra?"
+        },
+        "explanation": {
+          "fa": "is included یعنی هزینه قبلاً در همین مبلغ حساب شده است. سؤال دربارهٔ service charge است. nothing extra to pay جواب می‌دهد که مبلغ دیگری اضافه نیست؛ این جمله عدد کل صورت‌حساب را نمی‌گوید.",
+          "en": "Is included means the charge is already part of this amount. The question concerns the service charge. Nothing extra to pay says no additional payment is due; it does not give the bill’s numerical total."
+        },
+        "example": {
+          "text": "Yes, everything is included, there is nothing extra to pay.",
+          "translation": {
+            "fa": "بله، همه‌چیز حساب شده و مبلغ اضافه‌ای برای پرداخت نیست.",
+            "en": "Yes, everything is included, there is nothing extra to pay."
+          }
+        },
+        "takeaway": {
+          "fa": "included یعنی حساب‌شده در مبلغ؛ extra یعنی اضافه.",
+          "en": "Included means already in the amount; extra means additional."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "داخل مبلغ یا اضافه؟",
+              "en": "Included or extra?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the service charge is included in this amount"
+                },
+                {
+                  "text": "cost + is included in + amount"
+                },
+                {
+                  "fa": "هزینهٔ سرویس در مبلغ حساب شده",
+                  "en": "Checks what the price covers"
+                }
+              ],
+              [
+                {
+                  "text": "there is nothing extra to pay"
+                },
+                {
+                  "text": "nothing extra to + action"
+                },
+                {
+                  "fa": "مبلغ اضافه‌ای برای پرداخت نیست",
+                  "en": "No additional charge"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "card-payment-and-short-answer",
+        "title": {
+          "fa": "پرداخت با کارت و پاسخ کوتاه",
+          "en": "Card payment and a short reply"
+        },
+        "explanation": {
+          "fa": "pay by card یعنی با کارت پرداخت کردن. Do you accept cards? سؤال است و Yes, we do جای Yes, we accept cards را می‌گیرد. do در این پاسخ دیگر معنی «انجام می‌دهیم» به‌تنهایی ندارد.",
+          "en": "Pay by card means use a bank card. Do you accept cards? is the question; Yes, we do replaces Yes, we accept cards. Do stands for the action already asked about."
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        },
+        "takeaway": {
+          "fa": "by card روش پرداخت است؛ we do یعنی کارت قبول می‌کنیم.",
+          "en": "By card gives the payment method; we do means we accept cards."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرداخت با کارت و پاسخ کوتاه",
+              "en": "Card payment and a short reply"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will pay by card"
+                },
+                {
+                  "text": "pay by + method"
+                },
+                {
+                  "fa": "با کارت پرداخت می‌کنم",
+                  "en": "Chosen payment method"
+                }
+              ],
+              [
+                {
+                  "text": "do you accept cards here"
+                },
+                {
+                  "text": "Do you + action?"
+                },
+                {
+                  "fa": "اینجا کارت قبول می‌کنید؟",
+                  "en": "Asks about payment availability"
+                }
+              ],
+              [
+                {
+                  "text": "Yes, we do"
+                },
+                {
+                  "text": "Yes + subject + do"
+                },
+                {
+                  "fa": "بله، قبول می‌کنیم",
+                  "en": "A short answer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "payment-instructions-and-receipt",
+        "title": {
+          "fa": "دستور پرداخت و رسید",
+          "en": "Payment instructions and the receipt"
+        },
+        "explanation": {
+          "fa": "please insert ... and enter ... دو دستور مؤدبانه‌اند؛ insert کارت را داخل دستگاه گذاشتن و enter رمز را وارد کردن است. Done یعنی کار انجام شد. در منبع خود Customer می‌گوید here is the receipt؛ گوینده را عوض نمی‌کنیم و گیرندهٔ رسید را حدس نمی‌زنیم.",
+          "en": "Please insert ... and enter ... gives two polite instructions: insert the card, then enter the code. Done marks completion. The source assigns here is the receipt to Customer; we retain that speaker and do not invent who receives the receipt."
+        },
+        "example": {
+          "text": "Done, here is the receipt, thank you for your service.",
+          "translation": {
+            "fa": "انجام شد؛ این هم رسید، بابت خدماتتان ممنون.",
+            "en": "Done, here is the receipt, thank you for your service."
+          }
+        },
+        "takeaway": {
+          "fa": "insert برای کارت؛ enter برای رمز؛ Done برای پایان کار.",
+          "en": "Insert the card; enter the code; Done marks completion."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دستور پرداخت و رسید",
+              "en": "Payment instructions and the receipt"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "please insert your card and enter the code"
+                },
+                {
+                  "text": "please + action + and + action"
+                },
+                {
+                  "fa": "کارت را وارد کنید و رمز را بزنید",
+                  "en": "Two steps in payment"
+                }
+              ],
+              [
+                {
+                  "text": "Done, here is the receipt"
+                },
+                {
+                  "text": "Done + presenting an item"
+                },
+                {
+                  "fa": "انجام شد؛ این هم رسید",
+                  "en": "Spoken by Customer in the source"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "bill",
+        "text": "Could I have the bill, please",
+        "pronunciation": {
+          "faReading": "کود آی هَو ذِ بیل پْلیز",
+          "ipa": "/kʊd aɪ hæv ðə bɪl pliz/"
+        },
+        "meaning": {
+          "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+          "en": "Could I have the bill, please?"
+        },
+        "context": {
+          "fa": "درخواست مؤدبانهٔ مشتری است.",
+          "en": "The customer’s polite request."
+        },
+        "example": {
+          "text": "Could I have the bill, please?",
+          "translation": {
+            "fa": "می‌شود صورت‌حساب را بدهید، لطفاً؟",
+            "en": "Could I have the bill, please?"
+          }
+        }
+      },
+      {
+        "id": "check",
+        "text": "Let me check",
+        "pronunciation": {
+          "faReading": "لِت می چِک",
+          "ipa": "/lɛt mi tʃɛk/"
+        },
+        "meaning": {
+          "fa": "بگذارید بررسی کنم",
+          "en": "Let me check"
+        },
+        "context": {
+          "fa": "مشتری می‌خواهد اقلام حساب را بررسی کند.",
+          "en": "The customer wants to examine the bill items."
+        },
+        "example": {
+          "text": "Let me check, the tea was one cup each, is that right?",
+          "translation": {
+            "fa": "بگذارید بررسی کنم؛ چای برای هر نفر یک فنجان بود، درست است؟",
+            "en": "Let me check, the tea was one cup each, is that right?"
+          }
+        }
+      },
+      {
+        "id": "unit-price",
+        "text": "at one unit each",
+        "pronunciation": {
+          "faReading": "اَت وان یونِت ایچ",
+          "ipa": "/ət wʌn ˈjunɪt itʃ/"
+        },
+        "meaning": {
+          "fa": "هرکدام یک واحد",
+          "en": "At one currency unit per cup"
+        },
+        "context": {
+          "fa": "قیمت هر چای است؛ ارز و قیمت ساندویچ مشخص نیست.",
+          "en": "The per-tea price; currency and sandwich price are unspecified."
+        },
+        "example": {
+          "text": "Yes, two cups of tea at one unit each, and one sandwich.",
+          "translation": {
+            "fa": "بله، دو فنجان چای، هرکدام یک واحد، و یک ساندویچ.",
+            "en": "Yes, two cups of tea at one unit each, and one sandwich."
+          }
+        }
+      },
+      {
+        "id": "service",
+        "text": "service charge",
+        "pronunciation": {
+          "faReading": "سِرویس چارج",
+          "ipa": "/ˈsɝvɪs tʃɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "هزینهٔ سرویس",
+          "en": "A fee for service"
+        },
+        "context": {
+          "fa": "مشتری می‌پرسد آیا در مبلغ حساب شده است.",
+          "en": "The customer asks whether it is included."
+        },
+        "example": {
+          "text": "I see, and the service charge is included in this amount?",
+          "translation": {
+            "fa": "متوجه شدم؛ هزینهٔ سرویس هم در این مبلغ حساب شده است؟",
+            "en": "I see, and the service charge is included in this amount?"
+          }
+        }
+      },
+      {
+        "id": "card",
+        "text": "pay by card",
+        "pronunciation": {
+          "faReading": "پِی بای کارد",
+          "ipa": "/peɪ baɪ kɑrd/"
+        },
+        "meaning": {
+          "fa": "با کارت پرداخت کردن",
+          "en": "Pay using a bank card"
+        },
+        "context": {
+          "fa": "روش انتخابی پرداخت است.",
+          "en": "The chosen payment method."
+        },
+        "example": {
+          "text": "Thank you, I will pay by card, do you accept cards here?",
+          "translation": {
+            "fa": "ممنون، با کارت پرداخت می‌کنم؛ اینجا کارت قبول می‌کنید؟",
+            "en": "Thank you, I will pay by card, do you accept cards here?"
+          }
+        }
+      },
+      {
+        "id": "payment-steps",
+        "text": "insert your card and enter the code",
+        "pronunciation": {
+          "faReading": "اینسِرت یور کارد اَند اِنتِر ذِ کُود",
+          "ipa": "/ɪnˈsɝt jɚ kɑrd ən ˈɛntɚ ðə koʊd/"
+        },
+        "meaning": {
+          "fa": "کارت را وارد کنید و رمز را بزنید",
+          "en": "Insert the card and enter the code"
+        },
+        "context": {
+          "fa": "دو دستور پرداخت‌اند؛ کد واقعی در متن نیست.",
+          "en": "Two payment steps; no actual code is supplied."
+        },
+        "example": {
+          "text": "Yes, we do, please insert your card and enter the code.",
+          "translation": {
+            "fa": "بله، لطفاً کارتتان را وارد کنید و رمز را بزنید.",
+            "en": "Yes, we do, please insert your card and enter the code."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی این گفت‌وگو چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب غذای تازه",
+              "en": "Choosing a new dish"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بررسی صورت‌حساب و پرداخت با کارت",
+              "en": "Checking a bill and paying by card"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رزرو میز برای شام",
+              "en": "Booking a dinner table"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "اقلام، هزینهٔ سرویس و مراحل پرداخت بررسی می‌شوند.",
+          "en": "They check items, the service charge and payment steps."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t05",
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "items",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "صورت‌حساب چه اقلامی دارد؟",
+          "en": "What items are on the bill?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دو ساندویچ و یک چای",
+              "en": "Two sandwiches and one tea"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو چای و دو ساندویچ",
+              "en": "Two teas and two sandwiches"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دو چای و یک ساندویچ",
+              "en": "Two teas and one sandwich"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "پیشخدمت two teas and one sandwich می‌گوید.",
+          "en": "The waiter says two teas and one sandwich."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "tea-price",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "قیمت هر فنجان چای چند واحد است؟",
+          "en": "How many units does each cup of tea cost?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک واحد",
+              "en": "One unit"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو واحد",
+              "en": "Two units"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه واحد",
+              "en": "Three units"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "at one unit each قیمت هر فنجان است؛ جمع کل شامل ساندویچ عدد ندارد.",
+          "en": "At one unit each is the per-cup price; the full total including the sandwich is not stated."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "included",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هزینهٔ سرویس چه وضعیتی دارد؟",
+          "en": "What is the status of the service charge?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "باید جداگانه پرداخت شود",
+              "en": "It must be paid separately"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "در مبلغ حساب شده است",
+              "en": "It is included in the amount"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پس از پرداخت تعیین می‌شود",
+              "en": "It is determined after payment"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "everything is included و nothing extra to pay روشن می‌کنند که هزینهٔ اضافه نیست.",
+          "en": "Everything is included and nothing extra to pay confirm no additional charge."
+        },
+        "evidenceTurnIds": [
+          "t05",
+          "t06"
+        ]
+      },
+      {
+        "id": "card-steps",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دستور پیشخدمت برای پرداخت چیست؟",
+          "en": "What payment instruction does the waiter give?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "امضای رسید و تحویل پول نقد",
+              "en": "Sign the receipt and hand over cash"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دادن رمز به پیشخدمت و انتظار",
+              "en": "Tell the waiter the code and wait"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "واردکردن کارت و زدن رمز",
+              "en": "Insert the card and enter the code"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "دستور insert ... and enter ... است؛ درخواست گفتن رمز به پیشخدمت وجود ندارد.",
+          "en": "The instruction is insert ... and enter ...; it does not ask the customer to tell the waiter the code."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2591 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s02",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "ناهار ساده سینا",
+    "en": "Sina’s Simple Lunch"
+  },
+  "objective": {
+    "fa": "انتخاب ناهار سبک، پرسیدن تازگی سالاد و درخواست نوشیدنی همراه غذا.",
+    "en": "Choose a light lunch, ask about salad freshness and request a drink with the meal."
+  },
+  "speakers": [
+    {
+      "id": "sina",
+      "name": "Sina",
+      "gender": "man"
+    },
+    {
+      "id": "cook",
+      "name": "Cook",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sina",
+      "text": "I want a simple lunch today, nothing too heavy.",
+      "translation": {
+        "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+        "en": "I want a simple lunch today, nothing too heavy."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "simple",
+          "gloss": {
+            "fa": "ساده",
+            "en": "simple; plain, not elaborate"
+          }
+        },
+        {
+          "surface": "lunch",
+          "gloss": {
+            "fa": "ناهار",
+            "en": "lunch; a midday meal"
+          }
+        },
+        {
+          "surface": "today,",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "nothing",
+          "gloss": {
+            "fa": "هیچ‌چیز",
+            "en": "nothing; not anything"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "در «too heavy»: بیش از حد سنگین؛ دربارهٔ غذا",
+            "en": "In “too heavy”: more filling or rich than wanted"
+          }
+        },
+        {
+          "surface": "heavy.",
+          "gloss": {
+            "fa": "در «too heavy»: بیش از حد سنگین؛ دربارهٔ غذا",
+            "en": "In “too heavy”: more filling or rich than wanted"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "cook",
+      "text": "How about a plate of rice with grilled chicken and salad?",
+      "translation": {
+        "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+        "en": "How about a plate of rice with grilled chicken and salad?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How about»: ... چطور است؟",
+            "en": "In “How about”: suggests a meal"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "در «How about»: ... چطور است؟",
+            "en": "In “How about”: suggests a meal"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "plate",
+          "gloss": {
+            "fa": "بشقاب",
+            "en": "plate; a flat dish for serving food"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "rice",
+          "gloss": {
+            "fa": "برنج",
+            "en": "rice; a grain served cooked"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "grilled",
+          "gloss": {
+            "fa": "کبابی؛ گریل‌شده",
+            "en": "grilled; cooked over or under direct heat"
+          }
+        },
+        {
+          "surface": "chicken",
+          "gloss": {
+            "fa": "گوشت مرغ",
+            "en": "chicken; chicken meat as food"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "salad?",
+          "gloss": {
+            "fa": "سالاد",
+            "en": "salad; a dish of vegetables or other mixed ingredients"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sina",
+      "text": "That sounds light and good, is the salad fresh?",
+      "translation": {
+        "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+        "en": "That sounds light and good, is the salad fresh?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+            "en": "In “sounds light and good”: seems suitable from the description"
+          }
+        },
+        {
+          "surface": "light",
+          "gloss": {
+            "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+            "en": "In “sounds light and good”: seems suitable from the description"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+            "en": "In “sounds light and good”: seems suitable from the description"
+          }
+        },
+        {
+          "surface": "good,",
+          "gloss": {
+            "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+            "en": "In “sounds light and good”: seems suitable from the description"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "salad",
+          "gloss": {
+            "fa": "سالاد",
+            "en": "salad; a dish of vegetables or other mixed ingredients"
+          }
+        },
+        {
+          "surface": "fresh?",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "cook",
+      "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+      "translation": {
+        "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+        "en": "Yes, we prepare the salad every morning from fresh vegetables."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "prepare",
+          "gloss": {
+            "fa": "آماده کردن",
+            "en": "prepare; make food ready"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "salad",
+          "gloss": {
+            "fa": "سالاد",
+            "en": "salad; a dish of vegetables or other mixed ingredients"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; marks origin or source"
+          }
+        },
+        {
+          "surface": "fresh",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        },
+        {
+          "surface": "vegetables.",
+          "gloss": {
+            "fa": "سبزیجات",
+            "en": "vegetables; plants or plant parts eaten as food"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sina",
+      "text": "Then I will have that, and a glass of water with lemon please.",
+      "translation": {
+        "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+        "en": "Then I will have that, and a glass of water with lemon please."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "در «will have»: انتخاب می‌کنم؛ سفارش می‌دهم",
+            "en": "In “will have”: chooses or orders this meal"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «will have»: انتخاب می‌کنم؛ سفارش می‌دهم",
+            "en": "In “will have”: chooses or orders this meal"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "همان غذا؛ برنج با مرغ و سالاد",
+            "en": "that; the meal suggested by the cook"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «a glass of water»: یک لیوان آب",
+            "en": "In “a glass of water”: one serving of water in a glass"
+          }
+        },
+        {
+          "surface": "glass",
+          "gloss": {
+            "fa": "در «a glass of water»: یک لیوان آب",
+            "en": "In “a glass of water”: one serving of water in a glass"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «a glass of water»: یک لیوان آب",
+            "en": "In “a glass of water”: one serving of water in a glass"
+          }
+        },
+        {
+          "surface": "water",
+          "gloss": {
+            "fa": "در «a glass of water»: یک لیوان آب",
+            "en": "In “a glass of water”: one serving of water in a glass"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "lemon",
+          "gloss": {
+            "fa": "لیمو",
+            "en": "lemon; a sour citrus fruit"
+          }
+        },
+        {
+          "surface": "please.",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "cook",
+      "text": "No problem, the meal will be ready in about fifteen minutes.",
+      "translation": {
+        "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+        "en": "No problem, the meal will be ready in about fifteen minutes."
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "در «No problem»: مشکلی نیست",
+            "en": "In “No problem”: willingly agrees"
+          }
+        },
+        {
+          "surface": "problem,",
+          "gloss": {
+            "fa": "در «No problem»: مشکلی نیست",
+            "en": "In “No problem”: willingly agrees"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "meal",
+          "gloss": {
+            "fa": "وعدهٔ غذا",
+            "en": "meal; food eaten on one occasion"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن؛ شدن",
+            "en": "be; used for a state or before another action"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared for use or eating"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+            "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+            "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+          }
+        },
+        {
+          "surface": "fifteen",
+          "gloss": {
+            "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+            "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+          }
+        },
+        {
+          "surface": "minutes.",
+          "gloss": {
+            "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+            "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sina",
+      "text": "Thank you, and please bring the plate with the lemon water.",
+      "translation": {
+        "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+        "en": "Thank you, and please bring the plate with the lemon water."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "آوردن",
+            "en": "bring; carry something to the listener"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "plate",
+          "gloss": {
+            "fa": "بشقاب",
+            "en": "plate; a flat dish for serving food"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "lemon",
+          "gloss": {
+            "fa": "در «lemon water»: آب با لیمو؛ نه صرفاً عصارهٔ لیمو",
+            "en": "In “lemon water”: water with lemon, not pure lemon juice"
+          }
+        },
+        {
+          "surface": "water.",
+          "gloss": {
+            "fa": "در «lemon water»: آب با لیمو؛ نه صرفاً عصارهٔ لیمو",
+            "en": "In “lemon water”: water with lemon, not pure lemon juice"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "cook",
+      "text": "Of course, enjoy your lunch.",
+      "translation": {
+        "fa": "حتماً، از ناهارت لذت ببر.",
+        "en": "Of course, enjoy your lunch."
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "lunch.",
+          "gloss": {
+            "fa": "ناهار",
+            "en": "lunch; a midday meal"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "simple",
+        "text": "simple",
+        "pronunciation": {
+          "faReading": "سیمپِل",
+          "ipa": "/ˈsɪmpəl/"
+        },
+        "meaning": {
+          "fa": "ساده",
+          "en": "simple; plain, not elaborate"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "lunch",
+        "text": "lunch",
+        "pronunciation": {
+          "faReading": "لَنچ",
+          "ipa": "/lʌntʃ/"
+        },
+        "meaning": {
+          "fa": "ناهار",
+          "en": "lunch; a midday meal"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز",
+          "en": "nothing; not anything"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «too heavy»: بیش از حد سنگین؛ دربارهٔ غذا",
+          "en": "In “too heavy”: more filling or rich than wanted"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "heavy",
+        "text": "heavy",
+        "pronunciation": {
+          "faReading": "هِوی",
+          "ipa": "/ˈhɛvi/"
+        },
+        "meaning": {
+          "fa": "در «too heavy»: بیش از حد سنگین؛ دربارهٔ غذا",
+          "en": "In “too heavy”: more filling or rich than wanted"
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How about»: ... چطور است؟",
+          "en": "In “How about”: suggests a meal"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "در «How about»: ... چطور است؟",
+          "en": "In “How about”: suggests a meal"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "plate",
+        "text": "plate",
+        "pronunciation": {
+          "faReading": "پْلِیت",
+          "ipa": "/pleɪt/"
+        },
+        "meaning": {
+          "fa": "بشقاب",
+          "en": "plate; a flat dish for serving food"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "rice",
+        "text": "rice",
+        "pronunciation": {
+          "faReading": "رایس",
+          "ipa": "/raɪs/"
+        },
+        "meaning": {
+          "fa": "برنج",
+          "en": "rice; a grain served cooked"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "grilled",
+        "text": "grilled",
+        "pronunciation": {
+          "faReading": "گْریلد",
+          "ipa": "/ɡrɪld/"
+        },
+        "meaning": {
+          "fa": "کبابی؛ گریل‌شده",
+          "en": "grilled; cooked over or under direct heat"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "chicken",
+        "text": "chicken",
+        "pronunciation": {
+          "faReading": "چیکِن",
+          "ipa": "/ˈtʃɪkən/"
+        },
+        "meaning": {
+          "fa": "گوشت مرغ",
+          "en": "chicken; chicken meat as food"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "salad",
+        "text": "salad",
+        "pronunciation": {
+          "faReading": "سَلِد",
+          "ipa": "/ˈsæləd/"
+        },
+        "meaning": {
+          "fa": "سالاد",
+          "en": "salad; a dish of vegetables or other mixed ingredients"
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+          "en": "In “sounds light and good”: seems suitable from the description"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "light",
+        "text": "light",
+        "pronunciation": {
+          "faReading": "لایت",
+          "ipa": "/laɪt/"
+        },
+        "meaning": {
+          "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+          "en": "In “sounds light and good”: seems suitable from the description"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "and-2",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+          "en": "In “sounds light and good”: seems suitable from the description"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "در «sounds light and good»: سبک و خوب به نظر می‌رسد",
+          "en": "In “sounds light and good”: seems suitable from the description"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "fresh",
+        "pronunciation": {
+          "faReading": "فْرِش",
+          "ipa": "/frɛʃ/"
+        },
+        "meaning": {
+          "fa": "تازه",
+          "en": "fresh; recently prepared or obtained"
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "prepare",
+        "text": "prepare",
+        "pronunciation": {
+          "faReading": "پْری‌پِر",
+          "ipa": "/prɪˈpɛr/"
+        },
+        "meaning": {
+          "fa": "آماده کردن",
+          "en": "prepare; make food ready"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از",
+          "en": "from; marks origin or source"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "vegetables",
+        "text": "vegetables",
+        "pronunciation": {
+          "faReading": "وِجتِبِلز",
+          "ipa": "/ˈvɛdʒtəbəlz/"
+        },
+        "meaning": {
+          "fa": "سبزیجات",
+          "en": "vegetables; plants or plant parts eaten as food"
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "در «will have»: انتخاب می‌کنم؛ سفارش می‌دهم",
+          "en": "In “will have”: chooses or orders this meal"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «will have»: انتخاب می‌کنم؛ سفارش می‌دهم",
+          "en": "In “will have”: chooses or orders this meal"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "that-2",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "همان غذا؛ برنج با مرغ و سالاد",
+          "en": "that; the meal suggested by the cook"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «a glass of water»: یک لیوان آب",
+          "en": "In “a glass of water”: one serving of water in a glass"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "glass",
+        "text": "glass",
+        "pronunciation": {
+          "faReading": "گْلَس",
+          "ipa": "/ɡlæs/"
+        },
+        "meaning": {
+          "fa": "در «a glass of water»: یک لیوان آب",
+          "en": "In “a glass of water”: one serving of water in a glass"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «a glass of water»: یک لیوان آب",
+          "en": "In “a glass of water”: one serving of water in a glass"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "در «a glass of water»: یک لیوان آب",
+          "en": "In “a glass of water”: one serving of water in a glass"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "lemon",
+        "text": "lemon",
+        "pronunciation": {
+          "faReading": "لِمِن",
+          "ipa": "/ˈlɛmən/"
+        },
+        "meaning": {
+          "fa": "لیمو",
+          "en": "lemon; a sour citrus fruit"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "در «No problem»: مشکلی نیست",
+          "en": "In “No problem”: willingly agrees"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "در «No problem»: مشکلی نیست",
+          "en": "In “No problem”: willingly agrees"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "meal",
+        "text": "meal",
+        "pronunciation": {
+          "faReading": "میل",
+          "ipa": "/mil/"
+        },
+        "meaning": {
+          "fa": "وعدهٔ غذا",
+          "en": "meal; food eaten on one occasion"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "will-2",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن؛ شدن",
+          "en": "be; used for a state or before another action"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared for use or eating"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+          "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "about-2",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+          "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "fifteen",
+        "text": "fifteen",
+        "pronunciation": {
+          "faReading": "فیفتین",
+          "ipa": "/ˌfɪfˈtin/"
+        },
+        "meaning": {
+          "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+          "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "در «in about fifteen minutes»: حدود پانزده دقیقهٔ دیگر",
+          "en": "In “in about fifteen minutes”: after an approximate fifteen-minute wait"
+        },
+        "example": {
+          "text": "No problem, the meal will be ready in about fifteen minutes.",
+          "translation": {
+            "fa": "مشکلی نیست، غذا حدود پانزده دقیقهٔ دیگر آماده می‌شود.",
+            "en": "No problem, the meal will be ready in about fifteen minutes."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "آوردن",
+          "en": "bring; carry something to the listener"
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        }
+      },
+      {
+        "id": "lemon-2",
+        "text": "lemon",
+        "pronunciation": {
+          "faReading": "لِمِن",
+          "ipa": "/ˈlɛmən/"
+        },
+        "meaning": {
+          "fa": "در «lemon water»: آب با لیمو؛ نه صرفاً عصارهٔ لیمو",
+          "en": "In “lemon water”: water with lemon, not pure lemon juice"
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        }
+      },
+      {
+        "id": "water-2",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "در «lemon water»: آب با لیمو؛ نه صرفاً عصارهٔ لیمو",
+          "en": "In “lemon water”: water with lemon, not pure lemon juice"
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        }
+      },
+      {
+        "id": "of-3",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, enjoy your lunch.",
+          "translation": {
+            "fa": "حتماً، از ناهارت لذت ببر.",
+            "en": "Of course, enjoy your lunch."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, enjoy your lunch.",
+          "translation": {
+            "fa": "حتماً، از ناهارت لذت ببر.",
+            "en": "Of course, enjoy your lunch."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "Of course, enjoy your lunch.",
+          "translation": {
+            "fa": "حتماً، از ناهارت لذت ببر.",
+            "en": "Of course, enjoy your lunch."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Of course, enjoy your lunch.",
+          "translation": {
+            "fa": "حتماً، از ناهارت لذت ببر.",
+            "en": "Of course, enjoy your lunch."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "light-not-heavy",
+        "title": {
+          "fa": "ناهار سبک، نه سنگین",
+          "en": "A light, not heavy, lunch"
+        },
+        "explanation": {
+          "fa": "nothing too heavy یعنی هیچ غذای خیلی سنگینی نمی‌خواهم. heavy و light اینجا دربارهٔ سیرکنندگی و سنگینی غذا هستند، نه وزن بشقاب یا رنگ آن. too یعنی بیش از حد، نه «هم».",
+          "en": "Nothing too heavy means no overly rich or filling food. Heavy and light describe the meal here, not the plate’s weight or color. Too means excessively, not also."
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        },
+        "takeaway": {
+          "fa": "light و heavy را از بافت غذا معنی کن.",
+          "en": "Interpret light and heavy from the food context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ناهار سبک، نه سنگین",
+              "en": "A light, not heavy, lunch"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "nothing too heavy"
+                },
+                {
+                  "text": "nothing + too + description"
+                },
+                {
+                  "fa": "چیزی خیلی سنگین نباشد",
+                  "en": "Limits the kind of lunch"
+                }
+              ],
+              [
+                {
+                  "text": "That sounds light and good"
+                },
+                {
+                  "text": "sounds + description"
+                },
+                {
+                  "fa": "سبک و خوب به نظر می‌رسد",
+                  "en": "An impression from the suggestion"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "meal-suggestion",
+        "title": {
+          "fa": "پیشنهاد غذا",
+          "en": "Suggesting a meal"
+        },
+        "explanation": {
+          "fa": "How about ...? راه کوتاه پیشنهاد غذاست. بعدش نام غذا می‌آید. a plate of rice واحد سرو را می‌گوید؛ with مرغ و سالاد همراه آن را اضافه می‌کند.",
+          "en": "How about ...? is a short way to suggest food, followed by the food choice. A plate of rice gives a serving; with adds chicken and salad."
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        },
+        "takeaway": {
+          "fa": "How about + غذا برای پیشنهاد دادن.",
+          "en": "Use How about + food for a suggestion."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد غذا",
+              "en": "Suggesting a meal"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How about a plate of rice"
+                },
+                {
+                  "text": "How about + food?"
+                },
+                {
+                  "fa": "یک بشقاب برنج چطور است؟",
+                  "en": "Suggests the lunch"
+                }
+              ],
+              [
+                {
+                  "text": "with grilled chicken and salad"
+                },
+                {
+                  "text": "with + accompaniments"
+                },
+                {
+                  "fa": "با مرغ گریل‌شده و سالاد",
+                  "en": "Adds the items served with rice"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fresh-and-routine",
+        "title": {
+          "fa": "تازگی و آماده‌سازی هر روز",
+          "en": "Freshness and a daily routine"
+        },
+        "explanation": {
+          "fa": "Is the salad fresh? دربارهٔ تازگی همین سالاد می‌پرسد. we prepare ... every morning یک کار معمول هر روز را می‌گوید. fresh vegetables یعنی سبزیجات تازه؛ prepare یعنی غذا را آماده کردن.",
+          "en": "Is the salad fresh? asks about freshness. We prepare ... every morning describes the cook’s regular routine. Fresh vegetables means recently obtained vegetables; prepare means make the food ready."
+        },
+        "example": {
+          "text": "Yes, we prepare the salad every morning from fresh vegetables.",
+          "translation": {
+            "fa": "بله، هر روز صبح سالاد را از سبزیجات تازه آماده می‌کنیم.",
+            "en": "Yes, we prepare the salad every morning from fresh vegetables."
+          }
+        },
+        "takeaway": {
+          "fa": "every morning نشانهٔ کار تکراری هر روز است.",
+          "en": "Every morning points to a repeated daily routine."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تازگی و آماده‌سازی هر روز",
+              "en": "Freshness and a daily routine"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "is the salad fresh"
+                },
+                {
+                  "text": "Is + food + description?"
+                },
+                {
+                  "fa": "سالاد تازه است؟",
+                  "en": "Asks about food quality"
+                }
+              ],
+              [
+                {
+                  "text": "we prepare the salad every morning"
+                },
+                {
+                  "text": "we + action + every morning"
+                },
+                {
+                  "fa": "هر روز صبح آماده می‌کنیم",
+                  "en": "A routine"
+                }
+              ],
+              [
+                {
+                  "text": "from fresh vegetables"
+                },
+                {
+                  "text": "from + ingredients"
+                },
+                {
+                  "fa": "از سبزیجات تازه",
+                  "en": "Names the ingredients"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ordering-have",
+        "title": {
+          "fa": "همان را می‌خورم",
+          "en": "I will have that"
+        },
+        "explanation": {
+          "fa": "I will have that در سفارش غذا یعنی همان را انتخاب می‌کنم، نه اینکه مالک همیشگی آن می‌شوم. a glass of water با لیوان مقدار نوشیدنی را می‌گوید. with lemon یعنی آب همراه لیمو؛ lemon water در ادامه همین نوشیدنی است، نه عصارهٔ خالص لیمو.",
+          "en": "I will have that means I choose that meal, not that I will own it permanently. A glass of water names a drink serving. With lemon adds lemon; lemon water later refers to this water, not pure lemon juice."
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        },
+        "takeaway": {
+          "fa": "در رستوران I will have ... برای انتخاب سفارش است.",
+          "en": "In a restaurant, I will have ... selects an order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "همان را می‌خورم",
+              "en": "I will have that"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will have that"
+                },
+                {
+                  "text": "I will have + choice"
+                },
+                {
+                  "fa": "همان را سفارش می‌دهم",
+                  "en": "A decision after a suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "a glass of water with lemon"
+                },
+                {
+                  "text": "container + of + drink + with + addition"
+                },
+                {
+                  "fa": "یک لیوان آب با لیمو",
+                  "en": "A drink order"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wait-and-serve-together",
+        "title": {
+          "fa": "زمان انتظار و آوردن با هم",
+          "en": "Waiting time and serving together"
+        },
+        "explanation": {
+          "fa": "in about fifteen minutes یعنی حدود پانزده دقیقهٔ دیگر؛ about زمان را تقریبی می‌کند. bring the plate with the lemon water درخواست می‌کند بشقاب غذا و نوشیدنی با هم برسند. Enjoy your lunch آرزوی لذت‌بردن از غذاست، نه خبر اینکه غذا تمام شده است.",
+          "en": "In about fifteen minutes gives an approximate wait. Bring the plate with the lemon water asks for the food and drink together. Enjoy your lunch is a friendly wish, not a report that lunch is finished."
+        },
+        "example": {
+          "text": "Thank you, and please bring the plate with the lemon water.",
+          "translation": {
+            "fa": "ممنون، لطفاً بشقاب غذا را همراه آب با لیمو بیاورید.",
+            "en": "Thank you, and please bring the plate with the lemon water."
+          }
+        },
+        "takeaway": {
+          "fa": "about یعنی حدود؛ with اینجا همراهی در سرو را می‌گوید.",
+          "en": "About means approximately; with requests joint serving here."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان انتظار و آوردن با هم",
+              "en": "Waiting time and serving together"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "in about fifteen minutes"
+                },
+                {
+                  "text": "in about + period"
+                },
+                {
+                  "fa": "حدود پانزده دقیقهٔ دیگر",
+                  "en": "Approximate waiting time"
+                }
+              ],
+              [
+                {
+                  "text": "bring the plate with the lemon water"
+                },
+                {
+                  "text": "bring + food + with + drink"
+                },
+                {
+                  "fa": "غذا را همراه نوشیدنی بیاورید",
+                  "en": "Joint delivery request"
+                }
+              ],
+              [
+                {
+                  "text": "enjoy your lunch"
+                },
+                {
+                  "text": "enjoy + meal"
+                },
+                {
+                  "fa": "از ناهارت لذت ببر",
+                  "en": "A friendly closing"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "light-lunch",
+        "text": "nothing too heavy",
+        "pronunciation": {
+          "faReading": "ناثینگ تو هِوی",
+          "ipa": "/ˈnʌθɪŋ tu ˈhɛvi/"
+        },
+        "meaning": {
+          "fa": "چیزی خیلی سنگین نباشد",
+          "en": "Nothing overly rich or filling"
+        },
+        "context": {
+          "fa": "خواستهٔ سینا دربارهٔ سبک ناهار است، نه وزن ظرف.",
+          "en": "Sina’s food preference, not the plate’s weight."
+        },
+        "example": {
+          "text": "I want a simple lunch today, nothing too heavy.",
+          "translation": {
+            "fa": "امروز یک ناهار ساده می‌خواهم؛ چیزی خیلی سنگین نباشد.",
+            "en": "I want a simple lunch today, nothing too heavy."
+          }
+        }
+      },
+      {
+        "id": "suggest",
+        "text": "How about a plate of rice",
+        "pronunciation": {
+          "faReading": "هاو اِباوت اِ پْلِیت آو رایس",
+          "ipa": "/haʊ əˈbaʊt ə pleɪt əv raɪs/"
+        },
+        "meaning": {
+          "fa": "یک بشقاب برنج چطور است؟",
+          "en": "How about a plate of rice?"
+        },
+        "context": {
+          "fa": "آغاز پیشنهاد آشپز است.",
+          "en": "The cook’s suggestion opening."
+        },
+        "example": {
+          "text": "How about a plate of rice with grilled chicken and salad?",
+          "translation": {
+            "fa": "یک بشقاب برنج با مرغ گریل‌شده و سالاد چطور است؟",
+            "en": "How about a plate of rice with grilled chicken and salad?"
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "is the salad fresh",
+        "pronunciation": {
+          "faReading": "ایز ذِ سَلِد فْرِش",
+          "ipa": "/ɪz ðə ˈsæləd frɛʃ/"
+        },
+        "meaning": {
+          "fa": "سالاد تازه است؟",
+          "en": "Is the salad fresh?"
+        },
+        "context": {
+          "fa": "پرسش دربارهٔ کیفیت مواد غذاست.",
+          "en": "Asks about food freshness."
+        },
+        "example": {
+          "text": "That sounds light and good, is the salad fresh?",
+          "translation": {
+            "fa": "سبک و خوب به نظر می‌رسد؛ سالاد تازه است؟",
+            "en": "That sounds light and good, is the salad fresh?"
+          }
+        }
+      },
+      {
+        "id": "choose",
+        "text": "I will have that",
+        "pronunciation": {
+          "faReading": "آی ویل هَو ذَت",
+          "ipa": "/aɪ wɪl hæv ðæt/"
+        },
+        "meaning": {
+          "fa": "همان را سفارش می‌دهم",
+          "en": "I will choose that meal"
+        },
+        "context": {
+          "fa": "سینا پیشنهاد آشپز را می‌پذیرد.",
+          "en": "Sina accepts the cook’s suggestion."
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "lemon",
+        "text": "a glass of water with lemon",
+        "pronunciation": {
+          "faReading": "اِ گْلَس آو ووتِر ویذ لِمِن",
+          "ipa": "/ə ɡlæs əv ˈwɔtɚ wɪð ˈlɛmən/"
+        },
+        "meaning": {
+          "fa": "یک لیوان آب با لیمو",
+          "en": "A glass of water with lemon"
+        },
+        "context": {
+          "fa": "منظور نوشیدنی آب همراه لیموست، نه عصارهٔ خالص لیمو.",
+          "en": "Water with lemon, not pure lemon juice."
+        },
+        "example": {
+          "text": "Then I will have that, and a glass of water with lemon please.",
+          "translation": {
+            "fa": "پس همان را می‌خورم؛ یک لیوان آب با لیمو هم لطفاً.",
+            "en": "Then I will have that, and a glass of water with lemon please."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy your lunch",
+        "pronunciation": {
+          "faReading": "اینجوی یور لانچ",
+          "ipa": "/ɪnˈdʒɔɪ jɚ lʌntʃ/"
+        },
+        "meaning": {
+          "fa": "از ناهارت لذت ببر",
+          "en": "Enjoy your lunch"
+        },
+        "context": {
+          "fa": "پایان دوستانهٔ گفت‌وگوی سفارش است.",
+          "en": "A friendly closing to the order."
+        },
+        "example": {
+          "text": "Of course, enjoy your lunch.",
+          "translation": {
+            "fa": "حتماً، از ناهارت لذت ببر.",
+            "en": "Of course, enjoy your lunch."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سینا دنبال چه ناهاری است؟",
+          "en": "What kind of lunch does Sina want?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "غذای جشنی برای گروه",
+              "en": "A celebratory meal for a group"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "غذای سنگین با چند دسر",
+              "en": "A heavy meal with several desserts"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ناهار ساده و نه خیلی سنگین",
+              "en": "A simple lunch that is not too heavy"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "او می‌گوید simple lunch و nothing too heavy.",
+          "en": "He says simple lunch and nothing too heavy."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "main-food",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آشپز چه ترکیبی پیشنهاد می‌کند؟",
+          "en": "What combination does the cook suggest?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برنج، مرغ گریل‌شده و سالاد",
+              "en": "Rice, grilled chicken and salad"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنج، ماهی سرخ‌شده و نان",
+              "en": "Rice, fried fish and bread"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سالاد، خورش و کیک",
+              "en": "Salad, stew and cake"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "ترکیب دقیق در پیشنهاد آشپز آمده است.",
+          "en": "These are the items in the cook’s suggestion."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "freshness",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سالاد کی آماده می‌شود؟",
+          "en": "When is the salad prepared?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هر شب",
+              "en": "Every evening"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هر روز صبح",
+              "en": "Every morning"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط هنگام سفارش",
+              "en": "Only when ordered"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "every morning زمان کار معمول آشپز است.",
+          "en": "Every morning describes the preparation routine."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "drink",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سینا چه نوشیدنی می‌خواهد؟",
+          "en": "What drink does Sina order?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آب‌میوه با یخ",
+              "en": "Juice with ice"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چای با لیمو",
+              "en": "Tea with lemon"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "یک لیوان آب با لیمو",
+              "en": "A glass of water with lemon"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "a glass of water with lemon آب همراه لیموست، نه آب‌میوه.",
+          "en": "A glass of water with lemon is water with added lemon, not juice."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "wait",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "غذا تقریباً چه مدت دیگر آماده می‌شود؟",
+          "en": "In about how long will the meal be ready?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پانزده دقیقه",
+              "en": "Fifteen minutes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج دقیقه",
+              "en": "Five minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سی دقیقه",
+              "en": "Thirty minutes"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "in about fifteen minutes زمان تقریبی انتظار است.",
+          "en": "In about fifteen minutes gives the approximate wait."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      }
+    ]
+  }
+}

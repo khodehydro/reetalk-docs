@@ -1,0 +1,3105 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s05",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "این غذا چه دارد؟",
+    "en": "What Is in This Dish?"
+  },
+  "objective": {
+    "fa": "پرسیدن مواد، تندی و مخلفات غذا و بیان تصمیم امتحان‌کردن آن.",
+    "en": "Ask about ingredients, spiciness and accompaniments, and decide to try a dish."
+  },
+  "speakers": [
+    {
+      "id": "niloufar",
+      "name": "Niloufar",
+      "gender": "woman"
+    },
+    {
+      "id": "cook",
+      "name": "Cook",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "niloufar",
+      "text": "This dish looks delicious, what is it made of?",
+      "translation": {
+        "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+        "en": "This dish looks delicious, what is it made of?"
+      },
+      "tokens": [
+        {
+          "surface": "This",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "looks",
+          "gloss": {
+            "fa": "به نظر می‌رسد",
+            "en": "looks; appears from seeing"
+          }
+        },
+        {
+          "surface": "delicious,",
+          "gloss": {
+            "fa": "خوشمزه",
+            "en": "delicious; very pleasant to eat"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "made",
+          "gloss": {
+            "fa": "در «made of»: از ... درست شده",
+            "en": "In “made of”: asks about the dish’s ingredients"
+          }
+        },
+        {
+          "surface": "of?",
+          "gloss": {
+            "fa": "در «made of»: از ... درست شده",
+            "en": "In “made of”: asks about the dish’s ingredients"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "cook",
+      "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+      "translation": {
+        "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+        "en": "It is a traditional dish made with rice, lentils, and fried onions."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "traditional",
+          "gloss": {
+            "fa": "سنتی",
+            "en": "traditional; connected with established customs"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "made",
+          "gloss": {
+            "fa": "در «made with»: تهیه‌شده با",
+            "en": "In “made with”: names ingredients used in preparing it"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "در «made with»: تهیه‌شده با",
+            "en": "In “made with”: names ingredients used in preparing it"
+          }
+        },
+        {
+          "surface": "rice,",
+          "gloss": {
+            "fa": "برنج",
+            "en": "rice; a grain served cooked"
+          }
+        },
+        {
+          "surface": "lentils,",
+          "gloss": {
+            "fa": "عدس",
+            "en": "lentils; small edible pulses"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "fried",
+          "gloss": {
+            "fa": "سرخ‌شده",
+            "en": "fried; cooked in hot oil"
+          }
+        },
+        {
+          "surface": "onions.",
+          "gloss": {
+            "fa": "پیاز",
+            "en": "onions; vegetables used to flavor food"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "niloufar",
+      "text": "Is it spicy, or is the taste mild?",
+      "translation": {
+        "fa": "تند است یا طعمش ملایم است؟",
+        "en": "Is it spicy, or is the taste mild?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "spicy,",
+          "gloss": {
+            "fa": "تند؛ پرادویه",
+            "en": "spicy; having a hot or strong spice flavor"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "taste",
+          "gloss": {
+            "fa": "طعم؛ مزه",
+            "en": "taste; flavor, a noun here"
+          }
+        },
+        {
+          "surface": "mild?",
+          "gloss": {
+            "fa": "ملایم؛ نه تند",
+            "en": "mild; not strongly spicy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "cook",
+      "text": "The taste is mild, we add only a little spice, not too much.",
+      "translation": {
+        "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+        "en": "The taste is mild, we add only a little spice, not too much."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "taste",
+          "gloss": {
+            "fa": "طعم؛ مزه",
+            "en": "taste; flavor, a noun here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "mild,",
+          "gloss": {
+            "fa": "ملایم؛ نه تند",
+            "en": "mild; not strongly spicy"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "add",
+          "gloss": {
+            "fa": "اضافه کردن",
+            "en": "add; include something more"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «a little spice»: مقدار کمی ادویه",
+            "en": "In “a little spice”: a small positive amount of seasoning"
+          }
+        },
+        {
+          "surface": "little",
+          "gloss": {
+            "fa": "در «a little spice»: مقدار کمی ادویه",
+            "en": "In “a little spice”: a small positive amount of seasoning"
+          }
+        },
+        {
+          "surface": "spice,",
+          "gloss": {
+            "fa": "در «a little spice»: مقدار کمی ادویه",
+            "en": "In “a little spice”: a small positive amount of seasoning"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «not too much»: نه بیش از حد",
+            "en": "In “not too much”: not an excessive amount"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "در «not too much»: نه بیش از حد",
+            "en": "In “not too much”: not an excessive amount"
+          }
+        },
+        {
+          "surface": "much.",
+          "gloss": {
+            "fa": "در «not too much»: نه بیش از حد",
+            "en": "In “not too much”: not an excessive amount"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "niloufar",
+      "text": "That suits me, and what is the side dish that comes with it?",
+      "translation": {
+        "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+        "en": "That suits me, and what is the side dish that comes with it?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "suits",
+          "gloss": {
+            "fa": "مناسب است برای",
+            "en": "suits; is suitable for"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "side",
+          "gloss": {
+            "fa": "در «side dish»: مخلفات؛ غذای همراه",
+            "en": "In “side dish”: food accompanying the main dish"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "در «side dish»: مخلفات؛ غذای همراه",
+            "en": "In “side dish”: food accompanying the main dish"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "comes",
+          "gloss": {
+            "fa": "در «comes with»: همراهش سرو می‌شود",
+            "en": "In “comes with”: is served together with it"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "در «comes with»: همراهش سرو می‌شود",
+            "en": "In “comes with”: is served together with it"
+          }
+        },
+        {
+          "surface": "it?",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "cook",
+      "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+      "translation": {
+        "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+        "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "comes",
+          "gloss": {
+            "fa": "در «comes with»: همراهش سرو می‌شود",
+            "en": "In “comes with”: is served together with it"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "در «comes with»: همراهش سرو می‌شود",
+            "en": "In “comes with”: is served together with it"
+          }
+        },
+        {
+          "surface": "plain",
+          "gloss": {
+            "fa": "ساده؛ بدون افزودنی طعم‌دهنده",
+            "en": "plain; without added flavorings"
+          }
+        },
+        {
+          "surface": "yogurt",
+          "gloss": {
+            "fa": "ماست",
+            "en": "yogurt; a cultured milk food"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "fresh",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        },
+        {
+          "surface": "vegetables,",
+          "gloss": {
+            "fa": "سبزیجات",
+            "en": "vegetables; plants or plant parts eaten as food"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "مقداری؛ چند",
+            "en": "some; an unspecified amount or number"
+          }
+        },
+        {
+          "surface": "bread.",
+          "gloss": {
+            "fa": "نان",
+            "en": "bread; baked food made from flour"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "niloufar",
+      "text": "It sounds very healthy, I will definitely try it.",
+      "translation": {
+        "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+        "en": "It sounds very healthy, I will definitely try it."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+            "en": "sounds; gives an impression from what is heard"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "healthy,",
+          "gloss": {
+            "fa": "سالم؛ از نظر تغذیه",
+            "en": "healthy; considered good for health as food"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "definitely",
+          "gloss": {
+            "fa": "حتماً",
+            "en": "definitely; with a firm intention"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "امتحان کردن",
+            "en": "try; experience something to see if you like it"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "cook",
+      "text": "Many customers order it, and it is one of our most popular dishes.",
+      "translation": {
+        "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+        "en": "Many customers order it, and it is one of our most popular dishes."
+      },
+      "tokens": [
+        {
+          "surface": "Many",
+          "gloss": {
+            "fa": "بسیاری از",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "customers",
+          "gloss": {
+            "fa": "مشتریان",
+            "en": "customers; people buying food or service"
+          }
+        },
+        {
+          "surface": "order",
+          "gloss": {
+            "fa": "سفارش دادن",
+            "en": "order; request food, a verb here"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+            "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+            "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+            "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+          }
+        },
+        {
+          "surface": "most",
+          "gloss": {
+            "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+            "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+          }
+        },
+        {
+          "surface": "popular",
+          "gloss": {
+            "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+            "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+          }
+        },
+        {
+          "surface": "dishes.",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "niloufar",
+      "text": "Then I am sure I will enjoy it, thank you for explaining.",
+      "translation": {
+        "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+        "en": "Then I am sure I will enjoy it, thank you for explaining."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "مطمئن",
+            "en": "sure; confident"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+            "en": "In “thank you for explaining”: thanks the cook for the explanation"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+            "en": "In “thank you for explaining”: thanks the cook for the explanation"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+            "en": "In “thank you for explaining”: thanks the cook for the explanation"
+          }
+        },
+        {
+          "surface": "explaining.",
+          "gloss": {
+            "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+            "en": "In “thank you for explaining”: thanks the cook for the explanation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "cook",
+      "text": "You are welcome, I hope you enjoy every bite of it.",
+      "translation": {
+        "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+        "en": "You are welcome, I hope you enjoy every bite of it."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite reply to thanks"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "در «every bite»: تک‌تک لقمه‌ها",
+            "en": "In “every bite”: each mouthful of the meal"
+          }
+        },
+        {
+          "surface": "bite",
+          "gloss": {
+            "fa": "در «every bite»: تک‌تک لقمه‌ها",
+            "en": "In “every bite”: each mouthful of the meal"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ پیوند میان دو بخش",
+            "en": "of; links a quantity or thing to what follows"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "this",
+        "text": "This",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "dish",
+        "text": "dish",
+        "pronunciation": {
+          "faReading": "دیش",
+          "ipa": "/dɪʃ/"
+        },
+        "meaning": {
+          "fa": "غذا؛ نوع غذا",
+          "en": "dish; a prepared food or menu item"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "looks",
+        "text": "looks",
+        "pronunciation": {
+          "faReading": "لوکس",
+          "ipa": "/lʊks/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد",
+          "en": "looks; appears from seeing"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "delicious",
+        "text": "delicious",
+        "pronunciation": {
+          "faReading": "دیلیشِس",
+          "ipa": "/dɪˈlɪʃəs/"
+        },
+        "meaning": {
+          "fa": "خوشمزه",
+          "en": "delicious; very pleasant to eat"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "made",
+        "text": "made",
+        "pronunciation": {
+          "faReading": "مِید",
+          "ipa": "/meɪd/"
+        },
+        "meaning": {
+          "fa": "در «made of»: از ... درست شده",
+          "en": "In “made of”: asks about the dish’s ingredients"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «made of»: از ... درست شده",
+          "en": "In “made of”: asks about the dish’s ingredients"
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "traditional",
+        "text": "traditional",
+        "pronunciation": {
+          "faReading": "تْرِدیشِنِل",
+          "ipa": "/trəˈdɪʃənəl/"
+        },
+        "meaning": {
+          "fa": "سنتی",
+          "en": "traditional; connected with established customs"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "made-2",
+        "text": "made",
+        "pronunciation": {
+          "faReading": "مِید",
+          "ipa": "/meɪd/"
+        },
+        "meaning": {
+          "fa": "در «made with»: تهیه‌شده با",
+          "en": "In “made with”: names ingredients used in preparing it"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "در «made with»: تهیه‌شده با",
+          "en": "In “made with”: names ingredients used in preparing it"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "rice",
+        "text": "rice",
+        "pronunciation": {
+          "faReading": "رایس",
+          "ipa": "/raɪs/"
+        },
+        "meaning": {
+          "fa": "برنج",
+          "en": "rice; a grain served cooked"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "lentils",
+        "text": "lentils",
+        "pronunciation": {
+          "faReading": "لِنتِلز",
+          "ipa": "/ˈlɛntəlz/"
+        },
+        "meaning": {
+          "fa": "عدس",
+          "en": "lentils; small edible pulses"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "fried",
+        "text": "fried",
+        "pronunciation": {
+          "faReading": "فْراید",
+          "ipa": "/fraɪd/"
+        },
+        "meaning": {
+          "fa": "سرخ‌شده",
+          "en": "fried; cooked in hot oil"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "onions",
+        "text": "onions",
+        "pronunciation": {
+          "faReading": "آنیِنز",
+          "ipa": "/ˈʌnjənz/"
+        },
+        "meaning": {
+          "fa": "پیاز",
+          "en": "onions; vegetables used to flavor food"
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        }
+      },
+      {
+        "id": "spicy",
+        "text": "spicy",
+        "pronunciation": {
+          "faReading": "سْپایسی",
+          "ipa": "/ˈspaɪsi/"
+        },
+        "meaning": {
+          "fa": "تند؛ پرادویه",
+          "en": "spicy; having a hot or strong spice flavor"
+        },
+        "example": {
+          "text": "Is it spicy, or is the taste mild?",
+          "translation": {
+            "fa": "تند است یا طعمش ملایم است؟",
+            "en": "Is it spicy, or is the taste mild?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Is it spicy, or is the taste mild?",
+          "translation": {
+            "fa": "تند است یا طعمش ملایم است؟",
+            "en": "Is it spicy, or is the taste mild?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Is it spicy, or is the taste mild?",
+          "translation": {
+            "fa": "تند است یا طعمش ملایم است؟",
+            "en": "Is it spicy, or is the taste mild?"
+          }
+        }
+      },
+      {
+        "id": "taste",
+        "text": "taste",
+        "pronunciation": {
+          "faReading": "تِیست",
+          "ipa": "/teɪst/"
+        },
+        "meaning": {
+          "fa": "طعم؛ مزه",
+          "en": "taste; flavor, a noun here"
+        },
+        "example": {
+          "text": "Is it spicy, or is the taste mild?",
+          "translation": {
+            "fa": "تند است یا طعمش ملایم است؟",
+            "en": "Is it spicy, or is the taste mild?"
+          }
+        }
+      },
+      {
+        "id": "mild",
+        "text": "mild",
+        "pronunciation": {
+          "faReading": "مایلد",
+          "ipa": "/maɪld/"
+        },
+        "meaning": {
+          "fa": "ملایم؛ نه تند",
+          "en": "mild; not strongly spicy"
+        },
+        "example": {
+          "text": "Is it spicy, or is the taste mild?",
+          "translation": {
+            "fa": "تند است یا طعمش ملایم است؟",
+            "en": "Is it spicy, or is the taste mild?"
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "add",
+        "text": "add",
+        "pronunciation": {
+          "faReading": "اَد",
+          "ipa": "/æd/"
+        },
+        "meaning": {
+          "fa": "اضافه کردن",
+          "en": "add; include something more"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «a little spice»: مقدار کمی ادویه",
+          "en": "In “a little spice”: a small positive amount of seasoning"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "little",
+        "text": "little",
+        "pronunciation": {
+          "faReading": "لیتِل",
+          "ipa": "/ˈlɪtəl/"
+        },
+        "meaning": {
+          "fa": "در «a little spice»: مقدار کمی ادویه",
+          "en": "In “a little spice”: a small positive amount of seasoning"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "spice",
+        "text": "spice",
+        "pronunciation": {
+          "faReading": "سْپایس",
+          "ipa": "/spaɪs/"
+        },
+        "meaning": {
+          "fa": "در «a little spice»: مقدار کمی ادویه",
+          "en": "In “a little spice”: a small positive amount of seasoning"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «not too much»: نه بیش از حد",
+          "en": "In “not too much”: not an excessive amount"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «not too much»: نه بیش از حد",
+          "en": "In “not too much”: not an excessive amount"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در «not too much»: نه بیش از حد",
+          "en": "In “not too much”: not an excessive amount"
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "suits",
+        "text": "suits",
+        "pronunciation": {
+          "faReading": "سوتس",
+          "ipa": "/suts/"
+        },
+        "meaning": {
+          "fa": "مناسب است برای",
+          "en": "suits; is suitable for"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "side",
+        "text": "side",
+        "pronunciation": {
+          "faReading": "ساید",
+          "ipa": "/saɪd/"
+        },
+        "meaning": {
+          "fa": "در «side dish»: مخلفات؛ غذای همراه",
+          "en": "In “side dish”: food accompanying the main dish"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "dish-2",
+        "text": "dish",
+        "pronunciation": {
+          "faReading": "دیش",
+          "ipa": "/dɪʃ/"
+        },
+        "meaning": {
+          "fa": "در «side dish»: مخلفات؛ غذای همراه",
+          "en": "In “side dish”: food accompanying the main dish"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "comes",
+        "text": "comes",
+        "pronunciation": {
+          "faReading": "کامز",
+          "ipa": "/kʌmz/"
+        },
+        "meaning": {
+          "fa": "در «comes with»: همراهش سرو می‌شود",
+          "en": "In “comes with”: is served together with it"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "with-2",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "در «comes with»: همراهش سرو می‌شود",
+          "en": "In “comes with”: is served together with it"
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "plain",
+        "text": "plain",
+        "pronunciation": {
+          "faReading": "پْلِین",
+          "ipa": "/pleɪn/"
+        },
+        "meaning": {
+          "fa": "ساده؛ بدون افزودنی طعم‌دهنده",
+          "en": "plain; without added flavorings"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "yogurt",
+        "text": "yogurt",
+        "pronunciation": {
+          "faReading": "یُوگِرت",
+          "ipa": "/ˈjoʊɡɚt/"
+        },
+        "meaning": {
+          "fa": "ماست",
+          "en": "yogurt; a cultured milk food"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "fresh",
+        "pronunciation": {
+          "faReading": "فْرِش",
+          "ipa": "/frɛʃ/"
+        },
+        "meaning": {
+          "fa": "تازه",
+          "en": "fresh; recently prepared or obtained"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "vegetables",
+        "text": "vegetables",
+        "pronunciation": {
+          "faReading": "وِجتِبِلز",
+          "ipa": "/ˈvɛdʒtəbəlz/"
+        },
+        "meaning": {
+          "fa": "سبزیجات",
+          "en": "vegetables; plants or plant parts eaten as food"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an unspecified amount or number"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "bread",
+        "text": "bread",
+        "pronunciation": {
+          "faReading": "بْرِد",
+          "ipa": "/brɛd/"
+        },
+        "meaning": {
+          "fa": "نان",
+          "en": "bread; baked food made from flour"
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از شنیده‌ها",
+          "en": "sounds; gives an impression from what is heard"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "healthy",
+        "text": "healthy",
+        "pronunciation": {
+          "faReading": "هِلثی",
+          "ipa": "/ˈhɛlθi/"
+        },
+        "meaning": {
+          "fa": "سالم؛ از نظر تغذیه",
+          "en": "healthy; considered good for health as food"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "definitely",
+        "text": "definitely",
+        "pronunciation": {
+          "faReading": "دِفِنِتلی",
+          "ipa": "/ˈdɛfənətli/"
+        },
+        "meaning": {
+          "fa": "حتماً",
+          "en": "definitely; with a firm intention"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "امتحان کردن",
+          "en": "try; experience something to see if you like it"
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "Many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بسیاری از",
+          "en": "many; a large number"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "customers",
+        "text": "customers",
+        "pronunciation": {
+          "faReading": "کاستِمِرز",
+          "ipa": "/ˈkʌstəmɚz/"
+        },
+        "meaning": {
+          "fa": "مشتریان",
+          "en": "customers; people buying food or service"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "order",
+        "text": "order",
+        "pronunciation": {
+          "faReading": "اُوردِر",
+          "ipa": "/ˈɔrdɚ/"
+        },
+        "meaning": {
+          "fa": "سفارش دادن",
+          "en": "order; request food, a verb here"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+          "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+          "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+          "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+          "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "popular",
+        "text": "popular",
+        "pronunciation": {
+          "faReading": "پاپیولِر",
+          "ipa": "/ˈpɑpjəlɚ/"
+        },
+        "meaning": {
+          "fa": "در «one of our most popular dishes»: یکی از پرطرفدارترین غذاهای ما",
+          "en": "In “one of our most popular dishes”: one member of the group of their most ordered dishes"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "مطمئن",
+          "en": "sure; confident"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+          "en": "In “thank you for explaining”: thanks the cook for the explanation"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+          "en": "In “thank you for explaining”: thanks the cook for the explanation"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+          "en": "In “thank you for explaining”: thanks the cook for the explanation"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "explaining",
+        "text": "explaining",
+        "pronunciation": {
+          "faReading": "ایکسپْلِینینگ",
+          "ipa": "/ɪkˈspleɪnɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «thank you for explaining»: ممنون که توضیح دادید",
+          "en": "In “thank you for explaining”: thanks the cook for the explanation"
+        },
+        "example": {
+          "text": "Then I am sure I will enjoy it, thank you for explaining.",
+          "translation": {
+            "fa": "پس مطمئنم از آن لذت می‌برم؛ ممنون که توضیح دادید.",
+            "en": "Then I am sure I will enjoy it, thank you for explaining."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "در «every bite»: تک‌تک لقمه‌ها",
+          "en": "In “every bite”: each mouthful of the meal"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "bite",
+        "text": "bite",
+        "pronunciation": {
+          "faReading": "بایت",
+          "ipa": "/baɪt/"
+        },
+        "meaning": {
+          "fa": "در «every bite»: تک‌تک لقمه‌ها",
+          "en": "In “every bite”: each mouthful of the meal"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      },
+      {
+        "id": "of-3",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ پیوند میان دو بخش",
+          "en": "of; links a quantity or thing to what follows"
+        },
+        "example": {
+          "text": "You are welcome, I hope you enjoy every bite of it.",
+          "translation": {
+            "fa": "خواهش می‌کنم، امیدوارم از تک‌تک لقمه‌هایش لذت ببرید.",
+            "en": "You are welcome, I hope you enjoy every bite of it."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "made-of-and-with",
+        "title": {
+          "fa": "مواد تشکیل‌دهندهٔ غذا",
+          "en": "A dish’s ingredients"
+        },
+        "explanation": {
+          "fa": "what is it made of? مواد تشکیل‌دهنده را می‌پرسد. پاسخ made with مواد مورد استفاده در تهیه را نام می‌برد. برای این غذا هر دو راه توصیف موادند؛ لازم نیست قانون سختی بسازیم که یکی فقط برای غذا مجاز است. نام یک غذای محلی مشخص در متن نیست.",
+          "en": "What is it made of? asks about ingredients. Made with names ingredients used in preparation. Both describe food here; do not impose an absolute rule allowing only one. The dialogue names no particular regional dish."
+        },
+        "example": {
+          "text": "It is a traditional dish made with rice, lentils, and fried onions.",
+          "translation": {
+            "fa": "یک غذای سنتی است که با برنج، عدس و پیاز سرخ‌شده درست می‌شود.",
+            "en": "It is a traditional dish made with rice, lentils, and fried onions."
+          }
+        },
+        "takeaway": {
+          "fa": "مواد را از متن بخوان؛ نام غذا را حدس نزن.",
+          "en": "Read the ingredients from the text; do not invent the dish’s name."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مواد تشکیل‌دهندهٔ غذا",
+              "en": "A dish’s ingredients"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what is it made of"
+                },
+                {
+                  "text": "What is + thing + made of?"
+                },
+                {
+                  "fa": "از چه درست شده؟",
+                  "en": "Question about ingredients"
+                }
+              ],
+              [
+                {
+                  "text": "made with rice, lentils, and fried onions"
+                },
+                {
+                  "text": "made with + ingredients"
+                },
+                {
+                  "fa": "با برنج، عدس و پیاز سرخ‌شده",
+                  "en": "Ingredients used in preparation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mild-and-small-amount",
+        "title": {
+          "fa": "ملایم و مقدار کم",
+          "en": "Mild flavor and a small amount"
+        },
+        "explanation": {
+          "fa": "spicy و mild دو حالت طعم‌اند. only a little spice مقدار کمی ادویه را تأیید می‌کند؛ معنی‌اش بدون ادویه نیست. not too much مقدار زیاد را رد می‌کند. تندیِ طعم با دمای داغ غذا یکی نیست.",
+          "en": "Spicy and mild contrast flavor strength. Only a little spice confirms a small amount, not no spice. Not too much rejects an excessive amount. Spiciness is not the same as high temperature."
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        },
+        "takeaway": {
+          "fa": "a little یعنی کمی هست؛ no یعنی اصلاً نیست.",
+          "en": "A little means some is present; no means none."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ملایم و مقدار کم",
+              "en": "Mild flavor and a small amount"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Is it spicy, or is the taste mild"
+                },
+                {
+                  "text": "choice + or + choice"
+                },
+                {
+                  "fa": "تند است یا ملایم؟",
+                  "en": "Flavor, not serving temperature"
+                }
+              ],
+              [
+                {
+                  "text": "only a little spice"
+                },
+                {
+                  "text": "only + a little + ingredient"
+                },
+                {
+                  "fa": "فقط کمی ادویه",
+                  "en": "A small positive amount"
+                }
+              ],
+              [
+                {
+                  "text": "not too much"
+                },
+                {
+                  "text": "not + too much"
+                },
+                {
+                  "fa": "نه بیش از حد",
+                  "en": "Not excessive"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "accompaniments-and-relative",
+        "title": {
+          "fa": "مخلفات و جملهٔ توضیحی",
+          "en": "Accompaniments and a relative clause"
+        },
+        "explanation": {
+          "fa": "the side dish that comes with it یعنی غذای همراهی که با آن سرو می‌شود. that توضیح بیشتری دربارهٔ side dish می‌دهد و it به غذای اصلی برمی‌گردد. plain yogurt یعنی ماست ساده، نه ماست طعم‌دار.",
+          "en": "The side dish that comes with it identifies food served alongside the main dish. That adds information about side dish, while it refers to the main dish. Plain yogurt means unflavored yogurt."
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        },
+        "takeaway": {
+          "fa": "comes with در منو یعنی همراه غذا سرو می‌شود.",
+          "en": "Comes with on a menu means served together with the dish."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مخلفات و جملهٔ توضیحی",
+              "en": "Accompaniments and a relative clause"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the side dish that comes with it"
+                },
+                {
+                  "text": "noun + that + action"
+                },
+                {
+                  "fa": "مخلفاتی که همراه آن می‌آید",
+                  "en": "A relative clause"
+                }
+              ],
+              [
+                {
+                  "text": "It comes with plain yogurt and fresh vegetables, and some bread"
+                },
+                {
+                  "text": "comes with + accompaniments"
+                },
+                {
+                  "fa": "همراه ماست، سبزیجات و نان",
+                  "en": "Lists the side items"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "one-of-most-popular",
+        "title": {
+          "fa": "یکی از پرطرفدارترین‌ها",
+          "en": "One of the most popular"
+        },
+        "explanation": {
+          "fa": "one of our most popular dishes یک غذا را عضو گروه محبوب‌ترین‌ها می‌داند. بعد از one of، dishes جمع است. این ساخت نمی‌گوید فقط یک غذای محبوب دارند یا این غذا قطعاً محبوب‌ترینِ همه است. many customers هم همهٔ مشتری‌ها نیست.",
+          "en": "One of our most popular dishes places this dish in a group of highly popular dishes. Dishes is plural after one of. It does not identify a unique top seller. Many customers is not all customers."
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        },
+        "takeaway": {
+          "fa": "one of + گروه جمع؛ یک عضو از چند عضو.",
+          "en": "One of + a plural group identifies one member."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "یکی از پرطرفدارترین‌ها",
+              "en": "One of the most popular"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "one of our most popular dishes"
+                },
+                {
+                  "text": "one of + possessive + most + adjective + plural noun"
+                },
+                {
+                  "fa": "یکی از پرطرفدارترین غذاها",
+                  "en": "A member of a top group"
+                }
+              ],
+              [
+                {
+                  "text": "Many customers order it"
+                },
+                {
+                  "text": "many + plural noun"
+                },
+                {
+                  "fa": "مشتری‌های زیادی سفارش می‌دهند",
+                  "en": "Many, not everyone"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "impression-and-intention",
+        "title": {
+          "fa": "برداشت و تصمیم امتحان‌کردن",
+          "en": "An impression and a decision to try"
+        },
+        "explanation": {
+          "fa": "looks delicious برداشت از ظاهر است و sounds very healthy برداشت از توضیح آشپز. هیچ‌کدام تجربهٔ خوردن یا ارزیابی پزشکی نیستند. I will definitely try it تصمیم محکم نیلوفر است؛ I hope you enjoy آرزوی آشپز برای نتیجهٔ آینده است.",
+          "en": "Looks delicious is a visual impression; sounds very healthy is an impression from the description. Neither establishes a tasting experience or a medical assessment. I will definitely try it is a firm intention; I hope you enjoy expresses a desired future result."
+        },
+        "example": {
+          "text": "It sounds very healthy, I will definitely try it.",
+          "translation": {
+            "fa": "خیلی سالم به نظر می‌رسد؛ حتماً امتحانش می‌کنم.",
+            "en": "It sounds very healthy, I will definitely try it."
+          }
+        },
+        "takeaway": {
+          "fa": "looks از ظاهر؛ sounds از توضیح؛ will try تصمیم آینده.",
+          "en": "Looks draws on appearance; sounds on description; will try states an intention."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برداشت و تصمیم امتحان‌کردن",
+              "en": "An impression and a decision to try"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "This dish looks delicious"
+                },
+                {
+                  "text": "looks + adjective"
+                },
+                {
+                  "fa": "خوشمزه به نظر می‌آید",
+                  "en": "Visual impression"
+                }
+              ],
+              [
+                {
+                  "text": "It sounds very healthy"
+                },
+                {
+                  "text": "sounds + adjective"
+                },
+                {
+                  "fa": "سالم به نظر می‌آید",
+                  "en": "Customer’s impression, not verified health advice"
+                }
+              ],
+              [
+                {
+                  "text": "I will definitely try it"
+                },
+                {
+                  "text": "will + definitely + action"
+                },
+                {
+                  "fa": "حتماً امتحانش می‌کنم",
+                  "en": "Firm future intention"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "ingredients",
+        "text": "what is it made of",
+        "pronunciation": {
+          "faReading": "وات ایز ایت مِید آو",
+          "ipa": "/wʌt ɪz ɪt meɪd ʌv/"
+        },
+        "meaning": {
+          "fa": "از چه درست شده است؟",
+          "en": "What ingredients is it made of?"
+        },
+        "context": {
+          "fa": "نیلوفر مواد غذا را می‌پرسد، نه نام منطقهٔ آن را.",
+          "en": "Niloufar asks about ingredients, not its region."
+        },
+        "example": {
+          "text": "This dish looks delicious, what is it made of?",
+          "translation": {
+            "fa": "این غذا خوشمزه به نظر می‌رسد؛ از چه درست شده است؟",
+            "en": "This dish looks delicious, what is it made of?"
+          }
+        }
+      },
+      {
+        "id": "small-spice",
+        "text": "only a little spice",
+        "pronunciation": {
+          "faReading": "اُونلی اِ لیتِل سْپایس",
+          "ipa": "/ˈoʊnli ə ˈlɪtəl spaɪs/"
+        },
+        "meaning": {
+          "fa": "فقط کمی ادویه",
+          "en": "Only a small amount of spice"
+        },
+        "context": {
+          "fa": "کمی ادویه وجود دارد؛ بدون ادویه نیست.",
+          "en": "There is some spice, not none."
+        },
+        "example": {
+          "text": "The taste is mild, we add only a little spice, not too much.",
+          "translation": {
+            "fa": "طعمش ملایم است؛ فقط کمی ادویه اضافه می‌کنیم، نه زیاد.",
+            "en": "The taste is mild, we add only a little spice, not too much."
+          }
+        }
+      },
+      {
+        "id": "suits",
+        "text": "That suits me",
+        "pronunciation": {
+          "faReading": "ذَت سوتس می",
+          "ipa": "/ðæt suts mi/"
+        },
+        "meaning": {
+          "fa": "برای من مناسب است",
+          "en": "That suits my preference"
+        },
+        "context": {
+          "fa": "مشتری طعم ملایم را می‌پسندد.",
+          "en": "The mild flavor suits the customer."
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "side",
+        "text": "the side dish that comes with it",
+        "pronunciation": {
+          "faReading": "ذِ ساید دیش ذَت کامز ویذ ایت",
+          "ipa": "/ðə saɪd dɪʃ ðæt kʌmz wɪð ɪt/"
+        },
+        "meaning": {
+          "fa": "مخلفاتی که همراه آن می‌آید",
+          "en": "The accompaniment served with it"
+        },
+        "context": {
+          "fa": "غذای همراه از غذای اصلی جداست.",
+          "en": "The accompaniment is distinct from the main dish."
+        },
+        "example": {
+          "text": "That suits me, and what is the side dish that comes with it?",
+          "translation": {
+            "fa": "برای من مناسب است؛ مخلفاتی که همراهش می‌آید چیست؟",
+            "en": "That suits me, and what is the side dish that comes with it?"
+          }
+        }
+      },
+      {
+        "id": "yogurt",
+        "text": "plain yogurt",
+        "pronunciation": {
+          "faReading": "پْلِین یُوگِرت",
+          "ipa": "/pleɪn ˈjoʊɡɚt/"
+        },
+        "meaning": {
+          "fa": "ماست ساده",
+          "en": "Unflavored yogurt"
+        },
+        "context": {
+          "fa": "یکی از مخلفات کنار سبزیجات و نان است.",
+          "en": "One accompaniment alongside vegetables and bread."
+        },
+        "example": {
+          "text": "It comes with plain yogurt and fresh vegetables, and some bread.",
+          "translation": {
+            "fa": "با ماست ساده، سبزیجات تازه و مقداری نان می‌آید.",
+            "en": "It comes with plain yogurt and fresh vegetables, and some bread."
+          }
+        }
+      },
+      {
+        "id": "popularity",
+        "text": "one of our most popular dishes",
+        "pronunciation": {
+          "faReading": "وان آو آور مُوست پاپیولِر دیشِز",
+          "ipa": "/wʌn əv aʊɚ moʊst ˈpɑpjəlɚ ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "یکی از پرطرفدارترین غذاهایمان",
+          "en": "One of our most popular dishes"
+        },
+        "context": {
+          "fa": "عضو یک گروه محبوب است، نه لزوماً تنها رتبهٔ اول.",
+          "en": "One member of a popular group, not necessarily a unique top seller."
+        },
+        "example": {
+          "text": "Many customers order it, and it is one of our most popular dishes.",
+          "translation": {
+            "fa": "مشتری‌های زیادی سفارش می‌دهند و یکی از پرطرفدارترین غذاهای ماست.",
+            "en": "Many customers order it, and it is one of our most popular dishes."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیلوفر پیش از انتخاب غذا چه چیزهایی می‌پرسد؟",
+          "en": "What does Niloufar ask about before choosing the dish?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قیمت، تخفیف و ساعت بسته‌شدن",
+              "en": "Price, discounts and closing time"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رزرو، جای میز و روش پرداخت",
+              "en": "Booking, table location and payment"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مواد اولیه، تندی و مخلفات",
+              "en": "Ingredients, spiciness and accompaniments"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سه پرسش اصلی او دربارهٔ made of، spicy or mild و side dish است.",
+          "en": "Her main questions concern made of, spicy or mild, and the side dish."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05"
+        ]
+      },
+      {
+        "id": "ingredients",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مواد اصلیِ نام‌برده کدام‌اند؟",
+          "en": "Which ingredients are named?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برنج، عدس و پیاز سرخ‌شده",
+              "en": "Rice, lentils and fried onions"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنج، مرغ و پنیر",
+              "en": "Rice, chicken and cheese"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "عدس، گوشت و بادام",
+              "en": "Lentils, meat and almonds"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "آشپز همین سه ماده را در پاسخ made with می‌آورد.",
+          "en": "The cook lists these three after made with."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "spice",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "تندی غذا چطور توصیف می‌شود؟",
+          "en": "How is the dish’s spiciness described?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بسیار تند با ادویهٔ زیاد",
+              "en": "Very hot with lots of spice"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ملایم با کمی ادویه",
+              "en": "Mild with a little spice"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کاملاً بدون ادویه",
+              "en": "Completely without spice"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "mild و only a little spice با هم می‌آیند؛ کمی با هیچ فرق دارد.",
+          "en": "Mild and only a little spice occur together; a little is not none."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "sides",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه چیزهایی همراه غذا سرو می‌شود؟",
+          "en": "What accompanies the dish?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سس پنیر، سیب‌زمینی و سالاد",
+              "en": "Cheese sauce, potatoes and salad"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ماست طعم‌دار، برنج و کیک",
+              "en": "Flavored yogurt, rice and cake"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماست ساده، سبزیجات تازه و نان",
+              "en": "Plain yogurt, fresh vegetables and bread"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "فهرست مخلفات در پاسخ It comes with آمده است.",
+          "en": "The accompaniments are listed after It comes with."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "popularity",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "one of our most popular dishes چه می‌گوید؟",
+          "en": "What does one of our most popular dishes mean?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "این غذا عضو گروه غذاهای پرطرفدار است",
+              "en": "It belongs to a group of highly popular dishes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "این تنها غذای محبوب رستوران است",
+              "en": "It is the restaurant’s only popular dish"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همهٔ مشتری‌ها فقط همین را می‌خورند",
+              "en": "Every customer eats only this dish"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "one of یک عضو از گروه را می‌گوید و many همه نیست.",
+          "en": "One of selects a member of a group; many does not mean all."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

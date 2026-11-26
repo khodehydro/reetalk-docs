@@ -1,0 +1,4889 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t05-s12",
+  "categoryId": "food-and-restaurants",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "C1",
+  "title": {
+    "fa": "گفتگو با سرآشپز",
+    "en": "A Conversation with the Head Chef"
+  },
+  "objective": {
+    "fa": "تحلیل تعریف دقیق، استنباط، نسبت‌دادن کیفیت به گروه و تبادل مؤدبانهٔ قدردانی.",
+    "en": "Analyze specific praise, inference, shared credit and reciprocal expressions of appreciation."
+  },
+  "speakers": [
+    {
+      "id": "dr-ahmadi",
+      "name": "Dr. Ahmadi",
+      "gender": "man"
+    },
+    {
+      "id": "customer",
+      "name": "Customer",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "dr-ahmadi",
+      "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+      "translation": {
+        "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+        "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "evening,",
+          "gloss": {
+            "fa": "عصر؛ شب پیش از خواب",
+            "en": "evening; the later part of the day"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "head",
+          "gloss": {
+            "fa": "در «head chef»: سرآشپز ارشد",
+            "en": "In “head chef”: the cook in charge of the kitchen"
+          }
+        },
+        {
+          "surface": "chef",
+          "gloss": {
+            "fa": "در «head chef»: سرآشپز ارشد",
+            "en": "In “head chef”: the cook in charge of the kitchen"
+          }
+        },
+        {
+          "surface": "here,",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چه مقدار",
+            "en": "how; asks about manner or degree"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "tonight?",
+          "gloss": {
+            "fa": "امشب",
+            "en": "tonight; this night"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "customer",
+      "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+      "translation": {
+        "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+        "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+      },
+      "tokens": [
+        {
+          "surface": "Everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "excellent,",
+          "gloss": {
+            "fa": "عالی؛ بسیار خوب",
+            "en": "excellent; extremely good"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "dishes",
+          "gloss": {
+            "fa": "غذاها؛ انواع غذای آماده",
+            "en": "dishes; prepared foods, not plates to wash"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "perfectly",
+          "gloss": {
+            "fa": "کاملاً؛ به بهترین شکل",
+            "en": "perfectly; exactly as desired"
+          }
+        },
+        {
+          "surface": "cooked",
+          "gloss": {
+            "fa": "پخته‌شده",
+            "en": "cooked; prepared by heating"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "tasty.",
+          "gloss": {
+            "fa": "خوش‌طعم",
+            "en": "tasty; pleasant to eat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "dr-ahmadi",
+      "text": "I am glad to hear that, which dish did you enjoy the most?",
+      "translation": {
+        "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+        "en": "I am glad to hear that, which dish did you enjoy the most?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال؛ خرسند",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "hear",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear; listen to news or sounds"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "which",
+          "gloss": {
+            "fa": "کدام؛ که",
+            "en": "which; asks for a choice or introduces information"
+          }
+        },
+        {
+          "surface": "dish",
+          "gloss": {
+            "fa": "غذا؛ نوع غذا",
+            "en": "dish; a prepared food or menu item"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+            "en": "did; used in past questions or negatives"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "در «the most»: بیشتر از همه",
+            "en": "In “the most”: to the greatest degree among the dishes"
+          }
+        },
+        {
+          "surface": "most?",
+          "gloss": {
+            "fa": "در «the most»: بیشتر از همه",
+            "en": "In “the most”: to the greatest degree among the dishes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "customer",
+      "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+      "translation": {
+        "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+        "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "grilled",
+          "gloss": {
+            "fa": "کبابی؛ گریل‌شده",
+            "en": "grilled; cooked over or under direct heat"
+          }
+        },
+        {
+          "surface": "fish,",
+          "gloss": {
+            "fa": "ماهی؛ گوشت ماهی",
+            "en": "fish; fish served as food"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "fresh",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "spices",
+          "gloss": {
+            "fa": "ادویه‌ها",
+            "en": "spices; seasonings used to flavor food"
+          }
+        },
+        {
+          "surface": "were",
+          "gloss": {
+            "fa": "بودند؛ بودیم",
+            "en": "were; past form of be"
+          }
+        },
+        {
+          "surface": "perfectly",
+          "gloss": {
+            "fa": "کاملاً؛ به بهترین شکل",
+            "en": "perfectly; exactly as desired"
+          }
+        },
+        {
+          "surface": "balanced.",
+          "gloss": {
+            "fa": "متعادل",
+            "en": "balanced; avoiding an excessive emphasis on one side"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "dr-ahmadi",
+      "text": "We select our fish every morning from the harbor, that is the secret.",
+      "translation": {
+        "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+        "en": "We select our fish every morning from the harbor, that is the secret."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "select",
+          "gloss": {
+            "fa": "انتخاب کردن",
+            "en": "select; choose carefully"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "fish",
+          "gloss": {
+            "fa": "ماهی؛ گوشت ماهی",
+            "en": "fish; fish served as food"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; marks origin or source"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "harbor,",
+          "gloss": {
+            "fa": "بندر",
+            "en": "harbor; a sheltered place where boats land"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "secret.",
+          "gloss": {
+            "fa": "عامل موفقیت؛ راز",
+            "en": "secret; a proposed explanation of success, not hidden confidential information"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "customer",
+      "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+      "translation": {
+        "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+        "en": "That explains the freshness, and the sauce was a beautiful touch too."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "explains",
+          "gloss": {
+            "fa": "توضیح می‌دهد",
+            "en": "explains; accounts for something"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "freshness,",
+          "gloss": {
+            "fa": "تازگی",
+            "en": "freshness; the quality of being fresh"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "sauce",
+          "gloss": {
+            "fa": "سس",
+            "en": "sauce; a flavored liquid served with food"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "beautiful",
+          "gloss": {
+            "fa": "زیبا",
+            "en": "beautiful; very pleasing"
+          }
+        },
+        {
+          "surface": "touch",
+          "gloss": {
+            "fa": "جزئیاتِ دلنشین؛ اینجا نقش سس",
+            "en": "touch; an enhancing detail, not physical contact"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also, adding another positive point"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "dr-ahmadi",
+      "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+      "translation": {
+        "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+        "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "sauce",
+          "gloss": {
+            "fa": "سس",
+            "en": "sauce; a flavored liquid served with food"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "اختصاصیِ خودمان؛ متعلق به گروه رستوران",
+            "en": "own; belonging to the restaurant team"
+          }
+        },
+        {
+          "surface": "recipe,",
+          "gloss": {
+            "fa": "دستور تهیهٔ غذا",
+            "en": "recipe; instructions and ingredients for preparing food"
+          }
+        },
+        {
+          "surface": "prepared",
+          "gloss": {
+            "fa": "آماده‌شده",
+            "en": "prepared; made ready"
+          }
+        },
+        {
+          "surface": "fresh",
+          "gloss": {
+            "fa": "تازه",
+            "en": "fresh; recently prepared or obtained"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "هرکدام؛ هر",
+            "en": "each; every individual item or occasion"
+          }
+        },
+        {
+          "surface": "evening.",
+          "gloss": {
+            "fa": "عصر؛ شب پیش از خواب",
+            "en": "evening; the later part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "customer",
+      "text": "I could tell, it did not taste like anything I have had before.",
+      "translation": {
+        "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+        "en": "I could tell, it did not taste like anything I have had before."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "در «could tell»: می‌توانستم تشخیص بدهم",
+            "en": "In “could tell”: was able to infer from the taste"
+          }
+        },
+        {
+          "surface": "tell,",
+          "gloss": {
+            "fa": "در «could tell»: می‌توانستم تشخیص بدهم",
+            "en": "In “could tell”: was able to infer from the taste"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+            "en": "In “did not taste like”: denies similarity of flavor"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+            "en": "In “did not taste like”: denies similarity of flavor"
+          }
+        },
+        {
+          "surface": "taste",
+          "gloss": {
+            "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+            "en": "In “did not taste like”: denies similarity of flavor"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+            "en": "In “did not taste like”: denies similarity of flavor"
+          }
+        },
+        {
+          "surface": "anything",
+          "gloss": {
+            "fa": "چیزی؛ هر چیزی",
+            "en": "anything; any thing"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+            "en": "In “have had before”: have previously eaten or experienced"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+            "en": "In “have had before”: have previously eaten or experienced"
+          }
+        },
+        {
+          "surface": "before.",
+          "gloss": {
+            "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+            "en": "In “have had before”: have previously eaten or experienced"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "dr-ahmadi",
+      "text": "We believe that good food comes from good ingredients and careful work.",
+      "translation": {
+        "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+        "en": "We believe that good food comes from good ingredients and careful work."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "believe",
+          "gloss": {
+            "fa": "باور داشتن؛ فکر کردن",
+            "en": "believe; think something is true"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "food",
+          "gloss": {
+            "fa": "غذا",
+            "en": "food; things people eat"
+          }
+        },
+        {
+          "surface": "comes",
+          "gloss": {
+            "fa": "همراه است؛ می‌آید",
+            "en": "comes; arrives, or is provided with something"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; marks origin or source"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant or satisfactory"
+          }
+        },
+        {
+          "surface": "ingredients",
+          "gloss": {
+            "fa": "مواد اولیه؛ ترکیبات غذا",
+            "en": "ingredients; foods used to make a dish"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "careful",
+          "gloss": {
+            "fa": "مراقب؛ محتاط",
+            "en": "careful; taking care to avoid a problem"
+          }
+        },
+        {
+          "surface": "work.",
+          "gloss": {
+            "fa": "کار؛ فعالیت دقیق آماده‌سازی",
+            "en": "work; careful food preparation, a noun"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "customer",
+      "text": "That philosophy shows in every plate, your team is very professional.",
+      "translation": {
+        "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+        "en": "That philosophy shows in every plate, your team is very professional."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; refers to a thing or idea already mentioned"
+          }
+        },
+        {
+          "surface": "philosophy",
+          "gloss": {
+            "fa": "دیدگاه راهنما؛ فلسفه",
+            "en": "philosophy; a guiding set of beliefs"
+          }
+        },
+        {
+          "surface": "shows",
+          "gloss": {
+            "fa": "پیداست؛ دیده می‌شود",
+            "en": "shows; is evident"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در؛ تا مدتی دیگر",
+            "en": "in; inside, or after a stated period"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "plate,",
+          "gloss": {
+            "fa": "بشقاب",
+            "en": "plate; a flat dish for serving food"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "team",
+          "gloss": {
+            "fa": "تیم؛ گروه",
+            "en": "team; people working or playing together"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "professional.",
+          "gloss": {
+            "fa": "حرفه‌ای",
+            "en": "professional; showing skill and appropriate conduct"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "dr-ahmadi",
+      "text": "I will share your words with my team, it means a great deal to us.",
+      "translation": {
+        "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+        "en": "I will share your words with my team, it means a great deal to us."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "share",
+          "gloss": {
+            "fa": "در میان گذاشتن",
+            "en": "share; communicate with others"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "words",
+          "gloss": {
+            "fa": "سخنان؛ واژه‌ها",
+            "en": "words; remarks or units of language"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراهِ",
+            "en": "with; accompanied by"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "team,",
+          "gloss": {
+            "fa": "تیم؛ گروه",
+            "en": "team; people working or playing together"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیز گفته‌شده",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "means",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        },
+        {
+          "surface": "deal",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+            "en": "In “means a great deal to us”: matters greatly to the whole team"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "customer",
+      "text": "Please do, and we will certainly come back for another evening.",
+      "translation": {
+        "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+        "en": "Please do, and we will certainly come back for another evening."
+      },
+      "tokens": [
+        {
+          "surface": "Please",
+          "gloss": {
+            "fa": "در «Please do»: حتماً این کار را بکنید",
+            "en": "In “Please do”: encourages sharing the praise with the team"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "در «Please do»: حتماً این کار را بکنید",
+            "en": "In “Please do”: encourages sharing the praise with the team"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "certainly",
+          "gloss": {
+            "fa": "حتماً؛ البته",
+            "en": "certainly; a confident affirmative response"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمدن",
+            "en": "come; arrive or return"
+          }
+        },
+        {
+          "surface": "back",
+          "gloss": {
+            "fa": "دوباره؛ بازگشت",
+            "en": "back; returning to an earlier place"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "another",
+          "gloss": {
+            "fa": "یک ... دیگر",
+            "en": "another; an additional one"
+          }
+        },
+        {
+          "surface": "evening.",
+          "gloss": {
+            "fa": "عصر؛ شب پیش از خواب",
+            "en": "evening; the later part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "dr-ahmadi",
+      "text": "You are most welcome, we look forward to welcoming you again soon.",
+      "translation": {
+        "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+        "en": "You are most welcome, we look forward to welcoming you again soon."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "most",
+          "gloss": {
+            "fa": "بسیار؛ برای تأکید در خوشامدگویی",
+            "en": "most; intensifies welcome, not a ranking of guests"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "خوش آمدی",
+            "en": "welcome; a greeting on arrival"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "look",
+          "gloss": {
+            "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+            "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+          }
+        },
+        {
+          "surface": "forward",
+          "gloss": {
+            "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+            "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+            "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+          }
+        },
+        {
+          "surface": "welcoming",
+          "gloss": {
+            "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+            "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "again",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        },
+        {
+          "surface": "soon.",
+          "gloss": {
+            "fa": "به‌زودی",
+            "en": "soon; after a short time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "customer",
+      "text": "Thank you, this was a memorable dinner, we were very impressed.",
+      "translation": {
+        "fa": "ممنون، شام به‌یادماندنی‌ای بود؛ خیلی تحت تأثیر قرار گرفتیم.",
+        "en": "Thank you, this was a memorable dinner, we were very impressed."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or serving"
+          }
+        },
+        {
+          "surface": "memorable",
+          "gloss": {
+            "fa": "به‌یادماندنی",
+            "en": "memorable; worth remembering"
+          }
+        },
+        {
+          "surface": "dinner,",
+          "gloss": {
+            "fa": "شام",
+            "en": "dinner; the main evening meal"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "were",
+          "gloss": {
+            "fa": "بودند؛ بودیم",
+            "en": "were; past form of be"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "impressed.",
+          "gloss": {
+            "fa": "تحت تأثیر مثبت",
+            "en": "impressed; admiring something after experiencing it"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "speakerId": "dr-ahmadi",
+      "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+      "translation": {
+        "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+        "en": "The pleasure is ours, and thank you for choosing our restaurant."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+            "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+          }
+        },
+        {
+          "surface": "pleasure",
+          "gloss": {
+            "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+            "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+            "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+          }
+        },
+        {
+          "surface": "ours,",
+          "gloss": {
+            "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+            "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطر",
+            "en": "for; intended for, or because of"
+          }
+        },
+        {
+          "surface": "choosing",
+          "gloss": {
+            "fa": "انتخاب کردن",
+            "en": "choosing; selecting among alternatives"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "restaurant.",
+          "gloss": {
+            "fa": "رستوران",
+            "en": "restaurant; a place serving meals"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "speakerId": "customer",
+      "text": "We will recommend you to everyone, and come back again soon.",
+      "translation": {
+        "fa": "شما را به همه توصیه می‌کنیم و به‌زودی دوباره می‌آییم.",
+        "en": "We will recommend you to everyone, and come back again soon."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ خواهد؛ برای آینده",
+            "en": "will; marks a future action or promise"
+          }
+        },
+        {
+          "surface": "recommend",
+          "gloss": {
+            "fa": "توصیه کردن",
+            "en": "recommend; suggest to others as a good choice"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ پیش از فعل",
+            "en": "to; toward, for, or before an action"
+          }
+        },
+        {
+          "surface": "everyone,",
+          "gloss": {
+            "fa": "همه؛ همگی",
+            "en": "everyone; all the people"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمدن",
+            "en": "come; arrive or return"
+          }
+        },
+        {
+          "surface": "back",
+          "gloss": {
+            "fa": "دوباره؛ بازگشت",
+            "en": "back; returning to an earlier place"
+          }
+        },
+        {
+          "surface": "again",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        },
+        {
+          "surface": "soon.",
+          "gloss": {
+            "fa": "به‌زودی",
+            "en": "soon; after a short time"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "Good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant or satisfactory"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ شب پیش از خواب",
+          "en": "evening; the later part of the day"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "head",
+        "text": "head",
+        "pronunciation": {
+          "faReading": "هِد",
+          "ipa": "/hɛd/"
+        },
+        "meaning": {
+          "fa": "در «head chef»: سرآشپز ارشد",
+          "en": "In “head chef”: the cook in charge of the kitchen"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "chef",
+        "text": "chef",
+        "pronunciation": {
+          "faReading": "شِف",
+          "ipa": "/ʃɛf/"
+        },
+        "meaning": {
+          "fa": "در «head chef»: سرآشپز ارشد",
+          "en": "In “head chef”: the cook in charge of the kitchen"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چه مقدار",
+          "en": "how; asks about manner or degree"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطر",
+          "en": "for; intended for, or because of"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "tonight",
+        "text": "tonight",
+        "pronunciation": {
+          "faReading": "تِنایت",
+          "ipa": "/təˈnaɪt/"
+        },
+        "meaning": {
+          "fa": "امشب",
+          "en": "tonight; this night"
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "excellent",
+        "text": "excellent",
+        "pronunciation": {
+          "faReading": "اِکسِلِنت",
+          "ipa": "/ˈɛksələnt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ بسیار خوب",
+          "en": "excellent; extremely good"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "غذاها؛ انواع غذای آماده",
+          "en": "dishes; prepared foods, not plates to wash"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "perfectly",
+        "text": "perfectly",
+        "pronunciation": {
+          "faReading": "پِرفِکتلی",
+          "ipa": "/ˈpɝfɪktli/"
+        },
+        "meaning": {
+          "fa": "کاملاً؛ به بهترین شکل",
+          "en": "perfectly; exactly as desired"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "cooked",
+        "text": "cooked",
+        "pronunciation": {
+          "faReading": "کوکت",
+          "ipa": "/kʊkt/"
+        },
+        "meaning": {
+          "fa": "پخته‌شده",
+          "en": "cooked; prepared by heating"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "tasty",
+        "text": "tasty",
+        "pronunciation": {
+          "faReading": "تِیستی",
+          "ipa": "/ˈteɪsti/"
+        },
+        "meaning": {
+          "fa": "خوش‌طعم",
+          "en": "tasty; pleasant to eat"
+        },
+        "example": {
+          "text": "Everything is excellent, the dishes are perfectly cooked and very tasty.",
+          "translation": {
+            "fa": "همه‌چیز عالی است؛ غذاها کاملاً خوب پخته شده‌اند و خیلی خوش‌طعم‌اند.",
+            "en": "Everything is excellent, the dishes are perfectly cooked and very tasty."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ پیش از فعل",
+          "en": "to; toward, for, or before an action"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; listen to news or sounds"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; refers to a thing or idea already mentioned"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "which",
+        "text": "which",
+        "pronunciation": {
+          "faReading": "ویچ",
+          "ipa": "/wɪtʃ/"
+        },
+        "meaning": {
+          "fa": "کدام؛ که",
+          "en": "which; asks for a choice or introduces information"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "dish",
+        "text": "dish",
+        "pronunciation": {
+          "faReading": "دیش",
+          "ipa": "/dɪʃ/"
+        },
+        "meaning": {
+          "fa": "غذا؛ نوع غذا",
+          "en": "dish; a prepared food or menu item"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن یا منفی‌کردن گذشته",
+          "en": "did; used in past questions or negatives"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "the-2",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "در «the most»: بیشتر از همه",
+          "en": "In “the most”: to the greatest degree among the dishes"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "در «the most»: بیشتر از همه",
+          "en": "In “the most”: to the greatest degree among the dishes"
+        },
+        "example": {
+          "text": "I am glad to hear that, which dish did you enjoy the most?",
+          "translation": {
+            "fa": "خوشحالم که این را می‌شنوم؛ از کدام غذا بیشتر لذت بردید؟",
+            "en": "I am glad to hear that, which dish did you enjoy the most?"
+          }
+        }
+      },
+      {
+        "id": "grilled",
+        "text": "grilled",
+        "pronunciation": {
+          "faReading": "گْریلد",
+          "ipa": "/ɡrɪld/"
+        },
+        "meaning": {
+          "fa": "کبابی؛ گریل‌شده",
+          "en": "grilled; cooked over or under direct heat"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "fish",
+        "text": "fish",
+        "pronunciation": {
+          "faReading": "فیش",
+          "ipa": "/fɪʃ/"
+        },
+        "meaning": {
+          "fa": "ماهی؛ گوشت ماهی",
+          "en": "fish; fish served as food"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیز گفته‌شده",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "fresh",
+        "text": "fresh",
+        "pronunciation": {
+          "faReading": "فْرِش",
+          "ipa": "/frɛʃ/"
+        },
+        "meaning": {
+          "fa": "تازه",
+          "en": "fresh; recently prepared or obtained"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "spices",
+        "text": "spices",
+        "pronunciation": {
+          "faReading": "سْپایسِز",
+          "ipa": "/ˈspaɪsɪz/"
+        },
+        "meaning": {
+          "fa": "ادویه‌ها",
+          "en": "spices; seasonings used to flavor food"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "were",
+        "text": "were",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɚ/"
+        },
+        "meaning": {
+          "fa": "بودند؛ بودیم",
+          "en": "were; past form of be"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "balanced",
+        "text": "balanced",
+        "pronunciation": {
+          "faReading": "بَلِنست",
+          "ipa": "/ˈbælənst/"
+        },
+        "meaning": {
+          "fa": "متعادل",
+          "en": "balanced; avoiding an excessive emphasis on one side"
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "select",
+        "text": "select",
+        "pronunciation": {
+          "faReading": "سیلِکت",
+          "ipa": "/səˈlɛkt/"
+        },
+        "meaning": {
+          "fa": "انتخاب کردن",
+          "en": "select; choose carefully"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از",
+          "en": "from; marks origin or source"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "harbor",
+        "text": "harbor",
+        "pronunciation": {
+          "faReading": "هاربِر",
+          "ipa": "/ˈhɑrbɚ/"
+        },
+        "meaning": {
+          "fa": "بندر",
+          "en": "harbor; a sheltered place where boats land"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "secret",
+        "text": "secret",
+        "pronunciation": {
+          "faReading": "سیکْرِت",
+          "ipa": "/ˈsikrɪt/"
+        },
+        "meaning": {
+          "fa": "عامل موفقیت؛ راز",
+          "en": "secret; a proposed explanation of success, not hidden confidential information"
+        },
+        "example": {
+          "text": "We select our fish every morning from the harbor, that is the secret.",
+          "translation": {
+            "fa": "هر روز صبح ماهی‌مان را از بندر انتخاب می‌کنیم؛ راز کار همین است.",
+            "en": "We select our fish every morning from the harbor, that is the secret."
+          }
+        }
+      },
+      {
+        "id": "explains",
+        "text": "explains",
+        "pronunciation": {
+          "faReading": "ایکسپْلِینز",
+          "ipa": "/ɪkˈspleɪnz/"
+        },
+        "meaning": {
+          "fa": "توضیح می‌دهد",
+          "en": "explains; accounts for something"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "freshness",
+        "text": "freshness",
+        "pronunciation": {
+          "faReading": "فْرِشنِس",
+          "ipa": "/ˈfrɛʃnəs/"
+        },
+        "meaning": {
+          "fa": "تازگی",
+          "en": "freshness; the quality of being fresh"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "sauce",
+        "text": "sauce",
+        "pronunciation": {
+          "faReading": "ساس",
+          "ipa": "/sɔs/"
+        },
+        "meaning": {
+          "fa": "سس",
+          "en": "sauce; a flavored liquid served with food"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or serving"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "beautiful",
+        "text": "beautiful",
+        "pronunciation": {
+          "faReading": "بیوتِفُل",
+          "ipa": "/ˈbjutəfəl/"
+        },
+        "meaning": {
+          "fa": "زیبا",
+          "en": "beautiful; very pleasing"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "touch",
+        "text": "touch",
+        "pronunciation": {
+          "faReading": "تاچ",
+          "ipa": "/tʌtʃ/"
+        },
+        "meaning": {
+          "fa": "جزئیاتِ دلنشین؛ اینجا نقش سس",
+          "en": "touch; an enhancing detail, not physical contact"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also, adding another positive point"
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "own",
+        "text": "own",
+        "pronunciation": {
+          "faReading": "اُوْن",
+          "ipa": "/oʊn/"
+        },
+        "meaning": {
+          "fa": "اختصاصیِ خودمان؛ متعلق به گروه رستوران",
+          "en": "own; belonging to the restaurant team"
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "recipe",
+        "text": "recipe",
+        "pronunciation": {
+          "faReading": "رِسِپی",
+          "ipa": "/ˈrɛsəpi/"
+        },
+        "meaning": {
+          "fa": "دستور تهیهٔ غذا",
+          "en": "recipe; instructions and ingredients for preparing food"
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "prepared",
+        "text": "prepared",
+        "pronunciation": {
+          "faReading": "پْریپِرد",
+          "ipa": "/prɪˈpɛrd/"
+        },
+        "meaning": {
+          "fa": "آماده‌شده",
+          "en": "prepared; made ready"
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هرکدام؛ هر",
+          "en": "each; every individual item or occasion"
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "در «could tell»: می‌توانستم تشخیص بدهم",
+          "en": "In “could tell”: was able to infer from the taste"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "در «could tell»: می‌توانستم تشخیص بدهم",
+          "en": "In “could tell”: was able to infer from the taste"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "did-2",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+          "en": "In “did not taste like”: denies similarity of flavor"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+          "en": "In “did not taste like”: denies similarity of flavor"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "taste",
+        "text": "taste",
+        "pronunciation": {
+          "faReading": "تِیست",
+          "ipa": "/teɪst/"
+        },
+        "meaning": {
+          "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+          "en": "In “did not taste like”: denies similarity of flavor"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «did not taste like»: مزه‌اش شبیه ... نبود",
+          "en": "In “did not taste like”: denies similarity of flavor"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "anything",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی؛ هر چیزی",
+          "en": "anything; any thing"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+          "en": "In “have had before”: have previously eaten or experienced"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+          "en": "In “have had before”: have previously eaten or experienced"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "در «have had before»: قبلاً خورده‌ام؛ تجربهٔ پیشین",
+          "en": "In “have had before”: have previously eaten or experienced"
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "believe",
+        "text": "believe",
+        "pronunciation": {
+          "faReading": "بی‌لیو",
+          "ipa": "/bɪˈliv/"
+        },
+        "meaning": {
+          "fa": "باور داشتن؛ فکر کردن",
+          "en": "believe; think something is true"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "food",
+        "text": "food",
+        "pronunciation": {
+          "faReading": "فود",
+          "ipa": "/fud/"
+        },
+        "meaning": {
+          "fa": "غذا",
+          "en": "food; things people eat"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "comes",
+        "text": "comes",
+        "pronunciation": {
+          "faReading": "کامز",
+          "ipa": "/kʌmz/"
+        },
+        "meaning": {
+          "fa": "همراه است؛ می‌آید",
+          "en": "comes; arrives, or is provided with something"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "ingredients",
+        "text": "ingredients",
+        "pronunciation": {
+          "faReading": "اینگْریدیِنتس",
+          "ipa": "/ɪnˈɡridiənts/"
+        },
+        "meaning": {
+          "fa": "مواد اولیه؛ ترکیبات غذا",
+          "en": "ingredients; foods used to make a dish"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "careful",
+        "text": "careful",
+        "pronunciation": {
+          "faReading": "کِرفِل",
+          "ipa": "/ˈkɛrfəl/"
+        },
+        "meaning": {
+          "fa": "مراقب؛ محتاط",
+          "en": "careful; taking care to avoid a problem"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ فعالیت دقیق آماده‌سازی",
+          "en": "work; careful food preparation, a noun"
+        },
+        "example": {
+          "text": "We believe that good food comes from good ingredients and careful work.",
+          "translation": {
+            "fa": "ما باور داریم غذای خوب از مواد اولیهٔ خوب و کار دقیق به دست می‌آید.",
+            "en": "We believe that good food comes from good ingredients and careful work."
+          }
+        }
+      },
+      {
+        "id": "philosophy",
+        "text": "philosophy",
+        "pronunciation": {
+          "faReading": "فِلاسِفی",
+          "ipa": "/fəˈlɑsəfi/"
+        },
+        "meaning": {
+          "fa": "دیدگاه راهنما؛ فلسفه",
+          "en": "philosophy; a guiding set of beliefs"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "shows",
+        "text": "shows",
+        "pronunciation": {
+          "faReading": "شُوز",
+          "ipa": "/ʃoʊz/"
+        },
+        "meaning": {
+          "fa": "پیداست؛ دیده می‌شود",
+          "en": "shows; is evident"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ تا مدتی دیگر",
+          "en": "in; inside, or after a stated period"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "plate",
+        "text": "plate",
+        "pronunciation": {
+          "faReading": "پْلِیت",
+          "ipa": "/pleɪt/"
+        },
+        "meaning": {
+          "fa": "بشقاب",
+          "en": "plate; a flat dish for serving food"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "team",
+        "text": "team",
+        "pronunciation": {
+          "faReading": "تیم",
+          "ipa": "/tim/"
+        },
+        "meaning": {
+          "fa": "تیم؛ گروه",
+          "en": "team; people working or playing together"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "professional",
+        "text": "professional",
+        "pronunciation": {
+          "faReading": "پْرِفِشِنِل",
+          "ipa": "/prəˈfɛʃənəl/"
+        },
+        "meaning": {
+          "fa": "حرفه‌ای",
+          "en": "professional; showing skill and appropriate conduct"
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهد؛ برای آینده",
+          "en": "will; marks a future action or promise"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "share",
+        "text": "share",
+        "pronunciation": {
+          "faReading": "شِر",
+          "ipa": "/ʃɛr/"
+        },
+        "meaning": {
+          "fa": "در میان گذاشتن",
+          "en": "share; communicate with others"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "words",
+        "text": "words",
+        "pronunciation": {
+          "faReading": "وِردز",
+          "ipa": "/wɝdz/"
+        },
+        "meaning": {
+          "fa": "سخنان؛ واژه‌ها",
+          "en": "words; remarks or units of language"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراهِ",
+          "en": "with; accompanied by"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "means",
+        "text": "means",
+        "pronunciation": {
+          "faReading": "مینز",
+          "ipa": "/minz/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "deal",
+        "text": "deal",
+        "pronunciation": {
+          "faReading": "دیل",
+          "ipa": "/dil/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «means a great deal to us»: برای ما خیلی ارزش دارد",
+          "en": "In “means a great deal to us”: matters greatly to the whole team"
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "Please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "در «Please do»: حتماً این کار را بکنید",
+          "en": "In “Please do”: encourages sharing the praise with the team"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «Please do»: حتماً این کار را بکنید",
+          "en": "In “Please do”: encourages sharing the praise with the team"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "certainly",
+        "text": "certainly",
+        "pronunciation": {
+          "faReading": "سِرتِنلی",
+          "ipa": "/ˈsɝtənli/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ البته",
+          "en": "certainly; a confident affirmative response"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "آمدن",
+          "en": "come; arrive or return"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "back",
+        "text": "back",
+        "pronunciation": {
+          "faReading": "بَک",
+          "ipa": "/bæk/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ بازگشت",
+          "en": "back; returning to an earlier place"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "another",
+        "text": "another",
+        "pronunciation": {
+          "faReading": "اِناذِر",
+          "ipa": "/əˈnʌðɚ/"
+        },
+        "meaning": {
+          "fa": "یک ... دیگر",
+          "en": "another; an additional one"
+        },
+        "example": {
+          "text": "Please do, and we will certainly come back for another evening.",
+          "translation": {
+            "fa": "حتماً این کار را بکنید؛ ما هم قطعاً برای شبی دیگر برمی‌گردیم.",
+            "en": "Please do, and we will certainly come back for another evening."
+          }
+        }
+      },
+      {
+        "id": "most-2",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بسیار؛ برای تأکید در خوشامدگویی",
+          "en": "most; intensifies welcome, not a ranking of guests"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی",
+          "en": "welcome; a greeting on arrival"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "look",
+        "text": "look",
+        "pronunciation": {
+          "faReading": "لوک",
+          "ipa": "/lʊk/"
+        },
+        "meaning": {
+          "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+          "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "forward",
+        "text": "forward",
+        "pronunciation": {
+          "faReading": "فوروِرد",
+          "ipa": "/ˈfɔrwɚd/"
+        },
+        "meaning": {
+          "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+          "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "to-3",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+          "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "welcoming",
+        "text": "welcoming",
+        "pronunciation": {
+          "faReading": "وِلکِمینگ",
+          "ipa": "/ˈwɛlkəmɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «look forward to welcoming»: مشتاق پذیرایی دوباره هستیم",
+          "en": "In “look forward to welcoming”: anticipate greeting the customer again with pleasure"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "soon",
+        "text": "soon",
+        "pronunciation": {
+          "faReading": "سون",
+          "ipa": "/sun/"
+        },
+        "meaning": {
+          "fa": "به‌زودی",
+          "en": "soon; after a short time"
+        },
+        "example": {
+          "text": "You are most welcome, we look forward to welcoming you again soon.",
+          "translation": {
+            "fa": "خیلی خوش آمدید؛ مشتاقیم به‌زودی دوباره پذیرایتان باشیم.",
+            "en": "You are most welcome, we look forward to welcoming you again soon."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Thank you, this was a memorable dinner, we were very impressed.",
+          "translation": {
+            "fa": "ممنون، شام به‌یادماندنی‌ای بود؛ خیلی تحت تأثیر قرار گرفتیم.",
+            "en": "Thank you, this was a memorable dinner, we were very impressed."
+          }
+        }
+      },
+      {
+        "id": "memorable",
+        "text": "memorable",
+        "pronunciation": {
+          "faReading": "مِمِرِبِل",
+          "ipa": "/ˈmɛmərəbəl/"
+        },
+        "meaning": {
+          "fa": "به‌یادماندنی",
+          "en": "memorable; worth remembering"
+        },
+        "example": {
+          "text": "Thank you, this was a memorable dinner, we were very impressed.",
+          "translation": {
+            "fa": "ممنون، شام به‌یادماندنی‌ای بود؛ خیلی تحت تأثیر قرار گرفتیم.",
+            "en": "Thank you, this was a memorable dinner, we were very impressed."
+          }
+        }
+      },
+      {
+        "id": "dinner",
+        "text": "dinner",
+        "pronunciation": {
+          "faReading": "دینِر",
+          "ipa": "/ˈdɪnɚ/"
+        },
+        "meaning": {
+          "fa": "شام",
+          "en": "dinner; the main evening meal"
+        },
+        "example": {
+          "text": "Thank you, this was a memorable dinner, we were very impressed.",
+          "translation": {
+            "fa": "ممنون، شام به‌یادماندنی‌ای بود؛ خیلی تحت تأثیر قرار گرفتیم.",
+            "en": "Thank you, this was a memorable dinner, we were very impressed."
+          }
+        }
+      },
+      {
+        "id": "impressed",
+        "text": "impressed",
+        "pronunciation": {
+          "faReading": "ایمپْرِست",
+          "ipa": "/ɪmˈprɛst/"
+        },
+        "meaning": {
+          "fa": "تحت تأثیر مثبت",
+          "en": "impressed; admiring something after experiencing it"
+        },
+        "example": {
+          "text": "Thank you, this was a memorable dinner, we were very impressed.",
+          "translation": {
+            "fa": "ممنون، شام به‌یادماندنی‌ای بود؛ خیلی تحت تأثیر قرار گرفتیم.",
+            "en": "Thank you, this was a memorable dinner, we were very impressed."
+          }
+        }
+      },
+      {
+        "id": "the-3",
+        "text": "The",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+          "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "pleasure",
+        "text": "pleasure",
+        "pronunciation": {
+          "faReading": "پْلِژِر",
+          "ipa": "/ˈplɛʒɚ/"
+        },
+        "meaning": {
+          "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+          "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+          "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "ours",
+        "text": "ours",
+        "pronunciation": {
+          "faReading": "آوِرز",
+          "ipa": "/aʊrz/"
+        },
+        "meaning": {
+          "fa": "در «The pleasure is ours»: باعث افتخار ماست؛ ما خوشحالیم",
+          "en": "In “The pleasure is ours”: politely returns the customer’s thanks"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "choosing",
+        "text": "choosing",
+        "pronunciation": {
+          "faReading": "چوزینگ",
+          "ipa": "/ˈtʃuzɪŋ/"
+        },
+        "meaning": {
+          "fa": "انتخاب کردن",
+          "en": "choosing; selecting among alternatives"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "restaurant",
+        "text": "restaurant",
+        "pronunciation": {
+          "faReading": "رِستِرانت",
+          "ipa": "/ˈrɛstəˌrɑnt/"
+        },
+        "meaning": {
+          "fa": "رستوران",
+          "en": "restaurant; a place serving meals"
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      },
+      {
+        "id": "recommend",
+        "text": "recommend",
+        "pronunciation": {
+          "faReading": "رِکِمِند",
+          "ipa": "/ˌrɛkəˈmɛnd/"
+        },
+        "meaning": {
+          "fa": "توصیه کردن",
+          "en": "recommend; suggest to others as a good choice"
+        },
+        "example": {
+          "text": "We will recommend you to everyone, and come back again soon.",
+          "translation": {
+            "fa": "شما را به همه توصیه می‌کنیم و به‌زودی دوباره می‌آییم.",
+            "en": "We will recommend you to everyone, and come back again soon."
+          }
+        }
+      },
+      {
+        "id": "everyone",
+        "text": "everyone",
+        "pronunciation": {
+          "faReading": "اِوری‌وان",
+          "ipa": "/ˈɛvriwʌn/"
+        },
+        "meaning": {
+          "fa": "همه؛ همگی",
+          "en": "everyone; all the people"
+        },
+        "example": {
+          "text": "We will recommend you to everyone, and come back again soon.",
+          "translation": {
+            "fa": "شما را به همه توصیه می‌کنیم و به‌زودی دوباره می‌آییم.",
+            "en": "We will recommend you to everyone, and come back again soon."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "role-and-service-opening",
+        "title": {
+          "fa": "نقش و آغاز مؤدبانهٔ خدماتی",
+          "en": "Role and a courteous service opening"
+        },
+        "explanation": {
+          "fa": "the head chef نقش هدایت آشپزخانه را معرفی می‌کند؛ عنوان Dr. Ahmadi عین منبع است و تخصص پزشکی یا زندگی‌نامه‌ای از آن نمی‌سازیم. how is everything for you tonight? یک پرسش باز برای ارزیابی تجربه است، نه درخواست امتیاز عددی یا اطلاعات شخصی.",
+          "en": "The head chef identifies the kitchen’s lead role. Dr. Ahmadi is the source label; no medical specialty or biography is inferred from it. How is everything for you tonight? invites an overall evaluation rather than a numerical score or personal details."
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        },
+        "takeaway": {
+          "fa": "عنوان گوینده را حفظ کن ولی از آن نقش تازه استنباط نکن.",
+          "en": "Preserve the source label without inferring an additional role."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نقش و آغاز مؤدبانهٔ خدماتی",
+              "en": "Role and a courteous service opening"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am the head chef here"
+                },
+                {
+                  "text": "definite role noun phrase"
+                },
+                {
+                  "fa": "من سرآشپز ارشد اینجا هستم",
+                  "en": "Identifies the service role"
+                }
+              ],
+              [
+                {
+                  "text": "how is everything for you tonight"
+                },
+                {
+                  "text": "open evaluative question"
+                },
+                {
+                  "fa": "امشب تجربه‌تان چطور است؟",
+                  "en": "Invites overall feedback"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "passive-and-adjective-evaluation",
+        "title": {
+          "fa": "مجهول و صفت در ارزیابی غذا",
+          "en": "Passive and adjectival food evaluation"
+        },
+        "explanation": {
+          "fa": "are perfectly cooked بر نتیجهٔ پخت تمرکز دارد و عامل را حذف می‌کند؛ and very tasty یک صفت هم‌پایه با همان are است. spices were perfectly balanced توازن طعم را ارزیابی می‌کند، نه توازن وزن ادویه‌ها به مقدار مساوی. perfectly شدت تحسین را می‌رساند.",
+          "en": "Are perfectly cooked focuses on the cooking result without naming an agent; and very tasty shares are with an adjective phrase. Spices were perfectly balanced evaluates flavor harmony, not necessarily equal weights of spices. Perfectly intensifies the praise."
+        },
+        "example": {
+          "text": "The grilled fish, it was fresh and the spices were perfectly balanced.",
+          "translation": {
+            "fa": "ماهی گریل‌شده؛ تازه بود و ادویه‌ها کاملاً متعادل بودند.",
+            "en": "The grilled fish, it was fresh and the spices were perfectly balanced."
+          }
+        },
+        "takeaway": {
+          "fa": "توازن طعم الزاماً برابری مقدار مواد نیست.",
+          "en": "Flavor balance does not necessarily mean equal ingredient quantities."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مجهول و صفت در ارزیابی غذا",
+              "en": "Passive and adjectival food evaluation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the dishes are perfectly cooked and very tasty"
+                },
+                {
+                  "text": "be + participle phrase + and + adjective phrase"
+                },
+                {
+                  "fa": "کاملاً خوب پخته و خوش‌طعم‌اند",
+                  "en": "Two evaluations sharing are"
+                }
+              ],
+              [
+                {
+                  "text": "the spices were perfectly balanced"
+                },
+                {
+                  "text": "past be + participle/adjectival complement"
+                },
+                {
+                  "fa": "ادویه‌ها کاملاً متعادل بودند",
+                  "en": "A flavor evaluation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "routine-and-causal-inference",
+        "title": {
+          "fa": "عادت کاری و استنباط علت",
+          "en": "Routine practice and causal inference"
+        },
+        "explanation": {
+          "fa": "select ... every morning یک رویهٔ همیشگی را بیان می‌کند. that is the secret آن رویه را دلیل کیفیت معرفی می‌کند و That explains the freshness استنباط مشتری را می‌پذیرد. این تبادل دلیلِ پیشنهادی شخصیت‌هاست، نه اثبات علمی تازگی یا اطلاعات تأییدشده دربارهٔ زنجیرهٔ تأمین.",
+          "en": "Select ... every morning states a routine. That is the secret presents that practice as a cause of quality; That explains the freshness acknowledges the proposed explanation. These are the speakers’ causal interpretations, not scientific proof or independently verified sourcing details."
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        },
+        "takeaway": {
+          "fa": "that می‌تواند به کل رویهٔ قبلی اشاره کند، نه فقط یک اسم.",
+          "en": "That can refer to the whole preceding practice, not just one noun."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عادت کاری و استنباط علت",
+              "en": "Routine practice and causal inference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We select our fish every morning from the harbor"
+                },
+                {
+                  "text": "present simple + frequency + source"
+                },
+                {
+                  "fa": "هر صبح از بندر انتخاب می‌کنیم",
+                  "en": "A stated sourcing routine"
+                }
+              ],
+              [
+                {
+                  "text": "that is the secret"
+                },
+                {
+                  "text": "demonstrative + evaluation"
+                },
+                {
+                  "fa": "راز کار همین است",
+                  "en": "Frames the routine as a cause"
+                }
+              ],
+              [
+                {
+                  "text": "That explains the freshness"
+                },
+                {
+                  "text": "demonstrative + explanatory verb"
+                },
+                {
+                  "fa": "این تازگی را توضیح می‌دهد",
+                  "en": "Customer’s causal inference"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "recipe-and-reduced-passive",
+        "title": {
+          "fa": "دستور اختصاصی و توضیح مجهول کوتاه",
+          "en": "An own recipe and a reduced passive"
+        },
+        "explanation": {
+          "fa": "our own recipe مالکیت یا اختصاص گروه رستوران را برجسته می‌کند؛ recipe را با receipt رسید اشتباه نکن. prepared fresh each evening به sauce برمی‌گردد و is prepared را می‌توان در آن فهمید. این رویهٔ سس با انتخاب صبحگاهی ماهی دو زمان متفاوت دارد.",
+          "en": "Our own recipe emphasizes the restaurant team’s authorship or ownership; recipe differs from receipt. Prepared fresh each evening modifies the sauce with an understood is prepared. The sauce’s evening preparation differs from the fish’s morning selection."
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        },
+        "takeaway": {
+          "fa": "recipe دستور تهیه است؛ زمان صبح ماهی و عصر سس را جدا نگه دار.",
+          "en": "Recipe means cooking instructions; distinguish morning fish selection from evening sauce preparation."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دستور اختصاصی و توضیح مجهول کوتاه",
+              "en": "An own recipe and a reduced passive"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "our own recipe"
+                },
+                {
+                  "text": "possessive + own + noun"
+                },
+                {
+                  "fa": "دستور تهیهٔ خودمان",
+                  "en": "Emphasizes authorship or ownership"
+                }
+              ],
+              [
+                {
+                  "text": "prepared fresh each evening"
+                },
+                {
+                  "text": "reduced passive + result quality + frequency"
+                },
+                {
+                  "fa": "هر عصر تازه آماده‌شده",
+                  "en": "Describes the sauce’s routine preparation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "could-tell-and-experiential-perfect",
+        "title": {
+          "fa": "تشخیص و تجربهٔ پیشین",
+          "en": "Inference and prior experience"
+        },
+        "explanation": {
+          "fa": "I could tell توان تشخیص در گذشته است، نه I could inform someone. did not taste like anything I have had before یک بند موصولی با that حذف‌شده پس از anything دارد. have had تجربه‌های غذایی تا اکنون را مبنای مقایسه با طعم آن شب می‌گذارد؛ متن آن را had had نکرده و زمان منبع حفظ شده است.",
+          "en": "I could tell means I was able to recognize, not I could inform someone. Did not taste like anything I have had before contains a relative clause with omitted that after anything. Have had uses experience up to now as the comparison set for that evening’s taste; the source is not silently changed to had had."
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        },
+        "takeaway": {
+          "fa": "tell اینجا تشخیص‌دادن است؛ مبنای تجربه تا حال را از زمان چشیدن جدا کن.",
+          "en": "Tell means recognize here; distinguish the present-relevant experience set from the past tasting event."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تشخیص و تجربهٔ پیشین",
+              "en": "Inference and prior experience"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I could tell"
+                },
+                {
+                  "text": "could + perception-related tell"
+                },
+                {
+                  "fa": "می‌توانستم تشخیص بدهم",
+                  "en": "Past inference from sensory evidence"
+                }
+              ],
+              [
+                {
+                  "text": "anything I have had before"
+                },
+                {
+                  "text": "indefinite pronoun + relative present perfect"
+                },
+                {
+                  "fa": "هر چیزی که پیش‌تر خورده‌ام",
+                  "en": "A present-relevant experiential comparison set"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "philosophy-and-embodiment",
+        "title": {
+          "fa": "دیدگاه و نمود آن در غذا",
+          "en": "A philosophy embodied in the food"
+        },
+        "explanation": {
+          "fa": "believe that یک گزاره را به باور گروه نسبت می‌دهد. good food comes from ... ریشهٔ کیفیت را استعاری بیان می‌کند؛ فقط حرکت فیزیکی غذا نیست. That philosophy shows in every plate دیدگاه را در محصول قابل مشاهده می‌بیند و every plate به تجربهٔ سرو غذا اشارهٔ فشرده می‌کند.",
+          "en": "Believe that attributes a proposition to the team’s belief. Good food comes from ... metaphorically identifies the basis of quality rather than merely physical movement. That philosophy shows in every plate treats the guiding idea as embodied in the served food, with plate standing compactly for the dining result."
+        },
+        "example": {
+          "text": "That philosophy shows in every plate, your team is very professional.",
+          "translation": {
+            "fa": "آن دیدگاه در هر بشقاب پیداست؛ گروه شما بسیار حرفه‌ای است.",
+            "en": "That philosophy shows in every plate, your team is very professional."
+          }
+        },
+        "takeaway": {
+          "fa": "باور و استعارهٔ نمود را از ادعای عینیِ سنجیده‌شده جدا کن.",
+          "en": "Distinguish an attributed belief and metaphorical embodiment from a measured factual claim."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دیدگاه و نمود آن در غذا",
+              "en": "A philosophy embodied in the food"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We believe that good food comes from good ingredients and careful work"
+                },
+                {
+                  "text": "believe that + proposition"
+                },
+                {
+                  "fa": "باور داریم غذای خوب از مواد و کار خوب می‌آید",
+                  "en": "An explicitly attributed philosophy"
+                }
+              ],
+              [
+                {
+                  "text": "That philosophy shows in every plate"
+                },
+                {
+                  "text": "abstract idea + shows in + concrete result"
+                },
+                {
+                  "fa": "دیدگاه در هر بشقاب پیداست",
+                  "en": "Abstract quality embodied in the food"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shared-credit-and-intensity",
+        "title": {
+          "fa": "تقسیم اعتبار و شدت قدردانی",
+          "en": "Shared credit and intensified appreciation"
+        },
+        "explanation": {
+          "fa": "share your words with my team اعتبار تعریف را به گروه می‌رساند. it means a great deal to us ارزش عاطفی بالایی را می‌گوید؛ deal معامله نیست. our و us و ours دامنهٔ قدردانی را جمعی نگه می‌دارند. most در You are most welcome قید شدت مؤدبانه است، نه رتبه‌بندی مشتری‌ها.",
+          "en": "Share your words with my team distributes the praise to colleagues. It means a great deal to us conveys strong appreciation; deal is not a transaction. Our, us and ours keep the gratitude collective. Most in You are most welcome intensifies courtesy rather than ranking customers."
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        },
+        "takeaway": {
+          "fa": "great deal شدت را می‌رساند؛ most welcome خوشامدگوییِ تأکیدی است.",
+          "en": "Great deal gives degree; most welcome is intensified courtesy."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تقسیم اعتبار و شدت قدردانی",
+              "en": "Shared credit and intensified appreciation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "share your words with my team"
+                },
+                {
+                  "text": "share + message + with + recipients"
+                },
+                {
+                  "fa": "حرف‌هایتان را با گروهم در میان بگذارم",
+                  "en": "Distributes recognition"
+                }
+              ],
+              [
+                {
+                  "text": "it means a great deal to us"
+                },
+                {
+                  "text": "mean a great deal to + person"
+                },
+                {
+                  "fa": "برایمان خیلی ارزش دارد",
+                  "en": "Strong appreciation"
+                }
+              ],
+              [
+                {
+                  "text": "You are most welcome"
+                },
+                {
+                  "text": "most + adjective"
+                },
+                {
+                  "fa": "بسیار خوش آمدید",
+                  "en": "Polite intensifier, not a superlative ranking"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reciprocal-closing-and-gerunds",
+        "title": {
+          "fa": "پایان متقابل و ساخت‌های -ing",
+          "en": "Reciprocal closing and -ing complements"
+        },
+        "explanation": {
+          "fa": "Please do فعل share را از جملهٔ قبل بازمی‌گیرد. look forward to welcoming بعد از to که جزئی از عبارت است، welcoming می‌گیرد؛ thank you for choosing نیز پس از for شکل -ing دارد. The pleasure is ours قدردانی را مؤدبانه به مشتری برمی‌گرداند. will recommend ... and come back دو نیت با will و we مشترک دارد؛ بازگشت هنوز گزارش نشده است.",
+          "en": "Please do recovers share from the prior turn. Look forward to welcoming takes -ing after the expression’s preposition to, while thank you for choosing takes -ing after for. The pleasure is ours courteously returns appreciation. Will recommend ... and come back shares we and will across two intentions; a return has not yet happened."
+        },
+        "example": {
+          "text": "We will recommend you to everyone, and come back again soon.",
+          "translation": {
+            "fa": "شما را به همه توصیه می‌کنیم و به‌زودی دوباره می‌آییم.",
+            "en": "We will recommend you to everyone, and come back again soon."
+          }
+        },
+        "takeaway": {
+          "fa": "to همیشه پیش از فعل ساده نیست؛ در look forward to پس از آن -ing می‌آید.",
+          "en": "To does not always precede a base verb; look forward to is followed by -ing."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پایان متقابل و ساخت‌های -ing",
+              "en": "Reciprocal closing and -ing complements"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Please do"
+                },
+                {
+                  "text": "please + substitute do"
+                },
+                {
+                  "fa": "حتماً تعریف را منتقل کنید",
+                  "en": "Do recovers sharing the praise"
+                }
+              ],
+              [
+                {
+                  "text": "look forward to welcoming you"
+                },
+                {
+                  "text": "look forward to + -ing"
+                },
+                {
+                  "fa": "مشتاق پذیرایی دوباره هستیم",
+                  "en": "Anticipation with a gerund complement"
+                }
+              ],
+              [
+                {
+                  "text": "thank you for choosing our restaurant"
+                },
+                {
+                  "text": "for + -ing"
+                },
+                {
+                  "fa": "ممنون از انتخاب رستوران",
+                  "en": "Thanks for the completed choice"
+                }
+              ],
+              [
+                {
+                  "text": "The pleasure is ours"
+                },
+                {
+                  "text": "polite fixed expression"
+                },
+                {
+                  "fa": "باعث افتخار ماست",
+                  "en": "Reciprocal appreciation"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "chef",
+        "text": "the head chef",
+        "pronunciation": {
+          "faReading": "ذِ هِد شِف",
+          "ipa": "/ðə hɛd ʃɛf/"
+        },
+        "meaning": {
+          "fa": "سرآشپز ارشد",
+          "en": "The cook in charge of the kitchen"
+        },
+        "context": {
+          "fa": "نقش معرفی‌شدهٔ Dr. Ahmadi است؛ زندگی‌نامه‌ای اضافه نمی‌شود.",
+          "en": "The role stated by Dr. Ahmadi; no biography is added."
+        },
+        "example": {
+          "text": "Good evening, I am the head chef here, how is everything for you tonight?",
+          "translation": {
+            "fa": "عصر بخیر، من سرآشپز ارشد اینجا هستم؛ امشب همه‌چیز برایتان چطور است؟",
+            "en": "Good evening, I am the head chef here, how is everything for you tonight?"
+          }
+        }
+      },
+      {
+        "id": "sauce",
+        "text": "a beautiful touch",
+        "pronunciation": {
+          "faReading": "اِ بیوتِفِل تاچ",
+          "ipa": "/ə ˈbjutəfəl tʌtʃ/"
+        },
+        "meaning": {
+          "fa": "جزئیاتی دلنشین",
+          "en": "An enhancing detail"
+        },
+        "context": {
+          "fa": "تعریف مشتری از سس است، نه تماس فیزیکی.",
+          "en": "Praise for the sauce, not physical contact."
+        },
+        "example": {
+          "text": "That explains the freshness, and the sauce was a beautiful touch too.",
+          "translation": {
+            "fa": "این تازگی‌اش را توضیح می‌دهد؛ سس هم جزئیات دلنشینی بود.",
+            "en": "That explains the freshness, and the sauce was a beautiful touch too."
+          }
+        }
+      },
+      {
+        "id": "recipe",
+        "text": "our own recipe",
+        "pronunciation": {
+          "faReading": "آوِر اُون رِسِپی",
+          "ipa": "/aʊɚ oʊn ˈrɛsəpi/"
+        },
+        "meaning": {
+          "fa": "دستور تهیهٔ خودمان",
+          "en": "Our own recipe"
+        },
+        "context": {
+          "fa": "به گروه رستوران نسبت داده شده، نه فقط شخص سرآشپز.",
+          "en": "Attributed to the restaurant team, not only the chef."
+        },
+        "example": {
+          "text": "Thank you, the sauce is our own recipe, prepared fresh each evening.",
+          "translation": {
+            "fa": "ممنون، سس دستور تهیهٔ خودمان است و هر عصر تازه آماده می‌شود.",
+            "en": "Thank you, the sauce is our own recipe, prepared fresh each evening."
+          }
+        }
+      },
+      {
+        "id": "infer",
+        "text": "I could tell",
+        "pronunciation": {
+          "faReading": "آی کود تِل",
+          "ipa": "/aɪ kʊd tɛl/"
+        },
+        "meaning": {
+          "fa": "می‌توانستم تشخیص بدهم",
+          "en": "I was able to recognize it"
+        },
+        "context": {
+          "fa": "مشتری از مزه تازگی و خاص‌بودن را برداشت کرده است.",
+          "en": "The customer infers qualities from the taste."
+        },
+        "example": {
+          "text": "I could tell, it did not taste like anything I have had before.",
+          "translation": {
+            "fa": "می‌شد تشخیص داد؛ مزه‌اش شبیه هیچ‌چیزی نبود که قبلاً خورده باشم.",
+            "en": "I could tell, it did not taste like anything I have had before."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "it means a great deal to us",
+        "pronunciation": {
+          "faReading": "ایت مینز اِ گْرِیت دیل تو اَس",
+          "ipa": "/ɪt minz ə ɡreɪt dil tə ʌs/"
+        },
+        "meaning": {
+          "fa": "برای ما خیلی ارزش دارد",
+          "en": "It matters greatly to us"
+        },
+        "context": {
+          "fa": "قدردانی جمعی از تعریف مشتری است.",
+          "en": "Collective appreciation of the customer’s praise."
+        },
+        "example": {
+          "text": "I will share your words with my team, it means a great deal to us.",
+          "translation": {
+            "fa": "حرف‌هایتان را با گروهم در میان می‌گذارم؛ برایمان خیلی ارزش دارد.",
+            "en": "I will share your words with my team, it means a great deal to us."
+          }
+        }
+      },
+      {
+        "id": "reciprocal",
+        "text": "The pleasure is ours",
+        "pronunciation": {
+          "faReading": "ذِ پْلِژِر ایز آوِرز",
+          "ipa": "/ðə ˈplɛʒɚ ɪz aʊrz/"
+        },
+        "meaning": {
+          "fa": "باعث افتخار ماست",
+          "en": "The pleasure is ours"
+        },
+        "context": {
+          "fa": "پاسخ مؤدبانهٔ متقابل است، نه ادعای مالکیت یک شیء.",
+          "en": "A reciprocal courtesy, not ownership of a physical object."
+        },
+        "example": {
+          "text": "The pleasure is ours, and thank you for choosing our restaurant.",
+          "translation": {
+            "fa": "باعث افتخار ماست؛ ممنون که رستوران ما را انتخاب کردید.",
+            "en": "The pleasure is ours, and thank you for choosing our restaurant."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مسیر اصلی تبادل چیست؟",
+          "en": "What is the main progression of the exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شکایت از غذا و درخواست بازپرداخت",
+              "en": "A complaint about food and a refund request"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مصاحبهٔ استخدام آشپز",
+              "en": "A chef job interview"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بازخورد مثبت، توضیح شیوهٔ کار و قدردانی متقابل",
+              "en": "Positive feedback, explanations of practice and reciprocal appreciation"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سرآشپز بازخورد می‌پرسد، مشتری تعریف دقیق می‌کند و تعریف به گروه منتقل می‌شود.",
+          "en": "The chef invites feedback, the customer gives specific praise and the chef offers to share it with the team."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t07",
+          "t11",
+          "t15"
+        ]
+      },
+      {
+        "id": "favorite",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشتری کدام غذا را به‌عنوان محبوب‌ترینِ تجربه‌اش نام می‌برد؟",
+          "en": "Which dish does the customer name as the most enjoyed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ماهی گریل‌شده",
+              "en": "Grilled fish"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "استیک",
+              "en": "Steak"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خورش سنتی",
+              "en": "Traditional stew"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پاسخ به which dish ... the most، The grilled fish است.",
+          "en": "The answer to which dish ... the most is The grilled fish."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t04"
+        ]
+      },
+      {
+        "id": "routines",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام تطبیق رویه و زمان درست است؟",
+          "en": "Which practice-and-time pairing is correct?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ماهی هر عصر از بندر؛ سس هر صبح",
+              "en": "Fish from the harbor each evening; sauce each morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "انتخاب ماهی هر صبح از بندر؛ تهیهٔ تازهٔ سس هر عصر",
+              "en": "Fish selected each morning from the harbor; sauce prepared fresh each evening"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماهی و سس هر دو فقط آخر هفته",
+              "en": "Fish and sauce only at weekends"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "زمان ماهی every morning و زمان سس each evening است؛ این دو نباید جابه‌جا شوند.",
+          "en": "Fish uses every morning and sauce uses each evening; the routines should not be swapped."
+        },
+        "evidenceTurnIds": [
+          "t05",
+          "t07"
+        ]
+      },
+      {
+        "id": "touch",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "a beautiful touch دربارهٔ سس چه معنی دارد؟",
+          "en": "What does a beautiful touch mean about the sauce?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تماس فیزیکی زیبا با بشقاب",
+              "en": "Beautiful physical contact with the plate"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "نشانهٔ زیادبودن مقدار سس",
+              "en": "A sign of a large sauce quantity"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "جزئیات خوشایندی که تجربه را بهتر می‌کند",
+              "en": "A pleasing detail that enhances the experience"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "touch اینجا جزئیات افزودنیِ خوشایند است، نه تماس یا اندازه.",
+          "en": "Touch means an enhancing detail here, not contact or quantity."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "team-credit",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پاسخ سرآشپز دربارهٔ گروه چه کاری می‌کند؟",
+          "en": "What does the chef’s reply about the team do?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اعتبار تعریف را با گروه شریک می‌شود",
+              "en": "Shares the recognition with the team"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تعریف را فقط به خود نسبت می‌دهد",
+              "en": "Claims the praise only for himself"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حرف مشتری را رد می‌کند",
+              "en": "Rejects the customer’s comment"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "share your words with my team و us قدردانی را جمعی نگه می‌دارند.",
+          "en": "Share your words with my team and us keep appreciation collective."
+        },
+        "evidenceTurnIds": [
+          "t10",
+          "t11"
+        ]
+      },
+      {
+        "id": "most-welcome",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "most در You are most welcome چه نقشی دارد؟",
+          "en": "What is the function of most in You are most welcome?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مشتری را بالاتر از همهٔ مشتریان رتبه‌بندی می‌کند",
+              "en": "Ranks this customer above every other customer"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خوشامدگویی را مؤدبانه تقویت می‌کند",
+              "en": "Politely intensifies the welcome"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تعداد بازگشت‌های مشتری را مشخص می‌کند",
+              "en": "Specifies the number of the customer’s return visits"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "most قید شدت در عبارت مؤدبانه است؛ مقایسهٔ مشتری‌ها مطرح نیست.",
+          "en": "Most is an intensifier in a courtesy expression; customers are not being compared."
+        },
+        "evidenceTurnIds": [
+          "t13"
+        ]
+      },
+      {
+        "id": "could-tell",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "I could tell در این بافت چه می‌گوید؟",
+          "en": "What does I could tell mean in this context?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مشتری نمی‌توانست تفاوت طعم را تشخیص دهد",
+              "en": "The customer could not distinguish the flavor"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مشتری فقط می‌توانست دستور غذا را بازگو کند",
+              "en": "The customer could only recite the recipe"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مشتری از تجربهٔ مزه می‌توانست خاص‌بودن را تشخیص دهد",
+              "en": "The customer could recognize the distinctive quality from tasting"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "could توان تشخیص گذشته و tell به معنی تشخیص‌دادن است؛ گفتن اطلاعات به شخص دیگر نیست.",
+          "en": "Could expresses past ability and tell means recognize, not give information to another person."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08"
+        ]
+      }
+    ]
+  }
+}
