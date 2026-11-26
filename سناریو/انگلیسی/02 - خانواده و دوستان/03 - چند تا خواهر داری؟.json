@@ -1,0 +1,2399 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s03",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "چند تا خواهر داری؟",
+    "en": "Brothers and Sisters"
+  },
+  "objective": {
+    "fa": "تعداد خواهرها و برادرهای دو نفر و سن خواهرهایشان را پیدا کن.",
+    "en": "Identify each speaker’s number of brothers and sisters and their sisters’ ages."
+  },
+  "speakers": [
+    {
+      "id": "niloufar",
+      "name": "Niloufar",
+      "gender": "woman"
+    },
+    {
+      "id": "navid",
+      "name": "Navid",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "niloufar",
+      "text": "How many brothers and sisters do you have?",
+      "translation": {
+        "fa": "چند برادر و خواهر داری؟",
+        "en": "How many brothers and sisters do you have?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "بخشی از «چند تا»",
+            "en": "part of how many; asks a number"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بخشی از «چند تا»",
+            "en": "part of how many; asks a number"
+          }
+        },
+        {
+          "surface": "brothers",
+          "gloss": {
+            "fa": "برادرها",
+            "en": "brothers; male siblings"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "sisters",
+          "gloss": {
+            "fa": "خواهرها",
+            "en": "sisters; female siblings"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps form a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have?",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "navid",
+      "text": "I have two brothers and one sister, what about you?",
+      "translation": {
+        "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+        "en": "I have two brothers and one sister, what about you?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "brothers",
+          "gloss": {
+            "fa": "برادرها",
+            "en": "brothers; male siblings"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "sister,",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "بخشی از «تو چطور؟»",
+            "en": "part of what about you; asks the same question back"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "بخشی از «تو چطور؟»",
+            "en": "part of what about you; asks the same question back"
+          }
+        },
+        {
+          "surface": "you?",
+          "gloss": {
+            "fa": "بخشی از «تو چطور؟»",
+            "en": "part of what about you; asks the same question back"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "niloufar",
+      "text": "I have only one sister, how old are your siblings?",
+      "translation": {
+        "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+        "en": "I have only one sister, how old are your siblings?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "sister,",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "بخشی از «چند ساله»",
+            "en": "part of how old; asks age"
+          }
+        },
+        {
+          "surface": "old",
+          "gloss": {
+            "fa": "بخشی از «چند ساله»",
+            "en": "part of how old; asks age"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "siblings?",
+          "gloss": {
+            "fa": "خواهرها و برادرها",
+            "en": "siblings; brothers and sisters"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "navid",
+      "text": "My brother is fourteen, and my sister is ten years old.",
+      "translation": {
+        "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+        "en": "My brother is fourteen, and my sister is ten years old."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "brother",
+          "gloss": {
+            "fa": "برادر",
+            "en": "brother; a male sibling"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "fourteen,",
+          "gloss": {
+            "fa": "چهارده",
+            "en": "fourteen; 14"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "sister",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "years",
+          "gloss": {
+            "fa": "سال‌ها",
+            "en": "years; periods of twelve months"
+          }
+        },
+        {
+          "surface": "old.",
+          "gloss": {
+            "fa": "ساله؛ همراه ten years",
+            "en": "old; in ten years old, gives age"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "niloufar",
+      "text": "So your sister is the same age as my sister.",
+      "translation": {
+        "fa": "پس خواهرت هم‌سن خواهر من است.",
+        "en": "So your sister is the same age as my sister."
+      },
+      "tokens": [
+        {
+          "surface": "So",
+          "gloss": {
+            "fa": "پس؛ نتیجه از سن گفته‌شده",
+            "en": "so; draws a conclusion from the stated age"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "sister",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "same",
+          "gloss": {
+            "fa": "یکسان؛ هم‌سن در این جمله",
+            "en": "same; equal, here in age"
+          }
+        },
+        {
+          "surface": "age",
+          "gloss": {
+            "fa": "سن",
+            "en": "age; how old someone is"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "با؛ در «هم‌سنِ»",
+            "en": "as; with the same age, introduces the other person"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "sister.",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "navid",
+      "text": "That is a coincidence, do you get along well with your sister?",
+      "translation": {
+        "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+        "en": "That is a coincidence, do you get along well with your sister?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "coincidence,",
+          "gloss": {
+            "fa": "اتفاق جالب؛ هم‌زمانی اتفاقی",
+            "en": "coincidence; things matching by chance"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps form a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "بخشی از «کنار آمدن»",
+            "en": "part of get along; have a good relationship"
+          }
+        },
+        {
+          "surface": "along",
+          "gloss": {
+            "fa": "بخشی از «کنار آمدن»",
+            "en": "part of get along; have a good relationship"
+          }
+        },
+        {
+          "surface": "well",
+          "gloss": {
+            "fa": "خوب؛ به‌خوبی",
+            "en": "well; in a good way"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "sister?",
+          "gloss": {
+            "fa": "خواهر",
+            "en": "sister; a female sibling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "niloufar",
+      "text": "Yes, we study together and we share our secrets.",
+      "translation": {
+        "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+        "en": "Yes, we study together and we share our secrets."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "study",
+          "gloss": {
+            "fa": "درس خواندن؛ مطالعه",
+            "en": "study; learn by reading or practicing"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "share",
+          "gloss": {
+            "fa": "به اشتراک گذاشتن",
+            "en": "share; give others access to something"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "secrets.",
+          "gloss": {
+            "fa": "رازها",
+            "en": "secrets; things kept private"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "navid",
+      "text": "That is great, I wish my siblings and I did the same.",
+      "translation": {
+        "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+        "en": "That is great, I wish my siblings and I did the same."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "great,",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "wish",
+          "gloss": {
+            "fa": "آرزو کردن؛ ای کاش گفتن",
+            "en": "wish; want a different situation"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "siblings",
+          "gloss": {
+            "fa": "خواهرها و برادرها",
+            "en": "siblings; brothers and sisters"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "انجام می‌دادیم؛ همراه I wish",
+            "en": "did; in I wish ... did, a different situation is wanted"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "same.",
+          "gloss": {
+            "fa": "همان؛ یکسان",
+            "en": "same; identical or shared"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند تا»",
+          "en": "part of how many; asks a number"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند تا»",
+          "en": "part of how many; asks a number"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "brothers",
+        "text": "brothers",
+        "pronunciation": {
+          "faReading": "بْرَذِرز",
+          "ipa": "/ˈbrʌðɚz/"
+        },
+        "meaning": {
+          "fa": "برادرها",
+          "en": "brothers; male siblings"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "sisters",
+        "text": "sisters",
+        "pronunciation": {
+          "faReading": "سیستِرز",
+          "ipa": "/ˈsɪstɚz/"
+        },
+        "meaning": {
+          "fa": "خواهرها",
+          "en": "sisters; female siblings"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps form a question"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "sister",
+        "text": "sister",
+        "pronunciation": {
+          "faReading": "سیستِر",
+          "ipa": "/ˈsɪstɚ/"
+        },
+        "meaning": {
+          "fa": "خواهر",
+          "en": "sister; a female sibling"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تو چطور؟»",
+          "en": "part of what about you; asks the same question back"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تو چطور؟»",
+          "en": "part of what about you; asks the same question back"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "you-return-question",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تو چطور؟»",
+          "en": "part of what about you; asks the same question back"
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "how-age",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند ساله»",
+          "en": "part of how old; asks age"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "old",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند ساله»",
+          "en": "part of how old; asks age"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "siblings",
+        "text": "siblings",
+        "pronunciation": {
+          "faReading": "سیبْلینگْز",
+          "ipa": "/ˈsɪblɪŋz/"
+        },
+        "meaning": {
+          "fa": "خواهرها و برادرها",
+          "en": "siblings; brothers and sisters"
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "brother",
+        "text": "brother",
+        "pronunciation": {
+          "faReading": "بْرَذِر",
+          "ipa": "/ˈbrʌðɚ/"
+        },
+        "meaning": {
+          "fa": "برادر",
+          "en": "brother; a male sibling"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "fourteen",
+        "text": "fourteen",
+        "pronunciation": {
+          "faReading": "فورْتین",
+          "ipa": "/ˌfɔrˈtin/"
+        },
+        "meaning": {
+          "fa": "چهارده",
+          "en": "fourteen; 14"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "old-age",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "ساله؛ همراه ten years",
+          "en": "old; in ten years old, gives age"
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "So",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ نتیجه از سن گفته‌شده",
+          "en": "so; draws a conclusion from the stated age"
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "same",
+        "text": "same",
+        "pronunciation": {
+          "faReading": "سِیم",
+          "ipa": "/seɪm/"
+        },
+        "meaning": {
+          "fa": "یکسان؛ هم‌سن در این جمله",
+          "en": "same; equal, here in age"
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "age",
+        "text": "age",
+        "pronunciation": {
+          "faReading": "اِیج",
+          "ipa": "/eɪdʒ/"
+        },
+        "meaning": {
+          "fa": "سن",
+          "en": "age; how old someone is"
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "با؛ در «هم‌سنِ»",
+          "en": "as; with the same age, introduces the other person"
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "coincidence",
+        "text": "coincidence",
+        "pronunciation": {
+          "faReading": "کُواینْسِدِنس",
+          "ipa": "/koʊˈɪnsɪdəns/"
+        },
+        "meaning": {
+          "fa": "اتفاق جالب؛ هم‌زمانی اتفاقی",
+          "en": "coincidence; things matching by chance"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کنار آمدن»",
+          "en": "part of get along; have a good relationship"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "along",
+        "text": "along",
+        "pronunciation": {
+          "faReading": "اِلانگ",
+          "ipa": "/əˈlɔŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کنار آمدن»",
+          "en": "part of get along; have a good relationship"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "خوب؛ به‌خوبی",
+          "en": "well; in a good way"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "study",
+        "text": "study",
+        "pronunciation": {
+          "faReading": "سْتادی",
+          "ipa": "/ˈstʌdi/"
+        },
+        "meaning": {
+          "fa": "درس خواندن؛ مطالعه",
+          "en": "study; learn by reading or practicing"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "share",
+        "text": "share",
+        "pronunciation": {
+          "faReading": "شِر",
+          "ipa": "/ʃɛr/"
+        },
+        "meaning": {
+          "fa": "به اشتراک گذاشتن",
+          "en": "share; give others access to something"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "secrets",
+        "text": "secrets",
+        "pronunciation": {
+          "faReading": "سیکْرِتس",
+          "ipa": "/ˈsikrɪts/"
+        },
+        "meaning": {
+          "fa": "رازها",
+          "en": "secrets; things kept private"
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "That is great, I wish my siblings and I did the same.",
+          "translation": {
+            "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+            "en": "That is great, I wish my siblings and I did the same."
+          }
+        }
+      },
+      {
+        "id": "wish",
+        "text": "wish",
+        "pronunciation": {
+          "faReading": "ویش",
+          "ipa": "/wɪʃ/"
+        },
+        "meaning": {
+          "fa": "آرزو کردن؛ ای کاش گفتن",
+          "en": "wish; want a different situation"
+        },
+        "example": {
+          "text": "That is great, I wish my siblings and I did the same.",
+          "translation": {
+            "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+            "en": "That is great, I wish my siblings and I did the same."
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "انجام می‌دادیم؛ همراه I wish",
+          "en": "did; in I wish ... did, a different situation is wanted"
+        },
+        "example": {
+          "text": "That is great, I wish my siblings and I did the same.",
+          "translation": {
+            "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+            "en": "That is great, I wish my siblings and I did the same."
+          }
+        }
+      },
+      {
+        "id": "same-base",
+        "text": "same",
+        "pronunciation": {
+          "faReading": "سِیم",
+          "ipa": "/seɪm/"
+        },
+        "meaning": {
+          "fa": "همان؛ یکسان",
+          "en": "same; identical or shared"
+        },
+        "example": {
+          "text": "That is great, I wish my siblings and I did the same.",
+          "translation": {
+            "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+            "en": "That is great, I wish my siblings and I did the same."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "have-and-count",
+        "title": {
+          "fa": "تعداد خواهر و برادر",
+          "en": "Counting brothers and sisters"
+        },
+        "explanation": {
+          "fa": "با I بگو I have. برای پرسیدن تعداد، How many brothers and sisters do you have? را یاد بگیر. بعد از two، brothers با s می‌آید؛ بعد از one، sister بدون s است. only یعنی فقط.",
+          "en": "Say I have. Learn How many brothers and sisters do you have? to ask a number. Use brothers after two but sister after one. Only means no more than this."
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        },
+        "takeaway": {
+          "fa": "با how many تعداد را بپرس و با I have جواب بده.",
+          "en": "Ask with how many and answer with I have."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تعداد خواهر و برادر",
+              "en": "Counting brothers and sisters"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How many brothers and sisters do you have"
+                },
+                {
+                  "text": "how many + things + do you have"
+                },
+                {
+                  "fa": "چند خواهر و برادر داری",
+                  "en": "A number question"
+                }
+              ],
+              [
+                {
+                  "text": "two brothers and one sister"
+                },
+                {
+                  "text": "two + brothers; one + sister"
+                },
+                {
+                  "fa": "دو برادر و یک خواهر",
+                  "en": "More than one versus one"
+                }
+              ],
+              [
+                {
+                  "text": "only one sister"
+                },
+                {
+                  "text": "only + one sister"
+                },
+                {
+                  "fa": "فقط یک خواهر",
+                  "en": "A limited number"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "asking-age",
+        "title": {
+          "fa": "پرسیدن سن",
+          "en": "Asking about age"
+        },
+        "explanation": {
+          "fa": "How old are your siblings? یعنی «خواهر و برادرهایت چندساله‌اند؟». siblings نام کوتاه‌تر brothers and sisters است. برای یک نفر بگو is ten years old؛ برای چند نفر از are استفاده کن.",
+          "en": "How old are your siblings? asks their ages. Siblings means brothers and sisters. Use is ten years old for one person and are for more than one."
+        },
+        "example": {
+          "text": "My brother is fourteen, and my sister is ten years old.",
+          "translation": {
+            "fa": "برادرم چهارده‌ساله است و خواهرم ده‌ساله است.",
+            "en": "My brother is fourteen, and my sister is ten years old."
+          }
+        },
+        "takeaway": {
+          "fa": "برای سن از is یا are استفاده می‌کنیم، نه have.",
+          "en": "Use is or are for age, not have."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن سن",
+              "en": "Asking about age"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How old are your siblings"
+                },
+                {
+                  "text": "how old are + people"
+                },
+                {
+                  "fa": "خواهر و برادرهایت چندساله‌اند",
+                  "en": "Asking ages"
+                }
+              ],
+              [
+                {
+                  "text": "My brother is fourteen"
+                },
+                {
+                  "text": "person + is + age"
+                },
+                {
+                  "fa": "برادرم چهارده‌ساله است",
+                  "en": "Age without years old"
+                }
+              ],
+              [
+                {
+                  "text": "my sister is ten years old"
+                },
+                {
+                  "text": "person + is + age + years old"
+                },
+                {
+                  "fa": "خواهرم ده‌ساله است",
+                  "en": "Full age expression"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "same-age",
+        "title": {
+          "fa": "گفتن هم‌سن بودن",
+          "en": "Saying two people are the same age"
+        },
+        "explanation": {
+          "fa": "the same age as یعنی «هم‌سنِ». پس از as، کسی را بگو که مقایسه می‌کنی: my sister. So در شروع این جمله یعنی «پس»؛ نیلوفر از سن گفته‌شده نتیجه می‌گیرد.",
+          "en": "The same age as means equal in age. Put the other person after as: my sister. So here means that Niloufar is drawing a conclusion from the age she heard."
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        },
+        "takeaway": {
+          "fa": "the same age as را یک عبارت کامل یاد بگیر.",
+          "en": "Learn the same age as as a complete expression."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن هم‌سن بودن",
+              "en": "Saying two people are the same age"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the same age as my sister"
+                },
+                {
+                  "text": "the same age as + person"
+                },
+                {
+                  "fa": "هم‌سن خواهر من",
+                  "en": "Comparing ages"
+                }
+              ],
+              [
+                {
+                  "text": "So your sister"
+                },
+                {
+                  "text": "so + a conclusion"
+                },
+                {
+                  "fa": "پس خواهرت",
+                  "en": "Connecting to the earlier answer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "relationship-routines",
+        "title": {
+          "fa": "رابطهٔ خوب و کار مشترک",
+          "en": "Getting along and doing things together"
+        },
+        "explanation": {
+          "fa": "get along well یعنی «خوب کنار آمدن»؛ با خواهرت از with your sister استفاده می‌کنیم. we study و we share کارهای معمول آن‌ها هستند. our secrets یعنی رازهای ما.",
+          "en": "Get along well means have a good relationship. Add with your sister to say with whom. We study and we share describe usual activities. Our secrets means the secrets belonging to us."
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        },
+        "takeaway": {
+          "fa": "get along را با هم یاد بگیر، نه جداجدا.",
+          "en": "Learn get along together, not as separate literal words."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "رابطهٔ خوب و کار مشترک",
+              "en": "Getting along and doing things together"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "get along well with your sister"
+                },
+                {
+                  "text": "get along well with + person"
+                },
+                {
+                  "fa": "با خواهرت خوب کنار آمدن",
+                  "en": "A good relationship"
+                }
+              ],
+              [
+                {
+                  "text": "we study together"
+                },
+                {
+                  "text": "we + action + together"
+                },
+                {
+                  "fa": "با هم درس می‌خوانیم",
+                  "en": "A shared routine"
+                }
+              ],
+              [
+                {
+                  "text": "we share our secrets"
+                },
+                {
+                  "text": "we + share + our secrets"
+                },
+                {
+                  "fa": "رازهایمان را در میان می‌گذاریم",
+                  "en": "A shared habit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wish-as-chunk",
+        "title": {
+          "fa": "گفتن «کاش»",
+          "en": "Saying you wish things were different"
+        },
+        "explanation": {
+          "fa": "I wish ... did the same یعنی «کاش ... همین کار را می‌کردیم». نوید آرزو دارد او و خواهر و برادرهایش هم مثل نیلوفر با هم وقت بگذرانند. did اینجا نمی‌گوید قبلاً این کار را کرده‌اند؛ فعلاً کل جمله را یک الگوی آماده یاد بگیر.",
+          "en": "I wish ... did the same expresses a different situation that Navid wants now. Did does not report that they actually did it before. Learn the whole sentence as a useful wish pattern."
+        },
+        "example": {
+          "text": "That is great, I wish my siblings and I did the same.",
+          "translation": {
+            "fa": "عالی است؛ کاش من و خواهر و برادرهایم هم همین کار را می‌کردیم.",
+            "en": "That is great, I wish my siblings and I did the same."
+          }
+        },
+        "takeaway": {
+          "fa": "I wish یعنی «کاش»؛ این جمله گزارش یک اتفاق واقعی نیست.",
+          "en": "I wish expresses a wish, not a report of something that happened."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن «کاش»",
+              "en": "Saying you wish things were different"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I wish"
+                },
+                {
+                  "text": "I wish + a wanted change"
+                },
+                {
+                  "fa": "کاش",
+                  "en": "Introducing a wish"
+                }
+              ],
+              [
+                {
+                  "text": "my siblings and I did the same"
+                },
+                {
+                  "text": "people + did the same"
+                },
+                {
+                  "fa": "من و خواهر و برادرهایم هم همین کار را می‌کردیم",
+                  "en": "The change Navid wants"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "how-many",
+        "text": "How many brothers and sisters do you have?",
+        "pronunciation": {
+          "faReading": "هاو مِنی بْرَذِرز اَند سیستِرز دو یو هَو",
+          "ipa": "/haʊ ˈmɛni ˈbrʌðɚz ænd ˈsɪstɚz du ju hæv/"
+        },
+        "meaning": {
+          "fa": "چند خواهر و برادر داری؟",
+          "en": "How many brothers and sisters do you have?"
+        },
+        "context": {
+          "fa": "یک سؤال آماده برای صحبت دربارهٔ خانواده.",
+          "en": "A ready-to-use family question."
+        },
+        "example": {
+          "text": "How many brothers and sisters do you have?",
+          "translation": {
+            "fa": "چند برادر و خواهر داری؟",
+            "en": "How many brothers and sisters do you have?"
+          }
+        }
+      },
+      {
+        "id": "about-you",
+        "text": "what about you?",
+        "pronunciation": {
+          "faReading": "وات اِباوت یو",
+          "ipa": "/wʌt əˈbaʊt ju/"
+        },
+        "meaning": {
+          "fa": "تو چطور؟",
+          "en": "What about you?"
+        },
+        "context": {
+          "fa": "همان سؤال را به طرف مقابل برمی‌گرداند.",
+          "en": "Asks the same question back."
+        },
+        "example": {
+          "text": "I have two brothers and one sister, what about you?",
+          "translation": {
+            "fa": "دو برادر و یک خواهر دارم؛ تو چطور؟",
+            "en": "I have two brothers and one sister, what about you?"
+          }
+        }
+      },
+      {
+        "id": "how-old",
+        "text": "how old are your siblings?",
+        "pronunciation": {
+          "faReading": "هاو اُولد آر یور سیبْلینگْز",
+          "ipa": "/haʊ oʊld ɑr jʊr ˈsɪblɪŋz/"
+        },
+        "meaning": {
+          "fa": "خواهر و برادرهایت چندساله‌اند؟",
+          "en": "How old are your siblings?"
+        },
+        "context": {
+          "fa": "siblings هم خواهرها را می‌گوید و هم برادرها را.",
+          "en": "Siblings includes both brothers and sisters."
+        },
+        "example": {
+          "text": "I have only one sister, how old are your siblings?",
+          "translation": {
+            "fa": "من فقط یک خواهر دارم؛ خواهر و برادرهایت چند سال دارند؟",
+            "en": "I have only one sister, how old are your siblings?"
+          }
+        }
+      },
+      {
+        "id": "same-age",
+        "text": "the same age as my sister",
+        "pronunciation": {
+          "faReading": "ذِ سِیم اِیج اَز مای سیستِر",
+          "ipa": "/ðə seɪm eɪdʒ æz maɪ ˈsɪstɚ/"
+        },
+        "meaning": {
+          "fa": "هم‌سن خواهر من",
+          "en": "The same age as my sister"
+        },
+        "context": {
+          "fa": "برای برابر بودن سن دو نفر.",
+          "en": "Compares two people of equal age."
+        },
+        "example": {
+          "text": "So your sister is the same age as my sister.",
+          "translation": {
+            "fa": "پس خواهرت هم‌سن خواهر من است.",
+            "en": "So your sister is the same age as my sister."
+          }
+        }
+      },
+      {
+        "id": "get-along",
+        "text": "get along well with your sister",
+        "pronunciation": {
+          "faReading": "گِت اِلانگ وِل ویذ یور سیستِر",
+          "ipa": "/ɡɛt əˈlɔŋ wɛl wɪð jʊr ˈsɪstɚ/"
+        },
+        "meaning": {
+          "fa": "با خواهرت خوب کنار آمدن",
+          "en": "Get along well with your sister"
+        },
+        "context": {
+          "fa": "دربارهٔ رابطهٔ خوب است، نه راه رفتن.",
+          "en": "Asks about a good relationship, not walking."
+        },
+        "example": {
+          "text": "That is a coincidence, do you get along well with your sister?",
+          "translation": {
+            "fa": "چه اتفاق جالبی! با خواهرت خوب کنار می‌آیی؟",
+            "en": "That is a coincidence, do you get along well with your sister?"
+          }
+        }
+      },
+      {
+        "id": "share-secrets",
+        "text": "share our secrets",
+        "pronunciation": {
+          "faReading": "شِر آوِر سیکْرِتس",
+          "ipa": "/ʃɛr aʊr ˈsikrɪts/"
+        },
+        "meaning": {
+          "fa": "رازهایمان را در میان می‌گذاریم",
+          "en": "Share our secrets"
+        },
+        "context": {
+          "fa": "نشانهٔ اعتماد بین دو خواهر.",
+          "en": "Shows trust between the two sisters."
+        },
+        "example": {
+          "text": "Yes, we study together and we share our secrets.",
+          "translation": {
+            "fa": "بله، با هم درس می‌خوانیم و رازهایمان را با هم در میان می‌گذاریم.",
+            "en": "Yes, we study together and we share our secrets."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درس‌های مدرسه",
+              "en": "School subjects"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خواهر و برادرها و رابطه با آن‌ها",
+              "en": "Siblings and relationships with them"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تولد پدر و مادر",
+              "en": "Parents’ birthdays"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "تعداد، سن و رابطهٔ خواهر و برادرها را می‌پرسند.",
+          "en": "They ask about siblings’ numbers, ages and relationships."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t06"
+        ]
+      },
+      {
+        "id": "navid-number",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نوید چند خواهر و برادر دارد؟",
+          "en": "How many brothers and sisters does Navid have?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک برادر و دو خواهر",
+              "en": "One brother and two sisters"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو برادر و دو خواهر",
+              "en": "Two brothers and two sisters"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دو برادر و یک خواهر",
+              "en": "Two brothers and one sister"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "نوید می‌گوید two brothers and one sister.",
+          "en": "Navid says two brothers and one sister."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "niloufar-number",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیلوفر چند خواهر دارد؟",
+          "en": "How many sisters does Niloufar have?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط یک خواهر",
+              "en": "Only one"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو خواهر",
+              "en": "Two"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه خواهر",
+              "en": "Three"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نیلوفر می‌گوید I have only one sister.",
+          "en": "Niloufar says I have only one sister."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "sisters-age",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "خواهرهای نیلوفر و نوید چندساله‌اند؟",
+          "en": "How old are Niloufar’s and Navid’s sisters?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هر دو چهارده‌ساله‌اند.",
+              "en": "Both are fourteen."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هر دو ده‌ساله‌اند.",
+              "en": "Both are ten."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "یکی ده و دیگری چهارده‌ساله است.",
+              "en": "One is ten and the other fourteen."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "نوید سن خواهرش را ده می‌گوید و نیلوفر می‌گوید خواهرش هم‌سن اوست.",
+          "en": "Navid gives his sister’s age as ten, and Niloufar says their sisters are the same age."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "relationship",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیلوفر و خواهرش چه کار می‌کنند؟",
+          "en": "What do Niloufar and her sister do?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "با هم کار و خرید می‌کنند.",
+              "en": "They work and shop together."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "با هم سفر و آشپزی می‌کنند.",
+              "en": "They travel and cook together."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "با هم درس می‌خوانند و رازهایشان را می‌گویند.",
+              "en": "They study together and share secrets."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "نیلوفر از study together و share our secrets می‌گوید.",
+          "en": "Niloufar mentions study together and share our secrets."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

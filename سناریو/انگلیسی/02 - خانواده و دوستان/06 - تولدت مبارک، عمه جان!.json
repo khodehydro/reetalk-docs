@@ -1,0 +1,3385 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s06",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "تولدت مبارک، عمه جان!",
+    "en": "Happy Birthday, Aunt!"
+  },
+  "objective": {
+    "fa": "دلیل تماس مونا، کار بچه‌ها و زمان دیدار بعدی را تشخیص بده.",
+    "en": "Identify why Mona calls, what the children did, and when the next visit will be."
+  },
+  "speakers": [
+    {
+      "id": "mona",
+      "name": "Mona",
+      "gender": "woman"
+    },
+    {
+      "id": "aunt",
+      "name": "Aunt",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "mona",
+      "text": "Hello aunt, I am calling to wish you a happy birthday.",
+      "translation": {
+        "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+        "en": "Hello aunt, I am calling to wish you a happy birthday."
+      },
+      "tokens": [
+        {
+          "surface": "Hello",
+          "gloss": {
+            "fa": "سلام",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "aunt,",
+          "gloss": {
+            "fa": "عمه؛ خاله؛ اینجا عمه",
+            "en": "aunt; a parent's sister, here the aunt in the title"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "بخشی از «تلفن می‌کنم»",
+            "en": "am; with calling, the action happening now"
+          }
+        },
+        {
+          "surface": "calling",
+          "gloss": {
+            "fa": "تلفن می‌کنم",
+            "en": "calling; speaking to someone by phone"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "wish",
+          "gloss": {
+            "fa": "آرزو کردن؛ تبریک گفتن",
+            "en": "wish; express a hope for someone’s happiness"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوش؛ در تبریک تولد",
+            "en": "happy; part of a birthday wish"
+          }
+        },
+        {
+          "surface": "birthday.",
+          "gloss": {
+            "fa": "تولد؛ روز تولد",
+            "en": "birthday; the date someone was born"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "aunt",
+      "text": "Oh Mona, what a lovely surprise, thank you so much.",
+      "translation": {
+        "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+        "en": "Oh Mona, what a lovely surprise, thank you so much."
+      },
+      "tokens": [
+        {
+          "surface": "Oh",
+          "gloss": {
+            "fa": "اوه",
+            "en": "oh; shows surprise or a reaction"
+          }
+        },
+        {
+          "surface": "Mona,",
+          "gloss": {
+            "fa": "مونا",
+            "en": "Mona; a name"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "بخشی از «چه غافلگیری قشنگی!»",
+            "en": "part of what a; shows happy surprise"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "بخشی از «چه غافلگیری قشنگی!»",
+            "en": "part of what a; shows happy surprise"
+          }
+        },
+        {
+          "surface": "lovely",
+          "gloss": {
+            "fa": "دلپذیر؛ خیلی خوب",
+            "en": "lovely; very pleasant"
+          }
+        },
+        {
+          "surface": "surprise,",
+          "gloss": {
+            "fa": "غافلگیری",
+            "en": "surprise; something welcome and unexpected here"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "این‌قدر؛ پس",
+            "en": "so; to this degree, or therefore"
+          }
+        },
+        {
+          "surface": "much.",
+          "gloss": {
+            "fa": "خیلی؛ مقدار زیاد",
+            "en": "much; a large amount"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "mona",
+      "text": "You are very welcome, I hope you have a wonderful day today.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+        "en": "You are very welcome, I hope you have a wonderful day today."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "بخشی از «خواهش می‌کنم»",
+            "en": "part of you are very welcome; a warm reply to thanks"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "بخشی از «خواهش می‌کنم»",
+            "en": "part of you are very welcome; a warm reply to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "بخشی از «خواهش می‌کنم»",
+            "en": "part of you are very welcome; a warm reply to thanks"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشته باشی؛ روز خوبی بگذرانی",
+            "en": "have; experience a day"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "wonderful",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "day",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        },
+        {
+          "surface": "today.",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "aunt",
+      "text": "I already had a lovely breakfast with the family this morning.",
+      "translation": {
+        "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+        "en": "I already had a lovely breakfast with the family this morning."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "already",
+          "gloss": {
+            "fa": "قبلاً؛ تا همین حالا",
+            "en": "already; before now"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "خوردم؛ دربارهٔ صبحانه",
+            "en": "had; ate breakfast"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "lovely",
+          "gloss": {
+            "fa": "دلپذیر؛ خیلی خوب",
+            "en": "lovely; very pleasant"
+          }
+        },
+        {
+          "surface": "breakfast",
+          "gloss": {
+            "fa": "صبحانه",
+            "en": "breakfast; the first meal of the day"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "morning.",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "mona",
+      "text": "I am glad to hear that, did the children prepare something for you?",
+      "translation": {
+        "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+        "en": "I am glad to hear that, did the children prepare something for you?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال؛ خرسند",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "hear",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear; listen to news or sounds"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "کمک به پرسش گذشته",
+            "en": "did; helps ask about the past"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "children",
+          "gloss": {
+            "fa": "فرزندان؛ بچه‌ها",
+            "en": "children; more than one child"
+          }
+        },
+        {
+          "surface": "prepare",
+          "gloss": {
+            "fa": "آماده کردن",
+            "en": "prepare; make ready"
+          }
+        },
+        {
+          "surface": "something",
+          "gloss": {
+            "fa": "چیزی",
+            "en": "something; a thing not named"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "you?",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "aunt",
+      "text": "Yes, they decorated the house with balloons and sang a song for me.",
+      "translation": {
+        "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+        "en": "Yes, they decorated the house with balloons and sang a song for me."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها؛ بچه‌ها",
+            "en": "they; the children"
+          }
+        },
+        {
+          "surface": "decorated",
+          "gloss": {
+            "fa": "تزئین کردند",
+            "en": "decorated; made a place look festive"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "balloons",
+          "gloss": {
+            "fa": "بادکنک‌ها",
+            "en": "balloons; rubber decorations filled with air"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "sang",
+          "gloss": {
+            "fa": "آواز خواندند",
+            "en": "sang; performed a song"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "song",
+          "gloss": {
+            "fa": "آواز؛ ترانه",
+            "en": "song; words with music"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "me.",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "mona",
+      "text": "That is so sweet, I wish I could be there with you.",
+      "translation": {
+        "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+        "en": "That is so sweet, I wish I could be there with you."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "این‌قدر؛ پس",
+            "en": "so; to this degree, or therefore"
+          }
+        },
+        {
+          "surface": "sweet,",
+          "gloss": {
+            "fa": "مهربانانه؛ دوست‌داشتنی",
+            "en": "sweet; kind and touching here"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "wish",
+          "gloss": {
+            "fa": "ای کاش؛ آرزوی بودن آنجا",
+            "en": "wish; wants a different situation now"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "می‌توانستم؛ اکنون آنجا نیستم",
+            "en": "could; ability wanted but not available now"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا",
+            "en": "there; in or to that place"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "aunt",
+      "text": "You are always in my heart, and we will celebrate when you visit.",
+      "translation": {
+        "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+        "en": "You are always in my heart, and we will celebrate when you visit."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در؛ اینجا به‌معنی نزدیکی عاطفی",
+            "en": "in; part of in my heart, emotional closeness"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "heart,",
+          "gloss": {
+            "fa": "قلب؛ دل",
+            "en": "heart; the center of love or feeling here"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "celebrate",
+          "gloss": {
+            "fa": "جشن گرفتن",
+            "en": "celebrate; mark a happy occasion"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "visit.",
+          "gloss": {
+            "fa": "دیدار؛ دیدن کسی یا جایی",
+            "en": "visit; time spent seeing a person or place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "mona",
+      "text": "I will come next weekend, and I bring a small gift for you.",
+      "translation": {
+        "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+        "en": "I will come next weekend, and I bring a small gift for you."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمدن",
+            "en": "come; move toward this place"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "weekend,",
+          "gloss": {
+            "fa": "آخر هفته",
+            "en": "weekend; the end of the working week"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "می‌آورم؛ در متن برای دیدار آینده",
+            "en": "bring; intended as part of the future visit"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "gift",
+          "gloss": {
+            "fa": "هدیه",
+            "en": "gift; something given to someone"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "aunt",
+      "text": "I cannot wait to see you, thank you again for your warm call.",
+      "translation": {
+        "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+        "en": "I cannot wait to see you, thank you again for your warm call."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "cannot",
+          "gloss": {
+            "fa": "بخشی از «بی‌صبر بودن»",
+            "en": "part of cannot wait; be very excited for something"
+          }
+        },
+        {
+          "surface": "wait",
+          "gloss": {
+            "fa": "بخشی از «بی‌صبر بودن»",
+            "en": "part of cannot wait; be very excited for something"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "see",
+          "gloss": {
+            "fa": "دیدن",
+            "en": "see; meet or look at someone"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "again",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "warm",
+          "gloss": {
+            "fa": "صمیمانه؛ پرمهر",
+            "en": "warm; friendly and affectionate"
+          }
+        },
+        {
+          "surface": "call.",
+          "gloss": {
+            "fa": "تماس تلفنی؛ اینجا اسم است",
+            "en": "call; a phone conversation, a noun here"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "aunt",
+        "text": "aunt",
+        "pronunciation": {
+          "faReading": "اَنت",
+          "ipa": "/ænt/"
+        },
+        "meaning": {
+          "fa": "عمه؛ خاله؛ اینجا عمه",
+          "en": "aunt; a parent's sister, here the aunt in the title"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تلفن می‌کنم»",
+          "en": "am; with calling, the action happening now"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "calling",
+        "text": "calling",
+        "pronunciation": {
+          "faReading": "کالینگ",
+          "ipa": "/ˈkɔlɪŋ/"
+        },
+        "meaning": {
+          "fa": "تلفن می‌کنم",
+          "en": "calling; speaking to someone by phone"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "wish",
+        "text": "wish",
+        "pronunciation": {
+          "faReading": "ویش",
+          "ipa": "/wɪʃ/"
+        },
+        "meaning": {
+          "fa": "آرزو کردن؛ تبریک گفتن",
+          "en": "wish; express a hope for someone’s happiness"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوش؛ در تبریک تولد",
+          "en": "happy; part of a birthday wish"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "birthday",
+        "text": "birthday",
+        "pronunciation": {
+          "faReading": "بِرث‌دِی",
+          "ipa": "/ˈbɝθdeɪ/"
+        },
+        "meaning": {
+          "fa": "تولد؛ روز تولد",
+          "en": "birthday; the date someone was born"
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "oh",
+        "text": "Oh",
+        "pronunciation": {
+          "faReading": "اُو",
+          "ipa": "/oʊ/"
+        },
+        "meaning": {
+          "fa": "اوه",
+          "en": "oh; shows surprise or a reaction"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه غافلگیری قشنگی!»",
+          "en": "part of what a; shows happy surprise"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "a-admiration",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه غافلگیری قشنگی!»",
+          "en": "part of what a; shows happy surprise"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "lovely",
+        "text": "lovely",
+        "pronunciation": {
+          "faReading": "لاولی",
+          "ipa": "/ˈlʌvli/"
+        },
+        "meaning": {
+          "fa": "دلپذیر؛ خیلی خوب",
+          "en": "lovely; very pleasant"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "surprise",
+        "text": "surprise",
+        "pronunciation": {
+          "faReading": "سِرپْرایز",
+          "ipa": "/sɚˈpraɪz/"
+        },
+        "meaning": {
+          "fa": "غافلگیری",
+          "en": "surprise; something welcome and unexpected here"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "این‌قدر؛ پس",
+          "en": "so; to this degree, or therefore"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ مقدار زیاد",
+          "en": "much; a large amount"
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "بخشی از «خواهش می‌کنم»",
+          "en": "part of you are very welcome; a warm reply to thanks"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "بخشی از «خواهش می‌کنم»",
+          "en": "part of you are very welcome; a warm reply to thanks"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «خواهش می‌کنم»",
+          "en": "part of you are very welcome; a warm reply to thanks"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشته باشی؛ روز خوبی بگذرانی",
+          "en": "have; experience a day"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "already",
+        "text": "already",
+        "pronunciation": {
+          "faReading": "آل‌رِدی",
+          "ipa": "/ɔlˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "قبلاً؛ تا همین حالا",
+          "en": "already; before now"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "خوردم؛ دربارهٔ صبحانه",
+          "en": "had; ate breakfast"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "breakfast",
+        "text": "breakfast",
+        "pronunciation": {
+          "faReading": "بْرِکفِست",
+          "ipa": "/ˈbrɛkfəst/"
+        },
+        "meaning": {
+          "fa": "صبحانه",
+          "en": "breakfast; the first meal of the day"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "I already had a lovely breakfast with the family this morning.",
+          "translation": {
+            "fa": "امروز صبح با خانواده صبحانهٔ دلپذیری خوردم.",
+            "en": "I already had a lovely breakfast with the family this morning."
+          }
+        }
+      },
+      {
+        "id": "am-base",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; listen to news or sounds"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسش گذشته",
+          "en": "did; helps ask about the past"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "children",
+        "text": "children",
+        "pronunciation": {
+          "faReading": "چیلدرِن",
+          "ipa": "/ˈtʃɪldrən/"
+        },
+        "meaning": {
+          "fa": "فرزندان؛ بچه‌ها",
+          "en": "children; more than one child"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "prepare",
+        "text": "prepare",
+        "pronunciation": {
+          "faReading": "پْری‌پِر",
+          "ipa": "/prɪˈpɛr/"
+        },
+        "meaning": {
+          "fa": "آماده کردن",
+          "en": "prepare; make ready"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "something",
+        "text": "something",
+        "pronunciation": {
+          "faReading": "سَم‌ثینگ",
+          "ipa": "/ˈsʌmˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی",
+          "en": "something; a thing not named"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or length of time"
+        },
+        "example": {
+          "text": "I am glad to hear that, did the children prepare something for you?",
+          "translation": {
+            "fa": "خوشحالم این را می‌شنوم؛ بچه‌ها چیزی برایت آماده کردند؟",
+            "en": "I am glad to hear that, did the children prepare something for you?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها؛ بچه‌ها",
+          "en": "they; the children"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "decorated",
+        "text": "decorated",
+        "pronunciation": {
+          "faReading": "دِکِرِیتِد",
+          "ipa": "/ˈdɛkəreɪtɪd/"
+        },
+        "meaning": {
+          "fa": "تزئین کردند",
+          "en": "decorated; made a place look festive"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "house",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "خانه",
+          "en": "house; a building where people live"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "balloons",
+        "text": "balloons",
+        "pronunciation": {
+          "faReading": "بِلونز",
+          "ipa": "/bəˈlunz/"
+        },
+        "meaning": {
+          "fa": "بادکنک‌ها",
+          "en": "balloons; rubber decorations filled with air"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "sang",
+        "text": "sang",
+        "pronunciation": {
+          "faReading": "سَنگ",
+          "ipa": "/sæŋ/"
+        },
+        "meaning": {
+          "fa": "آواز خواندند",
+          "en": "sang; performed a song"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "song",
+        "text": "song",
+        "pronunciation": {
+          "faReading": "سانگ",
+          "ipa": "/sɔŋ/"
+        },
+        "meaning": {
+          "fa": "آواز؛ ترانه",
+          "en": "song; words with music"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "sweet",
+        "text": "sweet",
+        "pronunciation": {
+          "faReading": "سْویت",
+          "ipa": "/swit/"
+        },
+        "meaning": {
+          "fa": "مهربانانه؛ دوست‌داشتنی",
+          "en": "sweet; kind and touching here"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "wish-unreal",
+        "text": "wish",
+        "pronunciation": {
+          "faReading": "ویش",
+          "ipa": "/wɪʃ/"
+        },
+        "meaning": {
+          "fa": "ای کاش؛ آرزوی بودن آنجا",
+          "en": "wish; wants a different situation now"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "می‌توانستم؛ اکنون آنجا نیستم",
+          "en": "could; ability wanted but not available now"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا",
+          "en": "there; in or to that place"
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "are-base",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ اینجا به‌معنی نزدیکی عاطفی",
+          "en": "in; part of in my heart, emotional closeness"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "heart",
+        "text": "heart",
+        "pronunciation": {
+          "faReading": "هارت",
+          "ipa": "/hɑrt/"
+        },
+        "meaning": {
+          "fa": "قلب؛ دل",
+          "en": "heart; the center of love or feeling here"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; points to a future action"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "celebrate",
+        "text": "celebrate",
+        "pronunciation": {
+          "faReading": "سِلِبْرِیت",
+          "ipa": "/ˈsɛləbreɪt/"
+        },
+        "meaning": {
+          "fa": "جشن گرفتن",
+          "en": "celebrate; mark a happy occasion"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "visit",
+        "text": "visit",
+        "pronunciation": {
+          "faReading": "ویزیت",
+          "ipa": "/ˈvɪzɪt/"
+        },
+        "meaning": {
+          "fa": "دیدار؛ دیدن کسی یا جایی",
+          "en": "visit; time spent seeing a person or place"
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "آمدن",
+          "en": "come; move toward this place"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "weekend",
+        "text": "weekend",
+        "pronunciation": {
+          "faReading": "ویک‌اِند",
+          "ipa": "/ˈwikˌɛnd/"
+        },
+        "meaning": {
+          "fa": "آخر هفته",
+          "en": "weekend; the end of the working week"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "می‌آورم؛ در متن برای دیدار آینده",
+          "en": "bring; intended as part of the future visit"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "gift",
+        "text": "gift",
+        "pronunciation": {
+          "faReading": "گیفت",
+          "ipa": "/ɡɪft/"
+        },
+        "meaning": {
+          "fa": "هدیه",
+          "en": "gift; something given to someone"
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        }
+      },
+      {
+        "id": "cannot",
+        "text": "cannot",
+        "pronunciation": {
+          "faReading": "کَنات",
+          "ipa": "/ˈkænɑt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بی‌صبر بودن»",
+          "en": "part of cannot wait; be very excited for something"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "wait",
+        "text": "wait",
+        "pronunciation": {
+          "faReading": "وِیت",
+          "ipa": "/weɪt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بی‌صبر بودن»",
+          "en": "part of cannot wait; be very excited for something"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "see",
+        "text": "see",
+        "pronunciation": {
+          "faReading": "سی",
+          "ipa": "/si/"
+        },
+        "meaning": {
+          "fa": "دیدن",
+          "en": "see; meet or look at someone"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "warm",
+        "text": "warm",
+        "pronunciation": {
+          "faReading": "وورم",
+          "ipa": "/wɔrm/"
+        },
+        "meaning": {
+          "fa": "صمیمانه؛ پرمهر",
+          "en": "warm; friendly and affectionate"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      },
+      {
+        "id": "call",
+        "text": "call",
+        "pronunciation": {
+          "faReading": "کال",
+          "ipa": "/kɔl/"
+        },
+        "meaning": {
+          "fa": "تماس تلفنی؛ اینجا اسم است",
+          "en": "call; a phone conversation, a noun here"
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "calling-and-purpose",
+        "title": {
+          "fa": "دلیل تماس",
+          "en": "Explaining a phone call"
+        },
+        "explanation": {
+          "fa": "I am calling یعنی در حال تلفن‌کردن هستم. to wish you a happy birthday دلیل تماس را می‌گوید. wish در اینجا تبریک و آرزوی خوشی است؛ با I wish I could در ادامه فرق دارد.",
+          "en": "I am calling describes the call happening now. To wish you a happy birthday gives its purpose. Wish here expresses a greeting, different from I wish I could later in the conversation."
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        },
+        "takeaway": {
+          "fa": "to wish دلیل تماس را معرفی می‌کند.",
+          "en": "To wish introduces the purpose of the call."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دلیل تماس",
+              "en": "Explaining a phone call"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am calling"
+                },
+                {
+                  "text": "am + calling"
+                },
+                {
+                  "fa": "تلفن می‌کنم",
+                  "en": "The current action"
+                }
+              ],
+              [
+                {
+                  "text": "to wish you a happy birthday"
+                },
+                {
+                  "text": "to + wish + person + greeting"
+                },
+                {
+                  "fa": "برای تبریک تولدت",
+                  "en": "The purpose"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "warm-reactions",
+        "title": {
+          "fa": "واکنش گرم و آرزوی روز خوب",
+          "en": "Warm reactions and good wishes"
+        },
+        "explanation": {
+          "fa": "What a lovely surprise! یعنی «چه غافلگیری قشنگی!» و سؤال نیست. You are very welcome پاسخ تشکر است. I hope you have ... برای آرزوی روز خوب است؛ بعد از hope جمله‌ای مثل you have می‌آید.",
+          "en": "What a lovely surprise! shows pleasure rather than asking a question. You are very welcome replies to thanks. I hope you have ... introduces a good wish with a full sentence after hope."
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        },
+        "takeaway": {
+          "fa": "hope برای آرزویی است که می‌تواند اتفاق بیفتد.",
+          "en": "Hope expresses a good outcome that may happen."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "واکنش گرم و آرزوی روز خوب",
+              "en": "Warm reactions and good wishes"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what a lovely surprise"
+                },
+                {
+                  "text": "what a + description + thing"
+                },
+                {
+                  "fa": "چه غافلگیری قشنگی",
+                  "en": "A happy reaction"
+                }
+              ],
+              [
+                {
+                  "text": "You are very welcome"
+                },
+                {
+                  "text": "you are + welcome"
+                },
+                {
+                  "fa": "خواهش می‌کنم",
+                  "en": "Replying to thanks"
+                }
+              ],
+              [
+                {
+                  "text": "I hope you have a wonderful day"
+                },
+                {
+                  "text": "hope + a sentence"
+                },
+                {
+                  "fa": "امیدوارم روز خوبی داشته باشی",
+                  "en": "A good wish"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "birthday-past",
+        "title": {
+          "fa": "کارهای انجام‌شده در تولد",
+          "en": "Completed birthday activities"
+        },
+        "explanation": {
+          "fa": "had اینجا یعنی صبحانه خوردم، نه فقط داشتم. برای پرسش گذشته از did و prepare بدون ed استفاده می‌کنیم. decorated شکل گذشتهٔ decorate است؛ sang گذشتهٔ sing است و شکلش عوض می‌شود.",
+          "en": "Had here means ate breakfast. The past question uses did with prepare, not prepared. Decorated is the past of decorate; sang is the changed past form of sing."
+        },
+        "example": {
+          "text": "Yes, they decorated the house with balloons and sang a song for me.",
+          "translation": {
+            "fa": "بله، خانه را با بادکنک تزئین کردند و برایم آواز خواندند.",
+            "en": "Yes, they decorated the house with balloons and sang a song for me."
+          }
+        },
+        "takeaway": {
+          "fa": "بعد از did در سؤال، prepare به شکل ساده می‌آید.",
+          "en": "After did in the question, use prepare in its simple form."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کارهای انجام‌شده در تولد",
+              "en": "Completed birthday activities"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I already had a lovely breakfast"
+                },
+                {
+                  "text": "had + meal"
+                },
+                {
+                  "fa": "صبحانه خوردم",
+                  "en": "A completed meal"
+                }
+              ],
+              [
+                {
+                  "text": "did the children prepare something"
+                },
+                {
+                  "text": "did + people + prepare"
+                },
+                {
+                  "fa": "بچه‌ها چیزی آماده کردند",
+                  "en": "A past question"
+                }
+              ],
+              [
+                {
+                  "text": "they decorated the house"
+                },
+                {
+                  "text": "people + decorated"
+                },
+                {
+                  "fa": "خانه را تزئین کردند",
+                  "en": "A regular past form"
+                }
+              ],
+              [
+                {
+                  "text": "sang a song for me"
+                },
+                {
+                  "text": "sang + song"
+                },
+                {
+                  "fa": "برایم آواز خواندند",
+                  "en": "An irregular past form"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wish-and-could",
+        "title": {
+          "fa": "کاش آنجا بودم",
+          "en": "Wishing to be there"
+        },
+        "explanation": {
+          "fa": "I wish I could be there یعنی «کاش می‌توانستم آنجا باشم». مونا همین الان آنجا نیست. could در این جمله آرزوی توانستن است؛ لازم نیست آن را گزارش گذشته بفهمی. That is so sweet هم کار بچه‌ها را مهربانانه توصیف می‌کند، نه مزهٔ شیرین.",
+          "en": "I wish I could be there expresses wanting to be somewhere the speaker is not now. Could does not report a past visit. That is so sweet praises the children’s kindness, not a sugary taste."
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        },
+        "takeaway": {
+          "fa": "I wish I could ... را یک الگوی آماده برای «کاش می‌توانستم» یاد بگیر.",
+          "en": "Learn I wish I could ... as a pattern for a wanted ability or opportunity."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کاش آنجا بودم",
+              "en": "Wishing to be there"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I wish I could be there"
+                },
+                {
+                  "text": "I wish I could + action"
+                },
+                {
+                  "fa": "کاش می‌توانستم آنجا باشم",
+                  "en": "A wish about now"
+                }
+              ],
+              [
+                {
+                  "text": "That is so sweet"
+                },
+                {
+                  "text": "that is + description"
+                },
+                {
+                  "fa": "چه کار مهربانانه‌ای",
+                  "en": "A reaction to the children’s actions"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "future-visit",
+        "title": {
+          "fa": "دیدار آینده و when",
+          "en": "A future visit with when"
+        },
+        "explanation": {
+          "fa": "we will celebrate when you visit یعنی وقتی بیایی جشن می‌گیریم. بعد از when در این الگو، visit می‌آید نه will visit. در جملهٔ مونا I will come آینده را می‌گوید؛ and I bring در منبع آمده، ولی برای همین وعده در بیان معمول I will bring روشن‌تر است. متن اصلی را حفظ کرده‌ایم.",
+          "en": "We will celebrate when you visit uses will for the plan and visit after when. In Mona’s source line, I will come refers to the future but and I bring is less natural for the same promise; I will bring is the clearer usual form. The source wording is retained."
+        },
+        "example": {
+          "text": "I will come next weekend, and I bring a small gift for you.",
+          "translation": {
+            "fa": "آخر هفتهٔ آینده می‌آیم و هدیهٔ کوچکی برایت می‌آورم.",
+            "en": "I will come next weekend, and I bring a small gift for you."
+          }
+        },
+        "takeaway": {
+          "fa": "برای وعدهٔ آوردن هدیه، I will bring شکل طبیعی‌تر است.",
+          "en": "For the promise about the gift, I will bring is the more natural form."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دیدار آینده و when",
+              "en": "A future visit with when"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we will celebrate when you visit"
+                },
+                {
+                  "text": "will + action; when + visit"
+                },
+                {
+                  "fa": "وقتی بیایی جشن می‌گیریم",
+                  "en": "A future plan and its time"
+                }
+              ],
+              [
+                {
+                  "text": "I will come next weekend"
+                },
+                {
+                  "text": "will + come + future time"
+                },
+                {
+                  "fa": "آخر هفتهٔ آینده می‌آیم",
+                  "en": "The promised visit"
+                }
+              ],
+              [
+                {
+                  "text": "and I bring a small gift for you"
+                },
+                {
+                  "text": "source wording: I bring"
+                },
+                {
+                  "fa": "منظور وعدهٔ آوردن هدیه است؛ معمول‌تر: I will bring",
+                  "en": "Source form; the intended promise is usually I will bring"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cannot-wait",
+        "title": {
+          "fa": "بی‌صبر بودن برای دیدار",
+          "en": "Looking forward to a visit"
+        },
+        "explanation": {
+          "fa": "I cannot wait to see you یعنی «برای دیدنت بی‌صبرم». اینجا cannot wait معنی مثبت دارد: عمه مشتاق دیدار است. پس از to از see استفاده می‌شود. You are always in my heart هم نزدیکی عاطفی را می‌گوید، نه مکان واقعی.",
+          "en": "I cannot wait to see you expresses strong excitement about the visit. It is a positive expression here. To is followed by see. You are always in my heart expresses affection rather than a physical location."
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        },
+        "takeaway": {
+          "fa": "cannot wait to + کار، اشتیاق زیاد را می‌گوید.",
+          "en": "Cannot wait to plus an action expresses eagerness."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بی‌صبر بودن برای دیدار",
+              "en": "Looking forward to a visit"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I cannot wait to see you"
+                },
+                {
+                  "text": "cannot wait to + action"
+                },
+                {
+                  "fa": "برای دیدنت بی‌صبرم",
+                  "en": "Eagerness"
+                }
+              ],
+              [
+                {
+                  "text": "You are always in my heart"
+                },
+                {
+                  "text": "always + in my heart"
+                },
+                {
+                  "fa": "همیشه در قلب منی",
+                  "en": "Affection"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "happy-birthday",
+        "text": "a happy birthday",
+        "pronunciation": {
+          "faReading": "اِ هَپی بِرث‌دِی",
+          "ipa": "/ə ˈhæpi ˈbɝθdeɪ/"
+        },
+        "meaning": {
+          "fa": "تولدی خوش",
+          "en": "A happy birthday"
+        },
+        "context": {
+          "fa": "پس از wish you برای تبریک تولد آمده است.",
+          "en": "Follows wish you to give a birthday greeting."
+        },
+        "example": {
+          "text": "Hello aunt, I am calling to wish you a happy birthday.",
+          "translation": {
+            "fa": "سلام عمه، زنگ زده‌ام تولدت را تبریک بگویم.",
+            "en": "Hello aunt, I am calling to wish you a happy birthday."
+          }
+        }
+      },
+      {
+        "id": "lovely-surprise",
+        "text": "what a lovely surprise",
+        "pronunciation": {
+          "faReading": "وات اِ لاولی سِرپْرایز",
+          "ipa": "/wʌt ə ˈlʌvli sɚˈpraɪz/"
+        },
+        "meaning": {
+          "fa": "چه غافلگیری قشنگی",
+          "en": "What a lovely surprise"
+        },
+        "context": {
+          "fa": "خوشحالی عمه از تماس غیرمنتظرهٔ مونا.",
+          "en": "The aunt’s pleasure at Mona’s unexpected call."
+        },
+        "example": {
+          "text": "Oh Mona, what a lovely surprise, thank you so much.",
+          "translation": {
+            "fa": "اوه مونا، چه غافلگیری قشنگی! خیلی ممنونم.",
+            "en": "Oh Mona, what a lovely surprise, thank you so much."
+          }
+        }
+      },
+      {
+        "id": "very-welcome",
+        "text": "You are very welcome",
+        "pronunciation": {
+          "faReading": "یو آر وِری وِلکَم",
+          "ipa": "/ju ɑr ˈvɛri ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "You are very welcome"
+        },
+        "context": {
+          "fa": "پاسخ گرم به تشکر؛ خوشامد ورود نیست.",
+          "en": "A warm reply to thanks, not an arrival greeting."
+        },
+        "example": {
+          "text": "You are very welcome, I hope you have a wonderful day today.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم امروز روز فوق‌العاده‌ای داشته باشی.",
+            "en": "You are very welcome, I hope you have a wonderful day today."
+          }
+        }
+      },
+      {
+        "id": "sweet",
+        "text": "That is so sweet",
+        "pronunciation": {
+          "faReading": "ذَت ایز سُو سْویت",
+          "ipa": "/ðæt ɪz soʊ swit/"
+        },
+        "meaning": {
+          "fa": "چه کار مهربانانه‌ای",
+          "en": "That is so sweet"
+        },
+        "context": {
+          "fa": "تحسین تزئین و آواز بچه‌ها، نه مزهٔ غذا.",
+          "en": "Praises the children’s gesture, not the taste of food."
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "wish-could",
+        "text": "I wish I could be there with you",
+        "pronunciation": {
+          "faReading": "آی ویش آی کود بی ذِر ویذ یو",
+          "ipa": "/aɪ wɪʃ aɪ kʊd bi ðɛr wɪð ju/"
+        },
+        "meaning": {
+          "fa": "کاش می‌توانستم آنجا کنارت باشم",
+          "en": "I wish I could be there with you"
+        },
+        "context": {
+          "fa": "مونا آرزوی حضور دارد، اما اکنون آنجا نیست.",
+          "en": "Mona wants to be there but is not there now."
+        },
+        "example": {
+          "text": "That is so sweet, I wish I could be there with you.",
+          "translation": {
+            "fa": "چه کار مهربانانه‌ای! کاش می‌توانستم آنجا کنارت باشم.",
+            "en": "That is so sweet, I wish I could be there with you."
+          }
+        }
+      },
+      {
+        "id": "heart",
+        "text": "You are always in my heart",
+        "pronunciation": {
+          "faReading": "یو آر آلْوِیز این مای هارت",
+          "ipa": "/ju ɑr ˈɔlweɪz ɪn maɪ hɑrt/"
+        },
+        "meaning": {
+          "fa": "تو همیشه در قلب منی",
+          "en": "You are always in my heart"
+        },
+        "context": {
+          "fa": "نزدیکی عاطفی با وجود فاصله را می‌رساند.",
+          "en": "Expresses affection despite physical absence."
+        },
+        "example": {
+          "text": "You are always in my heart, and we will celebrate when you visit.",
+          "translation": {
+            "fa": "تو همیشه در قلب منی؛ وقتی به دیدنم بیایی جشن می‌گیریم.",
+            "en": "You are always in my heart, and we will celebrate when you visit."
+          }
+        }
+      },
+      {
+        "id": "cannot-wait",
+        "text": "I cannot wait to see you",
+        "pronunciation": {
+          "faReading": "آی کَنات وِیت تو سی یو",
+          "ipa": "/aɪ ˈkænɑt weɪt tə si ju/"
+        },
+        "meaning": {
+          "fa": "برای دیدنت بی‌صبرم",
+          "en": "I cannot wait to see you"
+        },
+        "context": {
+          "fa": "اشتیاق برای دیدار آینده است، نه شکایت از انتظار.",
+          "en": "Shows eagerness for the visit rather than a complaint."
+        },
+        "example": {
+          "text": "I cannot wait to see you, thank you again for your warm call.",
+          "translation": {
+            "fa": "برای دیدنت بی‌صبرم؛ باز هم بابت تماس پرمهرت ممنونم.",
+            "en": "I cannot wait to see you, thank you again for your warm call."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مونا چرا زنگ می‌زند؟",
+          "en": "Why does Mona call?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای دعوت به عروسی",
+              "en": "To invite her aunt to a wedding"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برای تبریک تولد عمه",
+              "en": "To wish her aunt a happy birthday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای پرسیدن نشانی هدیه",
+              "en": "To ask for a gift delivery address"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مونا در اولین جمله دلیل تماس را wish you a happy birthday می‌گوید.",
+          "en": "Mona states the purpose as wish you a happy birthday."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "breakfast",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "عمه صبح را چگونه گذرانده است؟",
+          "en": "What has the aunt already done that morning?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "با دوستان خرید کرده است.",
+              "en": "She went shopping with friends."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تنهایی بیرون صبحانه خورده است.",
+              "en": "She ate breakfast alone outside."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "با خانواده صبحانه خورده است.",
+              "en": "She had breakfast with the family."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "عمه از breakfast with the family this morning می‌گوید.",
+          "en": "The aunt mentions breakfast with the family this morning."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "children",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بچه‌ها برای عمه چه کردند؟",
+          "en": "What did the children do for the aunt?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خانه را تزئین کردند و آواز خواندند.",
+              "en": "They decorated the house and sang."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کیک پختند و به پارک رفتند.",
+              "en": "They baked a cake and went to the park."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هدیه خریدند و سفر کردند.",
+              "en": "They bought a gift and traveled."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "تزئین با بادکنک و آواز خواندن در متن آمده؛ کیک ذکر نشده است.",
+          "en": "The text states balloons and singing; it does not mention a cake."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "visit",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مونا چه زمانی می‌آید؟",
+          "en": "When will Mona visit?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فردا صبح",
+              "en": "Tomorrow morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آخر هفتهٔ آینده",
+              "en": "Next weekend"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مونا می‌گوید I will come next weekend.",
+          "en": "Mona says I will come next weekend."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "gift",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مونا می‌خواهد چه چیزی بیاورد؟",
+          "en": "What does Mona intend to bring?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آلبوم عکس",
+              "en": "A photo album"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "یک صبحانهٔ آماده",
+              "en": "A prepared breakfast"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هدیه‌ای کوچک",
+              "en": "A small gift"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "در جملهٔ مونا a small gift آمده؛ نوع دقیق هدیه مشخص نیست.",
+          "en": "Mona says a small gift without identifying its exact type."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      }
+    ]
+  }
+}

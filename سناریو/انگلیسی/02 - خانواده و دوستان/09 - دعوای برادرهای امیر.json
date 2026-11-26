@@ -1,0 +1,4056 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s09",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "دعوای برادرهای امیر",
+    "en": "Brothers Who Keep Arguing"
+  },
+  "objective": {
+    "fa": "علت دعوا، راه ناموفق قبلی و دو راهکار تازه را تشخیص بده.",
+    "en": "Identify the cause of the arguments, the failed earlier approach, and two new strategies."
+  },
+  "speakers": [
+    {
+      "id": "amiri",
+      "name": "Amiri",
+      "gender": "man"
+    },
+    {
+      "id": "hossein",
+      "name": "Hossein",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "amiri",
+      "text": "I have a problem, my two younger brothers are arguing every day.",
+      "translation": {
+        "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+        "en": "I have a problem, my two younger brothers are arguing every day."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "problem,",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; something difficult"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "younger",
+          "gloss": {
+            "fa": "کوچک‌تر؛ کم‌سن‌تر",
+            "en": "younger; not as old"
+          }
+        },
+        {
+          "surface": "brothers",
+          "gloss": {
+            "fa": "برادرها",
+            "en": "brothers; male siblings"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "بخشی از are arguing؛ وضعیت تکراری فعلی",
+            "en": "are; with arguing, a recurring current problem"
+          }
+        },
+        {
+          "surface": "arguing",
+          "gloss": {
+            "fa": "جر و بحث می‌کنند",
+            "en": "arguing; having angry disagreements"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "hossein",
+      "text": "That must be exhausting, what is the reason for their arguments?",
+      "translation": {
+        "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+        "en": "That must be exhausting, what is the reason for their arguments?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "حتماً؛ حدس مطمئن",
+            "en": "must; a confident guess, not an obligation"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "exhausting,",
+          "gloss": {
+            "fa": "بسیار خسته‌کننده",
+            "en": "exhausting; using a great deal of energy"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "reason",
+          "gloss": {
+            "fa": "دلیل",
+            "en": "reason; why something happens"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "arguments?",
+          "gloss": {
+            "fa": "جر و بحث‌ها",
+            "en": "arguments; angry disagreements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "amiri",
+      "text": "They always fight over the video games and the remote control.",
+      "translation": {
+        "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+        "en": "They always fight over the video games and the remote control."
+      },
+      "tokens": [
+        {
+          "surface": "They",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "fight",
+          "gloss": {
+            "fa": "دعوا؛ دعوا کردن",
+            "en": "fight; quarrel or a quarrel"
+          }
+        },
+        {
+          "surface": "over",
+          "gloss": {
+            "fa": "بر سرِ؛ موضوع اختلاف",
+            "en": "over; about the object of a dispute"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "video",
+          "gloss": {
+            "fa": "ویدئویی",
+            "en": "video; involving electronic images"
+          }
+        },
+        {
+          "surface": "games",
+          "gloss": {
+            "fa": "بازی‌ها",
+            "en": "games; activities played for fun"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "remote",
+          "gloss": {
+            "fa": "از راه دور؛ در remote control یعنی کنترل دستگاه",
+            "en": "remote; in remote control, a device operated from a distance"
+          }
+        },
+        {
+          "surface": "control.",
+          "gloss": {
+            "fa": "کنترل دستگاه؛ اسم",
+            "en": "control; in remote control, the device"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "hossein",
+      "text": "Have you tried making a schedule for who uses the games when?",
+      "translation": {
+        "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+        "en": "Have you tried making a schedule for who uses the games when?"
+      },
+      "tokens": [
+        {
+          "surface": "Have",
+          "gloss": {
+            "fa": "کمک به پرسش از تجربهٔ قبلی",
+            "en": "have; perfect auxiliary asking about an earlier attempt"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "tried",
+          "gloss": {
+            "fa": "امتحان کرده‌ام",
+            "en": "tried; attempted something or tested a method"
+          }
+        },
+        {
+          "surface": "making",
+          "gloss": {
+            "fa": "ساختن؛ تنظیم کردن",
+            "en": "making; producing or arranging"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "schedule",
+          "gloss": {
+            "fa": "برنامهٔ زمان‌بندی",
+            "en": "schedule; a plan assigning activities to times"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ مشخص کردن نوبت‌ها",
+            "en": "for; introduces what the schedule organizes"
+          }
+        },
+        {
+          "surface": "who",
+          "gloss": {
+            "fa": "چه کسی؛ در سؤالِ داخل جمله",
+            "en": "who; introduces the person assigned a turn"
+          }
+        },
+        {
+          "surface": "uses",
+          "gloss": {
+            "fa": "استفاده می‌کند",
+            "en": "uses; makes use of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "games",
+          "gloss": {
+            "fa": "بازی‌ها",
+            "en": "games; activities played for fun"
+          }
+        },
+        {
+          "surface": "when?",
+          "gloss": {
+            "fa": "چه زمانی؛ تعیین زمان استفاده",
+            "en": "when; asks at what time inside the schedule description"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "amiri",
+      "text": "I did, but they do not follow it at all and the fighting continues.",
+      "translation": {
+        "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+        "en": "I did, but they do not follow it at all and the fighting continues."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "did,",
+          "gloss": {
+            "fa": "این کار را کردم؛ برنامه تنظیم کردم",
+            "en": "did; stands for tried making a schedule"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "بخشی از منفی do not follow",
+            "en": "do; auxiliary for the negative follow"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "follow",
+          "gloss": {
+            "fa": "رعایت کردن",
+            "en": "follow; obey a rule or plan"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "بخشی از «اصلاً»",
+            "en": "part of at all; strengthens the negative"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "بخشی از «اصلاً»",
+            "en": "part of at all; strengthens the negative"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "fighting",
+          "gloss": {
+            "fa": "دعوا کردن",
+            "en": "fighting; quarreling"
+          }
+        },
+        {
+          "surface": "continues.",
+          "gloss": {
+            "fa": "ادامه دارد",
+            "en": "continues; keeps happening"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "hossein",
+      "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+      "translation": {
+        "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+        "en": "Perhaps you should talk to them together and explain your feelings calmly."
+      },
+      "tokens": [
+        {
+          "surface": "Perhaps",
+          "gloss": {
+            "fa": "شاید",
+            "en": "perhaps; maybe"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "حرف زدن؛ صحبت کردن",
+            "en": "talk; speak with someone"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ همراه talk برای مخاطب",
+            "en": "to; preposition marking the people spoken to"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; the people receiving an action"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "explain",
+          "gloss": {
+            "fa": "توضیح دادن",
+            "en": "explain; make something clear"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "feelings",
+          "gloss": {
+            "fa": "احساسات",
+            "en": "feelings; emotions"
+          }
+        },
+        {
+          "surface": "calmly.",
+          "gloss": {
+            "fa": "با آرامش",
+            "en": "calmly; without anger or agitation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "amiri",
+      "text": "I have tried, but one of them always starts the fight again.",
+      "translation": {
+        "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+        "en": "I have tried, but one of them always starts the fight again."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء have tried؛ تلاش قبلی مرتبط با حال",
+            "en": "have; perfect auxiliary in have tried"
+          }
+        },
+        {
+          "surface": "tried,",
+          "gloss": {
+            "fa": "امتحان کرده‌ام",
+            "en": "tried; attempted something or tested a method"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; the people receiving an action"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "starts",
+          "gloss": {
+            "fa": "شروع می‌کند",
+            "en": "starts; begins"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "fight",
+          "gloss": {
+            "fa": "دعوا؛ دعوا کردن",
+            "en": "fight; quarrel or a quarrel"
+          }
+        },
+        {
+          "surface": "again.",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "hossein",
+      "text": "Maybe setting a clear rule that both of them agree on would help.",
+      "translation": {
+        "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+        "en": "Maybe setting a clear rule that both of them agree on would help."
+      },
+      "tokens": [
+        {
+          "surface": "Maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "setting",
+          "gloss": {
+            "fa": "تعیین کردن",
+            "en": "setting; establishing a rule"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "clear",
+          "gloss": {
+            "fa": "روشن؛ مشخص",
+            "en": "clear; easy to understand"
+          }
+        },
+        {
+          "surface": "rule",
+          "gloss": {
+            "fa": "قانون",
+            "en": "rule; an agreed or imposed expectation of behavior"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "که؛ قانون را توضیح می‌دهد",
+            "en": "that; introduces a clause describing the rule"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; the people receiving an action"
+          }
+        },
+        {
+          "surface": "agree",
+          "gloss": {
+            "fa": "موافق بودن",
+            "en": "agree; have the same opinion"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "دربارهٔ؛ جزء agree on",
+            "en": "on; with agree, accept the same rule"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "احتمالاً؛ پیشنهادِ نتیجهٔ ممکن",
+            "en": "would; presents a possible result of the suggestion"
+          }
+        },
+        {
+          "surface": "help.",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "amiri",
+      "text": "That is a good idea, and I can also give them tasks to do together.",
+      "translation": {
+        "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+        "en": "That is a good idea, and I can also give them tasks to do together."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; the people receiving an action"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "کارها؛ وظیفه‌ها",
+            "en": "tasks; pieces of work to do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ کاری که باید انجام بدهند",
+            "en": "to; introduces the task to be done"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهند",
+            "en": "do; carry out a task"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "hossein",
+      "text": "Working together on a task often reduces tension between siblings.",
+      "translation": {
+        "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+        "en": "Working together on a task often reduces tension between siblings."
+      },
+      "tokens": [
+        {
+          "surface": "Working",
+          "gloss": {
+            "fa": "کار کردن؛ نام فعالیت",
+            "en": "working; the activity of doing a task"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "task",
+          "gloss": {
+            "fa": "کار؛ وظیفه",
+            "en": "task; a piece of work to do"
+          }
+        },
+        {
+          "surface": "often",
+          "gloss": {
+            "fa": "اغلب",
+            "en": "often; many times"
+          }
+        },
+        {
+          "surface": "reduces",
+          "gloss": {
+            "fa": "کاهش می‌دهد",
+            "en": "reduces; makes something less intense"
+          }
+        },
+        {
+          "surface": "tension",
+          "gloss": {
+            "fa": "تنش",
+            "en": "tension; strained feelings between people"
+          }
+        },
+        {
+          "surface": "between",
+          "gloss": {
+            "fa": "بین",
+            "en": "between; linking or separating people or things"
+          }
+        },
+        {
+          "surface": "siblings.",
+          "gloss": {
+            "fa": "خواهرها و برادرها",
+            "en": "siblings; brothers and sisters"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "amiri",
+      "text": "I will try that this weekend, thank you for your advice.",
+      "translation": {
+        "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+        "en": "I will try that this weekend, thank you for your advice."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "weekend,",
+          "gloss": {
+            "fa": "آخر هفته",
+            "en": "weekend; the end of the working week"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "advice.",
+          "gloss": {
+            "fa": "توصیه؛ راهنمایی",
+            "en": "advice; suggestions about what to do"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "hossein",
+      "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+        "en": "You are welcome, and I hope your brothers start to cooperate soon."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "خواهش می‌کنم",
+            "en": "welcome; in you are welcome, a reply to thanks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "brothers",
+          "gloss": {
+            "fa": "برادرها",
+            "en": "brothers; male siblings"
+          }
+        },
+        {
+          "surface": "start",
+          "gloss": {
+            "fa": "شروع کردن",
+            "en": "start; begin"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "cooperate",
+          "gloss": {
+            "fa": "همکاری کردن",
+            "en": "cooperate; work together toward a shared result"
+          }
+        },
+        {
+          "surface": "soon.",
+          "gloss": {
+            "fa": "به‌زودی",
+            "en": "soon; after a short time"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; something difficult"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "younger",
+        "text": "younger",
+        "pronunciation": {
+          "faReading": "یَنگِر",
+          "ipa": "/ˈjʌŋɡɚ/"
+        },
+        "meaning": {
+          "fa": "کوچک‌تر؛ کم‌سن‌تر",
+          "en": "younger; not as old"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "brothers",
+        "text": "brothers",
+        "pronunciation": {
+          "faReading": "بْرَذِرز",
+          "ipa": "/ˈbrʌðɚz/"
+        },
+        "meaning": {
+          "fa": "برادرها",
+          "en": "brothers; male siblings"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "بخشی از are arguing؛ وضعیت تکراری فعلی",
+          "en": "are; with arguing, a recurring current problem"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "arguing",
+        "text": "arguing",
+        "pronunciation": {
+          "faReading": "آرگیواینگ",
+          "ipa": "/ˈɑrɡjuɪŋ/"
+        },
+        "meaning": {
+          "fa": "جر و بحث می‌کنند",
+          "en": "arguing; having angry disagreements"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ حدس مطمئن",
+          "en": "must; a confident guess, not an obligation"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "exhausting",
+        "text": "exhausting",
+        "pronunciation": {
+          "faReading": "ایگْزاستینگ",
+          "ipa": "/ɪɡˈzɔstɪŋ/"
+        },
+        "meaning": {
+          "fa": "بسیار خسته‌کننده",
+          "en": "exhausting; using a great deal of energy"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "reason",
+        "text": "reason",
+        "pronunciation": {
+          "faReading": "ریزِن",
+          "ipa": "/ˈrizən/"
+        },
+        "meaning": {
+          "fa": "دلیل",
+          "en": "reason; why something happens"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or length of time"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "their",
+        "text": "their",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "مال آن‌ها",
+          "en": "their; belonging to them"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "arguments",
+        "text": "arguments",
+        "pronunciation": {
+          "faReading": "آرگیومِنتس",
+          "ipa": "/ˈɑrɡjəmənts/"
+        },
+        "meaning": {
+          "fa": "جر و بحث‌ها",
+          "en": "arguments; angry disagreements"
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "They",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "fight",
+        "text": "fight",
+        "pronunciation": {
+          "faReading": "فایت",
+          "ipa": "/faɪt/"
+        },
+        "meaning": {
+          "fa": "دعوا؛ دعوا کردن",
+          "en": "fight; quarrel or a quarrel"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "over",
+        "text": "over",
+        "pronunciation": {
+          "faReading": "اُووِر",
+          "ipa": "/ˈoʊvɚ/"
+        },
+        "meaning": {
+          "fa": "بر سرِ؛ موضوع اختلاف",
+          "en": "over; about the object of a dispute"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "video",
+        "text": "video",
+        "pronunciation": {
+          "faReading": "ویدی‌اُو",
+          "ipa": "/ˈvɪdioʊ/"
+        },
+        "meaning": {
+          "fa": "ویدئویی",
+          "en": "video; involving electronic images"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "games",
+        "text": "games",
+        "pronunciation": {
+          "faReading": "گِیمز",
+          "ipa": "/ɡeɪmz/"
+        },
+        "meaning": {
+          "fa": "بازی‌ها",
+          "en": "games; activities played for fun"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "remote",
+        "text": "remote",
+        "pronunciation": {
+          "faReading": "ری‌مُوت",
+          "ipa": "/rɪˈmoʊt/"
+        },
+        "meaning": {
+          "fa": "از راه دور؛ در remote control یعنی کنترل دستگاه",
+          "en": "remote; in remote control, a device operated from a distance"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "control",
+        "text": "control",
+        "pronunciation": {
+          "faReading": "کِنترُول",
+          "ipa": "/kənˈtroʊl/"
+        },
+        "meaning": {
+          "fa": "کنترل دستگاه؛ اسم",
+          "en": "control; in remote control, the device"
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "have-perfect",
+        "text": "Have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسش از تجربهٔ قبلی",
+          "en": "have; perfect auxiliary asking about an earlier attempt"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "tried",
+        "text": "tried",
+        "pronunciation": {
+          "faReading": "تْراید",
+          "ipa": "/traɪd/"
+        },
+        "meaning": {
+          "fa": "امتحان کرده‌ام",
+          "en": "tried; attempted something or tested a method"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "making",
+        "text": "making",
+        "pronunciation": {
+          "faReading": "مِیکینگ",
+          "ipa": "/ˈmeɪkɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساختن؛ تنظیم کردن",
+          "en": "making; producing or arranging"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "schedule",
+        "text": "schedule",
+        "pronunciation": {
+          "faReading": "سْکِجول",
+          "ipa": "/ˈskɛdʒul/"
+        },
+        "meaning": {
+          "fa": "برنامهٔ زمان‌بندی",
+          "en": "schedule; a plan assigning activities to times"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "for-purpose",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ مشخص کردن نوبت‌ها",
+          "en": "for; introduces what the schedule organizes"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "who",
+        "text": "who",
+        "pronunciation": {
+          "faReading": "هو",
+          "ipa": "/hu/"
+        },
+        "meaning": {
+          "fa": "چه کسی؛ در سؤالِ داخل جمله",
+          "en": "who; introduces the person assigned a turn"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "uses",
+        "text": "uses",
+        "pronunciation": {
+          "faReading": "یوزِز",
+          "ipa": "/ˈjuzɪz/"
+        },
+        "meaning": {
+          "fa": "استفاده می‌کند",
+          "en": "uses; makes use of"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "چه زمانی؛ تعیین زمان استفاده",
+          "en": "when; asks at what time inside the schedule description"
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "این کار را کردم؛ برنامه تنظیم کردم",
+          "en": "did; stands for tried making a schedule"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "بخشی از منفی do not follow",
+          "en": "do; auxiliary for the negative follow"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "follow",
+        "text": "follow",
+        "pronunciation": {
+          "faReading": "فالُو",
+          "ipa": "/ˈfɑloʊ/"
+        },
+        "meaning": {
+          "fa": "رعایت کردن",
+          "en": "follow; obey a rule or plan"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «اصلاً»",
+          "en": "part of at all; strengthens the negative"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "بخشی از «اصلاً»",
+          "en": "part of at all; strengthens the negative"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "fighting",
+        "text": "fighting",
+        "pronunciation": {
+          "faReading": "فایتینگ",
+          "ipa": "/ˈfaɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "دعوا کردن",
+          "en": "fighting; quarreling"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "continues",
+        "text": "continues",
+        "pronunciation": {
+          "faReading": "کِنتینیوز",
+          "ipa": "/kənˈtɪnjuz/"
+        },
+        "meaning": {
+          "fa": "ادامه دارد",
+          "en": "continues; keeps happening"
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "perhaps",
+        "text": "Perhaps",
+        "pronunciation": {
+          "faReading": "پِرهَپس",
+          "ipa": "/pɚˈhæps/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "perhaps; maybe"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "talk",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "حرف زدن؛ صحبت کردن",
+          "en": "talk; speak with someone"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ همراه talk برای مخاطب",
+          "en": "to; preposition marking the people spoken to"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; the people receiving an action"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "explain",
+        "text": "explain",
+        "pronunciation": {
+          "faReading": "ایکسْپْلِین",
+          "ipa": "/ɪkˈspleɪn/"
+        },
+        "meaning": {
+          "fa": "توضیح دادن",
+          "en": "explain; make something clear"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "feelings",
+        "text": "feelings",
+        "pronunciation": {
+          "faReading": "فیلینگْز",
+          "ipa": "/ˈfilɪŋz/"
+        },
+        "meaning": {
+          "fa": "احساسات",
+          "en": "feelings; emotions"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "calmly",
+        "text": "calmly",
+        "pronunciation": {
+          "faReading": "کاملی",
+          "ipa": "/ˈkɑmli/"
+        },
+        "meaning": {
+          "fa": "با آرامش",
+          "en": "calmly; without anger or agitation"
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "have-perfect-2",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء have tried؛ تلاش قبلی مرتبط با حال",
+          "en": "have; perfect auxiliary in have tried"
+        },
+        "example": {
+          "text": "I have tried, but one of them always starts the fight again.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+            "en": "I have tried, but one of them always starts the fight again."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "I have tried, but one of them always starts the fight again.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+            "en": "I have tried, but one of them always starts the fight again."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I have tried, but one of them always starts the fight again.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+            "en": "I have tried, but one of them always starts the fight again."
+          }
+        }
+      },
+      {
+        "id": "starts",
+        "text": "starts",
+        "pronunciation": {
+          "faReading": "سْتارتس",
+          "ipa": "/stɑrts/"
+        },
+        "meaning": {
+          "fa": "شروع می‌کند",
+          "en": "starts; begins"
+        },
+        "example": {
+          "text": "I have tried, but one of them always starts the fight again.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+            "en": "I have tried, but one of them always starts the fight again."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "I have tried, but one of them always starts the fight again.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی یکی‌شان همیشه دوباره دعوا را شروع می‌کند.",
+            "en": "I have tried, but one of them always starts the fight again."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "Maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "setting",
+        "text": "setting",
+        "pronunciation": {
+          "faReading": "سِتینگ",
+          "ipa": "/ˈsɛtɪŋ/"
+        },
+        "meaning": {
+          "fa": "تعیین کردن",
+          "en": "setting; establishing a rule"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "روشن؛ مشخص",
+          "en": "clear; easy to understand"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "rule",
+        "text": "rule",
+        "pronunciation": {
+          "faReading": "رول",
+          "ipa": "/rul/"
+        },
+        "meaning": {
+          "fa": "قانون",
+          "en": "rule; an agreed or imposed expectation of behavior"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "that-relative",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "که؛ قانون را توضیح می‌دهد",
+          "en": "that; introduces a clause describing the rule"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two together"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ؛ جزء agree on",
+          "en": "on; with agree, accept the same rule"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "احتمالاً؛ پیشنهادِ نتیجهٔ ممکن",
+          "en": "would; presents a possible result of the suggestion"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "tasks",
+        "text": "tasks",
+        "pronunciation": {
+          "faReading": "تَسکس",
+          "ipa": "/tæsks/"
+        },
+        "meaning": {
+          "fa": "کارها؛ وظیفه‌ها",
+          "en": "tasks; pieces of work to do"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "to-task",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ کاری که باید انجام بدهند",
+          "en": "to; introduces the task to be done"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "do-lexical",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام بدهند",
+          "en": "do; carry out a task"
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        }
+      },
+      {
+        "id": "working",
+        "text": "Working",
+        "pronunciation": {
+          "faReading": "وِرکینگ",
+          "ipa": "/ˈwɝkɪŋ/"
+        },
+        "meaning": {
+          "fa": "کار کردن؛ نام فعالیت",
+          "en": "working; the activity of doing a task"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "on-base",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "task",
+        "text": "task",
+        "pronunciation": {
+          "faReading": "تَسک",
+          "ipa": "/tæsk/"
+        },
+        "meaning": {
+          "fa": "کار؛ وظیفه",
+          "en": "task; a piece of work to do"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "often",
+        "text": "often",
+        "pronunciation": {
+          "faReading": "آفِن",
+          "ipa": "/ˈɔfən/"
+        },
+        "meaning": {
+          "fa": "اغلب",
+          "en": "often; many times"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "reduces",
+        "text": "reduces",
+        "pronunciation": {
+          "faReading": "ری‌دوسِز",
+          "ipa": "/rɪˈdusɪz/"
+        },
+        "meaning": {
+          "fa": "کاهش می‌دهد",
+          "en": "reduces; makes something less intense"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "tension",
+        "text": "tension",
+        "pronunciation": {
+          "faReading": "تِنشِن",
+          "ipa": "/ˈtɛnʃən/"
+        },
+        "meaning": {
+          "fa": "تنش",
+          "en": "tension; strained feelings between people"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "between",
+        "text": "between",
+        "pronunciation": {
+          "faReading": "بی‌توین",
+          "ipa": "/bɪˈtwin/"
+        },
+        "meaning": {
+          "fa": "بین",
+          "en": "between; linking or separating people or things"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "siblings",
+        "text": "siblings",
+        "pronunciation": {
+          "faReading": "سیبْلینگْز",
+          "ipa": "/ˈsɪblɪŋz/"
+        },
+        "meaning": {
+          "fa": "خواهرها و برادرها",
+          "en": "siblings; brothers and sisters"
+        },
+        "example": {
+          "text": "Working together on a task often reduces tension between siblings.",
+          "translation": {
+            "fa": "همکاری روی یک کار اغلب تنش بین خواهر و برادرها را کم می‌کند.",
+            "en": "Working together on a task often reduces tension between siblings."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; points to a future action"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "weekend",
+        "text": "weekend",
+        "pronunciation": {
+          "faReading": "ویک‌اِند",
+          "ipa": "/ˈwikˌɛnd/"
+        },
+        "meaning": {
+          "fa": "آخر هفته",
+          "en": "weekend; the end of the working week"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "advice",
+        "text": "advice",
+        "pronunciation": {
+          "faReading": "اَدوایس",
+          "ipa": "/ədˈvaɪs/"
+        },
+        "meaning": {
+          "fa": "توصیه؛ راهنمایی",
+          "en": "advice; suggestions about what to do"
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      },
+      {
+        "id": "are-base",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "welcome; in you are welcome, a reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "start",
+        "text": "start",
+        "pronunciation": {
+          "faReading": "سْتارت",
+          "ipa": "/stɑrt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن",
+          "en": "start; begin"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "cooperate",
+        "text": "cooperate",
+        "pronunciation": {
+          "faReading": "کُوآپِرِیت",
+          "ipa": "/koʊˈɑpəreɪt/"
+        },
+        "meaning": {
+          "fa": "همکاری کردن",
+          "en": "cooperate; work together toward a shared result"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      },
+      {
+        "id": "soon",
+        "text": "soon",
+        "pronunciation": {
+          "faReading": "سون",
+          "ipa": "/sun/"
+        },
+        "meaning": {
+          "fa": "به‌زودی",
+          "en": "soon; after a short time"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your brothers start to cooperate soon.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم برادرهایت به‌زودی همکاری را شروع کنند.",
+            "en": "You are welcome, and I hope your brothers start to cooperate soon."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "recurring-problem",
+        "title": {
+          "fa": "مشکل تکراری و حالت فعلی",
+          "en": "A recurring current problem"
+        },
+        "explanation": {
+          "fa": "are arguing every day با اینکه every day دارد، مشکل تکراری فعلی را برجسته می‌کند. fight در جملهٔ بعد عادت دعوا را توصیف می‌کند. exhausting خسته‌کننده بودن وضعیت را می‌گوید؛ exhausted اگر می‌آمد حال شخص خسته را می‌گفت.",
+          "en": "Are arguing every day frames repeated behavior as a current problem. Fight in the next turn describes the habitual dispute. Exhausting describes the tiring situation, whereas exhausted would describe the tired person."
+        },
+        "example": {
+          "text": "I have a problem, my two younger brothers are arguing every day.",
+          "translation": {
+            "fa": "مشکلی دارم؛ دو برادر کوچک‌ترم هر روز جر و بحث می‌کنند.",
+            "en": "I have a problem, my two younger brothers are arguing every day."
+          }
+        },
+        "takeaway": {
+          "fa": "ing و every day می‌توانند با هم یک مشکل جاری تکراری را نشان دهند.",
+          "en": "An ing form with every day can highlight a recurring current problem."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مشکل تکراری و حالت فعلی",
+              "en": "A recurring current problem"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "my two younger brothers are arguing every day"
+                },
+                {
+                  "text": "are + arguing + repeated time"
+                },
+                {
+                  "fa": "هر روز جر و بحث می‌کنند",
+                  "en": "A recurring current situation"
+                }
+              ],
+              [
+                {
+                  "text": "They always fight over the video games"
+                },
+                {
+                  "text": "always + fight over"
+                },
+                {
+                  "fa": "همیشه سر بازی‌ها دعوا می‌کنند",
+                  "en": "Habit and cause of dispute"
+                }
+              ],
+              [
+                {
+                  "text": "That must be exhausting"
+                },
+                {
+                  "text": "must be + exhausting"
+                },
+                {
+                  "fa": "حتماً خیلی خسته‌کننده است",
+                  "en": "Inference about the situation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "try-ing-and-perfect",
+        "title": {
+          "fa": "امتحان کردن یک راه‌حل",
+          "en": "Trying a possible solution"
+        },
+        "explanation": {
+          "fa": "Have you tried making ...? می‌پرسد آیا این روش را امتحان کرده‌ای؛ پس از try در این معنی making آمده است. I did تأیید امتحان همان روش است. I have tried در ادامه به تلاش قبلیِ صحبت کردن برمی‌گردد، نه لزوماً فقط زمان‌بندی.",
+          "en": "Have you tried making ...? asks whether a method has been tested; making follows try in this sense. I did confirms that attempt. I have tried later responds to the suggestion of talking together, not merely the schedule."
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        },
+        "takeaway": {
+          "fa": "try doing یعنی یک روش را برای دیدن نتیجه امتحان کن.",
+          "en": "Try doing means test a method to see whether it helps."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "امتحان کردن یک راه‌حل",
+              "en": "Trying a possible solution"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Have you tried making a schedule"
+                },
+                {
+                  "text": "have you tried + ing"
+                },
+                {
+                  "fa": "تنظیم برنامه را امتحان کرده‌ای",
+                  "en": "A previous attempted solution"
+                }
+              ],
+              [
+                {
+                  "text": "I did"
+                },
+                {
+                  "text": "did + understood action"
+                },
+                {
+                  "fa": "این کار را کردم",
+                  "en": "Confirms the schedule attempt"
+                }
+              ],
+              [
+                {
+                  "text": "I have tried"
+                },
+                {
+                  "text": "have + tried"
+                },
+                {
+                  "fa": "امتحان کرده‌ام",
+                  "en": "A relevant earlier attempt"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "embedded-schedule",
+        "title": {
+          "fa": "چه کسی چه زمانی؟",
+          "en": "Who uses it and when?"
+        },
+        "explanation": {
+          "fa": "در for who uses the games when، who و when مشخص می‌کنند برنامه باید نوبت چه کسی و چه زمانی را روشن کند. این سؤال درون جمله است؛ uses پس از who آمده و do you داخل آن نداریم.",
+          "en": "In for who uses the games when, who and when specify the person and time assigned by the schedule. This is embedded inside a larger sentence, so it does not use a separate do-question pattern."
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        },
+        "takeaway": {
+          "fa": "نوبت‌بندی را به دو بخش تقسیم کن: شخص و زمان.",
+          "en": "Read the schedule as assigning both a person and a time."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "چه کسی چه زمانی؟",
+              "en": "Who uses it and when?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "who uses the games when"
+                },
+                {
+                  "text": "who + uses + thing + when"
+                },
+                {
+                  "fa": "چه کسی چه زمانی از بازی‌ها استفاده می‌کند",
+                  "en": "Person and time inside the sentence"
+                }
+              ],
+              [
+                {
+                  "text": "for who uses the games when"
+                },
+                {
+                  "text": "schedule for + embedded question"
+                },
+                {
+                  "fa": "برنامه برای نوبت استفاده",
+                  "en": "The schedule’s content"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "soft-advice",
+        "title": {
+          "fa": "پیشنهاد بدون دستور دادن",
+          "en": "Advice without issuing orders"
+        },
+        "explanation": {
+          "fa": "Perhaps you should ... و Maybe ... would help پیشنهاد را نرم می‌کنند. should توصیه است، نه اجبار قطعی. setting a clear rule نام یک کار است و نقش موضوع جمله را دارد؛ would help نتیجهٔ ممکن آن است.",
+          "en": "Perhaps you should ... and Maybe ... would help soften the advice. Should recommends rather than imposes an absolute rule. Setting a clear rule names an activity as the sentence topic; would help gives its possible result."
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        },
+        "takeaway": {
+          "fa": "perhaps و maybe میزان قطعیت پیشنهاد را کمتر می‌کنند.",
+          "en": "Perhaps and maybe make advice less categorical."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد بدون دستور دادن",
+              "en": "Advice without issuing orders"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Perhaps you should talk to them together"
+                },
+                {
+                  "text": "perhaps + should + action"
+                },
+                {
+                  "fa": "شاید بهتر باشد با هر دو حرف بزنی",
+                  "en": "Soft advice"
+                }
+              ],
+              [
+                {
+                  "text": "Maybe setting a clear rule"
+                },
+                {
+                  "text": "maybe + activity with ing"
+                },
+                {
+                  "fa": "شاید تعیین قانون روشن",
+                  "en": "Proposed action"
+                }
+              ],
+              [
+                {
+                  "text": "would help"
+                },
+                {
+                  "text": "would + help"
+                },
+                {
+                  "fa": "ممکن است کمک کند",
+                  "en": "Possible result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rule-and-tasks",
+        "title": {
+          "fa": "قانون مشترک و کار مشترک",
+          "en": "An agreed rule and shared tasks"
+        },
+        "explanation": {
+          "fa": "that both of them agree on قانون را توصیف می‌کند: هر دو باید آن را قبول داشته باشند. on با agree آمده و در پایان بند می‌ماند. tasks to do together کارهایی را معرفی می‌کند که باید با همکاری انجام شوند.",
+          "en": "That both of them agree on identifies the kind of rule: one accepted by both brothers. On belongs with agree and appears at the clause end. Tasks to do together specifies work for them to complete jointly."
+        },
+        "example": {
+          "text": "That is a good idea, and I can also give them tasks to do together.",
+          "translation": {
+            "fa": "فکر خوبی است؛ می‌توانم کارهایی هم بدهم که با هم انجام بدهند.",
+            "en": "That is a good idea, and I can also give them tasks to do together."
+          }
+        },
+        "takeaway": {
+          "fa": "قانونِ موردتوافق با صرفِ قانون گذاشتن فرق دارد.",
+          "en": "A mutually accepted rule is more specific than merely imposing a rule."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قانون مشترک و کار مشترک",
+              "en": "An agreed rule and shared tasks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a clear rule that both of them agree on"
+                },
+                {
+                  "text": "rule + that + people + agree on"
+                },
+                {
+                  "fa": "قانونی که هر دو قبول دارند",
+                  "en": "A rule defined by agreement"
+                }
+              ],
+              [
+                {
+                  "text": "give them tasks to do together"
+                },
+                {
+                  "text": "give + people + tasks + to do"
+                },
+                {
+                  "fa": "کارهایی برای انجام مشترک بده",
+                  "en": "Work intended for cooperation"
+                }
+              ],
+              [
+                {
+                  "text": "Working together on a task"
+                },
+                {
+                  "text": "activity with ing + on + task"
+                },
+                {
+                  "fa": "همکاری روی یک کار",
+                  "en": "An activity as the sentence topic"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "negative-and-commitment",
+        "title": {
+          "fa": "رعایت نکردن و تصمیم تازه",
+          "en": "Noncompliance and a new commitment"
+        },
+        "explanation": {
+          "fa": "do not follow it at all یعنی اصلاً برنامه را رعایت نمی‌کنند؛ follow اینجا دنبال کسی راه افتادن نیست. I will try that this weekend تعهد به امتحان راهکار تازه است. that به همکاری روی کارها در نوبت قبل برمی‌گردد.",
+          "en": "Do not follow it at all means they fail to obey the schedule, not that they fail to walk behind it. I will try that this weekend commits to testing the new idea, with that referring back to joint tasks."
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        },
+        "takeaway": {
+          "fa": "ارجاع it و that را از نزدیک‌ترین پیشنهاد مربوط پیدا کن.",
+          "en": "Resolve it and that using the relevant earlier proposal."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "رعایت نکردن و تصمیم تازه",
+              "en": "Noncompliance and a new commitment"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "they do not follow it at all"
+                },
+                {
+                  "text": "do not + action + at all"
+                },
+                {
+                  "fa": "اصلاً برنامه را رعایت نمی‌کنند",
+                  "en": "Strong negation"
+                }
+              ],
+              [
+                {
+                  "text": "I will try that this weekend"
+                },
+                {
+                  "text": "will + try + idea + time"
+                },
+                {
+                  "fa": "این آخر هفته امتحانش می‌کنم",
+                  "en": "A new commitment"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "exhausting",
+        "text": "That must be exhausting",
+        "pronunciation": {
+          "faReading": "ذَت ماست بی ایگْزاستینگ",
+          "ipa": "/ðæt mʌst bi ɪɡˈzɔstɪŋ/"
+        },
+        "meaning": {
+          "fa": "حتماً خیلی خسته‌کننده است",
+          "en": "That must be exhausting"
+        },
+        "context": {
+          "fa": "همدلی همراه با برداشت از اثر دعواها.",
+          "en": "Shows empathy through an inference about the arguments’ effect."
+        },
+        "example": {
+          "text": "That must be exhausting, what is the reason for their arguments?",
+          "translation": {
+            "fa": "حتماً خیلی خسته‌کننده است؛ دلیل بحث‌هایشان چیست؟",
+            "en": "That must be exhausting, what is the reason for their arguments?"
+          }
+        }
+      },
+      {
+        "id": "fight-over",
+        "text": "fight over the video games and the remote control",
+        "pronunciation": {
+          "faReading": "فایت اُووِر ذِ ویدی‌اُو گِیمز اَند ذِ ریمُوت کِنترُول",
+          "ipa": "/faɪt ˈoʊvɚ ðə ˈvɪdioʊ ɡeɪmz ænd ðə rɪˈmoʊt kənˈtroʊl/"
+        },
+        "meaning": {
+          "fa": "سر بازی‌ها و کنترل دعوا می‌کنند",
+          "en": "Fight over the video games and the remote control"
+        },
+        "context": {
+          "fa": "over موضوع اختلاف است، نه جهت بالا.",
+          "en": "Over identifies the object of the dispute, not an upward position."
+        },
+        "example": {
+          "text": "They always fight over the video games and the remote control.",
+          "translation": {
+            "fa": "همیشه سر بازی‌های ویدئویی و کنترل دعوا می‌کنند.",
+            "en": "They always fight over the video games and the remote control."
+          }
+        }
+      },
+      {
+        "id": "tried-making",
+        "text": "Have you tried making a schedule",
+        "pronunciation": {
+          "faReading": "هَو یو تْراید مِیکینگ اِ سْکِجول",
+          "ipa": "/hæv ju traɪd ˈmeɪkɪŋ ə ˈskɛdʒul/"
+        },
+        "meaning": {
+          "fa": "تنظیم برنامه را امتحان کرده‌ای؟",
+          "en": "Have you tried making a schedule?"
+        },
+        "context": {
+          "fa": "یک راهکار را به‌صورت پرسش از تجربه پیشنهاد می‌کند.",
+          "en": "Suggests a method by asking whether it has been tried."
+        },
+        "example": {
+          "text": "Have you tried making a schedule for who uses the games when?",
+          "translation": {
+            "fa": "امتحان کرده‌ای برنامه‌ای تنظیم کنی که چه کسی چه زمانی از بازی‌ها استفاده کند؟",
+            "en": "Have you tried making a schedule for who uses the games when?"
+          }
+        }
+      },
+      {
+        "id": "not-at-all",
+        "text": "do not follow it at all",
+        "pronunciation": {
+          "faReading": "دو نات فالُو ایت اَت آل",
+          "ipa": "/du nɑt ˈfɑloʊ ɪt æt ɔl/"
+        },
+        "meaning": {
+          "fa": "اصلاً آن را رعایت نمی‌کنند",
+          "en": "Do not follow it at all"
+        },
+        "context": {
+          "fa": "it برنامه است و at all منفی را قوی‌تر می‌کند.",
+          "en": "It refers to the schedule; at all strengthens the negative."
+        },
+        "example": {
+          "text": "I did, but they do not follow it at all and the fighting continues.",
+          "translation": {
+            "fa": "این کار را کردم، اما اصلاً رعایتش نمی‌کنند و دعوا ادامه دارد.",
+            "en": "I did, but they do not follow it at all and the fighting continues."
+          }
+        }
+      },
+      {
+        "id": "explain-feelings",
+        "text": "explain your feelings calmly",
+        "pronunciation": {
+          "faReading": "ایکسْپْلِین یور فیلینگْز کاملی",
+          "ipa": "/ɪkˈspleɪn jʊr ˈfilɪŋz ˈkɑmli/"
+        },
+        "meaning": {
+          "fa": "احساست را با آرامش توضیح بده",
+          "en": "Explain your feelings calmly"
+        },
+        "context": {
+          "fa": "پیشنهاد گفت‌وگوی مشترک، نه سرزنش جداگانهٔ یک برادر.",
+          "en": "Advice for talking together, not separately blaming one brother."
+        },
+        "example": {
+          "text": "Perhaps you should talk to them together and explain your feelings calmly.",
+          "translation": {
+            "fa": "شاید بهتر باشد با هر دو با هم حرف بزنی و با آرامش احساست را توضیح بدهی.",
+            "en": "Perhaps you should talk to them together and explain your feelings calmly."
+          }
+        }
+      },
+      {
+        "id": "clear-rule",
+        "text": "a clear rule that both of them agree on",
+        "pronunciation": {
+          "faReading": "اِ کْلیر رول ذَت بُوث اَو ذِم اِگْری آن",
+          "ipa": "/ə klɪr rul ðæt boʊθ əv ðɛm əˈɡri ɑn/"
+        },
+        "meaning": {
+          "fa": "قانون روشنی که هر دو قبولش دارند",
+          "en": "A clear rule accepted by both of them"
+        },
+        "context": {
+          "fa": "پذیرش مشترک بخش مهم راهکار است.",
+          "en": "Mutual agreement is central to this solution."
+        },
+        "example": {
+          "text": "Maybe setting a clear rule that both of them agree on would help.",
+          "translation": {
+            "fa": "شاید تعیین قانون روشنی که هر دو قبولش داشته باشند کمک کند.",
+            "en": "Maybe setting a clear rule that both of them agree on would help."
+          }
+        }
+      },
+      {
+        "id": "thanks-advice",
+        "text": "thank you for your advice",
+        "pronunciation": {
+          "faReading": "ثَنک یو فور یور اَدوایس",
+          "ipa": "/θæŋk ju fɔr jʊr ədˈvaɪs/"
+        },
+        "meaning": {
+          "fa": "ممنون بابت راهنمایی‌ات",
+          "en": "Thank you for your advice"
+        },
+        "context": {
+          "fa": "تشکر پس از تصمیم به امتحان راهکار تازه.",
+          "en": "Thanks after committing to try the new approach."
+        },
+        "example": {
+          "text": "I will try that this weekend, thank you for your advice.",
+          "translation": {
+            "fa": "این آخر هفته امتحانش می‌کنم؛ ممنون بابت راهنمایی‌ات.",
+            "en": "I will try that this weekend, thank you for your advice."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی این گفت‌وگو چیست؟",
+          "en": "What is the main purpose of the conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب یک بازی تازه برای برادرها",
+              "en": "Choosing a new game for the brothers"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تعیین قیمت یک کنترل جدید",
+              "en": "Setting a price for a new remote"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پیدا کردن راهی برای کم‌کردن دعوای برادرها",
+              "en": "Finding ways to reduce the brothers’ arguments"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "امیری مشکل دعوا را می‌گوید و حسین چند راهکار پیشنهاد می‌دهد.",
+          "en": "Amiri describes repeated arguments and Hossein offers possible solutions."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t06",
+          "t08",
+          "t10"
+        ]
+      },
+      {
+        "id": "cause",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بیشتر دعوا سر چیست؟",
+          "en": "What do the brothers fight over?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بازی‌های ویدئویی و کنترل",
+              "en": "Video games and the remote control"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "لباس و زمان مدرسه",
+              "en": "Clothes and school time"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کتاب‌ها و وسایل نقاشی",
+              "en": "Books and drawing materials"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "این دو مورد در سومین نوبت صریح آمده‌اند.",
+          "en": "Both are explicitly named in the third turn."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "failed-method",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا زمان‌بندی قبلی کار نکرده است؟",
+          "en": "Why has the schedule not worked?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "زیادی کوتاه بوده است.",
+              "en": "It was too short."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برادرها رعایتش نمی‌کنند.",
+              "en": "The brothers do not follow it."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای بازی‌ها نبوده است.",
+              "en": "It was not for the games."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "امیری می‌گوید they do not follow it at all؛ مشکلِ بیان‌شده رعایت نکردن است.",
+          "en": "Amiri says they do not follow it at all; noncompliance is the stated problem."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "new-rule",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "حسین چه نوع قانونی پیشنهاد می‌کند؟",
+          "en": "What kind of rule does Hossein suggest?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قانونی که فقط یکی بپذیرد",
+              "en": "One accepted by only one brother"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قانونی که هر روز عوض شود",
+              "en": "One that changes every day"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "قانون روشنی که هر دو قبول کنند",
+              "en": "A clear rule accepted by both"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "both of them agree on شرط مهم پیشنهاد است.",
+          "en": "Both of them agree on is the key qualification."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "shared-tasks",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "امیری چه راهکار دیگری اضافه می‌کند؟",
+          "en": "What other strategy does Amiri add?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دادن کارهایی برای انجام مشترک",
+              "en": "Giving them tasks to do together"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خریدن دو کنترل تازه",
+              "en": "Buying two new remotes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بردن آن‌ها به مدرسه‌های جدا",
+              "en": "Sending them to separate schools"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "امیری می‌گوید give them tasks to do together.",
+          "en": "Amiri says give them tasks to do together."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "trial-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "راهکار تازه چه زمانی امتحان می‌شود؟",
+          "en": "When will the new approach be tried?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "این آخر هفته",
+              "en": "This weekend"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "امشب",
+              "en": "Tonight"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "امیری می‌گوید I will try that this weekend.",
+          "en": "Amiri says I will try that this weekend."
+        },
+        "evidenceTurnIds": [
+          "t11"
+        ]
+      }
+    ]
+  }
+}

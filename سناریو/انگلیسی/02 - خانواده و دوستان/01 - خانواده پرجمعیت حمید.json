@@ -1,0 +1,2563 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s01",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "خانواده پرجمعیت حمید",
+    "en": "A Big Family"
+  },
+  "objective": {
+    "fa": "اندازهٔ خانواده‌های حمید و سحر و تعداد فرزندان خانوادهٔ حمید را تشخیص بده.",
+    "en": "Identify the size of Hamid’s and Sahar’s families and the number of children in Hamid’s family."
+  },
+  "speakers": [
+    {
+      "id": "hamid",
+      "name": "Hamid",
+      "gender": "man"
+    },
+    {
+      "id": "sahar",
+      "name": "Sahar",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "hamid",
+      "text": "Hello, my name is Hamid, I have a big family.",
+      "translation": {
+        "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+        "en": "Hello, my name is Hamid, I have a big family."
+      },
+      "tokens": [
+        {
+          "surface": "Hello,",
+          "gloss": {
+            "fa": "سلام",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "name",
+          "gloss": {
+            "fa": "نام؛ اسم",
+            "en": "name; what a person is called"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "Hamid,",
+          "gloss": {
+            "fa": "حمید",
+            "en": "Hamid; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "دارم",
+            "en": "have; possess, in I have a family"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "big",
+          "gloss": {
+            "fa": "بزرگ؛ پرجمعیت",
+            "en": "big; large"
+          }
+        },
+        {
+          "surface": "family.",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sahar",
+      "text": "That is interesting, how many people are in your family?",
+      "translation": {
+        "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+        "en": "That is interesting, how many people are in your family?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "interesting,",
+          "gloss": {
+            "fa": "جالب",
+            "en": "interesting; holding your attention"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "بخشی از «چند نفر»",
+            "en": "part of how many; asks a number"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بخشی از «چند نفر»",
+            "en": "part of how many; asks a number"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "family?",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "hamid",
+      "text": "There are eight people, my parents and six children.",
+      "translation": {
+        "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+        "en": "There are eight people, my parents and six children."
+      },
+      "tokens": [
+        {
+          "surface": "There",
+          "gloss": {
+            "fa": "در There are یعنی «هستند»",
+            "en": "there; with are, says something exists"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "eight",
+          "gloss": {
+            "fa": "هشت",
+            "en": "eight; 8"
+          }
+        },
+        {
+          "surface": "people,",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "parents",
+          "gloss": {
+            "fa": "پدر و مادر؛ والدین",
+            "en": "parents; mother and father"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "children.",
+          "gloss": {
+            "fa": "فرزندان؛ بچه‌ها",
+            "en": "children; more than one child"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sahar",
+      "text": "Six children, that must be very lively at home.",
+      "translation": {
+        "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+        "en": "Six children, that must be very lively at home."
+      },
+      "tokens": [
+        {
+          "surface": "Six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "children,",
+          "gloss": {
+            "fa": "فرزندان؛ بچه‌ها",
+            "en": "children; more than one child"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "حتماً؛ حدس مطمئن",
+            "en": "must; a confident guess, not an obligation"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "lively",
+          "gloss": {
+            "fa": "پرجنب‌وجوش",
+            "en": "lively; full of activity"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ کنار؛ در ساعتِ",
+            "en": "at; a place or time"
+          }
+        },
+        {
+          "surface": "home.",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "hamid",
+      "text": "It is, and we always have someone to talk and play with.",
+      "translation": {
+        "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+        "en": "It is, and we always have someone to talk and play with."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "این‌طور؛ خانه پرجنب‌وجوش است",
+            "en": "it; the home situation just described"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داریم",
+            "en": "have; there is someone available to us"
+          }
+        },
+        {
+          "surface": "someone",
+          "gloss": {
+            "fa": "یک نفر؛ کسی",
+            "en": "someone; a person"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "حرف زدن",
+            "en": "talk; speak with someone"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "play",
+          "gloss": {
+            "fa": "بازی کردن",
+            "en": "play; take part in a game"
+          }
+        },
+        {
+          "surface": "with.",
+          "gloss": {
+            "fa": "با؛ با آن شخص",
+            "en": "with; together with that person"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sahar",
+      "text": "That sounds wonderful, I come from a small family of three.",
+      "translation": {
+        "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+        "en": "That sounds wonderful, I come from a small family of three."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "wonderful,",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمدن",
+            "en": "come; move toward this place"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهل یک خانواده",
+            "en": "from; belonging to a family background"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "three.",
+          "gloss": {
+            "fa": "سه",
+            "en": "three; 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "hamid",
+      "text": "I am sure you get all the attention, which is nice too.",
+      "translation": {
+        "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+        "en": "I am sure you get all the attention, which is nice too."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "مطمئن",
+            "en": "sure; certain"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "نصیب تو می‌شود؛ دریافت می‌کنی",
+            "en": "get; receive"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; every person or the whole amount"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "attention,",
+          "gloss": {
+            "fa": "توجه",
+            "en": "attention; focused listening or consideration"
+          }
+        },
+        {
+          "surface": "which",
+          "gloss": {
+            "fa": "که؛ منظور همین توجه است",
+            "en": "which; points back to getting attention"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "nice",
+          "gloss": {
+            "fa": "خوشایند؛ خوب",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sahar",
+      "text": "You are right, and I enjoy the quiet at home.",
+      "translation": {
+        "fa": "درست می‌گویی؛ من هم از آرامش خانه لذت می‌برم.",
+        "en": "You are right, and I enjoy the quiet at home."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست",
+            "en": "right; correct"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت بردن از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "quiet",
+          "gloss": {
+            "fa": "آرامش؛ سکوت",
+            "en": "quiet; peace and little noise"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ کنار؛ در ساعتِ",
+            "en": "at; a place or time"
+          }
+        },
+        {
+          "surface": "home.",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "name",
+        "text": "name",
+        "pronunciation": {
+          "faReading": "نِیم",
+          "ipa": "/neɪm/"
+        },
+        "meaning": {
+          "fa": "نام؛ اسم",
+          "en": "name; what a person is called"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "دارم",
+          "en": "have; possess, in I have a family"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "big",
+        "text": "big",
+        "pronunciation": {
+          "faReading": "بیگ",
+          "ipa": "/bɪɡ/"
+        },
+        "meaning": {
+          "fa": "بزرگ؛ پرجمعیت",
+          "en": "big; large"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "interesting",
+        "text": "interesting",
+        "pronunciation": {
+          "faReading": "اینتِرِستینگ",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        },
+        "meaning": {
+          "fa": "جالب",
+          "en": "interesting; holding your attention"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند نفر»",
+          "en": "part of how many; asks a number"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چند نفر»",
+          "en": "part of how many; asks a number"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "There",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در There are یعنی «هستند»",
+          "en": "there; with are, says something exists"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "eight",
+        "text": "eight",
+        "pronunciation": {
+          "faReading": "اِیت",
+          "ipa": "/eɪt/"
+        },
+        "meaning": {
+          "fa": "هشت",
+          "en": "eight; 8"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "parents",
+        "text": "parents",
+        "pronunciation": {
+          "faReading": "پِرِنتس",
+          "ipa": "/ˈpɛrənts/"
+        },
+        "meaning": {
+          "fa": "پدر و مادر؛ والدین",
+          "en": "parents; mother and father"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "six",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "شش",
+          "en": "six; 6"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "children",
+        "text": "children",
+        "pronunciation": {
+          "faReading": "چیلدرِن",
+          "ipa": "/ˈtʃɪldrən/"
+        },
+        "meaning": {
+          "fa": "فرزندان؛ بچه‌ها",
+          "en": "children; more than one child"
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ حدس مطمئن",
+          "en": "must; a confident guess, not an obligation"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "lively",
+        "text": "lively",
+        "pronunciation": {
+          "faReading": "لایولی",
+          "ipa": "/ˈlaɪvli/"
+        },
+        "meaning": {
+          "fa": "پرجنب‌وجوش",
+          "en": "lively; full of activity"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ کنار؛ در ساعتِ",
+          "en": "at; a place or time"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "این‌طور؛ خانه پرجنب‌وجوش است",
+          "en": "it; the home situation just described"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "have-available",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داریم",
+          "en": "have; there is someone available to us"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "someone",
+        "text": "someone",
+        "pronunciation": {
+          "faReading": "سَم‌وان",
+          "ipa": "/ˈsʌmˌwʌn/"
+        },
+        "meaning": {
+          "fa": "یک نفر؛ کسی",
+          "en": "someone; a person"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "talk",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "حرف زدن",
+          "en": "talk; speak with someone"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "play",
+        "text": "play",
+        "pronunciation": {
+          "faReading": "پْلِی",
+          "ipa": "/pleɪ/"
+        },
+        "meaning": {
+          "fa": "بازی کردن",
+          "en": "play; take part in a game"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ با آن شخص",
+          "en": "with; together with that person"
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "آمدن",
+          "en": "come; move toward this place"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهل یک خانواده",
+          "en": "from; belonging to a family background"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "مطمئن",
+          "en": "sure; certain"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "نصیب تو می‌شود؛ دریافت می‌کنی",
+          "en": "get; receive"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; every person or the whole amount"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "attention",
+        "text": "attention",
+        "pronunciation": {
+          "faReading": "اِتِنشِن",
+          "ipa": "/əˈtɛnʃən/"
+        },
+        "meaning": {
+          "fa": "توجه",
+          "en": "attention; focused listening or consideration"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "which",
+        "text": "which",
+        "pronunciation": {
+          "faReading": "ویچ",
+          "ipa": "/wɪtʃ/"
+        },
+        "meaning": {
+          "fa": "که؛ منظور همین توجه است",
+          "en": "which; points back to getting attention"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست",
+          "en": "right; correct"
+        },
+        "example": {
+          "text": "You are right, and I enjoy the quiet at home.",
+          "translation": {
+            "fa": "درست می‌گویی؛ من هم از آرامش خانه لذت می‌برم.",
+            "en": "You are right, and I enjoy the quiet at home."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "You are right, and I enjoy the quiet at home.",
+          "translation": {
+            "fa": "درست می‌گویی؛ من هم از آرامش خانه لذت می‌برم.",
+            "en": "You are right, and I enjoy the quiet at home."
+          }
+        }
+      },
+      {
+        "id": "quiet",
+        "text": "quiet",
+        "pronunciation": {
+          "faReading": "کوایِت",
+          "ipa": "/ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "آرامش؛ سکوت",
+          "en": "quiet; peace and little noise"
+        },
+        "example": {
+          "text": "You are right, and I enjoy the quiet at home.",
+          "translation": {
+            "fa": "درست می‌گویی؛ من هم از آرامش خانه لذت می‌برم.",
+            "en": "You are right, and I enjoy the quiet at home."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "be-and-have",
+        "title": {
+          "fa": "معرفی خود و خانواده",
+          "en": "Introducing yourself and your family"
+        },
+        "explanation": {
+          "fa": "برای گفتن نام، I am یا my name is را به کار ببر. I have یعنی «دارم»؛ پس از آن چیزی را که داری بگو: a big family. با you از are استفاده می‌کنیم.",
+          "en": "Use I am or my name is for a name. I have means that something belongs to you or is part of your life: a big family. Use are with you."
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        },
+        "takeaway": {
+          "fa": "I have برای گفتن داشته‌هاست.",
+          "en": "Use I have to say what you have."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "معرفی خود و خانواده",
+              "en": "Introducing yourself and your family"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "my name is Hamid"
+                },
+                {
+                  "text": "my name is + name"
+                },
+                {
+                  "fa": "اسم من حمید است",
+                  "en": "Giving a name"
+                }
+              ],
+              [
+                {
+                  "text": "I have a big family"
+                },
+                {
+                  "text": "I have + a family"
+                },
+                {
+                  "fa": "خانوادهٔ پرجمعیتی دارم",
+                  "en": "Describing a family"
+                }
+              ],
+              [
+                {
+                  "text": "You are right"
+                },
+                {
+                  "text": "you are + describing word"
+                },
+                {
+                  "fa": "درست می‌گویی",
+                  "en": "Agreeing with someone"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "counting-people",
+        "title": {
+          "fa": "پرسیدن و گفتن تعداد",
+          "en": "Asking and saying how many"
+        },
+        "explanation": {
+          "fa": "How many people ...? یعنی «چند نفر ...؟». برای پاسخ، There are و تعداد را بگو. people خودش چند نفر را می‌رساند؛ peoples نمی‌گوییم. children هم یعنی چند فرزند.",
+          "en": "How many people ...? asks for a number of people. Answer with There are and a number. People already means more than one person here. Children means more than one child."
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        },
+        "takeaway": {
+          "fa": "How many تعداد را می‌پرسد؛ There are تعداد را معرفی می‌کند.",
+          "en": "How many asks the number; There are introduces it."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن و گفتن تعداد",
+              "en": "Asking and saying how many"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how many people"
+                },
+                {
+                  "text": "how many + people"
+                },
+                {
+                  "fa": "چند نفر",
+                  "en": "Asking a number"
+                }
+              ],
+              [
+                {
+                  "text": "There are eight people"
+                },
+                {
+                  "text": "there are + number + people"
+                },
+                {
+                  "fa": "هشت نفر هستند",
+                  "en": "Giving the number"
+                }
+              ],
+              [
+                {
+                  "text": "six children"
+                },
+                {
+                  "text": "number + children"
+                },
+                {
+                  "fa": "شش فرزند",
+                  "en": "Children is already plural"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "description-and-guess",
+        "title": {
+          "fa": "توصیف و حدس دوستانه",
+          "en": "Descriptions and friendly guesses"
+        },
+        "explanation": {
+          "fa": "a big family یعنی خانوادهٔ پرجمعیت؛ big پیش از family می‌آید. must be very lively یعنی «حتماً خیلی پرجنب‌وجوش است». اینجا must دستور نیست؛ سحر از شنیدن شش فرزند چنین حدسی می‌زند.",
+          "en": "In a big family, big comes before family. Must be very lively means that Sahar thinks the home is very active. Must here is a confident guess, not an order."
+        },
+        "example": {
+          "text": "Six children, that must be very lively at home.",
+          "translation": {
+            "fa": "شش فرزند! حتماً خانه خیلی پرجنب‌وجوش است.",
+            "en": "Six children, that must be very lively at home."
+          }
+        },
+        "takeaway": {
+          "fa": "must be در این جمله یعنی «حتماً هست».",
+          "en": "Must be here means I feel sure it is."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توصیف و حدس دوستانه",
+              "en": "Descriptions and friendly guesses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a big family"
+                },
+                {
+                  "text": "a + describing word + family"
+                },
+                {
+                  "fa": "خانوادهٔ پرجمعیت",
+                  "en": "Size of a family"
+                }
+              ],
+              [
+                {
+                  "text": "a small family of three"
+                },
+                {
+                  "text": "a small family + of + number"
+                },
+                {
+                  "fa": "خانوادهٔ کوچک سه‌نفره",
+                  "en": "Size plus number"
+                }
+              ],
+              [
+                {
+                  "text": "must be very lively"
+                },
+                {
+                  "text": "must be + description"
+                },
+                {
+                  "fa": "حتماً پرجنب‌وجوش است",
+                  "en": "A guess based on family size"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "everyday-activities",
+        "title": {
+          "fa": "کارهای همیشگی و همراهی",
+          "en": "Everyday activities and company"
+        },
+        "explanation": {
+          "fa": "always یعنی همیشه و پیش از have می‌آید. enjoy یعنی لذت بردن. someone to talk and play with را یک تکه یاد بگیر: «کسی که با او حرف بزنیم و بازی کنیم». with در پایان یعنی با همان شخص.",
+          "en": "Always means every time and comes before have here. Enjoy means like and take pleasure in. Learn someone to talk and play with as a whole: a person for talking and playing together."
+        },
+        "example": {
+          "text": "It is, and we always have someone to talk and play with.",
+          "translation": {
+            "fa": "همین‌طور است؛ همیشه کسی را داریم که با او حرف بزنیم و بازی کنیم.",
+            "en": "It is, and we always have someone to talk and play with."
+          }
+        },
+        "takeaway": {
+          "fa": "عبارت بلند را به دو کار آشنا تقسیم کن: talk و play.",
+          "en": "Break the phrase into two familiar actions: talk and play."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کارهای همیشگی و همراهی",
+              "en": "Everyday activities and company"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we always have someone"
+                },
+                {
+                  "text": "we + always + have"
+                },
+                {
+                  "fa": "همیشه کسی را داریم",
+                  "en": "A regular situation"
+                }
+              ],
+              [
+                {
+                  "text": "to talk and play with"
+                },
+                {
+                  "text": "to + talk and play + with"
+                },
+                {
+                  "fa": "برای حرف زدن و بازی با او",
+                  "en": "Two shared activities"
+                }
+              ],
+              [
+                {
+                  "text": "I enjoy the quiet"
+                },
+                {
+                  "text": "I enjoy + something"
+                },
+                {
+                  "fa": "از آرامش لذت می‌برم",
+                  "en": "Saying what you like"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "short-agreement",
+        "title": {
+          "fa": "پاسخ کوتاه و اشاره به حرف قبل",
+          "en": "Short replies and earlier ideas"
+        },
+        "explanation": {
+          "fa": "It is یعنی «همین‌طور است»؛ حمید حرف سحر دربارهٔ شلوغی خانه را تأیید می‌کند. That sounds wonderful هم واکنش به حرف قبلی است. which is nice too یعنی «که این هم خوب است» و به گرفتن توجه اشاره دارد؛ فعلاً آن را یک عبارت آماده یاد بگیر.",
+          "en": "It is agrees with the description of a lively home. That sounds wonderful reacts to the earlier words. Which is nice too comments on getting attention; learn it as a useful phrase here."
+        },
+        "example": {
+          "text": "I am sure you get all the attention, which is nice too.",
+          "translation": {
+            "fa": "مطمئنم همهٔ توجه نصیب تو می‌شود؛ این هم خوب است.",
+            "en": "I am sure you get all the attention, which is nice too."
+          }
+        },
+        "takeaway": {
+          "fa": "در پاسخ کوتاه، بخش گفته‌شده را دوباره تکرار نمی‌کنیم.",
+          "en": "A short reply does not repeat the full earlier description."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پاسخ کوتاه و اشاره به حرف قبل",
+              "en": "Short replies and earlier ideas"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "It is"
+                },
+                {
+                  "text": "it is + understood description"
+                },
+                {
+                  "fa": "همین‌طور است",
+                  "en": "Agrees that the home is lively"
+                }
+              ],
+              [
+                {
+                  "text": "That sounds wonderful"
+                },
+                {
+                  "text": "that sounds + description"
+                },
+                {
+                  "fa": "عالی به نظر می‌رسد",
+                  "en": "A positive reaction"
+                }
+              ],
+              [
+                {
+                  "text": "which is nice too"
+                },
+                {
+                  "text": "which is + description + too"
+                },
+                {
+                  "fa": "که این هم خوب است",
+                  "en": "A comment on receiving attention"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "my-name",
+        "text": "my name is Hamid",
+        "pronunciation": {
+          "faReading": "مای نِیم ایز حمید",
+          "ipa": "/maɪ neɪm ɪz hæˈmid/"
+        },
+        "meaning": {
+          "fa": "اسم من حمید است",
+          "en": "My name is Hamid"
+        },
+        "context": {
+          "fa": "برای معرفی خود؛ نامت را پس از is بگو.",
+          "en": "Introduces yourself; put your name after is."
+        },
+        "example": {
+          "text": "Hello, my name is Hamid, I have a big family.",
+          "translation": {
+            "fa": "سلام، اسم من حمید است؛ خانوادهٔ پرجمعیتی دارم.",
+            "en": "Hello, my name is Hamid, I have a big family."
+          }
+        }
+      },
+      {
+        "id": "how-many",
+        "text": "how many people",
+        "pronunciation": {
+          "faReading": "هاو مِنی پیپِل",
+          "ipa": "/haʊ ˈmɛni ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "چند نفر",
+          "en": "How many people"
+        },
+        "context": {
+          "fa": "برای پرسیدن تعداد افراد، نه سن آن‌ها.",
+          "en": "Asks the number of people, not their ages."
+        },
+        "example": {
+          "text": "That is interesting, how many people are in your family?",
+          "translation": {
+            "fa": "جالب است؛ چند نفر در خانواده‌ات هستید؟",
+            "en": "That is interesting, how many people are in your family?"
+          }
+        }
+      },
+      {
+        "id": "there-are",
+        "text": "There are eight people",
+        "pronunciation": {
+          "faReading": "ذِر آر اِیت پیپِل",
+          "ipa": "/ðɛr ɑr eɪt ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "هشت نفر هستند",
+          "en": "There are eight people"
+        },
+        "context": {
+          "fa": "جواب تعداد اعضای خانوادهٔ حمید است.",
+          "en": "Answers the question about Hamid’s family size."
+        },
+        "example": {
+          "text": "There are eight people, my parents and six children.",
+          "translation": {
+            "fa": "هشت نفریم: پدر و مادرم و شش فرزند.",
+            "en": "There are eight people, my parents and six children."
+          }
+        }
+      },
+      {
+        "id": "sounds-wonderful",
+        "text": "That sounds wonderful",
+        "pronunciation": {
+          "faReading": "ذَت ساوندز واندِرفُل",
+          "ipa": "/ðæt saʊndz ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "عالی به نظر می‌رسد",
+          "en": "That sounds wonderful"
+        },
+        "context": {
+          "fa": "واکنش خوب به حرفی که شنیده‌ایم.",
+          "en": "A happy response to what someone has said."
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "family-three",
+        "text": "a small family of three",
+        "pronunciation": {
+          "faReading": "اِ سْمال فَمِلی اَو ثْری",
+          "ipa": "/ə smɔl ˈfæməli əv θri/"
+        },
+        "meaning": {
+          "fa": "خانوادهٔ کوچک سه‌نفره",
+          "en": "A small family of three"
+        },
+        "context": {
+          "fa": "سحر اندازهٔ خانوادهٔ خودش را می‌گوید.",
+          "en": "Sahar describes the size of her own family."
+        },
+        "example": {
+          "text": "That sounds wonderful, I come from a small family of three.",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ من از یک خانوادهٔ کوچک سه‌نفره هستم.",
+            "en": "That sounds wonderful, I come from a small family of three."
+          }
+        }
+      },
+      {
+        "id": "you-right",
+        "text": "You are right",
+        "pronunciation": {
+          "faReading": "یو آر رایت",
+          "ipa": "/ju ɑr raɪt/"
+        },
+        "meaning": {
+          "fa": "درست می‌گویی",
+          "en": "You are right"
+        },
+        "context": {
+          "fa": "برای موافقت با حرف طرف مقابل.",
+          "en": "Use it to agree with someone."
+        },
+        "example": {
+          "text": "You are right, and I enjoy the quiet at home.",
+          "translation": {
+            "fa": "درست می‌گویی؛ من هم از آرامش خانه لذت می‌برم.",
+            "en": "You are right, and I enjoy the quiet at home."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر دربارهٔ چه چیزی صحبت می‌کنند؟",
+          "en": "What are the speakers talking about?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اندازه و حال‌وهوای خانواده‌هایشان",
+              "en": "Their families’ size and atmosphere"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شغل پدر و مادرهایشان",
+              "en": "Their parents’ jobs"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامهٔ تعطیلات خانواده‌هایشان",
+              "en": "Their families’ holiday plans"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "تعداد اعضا و شلوغی یا آرامش خانواده‌ها را مقایسه می‌کنند.",
+          "en": "They compare family size and a lively or quiet home."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t03",
+          "t06",
+          "t08"
+        ]
+      },
+      {
+        "id": "family-size",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "خانوادهٔ حمید چند نفره است؟",
+          "en": "How many people are in Hamid’s family?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شش نفر",
+              "en": "Six"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هشت نفر",
+              "en": "Eight"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه نفر",
+              "en": "Three"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "حمید می‌گوید There are eight people.",
+          "en": "Hamid says There are eight people."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "children",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "در خانوادهٔ حمید چند فرزند هست؟",
+          "en": "How many children are in Hamid’s family?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هشت",
+              "en": "Eight"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج",
+              "en": "Five"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شش",
+              "en": "Six"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "پدر و مادر به‌علاوهٔ شش فرزند، هشت نفر می‌شوند.",
+          "en": "The parents plus six children make eight people."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "sahar-family",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "خانوادهٔ سحر چند نفره است؟",
+          "en": "How many people are in Sahar’s family?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سه",
+              "en": "Three"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چهار",
+              "en": "Four"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شش",
+              "en": "Six"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سحر می‌گوید a small family of three.",
+          "en": "Sahar says a small family of three."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "sahar-likes",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سحر از چه چیزی در خانه لذت می‌برد؟",
+          "en": "What does Sahar enjoy at home?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بازی با شش بچه",
+              "en": "Playing with six children"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آرامش",
+              "en": "The quiet"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مهمانی هرروزه",
+              "en": "Daily parties"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "سحر می‌گوید I enjoy the quiet at home.",
+          "en": "Sahar says I enjoy the quiet at home."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

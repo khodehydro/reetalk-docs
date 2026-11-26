@@ -1,0 +1,5079 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s12",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "C1",
+  "title": {
+    "fa": "خانواده دیروز، خانواده امروز",
+    "en": "Families Then and Now"
+  },
+  "objective": {
+    "fa": "تغییر ساخت خانواده و عوامل آن را جمع‌بندی کن، دیدگاه دو نفر دربارهٔ پیوند خانوادگی را بسنج و شرط نهایی پایداری خانواده را توضیح بده.",
+    "en": "Synthesize changes in family structure and their causes, compare the speakers’ positions on family bonds, and explain the final condition for family strength."
+  },
+  "speakers": [
+    {
+      "id": "farzad",
+      "name": "Farzad",
+      "gender": "man"
+    },
+    {
+      "id": "leila",
+      "name": "Leila",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "farzad",
+      "text": "Families have changed a lot compared to fifty years ago.",
+      "translation": {
+        "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+        "en": "Families have changed a lot compared to fifty years ago."
+      },
+      "tokens": [
+        {
+          "surface": "Families",
+          "gloss": {
+            "fa": "خانواده‌ها",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء حال کامل؛ تغییر تا وضعیت امروز",
+            "en": "have; perfect auxiliary connecting change to the present state"
+          }
+        },
+        {
+          "surface": "changed",
+          "gloss": {
+            "fa": "تغییر کرده‌اند",
+            "en": "changed; became different"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "lot",
+          "gloss": {
+            "fa": "مقدار زیاد",
+            "en": "lot; a large amount"
+          }
+        },
+        {
+          "surface": "compared",
+          "gloss": {
+            "fa": "در مقایسه؛ همراه to",
+            "en": "compared; with to, considered against a reference point"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "با؛ جزء compared to",
+            "en": "to; preposition introducing the historical comparison baseline"
+          }
+        },
+        {
+          "surface": "fifty",
+          "gloss": {
+            "fa": "پنجاه",
+            "en": "fifty; 50"
+          }
+        },
+        {
+          "surface": "years",
+          "gloss": {
+            "fa": "سال‌ها",
+            "en": "years; periods of twelve months"
+          }
+        },
+        {
+          "surface": "ago.",
+          "gloss": {
+            "fa": "پیش؛ قبل از اکنون",
+            "en": "ago; before now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "leila",
+      "text": "You are right, and I think this change is visible in many ways.",
+      "translation": {
+        "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+        "en": "You are right, and I think this change is visible in many ways."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست",
+            "en": "right; correct"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "change",
+          "gloss": {
+            "fa": "تغییر؛ تغییر کردن",
+            "en": "change; become different, or a difference over time"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "visible",
+          "gloss": {
+            "fa": "آشکار؛ قابل مشاهده",
+            "en": "visible; perceptible or evident"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "ways.",
+          "gloss": {
+            "fa": "جنبه‌ها؛ نمودهای تغییر",
+            "en": "ways; aspects in which the change is visible"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "farzad",
+      "text": "In the past, families were larger and several generations lived together.",
+      "translation": {
+        "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+        "en": "In the past, families were larger and several generations lived together."
+      },
+      "tokens": [
+        {
+          "surface": "In",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "past,",
+          "gloss": {
+            "fa": "گذشته؛ دورهٔ پیشین",
+            "en": "past; an earlier historical period"
+          }
+        },
+        {
+          "surface": "families",
+          "gloss": {
+            "fa": "خانواده‌ها",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "were",
+          "gloss": {
+            "fa": "بودند؛ بودیم",
+            "en": "were; are in the past"
+          }
+        },
+        {
+          "surface": "larger",
+          "gloss": {
+            "fa": "پرجمعیت‌تر؛ نه لزوماً خانهٔ بزرگ‌تر",
+            "en": "larger; having more family members, not necessarily more space"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "several",
+          "gloss": {
+            "fa": "چندین",
+            "en": "several; more than two but not many"
+          }
+        },
+        {
+          "surface": "generations",
+          "gloss": {
+            "fa": "نسل‌ها",
+            "en": "generations; groups born in different periods"
+          }
+        },
+        {
+          "surface": "lived",
+          "gloss": {
+            "fa": "زندگی می‌کردند",
+            "en": "lived; shared a home in the past"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "leila",
+      "text": "Today many people live alone or in small families in different cities.",
+      "translation": {
+        "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+        "en": "Today many people live alone or in small families in different cities."
+      },
+      "tokens": [
+        {
+          "surface": "Today",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "live",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "live; have your home in a place"
+          }
+        },
+        {
+          "surface": "alone",
+          "gloss": {
+            "fa": "تنها",
+            "en": "alone; without other people"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "families",
+          "gloss": {
+            "fa": "خانواده‌ها",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "different",
+          "gloss": {
+            "fa": "متفاوت",
+            "en": "different; not the same"
+          }
+        },
+        {
+          "surface": "cities.",
+          "gloss": {
+            "fa": "شهرها",
+            "en": "cities; large towns"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "farzad",
+      "text": "Work and education also moved people away from their hometowns.",
+      "translation": {
+        "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+        "en": "Work and education also moved people away from their hometowns."
+      },
+      "tokens": [
+        {
+          "surface": "Work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "education",
+          "gloss": {
+            "fa": "آموزش؛ تحصیلات",
+            "en": "education; learning through study and instruction"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "moved",
+          "gloss": {
+            "fa": "باعث جابه‌جایی شدند",
+            "en": "moved; work and education caused people to relocate"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "away",
+          "gloss": {
+            "fa": "دور؛ به جایی دیگر",
+            "en": "away; at or to another place"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "hometowns.",
+          "gloss": {
+            "fa": "زادگاه‌ها؛ شهرهای اصلی زندگی",
+            "en": "hometowns; the towns people come from"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "leila",
+      "text": "Yes, and women's roles changed greatly with education and employment.",
+      "translation": {
+        "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+        "en": "Yes, and women's roles changed greatly with education and employment."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "women's",
+          "gloss": {
+            "fa": "مربوط به زنان",
+            "en": "women's; belonging or relating to women"
+          }
+        },
+        {
+          "surface": "roles",
+          "gloss": {
+            "fa": "نقش‌ها",
+            "en": "roles; socially expected functions or positions"
+          }
+        },
+        {
+          "surface": "changed",
+          "gloss": {
+            "fa": "تغییر کرده‌اند",
+            "en": "changed; became different"
+          }
+        },
+        {
+          "surface": "greatly",
+          "gloss": {
+            "fa": "بسیار؛ به میزان زیاد",
+            "en": "greatly; to a large degree"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ همراه گسترش تحصیل و اشتغال",
+            "en": "with; links role change to education and employment"
+          }
+        },
+        {
+          "surface": "education",
+          "gloss": {
+            "fa": "آموزش؛ تحصیلات",
+            "en": "education; learning through study and instruction"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "employment.",
+          "gloss": {
+            "fa": "اشتغال",
+            "en": "employment; paid work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "farzad",
+      "text": "This does not mean family ties became weaker, I believe.",
+      "translation": {
+        "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+        "en": "This does not mean family ties became weaker, I believe."
+      },
+      "tokens": [
+        {
+          "surface": "This",
+          "gloss": {
+            "fa": "این؛ تغییرهای شرح‌داده‌شده",
+            "en": "this; packages the previously described changes as one topic"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به منفی‌کردن mean",
+            "en": "does; auxiliary for the negative claim does not mean"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "mean",
+          "gloss": {
+            "fa": "معنی دادن؛ به این معنی بودن",
+            "en": "mean; imply or signify"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "ties",
+          "gloss": {
+            "fa": "پیوندها",
+            "en": "ties; bonds connecting people"
+          }
+        },
+        {
+          "surface": "became",
+          "gloss": {
+            "fa": "شدند",
+            "en": "became; changed into a state"
+          }
+        },
+        {
+          "surface": "weaker,",
+          "gloss": {
+            "fa": "ضعیف‌تر",
+            "en": "weaker; less strong"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "believe.",
+          "gloss": {
+            "fa": "باور داشتن؛ فکر کردن",
+            "en": "believe; think something is true"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "leila",
+      "text": "I agree, communication tools help families stay close despite distance.",
+      "translation": {
+        "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+        "en": "I agree, communication tools help families stay close despite distance."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "agree,",
+          "gloss": {
+            "fa": "موافق بودن",
+            "en": "agree; have the same opinion"
+          }
+        },
+        {
+          "surface": "communication",
+          "gloss": {
+            "fa": "ارتباط",
+            "en": "communication; exchange of information between people"
+          }
+        },
+        {
+          "surface": "tools",
+          "gloss": {
+            "fa": "ابزارها",
+            "en": "tools; means used to accomplish something"
+          }
+        },
+        {
+          "surface": "help",
+          "gloss": {
+            "fa": "کمک می‌کنند؛ پس از آن فعل بدون to آمده",
+            "en": "help; takes families plus bare infinitive stay"
+          }
+        },
+        {
+          "surface": "families",
+          "gloss": {
+            "fa": "خانواده‌ها",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "stay",
+          "gloss": {
+            "fa": "ماندن",
+            "en": "stay; continue to be"
+          }
+        },
+        {
+          "surface": "close",
+          "gloss": {
+            "fa": "نزدیک؛ از نظر عاطفی",
+            "en": "close; emotionally connected despite physical separation"
+          }
+        },
+        {
+          "surface": "despite",
+          "gloss": {
+            "fa": "با وجودِ",
+            "en": "despite; without being prevented by"
+          }
+        },
+        {
+          "surface": "distance.",
+          "gloss": {
+            "fa": "فاصله",
+            "en": "distance; physical separation between places"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "farzad",
+      "text": "Still, the sense of community that large families provided is rare now.",
+      "translation": {
+        "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+        "en": "Still, the sense of community that large families provided is rare now."
+      },
+      "tokens": [
+        {
+          "surface": "Still,",
+          "gloss": {
+            "fa": "با این حال؛ پذیرش همراه با تحفظ",
+            "en": "still; introduces a qualification after partial agreement"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "sense",
+          "gloss": {
+            "fa": "حس؛ احساس",
+            "en": "sense; an awareness or feeling"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "community",
+          "gloss": {
+            "fa": "باهم‌بودن و پیوند جمعی",
+            "en": "community; a shared social connection rather than a location alone"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "که؛ آغاز بند توصیف‌کنندهٔ sense",
+            "en": "that; relative marker, object of provided"
+          }
+        },
+        {
+          "surface": "large",
+          "gloss": {
+            "fa": "بزرگ؛ پرجمعیت",
+            "en": "large; big in size or number"
+          }
+        },
+        {
+          "surface": "families",
+          "gloss": {
+            "fa": "خانواده‌ها",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "provided",
+          "gloss": {
+            "fa": "فراهم می‌کردند",
+            "en": "provided; supplied or made available"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "rare",
+          "gloss": {
+            "fa": "کمیاب؛ کم‌پیدا",
+            "en": "rare; not common"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "leila",
+      "text": "Neighborhoods and social circles can also create that sense of belonging.",
+      "translation": {
+        "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+        "en": "Neighborhoods and social circles can also create that sense of belonging."
+      },
+      "tokens": [
+        {
+          "surface": "Neighborhoods",
+          "gloss": {
+            "fa": "محله‌ها",
+            "en": "neighborhoods; local residential communities"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "social",
+          "gloss": {
+            "fa": "اجتماعی",
+            "en": "social; relating to relationships between people"
+          }
+        },
+        {
+          "surface": "circles",
+          "gloss": {
+            "fa": "حلقه‌ها؛ اینجا گروه‌های ارتباطی",
+            "en": "circles; groups connected by shared interests or relationships"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "create",
+          "gloss": {
+            "fa": "ایجاد کردن",
+            "en": "create; bring something into existence"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sense",
+          "gloss": {
+            "fa": "حس؛ احساس",
+            "en": "sense; an awareness or feeling"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "belonging.",
+          "gloss": {
+            "fa": "تعلق",
+            "en": "belonging; a feeling of being accepted as part of a group"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "farzad",
+      "text": "True, but nothing replaces the warmth of a big family gathering.",
+      "translation": {
+        "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+        "en": "True, but nothing replaces the warmth of a big family gathering."
+      },
+      "tokens": [
+        {
+          "surface": "True,",
+          "gloss": {
+            "fa": "درست است؛ پذیرش نسبی نکتهٔ قبل",
+            "en": "true; concedes the preceding point before a counterweight"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "nothing",
+          "gloss": {
+            "fa": "هیچ‌چیز",
+            "en": "nothing; not anything"
+          }
+        },
+        {
+          "surface": "replaces",
+          "gloss": {
+            "fa": "جایگزین می‌شود",
+            "en": "replaces; takes the place of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "warmth",
+          "gloss": {
+            "fa": "صمیمیت؛ گرمی عاطفی",
+            "en": "warmth; affection and friendliness"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "big",
+          "gloss": {
+            "fa": "بزرگ؛ پرجمعیت",
+            "en": "big; large"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "gathering.",
+          "gloss": {
+            "fa": "گردهمایی",
+            "en": "gathering; an occasion when people come together"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "leila",
+      "text": "Each family form has its own challenges and its own beauty.",
+      "translation": {
+        "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+        "en": "Each family form has its own challenges and its own beauty."
+      },
+      "tokens": [
+        {
+          "surface": "Each",
+          "gloss": {
+            "fa": "هر؛ تک‌تک شکل‌های خانواده",
+            "en": "each; considers family forms individually"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "form",
+          "gloss": {
+            "fa": "شکل؛ ساختار",
+            "en": "form; a type or arrangement"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "دارد",
+            "en": "has; have with he, she or it"
+          }
+        },
+        {
+          "surface": "its",
+          "gloss": {
+            "fa": "خاص خودش؛ مربوط به هر شکل خانواده",
+            "en": "its; refers distributively to each family form"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "خاصِ خود؛ تأکید بر ویژگی مستقل",
+            "en": "own; emphasizes what is distinctive to each form"
+          }
+        },
+        {
+          "surface": "challenges",
+          "gloss": {
+            "fa": "چالش‌ها",
+            "en": "challenges; difficulties requiring effort"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "its",
+          "gloss": {
+            "fa": "خاص خودش؛ مربوط به هر شکل خانواده",
+            "en": "its; refers distributively to each family form"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "خاصِ خود؛ تأکید بر ویژگی مستقل",
+            "en": "own; emphasizes what is distinctive to each form"
+          }
+        },
+        {
+          "surface": "beauty.",
+          "gloss": {
+            "fa": "زیبایی",
+            "en": "beauty; an attractive or valuable quality"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "farzad",
+      "text": "What matters is support, love, and spending meaningful time together.",
+      "translation": {
+        "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+        "en": "What matters is support, love, and spending meaningful time together."
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "آنچه؛ مجموعهٔ چیزهای مهم",
+            "en": "what; fused relative meaning the thing or things that"
+          }
+        },
+        {
+          "surface": "matters",
+          "gloss": {
+            "fa": "اهمیت دارد",
+            "en": "matters; is important"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است؛ پیوند با فهرست ارزش‌ها",
+            "en": "is; singular agreement with the what-clause focus"
+          }
+        },
+        {
+          "surface": "support,",
+          "gloss": {
+            "fa": "حمایت؛ حمایت کردن",
+            "en": "support; help or encouragement"
+          }
+        },
+        {
+          "surface": "love,",
+          "gloss": {
+            "fa": "عشق؛ محبت",
+            "en": "love; deep affection"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "spending",
+          "gloss": {
+            "fa": "گذراندن",
+            "en": "spending; using time in an activity"
+          }
+        },
+        {
+          "surface": "meaningful",
+          "gloss": {
+            "fa": "معنادار؛ باارزش",
+            "en": "meaningful; having significance rather than being merely routine"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period available for something"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "leila",
+      "text": "Exactly, and as long as people care for each other, family remains strong.",
+      "translation": {
+        "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+        "en": "Exactly, and as long as people care for each other, family remains strong."
+      },
+      "tokens": [
+        {
+          "surface": "Exactly,",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "بخشی از «تا زمانی که؛ به شرط آنکه»",
+            "en": "part of as long as; a condition, not a measurement of duration here"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "بخشی از «تا زمانی که؛ به شرط آنکه»",
+            "en": "part of as long as; a condition, not a measurement of duration here"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "بخشی از «تا زمانی که؛ به شرط آنکه»",
+            "en": "part of as long as; a condition, not a measurement of duration here"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "care",
+          "gloss": {
+            "fa": "بخشی از «اهمیت دادن و رسیدگی کردن به»",
+            "en": "part of care for; show affection and concern for"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "بخشی از «اهمیت دادن و رسیدگی کردن به»",
+            "en": "part of care for; show affection and concern for"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "بخشی از «یکدیگر»",
+            "en": "part of each other; mutual concern among family members"
+          }
+        },
+        {
+          "surface": "other,",
+          "gloss": {
+            "fa": "بخشی از «یکدیگر»",
+            "en": "part of each other; mutual concern among family members"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "remains",
+          "gloss": {
+            "fa": "باقی می‌ماند",
+            "en": "remains; continues to be"
+          }
+        },
+        {
+          "surface": "strong.",
+          "gloss": {
+            "fa": "قوی؛ محکم",
+            "en": "strong; resilient or firmly connected"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "speakerId": "farzad",
+      "text": "I also believe parents today try to listen to their children more.",
+      "translation": {
+        "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+        "en": "I also believe parents today try to listen to their children more."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "believe",
+          "gloss": {
+            "fa": "باور داشتن؛ فکر کردن",
+            "en": "believe; think something is true"
+          }
+        },
+        {
+          "surface": "parents",
+          "gloss": {
+            "fa": "پدر و مادر؛ والدین",
+            "en": "parents; mother and father"
+          }
+        },
+        {
+          "surface": "today",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش می‌کنند",
+            "en": "try; make an effort to listen"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "listen",
+          "gloss": {
+            "fa": "گوش دادن",
+            "en": "listen; pay attention to what is said"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ جزء listen to",
+            "en": "to; selected preposition after listen"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "children",
+          "gloss": {
+            "fa": "فرزندان؛ بچه‌ها",
+            "en": "children; more than one child"
+          }
+        },
+        {
+          "surface": "more.",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "speakerId": "leila",
+      "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+      "translation": {
+        "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+        "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "positive",
+          "gloss": {
+            "fa": "مثبت",
+            "en": "positive; beneficial or favorable"
+          }
+        },
+        {
+          "surface": "change,",
+          "gloss": {
+            "fa": "تغییر؛ تغییر کردن",
+            "en": "change; become different, or a difference over time"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "dialogue",
+          "gloss": {
+            "fa": "گفت‌وگو",
+            "en": "dialogue; an exchange in which people listen and respond"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "جزء حال کامل has replaced",
+            "en": "has; perfect auxiliary, change with a present result"
+          }
+        },
+        {
+          "surface": "replaced",
+          "gloss": {
+            "fa": "جایگزین کرده است",
+            "en": "replaced; taken the place of"
+          }
+        },
+        {
+          "surface": "strict",
+          "gloss": {
+            "fa": "سخت‌گیر",
+            "en": "strict; demanding close obedience to rules"
+          }
+        },
+        {
+          "surface": "rules",
+          "gloss": {
+            "fa": "قوانین",
+            "en": "rules; expectations governing behavior"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "homes.",
+          "gloss": {
+            "fa": "خانه‌ها",
+            "en": "homes; places where people live"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "families",
+        "text": "Families",
+        "pronunciation": {
+          "faReading": "فَمِلیز",
+          "ipa": "/ˈfæməliz/"
+        },
+        "meaning": {
+          "fa": "خانواده‌ها",
+          "en": "families; groups of related people"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء حال کامل؛ تغییر تا وضعیت امروز",
+          "en": "have; perfect auxiliary connecting change to the present state"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "changed",
+        "text": "changed",
+        "pronunciation": {
+          "faReading": "چِینجد",
+          "ipa": "/tʃeɪndʒd/"
+        },
+        "meaning": {
+          "fa": "تغییر کرده‌اند",
+          "en": "changed; became different"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "lot",
+        "text": "lot",
+        "pronunciation": {
+          "faReading": "لات",
+          "ipa": "/lɑt/"
+        },
+        "meaning": {
+          "fa": "مقدار زیاد",
+          "en": "lot; a large amount"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "compared",
+        "text": "compared",
+        "pronunciation": {
+          "faReading": "کِمپِرد",
+          "ipa": "/kəmˈpɛrd/"
+        },
+        "meaning": {
+          "fa": "در مقایسه؛ همراه to",
+          "en": "compared; with to, considered against a reference point"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "با؛ جزء compared to",
+          "en": "to; preposition introducing the historical comparison baseline"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "fifty",
+        "text": "fifty",
+        "pronunciation": {
+          "faReading": "فیفتی",
+          "ipa": "/ˈfɪfti/"
+        },
+        "meaning": {
+          "fa": "پنجاه",
+          "en": "fifty; 50"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "ago",
+        "text": "ago",
+        "pronunciation": {
+          "faReading": "اِگُو",
+          "ipa": "/əˈɡoʊ/"
+        },
+        "meaning": {
+          "fa": "پیش؛ قبل از اکنون",
+          "en": "ago; before now"
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست",
+          "en": "right; correct"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "change",
+        "text": "change",
+        "pronunciation": {
+          "faReading": "چِینج",
+          "ipa": "/tʃeɪndʒ/"
+        },
+        "meaning": {
+          "fa": "تغییر؛ تغییر کردن",
+          "en": "change; become different, or a difference over time"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "visible",
+        "text": "visible",
+        "pronunciation": {
+          "faReading": "ویزِبِل",
+          "ipa": "/ˈvɪzəbəl/"
+        },
+        "meaning": {
+          "fa": "آشکار؛ قابل مشاهده",
+          "en": "visible; perceptible or evident"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بسیاری",
+          "en": "many; a large number"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "ways",
+        "text": "ways",
+        "pronunciation": {
+          "faReading": "وِیز",
+          "ipa": "/weɪz/"
+        },
+        "meaning": {
+          "fa": "جنبه‌ها؛ نمودهای تغییر",
+          "en": "ways; aspects in which the change is visible"
+        },
+        "example": {
+          "text": "You are right, and I think this change is visible in many ways.",
+          "translation": {
+            "fa": "درست می‌گویی؛ به نظر من این تغییر از جنبه‌های زیادی آشکار است.",
+            "en": "You are right, and I think this change is visible in many ways."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "past",
+        "text": "past",
+        "pronunciation": {
+          "faReading": "پَست",
+          "ipa": "/pæst/"
+        },
+        "meaning": {
+          "fa": "گذشته؛ دورهٔ پیشین",
+          "en": "past; an earlier historical period"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "were",
+        "text": "were",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɚ/"
+        },
+        "meaning": {
+          "fa": "بودند؛ بودیم",
+          "en": "were; are in the past"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "larger",
+        "text": "larger",
+        "pronunciation": {
+          "faReading": "لارجِر",
+          "ipa": "/ˈlɑrdʒɚ/"
+        },
+        "meaning": {
+          "fa": "پرجمعیت‌تر؛ نه لزوماً خانهٔ بزرگ‌تر",
+          "en": "larger; having more family members, not necessarily more space"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "several",
+        "text": "several",
+        "pronunciation": {
+          "faReading": "سِوِرِل",
+          "ipa": "/ˈsɛvərəl/"
+        },
+        "meaning": {
+          "fa": "چندین",
+          "en": "several; more than two but not many"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "generations",
+        "text": "generations",
+        "pronunciation": {
+          "faReading": "جِنِرِیشنز",
+          "ipa": "/ˌdʒɛnəˈreɪʃənz/"
+        },
+        "meaning": {
+          "fa": "نسل‌ها",
+          "en": "generations; groups born in different periods"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "lived",
+        "text": "lived",
+        "pronunciation": {
+          "faReading": "لیود",
+          "ipa": "/lɪvd/"
+        },
+        "meaning": {
+          "fa": "زندگی می‌کردند",
+          "en": "lived; shared a home in the past"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "In the past, families were larger and several generations lived together.",
+          "translation": {
+            "fa": "در گذشته، خانواده‌ها پرجمعیت‌تر بودند و چند نسل با هم زندگی می‌کردند.",
+            "en": "In the past, families were larger and several generations lived together."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "Today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "live",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن",
+          "en": "live; have your home in a place"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "alone",
+        "text": "alone",
+        "pronunciation": {
+          "faReading": "اِلُون",
+          "ipa": "/əˈloʊn/"
+        },
+        "meaning": {
+          "fa": "تنها",
+          "en": "alone; without other people"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "different",
+        "text": "different",
+        "pronunciation": {
+          "faReading": "دیفِرِنت",
+          "ipa": "/ˈdɪfərənt/"
+        },
+        "meaning": {
+          "fa": "متفاوت",
+          "en": "different; not the same"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "cities",
+        "text": "cities",
+        "pronunciation": {
+          "faReading": "سیتیز",
+          "ipa": "/ˈsɪtiz/"
+        },
+        "meaning": {
+          "fa": "شهرها",
+          "en": "cities; large towns"
+        },
+        "example": {
+          "text": "Today many people live alone or in small families in different cities.",
+          "translation": {
+            "fa": "امروز افراد زیادی تنها یا در خانواده‌های کوچک در شهرهای مختلف زندگی می‌کنند.",
+            "en": "Today many people live alone or in small families in different cities."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "Work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "education",
+        "text": "education",
+        "pronunciation": {
+          "faReading": "اِجِکِیشن",
+          "ipa": "/ˌɛdʒəˈkeɪʃən/"
+        },
+        "meaning": {
+          "fa": "آموزش؛ تحصیلات",
+          "en": "education; learning through study and instruction"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "moved",
+        "text": "moved",
+        "pronunciation": {
+          "faReading": "موود",
+          "ipa": "/muvd/"
+        },
+        "meaning": {
+          "fa": "باعث جابه‌جایی شدند",
+          "en": "moved; work and education caused people to relocate"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "away",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "دور؛ به جایی دیگر",
+          "en": "away; at or to another place"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "their",
+        "text": "their",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "مال آن‌ها",
+          "en": "their; belonging to them"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "hometowns",
+        "text": "hometowns",
+        "pronunciation": {
+          "faReading": "هُوم‌تاونز",
+          "ipa": "/ˈhoʊmtaʊnz/"
+        },
+        "meaning": {
+          "fa": "زادگاه‌ها؛ شهرهای اصلی زندگی",
+          "en": "hometowns; the towns people come from"
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "women-possessive",
+        "text": "women's",
+        "pronunciation": {
+          "faReading": "ویمِنز",
+          "ipa": "/ˈwɪmɪnz/"
+        },
+        "meaning": {
+          "fa": "مربوط به زنان",
+          "en": "women's; belonging or relating to women"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "roles",
+        "text": "roles",
+        "pronunciation": {
+          "faReading": "رُولز",
+          "ipa": "/roʊlz/"
+        },
+        "meaning": {
+          "fa": "نقش‌ها",
+          "en": "roles; socially expected functions or positions"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "greatly",
+        "text": "greatly",
+        "pronunciation": {
+          "faReading": "گْرِیتلی",
+          "ipa": "/ˈɡreɪtli/"
+        },
+        "meaning": {
+          "fa": "بسیار؛ به میزان زیاد",
+          "en": "greatly; to a large degree"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ همراه گسترش تحصیل و اشتغال",
+          "en": "with; links role change to education and employment"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "employment",
+        "text": "employment",
+        "pronunciation": {
+          "faReading": "اِمپْلوی‌مِنت",
+          "ipa": "/ɪmˈplɔɪmənt/"
+        },
+        "meaning": {
+          "fa": "اشتغال",
+          "en": "employment; paid work"
+        },
+        "example": {
+          "text": "Yes, and women's roles changed greatly with education and employment.",
+          "translation": {
+            "fa": "بله، نقش‌های زنان هم با تحصیل و اشتغال بسیار تغییر کرد.",
+            "en": "Yes, and women's roles changed greatly with education and employment."
+          }
+        }
+      },
+      {
+        "id": "this-discourse",
+        "text": "This",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این؛ تغییرهای شرح‌داده‌شده",
+          "en": "this; packages the previously described changes as one topic"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به منفی‌کردن mean",
+          "en": "does; auxiliary for the negative claim does not mean"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "mean",
+        "text": "mean",
+        "pronunciation": {
+          "faReading": "مین",
+          "ipa": "/min/"
+        },
+        "meaning": {
+          "fa": "معنی دادن؛ به این معنی بودن",
+          "en": "mean; imply or signify"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "ties",
+        "text": "ties",
+        "pronunciation": {
+          "faReading": "تایز",
+          "ipa": "/taɪz/"
+        },
+        "meaning": {
+          "fa": "پیوندها",
+          "en": "ties; bonds connecting people"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "became",
+        "text": "became",
+        "pronunciation": {
+          "faReading": "بی‌کِیم",
+          "ipa": "/bɪˈkeɪm/"
+        },
+        "meaning": {
+          "fa": "شدند",
+          "en": "became; changed into a state"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "weaker",
+        "text": "weaker",
+        "pronunciation": {
+          "faReading": "ویکِر",
+          "ipa": "/ˈwikɚ/"
+        },
+        "meaning": {
+          "fa": "ضعیف‌تر",
+          "en": "weaker; less strong"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "believe",
+        "text": "believe",
+        "pronunciation": {
+          "faReading": "بی‌لیو",
+          "ipa": "/bɪˈliv/"
+        },
+        "meaning": {
+          "fa": "باور داشتن؛ فکر کردن",
+          "en": "believe; think something is true"
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "communication",
+        "text": "communication",
+        "pronunciation": {
+          "faReading": "کِمیونِکِیشن",
+          "ipa": "/kəˌmjunəˈkeɪʃən/"
+        },
+        "meaning": {
+          "fa": "ارتباط",
+          "en": "communication; exchange of information between people"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "tools",
+        "text": "tools",
+        "pronunciation": {
+          "faReading": "تولز",
+          "ipa": "/tulz/"
+        },
+        "meaning": {
+          "fa": "ابزارها",
+          "en": "tools; means used to accomplish something"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک می‌کنند؛ پس از آن فعل بدون to آمده",
+          "en": "help; takes families plus bare infinitive stay"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "stay",
+        "text": "stay",
+        "pronunciation": {
+          "faReading": "سْتِی",
+          "ipa": "/steɪ/"
+        },
+        "meaning": {
+          "fa": "ماندن",
+          "en": "stay; continue to be"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "close",
+        "text": "close",
+        "pronunciation": {
+          "faReading": "کْلُوس",
+          "ipa": "/kloʊs/"
+        },
+        "meaning": {
+          "fa": "نزدیک؛ از نظر عاطفی",
+          "en": "close; emotionally connected despite physical separation"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "despite",
+        "text": "despite",
+        "pronunciation": {
+          "faReading": "دی‌سْپایت",
+          "ipa": "/dɪˈspaɪt/"
+        },
+        "meaning": {
+          "fa": "با وجودِ",
+          "en": "despite; without being prevented by"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "distance",
+        "text": "distance",
+        "pronunciation": {
+          "faReading": "دیسْتِنس",
+          "ipa": "/ˈdɪstəns/"
+        },
+        "meaning": {
+          "fa": "فاصله",
+          "en": "distance; physical separation between places"
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "Still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "با این حال؛ پذیرش همراه با تحفظ",
+          "en": "still; introduces a qualification after partial agreement"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "sense",
+        "text": "sense",
+        "pronunciation": {
+          "faReading": "سِنس",
+          "ipa": "/sɛns/"
+        },
+        "meaning": {
+          "fa": "حس؛ احساس",
+          "en": "sense; an awareness or feeling"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "community",
+        "text": "community",
+        "pronunciation": {
+          "faReading": "کِمیونِتی",
+          "ipa": "/kəˈmjunəti/"
+        },
+        "meaning": {
+          "fa": "باهم‌بودن و پیوند جمعی",
+          "en": "community; a shared social connection rather than a location alone"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "که؛ آغاز بند توصیف‌کنندهٔ sense",
+          "en": "that; relative marker, object of provided"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "large",
+        "text": "large",
+        "pronunciation": {
+          "faReading": "لارج",
+          "ipa": "/lɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "بزرگ؛ پرجمعیت",
+          "en": "large; big in size or number"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "provided",
+        "text": "provided",
+        "pronunciation": {
+          "faReading": "پْرِوایدِد",
+          "ipa": "/prəˈvaɪdɪd/"
+        },
+        "meaning": {
+          "fa": "فراهم می‌کردند",
+          "en": "provided; supplied or made available"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "rare",
+        "text": "rare",
+        "pronunciation": {
+          "faReading": "رِر",
+          "ipa": "/rɛr/"
+        },
+        "meaning": {
+          "fa": "کمیاب؛ کم‌پیدا",
+          "en": "rare; not common"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "neighborhoods",
+        "text": "Neighborhoods",
+        "pronunciation": {
+          "faReading": "نِیبِرهودز",
+          "ipa": "/ˈneɪbɚhʊdz/"
+        },
+        "meaning": {
+          "fa": "محله‌ها",
+          "en": "neighborhoods; local residential communities"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "social",
+        "text": "social",
+        "pronunciation": {
+          "faReading": "سُوشِل",
+          "ipa": "/ˈsoʊʃəl/"
+        },
+        "meaning": {
+          "fa": "اجتماعی",
+          "en": "social; relating to relationships between people"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "circles",
+        "text": "circles",
+        "pronunciation": {
+          "faReading": "سِرکِلز",
+          "ipa": "/ˈsɝkəlz/"
+        },
+        "meaning": {
+          "fa": "حلقه‌ها؛ اینجا گروه‌های ارتباطی",
+          "en": "circles; groups connected by shared interests or relationships"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "create",
+        "text": "create",
+        "pronunciation": {
+          "faReading": "کْری‌اِیت",
+          "ipa": "/kriˈeɪt/"
+        },
+        "meaning": {
+          "fa": "ایجاد کردن",
+          "en": "create; bring something into existence"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "that-base",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "belonging",
+        "text": "belonging",
+        "pronunciation": {
+          "faReading": "بی‌لانگینگ",
+          "ipa": "/bɪˈlɔŋɪŋ/"
+        },
+        "meaning": {
+          "fa": "تعلق",
+          "en": "belonging; a feeling of being accepted as part of a group"
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "true",
+        "text": "True",
+        "pronunciation": {
+          "faReading": "تْرو",
+          "ipa": "/tru/"
+        },
+        "meaning": {
+          "fa": "درست است؛ پذیرش نسبی نکتهٔ قبل",
+          "en": "true; concedes the preceding point before a counterweight"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز",
+          "en": "nothing; not anything"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "replaces",
+        "text": "replaces",
+        "pronunciation": {
+          "faReading": "ری‌پْلِیسِز",
+          "ipa": "/rɪˈpleɪsɪz/"
+        },
+        "meaning": {
+          "fa": "جایگزین می‌شود",
+          "en": "replaces; takes the place of"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "warmth",
+        "text": "warmth",
+        "pronunciation": {
+          "faReading": "وورمث",
+          "ipa": "/wɔrmθ/"
+        },
+        "meaning": {
+          "fa": "صمیمیت؛ گرمی عاطفی",
+          "en": "warmth; affection and friendliness"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "big",
+        "text": "big",
+        "pronunciation": {
+          "faReading": "بیگ",
+          "ipa": "/bɪɡ/"
+        },
+        "meaning": {
+          "fa": "بزرگ؛ پرجمعیت",
+          "en": "big; large"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "gathering",
+        "text": "gathering",
+        "pronunciation": {
+          "faReading": "گَذِرینگ",
+          "ipa": "/ˈɡæðərɪŋ/"
+        },
+        "meaning": {
+          "fa": "گردهمایی",
+          "en": "gathering; an occasion when people come together"
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "Each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هر؛ تک‌تک شکل‌های خانواده",
+          "en": "each; considers family forms individually"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "form",
+        "text": "form",
+        "pronunciation": {
+          "faReading": "فورم",
+          "ipa": "/fɔrm/"
+        },
+        "meaning": {
+          "fa": "شکل؛ ساختار",
+          "en": "form; a type or arrangement"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "دارد",
+          "en": "has; have with he, she or it"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "its",
+        "text": "its",
+        "pronunciation": {
+          "faReading": "ایتس",
+          "ipa": "/ɪts/"
+        },
+        "meaning": {
+          "fa": "خاص خودش؛ مربوط به هر شکل خانواده",
+          "en": "its; refers distributively to each family form"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "own",
+        "text": "own",
+        "pronunciation": {
+          "faReading": "اُوْن",
+          "ipa": "/oʊn/"
+        },
+        "meaning": {
+          "fa": "خاصِ خود؛ تأکید بر ویژگی مستقل",
+          "en": "own; emphasizes what is distinctive to each form"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "challenges",
+        "text": "challenges",
+        "pronunciation": {
+          "faReading": "چَلِنجِز",
+          "ipa": "/ˈtʃælɪndʒɪz/"
+        },
+        "meaning": {
+          "fa": "چالش‌ها",
+          "en": "challenges; difficulties requiring effort"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "beauty",
+        "text": "beauty",
+        "pronunciation": {
+          "faReading": "بیوتی",
+          "ipa": "/ˈbjuti/"
+        },
+        "meaning": {
+          "fa": "زیبایی",
+          "en": "beauty; an attractive or valuable quality"
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "آنچه؛ مجموعهٔ چیزهای مهم",
+          "en": "what; fused relative meaning the thing or things that"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "matters",
+        "text": "matters",
+        "pronunciation": {
+          "faReading": "مَتِرز",
+          "ipa": "/ˈmætɚz/"
+        },
+        "meaning": {
+          "fa": "اهمیت دارد",
+          "en": "matters; is important"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "is-focus",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است؛ پیوند با فهرست ارزش‌ها",
+          "en": "is; singular agreement with the what-clause focus"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "support",
+        "text": "support",
+        "pronunciation": {
+          "faReading": "سِپورت",
+          "ipa": "/səˈpɔrt/"
+        },
+        "meaning": {
+          "fa": "حمایت؛ حمایت کردن",
+          "en": "support; help or encouragement"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "love",
+        "text": "love",
+        "pronunciation": {
+          "faReading": "لاو",
+          "ipa": "/lʌv/"
+        },
+        "meaning": {
+          "fa": "عشق؛ محبت",
+          "en": "love; deep affection"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "spending",
+        "text": "spending",
+        "pronunciation": {
+          "faReading": "سْپِندینگ",
+          "ipa": "/ˈspɛndɪŋ/"
+        },
+        "meaning": {
+          "fa": "گذراندن",
+          "en": "spending; using time in an activity"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "meaningful",
+        "text": "meaningful",
+        "pronunciation": {
+          "faReading": "مینینگ‌فُل",
+          "ipa": "/ˈminɪŋfəl/"
+        },
+        "meaning": {
+          "fa": "معنادار؛ باارزش",
+          "en": "meaningful; having significance rather than being merely routine"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period available for something"
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "Exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تا زمانی که؛ به شرط آنکه»",
+          "en": "part of as long as; a condition, not a measurement of duration here"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تا زمانی که؛ به شرط آنکه»",
+          "en": "part of as long as; a condition, not a measurement of duration here"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "care",
+        "text": "care",
+        "pronunciation": {
+          "faReading": "کِر",
+          "ipa": "/kɛr/"
+        },
+        "meaning": {
+          "fa": "بخشی از «اهمیت دادن و رسیدگی کردن به»",
+          "en": "part of care for; show affection and concern for"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "بخشی از «اهمیت دادن و رسیدگی کردن به»",
+          "en": "part of care for; show affection and concern for"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "each-reciprocal",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «یکدیگر»",
+          "en": "part of each other; mutual concern among family members"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «یکدیگر»",
+          "en": "part of each other; mutual concern among family members"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "remains",
+        "text": "remains",
+        "pronunciation": {
+          "faReading": "ری‌مِینز",
+          "ipa": "/rɪˈmeɪnz/"
+        },
+        "meaning": {
+          "fa": "باقی می‌ماند",
+          "en": "remains; continues to be"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "strong",
+        "text": "strong",
+        "pronunciation": {
+          "faReading": "سْترانگ",
+          "ipa": "/strɔŋ/"
+        },
+        "meaning": {
+          "fa": "قوی؛ محکم",
+          "en": "strong; resilient or firmly connected"
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      },
+      {
+        "id": "parents",
+        "text": "parents",
+        "pronunciation": {
+          "faReading": "پِرِنتس",
+          "ipa": "/ˈpɛrənts/"
+        },
+        "meaning": {
+          "fa": "پدر و مادر؛ والدین",
+          "en": "parents; mother and father"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش می‌کنند",
+          "en": "try; make an effort to listen"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "listen",
+        "text": "listen",
+        "pronunciation": {
+          "faReading": "لیسِن",
+          "ipa": "/ˈlɪsən/"
+        },
+        "meaning": {
+          "fa": "گوش دادن",
+          "en": "listen; pay attention to what is said"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "to-listening",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ جزء listen to",
+          "en": "to; selected preposition after listen"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "children",
+        "text": "children",
+        "pronunciation": {
+          "faReading": "چیلدرِن",
+          "ipa": "/ˈtʃɪldrən/"
+        },
+        "meaning": {
+          "fa": "فرزندان؛ بچه‌ها",
+          "en": "children; more than one child"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "I also believe parents today try to listen to their children more.",
+          "translation": {
+            "fa": "همچنین معتقدم امروزه پدر و مادرها بیشتر تلاش می‌کنند به فرزندانشان گوش بدهند.",
+            "en": "I also believe parents today try to listen to their children more."
+          }
+        }
+      },
+      {
+        "id": "positive",
+        "text": "positive",
+        "pronunciation": {
+          "faReading": "پازِتیو",
+          "ipa": "/ˈpɑzətɪv/"
+        },
+        "meaning": {
+          "fa": "مثبت",
+          "en": "positive; beneficial or favorable"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "dialogue",
+        "text": "dialogue",
+        "pronunciation": {
+          "faReading": "دایِلاگ",
+          "ipa": "/ˈdaɪəˌlɔɡ/"
+        },
+        "meaning": {
+          "fa": "گفت‌وگو",
+          "en": "dialogue; an exchange in which people listen and respond"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "has-perfect",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "جزء حال کامل has replaced",
+          "en": "has; perfect auxiliary, change with a present result"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "replaced",
+        "text": "replaced",
+        "pronunciation": {
+          "faReading": "ری‌پْلِیست",
+          "ipa": "/rɪˈpleɪst/"
+        },
+        "meaning": {
+          "fa": "جایگزین کرده است",
+          "en": "replaced; taken the place of"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "strict",
+        "text": "strict",
+        "pronunciation": {
+          "faReading": "سْتْریکت",
+          "ipa": "/strɪkt/"
+        },
+        "meaning": {
+          "fa": "سخت‌گیر",
+          "en": "strict; demanding close obedience to rules"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "rules",
+        "text": "rules",
+        "pronunciation": {
+          "faReading": "رولز",
+          "ipa": "/rulz/"
+        },
+        "meaning": {
+          "fa": "قوانین",
+          "en": "rules; expectations governing behavior"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      },
+      {
+        "id": "homes",
+        "text": "homes",
+        "pronunciation": {
+          "faReading": "هُومز",
+          "ipa": "/hoʊmz/"
+        },
+        "meaning": {
+          "fa": "خانه‌ها",
+          "en": "homes; places where people live"
+        },
+        "example": {
+          "text": "That is a positive change, and dialogue has replaced strict rules in many homes.",
+          "translation": {
+            "fa": "این تغییر مثبتی است و در خانه‌های زیادی گفت‌وگو جای قوانین سخت‌گیرانه را گرفته است.",
+            "en": "That is a positive change, and dialogue has replaced strict rules in many homes."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "historical-aspect",
+        "title": {
+          "fa": "گذشتهٔ تاریخی و نتیجهٔ امروزی",
+          "en": "Historical time and present relevance"
+        },
+        "explanation": {
+          "fa": "have changed و has replaced تغییر را با نتیجهٔ اکنون پیوند می‌دهند؛ were larger و lived در in the past وضعیت و عادت گذشته را قاب می‌گیرند. fifty years ago در compared to مبنای مقایسه است، نه زمان مستقیم فعل have changed؛ بنابراین وجود ago در این گروه با حال کامل تناقضی ندارد.",
+          "en": "Have changed and has replaced connect change to its current result, whereas were larger and lived within in the past describe earlier states and routines. Fifty years ago belongs inside the comparison baseline introduced by compared to, not as a direct time adjunct locating have changed."
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        },
+        "takeaway": {
+          "fa": "دامنهٔ هر قید زمانی را مشخص کن؛ ago درون مقایسه، زمان مستقیم فعل اصلی نیست.",
+          "en": "Identify each time expression’s scope: ago inside the comparison is not a direct past-time adjunct to the main verb."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گذشتهٔ تاریخی و نتیجهٔ امروزی",
+              "en": "Historical time and present relevance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "have changed a lot compared to fifty years ago"
+                },
+                {
+                  "text": "present perfect + comparison baseline"
+                },
+                {
+                  "fa": "نسبت به پنجاه سال پیش بسیار تغییر کرده‌اند",
+                  "en": "Present relevance with a historical reference"
+                }
+              ],
+              [
+                {
+                  "text": "In the past, families were larger"
+                },
+                {
+                  "text": "past frame + past state"
+                },
+                {
+                  "fa": "در گذشته پرجمعیت‌تر بودند",
+                  "en": "Historical setting"
+                }
+              ],
+              [
+                {
+                  "text": "dialogue has replaced strict rules"
+                },
+                {
+                  "text": "has + past participle"
+                },
+                {
+                  "fa": "گفت‌وگو جای قوانین سخت را گرفته است",
+                  "en": "Change viewed through its current result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "causes-and-comparison",
+        "title": {
+          "fa": "عامل تغییر و مقایسهٔ دقیق",
+          "en": "Causes of change and precise comparison"
+        },
+        "explanation": {
+          "fa": "Work and education moved people ساخت سببی با مفعول people دارد: کار و تحصیل عامل جابه‌جایی معرفی می‌شوند. larger دربارهٔ تعداد اعضای خانواده است و weaker قدرت پیوندها را مقایسه می‌کند؛ یکی از دیگری نتیجه نمی‌شود. with education and employment نیز تغییر نقش‌ها را به این عوامل مرتبط می‌کند.",
+          "en": "Work and education moved people uses moved transitively: work and education are presented as causes of relocation. Larger compares membership size, whereas weaker compares bond strength; one does not entail the other. With education and employment associates role change with those developments."
+        },
+        "example": {
+          "text": "Work and education also moved people away from their hometowns.",
+          "translation": {
+            "fa": "کار و تحصیل هم مردم را از زادگاهشان دور کرد.",
+            "en": "Work and education also moved people away from their hometowns."
+          }
+        },
+        "takeaway": {
+          "fa": "تغییر اندازه، محل زندگی و استحکام پیوندها سه بُعد متفاوت‌اند.",
+          "en": "Family size, location and bond strength are distinct dimensions."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عامل تغییر و مقایسهٔ دقیق",
+              "en": "Causes of change and precise comparison"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Work and education also moved people away"
+                },
+                {
+                  "text": "cause + moved + people + away"
+                },
+                {
+                  "fa": "کار و تحصیل مردم را دور کرد",
+                  "en": "Transitive causative use"
+                }
+              ],
+              [
+                {
+                  "text": "families were larger"
+                },
+                {
+                  "text": "comparative of size"
+                },
+                {
+                  "fa": "خانواده‌ها پرجمعیت‌تر بودند",
+                  "en": "Membership size"
+                }
+              ],
+              [
+                {
+                  "text": "family ties became weaker"
+                },
+                {
+                  "text": "became + comparative"
+                },
+                {
+                  "fa": "پیوندها ضعیف‌تر شدند",
+                  "en": "A proposition whose implication is denied"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "qualification-and-concession",
+        "title": {
+          "fa": "تحفظ، پذیرش و مخالفت جزئی",
+          "en": "Qualification, concession and partial disagreement"
+        },
+        "explanation": {
+          "fa": "This does not mean ... استنتاج ضعیف‌شدن پیوندها را رد می‌کند، نه خود تغییر را. I believe در پایان درجهٔ تعهد را شخصی می‌کند. Still تحفظ را پس از موافقت برمی‌گرداند؛ True, but ... هم نکتهٔ قبل را می‌پذیرد و سپس وزن مخالف اضافه می‌کند، نه اینکه گفت‌وگو را به موافقت کامل تبدیل کند.",
+          "en": "This does not mean ... denies an inference about weakened bonds, not the changes themselves. Parenthetical I believe marks personal commitment. Still introduces a reservation; True, but ... concedes an earlier point before adding a counterweight rather than signaling complete agreement."
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        },
+        "takeaway": {
+          "fa": "موافقت با یک نکته به معنی پذیرش همهٔ نتیجه‌گیری‌های آن نیست.",
+          "en": "Agreement with one point does not imply accepting every inference from it."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تحفظ، پذیرش و مخالفت جزئی",
+              "en": "Qualification, concession and partial disagreement"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "This does not mean family ties became weaker"
+                },
+                {
+                  "text": "negated implication + content clause"
+                },
+                {
+                  "fa": "این به معنی ضعیف‌شدن پیوندها نیست",
+                  "en": "Rejecting an inference"
+                }
+              ],
+              [
+                {
+                  "text": "Still, the sense of community"
+                },
+                {
+                  "text": "concessive still + reservation"
+                },
+                {
+                  "fa": "با این حال، حس باهم‌بودن",
+                  "en": "Reintroducing a concern"
+                }
+              ],
+              [
+                {
+                  "text": "True, but nothing replaces"
+                },
+                {
+                  "text": "concession + but + counterpoint"
+                },
+                {
+                  "fa": "درست است، ولی هیچ‌چیز جای ... را نمی‌گیرد",
+                  "en": "Qualified agreement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "relative-and-head",
+        "title": {
+          "fa": "بند توصیفی و هستهٔ گروه اسمی",
+          "en": "Relative clauses and noun-phrase heads"
+        },
+        "explanation": {
+          "fa": "در the sense of community that large families provided، that مفعول provided است: خانواده‌ها آن حس را فراهم می‌کردند. هستهٔ فاعل sense مفرد است و is rare با آن هماهنگ می‌شود، نه با families جمع داخل بند.",
+          "en": "In the sense of community that large families provided, that is the object of provided: families supplied that sense. The subject head sense is singular and controls is rare, not plural families inside the relative clause."
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        },
+        "takeaway": {
+          "fa": "برای تطابق فعل، هستهٔ اصلی را پیدا کن، نه نزدیک‌ترین اسم را.",
+          "en": "For agreement, identify the subject head rather than the nearest noun."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بند توصیفی و هستهٔ گروه اسمی",
+              "en": "Relative clauses and noun-phrase heads"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the sense of community"
+                },
+                {
+                  "text": "head sense + of-complement"
+                },
+                {
+                  "fa": "حس باهم‌بودن",
+                  "en": "Singular head"
+                }
+              ],
+              [
+                {
+                  "text": "that large families provided"
+                },
+                {
+                  "text": "object relative + subject + verb"
+                },
+                {
+                  "fa": "که خانواده‌ها فراهم می‌کردند",
+                  "en": "The sense is what was provided"
+                }
+              ],
+              [
+                {
+                  "text": "is rare now"
+                },
+                {
+                  "text": "singular be + evaluation + time"
+                },
+                {
+                  "fa": "اکنون کمیاب است",
+                  "en": "Agreement with sense"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "concession-and-condition",
+        "title": {
+          "fa": "باوجود فاصله و به‌شرط مراقبت",
+          "en": "Concession despite distance and a condition"
+        },
+        "explanation": {
+          "fa": "despite distance با گروه اسمی همراه است و مانع مورد انتظار را کنار می‌زند؛ despite به‌تنهایی بند کامل نمی‌گیرد. as long as people care ... در پایان شرط پایداری را می‌سازد، نه سنجش طول زمان. در این شرط عمومی از حال ساده در هر دو بخش استفاده شده است.",
+          "en": "Despite distance takes a noun phrase and presents a counterexpectational obstacle; despite alone does not introduce a finite clause. As long as people care ... sets a condition for strength, not a literal duration measurement. The general condition uses present simple in both clauses."
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        },
+        "takeaway": {
+          "fa": "despite + اسم؛ as long as + بند شرطی.",
+          "en": "Use despite + noun phrase and as long as + conditional clause."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "باوجود فاصله و به‌شرط مراقبت",
+              "en": "Concession despite distance and a condition"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "despite distance"
+                },
+                {
+                  "text": "despite + noun phrase"
+                },
+                {
+                  "fa": "با وجود فاصله",
+                  "en": "Concession"
+                }
+              ],
+              [
+                {
+                  "text": "as long as people care for each other"
+                },
+                {
+                  "text": "as long as + present clause"
+                },
+                {
+                  "fa": "تا زمانی که به هم اهمیت بدهند",
+                  "en": "A sufficient condition in the speaker’s view"
+                }
+              ],
+              [
+                {
+                  "text": "family remains strong"
+                },
+                {
+                  "text": "subject + remains + adjective"
+                },
+                {
+                  "fa": "خانواده قوی می‌ماند",
+                  "en": "The conditional outcome"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-focus",
+        "title": {
+          "fa": "برجسته‌سازی ارزش‌های اصلی",
+          "en": "Focusing the core values"
+        },
+        "explanation": {
+          "fa": "What matters is ... یک شبه‌شکاف whatدار است که ابتدا موضوع «آنچه مهم است» را می‌سازد و سپس ارزش‌ها را کانون می‌کند. is مفرد با این موضوع طبیعی است، هرچند بخش پس از آن فهرستی هماهنگ است. spending meaningful time یک فعالیت اسمی‌شده در کنار support و love است.",
+          "en": "What matters is ... is a what-pseudocleft: it establishes the issue of importance and then focuses the values. Singular is is natural with this framing even though the complement is a coordinated list. Spending meaningful time is a nominal ing-clause coordinated with support and love."
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        },
+        "takeaway": {
+          "fa": "فهرست پس از is محتوای کانونی است، نه الزاماً فاعل جمع جمله.",
+          "en": "The list after is is the focused complement, not necessarily a plural subject."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برجسته‌سازی ارزش‌های اصلی",
+              "en": "Focusing the core values"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What matters is"
+                },
+                {
+                  "text": "what-clause + is + focus"
+                },
+                {
+                  "fa": "آنچه اهمیت دارد ... است",
+                  "en": "Focus construction"
+                }
+              ],
+              [
+                {
+                  "text": "support, love, and spending meaningful time together"
+                },
+                {
+                  "text": "nouns coordinated with an ing-clause"
+                },
+                {
+                  "fa": "حمایت، محبت و وقت باارزش با هم",
+                  "en": "A coordinated set of values"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quantification-and-reference",
+        "title": {
+          "fa": "تعمیم محتاطانه و ارجاع توزیعی",
+          "en": "Qualified generalization and distributive reference"
+        },
+        "explanation": {
+          "fa": "many، several و in many homes دامنهٔ ادعاها را محدود می‌کنند؛ متن دربارهٔ همهٔ خانواده‌ها یا خانه‌ها حکم نمی‌دهد. Each family form has ... هر شکل را جداگانه می‌گیرد، پس has و its مفردند. تکرار its own هم چالش و هم زیبایی را به رسمیت می‌شناسد.",
+          "en": "Many, several and in many homes limit the scope of the claims; the dialogue does not assert universality. Each family form has ... distributes the claim over individual forms, hence singular has and its. Repeated its own balances distinct challenges and distinctive merits."
+        },
+        "example": {
+          "text": "Each family form has its own challenges and its own beauty.",
+          "translation": {
+            "fa": "هر شکل خانواده چالش‌ها و زیبایی خاص خودش را دارد.",
+            "en": "Each family form has its own challenges and its own beauty."
+          }
+        },
+        "takeaway": {
+          "fa": "many را به all تبدیل نکن؛ each با has و its مفرد می‌آید.",
+          "en": "Do not turn many into all; each takes singular has and its."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تعمیم محتاطانه و ارجاع توزیعی",
+              "en": "Qualified generalization and distributive reference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "several generations"
+                },
+                {
+                  "text": "several + plural noun"
+                },
+                {
+                  "fa": "چندین نسل",
+                  "en": "A non-exact plural quantity"
+                }
+              ],
+              [
+                {
+                  "text": "Each family form has its own challenges"
+                },
+                {
+                  "text": "each + singular subject + has + its"
+                },
+                {
+                  "fa": "هر شکل خانواده چالش‌های خودش را دارد",
+                  "en": "Distributive reference"
+                }
+              ],
+              [
+                {
+                  "text": "in many homes"
+                },
+                {
+                  "text": "in + many + plural noun"
+                },
+                {
+                  "fa": "در خانه‌های زیادی",
+                  "en": "A limited rather than universal claim"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "complements-and-nominal-vocabulary",
+        "title": {
+          "fa": "متمم‌های فعل و واژگان فشردهٔ اجتماعی",
+          "en": "Verb complements and compressed social vocabulary"
+        },
+        "explanation": {
+          "fa": "help families stay close مفعول و سپس فعل بدون to دارد؛ try to listen تلاش را با مصدر می‌آورد و listen to children حرف اضافهٔ to می‌خواهد. communication tools، family ties و social circles گروه‌های اسمی‌اند؛ ties پیوند عاطفی و circles شبکهٔ روابط است، نه کراوات یا شکل هندسی.",
+          "en": "Help families stay close takes an object followed by a bare infinitive; try to listen takes a to-infinitive, and listen to children requires prepositional to. Communication tools, family ties and social circles compress social concepts into noun groups; ties are relational bonds and circles are social networks."
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        },
+        "takeaway": {
+          "fa": "دو to در try to listen to کارکرد یکسان ندارند.",
+          "en": "The two instances of to in try to listen to have different functions."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "متمم‌های فعل و واژگان فشردهٔ اجتماعی",
+              "en": "Verb complements and compressed social vocabulary"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "help families stay close"
+                },
+                {
+                  "text": "help + object + bare infinitive"
+                },
+                {
+                  "fa": "به نزدیک ماندن خانواده‌ها کمک کردن",
+                  "en": "Complement pattern"
+                }
+              ],
+              [
+                {
+                  "text": "try to listen to their children"
+                },
+                {
+                  "text": "try + to-infinitive + prepositional to"
+                },
+                {
+                  "fa": "تلاش برای گوش دادن به فرزندان",
+                  "en": "Two different uses of to"
+                }
+              ],
+              [
+                {
+                  "text": "family ties"
+                },
+                {
+                  "text": "noun modifier + relational noun"
+                },
+                {
+                  "fa": "پیوندهای خانوادگی",
+                  "en": "Social rather than literal ties"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "compared-to",
+        "text": "compared to fifty years ago",
+        "pronunciation": {
+          "faReading": "کِمپِرد تو فیفتی ییرز اِگُو",
+          "ipa": "/kəmˈpɛrd tə ˈfɪfti jɪrz əˈɡoʊ/"
+        },
+        "meaning": {
+          "fa": "در مقایسه با پنجاه سال پیش",
+          "en": "Compared to fifty years ago"
+        },
+        "context": {
+          "fa": "مبنای تاریخی مقایسه است؛ زمان مستقیم فعل حال کامل نیست.",
+          "en": "Sets the historical comparison baseline rather than directly dating the present-perfect verb."
+        },
+        "example": {
+          "text": "Families have changed a lot compared to fifty years ago.",
+          "translation": {
+            "fa": "خانواده‌ها در مقایسه با پنجاه سال پیش بسیار تغییر کرده‌اند.",
+            "en": "Families have changed a lot compared to fifty years ago."
+          }
+        }
+      },
+      {
+        "id": "not-mean",
+        "text": "This does not mean family ties became weaker",
+        "pronunciation": {
+          "faReading": "ذیس داز نات مین فَمِلی تایز بی‌کِیم ویکِر",
+          "ipa": "/ðɪs dʌz nɑt min ˈfæməli taɪz bɪˈkeɪm ˈwikɚ/"
+        },
+        "meaning": {
+          "fa": "این به معنی ضعیف‌شدن پیوندهای خانوادگی نیست",
+          "en": "This does not mean family ties became weaker"
+        },
+        "context": {
+          "fa": "استنتاج را رد می‌کند، نه اصل تغییر خانواده را.",
+          "en": "Rejects an inference, not the fact of family change."
+        },
+        "example": {
+          "text": "This does not mean family ties became weaker, I believe.",
+          "translation": {
+            "fa": "البته به گمان من این به آن معنی نیست که پیوندهای خانوادگی ضعیف‌تر شده‌اند.",
+            "en": "This does not mean family ties became weaker, I believe."
+          }
+        }
+      },
+      {
+        "id": "despite-distance",
+        "text": "stay close despite distance",
+        "pronunciation": {
+          "faReading": "سْتِی کْلُوس دی‌سْپایت دیسْتِنس",
+          "ipa": "/steɪ kloʊs dɪˈspaɪt ˈdɪstəns/"
+        },
+        "meaning": {
+          "fa": "با وجود فاصله نزدیک بمانند",
+          "en": "Stay close despite distance"
+        },
+        "context": {
+          "fa": "close عاطفی و distance جغرافیایی است؛ تضاد، نکتهٔ استدلال را می‌سازد.",
+          "en": "Close is emotional while distance is geographical, forming the argument’s contrast."
+        },
+        "example": {
+          "text": "I agree, communication tools help families stay close despite distance.",
+          "translation": {
+            "fa": "موافقم؛ ابزارهای ارتباطی کمک می‌کنند خانواده‌ها با وجود فاصله نزدیک بمانند.",
+            "en": "I agree, communication tools help families stay close despite distance."
+          }
+        }
+      },
+      {
+        "id": "community",
+        "text": "the sense of community",
+        "pronunciation": {
+          "faReading": "ذِ سِنس اَو کِمیونِتی",
+          "ipa": "/ðə sɛns əv kəˈmjunəti/"
+        },
+        "meaning": {
+          "fa": "حس باهم‌بودن و پیوند جمعی",
+          "en": "The sense of community"
+        },
+        "context": {
+          "fa": "فقط جمعیت یا یک محله نیست؛ تجربهٔ ارتباط جمعی مدنظر است.",
+          "en": "Names an experience of social connection, not merely a population or district."
+        },
+        "example": {
+          "text": "Still, the sense of community that large families provided is rare now.",
+          "translation": {
+            "fa": "با این حال، آن حس باهم‌بودنی که خانواده‌های پرجمعیت فراهم می‌کردند امروز کمیاب است.",
+            "en": "Still, the sense of community that large families provided is rare now."
+          }
+        }
+      },
+      {
+        "id": "belonging",
+        "text": "that sense of belonging",
+        "pronunciation": {
+          "faReading": "ذَت سِنس اَو بی‌لانگینگ",
+          "ipa": "/ðæt sɛns əv bɪˈlɔŋɪŋ/"
+        },
+        "meaning": {
+          "fa": "آن حس تعلق",
+          "en": "That sense of belonging"
+        },
+        "context": {
+          "fa": "لیلا منابع جایگزین تعلق، یعنی محله و حلقه‌های اجتماعی، را مطرح می‌کند.",
+          "en": "Leila offers neighborhoods and social circles as alternative sources of belonging."
+        },
+        "example": {
+          "text": "Neighborhoods and social circles can also create that sense of belonging.",
+          "translation": {
+            "fa": "محله‌ها و حلقه‌های اجتماعی هم می‌توانند آن حس تعلق را ایجاد کنند.",
+            "en": "Neighborhoods and social circles can also create that sense of belonging."
+          }
+        }
+      },
+      {
+        "id": "nothing-replaces",
+        "text": "nothing replaces the warmth of a big family gathering",
+        "pronunciation": {
+          "faReading": "ناثینگ ری‌پْلِیسِز ذِ وورمث اَو اِ بیگ فَمِلی گَذِرینگ",
+          "ipa": "/ˈnʌθɪŋ rɪˈpleɪsɪz ðə wɔrmθ əv ə bɪɡ ˈfæməli ˈɡæðərɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز جای صمیمیت دورهمی بزرگ خانوادگی را نمی‌گیرد",
+          "en": "Nothing replaces the warmth of a big family gathering"
+        },
+        "context": {
+          "fa": "ادعای ارزشی و تأکیدی فرزاد است، نه نتیجهٔ آماری اثبات‌شده.",
+          "en": "Farzad’s emphatic value judgment, not an established statistical finding."
+        },
+        "example": {
+          "text": "True, but nothing replaces the warmth of a big family gathering.",
+          "translation": {
+            "fa": "درست است، اما هیچ‌چیز جای صمیمیت یک دورهمی بزرگ خانوادگی را نمی‌گیرد.",
+            "en": "True, but nothing replaces the warmth of a big family gathering."
+          }
+        }
+      },
+      {
+        "id": "what-matters",
+        "text": "What matters is",
+        "pronunciation": {
+          "faReading": "وات مَتِرز ایز",
+          "ipa": "/wʌt ˈmætɚz ɪz/"
+        },
+        "meaning": {
+          "fa": "آنچه اهمیت دارد ... است",
+          "en": "What matters is"
+        },
+        "context": {
+          "fa": "ساخت کانونی برای انتقال از شکل خانواده به کیفیت رابطه.",
+          "en": "A focus construction shifting attention from family form to relationship quality."
+        },
+        "example": {
+          "text": "What matters is support, love, and spending meaningful time together.",
+          "translation": {
+            "fa": "آنچه اهمیت دارد حمایت، محبت و گذراندن وقت باارزش با یکدیگر است.",
+            "en": "What matters is support, love, and spending meaningful time together."
+          }
+        }
+      },
+      {
+        "id": "as-long",
+        "text": "as long as people care for each other",
+        "pronunciation": {
+          "faReading": "اَز لانگ اَز پیپِل کِر فور ایچ اَذِر",
+          "ipa": "/æz lɔŋ æz ˈpipəl kɛr fɔr itʃ ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "تا زمانی که مردم به هم اهمیت بدهند",
+          "en": "As long as people care for each other"
+        },
+        "context": {
+          "fa": "شرط پایداری خانواده در دیدگاه لیلاست؛ عبارت فقط مدت زمان را نمی‌سنجد.",
+          "en": "Leila’s condition for family strength, not merely a statement of duration."
+        },
+        "example": {
+          "text": "Exactly, and as long as people care for each other, family remains strong.",
+          "translation": {
+            "fa": "دقیقاً؛ تا زمانی که مردم به هم اهمیت بدهند، خانواده قوی می‌ماند.",
+            "en": "Exactly, and as long as people care for each other, family remains strong."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام جمع‌بندی به کل گفت‌وگو نزدیک‌تر است؟",
+          "en": "Which summary best captures the whole exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "زندگی مستقل الزاماً پیوندهای خانوادگی را از بین برده است.",
+              "en": "Independent living has necessarily destroyed family bonds."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شکل خانواده تغییر کرده، اما کیفیت حمایت و رابطه همچنان محوری است.",
+              "en": "Family forms have changed, but the quality of support and connection remains central."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همهٔ خانواده‌های امروز از خانواده‌های گذشته صمیمی‌تر شده‌اند.",
+              "en": "All present-day families have become closer than past families."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پس از مقایسهٔ ساخت‌ها و تحفظ‌ها، ارزش‌های حمایت، محبت و وقت مشترک برجسته می‌شوند؛ تعمیم «همه» یا نتیجهٔ نابودی پیوندها پذیرفته نمی‌شود.",
+          "en": "After structural comparisons and reservations, support, love and shared time are foregrounded; universal superiority or destroyed bonds are not asserted."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t12",
+          "t13",
+          "t14"
+        ]
+      },
+      {
+        "id": "past-structure",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام ویژگی به خانواده‌های گذشته نسبت داده می‌شود؟",
+          "en": "Which feature is attributed to families in the past?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "زندگی تنها در شهرهای متفاوت",
+              "en": "Living alone in different cities"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "زندگی فقط با دوستان هم‌نسل",
+              "en": "Living only with same-generation friends"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "جمعیت بیشتر و هم‌زیستی چند نسل",
+              "en": "Larger size and several generations living together"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "فرزاد می‌گوید families were larger and several generations lived together.",
+          "en": "Farzad says families were larger and several generations lived together."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "relocation",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه عواملی برای دورشدن از زادگاه نام برده می‌شوند؟",
+          "en": "What factors are named as moving people away from their hometowns?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کار و تحصیل",
+              "en": "Work and education"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط ابزارهای ارتباطی",
+              "en": "Only communication tools"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط قوانین تربیتی",
+              "en": "Only disciplinary rules"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "این نسبت سببی در Work and education also moved people ... صریح است.",
+          "en": "The causal attribution is explicit in Work and education also moved people ..."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "tools",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "لیلا چگونه امکان حفظ نزدیکی با وجود فاصله را توضیح می‌دهد؟",
+          "en": "How does Leila explain continued closeness despite distance?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فاصله دیگر وجود ندارد.",
+              "en": "Distance no longer exists."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ابزارهای ارتباطی به حفظ رابطه کمک می‌کنند.",
+              "en": "Communication tools help maintain connection."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همه دوباره با چند نسل زندگی می‌کنند.",
+              "en": "Everyone again lives in multigenerational homes."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او از help families stay close despite distance می‌گوید؛ فاصله را انکار نمی‌کند.",
+          "en": "She says help families stay close despite distance, acknowledging rather than denying separation."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "contrasting-positions",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "تفاوت تأکید دو نفر دربارهٔ حس تعلق چیست؟",
+          "en": "How do their emphases differ regarding belonging?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هر دو همهٔ محله‌ها را جایگزین کامل خانواده می‌دانند.",
+              "en": "Both consider all neighborhoods complete replacements for family."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "لیلا پیوند خانوادگی را بی‌ارزش و فرزاد زندگی مستقل را ناممکن می‌داند.",
+              "en": "Leila dismisses family bonds and Farzad treats independent living as impossible."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فرزاد بر حس جمعی خانوادهٔ بزرگ تأکید دارد؛ لیلا منابع اجتماعی دیگری هم معرفی می‌کند.",
+              "en": "Farzad emphasizes large-family community; Leila also identifies other social sources."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "فرزاد حس جمعی را امروز کمیاب می‌داند و لیلا از محله‌ها و حلقه‌های اجتماعی به‌عنوان منبع تعلق نام می‌برد؛ این موافقت کامل یا نفی خانواده نیست.",
+          "en": "Farzad calls that community feeling rare; Leila names neighborhoods and social circles as additional sources, not a wholesale rejection of family."
+        },
+        "evidenceTurnIds": [
+          "t09",
+          "t10",
+          "t11"
+        ]
+      },
+      {
+        "id": "condition",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شرط نهایی قوی‌ماندن خانواده از دید لیلا چیست؟",
+          "en": "What final condition does Leila give for family strength?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اهمیت دادن و رسیدگی متقابل",
+              "en": "Mutual care and concern"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "زندگی همه در یک شهر",
+              "en": "Everyone living in one city"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حفظ همهٔ قوانین قدیمی",
+              "en": "Keeping all older rules"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "as long as people care for each other شرط را بیان می‌کند.",
+          "en": "As long as people care for each other states the condition."
+        },
+        "evidenceTurnIds": [
+          "t14"
+        ]
+      },
+      {
+        "id": "limited-claim",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام نتیجه‌گیری از جملهٔ پایانی مجاز است؟",
+          "en": "Which inference is licensed by the final sentence?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "در همهٔ خانه‌ها قانون کنار گذاشته شده است.",
+              "en": "Rules have been abandoned in every home."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "در خانه‌های زیادی گفت‌وگو جای قوانین سخت را گرفته؛ حکم همگانی داده نمی‌شود.",
+              "en": "In many homes dialogue has replaced strict rules; the claim is not universal."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در هیچ خانه‌ای دیگر گفت‌وگو وجود ندارد.",
+              "en": "Dialogue no longer exists in any home."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "in many homes دامنه را محدود می‌کند؛ همهٔ خانه‌ها یا از میان رفتن همهٔ انواع قانون ادعا نشده است.",
+          "en": "In many homes limits the scope; the sentence does not claim all homes or the disappearance of every kind of rule."
+        },
+        "evidenceTurnIds": [
+          "t16"
+        ]
+      }
+    ]
+  }
+}

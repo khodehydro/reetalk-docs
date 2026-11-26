@@ -1,0 +1,4041 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s07",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "مدرسه پسر رویا",
+    "en": "Children at School"
+  },
+  "objective": {
+    "fa": "درس موردعلاقهٔ پسر مینا، علاقهٔ دختر رویا و تعداد کلاس‌های هنرش در هفته را تشخیص بده.",
+    "en": "Identify Mina’s son’s favorite subject, Roya’s daughter’s interest, and her weekly art-class frequency."
+  },
+  "speakers": [
+    {
+      "id": "roya",
+      "name": "Roya",
+      "gender": "woman"
+    },
+    {
+      "id": "mina",
+      "name": "Mina",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "roya",
+      "text": "How is your son doing in school this year?",
+      "translation": {
+        "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+        "en": "How is your son doing in school this year?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "بخشی از «چطور پیش می‌رود»",
+            "en": "is; with doing, asks about current progress"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "son",
+          "gloss": {
+            "fa": "پسر؛ فرزند پسر",
+            "en": "son; a male child in a family"
+          }
+        },
+        {
+          "surface": "doing",
+          "gloss": {
+            "fa": "پیش می‌رود؛ وضعیتش چطور است",
+            "en": "doing; progressing at school"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "school",
+          "gloss": {
+            "fa": "مدرسه",
+            "en": "school; a place for learning"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "year?",
+          "gloss": {
+            "fa": "سال",
+            "en": "year; twelve months"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "mina",
+      "text": "He is doing very well, his teacher says he is a hard worker.",
+      "translation": {
+        "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+        "en": "He is doing very well, his teacher says he is a hard worker."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "بخشی از «خوب پیش می‌رود»",
+            "en": "is; with doing, describes current progress"
+          }
+        },
+        {
+          "surface": "doing",
+          "gloss": {
+            "fa": "پیش می‌رود؛ نتیجه می‌گیرد",
+            "en": "doing; progressing"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "well,",
+          "gloss": {
+            "fa": "خوب؛ به‌خوبی",
+            "en": "well; in a good way"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "teacher",
+          "gloss": {
+            "fa": "معلم",
+            "en": "teacher; someone who teaches"
+          }
+        },
+        {
+          "surface": "says",
+          "gloss": {
+            "fa": "می‌گوید",
+            "en": "says; expresses in words"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است؛ برای توصیف پرتلاش بودن",
+            "en": "is; links he to a hard worker"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "hard",
+          "gloss": {
+            "fa": "بخشی از «فرد پرتلاش»",
+            "en": "part of hard worker; someone who makes a lot of effort"
+          }
+        },
+        {
+          "surface": "worker.",
+          "gloss": {
+            "fa": "بخشی از «فرد پرتلاش»",
+            "en": "part of hard worker; someone who makes a lot of effort"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "roya",
+      "text": "That is wonderful news, what is his favorite subject?",
+      "translation": {
+        "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+        "en": "That is wonderful news, what is his favorite subject?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "wonderful",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "news,",
+          "gloss": {
+            "fa": "خبر",
+            "en": "news; new information"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "favorite",
+          "gloss": {
+            "fa": "موردعلاقه",
+            "en": "favorite; liked more than the others"
+          }
+        },
+        {
+          "surface": "subject?",
+          "gloss": {
+            "fa": "درس؛ موضوع درسی",
+            "en": "subject; an area studied at school"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "mina",
+      "text": "He loves science, and he always asks interesting questions in class.",
+      "translation": {
+        "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+        "en": "He loves science, and he always asks interesting questions in class."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "loves",
+          "gloss": {
+            "fa": "خیلی دوست دارد",
+            "en": "loves; likes very much"
+          }
+        },
+        {
+          "surface": "science,",
+          "gloss": {
+            "fa": "علوم",
+            "en": "science; study of the natural world"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "asks",
+          "gloss": {
+            "fa": "می‌پرسد",
+            "en": "asks; puts a question to someone"
+          }
+        },
+        {
+          "surface": "interesting",
+          "gloss": {
+            "fa": "جالب",
+            "en": "interesting; holding your attention"
+          }
+        },
+        {
+          "surface": "questions",
+          "gloss": {
+            "fa": "پرسش‌ها",
+            "en": "questions; things people ask"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "class.",
+          "gloss": {
+            "fa": "کلاس",
+            "en": "class; a group that learns together"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "roya",
+      "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+      "translation": {
+        "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+        "en": "My daughter enjoys art and drawing, she draws for hours at home."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "daughter",
+          "gloss": {
+            "fa": "دختر؛ فرزند دختر",
+            "en": "daughter; a female child in a family"
+          }
+        },
+        {
+          "surface": "enjoys",
+          "gloss": {
+            "fa": "لذت می‌برد",
+            "en": "enjoys; likes doing something"
+          }
+        },
+        {
+          "surface": "art",
+          "gloss": {
+            "fa": "هنر",
+            "en": "art; creative activities such as drawing"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "drawing,",
+          "gloss": {
+            "fa": "نقاشی کردن",
+            "en": "drawing; making pictures with a pencil or pen"
+          }
+        },
+        {
+          "surface": "she",
+          "gloss": {
+            "fa": "او؛ برای زن یا دختر",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "draws",
+          "gloss": {
+            "fa": "نقاشی می‌کشد",
+            "en": "draws; makes pictures"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "hours",
+          "gloss": {
+            "fa": "ساعت‌ها",
+            "en": "hours; periods of sixty minutes"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ کنار؛ در ساعتِ",
+            "en": "at; a place or time"
+          }
+        },
+        {
+          "surface": "home.",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "mina",
+      "text": "That is a great hobby, does her school have art classes too?",
+      "translation": {
+        "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+        "en": "That is a great hobby, does her school have art classes too?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "hobby,",
+          "gloss": {
+            "fa": "سرگرمی",
+            "en": "hobby; an activity done for pleasure"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به سؤال دربارهٔ مدرسه",
+            "en": "does; helps ask about one school"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را؛ مال او برای زن یا دختر",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "school",
+          "gloss": {
+            "fa": "مدرسه",
+            "en": "school; a place for learning"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "art",
+          "gloss": {
+            "fa": "هنر",
+            "en": "art; creative activities such as drawing"
+          }
+        },
+        {
+          "surface": "classes",
+          "gloss": {
+            "fa": "کلاس‌ها",
+            "en": "classes; lessons or learning groups"
+          }
+        },
+        {
+          "surface": "too?",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "roya",
+      "text": "Yes, twice a week, and she brings her drawings home to show us.",
+      "translation": {
+        "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+        "en": "Yes, twice a week, and she brings her drawings home to show us."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "twice",
+          "gloss": {
+            "fa": "دو بار",
+            "en": "twice; two times"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "هر؛ در twice a week",
+            "en": "a; each, in twice a week"
+          }
+        },
+        {
+          "surface": "week,",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "she",
+          "gloss": {
+            "fa": "او؛ برای زن یا دختر",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "brings",
+          "gloss": {
+            "fa": "می‌آورد",
+            "en": "brings; carries something here"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را؛ مال او برای زن یا دختر",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "drawings",
+          "gloss": {
+            "fa": "نقاشی‌ها",
+            "en": "drawings; pictures made with a pencil or pen"
+          }
+        },
+        {
+          "surface": "home",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ هدف از آوردن",
+            "en": "to; gives the purpose of bringing the drawings"
+          }
+        },
+        {
+          "surface": "show",
+          "gloss": {
+            "fa": "نشان دادن",
+            "en": "show; let someone see"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "mina",
+      "text": "It is beautiful when children discover what they really like.",
+      "translation": {
+        "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+        "en": "It is beautiful when children discover what they really like."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "در این الگو جدا ترجمه نمی‌شود",
+            "en": "it; introduces a comment about children’s discovery"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "beautiful",
+          "gloss": {
+            "fa": "زیبا",
+            "en": "beautiful; very pleasing"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "children",
+          "gloss": {
+            "fa": "فرزندان؛ بچه‌ها",
+            "en": "children; more than one child"
+          }
+        },
+        {
+          "surface": "discover",
+          "gloss": {
+            "fa": "کشف کردن؛ پی بردن",
+            "en": "discover; find out"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چیزی که",
+            "en": "what; the thing or activity that"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "like.",
+          "gloss": {
+            "fa": "دوست داشتن",
+            "en": "like; enjoy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "roya",
+      "text": "It is, and I try to support her in every way I can.",
+      "translation": {
+        "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+        "en": "It is, and I try to support her in every way I can."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "همین‌طور؛ به نکتهٔ قبل برمی‌گردد",
+            "en": "it; refers to children discovering their interests"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "support",
+          "gloss": {
+            "fa": "حمایت؛ حمایت کردن",
+            "en": "support; help or encouragement"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را؛ مال او برای زن یا دختر",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "way",
+          "gloss": {
+            "fa": "راه؛ روش",
+            "en": "way; a manner or approach"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can.",
+          "gloss": {
+            "fa": "می‌توانم؛ حمایت کنم",
+            "en": "can; stands for can support her"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "mina",
+      "text": "You are a good mother, and your support will make a big difference.",
+      "translation": {
+        "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+        "en": "You are a good mother, and your support will make a big difference."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "mother,",
+          "gloss": {
+            "fa": "مادر",
+            "en": "mother; a female parent"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "support",
+          "gloss": {
+            "fa": "حمایت؛ حمایت کردن",
+            "en": "support; help or encouragement"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "بخشی از «تأثیر بزرگی داشتن»",
+            "en": "part of make a big difference; have a strong effect"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "بخشی از «تأثیر بزرگی داشتن»",
+            "en": "part of make a big difference; have a strong effect"
+          }
+        },
+        {
+          "surface": "big",
+          "gloss": {
+            "fa": "بخشی از «تأثیر بزرگی داشتن»",
+            "en": "part of make a big difference; have a strong effect"
+          }
+        },
+        {
+          "surface": "difference.",
+          "gloss": {
+            "fa": "بخشی از «تأثیر بزرگی داشتن»",
+            "en": "part of make a big difference; have a strong effect"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "roya",
+      "text": "I just want her to grow up happy and confident in her choices.",
+      "translation": {
+        "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+        "en": "I just want her to grow up happy and confident in her choices."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "فقط؛ تأکید بر خواستهٔ اصلی",
+            "en": "just; simply, emphasizing the central wish"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را؛ مال او برای زن یا دختر",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "grow",
+          "gloss": {
+            "fa": "بخشی از «بزرگ شدن»",
+            "en": "part of grow up; develop from a child toward adulthood"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بزرگ شدن»",
+            "en": "part of grow up; develop from a child toward adulthood"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy; pleased"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "confident",
+          "gloss": {
+            "fa": "بااعتمادبه‌نفس؛ مطمئن",
+            "en": "confident; sure of yourself or your decisions"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را؛ مال او برای زن یا دختر",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "choices.",
+          "gloss": {
+            "fa": "انتخاب‌ها",
+            "en": "choices; decisions between possibilities"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "mina",
+      "text": "That is the best gift a parent can give, and you are on the right path.",
+      "translation": {
+        "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+        "en": "That is the best gift a parent can give, and you are on the right path."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "best",
+          "gloss": {
+            "fa": "بهترین؛ صمیمی‌ترین",
+            "en": "best; better than all others"
+          }
+        },
+        {
+          "surface": "gift",
+          "gloss": {
+            "fa": "هدیه",
+            "en": "gift; something given to someone"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "parent",
+          "gloss": {
+            "fa": "پدر یا مادر",
+            "en": "parent; a mother or father"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "give,",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بخشی از «در مسیر درست»",
+            "en": "part of on the right path; acting in a helpful way"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "بخشی از «در مسیر درست»",
+            "en": "part of on the right path; acting in a helpful way"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "بخشی از «در مسیر درست»",
+            "en": "part of on the right path; acting in a helpful way"
+          }
+        },
+        {
+          "surface": "path.",
+          "gloss": {
+            "fa": "بخشی از «در مسیر درست»",
+            "en": "part of on the right path; acting in a helpful way"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چطور پیش می‌رود»",
+          "en": "is; with doing, asks about current progress"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "son",
+        "text": "son",
+        "pronunciation": {
+          "faReading": "سَن",
+          "ipa": "/sʌn/"
+        },
+        "meaning": {
+          "fa": "پسر؛ فرزند پسر",
+          "en": "son; a male child in a family"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "doing",
+        "text": "doing",
+        "pronunciation": {
+          "faReading": "دواینگ",
+          "ipa": "/ˈduɪŋ/"
+        },
+        "meaning": {
+          "fa": "پیش می‌رود؛ وضعیتش چطور است",
+          "en": "doing; progressing at school"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "school",
+        "text": "school",
+        "pronunciation": {
+          "faReading": "سْکول",
+          "ipa": "/skul/"
+        },
+        "meaning": {
+          "fa": "مدرسه",
+          "en": "school; a place for learning"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "year",
+        "text": "year",
+        "pronunciation": {
+          "faReading": "ییر",
+          "ipa": "/jɪr/"
+        },
+        "meaning": {
+          "fa": "سال",
+          "en": "year; twelve months"
+        },
+        "example": {
+          "text": "How is your son doing in school this year?",
+          "translation": {
+            "fa": "پسرت امسال در مدرسه چطور پیش می‌رود؟",
+            "en": "How is your son doing in school this year?"
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "He",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "is-ongoing",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «خوب پیش می‌رود»",
+          "en": "is; with doing, describes current progress"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "doing-progress",
+        "text": "doing",
+        "pronunciation": {
+          "faReading": "دواینگ",
+          "ipa": "/ˈduɪŋ/"
+        },
+        "meaning": {
+          "fa": "پیش می‌رود؛ نتیجه می‌گیرد",
+          "en": "doing; progressing"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "خوب؛ به‌خوبی",
+          "en": "well; in a good way"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "his",
+        "text": "his",
+        "pronunciation": {
+          "faReading": "هیز",
+          "ipa": "/hɪz/"
+        },
+        "meaning": {
+          "fa": "مال او؛ برای مرد یا پسر",
+          "en": "his; belonging to a male person"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "teacher",
+        "text": "teacher",
+        "pronunciation": {
+          "faReading": "تیچِر",
+          "ipa": "/ˈtitʃɚ/"
+        },
+        "meaning": {
+          "fa": "معلم",
+          "en": "teacher; someone who teaches"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "says",
+        "text": "says",
+        "pronunciation": {
+          "faReading": "سِز",
+          "ipa": "/sɛz/"
+        },
+        "meaning": {
+          "fa": "می‌گوید",
+          "en": "says; expresses in words"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "is-description",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است؛ برای توصیف پرتلاش بودن",
+          "en": "is; links he to a hard worker"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "hard",
+        "text": "hard",
+        "pronunciation": {
+          "faReading": "هارد",
+          "ipa": "/hɑrd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «فرد پرتلاش»",
+          "en": "part of hard worker; someone who makes a lot of effort"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "worker",
+        "text": "worker",
+        "pronunciation": {
+          "faReading": "وِرکِر",
+          "ipa": "/ˈwɝkɚ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «فرد پرتلاش»",
+          "en": "part of hard worker; someone who makes a lot of effort"
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "is-base",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "news",
+        "text": "news",
+        "pronunciation": {
+          "faReading": "نیوز",
+          "ipa": "/nuz/"
+        },
+        "meaning": {
+          "fa": "خبر",
+          "en": "news; new information"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "favorite",
+        "text": "favorite",
+        "pronunciation": {
+          "faReading": "فِیوِرِت",
+          "ipa": "/ˈfeɪvərɪt/"
+        },
+        "meaning": {
+          "fa": "موردعلاقه",
+          "en": "favorite; liked more than the others"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "subject",
+        "text": "subject",
+        "pronunciation": {
+          "faReading": "سابجِکت",
+          "ipa": "/ˈsʌbdʒɪkt/"
+        },
+        "meaning": {
+          "fa": "درس؛ موضوع درسی",
+          "en": "subject; an area studied at school"
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "loves",
+        "text": "loves",
+        "pronunciation": {
+          "faReading": "لاوز",
+          "ipa": "/lʌvz/"
+        },
+        "meaning": {
+          "fa": "خیلی دوست دارد",
+          "en": "loves; likes very much"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "science",
+        "text": "science",
+        "pronunciation": {
+          "faReading": "سایِنس",
+          "ipa": "/ˈsaɪəns/"
+        },
+        "meaning": {
+          "fa": "علوم",
+          "en": "science; study of the natural world"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "asks",
+        "text": "asks",
+        "pronunciation": {
+          "faReading": "اَسکس",
+          "ipa": "/æsks/"
+        },
+        "meaning": {
+          "fa": "می‌پرسد",
+          "en": "asks; puts a question to someone"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "interesting",
+        "text": "interesting",
+        "pronunciation": {
+          "faReading": "اینتِرِستینگ",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        },
+        "meaning": {
+          "fa": "جالب",
+          "en": "interesting; holding your attention"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "questions",
+        "text": "questions",
+        "pronunciation": {
+          "faReading": "کْوِسچِنز",
+          "ipa": "/ˈkwɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پرسش‌ها",
+          "en": "questions; things people ask"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "class",
+        "text": "class",
+        "pronunciation": {
+          "faReading": "کْلَس",
+          "ipa": "/klæs/"
+        },
+        "meaning": {
+          "fa": "کلاس",
+          "en": "class; a group that learns together"
+        },
+        "example": {
+          "text": "He loves science, and he always asks interesting questions in class.",
+          "translation": {
+            "fa": "علوم را خیلی دوست دارد و همیشه در کلاس سؤال‌های جالب می‌پرسد.",
+            "en": "He loves science, and he always asks interesting questions in class."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "daughter",
+        "text": "daughter",
+        "pronunciation": {
+          "faReading": "داتِر",
+          "ipa": "/ˈdɔtɚ/"
+        },
+        "meaning": {
+          "fa": "دختر؛ فرزند دختر",
+          "en": "daughter; a female child in a family"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "enjoys",
+        "text": "enjoys",
+        "pronunciation": {
+          "faReading": "اِنجویز",
+          "ipa": "/ɪnˈdʒɔɪz/"
+        },
+        "meaning": {
+          "fa": "لذت می‌برد",
+          "en": "enjoys; likes doing something"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "art",
+        "text": "art",
+        "pronunciation": {
+          "faReading": "آرت",
+          "ipa": "/ɑrt/"
+        },
+        "meaning": {
+          "fa": "هنر",
+          "en": "art; creative activities such as drawing"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "drawing",
+        "text": "drawing",
+        "pronunciation": {
+          "faReading": "دْرااینگ",
+          "ipa": "/ˈdrɔɪŋ/"
+        },
+        "meaning": {
+          "fa": "نقاشی کردن",
+          "en": "drawing; making pictures with a pencil or pen"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "she",
+        "text": "she",
+        "pronunciation": {
+          "faReading": "شی",
+          "ipa": "/ʃi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای زن یا دختر",
+          "en": "she; a female person"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "draws",
+        "text": "draws",
+        "pronunciation": {
+          "faReading": "دْراز",
+          "ipa": "/drɔz/"
+        },
+        "meaning": {
+          "fa": "نقاشی می‌کشد",
+          "en": "draws; makes pictures"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or length of time"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "hours",
+        "text": "hours",
+        "pronunciation": {
+          "faReading": "آوِرز",
+          "ipa": "/aʊrz/"
+        },
+        "meaning": {
+          "fa": "ساعت‌ها",
+          "en": "hours; periods of sixty minutes"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ کنار؛ در ساعتِ",
+          "en": "at; a place or time"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "My daughter enjoys art and drawing, she draws for hours at home.",
+          "translation": {
+            "fa": "دختر من از هنر و نقاشی لذت می‌برد؛ در خانه ساعت‌ها نقاشی می‌کشد.",
+            "en": "My daughter enjoys art and drawing, she draws for hours at home."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "hobby",
+        "text": "hobby",
+        "pronunciation": {
+          "faReading": "هابی",
+          "ipa": "/ˈhɑbi/"
+        },
+        "meaning": {
+          "fa": "سرگرمی",
+          "en": "hobby; an activity done for pleasure"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به سؤال دربارهٔ مدرسه",
+          "en": "does; helps ask about one school"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "her",
+        "text": "her",
+        "pronunciation": {
+          "faReading": "هِر",
+          "ipa": "/hɝ/"
+        },
+        "meaning": {
+          "fa": "او را؛ مال او برای زن یا دختر",
+          "en": "her; a female person's object or possession form"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "classes",
+        "text": "classes",
+        "pronunciation": {
+          "faReading": "کْلَسِز",
+          "ipa": "/ˈklæsɪz/"
+        },
+        "meaning": {
+          "fa": "کلاس‌ها",
+          "en": "classes; lessons or learning groups"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "twice",
+        "text": "twice",
+        "pronunciation": {
+          "faReading": "توایس",
+          "ipa": "/twaɪs/"
+        },
+        "meaning": {
+          "fa": "دو بار",
+          "en": "twice; two times"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "a-frequency",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "هر؛ در twice a week",
+          "en": "a; each, in twice a week"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "brings",
+        "text": "brings",
+        "pronunciation": {
+          "faReading": "بْرینگْز",
+          "ipa": "/brɪŋz/"
+        },
+        "meaning": {
+          "fa": "می‌آورد",
+          "en": "brings; carries something here"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "drawings",
+        "text": "drawings",
+        "pronunciation": {
+          "faReading": "دْرااینگْز",
+          "ipa": "/ˈdrɔɪŋz/"
+        },
+        "meaning": {
+          "fa": "نقاشی‌ها",
+          "en": "drawings; pictures made with a pencil or pen"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ هدف از آوردن",
+          "en": "to; gives the purpose of bringing the drawings"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "show",
+        "text": "show",
+        "pronunciation": {
+          "faReading": "شُو",
+          "ipa": "/ʃoʊ/"
+        },
+        "meaning": {
+          "fa": "نشان دادن",
+          "en": "show; let someone see"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این الگو جدا ترجمه نمی‌شود",
+          "en": "it; introduces a comment about children’s discovery"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "beautiful",
+        "text": "beautiful",
+        "pronunciation": {
+          "faReading": "بیوتِفُل",
+          "ipa": "/ˈbjutəfəl/"
+        },
+        "meaning": {
+          "fa": "زیبا",
+          "en": "beautiful; very pleasing"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "children",
+        "text": "children",
+        "pronunciation": {
+          "faReading": "چیلدرِن",
+          "ipa": "/ˈtʃɪldrən/"
+        },
+        "meaning": {
+          "fa": "فرزندان؛ بچه‌ها",
+          "en": "children; more than one child"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "discover",
+        "text": "discover",
+        "pronunciation": {
+          "faReading": "دیسْکَوِر",
+          "ipa": "/dɪˈskʌvɚ/"
+        },
+        "meaning": {
+          "fa": "کشف کردن؛ پی بردن",
+          "en": "discover; find out"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "what-content",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چیزی که",
+          "en": "what; the thing or activity that"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن",
+          "en": "like; enjoy"
+        },
+        "example": {
+          "text": "It is beautiful when children discover what they really like.",
+          "translation": {
+            "fa": "زیباست وقتی بچه‌ها می‌فهمند واقعاً چه چیزی را دوست دارند.",
+            "en": "It is beautiful when children discover what they really like."
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "همین‌طور؛ به نکتهٔ قبل برمی‌گردد",
+          "en": "it; refers to children discovering their interests"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "support",
+        "text": "support",
+        "pronunciation": {
+          "faReading": "سِپورت",
+          "ipa": "/səˈpɔrt/"
+        },
+        "meaning": {
+          "fa": "حمایت؛ حمایت کردن",
+          "en": "support; help or encouragement"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "way",
+        "text": "way",
+        "pronunciation": {
+          "faReading": "وِی",
+          "ipa": "/weɪ/"
+        },
+        "meaning": {
+          "fa": "راه؛ روش",
+          "en": "way; a manner or approach"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ حمایت کنم",
+          "en": "can; stands for can support her"
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "mother",
+        "text": "mother",
+        "pronunciation": {
+          "faReading": "ماذِر",
+          "ipa": "/ˈmʌðɚ/"
+        },
+        "meaning": {
+          "fa": "مادر",
+          "en": "mother; a female parent"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; points to a future action"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تأثیر بزرگی داشتن»",
+          "en": "part of make a big difference; have a strong effect"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "a-impact",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تأثیر بزرگی داشتن»",
+          "en": "part of make a big difference; have a strong effect"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "big",
+        "text": "big",
+        "pronunciation": {
+          "faReading": "بیگ",
+          "ipa": "/bɪɡ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تأثیر بزرگی داشتن»",
+          "en": "part of make a big difference; have a strong effect"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "difference",
+        "text": "difference",
+        "pronunciation": {
+          "faReading": "دیفِرِنس",
+          "ipa": "/ˈdɪfərəns/"
+        },
+        "meaning": {
+          "fa": "بخشی از «تأثیر بزرگی داشتن»",
+          "en": "part of make a big difference; have a strong effect"
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "فقط؛ تأکید بر خواستهٔ اصلی",
+          "en": "just; simply, emphasizing the central wish"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "grow",
+        "text": "grow",
+        "pronunciation": {
+          "faReading": "گْرُو",
+          "ipa": "/ɡroʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بزرگ شدن»",
+          "en": "part of grow up; develop from a child toward adulthood"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بزرگ شدن»",
+          "en": "part of grow up; develop from a child toward adulthood"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "confident",
+        "text": "confident",
+        "pronunciation": {
+          "faReading": "کانفِدِنت",
+          "ipa": "/ˈkɑnfɪdənt/"
+        },
+        "meaning": {
+          "fa": "بااعتمادبه‌نفس؛ مطمئن",
+          "en": "confident; sure of yourself or your decisions"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "choices",
+        "text": "choices",
+        "pronunciation": {
+          "faReading": "چویسِز",
+          "ipa": "/ˈtʃɔɪsɪz/"
+        },
+        "meaning": {
+          "fa": "انتخاب‌ها",
+          "en": "choices; decisions between possibilities"
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "best",
+        "text": "best",
+        "pronunciation": {
+          "faReading": "بِست",
+          "ipa": "/bɛst/"
+        },
+        "meaning": {
+          "fa": "بهترین؛ صمیمی‌ترین",
+          "en": "best; better than all others"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "gift",
+        "text": "gift",
+        "pronunciation": {
+          "faReading": "گیفت",
+          "ipa": "/ɡɪft/"
+        },
+        "meaning": {
+          "fa": "هدیه",
+          "en": "gift; something given to someone"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "parent",
+        "text": "parent",
+        "pronunciation": {
+          "faReading": "پِرِنت",
+          "ipa": "/ˈpɛrənt/"
+        },
+        "meaning": {
+          "fa": "پدر یا مادر",
+          "en": "parent; a mother or father"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "can-base",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «در مسیر درست»",
+          "en": "part of on the right path; acting in a helpful way"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "the-metaphor",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «در مسیر درست»",
+          "en": "part of on the right path; acting in a helpful way"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «در مسیر درست»",
+          "en": "part of on the right path; acting in a helpful way"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      },
+      {
+        "id": "path",
+        "text": "path",
+        "pronunciation": {
+          "faReading": "پَث",
+          "ipa": "/pæθ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «در مسیر درست»",
+          "en": "part of on the right path; acting in a helpful way"
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "school-progress",
+        "title": {
+          "fa": "وضعیت درس و کار معمول",
+          "en": "School progress and regular activities"
+        },
+        "explanation": {
+          "fa": "How is your son doing ...? دربارهٔ وضعیت پیشرفت است. He is doing very well جواب آن است. ولی loves و asks کارهای معمول پسر را می‌گویند؛ با he فعل s می‌گیرد. teacher says هم یعنی معلم می‌گوید.",
+          "en": "How is your son doing ...? asks about progress. He is doing very well answers it. Loves and asks describe usual interests and actions; they take s with he. Teacher says reports the teacher’s words."
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        },
+        "takeaway": {
+          "fa": "doing well یعنی خوب پیش رفتن، نه فقط انجام یک کار نامشخص.",
+          "en": "Doing well means making good progress."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "وضعیت درس و کار معمول",
+              "en": "School progress and regular activities"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How is your son doing in school"
+                },
+                {
+                  "text": "how is + person + doing"
+                },
+                {
+                  "fa": "در مدرسه چطور پیش می‌رود",
+                  "en": "Asking about progress"
+                }
+              ],
+              [
+                {
+                  "text": "He is doing very well"
+                },
+                {
+                  "text": "is + doing + well"
+                },
+                {
+                  "fa": "خیلی خوب پیش می‌رود",
+                  "en": "Current progress"
+                }
+              ],
+              [
+                {
+                  "text": "he always asks interesting questions"
+                },
+                {
+                  "text": "he + always + asks"
+                },
+                {
+                  "fa": "همیشه سؤال‌های جالب می‌پرسد",
+                  "en": "A regular habit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "interests-and-questions",
+        "title": {
+          "fa": "علاقه و سؤال دربارهٔ مدرسه",
+          "en": "Interests and school questions"
+        },
+        "explanation": {
+          "fa": "favorite subject یعنی درس موردعلاقه. enjoys art and drawing دو علاقه را وصل می‌کند؛ drawing نام یک فعالیت است. Does her school have ...? برای سؤال دربارهٔ مدرسه است؛ بعد از does از have استفاده می‌کنیم، نه has.",
+          "en": "Favorite subject names the lesson liked most. Enjoys art and drawing joins two interests; drawing names an activity. In Does her school have ...?, use have after does rather than has."
+        },
+        "example": {
+          "text": "That is a great hobby, does her school have art classes too?",
+          "translation": {
+            "fa": "سرگرمی خیلی خوبی است؛ مدرسهٔ او هم کلاس هنر دارد؟",
+            "en": "That is a great hobby, does her school have art classes too?"
+          }
+        },
+        "takeaway": {
+          "fa": "پس از does، have بدون تغییر می‌آید.",
+          "en": "Use have unchanged after does."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "علاقه و سؤال دربارهٔ مدرسه",
+              "en": "Interests and school questions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what is his favorite subject"
+                },
+                {
+                  "text": "what is + favorite subject"
+                },
+                {
+                  "fa": "درس موردعلاقه‌اش چیست",
+                  "en": "Asking about preference"
+                }
+              ],
+              [
+                {
+                  "text": "My daughter enjoys art and drawing"
+                },
+                {
+                  "text": "enjoys + things or activities"
+                },
+                {
+                  "fa": "از هنر و نقاشی لذت می‌برد",
+                  "en": "Naming interests"
+                }
+              ],
+              [
+                {
+                  "text": "does her school have art classes too"
+                },
+                {
+                  "text": "does + school + have"
+                },
+                {
+                  "fa": "مدرسه‌اش هم کلاس هنر دارد",
+                  "en": "A present question"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "frequency-and-purpose",
+        "title": {
+          "fa": "تعداد کلاس‌ها و هدف آوردن نقاشی",
+          "en": "Frequency and the reason for bringing drawings"
+        },
+        "explanation": {
+          "fa": "twice a week یعنی هفته‌ای دو بار. for hours یعنی ساعت‌ها؛ با هم یکی نیستند. to show us هدف آوردن نقاشی‌هاست. her drawings به دختر رویا اشاره دارد، نه پسر مینا.",
+          "en": "Twice a week counts how often a class happens. For hours gives a long duration instead. To show us gives the purpose of bringing the drawings. Her drawings refers to Roya’s daughter."
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        },
+        "takeaway": {
+          "fa": "twice a week تعداد دفعات است؛ for hours مدت است.",
+          "en": "Twice a week is frequency; for hours is duration."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تعداد کلاس‌ها و هدف آوردن نقاشی",
+              "en": "Frequency and the reason for bringing drawings"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "twice a week"
+                },
+                {
+                  "text": "twice + a week"
+                },
+                {
+                  "fa": "هفته‌ای دو بار",
+                  "en": "Frequency"
+                }
+              ],
+              [
+                {
+                  "text": "for hours"
+                },
+                {
+                  "text": "for + length of time"
+                },
+                {
+                  "fa": "ساعت‌ها",
+                  "en": "Duration"
+                }
+              ],
+              [
+                {
+                  "text": "to show us"
+                },
+                {
+                  "text": "to + action + person"
+                },
+                {
+                  "fa": "برای نشان دادن به ما",
+                  "en": "Purpose"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "want-and-grow",
+        "title": {
+          "fa": "بزرگ شدن با حمایت",
+          "en": "Growing up with support"
+        },
+        "explanation": {
+          "fa": "I want her to grow up یعنی «می‌خواهم او بزرگ شود». بعد از want، her می‌گوید چه کسی و to grow up کار را می‌گوید. happy و confident توصیف می‌کنند دوست داریم بزرگ شدنش چطور باشد.",
+          "en": "I want her to grow up says who should do the action: her. To grow up names the action. Happy and confident describe the way Roya hopes her daughter will develop."
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        },
+        "takeaway": {
+          "fa": "want + شخص + to + کار را با این مثال یاد بگیر.",
+          "en": "Learn want + person + to + action from this example."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بزرگ شدن با حمایت",
+              "en": "Growing up with support"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I just want her to grow up"
+                },
+                {
+                  "text": "want + person + to grow up"
+                },
+                {
+                  "fa": "می‌خواهم او بزرگ شود",
+                  "en": "A hope for another person"
+                }
+              ],
+              [
+                {
+                  "text": "happy and confident in her choices"
+                },
+                {
+                  "text": "happy and confident + in"
+                },
+                {
+                  "fa": "شاد و مطمئن به انتخاب‌هایش",
+                  "en": "The desired result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "understood-words",
+        "title": {
+          "fa": "قسمت‌هایی که از جملهٔ قبل می‌فهمیم",
+          "en": "Words understood from the context"
+        },
+        "explanation": {
+          "fa": "It is پاسخ کوتاه به «زیباست وقتی بچه‌ها علاقه‌شان را کشف می‌کنند» است. in every way I can یعنی از هر راهی که می‌توانم حمایت کنم؛ support her دوباره گفته نشده. what they really like هم یعنی چیزی که واقعاً دوست دارند، نه یک سؤال تازه.",
+          "en": "It is agrees with the previous comment about children discovering interests. In every way I can leaves support her understood. What they really like means the thing they enjoy, rather than introducing a new question."
+        },
+        "example": {
+          "text": "It is, and I try to support her in every way I can.",
+          "translation": {
+            "fa": "همین‌طور است؛ سعی می‌کنم از هر راهی که می‌توانم حمایتش کنم.",
+            "en": "It is, and I try to support her in every way I can."
+          }
+        },
+        "takeaway": {
+          "fa": "در پاسخ کوتاه و جملهٔ وابسته، معنی را از حرف قبلی کامل کن.",
+          "en": "Use the earlier words to complete the meaning of a short reply."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قسمت‌هایی که از جملهٔ قبل می‌فهمیم",
+              "en": "Words understood from the context"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what they really like"
+                },
+                {
+                  "text": "what + they like"
+                },
+                {
+                  "fa": "چیزی که واقعاً دوست دارند",
+                  "en": "An activity identified inside a sentence"
+                }
+              ],
+              [
+                {
+                  "text": "It is"
+                },
+                {
+                  "text": "it is + understood comment"
+                },
+                {
+                  "fa": "همین‌طور است",
+                  "en": "Agreement"
+                }
+              ],
+              [
+                {
+                  "text": "in every way I can"
+                },
+                {
+                  "text": "way + I can + understood action"
+                },
+                {
+                  "fa": "از هر راهی که بتوانم حمایت کنم",
+                  "en": "An understood action"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "impact-and-path",
+        "title": {
+          "fa": "اثر حمایت و مسیر درست",
+          "en": "The effect of support and the right path"
+        },
+        "explanation": {
+          "fa": "will make a big difference یعنی تأثیر زیادی خواهد داشت. the best gift a parent can give یعنی بهترین هدیه‌ای که یک پدر یا مادر می‌تواند بدهد. on the right path هم اصطلاح «در مسیر درست» است؛ دربارهٔ روش تربیت است، نه خیابان.",
+          "en": "Will make a big difference predicts a strong effect. The best gift a parent can give describes the most valuable thing a parent can offer. On the right path praises the approach, not a physical road."
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        },
+        "takeaway": {
+          "fa": "عبارت‌های difference و path را در بافت حمایتی بفهم.",
+          "en": "Interpret difference and path in the context of support."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اثر حمایت و مسیر درست",
+              "en": "The effect of support and the right path"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "will make a big difference"
+                },
+                {
+                  "text": "will + make a difference"
+                },
+                {
+                  "fa": "تأثیر بزرگی خواهد داشت",
+                  "en": "A future effect"
+                }
+              ],
+              [
+                {
+                  "text": "the best gift a parent can give"
+                },
+                {
+                  "text": "the best + thing + a person can give"
+                },
+                {
+                  "fa": "بهترین هدیه‌ای که والد می‌تواند بدهد",
+                  "en": "A valued form of support"
+                }
+              ],
+              [
+                {
+                  "text": "on the right path"
+                },
+                {
+                  "text": "be + on the right path"
+                },
+                {
+                  "fa": "در مسیر درست بودن",
+                  "en": "A positive judgment of the approach"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "doing-well",
+        "text": "doing very well",
+        "pronunciation": {
+          "faReading": "دواینگ وِری وِل",
+          "ipa": "/ˈduɪŋ ˈvɛri wɛl/"
+        },
+        "meaning": {
+          "fa": "خیلی خوب پیش رفتن",
+          "en": "Doing very well"
+        },
+        "context": {
+          "fa": "دربارهٔ وضعیت تحصیلی پسر مینا.",
+          "en": "Describes Mina’s son’s school progress."
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "hard-worker",
+        "text": "a hard worker",
+        "pronunciation": {
+          "faReading": "اِ هارد وِرکِر",
+          "ipa": "/ə hɑrd ˈwɝkɚ/"
+        },
+        "meaning": {
+          "fa": "فرد پرتلاش",
+          "en": "A hard worker"
+        },
+        "context": {
+          "fa": "تعریف معلم از تلاش اوست؛ hard اینجا سخت‌جنس نیست.",
+          "en": "The teacher praises his effort; hard is not about physical texture."
+        },
+        "example": {
+          "text": "He is doing very well, his teacher says he is a hard worker.",
+          "translation": {
+            "fa": "خیلی خوب پیش می‌رود؛ معلمش می‌گوید خیلی پرتلاش است.",
+            "en": "He is doing very well, his teacher says he is a hard worker."
+          }
+        }
+      },
+      {
+        "id": "favorite-subject",
+        "text": "his favorite subject",
+        "pronunciation": {
+          "faReading": "هیز فِیوِرِت سابجِکت",
+          "ipa": "/hɪz ˈfeɪvərɪt ˈsʌbdʒɪkt/"
+        },
+        "meaning": {
+          "fa": "درس موردعلاقهٔ او",
+          "en": "His favorite subject"
+        },
+        "context": {
+          "fa": "دربارهٔ درسی که پسر مینا بیشتر دوست دارد.",
+          "en": "The subject Mina’s son likes most."
+        },
+        "example": {
+          "text": "That is wonderful news, what is his favorite subject?",
+          "translation": {
+            "fa": "چه خبر خوبی! درس موردعلاقه‌اش چیست؟",
+            "en": "That is wonderful news, what is his favorite subject?"
+          }
+        }
+      },
+      {
+        "id": "twice-week",
+        "text": "twice a week",
+        "pronunciation": {
+          "faReading": "توایس اِ ویک",
+          "ipa": "/twaɪs ə wik/"
+        },
+        "meaning": {
+          "fa": "هفته‌ای دو بار",
+          "en": "Twice a week"
+        },
+        "context": {
+          "fa": "تعداد کلاس‌های هنر دختر رویا، نه مدت هر کلاس.",
+          "en": "Counts Roya’s daughter’s art classes, not each class’s duration."
+        },
+        "example": {
+          "text": "Yes, twice a week, and she brings her drawings home to show us.",
+          "translation": {
+            "fa": "بله، هفته‌ای دو بار؛ نقاشی‌هایش را به خانه می‌آورد تا به ما نشان بدهد.",
+            "en": "Yes, twice a week, and she brings her drawings home to show us."
+          }
+        }
+      },
+      {
+        "id": "big-difference",
+        "text": "make a big difference",
+        "pronunciation": {
+          "faReading": "مِیک اِ بیگ دیفِرِنس",
+          "ipa": "/meɪk ə bɪɡ ˈdɪfərəns/"
+        },
+        "meaning": {
+          "fa": "تأثیر بزرگی داشتن",
+          "en": "Make a big difference"
+        },
+        "context": {
+          "fa": "اثر حمایت مادر بر فرزند.",
+          "en": "Describes the effect of a mother’s support."
+        },
+        "example": {
+          "text": "You are a good mother, and your support will make a big difference.",
+          "translation": {
+            "fa": "تو مادر خوبی هستی و حمایتت تأثیر بزرگی خواهد داشت.",
+            "en": "You are a good mother, and your support will make a big difference."
+          }
+        }
+      },
+      {
+        "id": "grow-up",
+        "text": "grow up happy and confident",
+        "pronunciation": {
+          "faReading": "گْرُو آپ هَپی اَند کانفِدِنت",
+          "ipa": "/ɡroʊ ʌp ˈhæpi ænd ˈkɑnfɪdənt/"
+        },
+        "meaning": {
+          "fa": "شاد و بااعتمادبه‌نفس بزرگ شدن",
+          "en": "Grow up happy and confident"
+        },
+        "context": {
+          "fa": "آرزوی رویا برای رشد دخترش.",
+          "en": "Roya’s hope for her daughter’s development."
+        },
+        "example": {
+          "text": "I just want her to grow up happy and confident in her choices.",
+          "translation": {
+            "fa": "فقط می‌خواهم شاد بزرگ شود و به انتخاب‌هایش اطمینان داشته باشد.",
+            "en": "I just want her to grow up happy and confident in her choices."
+          }
+        }
+      },
+      {
+        "id": "right-path",
+        "text": "on the right path",
+        "pronunciation": {
+          "faReading": "آن ذِ رایت پَث",
+          "ipa": "/ɑn ðə raɪt pæθ/"
+        },
+        "meaning": {
+          "fa": "در مسیر درست",
+          "en": "On the right path"
+        },
+        "context": {
+          "fa": "تأیید روش حمایتی است، نه دادن نشانی راه.",
+          "en": "Approves a supportive approach, not a physical route."
+        },
+        "example": {
+          "text": "That is the best gift a parent can give, and you are on the right path.",
+          "translation": {
+            "fa": "این بهترین هدیه‌ای است که پدر یا مادر می‌تواند بدهد؛ تو در مسیر درستی هستی.",
+            "en": "That is the best gift a parent can give, and you are on the right path."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی گفت‌وگو چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "علایق و پیشرفت بچه‌ها و حمایت والدین",
+              "en": "Children’s interests, school progress and parental support"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "انتخاب مدرسهٔ جدید برای دو کودک",
+              "en": "Choosing a new school for two children"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامهٔ امتحان‌های پایان سال",
+              "en": "Planning end-of-year examinations"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "صحبت از درس‌ها و هنر به حمایت از رشد و انتخاب کودک می‌رسد.",
+          "en": "The discussion moves from school subjects and art to supporting children’s growth and choices."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t05",
+          "t09",
+          "t11"
+        ]
+      },
+      {
+        "id": "son-subject",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "درس موردعلاقهٔ پسر مینا چیست؟",
+          "en": "What is Mina’s son’s favorite subject?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هنر",
+              "en": "Art"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "علوم",
+              "en": "Science"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تاریخ",
+              "en": "History"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مینا در پاسخ به سؤال رویا می‌گوید He loves science.",
+          "en": "Mina answers Roya with He loves science."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t04"
+        ]
+      },
+      {
+        "id": "daughter-interest",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دختر رویا به چه چیزی علاقه دارد؟",
+          "en": "What does Roya’s daughter enjoy?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "موسیقی و آواز",
+              "en": "Music and singing"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فوتبال و دویدن",
+              "en": "Football and running"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هنر و نقاشی",
+              "en": "Art and drawing"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "رویا می‌گوید My daughter enjoys art and drawing.",
+          "en": "Roya says My daughter enjoys art and drawing."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "class-frequency",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کلاس هنر چند بار در هفته برگزار می‌شود؟",
+          "en": "How often are the art classes held?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دو بار",
+              "en": "Twice"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سه بار",
+              "en": "Three times"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هر روز",
+              "en": "Every day"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رویا می‌گوید twice a week.",
+          "en": "Roya says twice a week."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "drawings",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دختر رویا چرا نقاشی‌ها را به خانه می‌آورد؟",
+          "en": "Why does Roya’s daughter bring her drawings home?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای فروختن",
+              "en": "To sell them"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برای نشان دادن به خانواده",
+              "en": "To show them to her family"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای دادن به معلم",
+              "en": "To give them to her teacher"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "to show us هدف آوردن نقاشی‌ها را می‌گوید.",
+          "en": "To show us states the purpose of bringing the drawings."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

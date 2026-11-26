@@ -1,0 +1,2909 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s02",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "آلبوم عکس مینا",
+    "en": "Mina’s Photo Album"
+  },
+  "objective": {
+    "fa": "تشخیص بده کودک در عکس کیست، چند سال دارد و پدر مینا در پیک‌نیک چه پخته است.",
+    "en": "Identify the child in the photo, her age then, and what Mina’s father cooked at the picnic."
+  },
+  "speakers": [
+    {
+      "id": "mina",
+      "name": "Mina",
+      "gender": "woman"
+    },
+    {
+      "id": "rana",
+      "name": "Rana",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "mina",
+      "text": "Look at this photo album, these are my family pictures.",
+      "translation": {
+        "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+        "en": "Look at this photo album, these are my family pictures."
+      },
+      "tokens": [
+        {
+          "surface": "Look",
+          "gloss": {
+            "fa": "بخشی از «نگاه کن به»",
+            "en": "part of look at; direct your eyes to"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "بخشی از «نگاه کن به»",
+            "en": "part of look at; direct your eyes to"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "photo",
+          "gloss": {
+            "fa": "عکس",
+            "en": "photo; a picture taken with a camera"
+          }
+        },
+        {
+          "surface": "album,",
+          "gloss": {
+            "fa": "آلبوم",
+            "en": "album; a book for photos"
+          }
+        },
+        {
+          "surface": "these",
+          "gloss": {
+            "fa": "این‌ها؛ این",
+            "en": "these; more than one thing near us"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "pictures.",
+          "gloss": {
+            "fa": "عکس‌ها؛ تصویرها",
+            "en": "pictures; images, here family photos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "rana",
+      "text": "What a lovely album, who is this little girl on the first page?",
+      "translation": {
+        "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+        "en": "What a lovely album, who is this little girl on the first page?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "بخشی از «چه ... قشنگی!»",
+            "en": "part of what a; shows admiration"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "بخشی از «چه ... قشنگی!»",
+            "en": "part of what a; shows admiration"
+          }
+        },
+        {
+          "surface": "lovely",
+          "gloss": {
+            "fa": "دلپذیر؛ خیلی خوب",
+            "en": "lovely; very pleasant"
+          }
+        },
+        {
+          "surface": "album,",
+          "gloss": {
+            "fa": "آلبوم",
+            "en": "album; a book for photos"
+          }
+        },
+        {
+          "surface": "who",
+          "gloss": {
+            "fa": "چه کسی؛ کسی که",
+            "en": "who; asks about or refers to a person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "little",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "little; small"
+          }
+        },
+        {
+          "surface": "girl",
+          "gloss": {
+            "fa": "دختر",
+            "en": "girl; a female child"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "first",
+          "gloss": {
+            "fa": "اول؛ پیش از کار دیگر",
+            "en": "first; before something else"
+          }
+        },
+        {
+          "surface": "page?",
+          "gloss": {
+            "fa": "صفحه",
+            "en": "page; one side of a sheet in a book"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "mina",
+      "text": "That is me when I was five years old, with my grandmother.",
+      "translation": {
+        "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+        "en": "That is me when I was five years old, with my grandmother."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ دختر در عکس",
+            "en": "that; the child in the photo"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من؛ شخص در عکس",
+            "en": "me; the person speaking, identified in a photo"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "five",
+          "gloss": {
+            "fa": "پنج",
+            "en": "five; 5"
+          }
+        },
+        {
+          "surface": "years",
+          "gloss": {
+            "fa": "سال‌ها",
+            "en": "years; periods of twelve months"
+          }
+        },
+        {
+          "surface": "old,",
+          "gloss": {
+            "fa": "ساله؛ همراه five years",
+            "en": "old; in five years old, gives age"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "grandmother.",
+          "gloss": {
+            "fa": "مادربزرگ",
+            "en": "grandmother; a parent's mother"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "rana",
+      "text": "She has a warm smile, and your grandmother looks very kind.",
+      "translation": {
+        "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+        "en": "She has a warm smile, and your grandmother looks very kind."
+      },
+      "tokens": [
+        {
+          "surface": "She",
+          "gloss": {
+            "fa": "او؛ برای زن یا دختر",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "دارد",
+            "en": "has; have with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "warm",
+          "gloss": {
+            "fa": "صمیمانه؛ پرمهر",
+            "en": "warm; friendly and affectionate"
+          }
+        },
+        {
+          "surface": "smile,",
+          "gloss": {
+            "fa": "لبخند",
+            "en": "smile; a happy facial expression"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "grandmother",
+          "gloss": {
+            "fa": "مادربزرگ",
+            "en": "grandmother; a parent's mother"
+          }
+        },
+        {
+          "surface": "looks",
+          "gloss": {
+            "fa": "به نظر می‌رسد",
+            "en": "looks; seems from appearance"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "kind.",
+          "gloss": {
+            "fa": "مهربان",
+            "en": "kind; caring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "mina",
+      "text": "Yes, she used to tell us stories every evening before bed.",
+      "translation": {
+        "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+        "en": "Yes, she used to tell us stories every evening before bed."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "she",
+          "gloss": {
+            "fa": "او؛ برای زن یا دختر",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "used",
+          "gloss": {
+            "fa": "بخشی از «قبلاً عادت داشت»",
+            "en": "part of used to; regularly did before now"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "بخشی از «قبلاً عادت داشت»",
+            "en": "part of used to; regularly did before now"
+          }
+        },
+        {
+          "surface": "tell",
+          "gloss": {
+            "fa": "تعریف کردن؛ داستان گفتن",
+            "en": "tell; say a story to someone"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "stories",
+          "gloss": {
+            "fa": "داستان‌ها",
+            "en": "stories; accounts told for interest or enjoyment"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "evening",
+          "gloss": {
+            "fa": "عصر؛ اوایل شب",
+            "en": "evening; the time near the end of the day"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "bed.",
+          "gloss": {
+            "fa": "تخت؛ اینجا خواب",
+            "en": "bed; in before bed, before going to sleep"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "rana",
+      "text": "That is a beautiful memory, and here is your family at a picnic.",
+      "translation": {
+        "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+        "en": "That is a beautiful memory, and here is your family at a picnic."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "beautiful",
+          "gloss": {
+            "fa": "زیبا",
+            "en": "beautiful; very pleasing"
+          }
+        },
+        {
+          "surface": "memory,",
+          "gloss": {
+            "fa": "خاطره",
+            "en": "memory; something remembered"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا؛ در این عکس",
+            "en": "here; in this photo"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ کنار؛ در ساعتِ",
+            "en": "at; a place or time"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "picnic.",
+          "gloss": {
+            "fa": "پیک‌نیک",
+            "en": "picnic; a meal eaten outdoors"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "mina",
+      "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+      "translation": {
+        "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+        "en": "Right, that was a spring day, my father cooked kebab for all of us."
+      },
+      "tokens": [
+        {
+          "surface": "Right,",
+          "gloss": {
+            "fa": "درست است",
+            "en": "right; that is correct"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "spring",
+          "gloss": {
+            "fa": "بهار؛ بهاری",
+            "en": "spring; the season after winter"
+          }
+        },
+        {
+          "surface": "day,",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "father",
+          "gloss": {
+            "fa": "پدر",
+            "en": "father; a male parent"
+          }
+        },
+        {
+          "surface": "cooked",
+          "gloss": {
+            "fa": "پخت",
+            "en": "cooked; prepared food using heat"
+          }
+        },
+        {
+          "surface": "kebab",
+          "gloss": {
+            "fa": "کباب",
+            "en": "kebab; grilled meat"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; every person or the whole amount"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "rana",
+      "text": "The photos are wonderful, you have a very happy family.",
+      "translation": {
+        "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+        "en": "The photos are wonderful, you have a very happy family."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "photos",
+          "gloss": {
+            "fa": "عکس‌ها",
+            "en": "photos; pictures taken with a camera"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "wonderful,",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy; pleased"
+          }
+        },
+        {
+          "surface": "family.",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "look",
+        "text": "Look",
+        "pronunciation": {
+          "faReading": "لوک",
+          "ipa": "/lʊk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «نگاه کن به»",
+          "en": "part of look at; direct your eyes to"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «نگاه کن به»",
+          "en": "part of look at; direct your eyes to"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "photo",
+        "text": "photo",
+        "pronunciation": {
+          "faReading": "فُوتُو",
+          "ipa": "/ˈfoʊtoʊ/"
+        },
+        "meaning": {
+          "fa": "عکس",
+          "en": "photo; a picture taken with a camera"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "album",
+        "text": "album",
+        "pronunciation": {
+          "faReading": "اَلبِم",
+          "ipa": "/ˈælbəm/"
+        },
+        "meaning": {
+          "fa": "آلبوم",
+          "en": "album; a book for photos"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "these",
+        "text": "these",
+        "pronunciation": {
+          "faReading": "ذیز",
+          "ipa": "/ðiz/"
+        },
+        "meaning": {
+          "fa": "این‌ها؛ این",
+          "en": "these; more than one thing near us"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "pictures",
+        "text": "pictures",
+        "pronunciation": {
+          "faReading": "پیکچِرز",
+          "ipa": "/ˈpɪktʃɚz/"
+        },
+        "meaning": {
+          "fa": "عکس‌ها؛ تصویرها",
+          "en": "pictures; images, here family photos"
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه ... قشنگی!»",
+          "en": "part of what a; shows admiration"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه ... قشنگی!»",
+          "en": "part of what a; shows admiration"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "lovely",
+        "text": "lovely",
+        "pronunciation": {
+          "faReading": "لاولی",
+          "ipa": "/ˈlʌvli/"
+        },
+        "meaning": {
+          "fa": "دلپذیر؛ خیلی خوب",
+          "en": "lovely; very pleasant"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "who",
+        "text": "who",
+        "pronunciation": {
+          "faReading": "هو",
+          "ipa": "/hu/"
+        },
+        "meaning": {
+          "fa": "چه کسی؛ کسی که",
+          "en": "who; asks about or refers to a person"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "little",
+        "text": "little",
+        "pronunciation": {
+          "faReading": "لیتِل",
+          "ipa": "/ˈlɪtəl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "little; small"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "girl",
+        "text": "girl",
+        "pronunciation": {
+          "faReading": "گِرل",
+          "ipa": "/ɡɝl/"
+        },
+        "meaning": {
+          "fa": "دختر",
+          "en": "girl; a female child"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اول؛ پیش از کار دیگر",
+          "en": "first; before something else"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "page",
+        "text": "page",
+        "pronunciation": {
+          "faReading": "پِیج",
+          "ipa": "/peɪdʒ/"
+        },
+        "meaning": {
+          "fa": "صفحه",
+          "en": "page; one side of a sheet in a book"
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ دختر در عکس",
+          "en": "that; the child in the photo"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من؛ شخص در عکس",
+          "en": "me; the person speaking, identified in a photo"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "five",
+        "text": "five",
+        "pronunciation": {
+          "faReading": "فایو",
+          "ipa": "/faɪv/"
+        },
+        "meaning": {
+          "fa": "پنج",
+          "en": "five; 5"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "old",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "ساله؛ همراه five years",
+          "en": "old; in five years old, gives age"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "grandmother",
+        "text": "grandmother",
+        "pronunciation": {
+          "faReading": "گْرَندماذِر",
+          "ipa": "/ˈɡrænmʌðɚ/"
+        },
+        "meaning": {
+          "fa": "مادربزرگ",
+          "en": "grandmother; a parent's mother"
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "she",
+        "text": "She",
+        "pronunciation": {
+          "faReading": "شی",
+          "ipa": "/ʃi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای زن یا دختر",
+          "en": "she; a female person"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "دارد",
+          "en": "has; have with he, she or it"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "a-base",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "warm",
+        "text": "warm",
+        "pronunciation": {
+          "faReading": "وورم",
+          "ipa": "/wɔrm/"
+        },
+        "meaning": {
+          "fa": "صمیمانه؛ پرمهر",
+          "en": "warm; friendly and affectionate"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "smile",
+        "text": "smile",
+        "pronunciation": {
+          "faReading": "سْمایل",
+          "ipa": "/smaɪl/"
+        },
+        "meaning": {
+          "fa": "لبخند",
+          "en": "smile; a happy facial expression"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "looks",
+        "text": "looks",
+        "pronunciation": {
+          "faReading": "لوکس",
+          "ipa": "/lʊks/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد",
+          "en": "looks; seems from appearance"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "مهربان",
+          "en": "kind; caring"
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "used",
+        "text": "used",
+        "pronunciation": {
+          "faReading": "یوست",
+          "ipa": "/just/"
+        },
+        "meaning": {
+          "fa": "بخشی از «قبلاً عادت داشت»",
+          "en": "part of used to; regularly did before now"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بخشی از «قبلاً عادت داشت»",
+          "en": "part of used to; regularly did before now"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "تعریف کردن؛ داستان گفتن",
+          "en": "tell; say a story to someone"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "stories",
+        "text": "stories",
+        "pronunciation": {
+          "faReading": "سْتوریز",
+          "ipa": "/ˈstɔriz/"
+        },
+        "meaning": {
+          "fa": "داستان‌ها",
+          "en": "stories; accounts told for interest or enjoyment"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ اوایل شب",
+          "en": "evening; the time near the end of the day"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "bed",
+        "text": "bed",
+        "pronunciation": {
+          "faReading": "بِد",
+          "ipa": "/bɛd/"
+        },
+        "meaning": {
+          "fa": "تخت؛ اینجا خواب",
+          "en": "bed; in before bed, before going to sleep"
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "that-base",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "beautiful",
+        "text": "beautiful",
+        "pronunciation": {
+          "faReading": "بیوتِفُل",
+          "ipa": "/ˈbjutəfəl/"
+        },
+        "meaning": {
+          "fa": "زیبا",
+          "en": "beautiful; very pleasing"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "memory",
+        "text": "memory",
+        "pronunciation": {
+          "faReading": "مِمِری",
+          "ipa": "/ˈmɛməri/"
+        },
+        "meaning": {
+          "fa": "خاطره",
+          "en": "memory; something remembered"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا؛ در این عکس",
+          "en": "here; in this photo"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "at-base",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ کنار؛ در ساعتِ",
+          "en": "at; a place or time"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "picnic",
+        "text": "picnic",
+        "pronunciation": {
+          "faReading": "پیکنیک",
+          "ipa": "/ˈpɪknɪk/"
+        },
+        "meaning": {
+          "fa": "پیک‌نیک",
+          "en": "picnic; a meal eaten outdoors"
+        },
+        "example": {
+          "text": "That is a beautiful memory, and here is your family at a picnic.",
+          "translation": {
+            "fa": "چه خاطرهٔ زیبایی! اینجا هم خانواده‌ات در پیک‌نیک هستند.",
+            "en": "That is a beautiful memory, and here is your family at a picnic."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "Right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست است",
+          "en": "right; that is correct"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "spring",
+        "text": "spring",
+        "pronunciation": {
+          "faReading": "سْپْرینگ",
+          "ipa": "/sprɪŋ/"
+        },
+        "meaning": {
+          "fa": "بهار؛ بهاری",
+          "en": "spring; the season after winter"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "father",
+        "text": "father",
+        "pronunciation": {
+          "faReading": "فاذِر",
+          "ipa": "/ˈfɑðɚ/"
+        },
+        "meaning": {
+          "fa": "پدر",
+          "en": "father; a male parent"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "cooked",
+        "text": "cooked",
+        "pronunciation": {
+          "faReading": "کوکت",
+          "ipa": "/kʊkt/"
+        },
+        "meaning": {
+          "fa": "پخت",
+          "en": "cooked; prepared food using heat"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "kebab",
+        "text": "kebab",
+        "pronunciation": {
+          "faReading": "کِباب",
+          "ipa": "/kəˈbɑb/"
+        },
+        "meaning": {
+          "fa": "کباب",
+          "en": "kebab; grilled meat"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or length of time"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; every person or the whole amount"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      },
+      {
+        "id": "photos",
+        "text": "photos",
+        "pronunciation": {
+          "faReading": "فُوتُوز",
+          "ipa": "/ˈfoʊtoʊz/"
+        },
+        "meaning": {
+          "fa": "عکس‌ها",
+          "en": "photos; pictures taken with a camera"
+        },
+        "example": {
+          "text": "The photos are wonderful, you have a very happy family.",
+          "translation": {
+            "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+            "en": "The photos are wonderful, you have a very happy family."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "The photos are wonderful, you have a very happy family.",
+          "translation": {
+            "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+            "en": "The photos are wonderful, you have a very happy family."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "The photos are wonderful, you have a very happy family.",
+          "translation": {
+            "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+            "en": "The photos are wonderful, you have a very happy family."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "The photos are wonderful, you have a very happy family.",
+          "translation": {
+            "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+            "en": "The photos are wonderful, you have a very happy family."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "The photos are wonderful, you have a very happy family.",
+          "translation": {
+            "fa": "عکس‌ها فوق‌العاده‌اند؛ خانوادهٔ خیلی شادی داری.",
+            "en": "The photos are wonderful, you have a very happy family."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "this-these-that",
+        "title": {
+          "fa": "اشاره به عکس‌ها",
+          "en": "Pointing to photos"
+        },
+        "explanation": {
+          "fa": "برای یک چیز نزدیک از this و برای چند چیز از these استفاده کن. this photo album یک آلبوم است؛ these are my family pictures چند عکس‌اند. that هم اینجا به دختر در عکس اشاره دارد.",
+          "en": "Use this for one thing near you and these for more than one. This photo album is one album; these are my family pictures refers to several pictures. That points to the girl in the photo."
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        },
+        "takeaway": {
+          "fa": "this is برای یکی؛ these are برای چندتا.",
+          "en": "Use this is for one and these are for more than one."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اشاره به عکس‌ها",
+              "en": "Pointing to photos"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "this photo album"
+                },
+                {
+                  "text": "this + one thing"
+                },
+                {
+                  "fa": "این آلبوم عکس",
+                  "en": "One nearby album"
+                }
+              ],
+              [
+                {
+                  "text": "these are my family pictures"
+                },
+                {
+                  "text": "these are + more than one"
+                },
+                {
+                  "fa": "این‌ها عکس‌های خانوادهٔ من‌اند",
+                  "en": "Several pictures"
+                }
+              ],
+              [
+                {
+                  "text": "That is me"
+                },
+                {
+                  "text": "that is + me"
+                },
+                {
+                  "fa": "آن منم",
+                  "en": "Identifying the child"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "look-and-admire",
+        "title": {
+          "fa": "نگاه کردن و تعریف کردن",
+          "en": "Looking and showing admiration"
+        },
+        "explanation": {
+          "fa": "Look at یعنی «نگاه کن به». پس از آن چیزی را که می‌خواهی نشان بدهی بگو. What a lovely album! یعنی «چه آلبوم قشنگی!»؛ اینجا What سؤال اطلاعاتی نیست و تحسین را نشان می‌دهد.",
+          "en": "Look at asks someone to direct their eyes to something. What a lovely album! shows admiration; it is not asking for information."
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        },
+        "takeaway": {
+          "fa": "What a ...! را برای تعریف از یک چیز یاد بگیر.",
+          "en": "Learn What a ...! as a way to admire something."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نگاه کردن و تعریف کردن",
+              "en": "Looking and showing admiration"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Look at this photo album"
+                },
+                {
+                  "text": "look at + something"
+                },
+                {
+                  "fa": "به این آلبوم نگاه کن",
+                  "en": "Drawing attention"
+                }
+              ],
+              [
+                {
+                  "text": "What a lovely album"
+                },
+                {
+                  "text": "what a + describing word + thing"
+                },
+                {
+                  "fa": "چه آلبوم قشنگی",
+                  "en": "Showing admiration"
+                }
+              ],
+              [
+                {
+                  "text": "who is this little girl"
+                },
+                {
+                  "text": "who is + this person"
+                },
+                {
+                  "fa": "این دختر کوچولو کیست",
+                  "en": "Asking about a person"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "age-and-past",
+        "title": {
+          "fa": "سن و خاطرهٔ گذشته",
+          "en": "Age and past memories"
+        },
+        "explanation": {
+          "fa": "برای سن در گذشته، I was five years old یعنی «پنج‌ساله بودم». was شکل گذشتهٔ am یا is است. cooked یعنی پخت؛ حرف‌های ed به cook اضافه شده‌اند. عکس و حرف‌های مینا نشان می‌دهند این اتفاق‌ها مربوط به قبل‌اند.",
+          "en": "I was five years old gives an age in the past. Was is the past of am or is. Cooked means prepared food before now; cook takes ed. The photos and Mina’s words place these events in the past."
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        },
+        "takeaway": {
+          "fa": "was برای «بود» و «بودم» در خاطره‌ها کاربرد دارد.",
+          "en": "Use was for a past state in a memory."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "سن و خاطرهٔ گذشته",
+              "en": "Age and past memories"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I was five years old"
+                },
+                {
+                  "text": "I was + age + years old"
+                },
+                {
+                  "fa": "پنج‌ساله بودم",
+                  "en": "Past age"
+                }
+              ],
+              [
+                {
+                  "text": "that was a spring day"
+                },
+                {
+                  "text": "that was + description"
+                },
+                {
+                  "fa": "آن یک روز بهاری بود",
+                  "en": "Past setting"
+                }
+              ],
+              [
+                {
+                  "text": "my father cooked kebab"
+                },
+                {
+                  "text": "person + past action"
+                },
+                {
+                  "fa": "پدرم کباب پخت",
+                  "en": "A finished action"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-habit",
+        "title": {
+          "fa": "داستان‌گویی هر شب",
+          "en": "A familiar past routine"
+        },
+        "explanation": {
+          "fa": "used to tell us stories یعنی «قبلاً برایمان داستان می‌گفت». used to را با هم یاد بگیر؛ برای کاری است که در گذشته تکرار می‌شد. بعدش tell می‌آید. every evening زمان تکرار را می‌گوید و before bed یعنی پیش از خواب.",
+          "en": "Used to tell us stories describes a repeated activity in the past. Learn used to together and put tell after it. Every evening gives the routine; before bed means before going to sleep."
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        },
+        "takeaway": {
+          "fa": "used to + کار، یک الگوی آماده برای عادت گذشته است.",
+          "en": "Used to plus an action is a useful past-routine pattern."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "داستان‌گویی هر شب",
+              "en": "A familiar past routine"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "she used to tell us stories"
+                },
+                {
+                  "text": "used to + tell"
+                },
+                {
+                  "fa": "قبلاً برایمان داستان می‌گفت",
+                  "en": "A past routine"
+                }
+              ],
+              [
+                {
+                  "text": "every evening"
+                },
+                {
+                  "text": "every + time"
+                },
+                {
+                  "fa": "هر شب",
+                  "en": "How often it happened"
+                }
+              ],
+              [
+                {
+                  "text": "before bed"
+                },
+                {
+                  "text": "before + bedtime"
+                },
+                {
+                  "fa": "پیش از خواب",
+                  "en": "When it happened"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "has-and-looks",
+        "title": {
+          "fa": "توصیف آدم‌ها در عکس",
+          "en": "Describing people in a photo"
+        },
+        "explanation": {
+          "fa": "با she از has استفاده می‌کنیم: She has a warm smile. looks very kind یعنی «خیلی مهربان به نظر می‌رسد»؛ looks از ظاهر کسی یک برداشت می‌دهد. her smile و your grandmother را با هم اشتباه نگیر: your یعنی مال تو.",
+          "en": "Use has with she: She has a warm smile. Looks very kind describes an impression from appearance. Your grandmother means the grandmother of the person being spoken to."
+        },
+        "example": {
+          "text": "She has a warm smile, and your grandmother looks very kind.",
+          "translation": {
+            "fa": "لبخند صمیمانه‌ای دارد و مادربزرگت خیلی مهربان به نظر می‌رسد.",
+            "en": "She has a warm smile, and your grandmother looks very kind."
+          }
+        },
+        "takeaway": {
+          "fa": "has می‌گوید چه دارد؛ looks می‌گوید چطور به نظر می‌رسد.",
+          "en": "Has tells what someone has; looks tells how someone seems."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توصیف آدم‌ها در عکس",
+              "en": "Describing people in a photo"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "She has a warm smile"
+                },
+                {
+                  "text": "she has + something"
+                },
+                {
+                  "fa": "لبخند صمیمانه‌ای دارد",
+                  "en": "Describing a feature"
+                }
+              ],
+              [
+                {
+                  "text": "your grandmother looks very kind"
+                },
+                {
+                  "text": "person + looks + description"
+                },
+                {
+                  "fa": "مادربزرگت مهربان به نظر می‌رسد",
+                  "en": "An impression"
+                }
+              ],
+              [
+                {
+                  "text": "you have a very happy family"
+                },
+                {
+                  "text": "you have + a family"
+                },
+                {
+                  "fa": "خانوادهٔ خیلی شادی داری",
+                  "en": "Use have with you"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "look-at",
+        "text": "Look at this photo album",
+        "pronunciation": {
+          "faReading": "لوک اَت ذیس فُوتُو اَلبِم",
+          "ipa": "/lʊk æt ðɪs ˈfoʊtoʊ ˈælbəm/"
+        },
+        "meaning": {
+          "fa": "به این آلبوم عکس نگاه کن",
+          "en": "Look at this photo album"
+        },
+        "context": {
+          "fa": "برای نشان دادن آلبوم و جلب توجه دوستت.",
+          "en": "Draws a friend’s attention to an album."
+        },
+        "example": {
+          "text": "Look at this photo album, these are my family pictures.",
+          "translation": {
+            "fa": "به این آلبوم عکس نگاه کن؛ این‌ها عکس‌های خانوادگی من‌اند.",
+            "en": "Look at this photo album, these are my family pictures."
+          }
+        }
+      },
+      {
+        "id": "lovely-album",
+        "text": "What a lovely album",
+        "pronunciation": {
+          "faReading": "وات اِ لاولی اَلبِم",
+          "ipa": "/wʌt ə ˈlʌvli ˈælbəm/"
+        },
+        "meaning": {
+          "fa": "چه آلبوم قشنگی",
+          "en": "What a lovely album"
+        },
+        "context": {
+          "fa": "تعریف از آلبوم است، نه سؤال دربارهٔ نوع آن.",
+          "en": "Admires the album rather than asking what type it is."
+        },
+        "example": {
+          "text": "What a lovely album, who is this little girl on the first page?",
+          "translation": {
+            "fa": "چه آلبوم قشنگی! این دختر کوچولو در صفحهٔ اول کیست؟",
+            "en": "What a lovely album, who is this little girl on the first page?"
+          }
+        }
+      },
+      {
+        "id": "that-me",
+        "text": "That is me",
+        "pronunciation": {
+          "faReading": "ذَت ایز می",
+          "ipa": "/ðæt ɪz mi/"
+        },
+        "meaning": {
+          "fa": "آن منم",
+          "en": "That is me"
+        },
+        "context": {
+          "fa": "مینا خودش را در عکس معرفی می‌کند.",
+          "en": "Mina identifies herself in the photo."
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "five-years",
+        "text": "five years old",
+        "pronunciation": {
+          "faReading": "فایو ییرز اُولد",
+          "ipa": "/faɪv jɪrz oʊld/"
+        },
+        "meaning": {
+          "fa": "پنج‌ساله",
+          "en": "Five years old"
+        },
+        "context": {
+          "fa": "سن مینا در عکس است، نه سن فعلی او.",
+          "en": "Mina’s age in the photo, not her present age."
+        },
+        "example": {
+          "text": "That is me when I was five years old, with my grandmother.",
+          "translation": {
+            "fa": "آن منم، وقتی پنج‌ساله بودم؛ کنار مادربزرگم.",
+            "en": "That is me when I was five years old, with my grandmother."
+          }
+        }
+      },
+      {
+        "id": "used-stories",
+        "text": "used to tell us stories",
+        "pronunciation": {
+          "faReading": "یوست تو تِل اَس سْتوریز",
+          "ipa": "/just tə tɛl ʌs ˈstɔriz/"
+        },
+        "meaning": {
+          "fa": "قبلاً برایمان داستان می‌گفت",
+          "en": "Used to tell us stories"
+        },
+        "context": {
+          "fa": "کار تکراری مادربزرگ در گذشته.",
+          "en": "The grandmother’s regular activity in the past."
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "before-bed",
+        "text": "before bed",
+        "pronunciation": {
+          "faReading": "بی‌فور بِد",
+          "ipa": "/bɪˈfɔr bɛd/"
+        },
+        "meaning": {
+          "fa": "پیش از خواب",
+          "en": "Before bedtime"
+        },
+        "context": {
+          "fa": "زمان داستان‌گویی را می‌گوید.",
+          "en": "Gives the time for telling stories."
+        },
+        "example": {
+          "text": "Yes, she used to tell us stories every evening before bed.",
+          "translation": {
+            "fa": "بله، قبلاً هر شب پیش از خواب برایمان داستان می‌گفت.",
+            "en": "Yes, she used to tell us stories every evening before bed."
+          }
+        }
+      },
+      {
+        "id": "all-us",
+        "text": "for all of us",
+        "pronunciation": {
+          "faReading": "فور آل اَو اَس",
+          "ipa": "/fɔr ɔl əv ʌs/"
+        },
+        "meaning": {
+          "fa": "برای همهٔ ما",
+          "en": "For all of us"
+        },
+        "context": {
+          "fa": "پدر برای همهٔ افراد حاضر کباب پخته است.",
+          "en": "The father cooked kebab for everyone in their group."
+        },
+        "example": {
+          "text": "Right, that was a spring day, my father cooked kebab for all of us.",
+          "translation": {
+            "fa": "درست است؛ یک روز بهاری بود و پدرم برای همهٔ ما کباب پخت.",
+            "en": "Right, that was a spring day, my father cooked kebab for all of us."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مینا و رعنا در حال چه کاری هستند؟",
+          "en": "What are Mina and Rana doing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب هدیهٔ خانوادگی",
+              "en": "Choosing a family gift"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنامه‌ریزی پیک‌نیک آینده",
+              "en": "Planning a future picnic"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دیدن عکس‌ها و گفتن خاطره‌های خانوادگی",
+              "en": "Looking at photos and recalling family memories"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "آلبوم را نگاه می‌کنند و مینا از کودکی و پیک‌نیک گذشته می‌گوید.",
+          "en": "They look at an album and Mina recalls childhood and a past picnic."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t07"
+        ]
+      },
+      {
+        "id": "child",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دختر کوچولو در عکس کیست؟",
+          "en": "Who is the little girl in the photo?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مینا",
+              "en": "Mina"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رعنا",
+              "en": "Rana"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خواهر مینا",
+              "en": "Mina’s sister"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مینا می‌گوید That is me.",
+          "en": "Mina says That is me."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "age",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مینا در آن عکس چندساله بوده است؟",
+          "en": "How old was Mina in that photo?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سه‌ساله",
+              "en": "Three"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج‌ساله",
+              "en": "Five"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هفت‌ساله",
+              "en": "Seven"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مینا می‌گوید when I was five years old؛ این سن همان زمان است.",
+          "en": "Mina says when I was five years old, giving her age then."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "stories",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مادربزرگ چه زمانی داستان می‌گفت؟",
+          "en": "When did the grandmother tell stories?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هر صبح بعد از صبحانه",
+              "en": "Every morning after breakfast"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط در پیک‌نیک",
+              "en": "Only at picnics"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هر شب پیش از خواب",
+              "en": "Every evening before bed"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "عبارت every evening before bed زمان تکرار را می‌گوید.",
+          "en": "Every evening before bed gives the routine’s time."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "picnic",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پدر مینا در پیک‌نیک چه غذایی پخت؟",
+          "en": "What did Mina’s father cook at the picnic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کباب",
+              "en": "Kebab"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سوپ",
+              "en": "Soup"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماهی",
+              "en": "Fish"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مینا می‌گوید my father cooked kebab.",
+          "en": "Mina says my father cooked kebab."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

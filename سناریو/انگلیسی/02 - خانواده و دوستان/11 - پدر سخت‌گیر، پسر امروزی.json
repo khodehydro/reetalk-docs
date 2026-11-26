@@ -1,0 +1,4683 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s11",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "پدر سخت‌گیر، پسر امروزی",
+    "en": "Strict Rules and Growing Independence"
+  },
+  "objective": {
+    "fa": "اختلاف نسلی دربارهٔ تربیت را تحلیل کن و موضوع و زمان گفت‌وگوی آرام پیشنهادی را تشخیص بده.",
+    "en": "Analyze the generational disagreement about discipline and identify the proposed conversation’s focus and timing."
+  },
+  "speakers": [
+    {
+      "id": "amir",
+      "name": "Amir",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "amir",
+      "text": "My father is very strict, he sets many rules for my younger brother.",
+      "translation": {
+        "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+        "en": "My father is very strict, he sets many rules for my younger brother."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "father",
+          "gloss": {
+            "fa": "پدر",
+            "en": "father; a male parent"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "strict,",
+          "gloss": {
+            "fa": "سخت‌گیر",
+            "en": "strict; demanding close obedience to rules"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "sets",
+          "gloss": {
+            "fa": "تعیین می‌کند؛ وضع می‌کند",
+            "en": "sets; establishes rules rather than physically places something"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "rules",
+          "gloss": {
+            "fa": "قوانین",
+            "en": "rules; expectations governing behavior"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or length of time"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "younger",
+          "gloss": {
+            "fa": "کوچک‌تر؛ کم‌سن‌تر",
+            "en": "younger; not as old"
+          }
+        },
+        {
+          "surface": "brother.",
+          "gloss": {
+            "fa": "برادر",
+            "en": "brother; a male sibling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "What kind of rules are you talking about, exactly?",
+      "translation": {
+        "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+        "en": "What kind of rules are you talking about, exactly?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "kind",
+          "gloss": {
+            "fa": "نوع؛ چه‌جور قانون",
+            "en": "kind; type of rule, not kindness"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "rules",
+          "gloss": {
+            "fa": "قوانین",
+            "en": "rules; expectations governing behavior"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "جزء سؤال are you talking",
+            "en": "are; progressive auxiliary in the clarification question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "talking",
+          "gloss": {
+            "fa": "حرف زدن",
+            "en": "talking; speaking with someone"
+          }
+        },
+        {
+          "surface": "about,",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "exactly?",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "amir",
+      "text": "Everything is planned, from his study time to his friends and even his clothes.",
+      "translation": {
+        "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+        "en": "Everything is planned, from his study time to his friends and even his clothes."
+      },
+      "tokens": [
+        {
+          "surface": "Everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "جزء مجهول is planned؛ برنامه‌ریزی‌شده است",
+            "en": "is; passive auxiliary in is planned"
+          }
+        },
+        {
+          "surface": "planned,",
+          "gloss": {
+            "fa": "برنامه‌ریزی‌شده",
+            "en": "planned; arranged in advance"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "study",
+          "gloss": {
+            "fa": "درس خواندن؛ مطالعه",
+            "en": "study; learn by reading or practicing"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period available for something"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "تا؛ انتهای دامنهٔ from ... to",
+            "en": "to; closes the range begun by from"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "friends",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "even",
+          "gloss": {
+            "fa": "حتی",
+            "en": "even; adds an unexpected or stronger point"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "clothes.",
+          "gloss": {
+            "fa": "لباس‌ها",
+            "en": "clothes; things people wear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "That is quite restrictive, and your brother must feel pressured.",
+      "translation": {
+        "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+        "en": "That is quite restrictive, and your brother must feel pressured."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "quite",
+          "gloss": {
+            "fa": "نسبتاً؛ تا حد زیادی",
+            "en": "quite; to a noticeable degree, with strength depending on context"
+          }
+        },
+        {
+          "surface": "restrictive,",
+          "gloss": {
+            "fa": "محدودکننده",
+            "en": "restrictive; strongly limiting freedom of action"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "brother",
+          "gloss": {
+            "fa": "برادر",
+            "en": "brother; a male sibling"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "حتماً؛ استنباط گوینده از وضعیت",
+            "en": "must; epistemic inference, not a command"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; have a feeling"
+          }
+        },
+        {
+          "surface": "pressured.",
+          "gloss": {
+            "fa": "تحت فشار",
+            "en": "pressured; feeling forced to meet demands"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "amir",
+      "text": "He does, but my father believes it is the right way to raise a child.",
+      "translation": {
+        "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+        "en": "He does, but my father believes it is the right way to raise a child."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "does,",
+          "gloss": {
+            "fa": "احساس فشار می‌کند؛ جانشین feel pressured",
+            "en": "does; substitutes for feels pressured"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "father",
+          "gloss": {
+            "fa": "پدر",
+            "en": "father; a male parent"
+          }
+        },
+        {
+          "surface": "believes",
+          "gloss": {
+            "fa": "باور دارد",
+            "en": "believes; considers something true"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "این؛ روش تربیتی پدر",
+            "en": "it; refers to the father’s method"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "درست",
+            "en": "right; correct"
+          }
+        },
+        {
+          "surface": "way",
+          "gloss": {
+            "fa": "راه؛ روش",
+            "en": "way; a manner or approach"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "raise",
+          "gloss": {
+            "fa": "بزرگ کردن؛ پرورش دادن",
+            "en": "raise; bring up a child"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "child.",
+          "gloss": {
+            "fa": "کودک",
+            "en": "child; a young person"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "Parents of older generations often had a different idea of discipline.",
+      "translation": {
+        "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+        "en": "Parents of older generations often had a different idea of discipline."
+      },
+      "tokens": [
+        {
+          "surface": "Parents",
+          "gloss": {
+            "fa": "پدر و مادر؛ والدین",
+            "en": "parents; mother and father"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "older",
+          "gloss": {
+            "fa": "قدیمی‌تر؛ مسن‌تر",
+            "en": "older; from an earlier generation here"
+          }
+        },
+        {
+          "surface": "generations",
+          "gloss": {
+            "fa": "نسل‌ها",
+            "en": "generations; groups born in different periods"
+          }
+        },
+        {
+          "surface": "often",
+          "gloss": {
+            "fa": "اغلب",
+            "en": "often; many times"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "داشت؛ داشتم",
+            "en": "had; have in the past"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "different",
+          "gloss": {
+            "fa": "متفاوت",
+            "en": "different; not the same"
+          }
+        },
+        {
+          "surface": "idea",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "discipline.",
+          "gloss": {
+            "fa": "انضباط؛ شیوهٔ تربیت",
+            "en": "discipline; training behavior through expectations and rules"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "amir",
+      "text": "That is what we argue about, because my brother wants more freedom.",
+      "translation": {
+        "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+        "en": "That is what we argue about, because my brother wants more freedom."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "آنچه؛ موضوع اختلاف",
+            "en": "what; the thing that, introducing the disputed issue"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "argue",
+          "gloss": {
+            "fa": "جر و بحث کردن",
+            "en": "argue; disagree in an angry discussion"
+          }
+        },
+        {
+          "surface": "about,",
+          "gloss": {
+            "fa": "دربارهٔ؛ پس از argue",
+            "en": "about; the topic of the disagreement"
+          }
+        },
+        {
+          "surface": "because",
+          "gloss": {
+            "fa": "چون؛ زیرا",
+            "en": "because; introduces a reason"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "brother",
+          "gloss": {
+            "fa": "برادر",
+            "en": "brother; a male sibling"
+          }
+        },
+        {
+          "surface": "wants",
+          "gloss": {
+            "fa": "می‌خواهد",
+            "en": "wants; wishes to have or do"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "freedom.",
+          "gloss": {
+            "fa": "آزادی",
+            "en": "freedom; ability to choose or act without excessive control"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "Perhaps your father acts out of love, but the method needs to change.",
+      "translation": {
+        "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+        "en": "Perhaps your father acts out of love, but the method needs to change."
+      },
+      "tokens": [
+        {
+          "surface": "Perhaps",
+          "gloss": {
+            "fa": "شاید",
+            "en": "perhaps; maybe"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "father",
+          "gloss": {
+            "fa": "پدر",
+            "en": "father; a male parent"
+          }
+        },
+        {
+          "surface": "acts",
+          "gloss": {
+            "fa": "عمل می‌کند",
+            "en": "acts; behaves"
+          }
+        },
+        {
+          "surface": "out",
+          "gloss": {
+            "fa": "بخشی از «از روی محبت»",
+            "en": "part of out of love; motivated by affection, not a physical exit"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "بخشی از «از روی محبت»",
+            "en": "part of out of love; motivated by affection, not a physical exit"
+          }
+        },
+        {
+          "surface": "love,",
+          "gloss": {
+            "fa": "بخشی از «از روی محبت»",
+            "en": "part of out of love; motivated by affection, not a physical exit"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "method",
+          "gloss": {
+            "fa": "روش",
+            "en": "method; a particular way of doing something"
+          }
+        },
+        {
+          "surface": "needs",
+          "gloss": {
+            "fa": "نیاز دارد",
+            "en": "needs; requires"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "change.",
+          "gloss": {
+            "fa": "تغییر؛ تغییر کردن",
+            "en": "change; become different, or a difference over time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "amir",
+      "text": "I think so too, but how can I explain this to him without fighting?",
+      "translation": {
+        "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+        "en": "I think so too, but how can I explain this to him without fighting?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "همین‌طور؛ درست بودن نظر پیشین",
+            "en": "so; substitutes for the preceding proposition"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "explain",
+          "gloss": {
+            "fa": "توضیح دادن",
+            "en": "explain; make something clear"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ شنوندهٔ توضیح",
+            "en": "to; marks the recipient after explain"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "بدونِ",
+            "en": "without; not doing or having"
+          }
+        },
+        {
+          "surface": "fighting?",
+          "gloss": {
+            "fa": "دعوا کردن",
+            "en": "fighting; quarreling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "Try to talk about your brother's good points and his responsibilities first.",
+      "translation": {
+        "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+        "en": "Try to talk about your brother's good points and his responsibilities first."
+      },
+      "tokens": [
+        {
+          "surface": "Try",
+          "gloss": {
+            "fa": "تلاش کن؛ توصیه برای گفت‌وگو",
+            "en": "try; make an effort, in try to talk"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "حرف زدن؛ صحبت کردن",
+            "en": "talk; speak with someone"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "brother's",
+          "gloss": {
+            "fa": "مال برادر",
+            "en": "brother's; belonging or relating to a brother"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "points",
+          "gloss": {
+            "fa": "ویژگی‌ها؛ جنبه‌های مثبت",
+            "en": "points; favorable qualities, not scores"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "responsibilities",
+          "gloss": {
+            "fa": "مسئولیت‌ها",
+            "en": "responsibilities; duties for which someone is accountable"
+          }
+        },
+        {
+          "surface": "first.",
+          "gloss": {
+            "fa": "اول؛ پیش از کار دیگر",
+            "en": "first; before something else"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "amir",
+      "text": "That is a good approach, I will bring it up calmly next weekend.",
+      "translation": {
+        "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+        "en": "That is a good approach, I will bring it up calmly next weekend."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "approach,",
+          "gloss": {
+            "fa": "روش برخورد",
+            "en": "approach; a way of dealing with something"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "بخشی از «موضوع را مطرح کردن»",
+            "en": "part of bring it up; introduce the issue into discussion"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "بخشی از «موضوع را مطرح کردن»",
+            "en": "part of bring it up; introduce the issue into discussion"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «موضوع را مطرح کردن»",
+            "en": "part of bring it up; introduce the issue into discussion"
+          }
+        },
+        {
+          "surface": "calmly",
+          "gloss": {
+            "fa": "با آرامش",
+            "en": "calmly; without anger or agitation"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "weekend.",
+          "gloss": {
+            "fa": "آخر هفته",
+            "en": "weekend; the end of the working week"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "sara",
+      "text": "Be patient, changing a belief takes time, but honest talk helps.",
+      "translation": {
+        "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+        "en": "Be patient, changing a belief takes time, but honest talk helps."
+      },
+      "tokens": [
+        {
+          "surface": "Be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "patient,",
+          "gloss": {
+            "fa": "صبور",
+            "en": "patient; willing to allow time without becoming angry"
+          }
+        },
+        {
+          "surface": "changing",
+          "gloss": {
+            "fa": "تغییر دادن",
+            "en": "changing; making something different"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "belief",
+          "gloss": {
+            "fa": "باور",
+            "en": "belief; an idea accepted as true"
+          }
+        },
+        {
+          "surface": "takes",
+          "gloss": {
+            "fa": "می‌طلبد؛ زمان می‌برد",
+            "en": "takes; requires an amount of time"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period available for something"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "honest",
+          "gloss": {
+            "fa": "صادق",
+            "en": "honest; truthful and open"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "گفت‌وگو؛ اینجا اسم است",
+            "en": "talk; conversation, a noun here"
+          }
+        },
+        {
+          "surface": "helps.",
+          "gloss": {
+            "fa": "کمک می‌کند",
+            "en": "helps; makes something easier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "amir",
+      "text": "I appreciate your advice, it gives me a clearer way to act.",
+      "translation": {
+        "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+        "en": "I appreciate your advice, it gives me a clearer way to act."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی کردن از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "advice,",
+          "gloss": {
+            "fa": "توصیه؛ راهنمایی",
+            "en": "advice; suggestions about what to do"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "gives",
+          "gloss": {
+            "fa": "می‌دهد",
+            "en": "gives; provides"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "clearer",
+          "gloss": {
+            "fa": "روشن‌تر",
+            "en": "clearer; easier to understand"
+          }
+        },
+        {
+          "surface": "way",
+          "gloss": {
+            "fa": "راه؛ روش",
+            "en": "way; a manner or approach"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ پیش از روش عمل",
+            "en": "to; introduces the action specified by way"
+          }
+        },
+        {
+          "surface": "act.",
+          "gloss": {
+            "fa": "عمل کردن",
+            "en": "act; do something"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "sara",
+      "text": "You are welcome, and I hope your family finds a balanced way.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+        "en": "You are welcome, and I hope your family finds a balanced way."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ هستیم؛ هستید",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "خواهش می‌کنم",
+            "en": "welcome; in you are welcome, a reply to thanks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "finds",
+          "gloss": {
+            "fa": "پیدا می‌کند",
+            "en": "finds; discovers or reaches"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "balanced",
+          "gloss": {
+            "fa": "متعادل",
+            "en": "balanced; avoiding an excessive emphasis on one side"
+          }
+        },
+        {
+          "surface": "way.",
+          "gloss": {
+            "fa": "راه؛ روش",
+            "en": "way; a manner or approach"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "father",
+        "text": "father",
+        "pronunciation": {
+          "faReading": "فاذِر",
+          "ipa": "/ˈfɑðɚ/"
+        },
+        "meaning": {
+          "fa": "پدر",
+          "en": "father; a male parent"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "strict",
+        "text": "strict",
+        "pronunciation": {
+          "faReading": "سْتْریکت",
+          "ipa": "/strɪkt/"
+        },
+        "meaning": {
+          "fa": "سخت‌گیر",
+          "en": "strict; demanding close obedience to rules"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "he",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "sets",
+        "text": "sets",
+        "pronunciation": {
+          "faReading": "سِتس",
+          "ipa": "/sɛts/"
+        },
+        "meaning": {
+          "fa": "تعیین می‌کند؛ وضع می‌کند",
+          "en": "sets; establishes rules rather than physically places something"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بسیاری",
+          "en": "many; a large number"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "rules",
+        "text": "rules",
+        "pronunciation": {
+          "faReading": "رولز",
+          "ipa": "/rulz/"
+        },
+        "meaning": {
+          "fa": "قوانین",
+          "en": "rules; expectations governing behavior"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or length of time"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "younger",
+        "text": "younger",
+        "pronunciation": {
+          "faReading": "یَنگِر",
+          "ipa": "/ˈjʌŋɡɚ/"
+        },
+        "meaning": {
+          "fa": "کوچک‌تر؛ کم‌سن‌تر",
+          "en": "younger; not as old"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "brother",
+        "text": "brother",
+        "pronunciation": {
+          "faReading": "بْرَذِر",
+          "ipa": "/ˈbrʌðɚ/"
+        },
+        "meaning": {
+          "fa": "برادر",
+          "en": "brother; a male sibling"
+        },
+        "example": {
+          "text": "My father is very strict, he sets many rules for my younger brother.",
+          "translation": {
+            "fa": "پدرم خیلی سخت‌گیر است؛ برای برادر کوچک‌ترم قوانین زیادی می‌گذارد.",
+            "en": "My father is very strict, he sets many rules for my younger brother."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "نوع؛ چه‌جور قانون",
+          "en": "kind; type of rule, not kindness"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "جزء سؤال are you talking",
+          "en": "are; progressive auxiliary in the clarification question"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "talking",
+        "text": "talking",
+        "pronunciation": {
+          "faReading": "تاکینگ",
+          "ipa": "/ˈtɔkɪŋ/"
+        },
+        "meaning": {
+          "fa": "حرف زدن",
+          "en": "talking; speaking with someone"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "Everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "is-passive",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "جزء مجهول is planned؛ برنامه‌ریزی‌شده است",
+          "en": "is; passive auxiliary in is planned"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "planned",
+        "text": "planned",
+        "pronunciation": {
+          "faReading": "پْلَند",
+          "ipa": "/plænd/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی‌شده",
+          "en": "planned; arranged in advance"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "his",
+        "text": "his",
+        "pronunciation": {
+          "faReading": "هیز",
+          "ipa": "/hɪz/"
+        },
+        "meaning": {
+          "fa": "مال او؛ برای مرد یا پسر",
+          "en": "his; belonging to a male person"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "study",
+        "text": "study",
+        "pronunciation": {
+          "faReading": "سْتادی",
+          "ipa": "/ˈstʌdi/"
+        },
+        "meaning": {
+          "fa": "درس خواندن؛ مطالعه",
+          "en": "study; learn by reading or practicing"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period available for something"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "تا؛ انتهای دامنهٔ from ... to",
+          "en": "to; closes the range begun by from"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "even",
+        "text": "even",
+        "pronunciation": {
+          "faReading": "ایوِن",
+          "ipa": "/ˈivən/"
+        },
+        "meaning": {
+          "fa": "حتی",
+          "en": "even; adds an unexpected or stronger point"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "clothes",
+        "text": "clothes",
+        "pronunciation": {
+          "faReading": "کْلُوذز",
+          "ipa": "/kloʊðz/"
+        },
+        "meaning": {
+          "fa": "لباس‌ها",
+          "en": "clothes; things people wear"
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "quite",
+        "text": "quite",
+        "pronunciation": {
+          "faReading": "کوایت",
+          "ipa": "/kwaɪt/"
+        },
+        "meaning": {
+          "fa": "نسبتاً؛ تا حد زیادی",
+          "en": "quite; to a noticeable degree, with strength depending on context"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "restrictive",
+        "text": "restrictive",
+        "pronunciation": {
+          "faReading": "ری‌سْتْریکتِو",
+          "ipa": "/rɪˈstrɪktɪv/"
+        },
+        "meaning": {
+          "fa": "محدودکننده",
+          "en": "restrictive; strongly limiting freedom of action"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ استنباط گوینده از وضعیت",
+          "en": "must; epistemic inference, not a command"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; have a feeling"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "pressured",
+        "text": "pressured",
+        "pronunciation": {
+          "faReading": "پْرِشِرد",
+          "ipa": "/ˈprɛʃɚd/"
+        },
+        "meaning": {
+          "fa": "تحت فشار",
+          "en": "pressured; feeling forced to meet demands"
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "احساس فشار می‌کند؛ جانشین feel pressured",
+          "en": "does; substitutes for feels pressured"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "believes",
+        "text": "believes",
+        "pronunciation": {
+          "faReading": "بی‌لیوز",
+          "ipa": "/bɪˈlivz/"
+        },
+        "meaning": {
+          "fa": "باور دارد",
+          "en": "believes; considers something true"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "این؛ روش تربیتی پدر",
+          "en": "it; refers to the father’s method"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست",
+          "en": "right; correct"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "way",
+        "text": "way",
+        "pronunciation": {
+          "faReading": "وِی",
+          "ipa": "/weɪ/"
+        },
+        "meaning": {
+          "fa": "راه؛ روش",
+          "en": "way; a manner or approach"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "raise",
+        "text": "raise",
+        "pronunciation": {
+          "faReading": "رِیز",
+          "ipa": "/reɪz/"
+        },
+        "meaning": {
+          "fa": "بزرگ کردن؛ پرورش دادن",
+          "en": "raise; bring up a child"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "child",
+        "text": "child",
+        "pronunciation": {
+          "faReading": "چایلد",
+          "ipa": "/tʃaɪld/"
+        },
+        "meaning": {
+          "fa": "کودک",
+          "en": "child; a young person"
+        },
+        "example": {
+          "text": "He does, but my father believes it is the right way to raise a child.",
+          "translation": {
+            "fa": "همین‌طور است، ولی پدرم معتقد است این روش درست بزرگ کردن بچه است.",
+            "en": "He does, but my father believes it is the right way to raise a child."
+          }
+        }
+      },
+      {
+        "id": "parents",
+        "text": "Parents",
+        "pronunciation": {
+          "faReading": "پِرِنتس",
+          "ipa": "/ˈpɛrənts/"
+        },
+        "meaning": {
+          "fa": "پدر و مادر؛ والدین",
+          "en": "parents; mother and father"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "older",
+        "text": "older",
+        "pronunciation": {
+          "faReading": "اُولدِر",
+          "ipa": "/ˈoʊldɚ/"
+        },
+        "meaning": {
+          "fa": "قدیمی‌تر؛ مسن‌تر",
+          "en": "older; from an earlier generation here"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "generations",
+        "text": "generations",
+        "pronunciation": {
+          "faReading": "جِنِرِیشنز",
+          "ipa": "/ˌdʒɛnəˈreɪʃənz/"
+        },
+        "meaning": {
+          "fa": "نسل‌ها",
+          "en": "generations; groups born in different periods"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "often",
+        "text": "often",
+        "pronunciation": {
+          "faReading": "آفِن",
+          "ipa": "/ˈɔfən/"
+        },
+        "meaning": {
+          "fa": "اغلب",
+          "en": "often; many times"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "داشت؛ داشتم",
+          "en": "had; have in the past"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "different",
+        "text": "different",
+        "pronunciation": {
+          "faReading": "دیفِرِنت",
+          "ipa": "/ˈdɪfərənt/"
+        },
+        "meaning": {
+          "fa": "متفاوت",
+          "en": "different; not the same"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "discipline",
+        "text": "discipline",
+        "pronunciation": {
+          "faReading": "دیسِپْلین",
+          "ipa": "/ˈdɪsəplɪn/"
+        },
+        "meaning": {
+          "fa": "انضباط؛ شیوهٔ تربیت",
+          "en": "discipline; training behavior through expectations and rules"
+        },
+        "example": {
+          "text": "Parents of older generations often had a different idea of discipline.",
+          "translation": {
+            "fa": "پدر و مادرهای نسل‌های قدیمی‌تر اغلب تصور متفاوتی از انضباط داشتند.",
+            "en": "Parents of older generations often had a different idea of discipline."
+          }
+        }
+      },
+      {
+        "id": "what-fused-relative",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "آنچه؛ موضوع اختلاف",
+          "en": "what; the thing that, introducing the disputed issue"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "argue",
+        "text": "argue",
+        "pronunciation": {
+          "faReading": "آرگیو",
+          "ipa": "/ˈɑrɡju/"
+        },
+        "meaning": {
+          "fa": "جر و بحث کردن",
+          "en": "argue; disagree in an angry discussion"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "about-topic",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ؛ پس از argue",
+          "en": "about; the topic of the disagreement"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "because",
+        "text": "because",
+        "pronunciation": {
+          "faReading": "بی‌کاز",
+          "ipa": "/bɪˈkɔz/"
+        },
+        "meaning": {
+          "fa": "چون؛ زیرا",
+          "en": "because; introduces a reason"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "wants",
+        "text": "wants",
+        "pronunciation": {
+          "faReading": "وانتس",
+          "ipa": "/wɑnts/"
+        },
+        "meaning": {
+          "fa": "می‌خواهد",
+          "en": "wants; wishes to have or do"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "freedom",
+        "text": "freedom",
+        "pronunciation": {
+          "faReading": "فْریدِم",
+          "ipa": "/ˈfridəm/"
+        },
+        "meaning": {
+          "fa": "آزادی",
+          "en": "freedom; ability to choose or act without excessive control"
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        }
+      },
+      {
+        "id": "perhaps",
+        "text": "Perhaps",
+        "pronunciation": {
+          "faReading": "پِرهَپس",
+          "ipa": "/pɚˈhæps/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "perhaps; maybe"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "acts",
+        "text": "acts",
+        "pronunciation": {
+          "faReading": "اَکتس",
+          "ipa": "/ækts/"
+        },
+        "meaning": {
+          "fa": "عمل می‌کند",
+          "en": "acts; behaves"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "out",
+        "text": "out",
+        "pronunciation": {
+          "faReading": "آوت",
+          "ipa": "/aʊt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از روی محبت»",
+          "en": "part of out of love; motivated by affection, not a physical exit"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "of-motive",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از روی محبت»",
+          "en": "part of out of love; motivated by affection, not a physical exit"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "love",
+        "text": "love",
+        "pronunciation": {
+          "faReading": "لاو",
+          "ipa": "/lʌv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از روی محبت»",
+          "en": "part of out of love; motivated by affection, not a physical exit"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "method",
+        "text": "method",
+        "pronunciation": {
+          "faReading": "مِثِد",
+          "ipa": "/ˈmɛθəd/"
+        },
+        "meaning": {
+          "fa": "روش",
+          "en": "method; a particular way of doing something"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "needs",
+        "text": "needs",
+        "pronunciation": {
+          "faReading": "نیدز",
+          "ipa": "/nidz/"
+        },
+        "meaning": {
+          "fa": "نیاز دارد",
+          "en": "needs; requires"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "change",
+        "text": "change",
+        "pronunciation": {
+          "faReading": "چِینج",
+          "ipa": "/tʃeɪndʒ/"
+        },
+        "meaning": {
+          "fa": "تغییر؛ تغییر کردن",
+          "en": "change; become different, or a difference over time"
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "همین‌طور؛ درست بودن نظر پیشین",
+          "en": "so; substitutes for the preceding proposition"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "explain",
+        "text": "explain",
+        "pronunciation": {
+          "faReading": "ایکسْپْلِین",
+          "ipa": "/ɪkˈspleɪn/"
+        },
+        "meaning": {
+          "fa": "توضیح دادن",
+          "en": "explain; make something clear"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "to-recipient",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ شنوندهٔ توضیح",
+          "en": "to; marks the recipient after explain"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "او را؛ به او",
+          "en": "him; the male person receiving an action"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "بدونِ",
+          "en": "without; not doing or having"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "fighting",
+        "text": "fighting",
+        "pronunciation": {
+          "faReading": "فایتینگ",
+          "ipa": "/ˈfaɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "دعوا کردن",
+          "en": "fighting; quarreling"
+        },
+        "example": {
+          "text": "I think so too, but how can I explain this to him without fighting?",
+          "translation": {
+            "fa": "من هم همین فکر را می‌کنم، ولی چطور بدون دعوا این را برایش توضیح بدهم؟",
+            "en": "I think so too, but how can I explain this to him without fighting?"
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "Try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کن؛ توصیه برای گفت‌وگو",
+          "en": "try; make an effort, in try to talk"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "talk",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "حرف زدن؛ صحبت کردن",
+          "en": "talk; speak with someone"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "brother-possessive",
+        "text": "brother's",
+        "pronunciation": {
+          "faReading": "بْرَذِرز",
+          "ipa": "/ˈbrʌðɚz/"
+        },
+        "meaning": {
+          "fa": "مال برادر",
+          "en": "brother's; belonging or relating to a brother"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "points",
+        "text": "points",
+        "pronunciation": {
+          "faReading": "پوینتس",
+          "ipa": "/pɔɪnts/"
+        },
+        "meaning": {
+          "fa": "ویژگی‌ها؛ جنبه‌های مثبت",
+          "en": "points; favorable qualities, not scores"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "responsibilities",
+        "text": "responsibilities",
+        "pronunciation": {
+          "faReading": "ری‌سْپانسِبیلِتیز",
+          "ipa": "/rɪˌspɑnsəˈbɪlətiz/"
+        },
+        "meaning": {
+          "fa": "مسئولیت‌ها",
+          "en": "responsibilities; duties for which someone is accountable"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اول؛ پیش از کار دیگر",
+          "en": "first; before something else"
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "approach",
+        "text": "approach",
+        "pronunciation": {
+          "faReading": "اِپْرُوچ",
+          "ipa": "/əˈproʊtʃ/"
+        },
+        "meaning": {
+          "fa": "روش برخورد",
+          "en": "approach; a way of dealing with something"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; points to a future action"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «موضوع را مطرح کردن»",
+          "en": "part of bring it up; introduce the issue into discussion"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "it-topic",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «موضوع را مطرح کردن»",
+          "en": "part of bring it up; introduce the issue into discussion"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «موضوع را مطرح کردن»",
+          "en": "part of bring it up; introduce the issue into discussion"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "calmly",
+        "text": "calmly",
+        "pronunciation": {
+          "faReading": "کاملی",
+          "ipa": "/ˈkɑmli/"
+        },
+        "meaning": {
+          "fa": "با آرامش",
+          "en": "calmly; without anger or agitation"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "weekend",
+        "text": "weekend",
+        "pronunciation": {
+          "faReading": "ویک‌اِند",
+          "ipa": "/ˈwikˌɛnd/"
+        },
+        "meaning": {
+          "fa": "آخر هفته",
+          "en": "weekend; the end of the working week"
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "Be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "patient",
+        "text": "patient",
+        "pronunciation": {
+          "faReading": "پِیشِنت",
+          "ipa": "/ˈpeɪʃənt/"
+        },
+        "meaning": {
+          "fa": "صبور",
+          "en": "patient; willing to allow time without becoming angry"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "changing",
+        "text": "changing",
+        "pronunciation": {
+          "faReading": "چِینجینگ",
+          "ipa": "/ˈtʃeɪndʒɪŋ/"
+        },
+        "meaning": {
+          "fa": "تغییر دادن",
+          "en": "changing; making something different"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "belief",
+        "text": "belief",
+        "pronunciation": {
+          "faReading": "بی‌لیف",
+          "ipa": "/bɪˈlif/"
+        },
+        "meaning": {
+          "fa": "باور",
+          "en": "belief; an idea accepted as true"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "takes",
+        "text": "takes",
+        "pronunciation": {
+          "faReading": "تِیکس",
+          "ipa": "/teɪks/"
+        },
+        "meaning": {
+          "fa": "می‌طلبد؛ زمان می‌برد",
+          "en": "takes; requires an amount of time"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "honest",
+        "text": "honest",
+        "pronunciation": {
+          "faReading": "آنِست",
+          "ipa": "/ˈɑnɪst/"
+        },
+        "meaning": {
+          "fa": "صادق",
+          "en": "honest; truthful and open"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "talk-noun",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "گفت‌وگو؛ اینجا اسم است",
+          "en": "talk; conversation, a noun here"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "helps",
+        "text": "helps",
+        "pronunciation": {
+          "faReading": "هِلپس",
+          "ipa": "/hɛlps/"
+        },
+        "meaning": {
+          "fa": "کمک می‌کند",
+          "en": "helps; makes something easier"
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "advice",
+        "text": "advice",
+        "pronunciation": {
+          "faReading": "اَدوایس",
+          "ipa": "/ədˈvaɪs/"
+        },
+        "meaning": {
+          "fa": "توصیه؛ راهنمایی",
+          "en": "advice; suggestions about what to do"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "it-base",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "gives",
+        "text": "gives",
+        "pronunciation": {
+          "faReading": "گیوز",
+          "ipa": "/ɡɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌دهد",
+          "en": "gives; provides"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "clearer",
+        "text": "clearer",
+        "pronunciation": {
+          "faReading": "کْلیرِر",
+          "ipa": "/ˈklɪrɚ/"
+        },
+        "meaning": {
+          "fa": "روشن‌تر",
+          "en": "clearer; easier to understand"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "to-action-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ پیش از روش عمل",
+          "en": "to; introduces the action specified by way"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "act",
+        "text": "act",
+        "pronunciation": {
+          "faReading": "اَکت",
+          "ipa": "/ækt/"
+        },
+        "meaning": {
+          "fa": "عمل کردن",
+          "en": "act; do something"
+        },
+        "example": {
+          "text": "I appreciate your advice, it gives me a clearer way to act.",
+          "translation": {
+            "fa": "از راهنمایی‌ات ممنونم؛ مسیر روشن‌تری برای عمل کردن به من می‌دهد.",
+            "en": "I appreciate your advice, it gives me a clearer way to act."
+          }
+        }
+      },
+      {
+        "id": "are-base",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ هستیم؛ هستید",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "welcome; in you are welcome, a reply to thanks"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      },
+      {
+        "id": "finds",
+        "text": "finds",
+        "pronunciation": {
+          "faReading": "فایندز",
+          "ipa": "/faɪndz/"
+        },
+        "meaning": {
+          "fa": "پیدا می‌کند",
+          "en": "finds; discovers or reaches"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      },
+      {
+        "id": "balanced",
+        "text": "balanced",
+        "pronunciation": {
+          "faReading": "بَلِنست",
+          "ipa": "/ˈbælənst/"
+        },
+        "meaning": {
+          "fa": "متعادل",
+          "en": "balanced; avoiding an excessive emphasis on one side"
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "generational-stance",
+        "title": {
+          "fa": "دیدگاه نسلی و زبان ارزیابی",
+          "en": "Generational stance and evaluative language"
+        },
+        "explanation": {
+          "fa": "strict و restrictive یکسان نیستند: اولی سخت‌گیری را نام می‌برد و دومی اثر محدودکردن آزادی را ارزیابی می‌کند. must feel pressured استنباط سارا از وضعیت برادر است، نه گزارش مستقیم احساس او. quite درجهٔ ارزیابی را تنظیم می‌کند و شدت دقیقش به بافت بستگی دارد.",
+          "en": "Strict labels demanding rule enforcement; restrictive evaluates its limiting effect on freedom. Must feel pressured is Sara’s inference rather than a direct report from the brother. Quite adjusts the evaluation, with its exact strength dependent on context."
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        },
+        "takeaway": {
+          "fa": "ارزیابی گوینده را از واقعیت نقل‌شده دربارهٔ احساس شخص جدا کن.",
+          "en": "Distinguish a speaker’s evaluative inference from a person’s directly reported feelings."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دیدگاه نسلی و زبان ارزیابی",
+              "en": "Generational stance and evaluative language"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "very strict"
+                },
+                {
+                  "text": "degree word + evaluative adjective"
+                },
+                {
+                  "fa": "بسیار سخت‌گیر",
+                  "en": "A description of the father"
+                }
+              ],
+              [
+                {
+                  "text": "quite restrictive"
+                },
+                {
+                  "text": "degree word + evaluative adjective"
+                },
+                {
+                  "fa": "به‌طور قابل‌توجهی محدودکننده",
+                  "en": "A judgment about the rules"
+                }
+              ],
+              [
+                {
+                  "text": "must feel pressured"
+                },
+                {
+                  "text": "must + feel + adjective"
+                },
+                {
+                  "fa": "حتماً احساس فشار می‌کند",
+                  "en": "Epistemic inference, not obligation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "passive-and-range",
+        "title": {
+          "fa": "برنامه‌ریزی و دامنهٔ کنترل",
+          "en": "Passive framing and the scope of control"
+        },
+        "explanation": {
+          "fa": "Everything is planned با مجهول، بر برنامه‌ریزی‌شدن همهٔ جنبه‌ها تأکید می‌کند؛ عامل در این جمله نیامده اما از نوبت قبل پدر فهمیده می‌شود. from ... to ... دامنه را می‌سازد و even his clothes آخرین مورد را به‌صورت چشمگیرتر اضافه می‌کند.",
+          "en": "Everything is planned foregrounds the controlled situation through a passive. The agent is omitted in this clause but recoverable as the father from the preceding turn. From ... to ... constructs the range, while even his clothes adds a striking endpoint."
+        },
+        "example": {
+          "text": "Everything is planned, from his study time to his friends and even his clothes.",
+          "translation": {
+            "fa": "همه‌چیز برنامه‌ریزی شده است؛ از زمان درس خواندنش گرفته تا دوستانش و حتی لباس‌هایش.",
+            "en": "Everything is planned, from his study time to his friends and even his clothes."
+          }
+        },
+        "takeaway": {
+          "fa": "نبود عامل در مجهول به معنی نامعلوم بودن او در کل بافت نیست.",
+          "en": "An omitted passive agent may still be recoverable from context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برنامه‌ریزی و دامنهٔ کنترل",
+              "en": "Passive framing and the scope of control"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Everything is planned"
+                },
+                {
+                  "text": "be + past participle"
+                },
+                {
+                  "fa": "همه‌چیز برنامه‌ریزی شده است",
+                  "en": "Passive focus on the controlled situation"
+                }
+              ],
+              [
+                {
+                  "text": "from his study time to his friends"
+                },
+                {
+                  "text": "from + starting point + to + endpoint"
+                },
+                {
+                  "fa": "از وقت مطالعه تا دوستانش",
+                  "en": "Scope of control"
+                }
+              ],
+              [
+                {
+                  "text": "and even his clothes"
+                },
+                {
+                  "text": "even + additional item"
+                },
+                {
+                  "fa": "حتی لباس‌هایش",
+                  "en": "An emphatic addition"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "substitution-and-what",
+        "title": {
+          "fa": "جانشینی و موضوع اختلاف",
+          "en": "Substitution and the issue under discussion"
+        },
+        "explanation": {
+          "fa": "He does جای feels pressured را می‌گیرد و I think so به لزوم تغییر روش اشاره می‌کند. what we argue about یعنی «آنچه درباره‌اش بحث می‌کنیم»؛ ترتیبش خبری است و about در پایان بند می‌ماند. این what یک سؤال مستقیم نیست.",
+          "en": "He does substitutes for feels pressured, while I think so endorses the need for a changed method. What we argue about is a fused relative meaning the issue that we dispute, with statement order and stranded about, not a direct question."
+        },
+        "example": {
+          "text": "That is what we argue about, because my brother wants more freedom.",
+          "translation": {
+            "fa": "بحث ما هم سر همین است، چون برادرم آزادی بیشتری می‌خواهد.",
+            "en": "That is what we argue about, because my brother wants more freedom."
+          }
+        },
+        "takeaway": {
+          "fa": "does و so گزارهٔ قبلی را بازیابی می‌کنند؛ what موضوع را نام می‌برد.",
+          "en": "Does and so recover earlier propositions; what identifies an issue."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جانشینی و موضوع اختلاف",
+              "en": "Substitution and the issue under discussion"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "He does"
+                },
+                {
+                  "text": "does + understood predicate"
+                },
+                {
+                  "fa": "احساس فشار می‌کند",
+                  "en": "Predicate substitution"
+                }
+              ],
+              [
+                {
+                  "text": "That is what we argue about"
+                },
+                {
+                  "text": "what + statement order + about"
+                },
+                {
+                  "fa": "موضوع اختلاف ما همین است",
+                  "en": "Fused relative"
+                }
+              ],
+              [
+                {
+                  "text": "I think so too"
+                },
+                {
+                  "text": "think + so"
+                },
+                {
+                  "fa": "من هم همین فکر را می‌کنم",
+                  "en": "Propositional substitution"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "motive-versus-method",
+        "title": {
+          "fa": "تمایز نیت و روش",
+          "en": "Distinguishing motive from method"
+        },
+        "explanation": {
+          "fa": "Perhaps your father acts out of love احتمال نیت مثبت را می‌پذیرد، اما but the method needs to change نتیجه نمی‌گیرد که روش هم درست است. because در نوبت قبل دلیل اختلاف را می‌دهد و without fighting شیوهٔ مطلوب توضیح را با ing پس از حرف اضافه بیان می‌کند.",
+          "en": "Perhaps your father acts out of love allows a charitable account of motive; but the method needs to change denies that good intent guarantees a good method. Because supplies the reason for disagreement. Without fighting uses an ing complement after a preposition to specify the desired manner."
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        },
+        "takeaway": {
+          "fa": "نیت مثبت و روش مناسب دو ادعای جدا هستند.",
+          "en": "Positive intent and an appropriate method are separate claims."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تمایز نیت و روش",
+              "en": "Distinguishing motive from method"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Perhaps your father acts out of love"
+                },
+                {
+                  "text": "perhaps + motive phrase"
+                },
+                {
+                  "fa": "شاید از روی محبت عمل می‌کند",
+                  "en": "Tentative interpretation of intent"
+                }
+              ],
+              [
+                {
+                  "text": "but the method needs to change"
+                },
+                {
+                  "text": "but + contrasting claim"
+                },
+                {
+                  "fa": "ولی روش باید تغییر کند",
+                  "en": "Contrast without denying affection"
+                }
+              ],
+              [
+                {
+                  "text": "without fighting"
+                },
+                {
+                  "text": "without + ing"
+                },
+                {
+                  "fa": "بدون دعوا",
+                  "en": "Manner of the proposed explanation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "advice-and-topic",
+        "title": {
+          "fa": "توصیه و مطرح‌کردن موضوع",
+          "en": "Advice and introducing an issue"
+        },
+        "explanation": {
+          "fa": "Try to talk توصیه به تلاش برای گفت‌وگوست؛ brother’s good points ویژگی‌های مثبت برادر را می‌گوید، نه امتیازهای عددی. bring it up فعل عبارتی جداشدنی است؛ ضمیر it باید بین bring و up قرار بگیرد. will bring تعهد امیر و next weekend زمان آن است.",
+          "en": "Try to talk advises an effort, and brother’s good points refers to favorable qualities rather than scores. Bring it up is a separable phrasal verb: the pronoun it must occur between bring and up. Will bring signals Amir’s commitment, dated by next weekend."
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        },
+        "takeaway": {
+          "fa": "bring it up برای واردکردن موضوع به بحث است؛ جای ضمیر را حفظ کن.",
+          "en": "Bring it up introduces a topic; retain the pronoun’s position."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توصیه و مطرح‌کردن موضوع",
+              "en": "Advice and introducing an issue"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Try to talk about your brother's good points"
+                },
+                {
+                  "text": "try to + action"
+                },
+                {
+                  "fa": "سعی کن از ویژگی‌های مثبت برادرت بگویی",
+                  "en": "Constructive advice"
+                }
+              ],
+              [
+                {
+                  "text": "I will bring it up calmly next weekend"
+                },
+                {
+                  "text": "will + bring + it + up + manner + time"
+                },
+                {
+                  "fa": "آخر هفتهٔ آینده آرام مطرحش می‌کنم",
+                  "en": "A commitment and its timing"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "activity-and-time",
+        "title": {
+          "fa": "تغییر باور به‌عنوان فعالیت",
+          "en": "Changing a belief as an activity"
+        },
+        "explanation": {
+          "fa": "Changing a belief یک گروه با ing است که فاعل takes محسوب می‌شود؛ جمع بودن تجربه‌ها یا افراد مطرح نیست و فعل اینجا مفرد است. takes time یعنی زمان می‌برد. clearer way to act نیز راه روشن‌تر برای عمل است، نه روشنایی فیزیکی.",
+          "en": "Changing a belief is an ing-clause functioning as the subject of singular takes. Takes time means requires time. A clearer way to act evaluates practical understanding rather than physical visibility."
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        },
+        "takeaway": {
+          "fa": "وقتی یک فعالیت موضوع جمله است، takes می‌تواند با آن هماهنگ شود.",
+          "en": "An activity presented as one subject can take singular takes."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تغییر باور به‌عنوان فعالیت",
+              "en": "Changing a belief as an activity"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "changing a belief takes time"
+                },
+                {
+                  "text": "ing-clause subject + singular verb"
+                },
+                {
+                  "fa": "تغییر باور زمان می‌برد",
+                  "en": "An activity treated as a whole"
+                }
+              ],
+              [
+                {
+                  "text": "honest talk helps"
+                },
+                {
+                  "text": "noun phrase + helps"
+                },
+                {
+                  "fa": "گفت‌وگوی صادقانه کمک می‌کند",
+                  "en": "Singular agreement"
+                }
+              ],
+              [
+                {
+                  "text": "a clearer way to act"
+                },
+                {
+                  "text": "comparative + noun + infinitive"
+                },
+                {
+                  "fa": "راه روشن‌تری برای عمل",
+                  "en": "Practical improvement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hope-and-balance",
+        "title": {
+          "fa": "امید به نتیجهٔ متعادل",
+          "en": "Hoping for a balanced outcome"
+        },
+        "explanation": {
+          "fa": "I hope your family finds ... یک امید است، نه تضمین نتیجه. پس از hope، بند خبری آمده و finds با family که اینجا یک واحد دیده شده هماهنگ است. balanced way از تعادل میان دغدغهٔ پدر و استقلال فرزند می‌گوید، بدون اینکه متن قانون مشخص تازه‌ای پیشنهاد کند.",
+          "en": "I hope your family finds ... expresses a hoped-for outcome, not a guarantee. Hope takes a declarative clause, and finds agrees with family construed as a unit here. Balanced way seeks a workable balance without specifying a new set of rules."
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        },
+        "takeaway": {
+          "fa": "hope را از پیش‌بینی قطعی و balanced را از یک راه‌حل مشخص جدا کن.",
+          "en": "Distinguish hope from a guaranteed prediction and balance from a fully specified solution."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "امید به نتیجهٔ متعادل",
+              "en": "Hoping for a balanced outcome"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I hope your family finds a balanced way"
+                },
+                {
+                  "text": "hope + declarative clause"
+                },
+                {
+                  "fa": "امیدوارم خانواده راه متعادلی پیدا کند",
+                  "en": "A desired outcome"
+                }
+              ],
+              [
+                {
+                  "text": "it gives me a clearer way to act"
+                },
+                {
+                  "text": "gives + recipient + result"
+                },
+                {
+                  "fa": "راه روشن‌تری به من می‌دهد",
+                  "en": "The advice’s reported benefit"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "kind-rules",
+        "text": "What kind of rules are you talking about",
+        "pronunciation": {
+          "faReading": "وات کایند اَو رولز آر یو تاکینگ اِباوت",
+          "ipa": "/wʌt kaɪnd əv rulz ɑr ju ˈtɔkɪŋ əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ چه‌جور قوانینی صحبت می‌کنی",
+          "en": "What kind of rules are you talking about?"
+        },
+        "context": {
+          "fa": "درخواست روشن‌سازی دامنهٔ سخت‌گیری، پیش از ارزیابی آن.",
+          "en": "Requests clarification of the restrictions before evaluating them."
+        },
+        "example": {
+          "text": "What kind of rules are you talking about, exactly?",
+          "translation": {
+            "fa": "دقیقاً دربارهٔ چه‌جور قوانینی حرف می‌زنی؟",
+            "en": "What kind of rules are you talking about, exactly?"
+          }
+        }
+      },
+      {
+        "id": "feel-pressured",
+        "text": "must feel pressured",
+        "pronunciation": {
+          "faReading": "ماست فیل پْرِشِرد",
+          "ipa": "/mʌst fil ˈprɛʃɚd/"
+        },
+        "meaning": {
+          "fa": "حتماً احساس فشار می‌کند",
+          "en": "Must feel pressured"
+        },
+        "context": {
+          "fa": "استنباط سارا از موقعیت برادر است؛ نقل‌قول مستقیم از او نیست.",
+          "en": "Sara’s inference from the brother’s situation, not a direct quotation from him."
+        },
+        "example": {
+          "text": "That is quite restrictive, and your brother must feel pressured.",
+          "translation": {
+            "fa": "این خیلی محدودکننده است و برادرت حتماً احساس فشار می‌کند.",
+            "en": "That is quite restrictive, and your brother must feel pressured."
+          }
+        }
+      },
+      {
+        "id": "out-love",
+        "text": "acts out of love",
+        "pronunciation": {
+          "faReading": "اَکتس آوت اَو لاو",
+          "ipa": "/ækts aʊt əv lʌv/"
+        },
+        "meaning": {
+          "fa": "از روی محبت عمل می‌کند",
+          "en": "Acts out of love"
+        },
+        "context": {
+          "fa": "نیت مثبت را محتمل می‌داند، بدون تأیید روش محدودکننده.",
+          "en": "Allows a positive motive without endorsing the restrictive method."
+        },
+        "example": {
+          "text": "Perhaps your father acts out of love, but the method needs to change.",
+          "translation": {
+            "fa": "شاید پدرت از روی محبت عمل می‌کند، اما روشش باید تغییر کند.",
+            "en": "Perhaps your father acts out of love, but the method needs to change."
+          }
+        }
+      },
+      {
+        "id": "good-points",
+        "text": "your brother's good points",
+        "pronunciation": {
+          "faReading": "یور بْرَذِرز گود پوینتس",
+          "ipa": "/jʊr ˈbrʌðɚz ɡʊd pɔɪnts/"
+        },
+        "meaning": {
+          "fa": "ویژگی‌های خوب برادرت",
+          "en": "Your brother’s good qualities"
+        },
+        "context": {
+          "fa": "points در این بافت جنبه‌های مثبت است، نه نمره.",
+          "en": "Points means favorable qualities here, not scores."
+        },
+        "example": {
+          "text": "Try to talk about your brother's good points and his responsibilities first.",
+          "translation": {
+            "fa": "اول سعی کن دربارهٔ ویژگی‌های خوب و مسئولیت‌های برادرت حرف بزنی.",
+            "en": "Try to talk about your brother's good points and his responsibilities first."
+          }
+        }
+      },
+      {
+        "id": "bring-up",
+        "text": "bring it up calmly",
+        "pronunciation": {
+          "faReading": "بْرینگ ایت آپ کاملی",
+          "ipa": "/brɪŋ ɪt ʌp ˈkɑmli/"
+        },
+        "meaning": {
+          "fa": "با آرامش مطرحش کنم",
+          "en": "Bring it up calmly"
+        },
+        "context": {
+          "fa": "it موضوع اختلاف است و میان bring و up قرار دارد.",
+          "en": "It refers to the issue and occurs between bring and up."
+        },
+        "example": {
+          "text": "That is a good approach, I will bring it up calmly next weekend.",
+          "translation": {
+            "fa": "روش خوبی است؛ آخر هفتهٔ آینده با آرامش مطرحش می‌کنم.",
+            "en": "That is a good approach, I will bring it up calmly next weekend."
+          }
+        }
+      },
+      {
+        "id": "be-patient",
+        "text": "Be patient",
+        "pronunciation": {
+          "faReading": "بی پِیشِنت",
+          "ipa": "/bi ˈpeɪʃənt/"
+        },
+        "meaning": {
+          "fa": "صبور باش",
+          "en": "Be patient"
+        },
+        "context": {
+          "fa": "انتظار تغییر فوری باور را تعدیل می‌کند؛ patient به معنی بیمار نیست.",
+          "en": "Tempers expectations of immediate belief change; patient is not a noun meaning a sick person."
+        },
+        "example": {
+          "text": "Be patient, changing a belief takes time, but honest talk helps.",
+          "translation": {
+            "fa": "صبور باش؛ تغییر دادن یک باور زمان می‌برد، ولی گفت‌وگوی صادقانه کمک می‌کند.",
+            "en": "Be patient, changing a belief takes time, but honest talk helps."
+          }
+        }
+      },
+      {
+        "id": "balanced-way",
+        "text": "a balanced way",
+        "pronunciation": {
+          "faReading": "اِ بَلِنست وِی",
+          "ipa": "/ə ˈbælənst weɪ/"
+        },
+        "meaning": {
+          "fa": "راهی متعادل",
+          "en": "A balanced way"
+        },
+        "context": {
+          "fa": "آرزوی تعادل در تربیت است، بدون ارائهٔ نسخهٔ قطعی.",
+          "en": "A hope for balance in parenting rather than a definitive prescription."
+        },
+        "example": {
+          "text": "You are welcome, and I hope your family finds a balanced way.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم خانواده‌ات راه متعادلی پیدا کند.",
+            "en": "You are welcome, and I hope your family finds a balanced way."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مسئلهٔ محوری این تبادل چیست؟",
+          "en": "What is the central issue in this exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب لباس برای یک جشن خانوادگی",
+              "en": "Choosing clothes for a family celebration"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "یافتن راه گفت‌وگو دربارهٔ تربیت محدودکننده",
+              "en": "Finding a way to discuss restrictive parenting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامه‌ریزی زمان امتحان برادر",
+              "en": "Scheduling the brother’s examinations"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "قوانین پدر و آزادی برادر مطرح می‌شود و توصیه‌ها بر گفت‌وگوی آرام تمرکز دارند.",
+          "en": "The father’s rules and brother’s freedom lead to advice about a calm conversation."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t07",
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "scope",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دامنهٔ کنترل پدر چگونه توصیف می‌شود؟",
+          "en": "How is the scope of the father’s control described?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط نمره‌های درسی",
+              "en": "Only school marks"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط رفت‌وآمد آخر هفته",
+              "en": "Only weekend outings"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مطالعه، دوستان و حتی لباس‌ها",
+              "en": "Study time, friends and even clothes"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "فهرست from his study time to his friends and even his clothes دامنه را نشان می‌دهد.",
+          "en": "The range from his study time to his friends and even his clothes specifies the scope."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "first-focus",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سارا پیشنهاد می‌کند ابتدا دربارهٔ چه چیزی حرف بزنند؟",
+          "en": "What does Sara suggest discussing first?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ویژگی‌های خوب و مسئولیت‌های برادر",
+              "en": "The brother’s good qualities and responsibilities"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اشتباه‌های قدیمی و ضعف‌های پدر",
+              "en": "The father’s earlier mistakes and weaknesses"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "قوانین خانواده‌های همسایه",
+              "en": "The neighbors’ family rules"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "good points و responsibilities موضوع‌های شروع پیشنهادی هستند.",
+          "en": "Good points and responsibilities are the proposed starting points."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "commitment",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "امیر چه زمانی و چگونه می‌خواهد موضوع را مطرح کند؟",
+          "en": "When and how does Amir plan to raise the issue?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همین شب با قاطعیت",
+              "en": "That night forcefully"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آخر هفتهٔ آینده با آرامش",
+              "en": "Next weekend calmly"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماه آینده در جمع",
+              "en": "Next month in public"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او می‌گوید bring it up calmly next weekend.",
+          "en": "He says bring it up calmly next weekend."
+        },
+        "evidenceTurnIds": [
+          "t11"
+        ]
+      },
+      {
+        "id": "intent-method",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام برداشت با نظر سارا سازگارتر است؟",
+          "en": "Which interpretation best matches Sara’s position?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نیت خوب همیشه روش را درست می‌کند.",
+              "en": "Good intent always justifies the method."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تغییر روش نیازمند کنار گذاشتن محبت است.",
+              "en": "Changing the method requires abandoning affection."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "محبت ممکن است انگیزه باشد، ولی روش باز هم نیاز به تغییر داشته باشد.",
+              "en": "Affection may motivate a method that still needs changing."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "Perhaps ... out of love احتمال نیت مثبت را می‌پذیرد، ولی but ضرورت تغییر روش را نگه می‌دارد.",
+          "en": "Perhaps ... out of love allows a positive motive, while but maintains the need to change the method."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "patience",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا صبر توصیه می‌شود؟",
+          "en": "Why is patience recommended?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "چون تغییر باور زمان می‌برد.",
+              "en": "Because changing a belief takes time."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چون زمان دیدار مشخص نیست.",
+              "en": "Because no meeting time is specified."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چون برادر هنوز از مشکل خبر ندارد.",
+              "en": "Because the brother does not know about the problem."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا می‌گوید changing a belief takes time.",
+          "en": "Sara says changing a belief takes time."
+        },
+        "evidenceTurnIds": [
+          "t12"
+        ]
+      }
+    ]
+  }
+}

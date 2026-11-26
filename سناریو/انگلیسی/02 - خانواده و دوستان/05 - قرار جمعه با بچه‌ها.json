@@ -1,0 +1,3179 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s05",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "قرار جمعه با بچه‌ها",
+    "en": "Friday Plans with Friends"
+  },
+  "objective": {
+    "fa": "مقصد جمعه، زمان نهایی قرار، وسیلهٔ رفت‌وآمد و مسئول تماس و بلیت را تشخیص بده.",
+    "en": "Identify Friday’s destination, the final meeting time, transport, and who will call and book tickets."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "What are you all doing this Friday evening?",
+      "translation": {
+        "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+        "en": "What are you all doing this Friday evening?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "بخشی از سؤال دربارهٔ برنامه",
+            "en": "are; with doing, asks about a plan"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; every person or the whole amount"
+          }
+        },
+        {
+          "surface": "doing",
+          "gloss": {
+            "fa": "انجام دادن؛ در حال گذراندن",
+            "en": "doing; acting or progressing"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "Friday",
+          "gloss": {
+            "fa": "جمعه",
+            "en": "Friday; the day after Thursday"
+          }
+        },
+        {
+          "surface": "evening?",
+          "gloss": {
+            "fa": "عصر؛ اوایل شب",
+            "en": "evening; the time near the end of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "Nothing yet, we were just talking about it.",
+      "translation": {
+        "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+        "en": "Nothing yet, we were just talking about it."
+      },
+      "tokens": [
+        {
+          "surface": "Nothing",
+          "gloss": {
+            "fa": "هیچ‌چیز",
+            "en": "nothing; not anything"
+          }
+        },
+        {
+          "surface": "yet,",
+          "gloss": {
+            "fa": "هنوز؛ تا الان",
+            "en": "yet; until now"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "were",
+          "gloss": {
+            "fa": "بخشی از «داشتیم حرف می‌زدیم»",
+            "en": "were; with talking, an activity just before now"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "تازه؛ همین الان",
+            "en": "just; very recently"
+          }
+        },
+        {
+          "surface": "talking",
+          "gloss": {
+            "fa": "حرف زدن",
+            "en": "talking; speaking with someone"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "Great, I was thinking we could go to the new cinema downtown.",
+      "translation": {
+        "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+        "en": "Great, I was thinking we could go to the new cinema downtown."
+      },
+      "tokens": [
+        {
+          "surface": "Great,",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بخشی از «داشتم فکر می‌کردم»",
+            "en": "was; with thinking, gently introduces an idea"
+          }
+        },
+        {
+          "surface": "thinking",
+          "gloss": {
+            "fa": "فکر کردن",
+            "en": "thinking; considering an idea"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "می‌توانستیم؛ برای پیشنهاد",
+            "en": "could; suggests a possible plan"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; move to another place"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ مقصد",
+            "en": "to; toward a destination"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "cinema",
+          "gloss": {
+            "fa": "سینما",
+            "en": "cinema; a place to watch films"
+          }
+        },
+        {
+          "surface": "downtown.",
+          "gloss": {
+            "fa": "مرکز شهر",
+            "en": "downtown; in the city center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "That sounds perfect, what time should we meet?",
+      "translation": {
+        "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+        "en": "That sounds perfect, what time should we meet?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "perfect,",
+          "gloss": {
+            "fa": "عالی؛ کاملاً مناسب",
+            "en": "perfect; exactly right"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period available for something"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ در پرسیدن زمان قرار",
+            "en": "should; asks for a suitable choice"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "meet?",
+          "gloss": {
+            "fa": "آشنا شدن؛ دیدن",
+            "en": "meet; see someone and get to know them"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "Let us meet at seven, and we can eat dinner together first.",
+      "translation": {
+        "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+        "en": "Let us meet at seven, and we can eat dinner together first."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بیایید؛ همراه us",
+            "en": "let; with us, introduces a shared suggestion"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما؛ همراه Let برای پیشنهاد مشترک",
+            "en": "us; includes the speaker in let us"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "آشنا شدن؛ دیدن",
+            "en": "meet; see someone and get to know them"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; specifies a clock time"
+          }
+        },
+        {
+          "surface": "seven,",
+          "gloss": {
+            "fa": "هفت",
+            "en": "seven; 7"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "eat",
+          "gloss": {
+            "fa": "خوردن",
+            "en": "eat; have food"
+          }
+        },
+        {
+          "surface": "dinner",
+          "gloss": {
+            "fa": "شام",
+            "en": "dinner; the main evening meal"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "first.",
+          "gloss": {
+            "fa": "اول؛ پیش از کار دیگر",
+            "en": "first; before something else"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+      "translation": {
+        "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+        "en": "Good idea, I will call Reza and Nima and tell them the plan."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "call",
+          "gloss": {
+            "fa": "تماس تلفنی گرفتن با",
+            "en": "call; telephone someone"
+          }
+        },
+        {
+          "surface": "Reza",
+          "gloss": {
+            "fa": "رضا",
+            "en": "Reza; a name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "Nima",
+          "gloss": {
+            "fa": "نیما",
+            "en": "Nima; a name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "tell",
+          "gloss": {
+            "fa": "گفتن؛ تعریف کردن برای کسی",
+            "en": "tell; give someone information"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "به آن‌ها؛ رضا و نیما",
+            "en": "them; Reza and Nima"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "plan.",
+          "gloss": {
+            "fa": "برنامه",
+            "en": "plan; an arrangement for what to do"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "Please do, and book the tickets if you can.",
+      "translation": {
+        "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+        "en": "Please do, and book the tickets if you can."
+      },
+      "tokens": [
+        {
+          "surface": "Please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "همین کار را بکن؛ زنگ بزن",
+            "en": "do; make the calls just offered"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "book",
+          "gloss": {
+            "fa": "رزرو کن",
+            "en": "book; reserve, not a thing to read"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks a particular thing"
+          }
+        },
+        {
+          "surface": "tickets",
+          "gloss": {
+            "fa": "بلیت‌ها",
+            "en": "tickets; passes allowing entry"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can.",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "I will, and we can use my car to go there together.",
+      "translation": {
+        "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+        "en": "I will, and we can use my car to go there together."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will,",
+          "gloss": {
+            "fa": "حتماً؛ انجام می‌دهم",
+            "en": "will; agrees to make the calls and book tickets"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "use",
+          "gloss": {
+            "fa": "استفاده کردن",
+            "en": "use; make something serve a purpose"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "car",
+          "gloss": {
+            "fa": "ماشین",
+            "en": "car; a road vehicle"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ پیش از go",
+            "en": "to; introduces the purpose, going together"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "رفتن",
+            "en": "go; move to another place"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا",
+            "en": "there; in or to that place"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "Even better, I will be ready at six thirty at your place.",
+      "translation": {
+        "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+        "en": "Even better, I will be ready at six thirty at your place."
+      },
+      "tokens": [
+        {
+          "surface": "Even",
+          "gloss": {
+            "fa": "حتی",
+            "en": "even; adds an unexpected or stronger point"
+          }
+        },
+        {
+          "surface": "better,",
+          "gloss": {
+            "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+            "en": "better; an improvement to the plan"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; points to a future action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "ready",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared to act"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; specifies a clock time"
+          }
+        },
+        {
+          "surface": "six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "thirty",
+          "gloss": {
+            "fa": "سی",
+            "en": "thirty; 30"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ خانهٔ تو",
+            "en": "at; at someone’s home"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "place.",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "Wonderful, then Friday at half past six, do not be late!",
+      "translation": {
+        "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+        "en": "Wonderful, then Friday at half past six, do not be late!"
+      },
+      "tokens": [
+        {
+          "surface": "Wonderful,",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "Friday",
+          "gloss": {
+            "fa": "جمعه",
+            "en": "Friday; the day after Thursday"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; specifies a clock time"
+          }
+        },
+        {
+          "surface": "half",
+          "gloss": {
+            "fa": "بخشی از «ساعت شش‌ونیم»",
+            "en": "part of half past six; six thirty"
+          }
+        },
+        {
+          "surface": "past",
+          "gloss": {
+            "fa": "بخشی از «ساعت شش‌ونیم»",
+            "en": "part of half past six; six thirty"
+          }
+        },
+        {
+          "surface": "six,",
+          "gloss": {
+            "fa": "بخشی از «ساعت شش‌ونیم»",
+            "en": "part of half past six; six thirty"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به گفتن «دیر نکن»",
+            "en": "do; helps make do not be late negative"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "late!",
+          "gloss": {
+            "fa": "دیر",
+            "en": "late; after the expected time"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "بخشی از سؤال دربارهٔ برنامه",
+          "en": "are; with doing, asks about a plan"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; every person or the whole amount"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "doing",
+        "text": "doing",
+        "pronunciation": {
+          "faReading": "دواینگ",
+          "ipa": "/ˈduɪŋ/"
+        },
+        "meaning": {
+          "fa": "انجام دادن؛ در حال گذراندن",
+          "en": "doing; acting or progressing"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "friday",
+        "text": "Friday",
+        "pronunciation": {
+          "faReading": "فْرای‌دِی",
+          "ipa": "/ˈfraɪdeɪ/"
+        },
+        "meaning": {
+          "fa": "جمعه",
+          "en": "Friday; the day after Thursday"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ اوایل شب",
+          "en": "evening; the time near the end of the day"
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "Nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز",
+          "en": "nothing; not anything"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "yet",
+        "text": "yet",
+        "pronunciation": {
+          "faReading": "یِت",
+          "ipa": "/jɛt/"
+        },
+        "meaning": {
+          "fa": "هنوز؛ تا الان",
+          "en": "yet; until now"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "were",
+        "text": "were",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɚ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «داشتیم حرف می‌زدیم»",
+          "en": "were; with talking, an activity just before now"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "تازه؛ همین الان",
+          "en": "just; very recently"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "talking",
+        "text": "talking",
+        "pronunciation": {
+          "faReading": "تاکینگ",
+          "ipa": "/ˈtɔkɪŋ/"
+        },
+        "meaning": {
+          "fa": "حرف زدن",
+          "en": "talking; speaking with someone"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "Great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «داشتم فکر می‌کردم»",
+          "en": "was; with thinking, gently introduces an idea"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "thinking",
+        "text": "thinking",
+        "pronunciation": {
+          "faReading": "ثینکینگ",
+          "ipa": "/ˈθɪŋkɪŋ/"
+        },
+        "meaning": {
+          "fa": "فکر کردن",
+          "en": "thinking; considering an idea"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "می‌توانستیم؛ برای پیشنهاد",
+          "en": "could; suggests a possible plan"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "رفتن",
+          "en": "go; move to another place"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ مقصد",
+          "en": "to; toward a destination"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks a particular thing"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "cinema",
+        "text": "cinema",
+        "pronunciation": {
+          "faReading": "سینِمِ",
+          "ipa": "/ˈsɪnəmə/"
+        },
+        "meaning": {
+          "fa": "سینما",
+          "en": "cinema; a place to watch films"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "downtown",
+        "text": "downtown",
+        "pronunciation": {
+          "faReading": "داون‌تاون",
+          "ipa": "/ˌdaʊnˈtaʊn/"
+        },
+        "meaning": {
+          "fa": "مرکز شهر",
+          "en": "downtown; in the city center"
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly right"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period available for something"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ در پرسیدن زمان قرار",
+          "en": "should; asks for a suitable choice"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "آشنا شدن؛ دیدن",
+          "en": "meet; see someone and get to know them"
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بیایید؛ همراه us",
+          "en": "let; with us, introduces a shared suggestion"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما؛ همراه Let برای پیشنهاد مشترک",
+          "en": "us; includes the speaker in let us"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در ساعتِ",
+          "en": "at; specifies a clock time"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "seven",
+        "text": "seven",
+        "pronunciation": {
+          "faReading": "سِوِن",
+          "ipa": "/ˈsɛvən/"
+        },
+        "meaning": {
+          "fa": "هفت",
+          "en": "seven; 7"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "eat",
+        "text": "eat",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/it/"
+        },
+        "meaning": {
+          "fa": "خوردن",
+          "en": "eat; have food"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "dinner",
+        "text": "dinner",
+        "pronunciation": {
+          "faReading": "دینِر",
+          "ipa": "/ˈdɪnɚ/"
+        },
+        "meaning": {
+          "fa": "شام",
+          "en": "dinner; the main evening meal"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اول؛ پیش از کار دیگر",
+          "en": "first; before something else"
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "Good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; points to a future action"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "call",
+        "text": "call",
+        "pronunciation": {
+          "faReading": "کال",
+          "ipa": "/kɔl/"
+        },
+        "meaning": {
+          "fa": "تماس تلفنی گرفتن با",
+          "en": "call; telephone someone"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "گفتن؛ تعریف کردن برای کسی",
+          "en": "tell; give someone information"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "به آن‌ها؛ رضا و نیما",
+          "en": "them; Reza and Nima"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "plan",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه",
+          "en": "plan; an arrangement for what to do"
+        },
+        "example": {
+          "text": "Good idea, I will call Reza and Nima and tell them the plan.",
+          "translation": {
+            "fa": "فکر خوبی است؛ به رضا و نیما زنگ می‌زنم و برنامه را به آن‌ها می‌گویم.",
+            "en": "Good idea, I will call Reza and Nima and tell them the plan."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "Please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "همین کار را بکن؛ زنگ بزن",
+          "en": "do; make the calls just offered"
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "book",
+        "text": "book",
+        "pronunciation": {
+          "faReading": "بوک",
+          "ipa": "/bʊk/"
+        },
+        "meaning": {
+          "fa": "رزرو کن",
+          "en": "book; reserve, not a thing to read"
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "tickets",
+        "text": "tickets",
+        "pronunciation": {
+          "faReading": "تیکِتس",
+          "ipa": "/ˈtɪkɪts/"
+        },
+        "meaning": {
+          "fa": "بلیت‌ها",
+          "en": "tickets; passes allowing entry"
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "will-reply",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ انجام می‌دهم",
+          "en": "will; agrees to make the calls and book tickets"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "use",
+        "text": "use",
+        "pronunciation": {
+          "faReading": "یوز",
+          "ipa": "/juz/"
+        },
+        "meaning": {
+          "fa": "استفاده کردن",
+          "en": "use; make something serve a purpose"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "car",
+        "text": "car",
+        "pronunciation": {
+          "faReading": "کار",
+          "ipa": "/kɑr/"
+        },
+        "meaning": {
+          "fa": "ماشین",
+          "en": "car; a road vehicle"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "to-purpose",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ پیش از go",
+          "en": "to; introduces the purpose, going together"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا",
+          "en": "there; in or to that place"
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        }
+      },
+      {
+        "id": "even",
+        "text": "Even",
+        "pronunciation": {
+          "faReading": "ایوِن",
+          "ipa": "/ˈivən/"
+        },
+        "meaning": {
+          "fa": "حتی",
+          "en": "even; adds an unexpected or stronger point"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+          "en": "better; an improvement to the plan"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared to act"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "six",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "شش",
+          "en": "six; 6"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "thirty",
+        "text": "thirty",
+        "pronunciation": {
+          "faReading": "ثِرتی",
+          "ipa": "/ˈθɝti/"
+        },
+        "meaning": {
+          "fa": "سی",
+          "en": "thirty; 30"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "at-location",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ خانهٔ تو",
+          "en": "at; at someone’s home"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "Wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "half",
+        "text": "half",
+        "pronunciation": {
+          "faReading": "هَف",
+          "ipa": "/hæf/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت شش‌ونیم»",
+          "en": "part of half past six; six thirty"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "past",
+        "text": "past",
+        "pronunciation": {
+          "faReading": "پَست",
+          "ipa": "/pæst/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت شش‌ونیم»",
+          "en": "part of half past six; six thirty"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "six-time",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت شش‌ونیم»",
+          "en": "part of half past six; six thirty"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "do-negative",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به گفتن «دیر نکن»",
+          "en": "do; helps make do not be late negative"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      },
+      {
+        "id": "late",
+        "text": "late",
+        "pronunciation": {
+          "faReading": "لِیت",
+          "ipa": "/leɪt/"
+        },
+        "meaning": {
+          "fa": "دیر",
+          "en": "late; after the expected time"
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "planning-questions",
+        "title": {
+          "fa": "پرسیدن برنامه و زمان",
+          "en": "Asking about plans and times"
+        },
+        "explanation": {
+          "fa": "What are you all doing this Friday evening? دربارهٔ برنامهٔ جمعه است، نه فقط همین لحظه. doing با are آمده است. What time should we meet? از طرف مقابل زمان مناسب می‌خواهد.",
+          "en": "What are you all doing this Friday evening? asks about a future plan, not an action happening now. It uses are with doing. What time should we meet? asks for a suitable meeting time."
+        },
+        "example": {
+          "text": "What are you all doing this Friday evening?",
+          "translation": {
+            "fa": "این جمعه عصر همه‌تان چه کار می‌کنید؟",
+            "en": "What are you all doing this Friday evening?"
+          }
+        },
+        "takeaway": {
+          "fa": "نشانهٔ this Friday کمک می‌کند منظور آینده را بفهمی.",
+          "en": "This Friday helps you recognize the future-plan meaning."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن برنامه و زمان",
+              "en": "Asking about plans and times"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What are you all doing this Friday evening"
+                },
+                {
+                  "text": "are + people + doing + future time"
+                },
+                {
+                  "fa": "این جمعه چه کار می‌کنید",
+                  "en": "Asking about plans"
+                }
+              ],
+              [
+                {
+                  "text": "what time should we meet"
+                },
+                {
+                  "text": "what time + should we + meet"
+                },
+                {
+                  "fa": "چه ساعتی همدیگر را ببینیم",
+                  "en": "Asking for a choice"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-activities-and-suggestion",
+        "title": {
+          "fa": "صحبت قبلی و پیشنهاد نرم",
+          "en": "Recent discussion and a gentle suggestion"
+        },
+        "explanation": {
+          "fa": "we were just talking یعنی همین الان داشتیم حرف می‌زدیم؛ were با talking می‌آید. I was thinking we could ... هم فکر قبلی را می‌گوید و پیشنهاد را نرم‌تر می‌کند. could اینجا برنامهٔ ممکن است، نه توانایی گذشته.",
+          "en": "We were just talking describes a discussion shortly before now. I was thinking we could ... gently introduces a possible plan. Could here is a suggestion rather than an ability in the past."
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        },
+        "takeaway": {
+          "fa": "was/were + ing را در این دو الگوی کاربردی یاد بگیر.",
+          "en": "Learn was/were + ing in these two useful patterns."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "صحبت قبلی و پیشنهاد نرم",
+              "en": "Recent discussion and a gentle suggestion"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we were just talking about it"
+                },
+                {
+                  "text": "were + talking"
+                },
+                {
+                  "fa": "داشتیم درباره‌اش حرف می‌زدیم",
+                  "en": "A recent ongoing activity"
+                }
+              ],
+              [
+                {
+                  "text": "I was thinking we could go"
+                },
+                {
+                  "text": "was thinking + we could + action"
+                },
+                {
+                  "fa": "فکر می‌کردم بتوانیم برویم",
+                  "en": "A tentative suggestion"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lets-and-first",
+        "title": {
+          "fa": "پیشنهاد مشترک و ترتیب کارها",
+          "en": "Shared suggestions and order"
+        },
+        "explanation": {
+          "fa": "Let us meet یعنی «بیایید همدیگر را ببینیم». پس از Let us خودِ کار را می‌گوییم: meet یا eat. first یعنی اول؛ در این گفت‌وگو شام را پیش از رفتن به سینما می‌گذارند.",
+          "en": "Let us meet proposes doing something together. Use the action after Let us. First puts dinner before the cinema visit in the plan."
+        },
+        "example": {
+          "text": "Let us meet at seven, and we can eat dinner together first.",
+          "translation": {
+            "fa": "بیایید ساعت هفت همدیگر را ببینیم و اول با هم شام بخوریم.",
+            "en": "Let us meet at seven, and we can eat dinner together first."
+          }
+        },
+        "takeaway": {
+          "fa": "Let us برای پیشنهادی است که گوینده را هم شامل می‌شود.",
+          "en": "Let us includes the speaker in the suggestion."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد مشترک و ترتیب کارها",
+              "en": "Shared suggestions and order"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Let us meet at seven"
+                },
+                {
+                  "text": "let us + action"
+                },
+                {
+                  "fa": "بیایید هفت همدیگر را ببینیم",
+                  "en": "Initial suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "we can eat dinner together first"
+                },
+                {
+                  "text": "can + action + first"
+                },
+                {
+                  "fa": "می‌توانیم اول شام بخوریم",
+                  "en": "Ordering activities"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "will-and-short-replies",
+        "title": {
+          "fa": "قبول مسئولیت و پاسخ کوتاه",
+          "en": "Taking responsibility and short replies"
+        },
+        "explanation": {
+          "fa": "I will call یعنی گوینده انجام تماس را می‌پذیرد. Please do یعنی همان تماس را انجام بده. I will پاسخ کوتاه پذیرش کارهای خواسته‌شده است. برای book the tickets، book فعل رزرو کردن است.",
+          "en": "I will call accepts responsibility for calling. Please do refers back to making the calls. I will is a short agreement to the requested actions. In book the tickets, book means reserve."
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        },
+        "takeaway": {
+          "fa": "do و will در پاسخ کوتاه از تکرار کل کار جلوگیری می‌کنند.",
+          "en": "Do and will in short replies avoid repeating the whole action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قبول مسئولیت و پاسخ کوتاه",
+              "en": "Taking responsibility and short replies"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will call Reza and Nima"
+                },
+                {
+                  "text": "I will + action"
+                },
+                {
+                  "fa": "به رضا و نیما زنگ می‌زنم",
+                  "en": "Accepting a task"
+                }
+              ],
+              [
+                {
+                  "text": "Please do"
+                },
+                {
+                  "text": "please do + understood action"
+                },
+                {
+                  "fa": "لطفاً همین کار را بکن",
+                  "en": "Encouraging the offered calls"
+                }
+              ],
+              [
+                {
+                  "text": "I will"
+                },
+                {
+                  "text": "I will + understood action"
+                },
+                {
+                  "fa": "حتماً انجام می‌دهم",
+                  "en": "Accepting the requests"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "if-and-purpose",
+        "title": {
+          "fa": "اگر بتوانی و برای رفتن",
+          "en": "If possible and a reason for using the car"
+        },
+        "explanation": {
+          "fa": "book the tickets if you can یعنی «اگر می‌توانی بلیت‌ها را رزرو کن». can به توانستن رزرو کردن برمی‌گردد. use my car to go ... یعنی از ماشین برای رفتن استفاده کنیم؛ to go هدف را می‌گوید.",
+          "en": "Book the tickets if you can makes the request depend on being able to do it. Can refers to booking. Use my car to go ... gives the purpose of using the car."
+        },
+        "example": {
+          "text": "I will, and we can use my car to go there together.",
+          "translation": {
+            "fa": "حتماً؛ می‌توانیم با ماشین من با هم به آنجا برویم.",
+            "en": "I will, and we can use my car to go there together."
+          }
+        },
+        "takeaway": {
+          "fa": "to go در اینجا هدف استفاده از ماشین را می‌گوید.",
+          "en": "To go here explains the purpose of using the car."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اگر بتوانی و برای رفتن",
+              "en": "If possible and a reason for using the car"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "book the tickets if you can"
+                },
+                {
+                  "text": "request + if + can"
+                },
+                {
+                  "fa": "اگر می‌توانی بلیت رزرو کن",
+                  "en": "A request with a condition"
+                }
+              ],
+              [
+                {
+                  "text": "use my car to go there together"
+                },
+                {
+                  "text": "use + something + to + action"
+                },
+                {
+                  "fa": "با ماشین من با هم برویم",
+                  "en": "Purpose and transport"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "revised-time",
+        "title": {
+          "fa": "زمان نهایی قرار",
+          "en": "The final meeting time"
+        },
+        "explanation": {
+          "fa": "six thirty و half past six هر دو یعنی شش‌ونیم. ابتدا هفت پیشنهاد می‌شود، اما در پایان شش‌ونیم در خانهٔ سارا تأیید می‌شود. at your place یعنی خانهٔ تو. do not be late یعنی دیر نکن.",
+          "en": "Six thirty and half past six both mean 6:30. Seven is suggested first, but the closing arrangement confirms 6:30 at Sara’s home. At your place means at your home. Do not be late asks for punctuality."
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        },
+        "takeaway": {
+          "fa": "برای زمان نهایی، آخرین تأیید برنامه را بخوان.",
+          "en": "Use the final confirmation to identify the settled time."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان نهایی قرار",
+              "en": "The final meeting time"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "at six thirty at your place"
+                },
+                {
+                  "text": "at + time; at + home"
+                },
+                {
+                  "fa": "شش‌ونیم در خانهٔ تو",
+                  "en": "Time and place"
+                }
+              ],
+              [
+                {
+                  "text": "Friday at half past six"
+                },
+                {
+                  "text": "day + at + time"
+                },
+                {
+                  "fa": "جمعه شش‌ونیم",
+                  "en": "The final confirmation"
+                }
+              ],
+              [
+                {
+                  "text": "do not be late"
+                },
+                {
+                  "text": "do not + be + late"
+                },
+                {
+                  "fa": "دیر نکن",
+                  "en": "A negative request"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "nothing-yet",
+        "text": "Nothing yet",
+        "pronunciation": {
+          "faReading": "ناثینگ یِت",
+          "ipa": "/ˈnʌθɪŋ jɛt/"
+        },
+        "meaning": {
+          "fa": "هنوز برنامه‌ای نداریم",
+          "en": "Nothing planned yet"
+        },
+        "context": {
+          "fa": "پاسخ کوتاه دربارهٔ برنامهٔ جمعه.",
+          "en": "A short answer about Friday plans."
+        },
+        "example": {
+          "text": "Nothing yet, we were just talking about it.",
+          "translation": {
+            "fa": "هنوز برنامه‌ای نداریم؛ همین الان داشتیم درباره‌اش حرف می‌زدیم.",
+            "en": "Nothing yet, we were just talking about it."
+          }
+        }
+      },
+      {
+        "id": "thinking-could",
+        "text": "I was thinking we could",
+        "pronunciation": {
+          "faReading": "آی وَز ثینکینگ وی کود",
+          "ipa": "/aɪ wəz ˈθɪŋkɪŋ wi kʊd/"
+        },
+        "meaning": {
+          "fa": "فکر می‌کردم بتوانیم",
+          "en": "I was thinking we could"
+        },
+        "context": {
+          "fa": "مقدمهٔ نرم یک پیشنهاد؛ هنوز توافق نشده است.",
+          "en": "Gently introduces a suggestion before it is agreed."
+        },
+        "example": {
+          "text": "Great, I was thinking we could go to the new cinema downtown.",
+          "translation": {
+            "fa": "عالی است؛ فکر می‌کردم بتوانیم به سینمای جدید مرکز شهر برویم.",
+            "en": "Great, I was thinking we could go to the new cinema downtown."
+          }
+        }
+      },
+      {
+        "id": "sounds-perfect",
+        "text": "That sounds perfect",
+        "pronunciation": {
+          "faReading": "ذَت ساوندز پِرفِکت",
+          "ipa": "/ðæt saʊndz ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی به نظر می‌رسد",
+          "en": "That sounds perfect"
+        },
+        "context": {
+          "fa": "سارا پیشنهاد سینما را می‌پسندد.",
+          "en": "Sara approves the cinema idea."
+        },
+        "example": {
+          "text": "That sounds perfect, what time should we meet?",
+          "translation": {
+            "fa": "عالی به نظر می‌رسد؛ چه ساعتی همدیگر را ببینیم؟",
+            "en": "That sounds perfect, what time should we meet?"
+          }
+        }
+      },
+      {
+        "id": "please-do",
+        "text": "Please do",
+        "pronunciation": {
+          "faReading": "پْلیز دو",
+          "ipa": "/pliz du/"
+        },
+        "meaning": {
+          "fa": "لطفاً همین کار را بکن",
+          "en": "Please do"
+        },
+        "context": {
+          "fa": "آرمان از سارا می‌خواهد تماس‌های پیشنهادی را انجام بدهد.",
+          "en": "Encourages Sara to make the calls she offered."
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "book-tickets",
+        "text": "book the tickets",
+        "pronunciation": {
+          "faReading": "بوک ذِ تیکِتس",
+          "ipa": "/bʊk ðə ˈtɪkɪts/"
+        },
+        "meaning": {
+          "fa": "بلیت‌ها را رزرو کن",
+          "en": "Book the tickets"
+        },
+        "context": {
+          "fa": "book اینجا فعل است؛ منظور کتاب نیست.",
+          "en": "Book is a verb here, not a thing to read."
+        },
+        "example": {
+          "text": "Please do, and book the tickets if you can.",
+          "translation": {
+            "fa": "لطفاً همین کار را بکن و اگر می‌توانی بلیت‌ها را هم رزرو کن.",
+            "en": "Please do, and book the tickets if you can."
+          }
+        }
+      },
+      {
+        "id": "your-place",
+        "text": "at your place",
+        "pronunciation": {
+          "faReading": "اَت یور پْلِیس",
+          "ipa": "/æt jʊr pleɪs/"
+        },
+        "meaning": {
+          "fa": "در خانهٔ تو",
+          "en": "At your home"
+        },
+        "context": {
+          "fa": "خانهٔ سارا محل قرار پیش از حرکت است.",
+          "en": "Sara’s home is the meeting place before leaving."
+        },
+        "example": {
+          "text": "Even better, I will be ready at six thirty at your place.",
+          "translation": {
+            "fa": "چه بهتر؛ ساعت شش‌ونیم در خانهٔ تو آماده خواهم بود.",
+            "en": "Even better, I will be ready at six thirty at your place."
+          }
+        }
+      },
+      {
+        "id": "half-six",
+        "text": "half past six",
+        "pronunciation": {
+          "faReading": "هَف پَست سیکس",
+          "ipa": "/hæf pæst sɪks/"
+        },
+        "meaning": {
+          "fa": "شش‌ونیم",
+          "en": "Six thirty"
+        },
+        "context": {
+          "fa": "همان six thirty در نوبت قبل است؛ هفت زمان نهایی نیست.",
+          "en": "Matches six thirty in the previous turn; seven is not the final time."
+        },
+        "example": {
+          "text": "Wonderful, then Friday at half past six, do not be late!",
+          "translation": {
+            "fa": "عالی است؛ پس جمعه ساعت شش‌ونیم؛ دیر نکنی!",
+            "en": "Wonderful, then Friday at half past six, do not be late!"
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر چه برنامه‌ای هماهنگ می‌کنند؟",
+          "en": "What outing are they arranging?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ناهار و گردش شنبه",
+              "en": "Saturday lunch and a walk"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خرید و شام پنجشنبه",
+              "en": "Thursday shopping and dinner"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شام و سینمای جمعه",
+              "en": "Friday dinner and cinema"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "از جمعه عصر می‌پرسند و سینما و شام را پیشنهاد می‌کنند.",
+          "en": "They discuss Friday evening and propose cinema and dinner."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05"
+        ]
+      },
+      {
+        "id": "destination",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام سینما را پیشنهاد می‌کنند؟",
+          "en": "Which cinema is proposed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سینمای جدید مرکز شهر",
+              "en": "The new cinema downtown"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سینمای قدیمی کنار پارک",
+              "en": "The old cinema by the park"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سینمای نزدیک مدرسه",
+              "en": "The cinema near the school"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "آرمان new cinema downtown را پیشنهاد می‌دهد.",
+          "en": "Arman proposes the new cinema downtown."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "final-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "زمان نهایی قرار چه ساعتی است؟",
+          "en": "What is the final agreed meeting time?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفت",
+              "en": "Seven"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شش‌ونیم",
+              "en": "Six thirty"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هفت‌ونیم",
+              "en": "Seven thirty"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "هفت پیشنهاد اولیه است؛ دو نوبت آخر six thirty و half past six را تأیید می‌کنند.",
+          "en": "Seven is the initial suggestion; the final turns confirm six thirty and half past six."
+        },
+        "evidenceTurnIds": [
+          "t05",
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "transport",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "با چه وسیله‌ای می‌خواهند بروند؟",
+          "en": "How do they plan to travel?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "با تاکسی",
+              "en": "By taxi"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "با ماشین آرمان",
+              "en": "In Arman’s car"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "با ماشین سارا",
+              "en": "In Sara’s car"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سارا پیشنهاد می‌دهد از ماشین خودش استفاده کنند.",
+          "en": "Sara offers her own car."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "tasks",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه کسی تماس می‌گیرد و رزرو بلیت را می‌پذیرد؟",
+          "en": "Who offers to call and agrees to book tickets?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سارا",
+              "en": "Sara"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آرمان",
+              "en": "Arman"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رضا",
+              "en": "Reza"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا تماس با رضا و نیما را پیشنهاد می‌دهد و به درخواست رزرو بلیت پاسخ I will می‌دهد.",
+          "en": "Sara offers to call Reza and Nima and answers I will to the ticket-booking request."
+        },
+        "evidenceTurnIds": [
+          "t06",
+          "t07",
+          "t08"
+        ]
+      }
+    ]
+  }
+}

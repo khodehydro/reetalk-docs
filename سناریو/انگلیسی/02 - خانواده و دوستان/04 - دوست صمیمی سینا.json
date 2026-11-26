@@ -1,0 +1,3363 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t02-s04",
+  "categoryId": "family-and-friends",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "دوست صمیمی سینا",
+    "en": "Sina’s Best Friend"
+  },
+  "objective": {
+    "fa": "مدت آشنایی سینا و بهنام، ویژگی‌های رفتاری و ظاهر بهنام را تشخیص بده.",
+    "en": "Identify how long Sina has known Behnam and distinguish Behnam’s personality from his appearance."
+  },
+  "speakers": [
+    {
+      "id": "sina",
+      "name": "Sina",
+      "gender": "man"
+    },
+    {
+      "id": "leila",
+      "name": "Leila",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sina",
+      "text": "I want to tell you about my best friend, Behnam.",
+      "translation": {
+        "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+        "en": "I want to tell you about my best friend, Behnam."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "tell",
+          "gloss": {
+            "fa": "گفتن به؛ تعریف کردن برای",
+            "en": "tell; give someone information"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "best",
+          "gloss": {
+            "fa": "بهترین؛ صمیمی‌ترین",
+            "en": "best; better than all others"
+          }
+        },
+        {
+          "surface": "friend,",
+          "gloss": {
+            "fa": "دوست",
+            "en": "friend; someone you like and know"
+          }
+        },
+        {
+          "surface": "Behnam.",
+          "gloss": {
+            "fa": "بهنام",
+            "en": "Behnam; a name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "leila",
+      "text": "I am listening, how did you two become such close friends?",
+      "translation": {
+        "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+        "en": "I am listening, how did you two become such close friends?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "بخشی از «دارم گوش می‌دهم»",
+            "en": "am; with listening, doing something now"
+          }
+        },
+        {
+          "surface": "listening,",
+          "gloss": {
+            "fa": "گوش دادن",
+            "en": "listening; paying attention to sounds"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "did",
+          "gloss": {
+            "fa": "کمک به سؤال دربارهٔ گذشته",
+            "en": "did; helps ask about a past event"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "become",
+          "gloss": {
+            "fa": "شدن",
+            "en": "become; begin to be"
+          }
+        },
+        {
+          "surface": "such",
+          "gloss": {
+            "fa": "چنین؛ این‌قدر",
+            "en": "such; adds emphasis to a description"
+          }
+        },
+        {
+          "surface": "close",
+          "gloss": {
+            "fa": "صمیمی",
+            "en": "close; having a strong friendship"
+          }
+        },
+        {
+          "surface": "friends?",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sina",
+      "text": "We have known each other since primary school, and we share everything.",
+      "translation": {
+        "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+        "en": "We have known each other since primary school, and we share everything."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "بخشی از «می‌شناسیم» از قبل تا الان",
+            "en": "have; with known, a relationship continuing to now"
+          }
+        },
+        {
+          "surface": "known",
+          "gloss": {
+            "fa": "شناخته؛ در have known",
+            "en": "known; know in have known"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "بخشی از «یکدیگر»",
+            "en": "part of each other; the two people mutually"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "بخشی از «یکدیگر»",
+            "en": "part of each other; the two people mutually"
+          }
+        },
+        {
+          "surface": "since",
+          "gloss": {
+            "fa": "از زمانِ",
+            "en": "since; from a starting point until now"
+          }
+        },
+        {
+          "surface": "primary",
+          "gloss": {
+            "fa": "ابتدایی",
+            "en": "primary; the first stage of school"
+          }
+        },
+        {
+          "surface": "school,",
+          "gloss": {
+            "fa": "مدرسه",
+            "en": "school; a place for learning"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "share",
+          "gloss": {
+            "fa": "به اشتراک گذاشتن",
+            "en": "share; give others access to something"
+          }
+        },
+        {
+          "surface": "everything.",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "leila",
+      "text": "What kind of person is he, is he funny or serious?",
+      "translation": {
+        "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+        "en": "What kind of person is he, is he funny or serious?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "بخشی از «چه‌جور»",
+            "en": "part of what kind of; asks about a type"
+          }
+        },
+        {
+          "surface": "kind",
+          "gloss": {
+            "fa": "بخشی از «چه‌جور»",
+            "en": "part of what kind of; asks about a type"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "بخشی از «چه‌جور»",
+            "en": "part of what kind of; asks about a type"
+          }
+        },
+        {
+          "surface": "person",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "he,",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "funny",
+          "gloss": {
+            "fa": "شوخ؛ بامزه",
+            "en": "funny; making people laugh"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "serious?",
+          "gloss": {
+            "fa": "جدی",
+            "en": "serious; not joking much"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sina",
+      "text": "He is funny and kind, and he always helps people without complaining.",
+      "translation": {
+        "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+        "en": "He is funny and kind, and he always helps people without complaining."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "funny",
+          "gloss": {
+            "fa": "شوخ؛ بامزه",
+            "en": "funny; making people laugh"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "kind,",
+          "gloss": {
+            "fa": "مهربان",
+            "en": "kind; caring and helpful"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "helps",
+          "gloss": {
+            "fa": "کمک می‌کند",
+            "en": "helps; makes something easier"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "بدونِ",
+            "en": "without; not doing or having"
+          }
+        },
+        {
+          "surface": "complaining.",
+          "gloss": {
+            "fa": "شکایت کردن؛ غر زدن",
+            "en": "complaining; saying that something is wrong or annoying"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "leila",
+      "text": "That is rare, and what does he look like physically?",
+      "translation": {
+        "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+        "en": "That is rare, and what does he look like physically?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "rare,",
+          "gloss": {
+            "fa": "کمیاب؛ کم‌پیدا",
+            "en": "rare; not common"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به سؤال دربارهٔ او",
+            "en": "does; helps ask about he"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "look",
+          "gloss": {
+            "fa": "شکل و ظاهر داشتن؛ همراه like",
+            "en": "look; with like, have an appearance"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "چه‌شکلی؛ همراه look",
+            "en": "like; in look like, asking about appearance"
+          }
+        },
+        {
+          "surface": "physically?",
+          "gloss": {
+            "fa": "از نظر ظاهری",
+            "en": "physically; in bodily appearance here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sina",
+      "text": "He is tall with short black hair, and he always wears simple clothes.",
+      "translation": {
+        "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+        "en": "He is tall with short black hair, and he always wears simple clothes."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "tall",
+          "gloss": {
+            "fa": "قدبلند",
+            "en": "tall; having greater than average height"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با؛ برای توصیف ویژگی ظاهری",
+            "en": "with; having the described hair"
+          }
+        },
+        {
+          "surface": "short",
+          "gloss": {
+            "fa": "کوتاه",
+            "en": "short; not long"
+          }
+        },
+        {
+          "surface": "black",
+          "gloss": {
+            "fa": "سیاه؛ مشکی",
+            "en": "black; a very dark color"
+          }
+        },
+        {
+          "surface": "hair,",
+          "gloss": {
+            "fa": "مو",
+            "en": "hair; what grows on the head"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "wears",
+          "gloss": {
+            "fa": "می‌پوشد",
+            "en": "wears; has clothes on"
+          }
+        },
+        {
+          "surface": "simple",
+          "gloss": {
+            "fa": "ساده",
+            "en": "simple; plain, not elaborate"
+          }
+        },
+        {
+          "surface": "clothes.",
+          "gloss": {
+            "fa": "لباس‌ها",
+            "en": "clothes; things people wear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "leila",
+      "text": "From what you say, he sounds like a really dependable person.",
+      "translation": {
+        "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+        "en": "From what you say, he sounds like a really dependable person."
+      },
+      "tokens": [
+        {
+          "surface": "From",
+          "gloss": {
+            "fa": "از روی؛ بر اساس گفته‌ها",
+            "en": "from; based on what has been said"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چیزی که؛ از حرف تو",
+            "en": "what; the things that you say"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "say,",
+          "gloss": {
+            "fa": "گفتن",
+            "en": "say; express in words"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از حرفی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مثل؛ شبیه",
+            "en": "like; similar to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a thing or person"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "dependable",
+          "gloss": {
+            "fa": "قابل‌اعتماد",
+            "en": "dependable; someone you can rely on"
+          }
+        },
+        {
+          "surface": "person.",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "sina",
+      "text": "He is, and I trust him more than anyone else.",
+      "translation": {
+        "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+        "en": "He is, and I trust him more than anyone else."
+      },
+      "tokens": [
+        {
+          "surface": "He",
+          "gloss": {
+            "fa": "او؛ یعنی بهنام",
+            "en": "he; Behnam"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "trust",
+          "gloss": {
+            "fa": "اعتماد دارم به",
+            "en": "trust; believe someone is dependable"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "than",
+          "gloss": {
+            "fa": "از؛ در مقایسه",
+            "en": "than; introduces the second part of a comparison"
+          }
+        },
+        {
+          "surface": "anyone",
+          "gloss": {
+            "fa": "هر کسی",
+            "en": "anyone; any person"
+          }
+        },
+        {
+          "surface": "else.",
+          "gloss": {
+            "fa": "دیگر؛ علاوه بر این",
+            "en": "else; additional"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "leila",
+      "text": "I would like to meet him, maybe we can all go out together.",
+      "translation": {
+        "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+        "en": "I would like to meet him, maybe we can all go out together."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "بخشی از «دوست دارم»",
+            "en": "part of would like; politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "بخشی از «دوست دارم»",
+            "en": "part of would like; politely want"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "آشنا شدن؛ دیدن",
+            "en": "meet; see someone and get to know them"
+          }
+        },
+        {
+          "surface": "him,",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; every person or the whole amount"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "بخشی از «بیرون رفتن»",
+            "en": "part of go out; leave home for a social activity"
+          }
+        },
+        {
+          "surface": "out",
+          "gloss": {
+            "fa": "بخشی از «بیرون رفتن»",
+            "en": "part of go out; leave home for a social activity"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "گفتن به؛ تعریف کردن برای",
+          "en": "tell; give someone information"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "best",
+        "text": "best",
+        "pronunciation": {
+          "faReading": "بِست",
+          "ipa": "/bɛst/"
+        },
+        "meaning": {
+          "fa": "بهترین؛ صمیمی‌ترین",
+          "en": "best; better than all others"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "friend",
+        "text": "friend",
+        "pronunciation": {
+          "faReading": "فْرِند",
+          "ipa": "/frɛnd/"
+        },
+        "meaning": {
+          "fa": "دوست",
+          "en": "friend; someone you like and know"
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دارم گوش می‌دهم»",
+          "en": "am; with listening, doing something now"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "listening",
+        "text": "listening",
+        "pronunciation": {
+          "faReading": "لیسِنینگ",
+          "ipa": "/ˈlɪsənɪŋ/"
+        },
+        "meaning": {
+          "fa": "گوش دادن",
+          "en": "listening; paying attention to sounds"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "did",
+        "text": "did",
+        "pronunciation": {
+          "faReading": "دید",
+          "ipa": "/dɪd/"
+        },
+        "meaning": {
+          "fa": "کمک به سؤال دربارهٔ گذشته",
+          "en": "did; helps ask about a past event"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "become",
+        "text": "become",
+        "pronunciation": {
+          "faReading": "بی‌کَم",
+          "ipa": "/bɪˈkʌm/"
+        },
+        "meaning": {
+          "fa": "شدن",
+          "en": "become; begin to be"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "such",
+        "text": "such",
+        "pronunciation": {
+          "faReading": "سَچ",
+          "ipa": "/sʌtʃ/"
+        },
+        "meaning": {
+          "fa": "چنین؛ این‌قدر",
+          "en": "such; adds emphasis to a description"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "close",
+        "text": "close",
+        "pronunciation": {
+          "faReading": "کْلُوس",
+          "ipa": "/kloʊs/"
+        },
+        "meaning": {
+          "fa": "صمیمی",
+          "en": "close; having a strong friendship"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «می‌شناسیم» از قبل تا الان",
+          "en": "have; with known, a relationship continuing to now"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "known",
+        "text": "known",
+        "pronunciation": {
+          "faReading": "نُوْن",
+          "ipa": "/noʊn/"
+        },
+        "meaning": {
+          "fa": "شناخته؛ در have known",
+          "en": "known; know in have known"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «یکدیگر»",
+          "en": "part of each other; the two people mutually"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «یکدیگر»",
+          "en": "part of each other; the two people mutually"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "since",
+        "text": "since",
+        "pronunciation": {
+          "faReading": "سینس",
+          "ipa": "/sɪns/"
+        },
+        "meaning": {
+          "fa": "از زمانِ",
+          "en": "since; from a starting point until now"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "primary",
+        "text": "primary",
+        "pronunciation": {
+          "faReading": "پْرایمِری",
+          "ipa": "/ˈpraɪməri/"
+        },
+        "meaning": {
+          "fa": "ابتدایی",
+          "en": "primary; the first stage of school"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "school",
+        "text": "school",
+        "pronunciation": {
+          "faReading": "سْکول",
+          "ipa": "/skul/"
+        },
+        "meaning": {
+          "fa": "مدرسه",
+          "en": "school; a place for learning"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "share",
+        "text": "share",
+        "pronunciation": {
+          "faReading": "شِر",
+          "ipa": "/ʃɛr/"
+        },
+        "meaning": {
+          "fa": "به اشتراک گذاشتن",
+          "en": "share; give others access to something"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه‌جور»",
+          "en": "part of what kind of; asks about a type"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه‌جور»",
+          "en": "part of what kind of; asks about a type"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «چه‌جور»",
+          "en": "part of what kind of; asks about a type"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "person",
+        "text": "person",
+        "pronunciation": {
+          "faReading": "پِرسِن",
+          "ipa": "/ˈpɝsən/"
+        },
+        "meaning": {
+          "fa": "شخص؛ فرد",
+          "en": "person; a human being"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "he",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "funny",
+        "text": "funny",
+        "pronunciation": {
+          "faReading": "فَنی",
+          "ipa": "/ˈfʌni/"
+        },
+        "meaning": {
+          "fa": "شوخ؛ بامزه",
+          "en": "funny; making people laugh"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "serious",
+        "text": "serious",
+        "pronunciation": {
+          "faReading": "سیریِس",
+          "ipa": "/ˈsɪriəs/"
+        },
+        "meaning": {
+          "fa": "جدی",
+          "en": "serious; not joking much"
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "kind-base",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "مهربان",
+          "en": "kind; caring and helpful"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "helps",
+        "text": "helps",
+        "pronunciation": {
+          "faReading": "هِلپس",
+          "ipa": "/hɛlps/"
+        },
+        "meaning": {
+          "fa": "کمک می‌کند",
+          "en": "helps; makes something easier"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "بدونِ",
+          "en": "without; not doing or having"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "complaining",
+        "text": "complaining",
+        "pronunciation": {
+          "faReading": "کِمپْلِینینگ",
+          "ipa": "/kəmˈpleɪnɪŋ/"
+        },
+        "meaning": {
+          "fa": "شکایت کردن؛ غر زدن",
+          "en": "complaining; saying that something is wrong or annoying"
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "rare",
+        "text": "rare",
+        "pronunciation": {
+          "faReading": "رِر",
+          "ipa": "/rɛr/"
+        },
+        "meaning": {
+          "fa": "کمیاب؛ کم‌پیدا",
+          "en": "rare; not common"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "what-base",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به سؤال دربارهٔ او",
+          "en": "does; helps ask about he"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "look",
+        "text": "look",
+        "pronunciation": {
+          "faReading": "لوک",
+          "ipa": "/lʊk/"
+        },
+        "meaning": {
+          "fa": "شکل و ظاهر داشتن؛ همراه like",
+          "en": "look; with like, have an appearance"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "چه‌شکلی؛ همراه look",
+          "en": "like; in look like, asking about appearance"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "physically",
+        "text": "physically",
+        "pronunciation": {
+          "faReading": "فیزیکِلی",
+          "ipa": "/ˈfɪzɪkli/"
+        },
+        "meaning": {
+          "fa": "از نظر ظاهری",
+          "en": "physically; in bodily appearance here"
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "tall",
+        "text": "tall",
+        "pronunciation": {
+          "faReading": "تال",
+          "ipa": "/tɔl/"
+        },
+        "meaning": {
+          "fa": "قدبلند",
+          "en": "tall; having greater than average height"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با؛ برای توصیف ویژگی ظاهری",
+          "en": "with; having the described hair"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "short",
+        "text": "short",
+        "pronunciation": {
+          "faReading": "شورت",
+          "ipa": "/ʃɔrt/"
+        },
+        "meaning": {
+          "fa": "کوتاه",
+          "en": "short; not long"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "black",
+        "text": "black",
+        "pronunciation": {
+          "faReading": "بْلَک",
+          "ipa": "/blæk/"
+        },
+        "meaning": {
+          "fa": "سیاه؛ مشکی",
+          "en": "black; a very dark color"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "hair",
+        "text": "hair",
+        "pronunciation": {
+          "faReading": "هِر",
+          "ipa": "/hɛr/"
+        },
+        "meaning": {
+          "fa": "مو",
+          "en": "hair; what grows on the head"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "wears",
+        "text": "wears",
+        "pronunciation": {
+          "faReading": "وِرز",
+          "ipa": "/wɛrz/"
+        },
+        "meaning": {
+          "fa": "می‌پوشد",
+          "en": "wears; has clothes on"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "simple",
+        "text": "simple",
+        "pronunciation": {
+          "faReading": "سیمپِل",
+          "ipa": "/ˈsɪmpəl/"
+        },
+        "meaning": {
+          "fa": "ساده",
+          "en": "simple; plain, not elaborate"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "clothes",
+        "text": "clothes",
+        "pronunciation": {
+          "faReading": "کْلُوذز",
+          "ipa": "/kloʊðz/"
+        },
+        "meaning": {
+          "fa": "لباس‌ها",
+          "en": "clothes; things people wear"
+        },
+        "example": {
+          "text": "He is tall with short black hair, and he always wears simple clothes.",
+          "translation": {
+            "fa": "قدبلند است و موهای کوتاه مشکی دارد و همیشه لباس‌های ساده می‌پوشد.",
+            "en": "He is tall with short black hair, and he always wears simple clothes."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "From",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از روی؛ بر اساس گفته‌ها",
+          "en": "from; based on what has been said"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "what-content",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چیزی که؛ از حرف تو",
+          "en": "what; the things that you say"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "say",
+        "text": "say",
+        "pronunciation": {
+          "faReading": "سِی",
+          "ipa": "/seɪ/"
+        },
+        "meaning": {
+          "fa": "گفتن",
+          "en": "say; express in words"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از حرفی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "like-similar",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مثل؛ شبیه",
+          "en": "like; similar to"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a thing or person"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "dependable",
+        "text": "dependable",
+        "pronunciation": {
+          "faReading": "دی‌پِندِبِل",
+          "ipa": "/dɪˈpɛndəbəl/"
+        },
+        "meaning": {
+          "fa": "قابل‌اعتماد",
+          "en": "dependable; someone you can rely on"
+        },
+        "example": {
+          "text": "From what you say, he sounds like a really dependable person.",
+          "translation": {
+            "fa": "از حرفت این‌طور برمی‌آید که آدم واقعاً قابل‌اعتمادی است.",
+            "en": "From what you say, he sounds like a really dependable person."
+          }
+        }
+      },
+      {
+        "id": "he-reference",
+        "text": "He",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ یعنی بهنام",
+          "en": "he; Behnam"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "trust",
+        "text": "trust",
+        "pronunciation": {
+          "faReading": "تْراست",
+          "ipa": "/trʌst/"
+        },
+        "meaning": {
+          "fa": "اعتماد دارم به",
+          "en": "trust; believe someone is dependable"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "او را؛ به او",
+          "en": "him; the male person receiving an action"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "than",
+        "text": "than",
+        "pronunciation": {
+          "faReading": "ذَن",
+          "ipa": "/ðæn/"
+        },
+        "meaning": {
+          "fa": "از؛ در مقایسه",
+          "en": "than; introduces the second part of a comparison"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "anyone",
+        "text": "anyone",
+        "pronunciation": {
+          "faReading": "اِنی‌وان",
+          "ipa": "/ˈɛniˌwʌn/"
+        },
+        "meaning": {
+          "fa": "هر کسی",
+          "en": "anyone; any person"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "else",
+        "text": "else",
+        "pronunciation": {
+          "faReading": "اِلس",
+          "ipa": "/ɛls/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ علاوه بر این",
+          "en": "else; additional"
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دوست دارم»",
+          "en": "part of would like; politely want"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "like-polite-want",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دوست دارم»",
+          "en": "part of would like; politely want"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "آشنا شدن؛ دیدن",
+          "en": "meet; see someone and get to know them"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; every person or the whole amount"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیرون رفتن»",
+          "en": "part of go out; leave home for a social activity"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "out",
+        "text": "out",
+        "pronunciation": {
+          "faReading": "آوت",
+          "ipa": "/aʊt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیرون رفتن»",
+          "en": "part of go out; leave home for a social activity"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "want-and-tell",
+        "title": {
+          "fa": "گفتن دربارهٔ یک دوست",
+          "en": "Telling someone about a friend"
+        },
+        "explanation": {
+          "fa": "I want to tell you about ... یعنی می‌خواهم دربارهٔ ... به تو بگویم. بعد از want از to tell استفاده می‌کنیم. در tell you about، you شنونده و بعد از about موضوع می‌آید.",
+          "en": "Use I want to tell you about ... to introduce a topic. Want is followed by to tell. You names the listener and about introduces the topic."
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        },
+        "takeaway": {
+          "fa": "tell + شنونده + about + موضوع را با هم تمرین کن.",
+          "en": "Practice tell + listener + about + topic together."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن دربارهٔ یک دوست",
+              "en": "Telling someone about a friend"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I want to tell you"
+                },
+                {
+                  "text": "want to + action"
+                },
+                {
+                  "fa": "می‌خواهم به تو بگویم",
+                  "en": "Introducing an intention"
+                }
+              ],
+              [
+                {
+                  "text": "about my best friend"
+                },
+                {
+                  "text": "about + topic"
+                },
+                {
+                  "fa": "دربارهٔ صمیمی‌ترین دوستم",
+                  "en": "Naming the topic"
+                }
+              ],
+              [
+                {
+                  "text": "I am listening"
+                },
+                {
+                  "text": "I am + listening"
+                },
+                {
+                  "fa": "گوش می‌دهم",
+                  "en": "Showing attention now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "friendship-since",
+        "title": {
+          "fa": "دوستی از گذشته تا امروز",
+          "en": "Friendship from then until now"
+        },
+        "explanation": {
+          "fa": "have known each other since primary school یعنی از دبستان همدیگر را می‌شناسیم. since نقطهٔ شروع را می‌گوید، نه طول مدت را. known شکل know در این الگوست و each other یعنی یکدیگر.",
+          "en": "Have known each other since primary school connects the friendship’s start with now. Since names a starting point, not a length of time. Known is the form of know used here; each other means both people know the other."
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        },
+        "takeaway": {
+          "fa": "since + نقطهٔ شروع؛ این دوستی هنوز ادامه دارد.",
+          "en": "Since gives the starting point of a continuing friendship."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دوستی از گذشته تا امروز",
+              "en": "Friendship from then until now"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "have known each other"
+                },
+                {
+                  "text": "have + known + each other"
+                },
+                {
+                  "fa": "همدیگر را می‌شناسیم",
+                  "en": "A continuing relationship"
+                }
+              ],
+              [
+                {
+                  "text": "since primary school"
+                },
+                {
+                  "text": "since + starting point"
+                },
+                {
+                  "fa": "از دبستان",
+                  "en": "When it began"
+                }
+              ],
+              [
+                {
+                  "text": "how did you two become"
+                },
+                {
+                  "text": "how did + people + become"
+                },
+                {
+                  "fa": "شما دو نفر چطور شدید",
+                  "en": "Asking about its beginning"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "personality-or-appearance",
+        "title": {
+          "fa": "اخلاق یا ظاهر؟",
+          "en": "Personality or appearance?"
+        },
+        "explanation": {
+          "fa": "What kind of person is he? دربارهٔ شخصیت است. What does he look like? دربارهٔ ظاهر است. در سؤال دوم از does استفاده می‌کنیم، ولی look بدون s می‌ماند. funny و dependable رفتار را توصیف می‌کنند؛ tall و short black hair ظاهر را.",
+          "en": "What kind of person is he? asks about character. What does he look like? asks about appearance. After does, keep look without s. Funny and dependable describe character; tall and short black hair describe appearance."
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        },
+        "takeaway": {
+          "fa": "look like در این سؤال یعنی چه‌شکلی بودن، نه دوست داشتن.",
+          "en": "Look like asks about appearance, not what someone enjoys."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اخلاق یا ظاهر؟",
+              "en": "Personality or appearance?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What kind of person is he"
+                },
+                {
+                  "text": "what kind of person + is he"
+                },
+                {
+                  "fa": "چه‌جور آدمی است",
+                  "en": "Personality"
+                }
+              ],
+              [
+                {
+                  "text": "what does he look like"
+                },
+                {
+                  "text": "what does + he + look like"
+                },
+                {
+                  "fa": "چه شکلی است",
+                  "en": "Appearance"
+                }
+              ],
+              [
+                {
+                  "text": "He is tall with short black hair"
+                },
+                {
+                  "text": "be + description + with + feature"
+                },
+                {
+                  "fa": "قدبلند با موی کوتاه مشکی",
+                  "en": "Describing visible features"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "habits-and-without",
+        "title": {
+          "fa": "عادت‌ها و بدون شکایت کمک کردن",
+          "en": "Habits and helping without complaint"
+        },
+        "explanation": {
+          "fa": "با he در کارهای معمول، فعل اغلب s می‌گیرد: helps و wears. always قبل از این فعل‌هاست. بعد از without، اگر یک کار را بگویی، اینجا ing آمده: without complaining.",
+          "en": "With he, usual actions often take s: helps and wears. Always comes before these verbs. After without, an action can take ing: without complaining."
+        },
+        "example": {
+          "text": "He is funny and kind, and he always helps people without complaining.",
+          "translation": {
+            "fa": "شوخ و مهربان است و همیشه بدون شکایت به مردم کمک می‌کند.",
+            "en": "He is funny and kind, and he always helps people without complaining."
+          }
+        },
+        "takeaway": {
+          "fa": "he helps و he wears؛ بدون شکایت می‌شود without complaining.",
+          "en": "Say he helps and he wears; use without complaining."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عادت‌ها و بدون شکایت کمک کردن",
+              "en": "Habits and helping without complaint"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "he always helps people"
+                },
+                {
+                  "text": "he + always + helps"
+                },
+                {
+                  "fa": "همیشه به مردم کمک می‌کند",
+                  "en": "A regular behavior"
+                }
+              ],
+              [
+                {
+                  "text": "without complaining"
+                },
+                {
+                  "text": "without + action with ing"
+                },
+                {
+                  "fa": "بدون شکایت",
+                  "en": "How he helps"
+                }
+              ],
+              [
+                {
+                  "text": "he always wears simple clothes"
+                },
+                {
+                  "text": "he + always + wears"
+                },
+                {
+                  "fa": "همیشه لباس ساده می‌پوشد",
+                  "en": "A clothing habit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "trust-and-impression",
+        "title": {
+          "fa": "اعتماد و برداشت از حرف دیگران",
+          "en": "Trust and impressions"
+        },
+        "explanation": {
+          "fa": "he sounds like a dependable person یعنی از حرف‌های سینا چنین برداشتی داریم؛ sounds like لزوماً دربارهٔ صدای بهنام نیست. more than anyone else یعنی بیش از هر شخص دیگری. He is پاسخ کوتاه به قابل‌اعتماد بودن اوست.",
+          "en": "He sounds like a dependable person gives an impression from Sina’s description, not necessarily from Behnam’s voice. More than anyone else compares trust with trust in all other people. He is confirms the description without repeating it."
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        },
+        "takeaway": {
+          "fa": "sounds like + شخص یا چیز؛ more than برای مقایسه.",
+          "en": "Use sounds like before a person or thing and more than for comparison."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اعتماد و برداشت از حرف دیگران",
+              "en": "Trust and impressions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "he sounds like a really dependable person"
+                },
+                {
+                  "text": "sounds like + a person"
+                },
+                {
+                  "fa": "آدم قابل‌اعتمادی به نظر می‌رسد",
+                  "en": "An impression from a description"
+                }
+              ],
+              [
+                {
+                  "text": "I trust him more than anyone else"
+                },
+                {
+                  "text": "more than + anyone else"
+                },
+                {
+                  "fa": "بیش از همه به او اعتماد دارم",
+                  "en": "Comparing trust"
+                }
+              ],
+              [
+                {
+                  "text": "He is"
+                },
+                {
+                  "text": "he is + understood description"
+                },
+                {
+                  "fa": "همین‌طور است",
+                  "en": "A short confirmation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "polite-plan",
+        "title": {
+          "fa": "تمایل و پیشنهاد دیدار",
+          "en": "A wish to meet and a possible plan"
+        },
+        "explanation": {
+          "fa": "I would like to meet him راه نرم گفتن «دوست دارم او را ببینم» است. maybe we can امکان برنامه را می‌گوید، نه قرار قطعی. go out یعنی برای فعالیتی بیرون رفتن؛ مکان دقیق گفته نشده است.",
+          "en": "I would like to meet him politely expresses a wish. Maybe we can presents a possibility, not a confirmed arrangement. Go out suggests a social outing without naming a destination."
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        },
+        "takeaway": {
+          "fa": "maybe we can پیشنهاد است، نه قول قطعی.",
+          "en": "Maybe we can suggests a possibility rather than a firm promise."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تمایل و پیشنهاد دیدار",
+              "en": "A wish to meet and a possible plan"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I would like to meet him"
+                },
+                {
+                  "text": "would like to + action"
+                },
+                {
+                  "fa": "دوست دارم او را ببینم",
+                  "en": "A polite wish"
+                }
+              ],
+              [
+                {
+                  "text": "maybe we can all go out together"
+                },
+                {
+                  "text": "maybe + we can + action"
+                },
+                {
+                  "fa": "شاید همه با هم بیرون برویم",
+                  "en": "A possible shared plan"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "best-friend",
+        "text": "my best friend",
+        "pronunciation": {
+          "faReading": "مای بِست فْرِند",
+          "ipa": "/maɪ bɛst frɛnd/"
+        },
+        "meaning": {
+          "fa": "صمیمی‌ترین دوستم",
+          "en": "My best friend"
+        },
+        "context": {
+          "fa": "best friend دوست خیلی نزدیک است، نه برندهٔ مسابقه.",
+          "en": "A very close friend, not the winner of a contest."
+        },
+        "example": {
+          "text": "I want to tell you about my best friend, Behnam.",
+          "translation": {
+            "fa": "می‌خواهم دربارهٔ صمیمی‌ترین دوستم، بهنام، به تو بگویم.",
+            "en": "I want to tell you about my best friend, Behnam."
+          }
+        }
+      },
+      {
+        "id": "listening",
+        "text": "I am listening",
+        "pronunciation": {
+          "faReading": "آی اَم لیسِنینگ",
+          "ipa": "/aɪ æm ˈlɪsənɪŋ/"
+        },
+        "meaning": {
+          "fa": "گوش می‌دهم",
+          "en": "I am listening"
+        },
+        "context": {
+          "fa": "نشان می‌دهد آمادهٔ شنیدن ادامهٔ صحبت هستیم.",
+          "en": "Shows readiness to hear more."
+        },
+        "example": {
+          "text": "I am listening, how did you two become such close friends?",
+          "translation": {
+            "fa": "گوش می‌دهم؛ شما دو نفر چطور این‌قدر صمیمی شدید؟",
+            "en": "I am listening, how did you two become such close friends?"
+          }
+        }
+      },
+      {
+        "id": "since-school",
+        "text": "since primary school",
+        "pronunciation": {
+          "faReading": "سینس پْرایمِری سْکول",
+          "ipa": "/sɪns ˈpraɪməri skul/"
+        },
+        "meaning": {
+          "fa": "از دبستان",
+          "en": "Since primary school"
+        },
+        "context": {
+          "fa": "نقطهٔ شروع دوستی را می‌گوید.",
+          "en": "Dates the beginning of the friendship."
+        },
+        "example": {
+          "text": "We have known each other since primary school, and we share everything.",
+          "translation": {
+            "fa": "از دبستان همدیگر را می‌شناسیم و همه‌چیز را با هم در میان می‌گذاریم.",
+            "en": "We have known each other since primary school, and we share everything."
+          }
+        }
+      },
+      {
+        "id": "what-kind",
+        "text": "What kind of person is he",
+        "pronunciation": {
+          "faReading": "وات کایند اَو پِرسِن ایز هی",
+          "ipa": "/wʌt kaɪnd əv ˈpɝsən ɪz hi/"
+        },
+        "meaning": {
+          "fa": "او چه‌جور آدمی است",
+          "en": "What kind of person is he?"
+        },
+        "context": {
+          "fa": "دربارهٔ اخلاق می‌پرسد، نه قد و مو.",
+          "en": "Asks about character, not height or hair."
+        },
+        "example": {
+          "text": "What kind of person is he, is he funny or serious?",
+          "translation": {
+            "fa": "او چه‌جور آدمی است؛ شوخ است یا جدی؟",
+            "en": "What kind of person is he, is he funny or serious?"
+          }
+        }
+      },
+      {
+        "id": "look-like",
+        "text": "what does he look like",
+        "pronunciation": {
+          "faReading": "وات داز هی لوک لایک",
+          "ipa": "/wʌt dʌz hi lʊk laɪk/"
+        },
+        "meaning": {
+          "fa": "چه شکلی است",
+          "en": "What does he look like?"
+        },
+        "context": {
+          "fa": "سؤال دربارهٔ ظاهر؛ با دوست داشتن فرق دارد.",
+          "en": "An appearance question, not a question about likes."
+        },
+        "example": {
+          "text": "That is rare, and what does he look like physically?",
+          "translation": {
+            "fa": "چنین چیزی کم پیدا می‌شود؛ از نظر ظاهری چه شکلی است؟",
+            "en": "That is rare, and what does he look like physically?"
+          }
+        }
+      },
+      {
+        "id": "anyone-else",
+        "text": "more than anyone else",
+        "pronunciation": {
+          "faReading": "مور ذَن اِنی‌وان اِلس",
+          "ipa": "/mɔr ðæn ˈɛniˌwʌn ɛls/"
+        },
+        "meaning": {
+          "fa": "بیش از هر کس دیگری",
+          "en": "More than anyone else"
+        },
+        "context": {
+          "fa": "سینا میزان اعتمادش به بهنام را مقایسه می‌کند.",
+          "en": "Sina compares his trust in Behnam with trust in others."
+        },
+        "example": {
+          "text": "He is, and I trust him more than anyone else.",
+          "translation": {
+            "fa": "همین‌طور است؛ بیش از هر کس دیگری به او اعتماد دارم.",
+            "en": "He is, and I trust him more than anyone else."
+          }
+        }
+      },
+      {
+        "id": "would-like",
+        "text": "I would like to meet him",
+        "pronunciation": {
+          "faReading": "آی وود لایک تو میت هیم",
+          "ipa": "/aɪ wʊd laɪk tə mit hɪm/"
+        },
+        "meaning": {
+          "fa": "دوست دارم با او آشنا شوم",
+          "en": "I would like to meet him"
+        },
+        "context": {
+          "fa": "خواستن مؤدبانه، بدون قطعی کردن زمان دیدار.",
+          "en": "A polite wish without setting a definite meeting time."
+        },
+        "example": {
+          "text": "I would like to meet him, maybe we can all go out together.",
+          "translation": {
+            "fa": "دوست دارم با او آشنا شوم؛ شاید بتوانیم همه با هم بیرون برویم.",
+            "en": "I would like to meet him, maybe we can all go out together."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سینا در این گفت‌وگو چه می‌کند؟",
+          "en": "What does Sina do in this conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دوست صمیمی‌اش را توصیف می‌کند.",
+              "en": "He describes his best friend."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "از اختلاف با دوستش شکایت می‌کند.",
+              "en": "He complains about a disagreement with his friend."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دوستی تازه در مدرسه پیدا می‌کند.",
+              "en": "He makes a new friend at school."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "او دربارهٔ سابقهٔ دوستی، رفتار و ظاهر بهنام حرف می‌زند.",
+          "en": "He describes the friendship’s history and Behnam’s character and appearance."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05",
+          "t07"
+        ]
+      },
+      {
+        "id": "since",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سینا و بهنام از چه زمانی همدیگر را می‌شناسند؟",
+          "en": "Since when have Sina and Behnam known each other?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "از دانشگاه",
+              "en": "Since university"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "از دبستان",
+              "en": "Since primary school"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "از سال گذشته",
+              "en": "Since last year"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "سینا می‌گوید since primary school.",
+          "en": "Sina says since primary school."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "personality",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام توصیف دربارهٔ رفتار بهنام است؟",
+          "en": "Which description concerns Behnam’s character?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قدبلند و موکوتاه",
+              "en": "Tall with short hair"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جدی و کم‌حرف",
+              "en": "Serious and quiet"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شوخ و مهربان",
+              "en": "Funny and kind"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سینا funny and kind را صریح می‌گوید.",
+          "en": "Sina explicitly says funny and kind."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "appearance",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "ظاهر بهنام چگونه توصیف می‌شود؟",
+          "en": "How is Behnam’s appearance described?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قدبلند با موی کوتاه مشکی",
+              "en": "Tall with short black hair"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قدکوتاه با موی بلند مشکی",
+              "en": "Short with long black hair"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "قدبلند با موی کوتاه روشن",
+              "en": "Tall with short light hair"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سینا می‌گوید tall with short black hair.",
+          "en": "Sina says tall with short black hair."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "helping",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بهنام چگونه به دیگران کمک می‌کند؟",
+          "en": "How does Behnam help people?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط وقتی از او بخواهند",
+              "en": "Only when asked"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بدون شکایت",
+              "en": "Without complaining"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط در مدرسه",
+              "en": "Only at school"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "عبارت always helps people without complaining توصیف رفتار اوست.",
+          "en": "Always helps people without complaining describes his behavior."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      }
+    ]
+  }
+}
