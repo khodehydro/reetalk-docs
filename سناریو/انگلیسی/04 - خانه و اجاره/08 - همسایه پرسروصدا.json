@@ -1,0 +1,3943 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s08",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "همسایه پرسروصدا",
+    "en": "The Noisy Neighbor"
+  },
+  "objective": {
+    "fa": "فهم پیشنهاد مؤدبانه، نگرانی از واکنش همسایه و اقدام مشروط بعدی.",
+    "en": "Understand tactful suggestions, concern about a neighbor’s reaction and conditional escalation."
+  },
+  "speakers": [
+    {
+      "id": "maryam",
+      "name": "Maryam",
+      "gender": "woman"
+    },
+    {
+      "id": "hossein",
+      "name": "Hossein",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "maryam",
+      "text": "Our new neighbor is very noisy, the music is loud late at night.",
+      "translation": {
+        "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+        "en": "Our new neighbor is very noisy, the music is loud late at night."
+      },
+      "tokens": [
+        {
+          "surface": "Our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "neighbor",
+          "gloss": {
+            "fa": "همسایه",
+            "en": "neighbor; someone living nearby"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "noisy,",
+          "gloss": {
+            "fa": "پرسروصدا",
+            "en": "noisy; producing much noise"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "music",
+          "gloss": {
+            "fa": "موسیقی",
+            "en": "music; songs and other musical sounds"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "loud",
+          "gloss": {
+            "fa": "بلند؛ دربارهٔ صدا",
+            "en": "loud; high in volume"
+          }
+        },
+        {
+          "surface": "late",
+          "gloss": {
+            "fa": "دیر",
+            "en": "late; after the expected time"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "night.",
+          "gloss": {
+            "fa": "شب",
+            "en": "night; the dark part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "hossein",
+      "text": "Have you talked to him about it, or only complained to me?",
+      "translation": {
+        "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+        "en": "Have you talked to him about it, or only complained to me?"
+      },
+      "tokens": [
+        {
+          "surface": "Have",
+          "gloss": {
+            "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+            "en": "In “Have you talked”: asks about direct contact up to now"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+            "en": "In “Have you talked”: asks about direct contact up to now"
+          }
+        },
+        {
+          "surface": "talked",
+          "gloss": {
+            "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+            "en": "In “Have you talked”: asks about direct contact up to now"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "complained",
+          "gloss": {
+            "fa": "شکایت کرده‌ای",
+            "en": "complained; expressed dissatisfaction"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "me?",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "maryam",
+      "text": "I knocked on his door twice, but he just apologized and continued.",
+      "translation": {
+        "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+        "en": "I knocked on his door twice, but he just apologized and continued."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "knocked",
+          "gloss": {
+            "fa": "در «knocked on»: در زدم به",
+            "en": "In “knocked on”: hit a door to attract attention"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "در «knocked on»: در زدم به",
+            "en": "In “knocked on”: hit a door to attract attention"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "door",
+          "gloss": {
+            "fa": "در",
+            "en": "door; an entrance panel"
+          }
+        },
+        {
+          "surface": "twice,",
+          "gloss": {
+            "fa": "دو بار",
+            "en": "twice; two times"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "فقط",
+            "en": "just; only"
+          }
+        },
+        {
+          "surface": "apologized",
+          "gloss": {
+            "fa": "عذرخواهی کرد",
+            "en": "apologized; said he was sorry"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "continued.",
+          "gloss": {
+            "fa": "ادامه داد",
+            "en": "continued; kept doing something"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "hossein",
+      "text": "Perhaps you should write a polite note and put it on his door.",
+      "translation": {
+        "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+        "en": "Perhaps you should write a polite note and put it on his door."
+      },
+      "tokens": [
+        {
+          "surface": "Perhaps",
+          "gloss": {
+            "fa": "شاید",
+            "en": "perhaps; maybe"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "نوشتن",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "polite",
+          "gloss": {
+            "fa": "مؤدبانه",
+            "en": "polite; respectful toward others"
+          }
+        },
+        {
+          "surface": "note",
+          "gloss": {
+            "fa": "یادداشت",
+            "en": "note; a short written message"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "put",
+          "gloss": {
+            "fa": "گذاشتن",
+            "en": "put; place something somewhere"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "door.",
+          "gloss": {
+            "fa": "در",
+            "en": "door; an entrance panel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "maryam",
+      "text": "I thought of that, but I worry it may make him angry.",
+      "translation": {
+        "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+        "en": "I thought of that, but I worry it may make him angry."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "thought",
+          "gloss": {
+            "fa": "فکر کردم؛ به ذهنم رسید",
+            "en": "thought; considered an idea"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "به؛ همراه thought یعنی به فکرم رسیده بود",
+            "en": "of; with thought, considered that idea"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "worry",
+          "gloss": {
+            "fa": "نگران بودن",
+            "en": "worry; feel anxious"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "ممکن است",
+            "en": "may; expresses possibility"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "باعث شدن؛ ساختن",
+            "en": "make; cause something here"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "angry.",
+          "gloss": {
+            "fa": "عصبانی",
+            "en": "angry; feeling strong annoyance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "hossein",
+      "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+      "translation": {
+        "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+        "en": "Most people respond better to a calm written message than a face-to-face complaint."
+      },
+      "tokens": [
+        {
+          "surface": "Most",
+          "gloss": {
+            "fa": "بیشترِ؛ نه همهٔ",
+            "en": "most; the majority, not all"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "respond",
+          "gloss": {
+            "fa": "واکنش نشان دادن؛ پاسخ دادن",
+            "en": "respond; react or reply"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر",
+            "en": "better; more suitable or effective"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "calm",
+          "gloss": {
+            "fa": "آرام",
+            "en": "calm; peaceful and soothing"
+          }
+        },
+        {
+          "surface": "written",
+          "gloss": {
+            "fa": "کتبی؛ نوشته‌شده",
+            "en": "written; recorded in writing"
+          }
+        },
+        {
+          "surface": "message",
+          "gloss": {
+            "fa": "پیام",
+            "en": "message; words you send or say to someone"
+          }
+        },
+        {
+          "surface": "than",
+          "gloss": {
+            "fa": "از؛ در مقایسه",
+            "en": "than; introduces the second part of a comparison"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "face-to-face",
+          "gloss": {
+            "fa": "رو در رو",
+            "en": "face-to-face; in person"
+          }
+        },
+        {
+          "surface": "complaint.",
+          "gloss": {
+            "fa": "شکایت",
+            "en": "complaint; a formal or informal expression of dissatisfaction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "maryam",
+      "text": "You may be right, and I can mention the building rules in the note.",
+      "translation": {
+        "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+        "en": "You may be right, and I can mention the building rules in the note."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "شاید؛ ممکن است",
+            "en": "may; allows that Hossein could be right"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست؛ مناسب",
+            "en": "right; correct or suitable"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "mention",
+          "gloss": {
+            "fa": "ذکر کردن",
+            "en": "mention; refer to something briefly"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        },
+        {
+          "surface": "rules",
+          "gloss": {
+            "fa": "قوانین",
+            "en": "rules; expectations governing behavior"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "note.",
+          "gloss": {
+            "fa": "یادداشت",
+            "en": "note; a short written message"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "hossein",
+      "text": "That is a good idea, it keeps the tone neutral and factual.",
+      "translation": {
+        "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+        "en": "That is a good idea, it keeps the tone neutral and factual."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "keeps",
+          "gloss": {
+            "fa": "نگه می‌دارد",
+            "en": "keeps; maintains in a state"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "tone",
+          "gloss": {
+            "fa": "لحن",
+            "en": "tone; the attitude conveyed by wording"
+          }
+        },
+        {
+          "surface": "neutral",
+          "gloss": {
+            "fa": "بی‌طرف؛ بدون حملهٔ شخصی",
+            "en": "neutral; not personally accusatory"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "factual.",
+          "gloss": {
+            "fa": "مبتنی بر واقعیت",
+            "en": "factual; concerned with facts rather than emotion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "maryam",
+      "text": "I will write the note today and slide it under his door.",
+      "translation": {
+        "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+        "en": "I will write the note today and slide it under his door."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "نوشتن",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "note",
+          "gloss": {
+            "fa": "یادداشت",
+            "en": "note; a short written message"
+          }
+        },
+        {
+          "surface": "today",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "slide",
+          "gloss": {
+            "fa": "سُر دادن",
+            "en": "slide; push smoothly along a surface"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "under",
+          "gloss": {
+            "fa": "زیر",
+            "en": "under; below"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "door.",
+          "gloss": {
+            "fa": "در",
+            "en": "door; an entrance panel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "hossein",
+      "text": "If the noise does not stop, then you can involve the building manager.",
+      "translation": {
+        "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+        "en": "If the noise does not stop, then you can involve the building manager."
+      },
+      "tokens": [
+        {
+          "surface": "If",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "noise",
+          "gloss": {
+            "fa": "سروصدا",
+            "en": "noise; unwanted sound"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+            "en": "In “does not stop”: does not cease, in a future condition"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+            "en": "In “does not stop”: does not cease, in a future condition"
+          }
+        },
+        {
+          "surface": "stop,",
+          "gloss": {
+            "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+            "en": "In “does not stop”: does not cease, in a future condition"
+          }
+        },
+        {
+          "surface": "then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "involve",
+          "gloss": {
+            "fa": "وارد ماجرا کردن",
+            "en": "involve; bring someone into dealing with a matter"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        },
+        {
+          "surface": "manager.",
+          "gloss": {
+            "fa": "مدیر",
+            "en": "manager; a person responsible for a building"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "maryam",
+      "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+      "translation": {
+        "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+        "en": "I hope it works, I do not want to start a conflict with a neighbor."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "works,",
+          "gloss": {
+            "fa": "جواب بدهد؛ مؤثر باشد",
+            "en": "works; succeeds in reducing the noise"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "در «do not want»: نمی‌خواهم",
+            "en": "In “do not want”: states a negative intention"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "start",
+          "gloss": {
+            "fa": "شروع کردن",
+            "en": "start; begin"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "conflict",
+          "gloss": {
+            "fa": "درگیری؛ اختلاف",
+            "en": "conflict; disagreement between people"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "neighbor.",
+          "gloss": {
+            "fa": "همسایه",
+            "en": "neighbor; someone living nearby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "hossein",
+      "text": "A calm approach gives the best chance of a good outcome.",
+      "translation": {
+        "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+        "en": "A calm approach gives the best chance of a good outcome."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "calm",
+          "gloss": {
+            "fa": "آرام",
+            "en": "calm; peaceful and soothing"
+          }
+        },
+        {
+          "surface": "approach",
+          "gloss": {
+            "fa": "روش برخورد",
+            "en": "approach; a way of dealing with something"
+          }
+        },
+        {
+          "surface": "gives",
+          "gloss": {
+            "fa": "می‌دهد",
+            "en": "gives; provides"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "best",
+          "gloss": {
+            "fa": "بهترین",
+            "en": "best; better than all others"
+          }
+        },
+        {
+          "surface": "chance",
+          "gloss": {
+            "fa": "شانس؛ احتمال",
+            "en": "chance; possibility of an outcome"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "outcome.",
+          "gloss": {
+            "fa": "نتیجه",
+            "en": "outcome; the final result"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "our",
+        "text": "Our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "neighbor",
+        "text": "neighbor",
+        "pronunciation": {
+          "faReading": "نِیبِر",
+          "ipa": "/ˈneɪbɚ/"
+        },
+        "meaning": {
+          "fa": "همسایه",
+          "en": "neighbor; someone living nearby"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "noisy",
+        "text": "noisy",
+        "pronunciation": {
+          "faReading": "نویزی",
+          "ipa": "/ˈnɔɪzi/"
+        },
+        "meaning": {
+          "fa": "پرسروصدا",
+          "en": "noisy; producing much noise"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "music",
+        "text": "music",
+        "pronunciation": {
+          "faReading": "میوزیک",
+          "ipa": "/ˈmjuzɪk/"
+        },
+        "meaning": {
+          "fa": "موسیقی",
+          "en": "music; songs and other musical sounds"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "loud",
+        "text": "loud",
+        "pronunciation": {
+          "faReading": "لاود",
+          "ipa": "/laʊd/"
+        },
+        "meaning": {
+          "fa": "بلند؛ دربارهٔ صدا",
+          "en": "loud; high in volume"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "late",
+        "text": "late",
+        "pronunciation": {
+          "faReading": "لِیت",
+          "ipa": "/leɪt/"
+        },
+        "meaning": {
+          "fa": "دیر",
+          "en": "late; after the expected time"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل یا زمان",
+          "en": "at; marks a place or time"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "night",
+        "text": "night",
+        "pronunciation": {
+          "faReading": "نایت",
+          "ipa": "/naɪt/"
+        },
+        "meaning": {
+          "fa": "شب",
+          "en": "night; the dark part of the day"
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "Have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+          "en": "In “Have you talked”: asks about direct contact up to now"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+          "en": "In “Have you talked”: asks about direct contact up to now"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "talked",
+        "text": "talked",
+        "pronunciation": {
+          "faReading": "تاکت",
+          "ipa": "/tɔkt/"
+        },
+        "meaning": {
+          "fa": "در «Have you talked»: صحبت کرده‌ای؟",
+          "en": "In “Have you talked”: asks about direct contact up to now"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "او را؛ به او",
+          "en": "him; the male person receiving an action"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "complained",
+        "text": "complained",
+        "pronunciation": {
+          "faReading": "کِمپْلِیند",
+          "ipa": "/kəmˈpleɪnd/"
+        },
+        "meaning": {
+          "fa": "شکایت کرده‌ای",
+          "en": "complained; expressed dissatisfaction"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Have you talked to him about it, or only complained to me?",
+          "translation": {
+            "fa": "در این باره با خودش صحبت کرده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+            "en": "Have you talked to him about it, or only complained to me?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "knocked",
+        "text": "knocked",
+        "pronunciation": {
+          "faReading": "ناکت",
+          "ipa": "/nɑkt/"
+        },
+        "meaning": {
+          "fa": "در «knocked on»: در زدم به",
+          "en": "In “knocked on”: hit a door to attract attention"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "در «knocked on»: در زدم به",
+          "en": "In “knocked on”: hit a door to attract attention"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "his",
+        "text": "his",
+        "pronunciation": {
+          "faReading": "هیز",
+          "ipa": "/hɪz/"
+        },
+        "meaning": {
+          "fa": "مال او؛ برای مرد یا پسر",
+          "en": "his; belonging to a male person"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "door",
+        "text": "door",
+        "pronunciation": {
+          "faReading": "دور",
+          "ipa": "/dɔr/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "door; an entrance panel"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "twice",
+        "text": "twice",
+        "pronunciation": {
+          "faReading": "توایس",
+          "ipa": "/twaɪs/"
+        },
+        "meaning": {
+          "fa": "دو بار",
+          "en": "twice; two times"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "he",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "just; only"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "apologized",
+        "text": "apologized",
+        "pronunciation": {
+          "faReading": "اِپالِجایزد",
+          "ipa": "/əˈpɑlədʒaɪzd/"
+        },
+        "meaning": {
+          "fa": "عذرخواهی کرد",
+          "en": "apologized; said he was sorry"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "continued",
+        "text": "continued",
+        "pronunciation": {
+          "faReading": "کِنتینیود",
+          "ipa": "/kənˈtɪnjud/"
+        },
+        "meaning": {
+          "fa": "ادامه داد",
+          "en": "continued; kept doing something"
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        }
+      },
+      {
+        "id": "perhaps",
+        "text": "Perhaps",
+        "pronunciation": {
+          "faReading": "پِرهَپس",
+          "ipa": "/pɚˈhæps/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "perhaps; maybe"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "polite",
+        "text": "polite",
+        "pronunciation": {
+          "faReading": "پِلایت",
+          "ipa": "/pəˈlaɪt/"
+        },
+        "meaning": {
+          "fa": "مؤدبانه",
+          "en": "polite; respectful toward others"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "note",
+        "pronunciation": {
+          "faReading": "نُوت",
+          "ipa": "/noʊt/"
+        },
+        "meaning": {
+          "fa": "یادداشت",
+          "en": "note; a short written message"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "put",
+        "text": "put",
+        "pronunciation": {
+          "faReading": "پوت",
+          "ipa": "/pʊt/"
+        },
+        "meaning": {
+          "fa": "گذاشتن",
+          "en": "put; place something somewhere"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "on-2",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "thought",
+        "text": "thought",
+        "pronunciation": {
+          "faReading": "ثات",
+          "ipa": "/θɔt/"
+        },
+        "meaning": {
+          "fa": "فکر کردم؛ به ذهنم رسید",
+          "en": "thought; considered an idea"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "به؛ همراه thought یعنی به فکرم رسیده بود",
+          "en": "of; with thought, considered that idea"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "worry",
+        "text": "worry",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈwɝi/"
+        },
+        "meaning": {
+          "fa": "نگران بودن",
+          "en": "worry; feel anxious"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "ممکن است",
+          "en": "may; expresses possibility"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "باعث شدن؛ ساختن",
+          "en": "make; cause something here"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "angry",
+        "text": "angry",
+        "pronunciation": {
+          "faReading": "اَنگْری",
+          "ipa": "/ˈæŋɡri/"
+        },
+        "meaning": {
+          "fa": "عصبانی",
+          "en": "angry; feeling strong annoyance"
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "Most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشترِ؛ نه همهٔ",
+          "en": "most; the majority, not all"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "respond",
+        "text": "respond",
+        "pronunciation": {
+          "faReading": "ریسپاند",
+          "ipa": "/rɪˈspɑnd/"
+        },
+        "meaning": {
+          "fa": "واکنش نشان دادن؛ پاسخ دادن",
+          "en": "respond; react or reply"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر",
+          "en": "better; more suitable or effective"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "calm",
+        "text": "calm",
+        "pronunciation": {
+          "faReading": "کام",
+          "ipa": "/kɑm/"
+        },
+        "meaning": {
+          "fa": "آرام",
+          "en": "calm; peaceful and soothing"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "written",
+        "text": "written",
+        "pronunciation": {
+          "faReading": "ریتِن",
+          "ipa": "/ˈrɪtən/"
+        },
+        "meaning": {
+          "fa": "کتبی؛ نوشته‌شده",
+          "en": "written; recorded in writing"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "message",
+        "text": "message",
+        "pronunciation": {
+          "faReading": "مِسیج",
+          "ipa": "/ˈmɛsɪdʒ/"
+        },
+        "meaning": {
+          "fa": "پیام",
+          "en": "message; words you send or say to someone"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "than",
+        "text": "than",
+        "pronunciation": {
+          "faReading": "ذَن",
+          "ipa": "/ðæn/"
+        },
+        "meaning": {
+          "fa": "از؛ در مقایسه",
+          "en": "than; introduces the second part of a comparison"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "face-to-face",
+        "text": "face-to-face",
+        "pronunciation": {
+          "faReading": "فِیس تو فِیس",
+          "ipa": "/ˌfeɪs tə ˈfeɪs/"
+        },
+        "meaning": {
+          "fa": "رو در رو",
+          "en": "face-to-face; in person"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "complaint",
+        "text": "complaint",
+        "pronunciation": {
+          "faReading": "کِمپْلِینت",
+          "ipa": "/kəmˈpleɪnt/"
+        },
+        "meaning": {
+          "fa": "شکایت",
+          "en": "complaint; a formal or informal expression of dissatisfaction"
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        }
+      },
+      {
+        "id": "may-2",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "شاید؛ ممکن است",
+          "en": "may; allows that Hossein could be right"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست؛ مناسب",
+          "en": "right; correct or suitable"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "mention",
+        "text": "mention",
+        "pronunciation": {
+          "faReading": "مِنشِن",
+          "ipa": "/ˈmɛnʃən/"
+        },
+        "meaning": {
+          "fa": "ذکر کردن",
+          "en": "mention; refer to something briefly"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "building",
+        "text": "building",
+        "pronunciation": {
+          "faReading": "بیلدینگ",
+          "ipa": "/ˈbɪldɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساختمان",
+          "en": "building; a structure with rooms"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "rules",
+        "text": "rules",
+        "pronunciation": {
+          "faReading": "رولز",
+          "ipa": "/rulz/"
+        },
+        "meaning": {
+          "fa": "قوانین",
+          "en": "rules; expectations governing behavior"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "You may be right, and I can mention the building rules in the note.",
+          "translation": {
+            "fa": "شاید حق با تو باشد؛ می‌توانم قوانین ساختمان را هم در یادداشت ذکر کنم.",
+            "en": "You may be right, and I can mention the building rules in the note."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "keeps",
+        "text": "keeps",
+        "pronunciation": {
+          "faReading": "کیپس",
+          "ipa": "/kips/"
+        },
+        "meaning": {
+          "fa": "نگه می‌دارد",
+          "en": "keeps; maintains in a state"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "tone",
+        "text": "tone",
+        "pronunciation": {
+          "faReading": "تُون",
+          "ipa": "/toʊn/"
+        },
+        "meaning": {
+          "fa": "لحن",
+          "en": "tone; the attitude conveyed by wording"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "neutral",
+        "text": "neutral",
+        "pronunciation": {
+          "faReading": "نوتْرِل",
+          "ipa": "/ˈnutrəl/"
+        },
+        "meaning": {
+          "fa": "بی‌طرف؛ بدون حملهٔ شخصی",
+          "en": "neutral; not personally accusatory"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "factual",
+        "text": "factual",
+        "pronunciation": {
+          "faReading": "فَکچوئِل",
+          "ipa": "/ˈfæktʃuəl/"
+        },
+        "meaning": {
+          "fa": "مبتنی بر واقعیت",
+          "en": "factual; concerned with facts rather than emotion"
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will write the note today and slide it under his door.",
+          "translation": {
+            "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+            "en": "I will write the note today and slide it under his door."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "I will write the note today and slide it under his door.",
+          "translation": {
+            "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+            "en": "I will write the note today and slide it under his door."
+          }
+        }
+      },
+      {
+        "id": "slide",
+        "text": "slide",
+        "pronunciation": {
+          "faReading": "سْلاید",
+          "ipa": "/slaɪd/"
+        },
+        "meaning": {
+          "fa": "سُر دادن",
+          "en": "slide; push smoothly along a surface"
+        },
+        "example": {
+          "text": "I will write the note today and slide it under his door.",
+          "translation": {
+            "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+            "en": "I will write the note today and slide it under his door."
+          }
+        }
+      },
+      {
+        "id": "under",
+        "text": "under",
+        "pronunciation": {
+          "faReading": "آندِر",
+          "ipa": "/ˈʌndɚ/"
+        },
+        "meaning": {
+          "fa": "زیر",
+          "en": "under; below"
+        },
+        "example": {
+          "text": "I will write the note today and slide it under his door.",
+          "translation": {
+            "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+            "en": "I will write the note today and slide it under his door."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "If",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "noise",
+        "text": "noise",
+        "pronunciation": {
+          "faReading": "نویز",
+          "ipa": "/nɔɪz/"
+        },
+        "meaning": {
+          "fa": "سروصدا",
+          "en": "noise; unwanted sound"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+          "en": "In “does not stop”: does not cease, in a future condition"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+          "en": "In “does not stop”: does not cease, in a future condition"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "stop",
+        "text": "stop",
+        "pronunciation": {
+          "faReading": "سْتاپ",
+          "ipa": "/stɑp/"
+        },
+        "meaning": {
+          "fa": "در «does not stop»: قطع نشود؛ ادامه یابد",
+          "en": "In “does not stop”: does not cease, in a future condition"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "involve",
+        "text": "involve",
+        "pronunciation": {
+          "faReading": "اینوالو",
+          "ipa": "/ɪnˈvɑlv/"
+        },
+        "meaning": {
+          "fa": "وارد ماجرا کردن",
+          "en": "involve; bring someone into dealing with a matter"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "manager",
+        "text": "manager",
+        "pronunciation": {
+          "faReading": "مَنِجِر",
+          "ipa": "/ˈmænɪdʒɚ/"
+        },
+        "meaning": {
+          "fa": "مدیر",
+          "en": "manager; a person responsible for a building"
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "works",
+        "text": "works",
+        "pronunciation": {
+          "faReading": "وِرکس",
+          "ipa": "/wɝks/"
+        },
+        "meaning": {
+          "fa": "جواب بدهد؛ مؤثر باشد",
+          "en": "works; succeeds in reducing the noise"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "not-2",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "در «do not want»: نمی‌خواهم",
+          "en": "In “do not want”: states a negative intention"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "start",
+        "text": "start",
+        "pronunciation": {
+          "faReading": "سْتارت",
+          "ipa": "/stɑrt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن",
+          "en": "start; begin"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "conflict",
+        "text": "conflict",
+        "pronunciation": {
+          "faReading": "کانفْلیکت",
+          "ipa": "/ˈkɑnflɪkt/"
+        },
+        "meaning": {
+          "fa": "درگیری؛ اختلاف",
+          "en": "conflict; disagreement between people"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        }
+      },
+      {
+        "id": "approach",
+        "text": "approach",
+        "pronunciation": {
+          "faReading": "اِپْرُوچ",
+          "ipa": "/əˈproʊtʃ/"
+        },
+        "meaning": {
+          "fa": "روش برخورد",
+          "en": "approach; a way of dealing with something"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      },
+      {
+        "id": "gives",
+        "text": "gives",
+        "pronunciation": {
+          "faReading": "گیوز",
+          "ipa": "/ɡɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌دهد",
+          "en": "gives; provides"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      },
+      {
+        "id": "best",
+        "text": "best",
+        "pronunciation": {
+          "faReading": "بِست",
+          "ipa": "/bɛst/"
+        },
+        "meaning": {
+          "fa": "بهترین",
+          "en": "best; better than all others"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      },
+      {
+        "id": "chance",
+        "text": "chance",
+        "pronunciation": {
+          "faReading": "چَنس",
+          "ipa": "/tʃæns/"
+        },
+        "meaning": {
+          "fa": "شانس؛ احتمال",
+          "en": "chance; possibility of an outcome"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      },
+      {
+        "id": "outcome",
+        "text": "outcome",
+        "pronunciation": {
+          "faReading": "آوتکام",
+          "ipa": "/ˈaʊtkʌm/"
+        },
+        "meaning": {
+          "fa": "نتیجه",
+          "en": "outcome; the final result"
+        },
+        "example": {
+          "text": "A calm approach gives the best chance of a good outcome.",
+          "translation": {
+            "fa": "روش آرام بیشترین شانس را برای نتیجهٔ خوب می‌دهد.",
+            "en": "A calm approach gives the best chance of a good outcome."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "experience-versus-event",
+        "title": {
+          "fa": "پرسش از تجربه و گزارش رویداد",
+          "en": "Asking about experience and reporting an event"
+        },
+        "explanation": {
+          "fa": "Have you talked ... or only complained ...? از کاری تا اکنون می‌پرسد و talked و complained هر دو با همان have می‌آیند. پاسخ I knocked ... twice رویدادهای مشخص را گزارش می‌کند. apologized and continued یعنی عذرخواهی رخ داده ولی رفتار متوقف نشده است.",
+          "en": "Have you talked ... or only complained ...? asks about actions up to now; both talked and complained share have. I knocked ... twice reports particular completed attempts. Apologized and continued contrasts an apology with unchanged behavior."
+        },
+        "example": {
+          "text": "I knocked on his door twice, but he just apologized and continued.",
+          "translation": {
+            "fa": "دو بار درش را زدم، ولی فقط عذرخواهی کرد و ادامه داد.",
+            "en": "I knocked on his door twice, but he just apologized and continued."
+          }
+        },
+        "takeaway": {
+          "fa": "عذرخواهی همسایه به معنی پایان سروصدا نیست.",
+          "en": "The neighbor’s apology does not mean the noise stopped."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسش از تجربه و گزارش رویداد",
+              "en": "Asking about experience and reporting an event"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Have you talked to him about it, or only complained to me"
+                },
+                {
+                  "text": "Have you + past participle + or ...?"
+                },
+                {
+                  "fa": "با خودش حرف زده‌ای یا فقط پیش من شکایت کرده‌ای؟",
+                  "en": "Contrasts action with complaint"
+                }
+              ],
+              [
+                {
+                  "text": "I knocked on his door twice"
+                },
+                {
+                  "text": "past action + count"
+                },
+                {
+                  "fa": "دو بار درش را زدم",
+                  "en": "Completed attempts"
+                }
+              ],
+              [
+                {
+                  "text": "he just apologized and continued"
+                },
+                {
+                  "text": "past + and + past"
+                },
+                {
+                  "fa": "فقط عذرخواهی کرد و ادامه داد",
+                  "en": "No behavioral change reported"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tentative-advice-and-risk",
+        "title": {
+          "fa": "پیشنهاد ملایم و احتمال واکنش",
+          "en": "Tentative advice and a possible reaction"
+        },
+        "explanation": {
+          "fa": "Perhaps you should پیشنهاد را نرم می‌کند. may make him angry احتمال واکنش نامطلوب است، نه قطعیت. make + him + angry یعنی او را عصبانی کند؛ angry ویژگیِ حاصل است، نه فعل. You may be right پذیرش محتاطانهٔ نظر حسین است.",
+          "en": "Perhaps you should softens the advice. May make him angry states a possible bad reaction, not a certain one. Make + him + angry gives a resulting state. You may be right cautiously accepts Hossein’s point."
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        },
+        "takeaway": {
+          "fa": "may احتمال است؛ perhaps لحن پیشنهاد را نرم می‌کند.",
+          "en": "May marks possibility; perhaps softens advice."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد ملایم و احتمال واکنش",
+              "en": "Tentative advice and a possible reaction"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Perhaps you should write a polite note"
+                },
+                {
+                  "text": "Perhaps + should + action"
+                },
+                {
+                  "fa": "شاید بهتر باشد یادداشت مؤدبانه بنویسی",
+                  "en": "Tactful suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "it may make him angry"
+                },
+                {
+                  "text": "may + make + person + adjective"
+                },
+                {
+                  "fa": "ممکن است عصبانی‌اش کند",
+                  "en": "Possible resulting state"
+                }
+              ],
+              [
+                {
+                  "text": "You may be right"
+                },
+                {
+                  "text": "may + be + adjective"
+                },
+                {
+                  "fa": "شاید حق با تو باشد",
+                  "en": "Qualified agreement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comparative-generalization",
+        "title": {
+          "fa": "مقایسه و دامنهٔ ادعا",
+          "en": "A comparison and a limited claim"
+        },
+        "explanation": {
+          "fa": "respond better to X than Y دو شیوهٔ ارتباط را مقایسه می‌کند. most people یعنی بیشتر مردم، نه همه. این تعمیم نظر حسین در گفت‌وگو است؛ متن شاهد پژوهشی برای برتری همیشگی یادداشت ارائه نمی‌کند.",
+          "en": "Respond better to X than Y compares communication methods. Most people means a majority, not everyone. This is Hossein’s generalization in the dialogue, not research proving that notes always work better."
+        },
+        "example": {
+          "text": "Most people respond better to a calm written message than a face-to-face complaint.",
+          "translation": {
+            "fa": "بیشتر مردم به یک پیام نوشتاری آرام بهتر از شکایت رو در رو واکنش نشان می‌دهند.",
+            "en": "Most people respond better to a calm written message than a face-to-face complaint."
+          }
+        },
+        "takeaway": {
+          "fa": "most را به all تبدیل نکن؛ better ... than مقایسه است.",
+          "en": "Do not turn most into all; better ... than makes a comparison."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقایسه و دامنهٔ ادعا",
+              "en": "A comparison and a limited claim"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Most people respond better to a calm written message than a face-to-face complaint"
+                },
+                {
+                  "text": "respond better to X than Y"
+                },
+                {
+                  "fa": "بیشتر مردم به پیام آرام بهتر واکنش نشان می‌دهند",
+                  "en": "Speaker’s comparison, not a universal rule"
+                }
+              ],
+              [
+                {
+                  "text": "A calm approach gives the best chance"
+                },
+                {
+                  "text": "the best + noun"
+                },
+                {
+                  "fa": "روش آرام بیشترین شانس را می‌دهد",
+                  "en": "A chance, not a guaranteed result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "neutral-tone-result",
+        "title": {
+          "fa": "بی‌طرف نگه‌داشتن لحن",
+          "en": "Keeping the tone neutral"
+        },
+        "explanation": {
+          "fa": "keeps the tone neutral and factual الگوی keep + چیز + ویژگی است. it به اشاره به قوانین ساختمان برمی‌گردد؛ حذف حملهٔ شخصی لحن را خنثی می‌کند. neutral و factual دو ویژگی‌اند، نه دو اقدام جدا.",
+          "en": "Keeps the tone neutral and factual follows keep + object + adjectives. It refers to mentioning the building rules; focusing on rules avoids personal accusation. Neutral and factual describe the tone rather than separate actions."
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        },
+        "takeaway": {
+          "fa": "keep + چیز + ویژگی یعنی آن را در آن وضعیت نگه دار.",
+          "en": "Keep + object + adjective means maintain that state."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بی‌طرف نگه‌داشتن لحن",
+              "en": "Keeping the tone neutral"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "it keeps the tone neutral and factual"
+                },
+                {
+                  "text": "keep + object + adjectives"
+                },
+                {
+                  "fa": "لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد",
+                  "en": "A resulting quality of the message"
+                }
+              ],
+              [
+                {
+                  "text": "mention the building rules in the note"
+                },
+                {
+                  "text": "mention + factual reference"
+                },
+                {
+                  "fa": "ذکر قوانین در یادداشت",
+                  "en": "The basis for a neutral tone"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conditional-escalation",
+        "title": {
+          "fa": "ارجاع مشروط به مدیر",
+          "en": "Conditional escalation to the manager"
+        },
+        "explanation": {
+          "fa": "If the noise does not stop شرط آینده را با حال ساده می‌گوید. then you can involve امکان اقدام بعدی را می‌دهد، نه اینکه مدیر همین حالا درگیر شده است. will write ... and slide دو اقدام برنامه‌ریزی‌شده با will مشترک‌اند. پیشنهاد اولیه روی در است، اما تصمیم نهایی مریم زیر در است.",
+          "en": "If the noise does not stop uses present simple for a future condition. Then you can involve gives an available next action, not a report that the manager is already involved. Will write ... and slide shares will across two planned actions. The initial suggestion is on the door; Maryam finally chooses under it."
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        },
+        "takeaway": {
+          "fa": "اول یادداشت؛ اگر سروصدا ادامه یافت، مدیر.",
+          "en": "First the note; if noise continues, the manager."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ارجاع مشروط به مدیر",
+              "en": "Conditional escalation to the manager"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "If the noise does not stop, then you can involve the building manager"
+                },
+                {
+                  "text": "if + present; can + action"
+                },
+                {
+                  "fa": "اگر قطع نشد، می‌توانی مدیر را وارد کنی",
+                  "en": "Conditional next step"
+                }
+              ],
+              [
+                {
+                  "text": "I will write the note today and slide it under his door"
+                },
+                {
+                  "text": "will + action + and + action"
+                },
+                {
+                  "fa": "امروز می‌نویسم و از زیر در می‌فرستم",
+                  "en": "The final delivery plan"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hope-and-intention",
+        "title": {
+          "fa": "امید به اثر، پرهیز از درگیری",
+          "en": "Hope for success and avoidance of conflict"
+        },
+        "explanation": {
+          "fa": "I hope it works نتیجهٔ مطلوب را می‌گوید، نه نتیجهٔ رخ‌داده. I do not want to start ... نیت مریم برای پرهیز از درگیری است. در gives the best chance هم chance احتمال است؛ نتیجه تضمین نشده است.",
+          "en": "I hope it works states a desired result, not an achieved one. I do not want to start ... states Maryam’s intention to avoid conflict. Chance in gives the best chance still refers to probability, not a guaranteed outcome."
+        },
+        "example": {
+          "text": "I hope it works, I do not want to start a conflict with a neighbor.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ نمی‌خواهم با همسایه درگیری شروع کنم.",
+            "en": "I hope it works, I do not want to start a conflict with a neighbor."
+          }
+        },
+        "takeaway": {
+          "fa": "امید و احتمال را به نتیجهٔ قطعی تبدیل نکن.",
+          "en": "Do not turn hope or probability into an established result."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "امید به اثر، پرهیز از درگیری",
+              "en": "Hope for success and avoidance of conflict"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I hope it works"
+                },
+                {
+                  "text": "hope + present"
+                },
+                {
+                  "fa": "امیدوارم جواب بدهد",
+                  "en": "Desired future outcome"
+                }
+              ],
+              [
+                {
+                  "text": "I do not want to start a conflict"
+                },
+                {
+                  "text": "do not want to + action"
+                },
+                {
+                  "fa": "نمی‌خواهم درگیری شروع کنم",
+                  "en": "Negative intention"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "night",
+        "text": "late at night",
+        "pronunciation": {
+          "faReading": "لِیت اَت نایت",
+          "ipa": "/leɪt ət naɪt/"
+        },
+        "meaning": {
+          "fa": "آخر شب",
+          "en": "Late at night"
+        },
+        "context": {
+          "fa": "زمان آزار موسیقی است.",
+          "en": "When the loud music is disturbing."
+        },
+        "example": {
+          "text": "Our new neighbor is very noisy, the music is loud late at night.",
+          "translation": {
+            "fa": "همسایهٔ جدیدمان خیلی پرسروصداست؛ آخر شب صدای موسیقی بلند است.",
+            "en": "Our new neighbor is very noisy, the music is loud late at night."
+          }
+        }
+      },
+      {
+        "id": "note",
+        "text": "a polite note",
+        "pronunciation": {
+          "faReading": "اِ پِلایت نُوت",
+          "ipa": "/ə pəˈlaɪt noʊt/"
+        },
+        "meaning": {
+          "fa": "یادداشت مؤدبانه",
+          "en": "A respectful short written message"
+        },
+        "context": {
+          "fa": "مرحلهٔ بعدی پیشنهادی پس از صحبت ناموفق است.",
+          "en": "A proposed step after unsuccessful direct contact."
+        },
+        "example": {
+          "text": "Perhaps you should write a polite note and put it on his door.",
+          "translation": {
+            "fa": "شاید بهتر باشد یک یادداشت مؤدبانه بنویسی و روی درش بگذاری.",
+            "en": "Perhaps you should write a polite note and put it on his door."
+          }
+        }
+      },
+      {
+        "id": "anger",
+        "text": "make him angry",
+        "pronunciation": {
+          "faReading": "مِیک هیم اَنگْری",
+          "ipa": "/meɪk hɪm ˈæŋɡri/"
+        },
+        "meaning": {
+          "fa": "عصبانی‌اش کند",
+          "en": "Cause him to become angry"
+        },
+        "context": {
+          "fa": "نگرانی مریم است، نه واکنشِ رخ‌داده.",
+          "en": "Maryam’s worry, not a reaction already observed."
+        },
+        "example": {
+          "text": "I thought of that, but I worry it may make him angry.",
+          "translation": {
+            "fa": "به آن فکر کردم، ولی نگرانم عصبانی‌اش کند.",
+            "en": "I thought of that, but I worry it may make him angry."
+          }
+        }
+      },
+      {
+        "id": "tone",
+        "text": "neutral and factual",
+        "pronunciation": {
+          "faReading": "نوتْرِل اَند فَکچوئِل",
+          "ipa": "/ˈnutrəl ən ˈfæktʃuəl/"
+        },
+        "meaning": {
+          "fa": "بی‌طرف و مبتنی بر واقعیت",
+          "en": "Neutral and based on facts"
+        },
+        "context": {
+          "fa": "لحنِ ارجاع به قوانین، بدون حملهٔ شخصی.",
+          "en": "A rule-focused tone without personal accusation."
+        },
+        "example": {
+          "text": "That is a good idea, it keeps the tone neutral and factual.",
+          "translation": {
+            "fa": "فکر خوبی است؛ لحن را بی‌طرف و مبتنی بر واقعیت نگه می‌دارد.",
+            "en": "That is a good idea, it keeps the tone neutral and factual."
+          }
+        }
+      },
+      {
+        "id": "delivery",
+        "text": "slide it under his door",
+        "pronunciation": {
+          "faReading": "سْلاید ایت آندِر هیز دور",
+          "ipa": "/slaɪd ɪt ˈʌndɚ hɪz dɔr/"
+        },
+        "meaning": {
+          "fa": "آن را از زیر درش سُر بدهم",
+          "en": "Slide the note under his door"
+        },
+        "context": {
+          "fa": "تصمیم نهایی مریم است؛ پیشنهاد اولیه روی در بود.",
+          "en": "Maryam’s final plan differs from the earlier on-door suggestion."
+        },
+        "example": {
+          "text": "I will write the note today and slide it under his door.",
+          "translation": {
+            "fa": "امروز یادداشت را می‌نویسم و از زیر درش سُر می‌دهم.",
+            "en": "I will write the note today and slide it under his door."
+          }
+        }
+      },
+      {
+        "id": "manager",
+        "text": "involve the building manager",
+        "pronunciation": {
+          "faReading": "اینوالو ذِ بیلدینگ مَنِجِر",
+          "ipa": "/ɪnˈvɑlv ðə ˈbɪldɪŋ ˈmænɪdʒɚ/"
+        },
+        "meaning": {
+          "fa": "مدیر ساختمان را وارد ماجرا کردن",
+          "en": "Bring the building manager into the matter"
+        },
+        "context": {
+          "fa": "فقط اگر سروصدا قطع نشود پیشنهاد می‌شود.",
+          "en": "Suggested only if the noise does not stop."
+        },
+        "example": {
+          "text": "If the noise does not stop, then you can involve the building manager.",
+          "translation": {
+            "fa": "اگر سروصدا قطع نشد، آن‌وقت می‌توانی مدیر ساختمان را وارد ماجرا کنی.",
+            "en": "If the noise does not stop, then you can involve the building manager."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف پیشنهادهای حسین چیست؟",
+          "en": "What is the purpose of Hossein’s suggestions?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تغییر فوری محل زندگی",
+              "en": "Moving home immediately"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شروع شکایت قضایی بی‌درنگ",
+              "en": "Starting immediate legal proceedings"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رسیدگی آرام به سروصدا با امکان ارجاع بعدی به مدیر",
+              "en": "Addressing noise calmly, with possible later manager involvement"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "یادداشت آرام پیشنهاد می‌شود و مدیر فقط در صورت ادامهٔ سروصدا مطرح است.",
+          "en": "A calm note is suggested; the manager is proposed only if noise continues."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t08",
+          "t10",
+          "t12"
+        ]
+      },
+      {
+        "id": "attempts",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم قبلاً چند بار در همسایه را زده است؟",
+          "en": "How many times has Maryam already knocked on the neighbor’s door?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دو بار",
+              "en": "Twice"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "یک بار",
+              "en": "Once"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه بار",
+              "en": "Three times"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "twice تعداد تلاش‌های مستقیم است.",
+          "en": "Twice gives the number of direct attempts."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "final-delivery",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم در تصمیم نهایی یادداشت را کجا می‌گذارد؟",
+          "en": "Where does Maryam finally plan to put the note?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "روی در",
+              "en": "On the door"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "از زیر در به داخل",
+              "en": "Under the door"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در صندوق پستی",
+              "en": "In the mailbox"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پیشنهاد اولیه on his door است، ولی تصمیم خودش slide it under his door است.",
+          "en": "The initial suggestion is on his door, but her final plan is to slide it under his door."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t09"
+        ]
+      },
+      {
+        "id": "manager-condition",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه شرطی برای دخالت مدیر مطرح می‌شود؟",
+          "en": "What condition is given for involving the manager?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اگر همسایه نامه را پسندید",
+              "en": "If the neighbor likes the note"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اگر موسیقی زودتر شروع شد",
+              "en": "If the music starts earlier"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اگر سروصدا قطع نشد",
+              "en": "If the noise does not stop"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "If the noise does not stop شرط صریح اقدام بعدی است.",
+          "en": "If the noise does not stop is the explicit condition for the next step."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "neutrality",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا اشاره به قوانین ساختمان پیشنهاد می‌شود؟",
+          "en": "Why is referring to the building rules suggested?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای حفظ لحن بی‌طرف و مبتنی بر واقعیت",
+              "en": "To keep the tone neutral and factual"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برای اثبات تخلف همهٔ همسایه‌ها",
+              "en": "To prove that all neighbors are breaking rules"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای جایگزین کردن مدیر بدون شرط",
+              "en": "To replace the manager unconditionally"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "حسین اثر آن را بر لحن می‌گوید، نه اثبات جرم یا تغییر مدیر.",
+          "en": "Hossein explains the effect on tone, not proof of wrongdoing or replacing the manager."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08"
+        ]
+      }
+    ]
+  }
+}

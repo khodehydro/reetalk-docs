@@ -1,0 +1,5342 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s12",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "C1",
+  "title": {
+    "fa": "وام خانه اول",
+    "en": "A Mortgage for a First Home"
+  },
+  "objective": {
+    "fa": "تحلیل روند درخواست وام، دامنهٔ هزینه‌ها، نرخ ثابت و متغیر و توصیه‌های مشروط متن.",
+    "en": "Analyze a mortgage application, cost scope, fixed versus variable rates and the dialogue’s qualified advice."
+  },
+  "speakers": [
+    {
+      "id": "farzad",
+      "name": "Farzad",
+      "gender": "man"
+    },
+    {
+      "id": "advisor",
+      "name": "Advisor",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "farzad",
+      "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+      "translation": {
+        "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+        "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "applying",
+          "gloss": {
+            "fa": "در «applying for»: درخواست دادن برای",
+            "en": "In “applying for”: formally requesting a mortgage"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «applying for»: درخواست دادن برای",
+            "en": "In “applying for”: formally requesting a mortgage"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "mortgage",
+          "gloss": {
+            "fa": "وام مسکن",
+            "en": "mortgage; a loan secured against property"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "first",
+          "gloss": {
+            "fa": "اولین",
+            "en": "first; before all the others"
+          }
+        },
+        {
+          "surface": "home,",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "understand",
+          "gloss": {
+            "fa": "فهمیدن",
+            "en": "understand; know what someone means"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "process.",
+          "gloss": {
+            "fa": "فرایند",
+            "en": "process; a sequence of steps"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "advisor",
+      "text": "That is a big step, let us go through the main points together.",
+      "translation": {
+        "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+        "en": "That is a big step, let us go through the main points together."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "big",
+          "gloss": {
+            "fa": "بزرگ",
+            "en": "big; large"
+          }
+        },
+        {
+          "surface": "step,",
+          "gloss": {
+            "fa": "اقدام؛ مرحله",
+            "en": "step; an action in a process"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes a joint action"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "در «let us»: بیا با هم",
+            "en": "In “let us”: proposes a joint action"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "در «go through»: مرور کنیم",
+            "en": "In “go through”: review step by step"
+          }
+        },
+        {
+          "surface": "through",
+          "gloss": {
+            "fa": "در «go through»: مرور کنیم",
+            "en": "In “go through”: review step by step"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "points",
+          "gloss": {
+            "fa": "نکات",
+            "en": "points; items to consider"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "farzad",
+      "text": "What is the first thing I need to prepare before applying?",
+      "translation": {
+        "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+        "en": "What is the first thing I need to prepare before applying?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "first",
+          "gloss": {
+            "fa": "اولین",
+            "en": "first; before all the others"
+          }
+        },
+        {
+          "surface": "thing",
+          "gloss": {
+            "fa": "چیز؛ کار",
+            "en": "thing; an item or action"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "prepare",
+          "gloss": {
+            "fa": "آماده کردن",
+            "en": "prepare; make ready"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "applying?",
+          "gloss": {
+            "fa": "درخواست دادن",
+            "en": "applying; formally requesting something"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "advisor",
+      "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+      "translation": {
+        "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+        "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "show",
+          "gloss": {
+            "fa": "نشان دادن",
+            "en": "show; let someone see"
+          }
+        },
+        {
+          "surface": "stable",
+          "gloss": {
+            "fa": "ثابت",
+            "en": "stable; not changing much"
+          }
+        },
+        {
+          "surface": "income,",
+          "gloss": {
+            "fa": "درآمد",
+            "en": "income; money received regularly"
+          }
+        },
+        {
+          "surface": "savings",
+          "gloss": {
+            "fa": "پس‌انداز",
+            "en": "savings; money set aside"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "down",
+          "gloss": {
+            "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+            "en": "In “down payment”: the initial part of the price paid by the buyer"
+          }
+        },
+        {
+          "surface": "payment,",
+          "gloss": {
+            "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+            "en": "In “down payment”: the initial part of the price paid by the buyer"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "clean",
+          "gloss": {
+            "fa": "پاک؛ بدون سابقهٔ منفی اعتباری",
+            "en": "clean; free from adverse credit history, not physically washed"
+          }
+        },
+        {
+          "surface": "credit",
+          "gloss": {
+            "fa": "در «credit record»: سابقهٔ اعتباری",
+            "en": "In “credit record”: a documented history of borrowing and repayment"
+          }
+        },
+        {
+          "surface": "record.",
+          "gloss": {
+            "fa": "در «credit record»: سابقهٔ اعتباری",
+            "en": "In “credit record”: a documented history of borrowing and repayment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "farzad",
+      "text": "How much of the house price should I pay as a down payment?",
+      "translation": {
+        "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+        "en": "How much of the house price should I pay as a down payment?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار از قیمت",
+            "en": "In “How much”: asks about the share of the price"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار از قیمت",
+            "en": "In “How much”: asks about the share of the price"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "price",
+          "gloss": {
+            "fa": "قیمت",
+            "en": "price; the cost of something"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "pay",
+          "gloss": {
+            "fa": "پرداخت کردن",
+            "en": "pay; give money for something"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "به‌عنوانِ",
+            "en": "as; in the role of"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "down",
+          "gloss": {
+            "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+            "en": "In “down payment”: the initial part of the price paid by the buyer"
+          }
+        },
+        {
+          "surface": "payment?",
+          "gloss": {
+            "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+            "en": "In “down payment”: the initial part of the price paid by the buyer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "advisor",
+      "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+      "translation": {
+        "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+        "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+      },
+      "tokens": [
+        {
+          "surface": "Usually",
+          "gloss": {
+            "fa": "معمولاً",
+            "en": "usually; most of the time"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "twenty",
+          "gloss": {
+            "fa": "بیست",
+            "en": "twenty; the number 20"
+          }
+        },
+        {
+          "surface": "percent,",
+          "gloss": {
+            "fa": "درصد",
+            "en": "percent; out of every hundred"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rest",
+          "gloss": {
+            "fa": "باقی مبلغ قیمت خانه",
+            "en": "rest; the remainder after the down payment"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "financed",
+          "gloss": {
+            "fa": "تأمین مالی می‌شود",
+            "en": "financed; funded through a loan"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "توسطِ؛ انجام‌دهندهٔ تأمین مالی",
+            "en": "by; identifies the bank as the financing agent"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bank",
+          "gloss": {
+            "fa": "بانک",
+            "en": "bank; a financial institution"
+          }
+        },
+        {
+          "surface": "over",
+          "gloss": {
+            "fa": "طی؛ در طولِ",
+            "en": "over; across a period of time"
+          }
+        },
+        {
+          "surface": "twenty",
+          "gloss": {
+            "fa": "بیست",
+            "en": "twenty; the number 20"
+          }
+        },
+        {
+          "surface": "years.",
+          "gloss": {
+            "fa": "سال‌ها",
+            "en": "years; periods of twelve months"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "farzad",
+      "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+      "translation": {
+        "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+        "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+      },
+      "tokens": [
+        {
+          "surface": "And",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "monthly",
+          "gloss": {
+            "fa": "ماهانه",
+            "en": "monthly; occurring each month"
+          }
+        },
+        {
+          "surface": "payment,",
+          "gloss": {
+            "fa": "پرداخت",
+            "en": "payment; money paid"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "does; helps ask a question"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "include",
+          "gloss": {
+            "fa": "شامل بودن",
+            "en": "include; contain as part of the total"
+          }
+        },
+        {
+          "surface": "insurance",
+          "gloss": {
+            "fa": "بیمه",
+            "en": "insurance; financial protection against specified risks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "taxes,",
+          "gloss": {
+            "fa": "مالیات‌ها",
+            "en": "taxes; payments required by government"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "extra?",
+          "gloss": {
+            "fa": "اضافی؛ جدا از مبلغ اصلی",
+            "en": "extra; additional to the main amount"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "advisor",
+      "text": "They are usually extra, so calculate them separately when you budget.",
+      "translation": {
+        "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+        "en": "They are usually extra, so calculate them separately when you budget."
+      },
+      "tokens": [
+        {
+          "surface": "They",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "usually",
+          "gloss": {
+            "fa": "معمولاً",
+            "en": "usually; most of the time"
+          }
+        },
+        {
+          "surface": "extra,",
+          "gloss": {
+            "fa": "اضافی؛ جدا از مبلغ اصلی",
+            "en": "extra; additional to the main amount"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "calculate",
+          "gloss": {
+            "fa": "حساب کردن",
+            "en": "calculate; work out a number or cost"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; refers back to things or people already mentioned"
+          }
+        },
+        {
+          "surface": "separately",
+          "gloss": {
+            "fa": "جداگانه",
+            "en": "separately; as an additional cost or calculation"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "budget.",
+          "gloss": {
+            "fa": "بودجه‌بندی می‌کنی؛ اینجا فعل",
+            "en": "budget; plan income and expenses, a verb here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "farzad",
+      "text": "What if interest rates change during the loan period?",
+      "translation": {
+        "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+        "en": "What if interest rates change during the loan period?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "در «What if»: اگر ... چه؟",
+            "en": "In “What if”: raises a hypothetical change to consider"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "در «What if»: اگر ... چه؟",
+            "en": "In “What if”: raises a hypothetical change to consider"
+          }
+        },
+        {
+          "surface": "interest",
+          "gloss": {
+            "fa": "بهرهٔ وام",
+            "en": "interest; the cost charged for borrowing money"
+          }
+        },
+        {
+          "surface": "rates",
+          "gloss": {
+            "fa": "نرخ‌ها",
+            "en": "rates; percentages charged on a loan"
+          }
+        },
+        {
+          "surface": "change",
+          "gloss": {
+            "fa": "تغییر؛ تغییر کردن",
+            "en": "change; become different, or a difference over time"
+          }
+        },
+        {
+          "surface": "during",
+          "gloss": {
+            "fa": "در طولِ",
+            "en": "during; throughout a period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "loan",
+          "gloss": {
+            "fa": "وام",
+            "en": "loan; money borrowed and repaid over time"
+          }
+        },
+        {
+          "surface": "period?",
+          "gloss": {
+            "fa": "دوره؛ بازهٔ زمانی",
+            "en": "period; a length of time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "advisor",
+      "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+      "translation": {
+        "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+        "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+      },
+      "tokens": [
+        {
+          "surface": "Some",
+          "gloss": {
+            "fa": "مقداری؛ چند",
+            "en": "some; an amount or number"
+          }
+        },
+        {
+          "surface": "loans",
+          "gloss": {
+            "fa": "وام‌ها",
+            "en": "loans; amounts borrowed and repaid"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used before another verb to connect an action to now"
+          }
+        },
+        {
+          "surface": "fixed",
+          "gloss": {
+            "fa": "ثابت",
+            "en": "fixed; set and not changing"
+          }
+        },
+        {
+          "surface": "rates,",
+          "gloss": {
+            "fa": "نرخ‌ها",
+            "en": "rates; percentages charged on a loan"
+          }
+        },
+        {
+          "surface": "others",
+          "gloss": {
+            "fa": "وام‌های دیگر",
+            "en": "others; other loans, not other people"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "variable,",
+          "gloss": {
+            "fa": "متغیر",
+            "en": "variable; able to change"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "read",
+          "gloss": {
+            "fa": "خواندن",
+            "en": "read; understand written words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "carefully.",
+          "gloss": {
+            "fa": "با دقت",
+            "en": "carefully; with attention to detail"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "farzad",
+      "text": "Is there anything I should avoid during the loan approval period?",
+      "translation": {
+        "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+        "en": "Is there anything I should avoid during the loan approval period?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "در «Is there anything»: آیا چیزی هست؟",
+            "en": "In “Is there anything”: asks whether any relevant item exists"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "در «Is there anything»: آیا چیزی هست؟",
+            "en": "In “Is there anything”: asks whether any relevant item exists"
+          }
+        },
+        {
+          "surface": "anything",
+          "gloss": {
+            "fa": "در «Is there anything»: آیا چیزی هست؟",
+            "en": "In “Is there anything”: asks whether any relevant item exists"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "avoid",
+          "gloss": {
+            "fa": "پرهیز کردن از",
+            "en": "avoid; keep away from"
+          }
+        },
+        {
+          "surface": "during",
+          "gloss": {
+            "fa": "در طولِ",
+            "en": "during; throughout a period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "loan",
+          "gloss": {
+            "fa": "وام",
+            "en": "loan; money borrowed and repaid over time"
+          }
+        },
+        {
+          "surface": "approval",
+          "gloss": {
+            "fa": "تأیید درخواست",
+            "en": "approval; official acceptance of an application"
+          }
+        },
+        {
+          "surface": "period?",
+          "gloss": {
+            "fa": "دوره؛ بازهٔ زمانی",
+            "en": "period; a length of time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "advisor",
+      "text": "Avoid new debts or big purchases, they can affect your approval.",
+      "translation": {
+        "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+        "en": "Avoid new debts or big purchases, they can affect your approval."
+      },
+      "tokens": [
+        {
+          "surface": "Avoid",
+          "gloss": {
+            "fa": "پرهیز کردن از",
+            "en": "avoid; keep away from"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "debts",
+          "gloss": {
+            "fa": "بدهی‌ها",
+            "en": "debts; sums of money owed"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "big",
+          "gloss": {
+            "fa": "بزرگ",
+            "en": "big; large"
+          }
+        },
+        {
+          "surface": "purchases,",
+          "gloss": {
+            "fa": "خریدها",
+            "en": "purchases; things bought or acts of buying"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "ممکن است؛ بیان امکان اثر",
+            "en": "can; expresses a potential effect, not certainty"
+          }
+        },
+        {
+          "surface": "affect",
+          "gloss": {
+            "fa": "اثر گذاشتن بر",
+            "en": "affect; influence an outcome"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "approval.",
+          "gloss": {
+            "fa": "تأیید درخواست",
+            "en": "approval; official acceptance of an application"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "farzad",
+      "text": "That is important, I will not change my spending habits until it is approved.",
+      "translation": {
+        "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+        "en": "That is important, I will not change my spending habits until it is approved."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "important,",
+          "gloss": {
+            "fa": "مهم",
+            "en": "important; having great value"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "change",
+          "gloss": {
+            "fa": "تغییر؛ تغییر کردن",
+            "en": "change; become different, or a difference over time"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "spending",
+          "gloss": {
+            "fa": "خرج کردن",
+            "en": "spending; using money to buy things"
+          }
+        },
+        {
+          "surface": "habits",
+          "gloss": {
+            "fa": "عادت‌ها",
+            "en": "habits; regular ways of behaving"
+          }
+        },
+        {
+          "surface": "until",
+          "gloss": {
+            "fa": "تا؛ تا وقتی که",
+            "en": "until; up to a time or event"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ درخواست وام",
+            "en": "it; the mortgage application, not a purchase"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "approved.",
+          "gloss": {
+            "fa": "تأییدشده",
+            "en": "approved; officially accepted"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "advisor",
+      "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+      "translation": {
+        "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+        "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "wise,",
+          "gloss": {
+            "fa": "خردمندانه",
+            "en": "wise; showing sound judgment"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "pre-approval",
+          "gloss": {
+            "fa": "تأیید اولیه",
+            "en": "pre-approval; preliminary approval before a final decision"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "در «house hunting»: جست‌وجوی خانه برای خرید",
+            "en": "In “house hunting”: searching for a home to buy"
+          }
+        },
+        {
+          "surface": "hunting",
+          "gloss": {
+            "fa": "در «house hunting»: جست‌وجوی خانه برای خرید",
+            "en": "In “house hunting”: searching for a home to buy"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "gives",
+          "gloss": {
+            "fa": "می‌دهد",
+            "en": "gives; provides"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "clear",
+          "gloss": {
+            "fa": "روشن؛ مشخص",
+            "en": "clear; easy to understand"
+          }
+        },
+        {
+          "surface": "budget.",
+          "gloss": {
+            "fa": "بودجه؛ برنامه‌ریزی مالی کردن",
+            "en": "budget; a spending plan, or to plan spending"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "speakerId": "farzad",
+      "text": "Thank you, I feel much more confident about this important decision.",
+      "translation": {
+        "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+        "en": "Thank you, I feel much more confident about this important decision."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience an emotion or impression"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "خیلی؛ مقدار زیاد",
+            "en": "much; a large amount"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "confident",
+          "gloss": {
+            "fa": "بااعتمادبه‌نفس؛ مطمئن",
+            "en": "confident; sure of yourself or your decisions"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "important",
+          "gloss": {
+            "fa": "مهم",
+            "en": "important; having great value"
+          }
+        },
+        {
+          "surface": "decision.",
+          "gloss": {
+            "fa": "تصمیم",
+            "en": "decision; a choice made after consideration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "speakerId": "advisor",
+      "text": "You are welcome, take your time, and ask more questions before signing anything.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+        "en": "You are welcome, take your time, and ask more questions before signing anything."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «take your time»: عجله نکن",
+            "en": "In “take your time”: do not rush the decision"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "در «take your time»: عجله نکن",
+            "en": "In “take your time”: do not rush the decision"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "در «take your time»: عجله نکن",
+            "en": "In “take your time”: do not rush the decision"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "پرسیدن؛ درخواست کردن",
+            "en": "ask; request information or an action"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "questions",
+          "gloss": {
+            "fa": "پرسش‌ها",
+            "en": "questions; things people ask"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "signing",
+          "gloss": {
+            "fa": "امضا کردن",
+            "en": "signing; writing a signature to accept terms"
+          }
+        },
+        {
+          "surface": "anything.",
+          "gloss": {
+            "fa": "چیزی؛ هر چیزی",
+            "en": "anything; any thing"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "applying",
+        "text": "applying",
+        "pronunciation": {
+          "faReading": "اِپلای‌اینگ",
+          "ipa": "/əˈplaɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «applying for»: درخواست دادن برای",
+          "en": "In “applying for”: formally requesting a mortgage"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «applying for»: درخواست دادن برای",
+          "en": "In “applying for”: formally requesting a mortgage"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "mortgage",
+        "text": "mortgage",
+        "pronunciation": {
+          "faReading": "مورگِج",
+          "ipa": "/ˈmɔrɡɪdʒ/"
+        },
+        "meaning": {
+          "fa": "وام مسکن",
+          "en": "mortgage; a loan secured against property"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "for-2",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اولین",
+          "en": "first; before all the others"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "understand",
+        "text": "understand",
+        "pronunciation": {
+          "faReading": "آندِرْسْتَند",
+          "ipa": "/ˌʌndɚˈstænd/"
+        },
+        "meaning": {
+          "fa": "فهمیدن",
+          "en": "understand; know what someone means"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "process",
+        "text": "process",
+        "pronunciation": {
+          "faReading": "پْراسِس",
+          "ipa": "/ˈprɑsɛs/"
+        },
+        "meaning": {
+          "fa": "فرایند",
+          "en": "process; a sequence of steps"
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "big",
+        "text": "big",
+        "pronunciation": {
+          "faReading": "بیگ",
+          "ipa": "/bɪɡ/"
+        },
+        "meaning": {
+          "fa": "بزرگ",
+          "en": "big; large"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "step",
+        "text": "step",
+        "pronunciation": {
+          "faReading": "سْتِپ",
+          "ipa": "/stɛp/"
+        },
+        "meaning": {
+          "fa": "اقدام؛ مرحله",
+          "en": "step; an action in a process"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes a joint action"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "در «let us»: بیا با هم",
+          "en": "In “let us”: proposes a joint action"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "در «go through»: مرور کنیم",
+          "en": "In “go through”: review step by step"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "through",
+        "text": "through",
+        "pronunciation": {
+          "faReading": "ثْرو",
+          "ipa": "/θru/"
+        },
+        "meaning": {
+          "fa": "در «go through»: مرور کنیم",
+          "en": "In “go through”: review step by step"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "points",
+        "text": "points",
+        "pronunciation": {
+          "faReading": "پوینتس",
+          "ipa": "/pɔɪnts/"
+        },
+        "meaning": {
+          "fa": "نکات",
+          "en": "points; items to consider"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "That is a big step, let us go through the main points together.",
+          "translation": {
+            "fa": "قدم بزرگی است؛ بیا نکات اصلی را با هم مرور کنیم.",
+            "en": "That is a big step, let us go through the main points together."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "thing",
+        "text": "thing",
+        "pronunciation": {
+          "faReading": "ثینگ",
+          "ipa": "/θɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیز؛ کار",
+          "en": "thing; an item or action"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "prepare",
+        "text": "prepare",
+        "pronunciation": {
+          "faReading": "پْری‌پِر",
+          "ipa": "/prɪˈpɛr/"
+        },
+        "meaning": {
+          "fa": "آماده کردن",
+          "en": "prepare; make ready"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "applying-2",
+        "text": "applying",
+        "pronunciation": {
+          "faReading": "اِپلای‌اینگ",
+          "ipa": "/əˈplaɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "درخواست دادن",
+          "en": "applying; formally requesting something"
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "show",
+        "text": "show",
+        "pronunciation": {
+          "faReading": "شُو",
+          "ipa": "/ʃoʊ/"
+        },
+        "meaning": {
+          "fa": "نشان دادن",
+          "en": "show; let someone see"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "stable",
+        "text": "stable",
+        "pronunciation": {
+          "faReading": "سْتِیبِل",
+          "ipa": "/ˈsteɪbəl/"
+        },
+        "meaning": {
+          "fa": "ثابت",
+          "en": "stable; not changing much"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "income",
+        "text": "income",
+        "pronunciation": {
+          "faReading": "اینکام",
+          "ipa": "/ˈɪnkʌm/"
+        },
+        "meaning": {
+          "fa": "درآمد",
+          "en": "income; money received regularly"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "savings",
+        "text": "savings",
+        "pronunciation": {
+          "faReading": "سِیوینگْز",
+          "ipa": "/ˈseɪvɪŋz/"
+        },
+        "meaning": {
+          "fa": "پس‌انداز",
+          "en": "savings; money set aside"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "down",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+          "en": "In “down payment”: the initial part of the price paid by the buyer"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "payment",
+        "text": "payment",
+        "pronunciation": {
+          "faReading": "پِیمِنت",
+          "ipa": "/ˈpeɪmənt/"
+        },
+        "meaning": {
+          "fa": "در «down payment»: پیش‌پرداخت؛ سهم اولیهٔ خریدار",
+          "en": "In “down payment”: the initial part of the price paid by the buyer"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "clean",
+        "text": "clean",
+        "pronunciation": {
+          "faReading": "کْلین",
+          "ipa": "/klin/"
+        },
+        "meaning": {
+          "fa": "پاک؛ بدون سابقهٔ منفی اعتباری",
+          "en": "clean; free from adverse credit history, not physically washed"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "credit",
+        "text": "credit",
+        "pronunciation": {
+          "faReading": "کْرِدیت",
+          "ipa": "/ˈkrɛdɪt/"
+        },
+        "meaning": {
+          "fa": "در «credit record»: سابقهٔ اعتباری",
+          "en": "In “credit record”: a documented history of borrowing and repayment"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "record",
+        "text": "record",
+        "pronunciation": {
+          "faReading": "رِکِرد",
+          "ipa": "/ˈrɛkɚd/"
+        },
+        "meaning": {
+          "fa": "در «credit record»: سابقهٔ اعتباری",
+          "en": "In “credit record”: a documented history of borrowing and repayment"
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار از قیمت",
+          "en": "In “How much”: asks about the share of the price"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار از قیمت",
+          "en": "In “How much”: asks about the share of the price"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "house",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "خانه",
+          "en": "house; a building where people live"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "price",
+        "text": "price",
+        "pronunciation": {
+          "faReading": "پْرایس",
+          "ipa": "/praɪs/"
+        },
+        "meaning": {
+          "fa": "قیمت",
+          "en": "price; the cost of something"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "pay",
+        "text": "pay",
+        "pronunciation": {
+          "faReading": "پِی",
+          "ipa": "/peɪ/"
+        },
+        "meaning": {
+          "fa": "پرداخت کردن",
+          "en": "pay; give money for something"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "به‌عنوانِ",
+          "en": "as; in the role of"
+        },
+        "example": {
+          "text": "How much of the house price should I pay as a down payment?",
+          "translation": {
+            "fa": "چه سهمی از قیمت خانه را باید به‌عنوان پیش‌پرداخت بپردازم؟",
+            "en": "How much of the house price should I pay as a down payment?"
+          }
+        }
+      },
+      {
+        "id": "usually",
+        "text": "Usually",
+        "pronunciation": {
+          "faReading": "یوژوئِلی",
+          "ipa": "/ˈjuʒuəli/"
+        },
+        "meaning": {
+          "fa": "معمولاً",
+          "en": "usually; most of the time"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "twenty",
+        "text": "twenty",
+        "pronunciation": {
+          "faReading": "تْوِنتی",
+          "ipa": "/ˈtwɛnti/"
+        },
+        "meaning": {
+          "fa": "بیست",
+          "en": "twenty; the number 20"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "percent",
+        "text": "percent",
+        "pronunciation": {
+          "faReading": "پِرسِنت",
+          "ipa": "/pɚˈsɛnt/"
+        },
+        "meaning": {
+          "fa": "درصد",
+          "en": "percent; out of every hundred"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "rest",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "باقی مبلغ قیمت خانه",
+          "en": "rest; the remainder after the down payment"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "financed",
+        "text": "financed",
+        "pronunciation": {
+          "faReading": "فاینَنست",
+          "ipa": "/ˈfaɪnænst/"
+        },
+        "meaning": {
+          "fa": "تأمین مالی می‌شود",
+          "en": "financed; funded through a loan"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "توسطِ؛ انجام‌دهندهٔ تأمین مالی",
+          "en": "by; identifies the bank as the financing agent"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "bank",
+        "text": "bank",
+        "pronunciation": {
+          "faReading": "بَنک",
+          "ipa": "/bæŋk/"
+        },
+        "meaning": {
+          "fa": "بانک",
+          "en": "bank; a financial institution"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "over",
+        "text": "over",
+        "pronunciation": {
+          "faReading": "اُووِر",
+          "ipa": "/ˈoʊvɚ/"
+        },
+        "meaning": {
+          "fa": "طی؛ در طولِ",
+          "en": "over; across a period of time"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        }
+      },
+      {
+        "id": "monthly",
+        "text": "monthly",
+        "pronunciation": {
+          "faReading": "مانثلی",
+          "ipa": "/ˈmʌnθli/"
+        },
+        "meaning": {
+          "fa": "ماهانه",
+          "en": "monthly; occurring each month"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "payment-2",
+        "text": "payment",
+        "pronunciation": {
+          "faReading": "پِیمِنت",
+          "ipa": "/ˈpeɪmənt/"
+        },
+        "meaning": {
+          "fa": "پرداخت",
+          "en": "payment; money paid"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "does; helps ask a question"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "include",
+        "text": "include",
+        "pronunciation": {
+          "faReading": "اینکْلود",
+          "ipa": "/ɪnˈklud/"
+        },
+        "meaning": {
+          "fa": "شامل بودن",
+          "en": "include; contain as part of the total"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "insurance",
+        "text": "insurance",
+        "pronunciation": {
+          "faReading": "اینشورِنس",
+          "ipa": "/ɪnˈʃʊrəns/"
+        },
+        "meaning": {
+          "fa": "بیمه",
+          "en": "insurance; financial protection against specified risks"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "taxes",
+        "text": "taxes",
+        "pronunciation": {
+          "faReading": "تَکسِز",
+          "ipa": "/ˈtæksɪz/"
+        },
+        "meaning": {
+          "fa": "مالیات‌ها",
+          "en": "taxes; payments required by government"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "extra",
+        "text": "extra",
+        "pronunciation": {
+          "faReading": "اِکستْرا",
+          "ipa": "/ˈɛkstrə/"
+        },
+        "meaning": {
+          "fa": "اضافی؛ جدا از مبلغ اصلی",
+          "en": "extra; additional to the main amount"
+        },
+        "example": {
+          "text": "And the monthly payment, does it include insurance and taxes, or are they extra?",
+          "translation": {
+            "fa": "پرداخت ماهانه چطور؟ شامل بیمه و مالیات است یا آن‌ها اضافه‌اند؟",
+            "en": "And the monthly payment, does it include insurance and taxes, or are they extra?"
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "calculate",
+        "text": "calculate",
+        "pronunciation": {
+          "faReading": "کَلکیولِیت",
+          "ipa": "/ˈkælkjəleɪt/"
+        },
+        "meaning": {
+          "fa": "حساب کردن",
+          "en": "calculate; work out a number or cost"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; refers back to things or people already mentioned"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "separately",
+        "text": "separately",
+        "pronunciation": {
+          "faReading": "سِپِرِتلی",
+          "ipa": "/ˈsɛpərətli/"
+        },
+        "meaning": {
+          "fa": "جداگانه",
+          "en": "separately; as an additional cost or calculation"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "budget",
+        "text": "budget",
+        "pronunciation": {
+          "faReading": "باجِت",
+          "ipa": "/ˈbʌdʒət/"
+        },
+        "meaning": {
+          "fa": "بودجه‌بندی می‌کنی؛ اینجا فعل",
+          "en": "budget; plan income and expenses, a verb here"
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        }
+      },
+      {
+        "id": "what-2",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «What if»: اگر ... چه؟",
+          "en": "In “What if”: raises a hypothetical change to consider"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "در «What if»: اگر ... چه؟",
+          "en": "In “What if”: raises a hypothetical change to consider"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "interest",
+        "text": "interest",
+        "pronunciation": {
+          "faReading": "اینتْرِست",
+          "ipa": "/ˈɪntrəst/"
+        },
+        "meaning": {
+          "fa": "بهرهٔ وام",
+          "en": "interest; the cost charged for borrowing money"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "rates",
+        "text": "rates",
+        "pronunciation": {
+          "faReading": "رِیتس",
+          "ipa": "/reɪts/"
+        },
+        "meaning": {
+          "fa": "نرخ‌ها",
+          "en": "rates; percentages charged on a loan"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "change",
+        "text": "change",
+        "pronunciation": {
+          "faReading": "چِینج",
+          "ipa": "/tʃeɪndʒ/"
+        },
+        "meaning": {
+          "fa": "تغییر؛ تغییر کردن",
+          "en": "change; become different, or a difference over time"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "during",
+        "text": "during",
+        "pronunciation": {
+          "faReading": "دورینگ",
+          "ipa": "/ˈdʊrɪŋ/"
+        },
+        "meaning": {
+          "fa": "در طولِ",
+          "en": "during; throughout a period"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "loan",
+        "text": "loan",
+        "pronunciation": {
+          "faReading": "لُون",
+          "ipa": "/loʊn/"
+        },
+        "meaning": {
+          "fa": "وام",
+          "en": "loan; money borrowed and repaid over time"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "period",
+        "text": "period",
+        "pronunciation": {
+          "faReading": "پیریِد",
+          "ipa": "/ˈpɪriəd/"
+        },
+        "meaning": {
+          "fa": "دوره؛ بازهٔ زمانی",
+          "en": "period; a length of time"
+        },
+        "example": {
+          "text": "What if interest rates change during the loan period?",
+          "translation": {
+            "fa": "اگر نرخ‌های بهره در دورهٔ وام تغییر کنند چه؟",
+            "en": "What if interest rates change during the loan period?"
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "Some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an amount or number"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "loans",
+        "text": "loans",
+        "pronunciation": {
+          "faReading": "لُونز",
+          "ipa": "/loʊnz/"
+        },
+        "meaning": {
+          "fa": "وام‌ها",
+          "en": "loans; amounts borrowed and repaid"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used before another verb to connect an action to now"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "fixed",
+        "text": "fixed",
+        "pronunciation": {
+          "faReading": "فیکست",
+          "ipa": "/fɪkst/"
+        },
+        "meaning": {
+          "fa": "ثابت",
+          "en": "fixed; set and not changing"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "others",
+        "text": "others",
+        "pronunciation": {
+          "faReading": "آذِرز",
+          "ipa": "/ˈʌðɚz/"
+        },
+        "meaning": {
+          "fa": "وام‌های دیگر",
+          "en": "others; other loans, not other people"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "variable",
+        "text": "variable",
+        "pronunciation": {
+          "faReading": "وِریِبِل",
+          "ipa": "/ˈvɛriəbəl/"
+        },
+        "meaning": {
+          "fa": "متغیر",
+          "en": "variable; able to change"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "read",
+        "text": "read",
+        "pronunciation": {
+          "faReading": "رید",
+          "ipa": "/rid/"
+        },
+        "meaning": {
+          "fa": "خواندن",
+          "en": "read; understand written words"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "contract",
+        "text": "contract",
+        "pronunciation": {
+          "faReading": "کانتْرَکت",
+          "ipa": "/ˈkɑntrækt/"
+        },
+        "meaning": {
+          "fa": "قرارداد",
+          "en": "contract; a written agreement"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "carefully",
+        "text": "carefully",
+        "pronunciation": {
+          "faReading": "کِرفِلی",
+          "ipa": "/ˈkɛrfəli/"
+        },
+        "meaning": {
+          "fa": "با دقت",
+          "en": "carefully; with attention to detail"
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "Is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «Is there anything»: آیا چیزی هست؟",
+          "en": "In “Is there anything”: asks whether any relevant item exists"
+        },
+        "example": {
+          "text": "Is there anything I should avoid during the loan approval period?",
+          "translation": {
+            "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+            "en": "Is there anything I should avoid during the loan approval period?"
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در «Is there anything»: آیا چیزی هست؟",
+          "en": "In “Is there anything”: asks whether any relevant item exists"
+        },
+        "example": {
+          "text": "Is there anything I should avoid during the loan approval period?",
+          "translation": {
+            "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+            "en": "Is there anything I should avoid during the loan approval period?"
+          }
+        }
+      },
+      {
+        "id": "anything",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «Is there anything»: آیا چیزی هست؟",
+          "en": "In “Is there anything”: asks whether any relevant item exists"
+        },
+        "example": {
+          "text": "Is there anything I should avoid during the loan approval period?",
+          "translation": {
+            "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+            "en": "Is there anything I should avoid during the loan approval period?"
+          }
+        }
+      },
+      {
+        "id": "avoid",
+        "text": "avoid",
+        "pronunciation": {
+          "faReading": "اِووید",
+          "ipa": "/əˈvɔɪd/"
+        },
+        "meaning": {
+          "fa": "پرهیز کردن از",
+          "en": "avoid; keep away from"
+        },
+        "example": {
+          "text": "Is there anything I should avoid during the loan approval period?",
+          "translation": {
+            "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+            "en": "Is there anything I should avoid during the loan approval period?"
+          }
+        }
+      },
+      {
+        "id": "approval",
+        "text": "approval",
+        "pronunciation": {
+          "faReading": "اِپرووِل",
+          "ipa": "/əˈpruvəl/"
+        },
+        "meaning": {
+          "fa": "تأیید درخواست",
+          "en": "approval; official acceptance of an application"
+        },
+        "example": {
+          "text": "Is there anything I should avoid during the loan approval period?",
+          "translation": {
+            "fa": "آیا در دورهٔ بررسی و تأیید وام چیزی هست که باید از آن پرهیز کنم؟",
+            "en": "Is there anything I should avoid during the loan approval period?"
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "debts",
+        "text": "debts",
+        "pronunciation": {
+          "faReading": "دِتس",
+          "ipa": "/dɛts/"
+        },
+        "meaning": {
+          "fa": "بدهی‌ها",
+          "en": "debts; sums of money owed"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "purchases",
+        "text": "purchases",
+        "pronunciation": {
+          "faReading": "پِرچِسِز",
+          "ipa": "/ˈpɝtʃəsɪz/"
+        },
+        "meaning": {
+          "fa": "خریدها",
+          "en": "purchases; things bought or acts of buying"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "ممکن است؛ بیان امکان اثر",
+          "en": "can; expresses a potential effect, not certainty"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "affect",
+        "text": "affect",
+        "pronunciation": {
+          "faReading": "اِفِکت",
+          "ipa": "/əˈfɛkt/"
+        },
+        "meaning": {
+          "fa": "اثر گذاشتن بر",
+          "en": "affect; influence an outcome"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        }
+      },
+      {
+        "id": "important",
+        "text": "important",
+        "pronunciation": {
+          "faReading": "ایمْپورتِنت",
+          "ipa": "/ɪmˈpɔrtənt/"
+        },
+        "meaning": {
+          "fa": "مهم",
+          "en": "important; having great value"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "spending",
+        "text": "spending",
+        "pronunciation": {
+          "faReading": "سْپِندینگ",
+          "ipa": "/ˈspɛndɪŋ/"
+        },
+        "meaning": {
+          "fa": "خرج کردن",
+          "en": "spending; using money to buy things"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "habits",
+        "text": "habits",
+        "pronunciation": {
+          "faReading": "هَبِتس",
+          "ipa": "/ˈhæbɪts/"
+        },
+        "meaning": {
+          "fa": "عادت‌ها",
+          "en": "habits; regular ways of behaving"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "until",
+        "text": "until",
+        "pronunciation": {
+          "faReading": "اَنتیل",
+          "ipa": "/ənˈtɪl/"
+        },
+        "meaning": {
+          "fa": "تا؛ تا وقتی که",
+          "en": "until; up to a time or event"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "it-2",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ درخواست وام",
+          "en": "it; the mortgage application, not a purchase"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "approved",
+        "text": "approved",
+        "pronunciation": {
+          "faReading": "اِپروود",
+          "ipa": "/əˈpruvd/"
+        },
+        "meaning": {
+          "fa": "تأییدشده",
+          "en": "approved; officially accepted"
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        }
+      },
+      {
+        "id": "wise",
+        "text": "wise",
+        "pronunciation": {
+          "faReading": "وایز",
+          "ipa": "/waɪz/"
+        },
+        "meaning": {
+          "fa": "خردمندانه",
+          "en": "wise; showing sound judgment"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "pre-approval",
+        "text": "pre-approval",
+        "pronunciation": {
+          "faReading": "پْری اِپرووِل",
+          "ipa": "/ˌpriəˈpruvəl/"
+        },
+        "meaning": {
+          "fa": "تأیید اولیه",
+          "en": "pre-approval; preliminary approval before a final decision"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "house-2",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "در «house hunting»: جست‌وجوی خانه برای خرید",
+          "en": "In “house hunting”: searching for a home to buy"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "hunting",
+        "text": "hunting",
+        "pronunciation": {
+          "faReading": "هانتینگ",
+          "ipa": "/ˈhʌntɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «house hunting»: جست‌وجوی خانه برای خرید",
+          "en": "In “house hunting”: searching for a home to buy"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "gives",
+        "text": "gives",
+        "pronunciation": {
+          "faReading": "گیوز",
+          "ipa": "/ɡɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌دهد",
+          "en": "gives; provides"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "روشن؛ مشخص",
+          "en": "clear; easy to understand"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "budget-2",
+        "text": "budget",
+        "pronunciation": {
+          "faReading": "باجِت",
+          "ipa": "/ˈbʌdʒət/"
+        },
+        "meaning": {
+          "fa": "بودجه؛ برنامه‌ریزی مالی کردن",
+          "en": "budget; a spending plan, or to plan spending"
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience an emotion or impression"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "much-2",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ مقدار زیاد",
+          "en": "much; a large amount"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "confident",
+        "text": "confident",
+        "pronunciation": {
+          "faReading": "کانفِدِنت",
+          "ipa": "/ˈkɑnfɪdənt/"
+        },
+        "meaning": {
+          "fa": "بااعتمادبه‌نفس؛ مطمئن",
+          "en": "confident; sure of yourself or your decisions"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "decision",
+        "text": "decision",
+        "pronunciation": {
+          "faReading": "دیسیژِن",
+          "ipa": "/dɪˈsɪʒən/"
+        },
+        "meaning": {
+          "fa": "تصمیم",
+          "en": "decision; a choice made after consideration"
+        },
+        "example": {
+          "text": "Thank you, I feel much more confident about this important decision.",
+          "translation": {
+            "fa": "ممنون، دربارهٔ این تصمیم مهم خیلی مطمئن‌تر شده‌ام.",
+            "en": "Thank you, I feel much more confident about this important decision."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "are-2",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «take your time»: عجله نکن",
+          "en": "In “take your time”: do not rush the decision"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "your-2",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "در «take your time»: عجله نکن",
+          "en": "In “take your time”: do not rush the decision"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "در «take your time»: عجله نکن",
+          "en": "In “take your time”: do not rush the decision"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "ask",
+        "text": "ask",
+        "pronunciation": {
+          "faReading": "اَسک",
+          "ipa": "/æsk/"
+        },
+        "meaning": {
+          "fa": "پرسیدن؛ درخواست کردن",
+          "en": "ask; request information or an action"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "questions",
+        "text": "questions",
+        "pronunciation": {
+          "faReading": "کْوِسچِنز",
+          "ipa": "/ˈkwɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پرسش‌ها",
+          "en": "questions; things people ask"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "signing",
+        "text": "signing",
+        "pronunciation": {
+          "faReading": "ساینینگ",
+          "ipa": "/ˈsaɪnɪŋ/"
+        },
+        "meaning": {
+          "fa": "امضا کردن",
+          "en": "signing; writing a signature to accept terms"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      },
+      {
+        "id": "anything-2",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی؛ هر چیزی",
+          "en": "anything; any thing"
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "embedded-first-step",
+        "title": {
+          "fa": "ترتیب آمادگی و پرسش داخلی",
+          "en": "Preparation order and an embedded question"
+        },
+        "explanation": {
+          "fa": "What is the first thing I need to prepare ...? یک پرسش اصلی با بخش وابستهٔ I need to prepare است؛ that پس از thing حذف شده و thing مفعول prepare است. before applying فاعل خود را از Farzad می‌گیرد: او درخواست می‌دهد، نه فرایند یا مشاور.",
+          "en": "What is the first thing I need to prepare ...? combines a main question with a relative clause whose that is omitted after thing; thing is the object of prepare. Before applying has an understood subject supplied by Farzad, not the process or advisor."
+        },
+        "example": {
+          "text": "What is the first thing I need to prepare before applying?",
+          "translation": {
+            "fa": "اولین چیزی که باید پیش از درخواست آماده کنم چیست؟",
+            "en": "What is the first thing I need to prepare before applying?"
+          }
+        },
+        "takeaway": {
+          "fa": "فاعل پنهانِ before applying و نقش thing را از جمله بازیابی کن.",
+          "en": "Recover the subject of before applying and the object role of thing from context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ترتیب آمادگی و پرسش داخلی",
+              "en": "Preparation order and an embedded question"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the first thing I need to prepare"
+                },
+                {
+                  "text": "noun + relative clause without that"
+                },
+                {
+                  "fa": "اولین چیزی که باید آماده کنم",
+                  "en": "Thing is the object of prepare"
+                }
+              ],
+              [
+                {
+                  "text": "before applying"
+                },
+                {
+                  "text": "before + -ing"
+                },
+                {
+                  "fa": "پیش از درخواست دادن",
+                  "en": "Farzad is the understood applicant"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parallel-evidence-and-financial-senses",
+        "title": {
+          "fa": "فهرست شواهد و معنی مالی واژه‌ها",
+          "en": "Parallel evidence and financial word senses"
+        },
+        "explanation": {
+          "fa": "show بر سه گروه هم‌پایه حکومت می‌کند: stable income، savings for the down payment و a clean credit record. clean در اینجا پاکیزگی جسمی نیست، بلکه نداشتن سابقهٔ منفی اعتباری است. down payment سهم اولیهٔ خریدار و mortgage وامِ دارای وثیقهٔ ملکی است؛ هیچ‌یک با ودیعهٔ اجارهٔ درس ۱۰ یکی نیست.",
+          "en": "Show governs three parallel noun groups: stable income, savings for the down payment and a clean credit record. Clean is figurative, indicating no adverse credit history rather than physical cleanliness. Down payment is the buyer’s initial contribution; mortgage is property-secured borrowing. Neither is the rental deposit in lesson ten."
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        },
+        "takeaway": {
+          "fa": "پیش‌پرداخت خریدار، ودیعهٔ مستأجر و وام سه مفهوم متفاوت‌اند.",
+          "en": "A buyer’s down payment, a tenant’s deposit and a mortgage are distinct."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فهرست شواهد و معنی مالی واژه‌ها",
+              "en": "Parallel evidence and financial word senses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "stable income, savings for the down payment, and a clean credit record"
+                },
+                {
+                  "text": "three parallel noun groups"
+                },
+                {
+                  "fa": "درآمد، پس‌انداز و سابقهٔ اعتباری",
+                  "en": "Evidence requested in the dialogue"
+                }
+              ],
+              [
+                {
+                  "text": "for the down payment"
+                },
+                {
+                  "text": "for + purpose"
+                },
+                {
+                  "fa": "برای پیش‌پرداخت",
+                  "en": "Purpose of the savings"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "qualified-figures-and-passive",
+        "title": {
+          "fa": "اعداد مقید و تأمین مالی مجهول",
+          "en": "Qualified figures and passive financing"
+        },
+        "explanation": {
+          "fa": "Usually قید بسامد و محدودکنندهٔ ادعاست؛ ده تا بیست درصد و بیست سال فقط چارچوب نمونهٔ گفت‌وگو هستند، نه شرط تضمینی بانک‌ها. the rest بقیهٔ قیمت پس از پیش‌پرداخت است. is financed by ... بر مبلغ تأمین‌شونده تمرکز می‌کند؛ by بانک را عامل و over twenty years دوره را معرفی می‌کند.",
+          "en": "Usually qualifies the figures: ten to twenty percent and twenty years belong to the example dialogue, not guaranteed bank terms. The rest means the price remaining after the down payment. Is financed focuses on the funded amount; by names the bank and over twenty years gives the period."
+        },
+        "example": {
+          "text": "Usually ten to twenty percent, the rest is financed by the bank over twenty years.",
+          "translation": {
+            "fa": "معمولاً ده تا بیست درصد؛ بقیه را بانک طی بیست سال تأمین مالی می‌کند.",
+            "en": "Usually ten to twenty percent, the rest is financed by the bank over twenty years."
+          }
+        },
+        "takeaway": {
+          "fa": "usually را حذف نکن؛ نسبت و دورهٔ نمونه را قانون همگانی نخوان.",
+          "en": "Retain usually; do not present the sample percentage and term as universal rules."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اعداد مقید و تأمین مالی مجهول",
+              "en": "Qualified figures and passive financing"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Usually ten to twenty percent"
+                },
+                {
+                  "text": "usually + range"
+                },
+                {
+                  "fa": "معمولاً ده تا بیست درصد",
+                  "en": "Qualified example range"
+                }
+              ],
+              [
+                {
+                  "text": "the rest is financed by the bank over twenty years"
+                },
+                {
+                  "text": "passive + agent + period"
+                },
+                {
+                  "fa": "بقیه را بانک طی بیست سال تأمین می‌کند",
+                  "en": "Remainder, financing agent and term"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "payment-scope-and-budget",
+        "title": {
+          "fa": "دامنهٔ قسط و بودجهٔ کامل",
+          "en": "Payment scope and the full budget"
+        },
+        "explanation": {
+          "fa": "does it include ... or are they extra? دو احتمال دربارهٔ دامنهٔ مبلغ را می‌پرسد؛ it قسط ماهانه و they بیمه و مالیات‌اند. usually extra نیز مطلق نیست. budget در when you budget فعل است؛ a clear budget اسمِ برنامهٔ مالی است. رقم کل بدون هزینه‌های جانبی از متن به دست نمی‌آید.",
+          "en": "Does it include ... or are they extra? asks about cost scope: it is the monthly payment; they are insurance and taxes. Usually extra is qualified, not absolute. Budget is a verb in when you budget and a noun in a clear budget. The text gives no complete total including additional costs."
+        },
+        "example": {
+          "text": "They are usually extra, so calculate them separately when you budget.",
+          "translation": {
+            "fa": "معمولاً اضافه‌اند، پس وقتی بودجه‌بندی می‌کنی جداگانه حسابشان کن.",
+            "en": "They are usually extra, so calculate them separately when you budget."
+          }
+        },
+        "takeaway": {
+          "fa": "قسط نمونه را با کل هزینهٔ مالکیت یکی نگیر.",
+          "en": "Do not equate the sample payment with total ownership cost."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دامنهٔ قسط و بودجهٔ کامل",
+              "en": "Payment scope and the full budget"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "does it include insurance and taxes, or are they extra"
+                },
+                {
+                  "text": "include X or be extra?"
+                },
+                {
+                  "fa": "شامل بیمه و مالیات است یا جدا هستند؟",
+                  "en": "A question about cost scope"
+                }
+              ],
+              [
+                {
+                  "text": "calculate them separately when you budget"
+                },
+                {
+                  "text": "verb budget in a time clause"
+                },
+                {
+                  "fa": "هنگام بودجه‌بندی جدا حساب کن",
+                  "en": "Planning for additional costs"
+                }
+              ],
+              [
+                {
+                  "text": "a clear budget"
+                },
+                {
+                  "text": "adjective + noun"
+                },
+                {
+                  "fa": "بودجهٔ روشن",
+                  "en": "Budget as a noun"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rates-and-partitive-reference",
+        "title": {
+          "fa": "نرخ‌ها و ارجاع به زیرگروه‌ها",
+          "en": "Rates and reference to subsets"
+        },
+        "explanation": {
+          "fa": "Some loans ... others ... دو گروه از وام‌ها را مقابل هم می‌گذارد؛ others جای other loans است، نه افراد دیگر. fixed rates یعنی نرخ ثابت و variable یعنی قابل تغییر. از تغییر احتمالی نرخ‌های بازار نمی‌توان نتیجه گرفت همهٔ وام‌ها حتماً تغییر نرخ خواهند داشت.",
+          "en": "Some loans ... others ... contrasts loan subsets; others stands for other loans, not other people. Fixed rates stay fixed under their terms; variable rates can change. A possible market-rate change does not imply that every loan’s rate must change."
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        },
+        "takeaway": {
+          "fa": "others مرجع loans دارد؛ fixed و variable یکسان نیستند.",
+          "en": "Others refers to loans; fixed and variable are distinct."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نرخ‌ها و ارجاع به زیرگروه‌ها",
+              "en": "Rates and reference to subsets"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What if interest rates change"
+                },
+                {
+                  "text": "What if + possible condition?"
+                },
+                {
+                  "fa": "اگر نرخ بهره تغییر کند چه؟",
+                  "en": "A hypothetical concern"
+                }
+              ],
+              [
+                {
+                  "text": "Some loans have fixed rates, others are variable"
+                },
+                {
+                  "text": "some + plural noun; others"
+                },
+                {
+                  "fa": "بعضی ثابت و بعضی متغیرند",
+                  "en": "Contrast between loan types"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "potential-effect-and-avoid",
+        "title": {
+          "fa": "اثر احتمالی و دامنهٔ پرهیز",
+          "en": "Potential effects and the scope of avoidance"
+        },
+        "explanation": {
+          "fa": "anything I should avoid بند وابستهٔ بدون that دارد و should درخواست راهنمایی است. Avoid new debts or big purchases دو دستهٔ مورد پرهیز را می‌گوید. can affect امکان اثر بر تأیید را بیان می‌کند؛ رد قطعی هر درخواست پس از هر خریدی ادعا نشده است.",
+          "en": "Anything I should avoid contains a relative clause with omitted that, while should seeks guidance. Avoid new debts or big purchases names two categories. Can affect expresses a potential impact on approval, not automatic rejection after any purchase."
+        },
+        "example": {
+          "text": "Avoid new debts or big purchases, they can affect your approval.",
+          "translation": {
+            "fa": "از بدهی تازه یا خریدهای بزرگ پرهیز کن؛ می‌توانند روی تأیید درخواستت اثر بگذارند.",
+            "en": "Avoid new debts or big purchases, they can affect your approval."
+          }
+        },
+        "takeaway": {
+          "fa": "can affect احتمال اثر است، نه will reject یا تضمین رد.",
+          "en": "Can affect signals potential influence, not guaranteed rejection."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اثر احتمالی و دامنهٔ پرهیز",
+              "en": "Potential effects and the scope of avoidance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "anything I should avoid"
+                },
+                {
+                  "text": "indefinite pronoun + relative clause"
+                },
+                {
+                  "fa": "چیزی که بهتر است از آن پرهیز کنم",
+                  "en": "Asks for guidance"
+                }
+              ],
+              [
+                {
+                  "text": "Avoid new debts or big purchases"
+                },
+                {
+                  "text": "imperative + coordinated objects"
+                },
+                {
+                  "fa": "از بدهی جدید یا خرید بزرگ پرهیز کن",
+                  "en": "Two categories of caution"
+                }
+              ],
+              [
+                {
+                  "text": "they can affect your approval"
+                },
+                {
+                  "text": "can + possible effect"
+                },
+                {
+                  "fa": "ممکن است روی تأیید اثر بگذارند",
+                  "en": "Potential, not certain, consequence"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "until-approval-and-source-limit",
+        "title": {
+          "fa": "تا زمان تأیید و محدودیت پاسخ",
+          "en": "Until approval and the limits of the reply"
+        },
+        "explanation": {
+          "fa": "will not change ... until it is approved حد زمانی را با حال مجهول بیان می‌کند؛ it به درخواست وام برمی‌گردد، نه عادت‌ها. پاسخ فرزاد حفظ عادت‌های خرج‌کردن را وعده می‌دهد؛ عیناً نمی‌گوید هیچ خرید بزرگ یا بدهی تازه‌ای نخواهد داشت. پس از آن تضمین رعایت کامل توصیهٔ قبل نمی‌سازیم.",
+          "en": "Will not change ... until it is approved uses a present passive time clause for a future endpoint; it refers to the application, not the habits. Farzad promises unchanged spending habits. He does not explicitly promise no large purchases or new debts, so his wording should not be expanded into guaranteed compliance with the preceding advice."
+        },
+        "example": {
+          "text": "That is important, I will not change my spending habits until it is approved.",
+          "translation": {
+            "fa": "مهم است؛ تا وقتی تأیید نشده عادت‌های خرج‌کردنم را تغییر نمی‌دهم.",
+            "en": "That is important, I will not change my spending habits until it is approved."
+          }
+        },
+        "takeaway": {
+          "fa": "until پایان دوره را می‌دهد؛ متن پاسخ را به قول گسترده‌تر تبدیل نکن.",
+          "en": "Until sets an endpoint; do not broaden the reply into a stronger promise."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تا زمان تأیید و محدودیت پاسخ",
+              "en": "Until approval and the limits of the reply"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will not change my spending habits until it is approved"
+                },
+                {
+                  "text": "will not + action + until + present passive"
+                },
+                {
+                  "fa": "تا تأیید نشده عادت خرجم را تغییر نمی‌دهم",
+                  "en": "A future endpoint with passive present"
+                }
+              ],
+              [
+                {
+                  "text": "before house hunting"
+                },
+                {
+                  "text": "before + activity phrase"
+                },
+                {
+                  "fa": "پیش از جست‌وجوی خانه",
+                  "en": "Timing of preliminary approval"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preapproval-and-open-questions",
+        "title": {
+          "fa": "تأیید اولیه و تصمیم آگاهانه",
+          "en": "Pre-approval and an informed decision"
+        },
+        "explanation": {
+          "fa": "pre-approval تأیید مقدماتی است و با تصویب نهایی یکی نیست؛ متن آن را کمک به روشن‌شدن بودجه معرفی می‌کند. take your time یک اصطلاح برای عجله‌نکردن است. before signing anything فاعل پنهانِ you دارد و anything دامنهٔ احتیاط را باز می‌گذارد. احساس اطمینان بیشتر فرزاد تضمین تأیید یا مناسب‌بودن وام نیست.",
+          "en": "Pre-approval is preliminary rather than final approval; the dialogue presents it as clarifying the budget. Take your time idiomatically means do not rush. Before signing anything has understood subject you, and anything keeps the scope broad. Farzad’s increased confidence does not guarantee approval or suitability."
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        },
+        "takeaway": {
+          "fa": "تأیید اولیه و اطمینان ذهنی را با تأیید نهایی یکی نگیر.",
+          "en": "Distinguish preliminary approval and personal confidence from final approval."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تأیید اولیه و تصمیم آگاهانه",
+              "en": "Pre-approval and an informed decision"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "pre-approval before house hunting also gives you a clear budget"
+                },
+                {
+                  "text": "preliminary step + timing + benefit"
+                },
+                {
+                  "fa": "تأیید اولیه پیش از جست‌وجو بودجه را روشن می‌کند",
+                  "en": "Claimed planning benefit, not final approval"
+                }
+              ],
+              [
+                {
+                  "text": "take your time"
+                },
+                {
+                  "text": "idiomatic imperative"
+                },
+                {
+                  "fa": "عجله نکن",
+                  "en": "Encourages deliberation"
+                }
+              ],
+              [
+                {
+                  "text": "before signing anything"
+                },
+                {
+                  "text": "before + -ing + indefinite object"
+                },
+                {
+                  "fa": "پیش از امضای هر چیزی",
+                  "en": "Broad caution with understood subject you"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "mortgage",
+        "text": "applying for a mortgage",
+        "pronunciation": {
+          "faReading": "اِپلای‌اینگ فور اِ مورگِج",
+          "ipa": "/əˈplaɪɪŋ fɚ ə ˈmɔrɡɪdʒ/"
+        },
+        "meaning": {
+          "fa": "درخواست وام مسکن دادن",
+          "en": "Applying for a property-secured home loan"
+        },
+        "context": {
+          "fa": "فرزاد می‌خواهد فرایند درخواست را بفهمد، نه اینکه تأیید گرفته باشد.",
+          "en": "Farzad seeks to understand an application, not report approval."
+        },
+        "example": {
+          "text": "I am applying for a mortgage for my first home, and I want to understand the process.",
+          "translation": {
+            "fa": "برای خانهٔ اولم درخواست وام مسکن می‌دهم و می‌خواهم روندش را بفهمم.",
+            "en": "I am applying for a mortgage for my first home, and I want to understand the process."
+          }
+        }
+      },
+      {
+        "id": "down-payment",
+        "text": "down payment",
+        "pronunciation": {
+          "faReading": "داون پِیمِنت",
+          "ipa": "/daʊn ˈpeɪmənt/"
+        },
+        "meaning": {
+          "fa": "پیش‌پرداخت خرید",
+          "en": "The buyer’s initial payment"
+        },
+        "context": {
+          "fa": "با ودیعهٔ اجاره و کل مبلغ وام فرق دارد.",
+          "en": "Distinct from a rental deposit and the full loan."
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "credit",
+        "text": "a clean credit record",
+        "pronunciation": {
+          "faReading": "اِ کْلین کْرِدِت رِکِرد",
+          "ipa": "/ə klin ˈkrɛdɪt ˈrɛkɚd/"
+        },
+        "meaning": {
+          "fa": "سابقهٔ اعتباری پاک",
+          "en": "A credit history without adverse entries"
+        },
+        "context": {
+          "fa": "clean معنای مالی دارد، نه نظافت فیزیکی.",
+          "en": "Clean has a financial, not physical, sense."
+        },
+        "example": {
+          "text": "You need to show stable income, savings for the down payment, and a clean credit record.",
+          "translation": {
+            "fa": "باید درآمد ثابت، پس‌انداز برای پیش‌پرداخت و سابقهٔ اعتباری پاک نشان بدهی.",
+            "en": "You need to show stable income, savings for the down payment, and a clean credit record."
+          }
+        }
+      },
+      {
+        "id": "rates",
+        "text": "fixed rates",
+        "pronunciation": {
+          "faReading": "فیکست رِیتس",
+          "ipa": "/fɪkst reɪts/"
+        },
+        "meaning": {
+          "fa": "نرخ‌های ثابت",
+          "en": "Rates set to remain fixed under the loan terms"
+        },
+        "context": {
+          "fa": "با نرخ متغیر مقایسه شده؛ متن همهٔ وام‌ها را یکسان نمی‌داند.",
+          "en": "Contrasted with variable rates; loans are not treated as identical."
+        },
+        "example": {
+          "text": "Some loans have fixed rates, others are variable, so read the contract carefully.",
+          "translation": {
+            "fa": "بعضی وام‌ها نرخ ثابت دارند و بعضی متغیرند، پس قرارداد را با دقت بخوان.",
+            "en": "Some loans have fixed rates, others are variable, so read the contract carefully."
+          }
+        }
+      },
+      {
+        "id": "hunting",
+        "text": "house hunting",
+        "pronunciation": {
+          "faReading": "هاوس هانتینگ",
+          "ipa": "/haʊs ˈhʌntɪŋ/"
+        },
+        "meaning": {
+          "fa": "جست‌وجوی خانه برای خرید",
+          "en": "Searching for a home to buy"
+        },
+        "context": {
+          "fa": "پس از تأیید اولیه در ترتیب پیشنهادی متن قرار دارد.",
+          "en": "Follows pre-approval in the dialogue’s suggested sequence."
+        },
+        "example": {
+          "text": "That is wise, and pre-approval before house hunting also gives you a clear budget.",
+          "translation": {
+            "fa": "عاقلانه است؛ تأیید اولیه پیش از جست‌وجوی خانه هم بودجهٔ روشنی به تو می‌دهد.",
+            "en": "That is wise, and pre-approval before house hunting also gives you a clear budget."
+          }
+        }
+      },
+      {
+        "id": "no-rush",
+        "text": "take your time",
+        "pronunciation": {
+          "faReading": "تِیک یور تایم",
+          "ipa": "/teɪk jɚ taɪm/"
+        },
+        "meaning": {
+          "fa": "عجله نکن",
+          "en": "Do not rush"
+        },
+        "context": {
+          "fa": "تشویق به تصمیم آگاهانه است؛ نتیجهٔ وام را تضمین نمی‌کند.",
+          "en": "Encourages deliberation; it guarantees no loan outcome."
+        },
+        "example": {
+          "text": "You are welcome, take your time, and ask more questions before signing anything.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ عجله نکن و پیش از امضای هر چیزی بیشتر سؤال بپرس.",
+            "en": "You are welcome, take your time, and ask more questions before signing anything."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی گفت‌وگوی فرزاد و مشاور چیست؟",
+          "en": "What is the main aim of Farzad’s discussion with the advisor?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حل اختلاف ودیعهٔ اجاره",
+              "en": "Resolving a rental-deposit dispute"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فهم آمادگی مالی، هزینه‌ها و نکات فرایند وام خانهٔ اول",
+              "en": "Understanding financial preparation, costs and the first-home mortgage process"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انتخاب شرکت حمل اثاثیه",
+              "en": "Choosing a moving company"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "درآمد، پیش‌پرداخت، هزینهٔ جانبی، نرخ‌ها و تأیید درخواست بحث می‌شوند.",
+          "en": "They discuss income, down payment, additional costs, rates and application approval."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t06",
+          "t08",
+          "t10",
+          "t12",
+          "t14"
+        ]
+      },
+      {
+        "id": "evidence",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشاور چه سه موردی را برای آمادگی نام می‌برد؟",
+          "en": "Which three preparation items does the advisor name?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درآمد موقت، وام تازه و رسید اجاره",
+              "en": "Temporary income, new borrowing and rent receipts"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قرارداد اجاره، عکس خانه و هزینهٔ اسباب‌کشی",
+              "en": "Rental contract, house photos and moving costs"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "درآمد ثابت، پس‌انداز پیش‌پرداخت و سابقهٔ اعتباری پاک",
+              "en": "Stable income, down-payment savings and a clean credit record"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "این‌ها سه گروه هم‌پایهٔ بعد از show هستند.",
+          "en": "These are the three parallel groups following show."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "figures",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مشاور در مثال خود چه اعدادی می‌گوید؟",
+          "en": "Which figures does the advisor give in the example?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "معمولاً ده تا بیست درصد پیش‌پرداخت و تأمین بقیه طی بیست سال",
+              "en": "Usually ten to twenty percent down, with the rest financed over twenty years"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "همیشه پنج درصد پیش‌پرداخت و تأمین بقیه طی ده سال",
+              "en": "Always five percent down, with the rest financed over ten years"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "معمولاً سی درصد پیش‌پرداخت و تأمین بقیه طی پنج سال",
+              "en": "Usually thirty percent down, with the rest financed over five years"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "Usually و بازهٔ ten to twenty percent باید همراه عدد twenty years حفظ شوند؛ این‌ها شرایط تضمینی همهٔ وام‌ها نیستند.",
+          "en": "Usually and ten to twenty percent must be retained with twenty years; these are not guaranteed terms for every mortgage."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "extras",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دربارهٔ بیمه و مالیات چه توصیه‌ای مطرح می‌شود؟",
+          "en": "What advice is given about insurance and taxes?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آن‌ها را از بودجه حذف کند چون همیشه رایگان‌اند",
+              "en": "Omit them from the budget because they are always free"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آن‌ها را جدا حساب کند چون معمولاً اضافه‌اند",
+              "en": "Calculate them separately because they are usually extra"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط پس از تأیید نهایی مبلغشان را بررسی کند",
+              "en": "Consider their cost only after final approval"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "usually extra دامنهٔ ادعا را محدود می‌کند و calculate separately اقدام پیشنهادی است.",
+          "en": "Usually extra qualifies the claim; calculate separately is the proposed budgeting action."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "loan-types",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "others در others are variable به چه اشاره می‌کند؟",
+          "en": "What does others refer to in others are variable?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مشاوران دیگر با درآمد متغیر",
+              "en": "Other advisors with variable income"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خانه‌های دیگر با قیمت متغیر",
+              "en": "Other homes with variable prices"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "وام‌های دیگر با نرخ متغیر",
+              "en": "Other loans with variable rates"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "some loans مرجع others را تعیین می‌کند؛ منظور افراد دیگر نیست.",
+          "en": "Some loans establishes the reference of others; it does not refer to other people."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "scope-of-promise",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام گزینه پاسخ فرزاد دربارهٔ خرج‌کردن را بدون افزودن قول تازه بازگو می‌کند؟",
+          "en": "Which option restates Farzad’s spending reply without adding a new promise?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تا تأیید درخواست، عادت‌های خرج‌کردنش را تغییر نمی‌دهد",
+              "en": "He will not change his spending habits until the application is approved"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قول می‌دهد تا تأیید هیچ خریدی نکند",
+              "en": "He promises to make no purchases until approval"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "می‌گوید تمام بدهی‌هایش همین حالا تسویه شده‌اند",
+              "en": "He says all his debts have already been repaid"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "عین پاسخ دربارهٔ change my spending habits است؛ منع همهٔ خریدها یا تسویهٔ بدهی‌ها گفته نشده است.",
+          "en": "His actual reply concerns change my spending habits; no ban on all purchases or repayment of all debts is stated."
+        },
+        "evidenceTurnIds": [
+          "t12",
+          "t13"
+        ]
+      },
+      {
+        "id": "preapproval",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام برداشت دربارهٔ pre-approval دقیق‌تر است؟",
+          "en": "Which interpretation of pre-approval is more accurate?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "معادل تضمین تأیید نهایی همهٔ شرایط است",
+              "en": "It guarantees final approval on all terms"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مرحلهٔ اولیه‌ای است که طبق متن پیش از جست‌وجوی خانه به روشن‌شدن بودجه کمک می‌کند",
+              "en": "It is a preliminary stage that the dialogue says helps clarify the budget before house hunting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "به معنی امضای نهایی خرید خانه است",
+              "en": "It means the final home-purchase contract is signed"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پیشوند pre- مرحلهٔ قبلی را نشان می‌دهد؛ متن بودجهٔ روشن را فایده می‌داند، نه تضمین نتیجه.",
+          "en": "Pre- marks a prior stage; the dialogue gives a clearer budget as its benefit, not a guaranteed outcome."
+        },
+        "evidenceTurnIds": [
+          "t14",
+          "t16"
+        ]
+      }
+    ]
+  }
+}

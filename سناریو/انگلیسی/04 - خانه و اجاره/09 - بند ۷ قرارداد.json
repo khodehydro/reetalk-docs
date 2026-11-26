@@ -1,0 +1,4609 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s09",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "بند ۷ قرارداد",
+    "en": "Clause Seven"
+  },
+  "objective": {
+    "fa": "تحلیل بند قرارداد، الزام، اجازه و ثبت کتبی طبق ادعاهای شخصیت‌های گفت‌وگو.",
+    "en": "Analyze a contract provision, obligation, permission and written records as presented by the speakers."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+      "translation": {
+        "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+        "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+      },
+      "tokens": [
+        {
+          "surface": "There",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "clause",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rental",
+          "gloss": {
+            "fa": "مربوط به اجاره",
+            "en": "rental; relating to renting property"
+          }
+        },
+        {
+          "surface": "contract,",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "clause",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "seven,",
+          "gloss": {
+            "fa": "هفت",
+            "en": "seven; 7"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "understand",
+          "gloss": {
+            "fa": "فهمیدن",
+            "en": "understand; know what someone means"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "Let me see the contract, which clause are you referring to?",
+      "translation": {
+        "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+        "en": "Let me see the contract, which clause are you referring to?"
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بگذار",
+            "en": "let; allow the speaker to see the document"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "see",
+          "gloss": {
+            "fa": "دیدن",
+            "en": "see; meet or look at someone"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract,",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "which",
+          "gloss": {
+            "fa": "کدام",
+            "en": "which; asks someone to identify one item"
+          }
+        },
+        {
+          "surface": "clause",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "referring",
+          "gloss": {
+            "fa": "در «referring to»: اشاره کردن به",
+            "en": "In “referring to”: identifying the clause being discussed"
+          }
+        },
+        {
+          "surface": "to?",
+          "gloss": {
+            "fa": "در «referring to»: اشاره کردن به",
+            "en": "In “referring to”: identifying the clause being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+      "translation": {
+        "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+        "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+      },
+      "tokens": [
+        {
+          "surface": "Clause",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "seven,",
+          "gloss": {
+            "fa": "هفت",
+            "en": "seven; 7"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "says",
+          "gloss": {
+            "fa": "می‌گوید",
+            "en": "says; expresses in words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "landlord",
+          "gloss": {
+            "fa": "صاحب‌خانه",
+            "en": "landlord; a person renting property to a tenant"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "enter",
+          "gloss": {
+            "fa": "وارد شدن",
+            "en": "enter; go into a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "apartment",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "twenty-four",
+          "gloss": {
+            "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+            "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+          }
+        },
+        {
+          "surface": "hours",
+          "gloss": {
+            "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+            "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+          }
+        },
+        {
+          "surface": "notice.",
+          "gloss": {
+            "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+            "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "That is a standard clause, but it also protects your privacy.",
+      "translation": {
+        "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+        "en": "That is a standard clause, but it also protects your privacy."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "standard",
+          "gloss": {
+            "fa": "رایج؛ معمول",
+            "en": "standard; usual or commonly used"
+          }
+        },
+        {
+          "surface": "clause,",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "protects",
+          "gloss": {
+            "fa": "محافظت می‌کند",
+            "en": "protects; preserves from harm or depletion"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "privacy.",
+          "gloss": {
+            "fa": "حریم خصوصی",
+            "en": "privacy; freedom from unwanted intrusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "My concern is that the notice is too short in some situations.",
+      "translation": {
+        "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+        "en": "My concern is that the notice is too short in some situations."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "concern",
+          "gloss": {
+            "fa": "نگرانی",
+            "en": "concern; a matter that worries someone"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "notice",
+          "gloss": {
+            "fa": "اطلاع قبلی",
+            "en": "notice; advance notification"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "بیش از حد؛ دربارهٔ کوتاهی مهلت",
+            "en": "too; excessively, in too short"
+          }
+        },
+        {
+          "surface": "short",
+          "gloss": {
+            "fa": "کوتاه",
+            "en": "short; not long"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "مقداری؛ چند",
+            "en": "some; an amount or number"
+          }
+        },
+        {
+          "surface": "situations.",
+          "gloss": {
+            "fa": "موقعیت‌ها",
+            "en": "situations; sets of circumstances"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+      "translation": {
+        "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+        "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+      },
+      "tokens": [
+        {
+          "surface": "According",
+          "gloss": {
+            "fa": "در «According to»: طبقِ",
+            "en": "In “According to”: attributes the statement to a source"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «According to»: طبقِ",
+            "en": "In “According to”: attributes the statement to a source"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "law,",
+          "gloss": {
+            "fa": "قانون",
+            "en": "law; the legal rules invoked by a speaker"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "باید؛ الزام",
+            "en": "must; expresses a requirement"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "notice",
+          "gloss": {
+            "fa": "اطلاع قبلی",
+            "en": "notice; advance notification"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        },
+        {
+          "surface": "writing,",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "فقط",
+            "en": "just; only"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "verbal",
+          "gloss": {
+            "fa": "شفاهی؛ در این تقابل",
+            "en": "verbal; spoken rather than written in this contrast"
+          }
+        },
+        {
+          "surface": "warning.",
+          "gloss": {
+            "fa": "هشدار",
+            "en": "warning; an alert about something"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "What if I am not at home when he comes, can he enter anyway?",
+      "translation": {
+        "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+        "en": "What if I am not at home when he comes, can he enter anyway?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "در «What if»: اگر ... چه؟",
+            "en": "In “What if”: introduces a possible problem"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "در «What if»: اگر ... چه؟",
+            "en": "In “What if”: introduces a possible problem"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "home",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "comes,",
+          "gloss": {
+            "fa": "می‌آید",
+            "en": "comes; arrives"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "enter",
+          "gloss": {
+            "fa": "وارد شدن",
+            "en": "enter; go into a place"
+          }
+        },
+        {
+          "surface": "anyway?",
+          "gloss": {
+            "fa": "با این حال؛ به هر صورت",
+            "en": "anyway; despite the situation mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "No, he should only enter if you are present, or if you have given written permission.",
+      "translation": {
+        "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+        "en": "No, he should only enter if you are present, or if you have given written permission."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "باید؛ شرط ورود از نگاه سارا",
+            "en": "should; Sara states a condition for entry"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "enter",
+          "gloss": {
+            "fa": "وارد شدن",
+            "en": "enter; go into a place"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "present,",
+          "gloss": {
+            "fa": "حاضر",
+            "en": "present; physically there"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "همراه given: داده باشی",
+            "en": "have; with given, marks permission provided beforehand"
+          }
+        },
+        {
+          "surface": "given",
+          "gloss": {
+            "fa": "داده‌اید",
+            "en": "given; provided"
+          }
+        },
+        {
+          "surface": "written",
+          "gloss": {
+            "fa": "کتبی؛ نوشته‌شده",
+            "en": "written; recorded in writing"
+          }
+        },
+        {
+          "surface": "permission.",
+          "gloss": {
+            "fa": "اجازه",
+            "en": "permission; authorization to do something"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "Then I should state in writing that I must be present at any visit.",
+      "translation": {
+        "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+        "en": "Then I should state in writing that I must be present at any visit."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ نتیجه‌گیری برای اقدام خود",
+            "en": "should; Arman draws a practical conclusion"
+          }
+        },
+        {
+          "surface": "state",
+          "gloss": {
+            "fa": "صریح بیان کردن",
+            "en": "state; express formally and clearly"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        },
+        {
+          "surface": "writing",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "باید؛ الزام",
+            "en": "must; expresses a requirement"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "present",
+          "gloss": {
+            "fa": "حاضر",
+            "en": "present; physically there"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "هر؛ در هر بازدید",
+            "en": "any; every possible visit"
+          }
+        },
+        {
+          "surface": "visit.",
+          "gloss": {
+            "fa": "دیدار؛ دیدن کسی یا جایی",
+            "en": "visit; time spent seeing a person or place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+      "translation": {
+        "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+        "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "landlord",
+          "gloss": {
+            "fa": "صاحب‌خانه",
+            "en": "landlord; a person renting property to a tenant"
+          }
+        },
+        {
+          "surface": "cannot",
+          "gloss": {
+            "fa": "نمی‌تواند",
+            "en": "cannot; is unable or not permitted to"
+          }
+        },
+        {
+          "surface": "refuse",
+          "gloss": {
+            "fa": "رد کردن",
+            "en": "refuse; decline to accept"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "reasonable",
+          "gloss": {
+            "fa": "معقول؛ منصفانه",
+            "en": "reasonable; fair and not excessive"
+          }
+        },
+        {
+          "surface": "request.",
+          "gloss": {
+            "fa": "درخواست",
+            "en": "request; something formally asked for"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "arman",
+      "text": "I will send him an email and ask him to confirm in writing.",
+      "translation": {
+        "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+        "en": "I will send him an email and ask him to confirm in writing."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "فرستادن",
+            "en": "send; make something go to someone"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "email",
+          "gloss": {
+            "fa": "ایمیل؛ پست الکترونیکی",
+            "en": "email; electronic mail"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "پرسیدن؛ درخواست کردن",
+            "en": "ask; request information or an action"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "confirm",
+          "gloss": {
+            "fa": "تأیید و قطعی کردن",
+            "en": "confirm; establish that an arrangement is definite"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        },
+        {
+          "surface": "writing.",
+          "gloss": {
+            "fa": "در «in writing»: به صورت کتبی",
+            "en": "In “in writing”: in written form"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "sara",
+      "text": "That protects you, and it keeps everything clear for both sides.",
+      "translation": {
+        "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+        "en": "That protects you, and it keeps everything clear for both sides."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "protects",
+          "gloss": {
+            "fa": "محافظت می‌کند",
+            "en": "protects; preserves from harm or depletion"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "keeps",
+          "gloss": {
+            "fa": "نگه می‌دارد",
+            "en": "keeps; maintains in a state"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "clear",
+          "gloss": {
+            "fa": "روشن؛ مشخص",
+            "en": "clear; easy to understand"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "sides.",
+          "gloss": {
+            "fa": "طرف‌ها",
+            "en": "sides; parties to an agreement"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "arman",
+      "text": "Thank you, I feel better knowing exactly what the clause means.",
+      "translation": {
+        "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+        "en": "Thank you, I feel better knowing exactly what the clause means."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience an emotion or impression"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر",
+            "en": "better; more suitable or effective"
+          }
+        },
+        {
+          "surface": "knowing",
+          "gloss": {
+            "fa": "حالا که می‌دانم؛ به دلیل دانستن",
+            "en": "knowing; gives the reason for feeling better"
+          }
+        },
+        {
+          "surface": "exactly",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "clause",
+          "gloss": {
+            "fa": "بند قرارداد",
+            "en": "clause; a numbered provision in a contract"
+          }
+        },
+        {
+          "surface": "means.",
+          "gloss": {
+            "fa": "معنی می‌دهد",
+            "en": "means; has a particular meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "sara",
+      "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+        "en": "You are welcome, contracts are clearer when both sides read them carefully."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "contracts",
+          "gloss": {
+            "fa": "قراردادها",
+            "en": "contracts; written agreements"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "clearer",
+          "gloss": {
+            "fa": "روشن‌تر",
+            "en": "clearer; easier to understand"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "sides",
+          "gloss": {
+            "fa": "طرف‌ها",
+            "en": "sides; parties to an agreement"
+          }
+        },
+        {
+          "surface": "read",
+          "gloss": {
+            "fa": "خواندن",
+            "en": "read; understand written words"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; refers back to things or people already mentioned"
+          }
+        },
+        {
+          "surface": "carefully.",
+          "gloss": {
+            "fa": "با دقت",
+            "en": "carefully; with attention to detail"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "there",
+        "text": "There",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "clause",
+        "text": "clause",
+        "pronunciation": {
+          "faReading": "کْلاز",
+          "ipa": "/klɔz/"
+        },
+        "meaning": {
+          "fa": "بند قرارداد",
+          "en": "clause; a numbered provision in a contract"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "rental",
+        "text": "rental",
+        "pronunciation": {
+          "faReading": "رِنتِل",
+          "ipa": "/ˈrɛntəl/"
+        },
+        "meaning": {
+          "fa": "مربوط به اجاره",
+          "en": "rental; relating to renting property"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "contract",
+        "text": "contract",
+        "pronunciation": {
+          "faReading": "کانتْرَکت",
+          "ipa": "/ˈkɑntrækt/"
+        },
+        "meaning": {
+          "fa": "قرارداد",
+          "en": "contract; a written agreement"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "seven",
+        "text": "seven",
+        "pronunciation": {
+          "faReading": "سِوِن",
+          "ipa": "/ˈsɛvən/"
+        },
+        "meaning": {
+          "fa": "هفت",
+          "en": "seven; 7"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "understand",
+        "text": "understand",
+        "pronunciation": {
+          "faReading": "آندِرْسْتَند",
+          "ipa": "/ˌʌndɚˈstænd/"
+        },
+        "meaning": {
+          "fa": "فهمیدن",
+          "en": "understand; know what someone means"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "There is a clause in the rental contract, clause seven, I want to understand it.",
+          "translation": {
+            "fa": "در قرارداد اجاره یک بند هست، بند هفت؛ می‌خواهم آن را بفهمم.",
+            "en": "There is a clause in the rental contract, clause seven, I want to understand it."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بگذار",
+          "en": "let; allow the speaker to see the document"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "see",
+        "text": "see",
+        "pronunciation": {
+          "faReading": "سی",
+          "ipa": "/si/"
+        },
+        "meaning": {
+          "fa": "دیدن",
+          "en": "see; meet or look at someone"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "which",
+        "text": "which",
+        "pronunciation": {
+          "faReading": "ویچ",
+          "ipa": "/wɪtʃ/"
+        },
+        "meaning": {
+          "fa": "کدام",
+          "en": "which; asks someone to identify one item"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "referring",
+        "text": "referring",
+        "pronunciation": {
+          "faReading": "ریفِرینگ",
+          "ipa": "/rɪˈfɝɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «referring to»: اشاره کردن به",
+          "en": "In “referring to”: identifying the clause being discussed"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «referring to»: اشاره کردن به",
+          "en": "In “referring to”: identifying the clause being discussed"
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "says",
+        "text": "says",
+        "pronunciation": {
+          "faReading": "سِز",
+          "ipa": "/sɛz/"
+        },
+        "meaning": {
+          "fa": "می‌گوید",
+          "en": "says; expresses in words"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "landlord",
+        "text": "landlord",
+        "pronunciation": {
+          "faReading": "لَندلورد",
+          "ipa": "/ˈlændlɔrd/"
+        },
+        "meaning": {
+          "fa": "صاحب‌خانه",
+          "en": "landlord; a person renting property to a tenant"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "enter",
+        "text": "enter",
+        "pronunciation": {
+          "faReading": "اِنتِر",
+          "ipa": "/ˈɛntɚ/"
+        },
+        "meaning": {
+          "fa": "وارد شدن",
+          "en": "enter; go into a place"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "twenty-four",
+        "text": "twenty-four",
+        "pronunciation": {
+          "faReading": "تْوِنتی فور",
+          "ipa": "/ˌtwɛntiˈfɔr/"
+        },
+        "meaning": {
+          "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+          "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "hours",
+        "text": "hours",
+        "pronunciation": {
+          "faReading": "آوِرز",
+          "ipa": "/aʊrz/"
+        },
+        "meaning": {
+          "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+          "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "notice",
+        "text": "notice",
+        "pronunciation": {
+          "faReading": "نُوتِس",
+          "ipa": "/ˈnoʊtɪs/"
+        },
+        "meaning": {
+          "fa": "در «twenty-four hours notice»: بیست‌وچهار ساعت اطلاع قبلی",
+          "en": "In “twenty-four hours notice”: advance notification of twenty-four hours; source lacks possessive punctuation"
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "standard",
+        "text": "standard",
+        "pronunciation": {
+          "faReading": "سْتَندِرد",
+          "ipa": "/ˈstændɚd/"
+        },
+        "meaning": {
+          "fa": "رایج؛ معمول",
+          "en": "standard; usual or commonly used"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "protects",
+        "text": "protects",
+        "pronunciation": {
+          "faReading": "پْرِتِکتس",
+          "ipa": "/prəˈtɛkts/"
+        },
+        "meaning": {
+          "fa": "محافظت می‌کند",
+          "en": "protects; preserves from harm or depletion"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "privacy",
+        "text": "privacy",
+        "pronunciation": {
+          "faReading": "پْرایوِسی",
+          "ipa": "/ˈpraɪvəsi/"
+        },
+        "meaning": {
+          "fa": "حریم خصوصی",
+          "en": "privacy; freedom from unwanted intrusion"
+        },
+        "example": {
+          "text": "That is a standard clause, but it also protects your privacy.",
+          "translation": {
+            "fa": "این یک بند رایج است، ولی از حریم خصوصی‌ات هم محافظت می‌کند.",
+            "en": "That is a standard clause, but it also protects your privacy."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "concern",
+        "text": "concern",
+        "pronunciation": {
+          "faReading": "کِنسِرن",
+          "ipa": "/kənˈsɝn/"
+        },
+        "meaning": {
+          "fa": "نگرانی",
+          "en": "concern; a matter that worries someone"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "notice-2",
+        "text": "notice",
+        "pronunciation": {
+          "faReading": "نُوتِس",
+          "ipa": "/ˈnoʊtɪs/"
+        },
+        "meaning": {
+          "fa": "اطلاع قبلی",
+          "en": "notice; advance notification"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بیش از حد؛ دربارهٔ کوتاهی مهلت",
+          "en": "too; excessively, in too short"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "short",
+        "text": "short",
+        "pronunciation": {
+          "faReading": "شورت",
+          "ipa": "/ʃɔrt/"
+        },
+        "meaning": {
+          "fa": "کوتاه",
+          "en": "short; not long"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an amount or number"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "situations",
+        "text": "situations",
+        "pronunciation": {
+          "faReading": "سیچوئِیشنز",
+          "ipa": "/ˌsɪtʃuˈeɪʃənz/"
+        },
+        "meaning": {
+          "fa": "موقعیت‌ها",
+          "en": "situations; sets of circumstances"
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "according",
+        "text": "According",
+        "pronunciation": {
+          "faReading": "اِکوردینگ",
+          "ipa": "/əˈkɔrdɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «According to»: طبقِ",
+          "en": "In “According to”: attributes the statement to a source"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "to-3",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «According to»: طبقِ",
+          "en": "In “According to”: attributes the statement to a source"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "law",
+        "text": "law",
+        "pronunciation": {
+          "faReading": "لا",
+          "ipa": "/lɔ/"
+        },
+        "meaning": {
+          "fa": "قانون",
+          "en": "law; the legal rules invoked by a speaker"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "he",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "باید؛ الزام",
+          "en": "must; expresses a requirement"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "in-2",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در «in writing»: به صورت کتبی",
+          "en": "In “in writing”: in written form"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "writing",
+        "text": "writing",
+        "pronunciation": {
+          "faReading": "رایتینگ",
+          "ipa": "/ˈraɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «in writing»: به صورت کتبی",
+          "en": "In “in writing”: in written form"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "just; only"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "verbal",
+        "text": "verbal",
+        "pronunciation": {
+          "faReading": "وِربِل",
+          "ipa": "/ˈvɝbəl/"
+        },
+        "meaning": {
+          "fa": "شفاهی؛ در این تقابل",
+          "en": "verbal; spoken rather than written in this contrast"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "warning",
+        "text": "warning",
+        "pronunciation": {
+          "faReading": "وورنینگ",
+          "ipa": "/ˈwɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "هشدار",
+          "en": "warning; an alert about something"
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «What if»: اگر ... چه؟",
+          "en": "In “What if”: introduces a possible problem"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "در «What if»: اگر ... چه؟",
+          "en": "In “What if”: introduces a possible problem"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل یا زمان",
+          "en": "at; marks a place or time"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "comes",
+        "text": "comes",
+        "pronunciation": {
+          "faReading": "کامز",
+          "ipa": "/kʌmz/"
+        },
+        "meaning": {
+          "fa": "می‌آید",
+          "en": "comes; arrives"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "anyway",
+        "text": "anyway",
+        "pronunciation": {
+          "faReading": "اِنی‌وِی",
+          "ipa": "/ˈɛniweɪ/"
+        },
+        "meaning": {
+          "fa": "با این حال؛ به هر صورت",
+          "en": "anyway; despite the situation mentioned"
+        },
+        "example": {
+          "text": "What if I am not at home when he comes, can he enter anyway?",
+          "translation": {
+            "fa": "اگر وقتی می‌آید خانه نباشم چه؟ باز هم می‌تواند وارد شود؟",
+            "en": "What if I am not at home when he comes, can he enter anyway?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "باید؛ شرط ورود از نگاه سارا",
+          "en": "should; Sara states a condition for entry"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "if-2",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "present",
+        "text": "present",
+        "pronunciation": {
+          "faReading": "پْرِزِنت",
+          "ipa": "/ˈprɛzənt/"
+        },
+        "meaning": {
+          "fa": "حاضر",
+          "en": "present; physically there"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "همراه given: داده باشی",
+          "en": "have; with given, marks permission provided beforehand"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "given",
+        "text": "given",
+        "pronunciation": {
+          "faReading": "گیوِن",
+          "ipa": "/ˈɡɪvən/"
+        },
+        "meaning": {
+          "fa": "داده‌اید",
+          "en": "given; provided"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "written",
+        "text": "written",
+        "pronunciation": {
+          "faReading": "ریتِن",
+          "ipa": "/ˈrɪtən/"
+        },
+        "meaning": {
+          "fa": "کتبی؛ نوشته‌شده",
+          "en": "written; recorded in writing"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "permission",
+        "text": "permission",
+        "pronunciation": {
+          "faReading": "پِرمیشِن",
+          "ipa": "/pɚˈmɪʃən/"
+        },
+        "meaning": {
+          "fa": "اجازه",
+          "en": "permission; authorization to do something"
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "should-2",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ نتیجه‌گیری برای اقدام خود",
+          "en": "should; Arman draws a practical conclusion"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "state",
+        "text": "state",
+        "pronunciation": {
+          "faReading": "سْتِیت",
+          "ipa": "/steɪt/"
+        },
+        "meaning": {
+          "fa": "صریح بیان کردن",
+          "en": "state; express formally and clearly"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "any",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "هر؛ در هر بازدید",
+          "en": "any; every possible visit"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "visit",
+        "text": "visit",
+        "pronunciation": {
+          "faReading": "ویزیت",
+          "ipa": "/ˈvɪzɪt/"
+        },
+        "meaning": {
+          "fa": "دیدار؛ دیدن کسی یا جایی",
+          "en": "visit; time spent seeing a person or place"
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "cannot",
+        "text": "cannot",
+        "pronunciation": {
+          "faReading": "کَنات",
+          "ipa": "/ˈkænɑt/"
+        },
+        "meaning": {
+          "fa": "نمی‌تواند",
+          "en": "cannot; is unable or not permitted to"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "refuse",
+        "text": "refuse",
+        "pronunciation": {
+          "faReading": "ریفْیوز",
+          "ipa": "/rɪˈfjuz/"
+        },
+        "meaning": {
+          "fa": "رد کردن",
+          "en": "refuse; decline to accept"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "reasonable",
+        "text": "reasonable",
+        "pronunciation": {
+          "faReading": "ریزِنِبِل",
+          "ipa": "/ˈrizənəbəl/"
+        },
+        "meaning": {
+          "fa": "معقول؛ منصفانه",
+          "en": "reasonable; fair and not excessive"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "request",
+        "text": "request",
+        "pronunciation": {
+          "faReading": "ریکْوِست",
+          "ipa": "/rɪˈkwɛst/"
+        },
+        "meaning": {
+          "fa": "درخواست",
+          "en": "request; something formally asked for"
+        },
+        "example": {
+          "text": "That is a good idea, and the landlord cannot refuse a reasonable request.",
+          "translation": {
+            "fa": "فکر خوبی است و صاحب‌خانه نمی‌تواند درخواست معقول را رد کند.",
+            "en": "That is a good idea, and the landlord cannot refuse a reasonable request."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "send",
+        "text": "send",
+        "pronunciation": {
+          "faReading": "سِند",
+          "ipa": "/sɛnd/"
+        },
+        "meaning": {
+          "fa": "فرستادن",
+          "en": "send; make something go to someone"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "او را؛ به او",
+          "en": "him; the male person receiving an action"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "email",
+        "text": "email",
+        "pronunciation": {
+          "faReading": "ای‌مِیل",
+          "ipa": "/ˈiˌmeɪl/"
+        },
+        "meaning": {
+          "fa": "ایمیل؛ پست الکترونیکی",
+          "en": "email; electronic mail"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "ask",
+        "text": "ask",
+        "pronunciation": {
+          "faReading": "اَسک",
+          "ipa": "/æsk/"
+        },
+        "meaning": {
+          "fa": "پرسیدن؛ درخواست کردن",
+          "en": "ask; request information or an action"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "confirm",
+        "text": "confirm",
+        "pronunciation": {
+          "faReading": "کِنفِرم",
+          "ipa": "/kənˈfɝm/"
+        },
+        "meaning": {
+          "fa": "تأیید و قطعی کردن",
+          "en": "confirm; establish that an arrangement is definite"
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      },
+      {
+        "id": "keeps",
+        "text": "keeps",
+        "pronunciation": {
+          "faReading": "کیپس",
+          "ipa": "/kips/"
+        },
+        "meaning": {
+          "fa": "نگه می‌دارد",
+          "en": "keeps; maintains in a state"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "روشن؛ مشخص",
+          "en": "clear; easy to understand"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two together"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "sides",
+        "text": "sides",
+        "pronunciation": {
+          "faReading": "سایدز",
+          "ipa": "/saɪdz/"
+        },
+        "meaning": {
+          "fa": "طرف‌ها",
+          "en": "sides; parties to an agreement"
+        },
+        "example": {
+          "text": "That protects you, and it keeps everything clear for both sides.",
+          "translation": {
+            "fa": "این از تو محافظت می‌کند و همه‌چیز را برای هر دو طرف روشن نگه می‌دارد.",
+            "en": "That protects you, and it keeps everything clear for both sides."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience an emotion or impression"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر",
+          "en": "better; more suitable or effective"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "knowing",
+        "text": "knowing",
+        "pronunciation": {
+          "faReading": "نُواینگ",
+          "ipa": "/ˈnoʊɪŋ/"
+        },
+        "meaning": {
+          "fa": "حالا که می‌دانم؛ به دلیل دانستن",
+          "en": "knowing; gives the reason for feeling better"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "what-2",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "means",
+        "text": "means",
+        "pronunciation": {
+          "faReading": "مینز",
+          "ipa": "/minz/"
+        },
+        "meaning": {
+          "fa": "معنی می‌دهد",
+          "en": "means; has a particular meaning"
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "are-2",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "contracts",
+        "text": "contracts",
+        "pronunciation": {
+          "faReading": "کانتْرَکتس",
+          "ipa": "/ˈkɑntrækts/"
+        },
+        "meaning": {
+          "fa": "قراردادها",
+          "en": "contracts; written agreements"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "clearer",
+        "text": "clearer",
+        "pronunciation": {
+          "faReading": "کْلیرِر",
+          "ipa": "/ˈklɪrɚ/"
+        },
+        "meaning": {
+          "fa": "روشن‌تر",
+          "en": "clearer; easier to understand"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "read",
+        "text": "read",
+        "pronunciation": {
+          "faReading": "رید",
+          "ipa": "/rid/"
+        },
+        "meaning": {
+          "fa": "خواندن",
+          "en": "read; understand written words"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; refers back to things or people already mentioned"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      },
+      {
+        "id": "carefully",
+        "text": "carefully",
+        "pronunciation": {
+          "faReading": "کِرفِلی",
+          "ipa": "/ˈkɛrfəli/"
+        },
+        "meaning": {
+          "fa": "با دقت",
+          "en": "carefully; with attention to detail"
+        },
+        "example": {
+          "text": "You are welcome, contracts are clearer when both sides read them carefully.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ قراردادها وقتی هر دو طرف با دقت می‌خوانندشان روشن‌تر می‌شوند.",
+            "en": "You are welcome, contracts are clearer when both sides read them carefully."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "clause-and-reference",
+        "title": {
+          "fa": "بند قرارداد و ارجاع دقیق",
+          "en": "A contract clause and precise reference"
+        },
+        "explanation": {
+          "fa": "clause seven در اینجا بند هفتم قرارداد است، نه clause دستوری. which clause are you referring to? پرسش مستقیم با are you است؛ حرف اضافهٔ to در پایان می‌ماند. it says به متن بند ارجاع می‌دهد و گفتهٔ بند را از نگرانی شخصی آرمان جدا می‌کند.",
+          "en": "Clause seven is a contractual provision here, not a grammatical clause. Which clause are you referring to? is a direct question with are you; to remains at the end. It says attributes wording to the contract rather than presenting it as Arman’s personal concern."
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        },
+        "takeaway": {
+          "fa": "مرجع it و نوع clause را از بافت قرارداد تعیین کن.",
+          "en": "Identify it and the sense of clause from the contract context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بند قرارداد و ارجاع دقیق",
+              "en": "A contract clause and precise reference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "which clause are you referring to"
+                },
+                {
+                  "text": "which + noun + are you + -ing + preposition?"
+                },
+                {
+                  "fa": "به کدام بند اشاره می‌کنی؟",
+                  "en": "Direct question with a final preposition"
+                }
+              ],
+              [
+                {
+                  "text": "Clause seven, it says"
+                },
+                {
+                  "text": "named provision + it says"
+                },
+                {
+                  "fa": "بند هفت؛ می‌گوید",
+                  "en": "It refers to the provision"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "advance-notice-form",
+        "title": {
+          "fa": "اطلاع قبلی و صورت منبع",
+          "en": "Advance notice and the source form"
+        },
+        "explanation": {
+          "fa": "twenty-four hours notice مدت اطلاع پیشاپیش را می‌گوید، نه مدت حضور صاحب‌خانه. منبع بدون نشانهٔ ملکی نوشته شده؛ صورت معیار نوشتاری twenty-four hours’ notice است. همین مقدار را می‌توان با a twenty-four-hour notice بیان کرد که در آن hour مفرد است. متن منبع اصلاح نشده است.",
+          "en": "Twenty-four hours notice gives the advance notification period, not the visit’s duration. The source omits the possessive apostrophe; standard written English uses twenty-four hours’ notice. An alternative is a twenty-four-hour notice, with singular hour in the compound modifier. The source is preserved."
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        },
+        "takeaway": {
+          "fa": "مدت اطلاع را با مدت بازدید یکی نگیر.",
+          "en": "Do not confuse the notice period with the length of the visit."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اطلاع قبلی و صورت منبع",
+              "en": "Advance notice and the source form"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "with twenty-four hours notice"
+                },
+                {
+                  "text": "with + advance-notice period"
+                },
+                {
+                  "fa": "با بیست‌وچهار ساعت اطلاع قبلی",
+                  "en": "Source wording; standard: hours’ notice"
+                }
+              ],
+              [
+                {
+                  "text": "at any visit"
+                },
+                {
+                  "text": "at + any + singular noun"
+                },
+                {
+                  "fa": "در هر بازدید",
+                  "en": "Any covers every possible visit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stance-and-attribution",
+        "title": {
+          "fa": "نگرانی شخصی و نسبت‌دادن به قانون",
+          "en": "Personal concern and attributed authority"
+        },
+        "explanation": {
+          "fa": "My concern is that ... نگرانی را به شکل یک بند کامل معرفی می‌کند. According to the law منبع ادعای سارا را قانون معرفی می‌کند، اما دیالوگ کشور یا حوزهٔ قضایی را مشخص نمی‌کند. در این درس must و cannot زبان الزام و منع را آموزش می‌دهند؛ اعتبار عمومیِ آن ادعای حقوقی از متن ثابت نمی‌شود.",
+          "en": "My concern is that ... introduces the content of a personal concern. According to the law attributes Sara’s claim to legal authority, but no jurisdiction is identified. Must and cannot teach obligation and prohibition here; the dialogue does not establish universally applicable rental law."
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        },
+        "takeaway": {
+          "fa": "ادعای شخصیت دربارهٔ قانون را با حکم حقوقیِ عمومی یکی نکن.",
+          "en": "An attributed legal claim is not a universal legal ruling."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نگرانی شخصی و نسبت‌دادن به قانون",
+              "en": "Personal concern and attributed authority"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "My concern is that the notice is too short"
+                },
+                {
+                  "text": "My concern is that + clause"
+                },
+                {
+                  "fa": "نگرانی‌ام کوتاه بودن مهلت است",
+                  "en": "Content of a personal concern"
+                }
+              ],
+              [
+                {
+                  "text": "According to the law"
+                },
+                {
+                  "text": "According to + source"
+                },
+                {
+                  "fa": "طبق قانون، به گفتهٔ سارا",
+                  "en": "Attributed authority without a named jurisdiction"
+                }
+              ],
+              [
+                {
+                  "text": "he must give the notice in writing"
+                },
+                {
+                  "text": "must + action"
+                },
+                {
+                  "fa": "باید کتبی اطلاع بدهد",
+                  "en": "Obligation as stated by Sara"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "permission-and-conditions",
+        "title": {
+          "fa": "اجازه و دو شرط جایگزین",
+          "en": "Permission and alternative conditions"
+        },
+        "explanation": {
+          "fa": "can enter در پرسش آرمان دربارهٔ اجازه است، نه توان جسمی ورود. only enter if دامنهٔ ورود قابل‌قبول را محدود می‌کند. or دو شرط جایگزین را پیوند می‌دهد: حضور مستأجر یا اجازهٔ کتبی قبلی. have given ترتیب زمانی اجازه را پیش از ورود نشان می‌دهد.",
+          "en": "Can enter asks about permission rather than physical ability. Only enter if restricts acceptable entry. Or joins alternative conditions: the tenant is present, or written permission has already been given. Have given places authorization before entry."
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        },
+        "takeaway": {
+          "fa": "or در این پاسخ دو راه جایگزین می‌دهد، نه الزام به هر دو.",
+          "en": "Or supplies alternatives here, not a requirement to satisfy both."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اجازه و دو شرط جایگزین",
+              "en": "Permission and alternative conditions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "can he enter anyway"
+                },
+                {
+                  "text": "can + subject + action?"
+                },
+                {
+                  "fa": "آیا با این حال اجازهٔ ورود دارد؟",
+                  "en": "Permission question"
+                }
+              ],
+              [
+                {
+                  "text": "only enter if you are present"
+                },
+                {
+                  "text": "only + action + if + condition"
+                },
+                {
+                  "fa": "فقط در صورت حضور تو",
+                  "en": "First condition"
+                }
+              ],
+              [
+                {
+                  "text": "or if you have given written permission"
+                },
+                {
+                  "text": "or if + present perfect"
+                },
+                {
+                  "fa": "یا اگر قبلاً اجازهٔ کتبی داده باشی",
+                  "en": "Alternative prior authorization"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "must-should-cannot",
+        "title": {
+          "fa": "باید، بهتر است و نمی‌تواند",
+          "en": "Must, should and cannot"
+        },
+        "explanation": {
+          "fa": "Then I should state ... نتیجه‌گیری آرمان دربارهٔ اقدام مناسب خودش است. درون همان جمله I must be present شرط سخت‌تری برای حضور بیان می‌کند. cannot refuse ادعای سارا دربارهٔ ناتوانی حقوقی در رد درخواست است، نه ناتوانی در گفتن واژهٔ «نه». تفاوت شدت و گوینده را نگه دار.",
+          "en": "Then I should state ... is Arman’s practical conclusion about his next action. Inside it, I must be present expresses a stronger requirement about attendance. Cannot refuse is Sara’s claim about permissible conduct, not physical inability to say no. Track both modal strength and whose claim it is."
+        },
+        "example": {
+          "text": "Then I should state in writing that I must be present at any visit.",
+          "translation": {
+            "fa": "پس باید کتبی اعلام کنم که در هر بازدید باید حاضر باشم.",
+            "en": "Then I should state in writing that I must be present at any visit."
+          }
+        },
+        "takeaway": {
+          "fa": "should اقدام مناسب؛ must الزام؛ cannot منع در ادعای متن.",
+          "en": "Should suggests the appropriate action; must requires; cannot prohibits in the speaker’s claim."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "باید، بهتر است و نمی‌تواند",
+              "en": "Must, should and cannot"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Then I should state in writing"
+                },
+                {
+                  "text": "should + action"
+                },
+                {
+                  "fa": "پس بهتر است کتبی بیان کنم",
+                  "en": "Arman’s practical conclusion"
+                }
+              ],
+              [
+                {
+                  "text": "I must be present at any visit"
+                },
+                {
+                  "text": "must + be + state"
+                },
+                {
+                  "fa": "باید در هر بازدید حاضر باشم",
+                  "en": "A proposed attendance requirement"
+                }
+              ],
+              [
+                {
+                  "text": "the landlord cannot refuse a reasonable request"
+                },
+                {
+                  "text": "cannot + action"
+                },
+                {
+                  "fa": "صاحب‌خانه نمی‌تواند درخواست معقول را رد کند",
+                  "en": "Sara’s legal assertion"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "written-confirmation",
+        "title": {
+          "fa": "ثبت کتبی و درخواست تأیید",
+          "en": "Written records and confirmation requests"
+        },
+        "explanation": {
+          "fa": "state in writing و confirm in writing هر دو بر شکل ماندگار ارتباط تأکید می‌کنند، ولی state بیانِ موضع و confirm تأیید آن است. ask him to confirm الگوی ask + شخص + to + فعل است. everything clear برای هر دو طرف فایدهٔ مورد انتظار را بیان می‌کند، نه گزارش تأیید انجام‌شده.",
+          "en": "State in writing and confirm in writing both emphasize a durable record, but stating sets out a position while confirming acknowledges it. Ask him to confirm uses ask + person + to-infinitive. Keeping everything clear describes the expected benefit, not confirmation already received."
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        },
+        "takeaway": {
+          "fa": "ask someone to do something؛ نوشتن درخواست با دریافت تأیید یکی نیست.",
+          "en": "Ask someone to do something; requesting confirmation is not receiving it."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ثبت کتبی و درخواست تأیید",
+              "en": "Written records and confirmation requests"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "ask him to confirm in writing"
+                },
+                {
+                  "text": "ask + person + to + action"
+                },
+                {
+                  "fa": "از او بخواهم کتبی تأیید کند",
+                  "en": "Request for an action"
+                }
+              ],
+              [
+                {
+                  "text": "it keeps everything clear for both sides"
+                },
+                {
+                  "text": "keep + object + adjective"
+                },
+                {
+                  "fa": "همه‌چیز را برای هر دو طرف روشن نگه می‌دارد",
+                  "en": "Expected benefit of documentation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "embedded-meaning-and-reason",
+        "title": {
+          "fa": "پرسش داخلی و دلیل احساس بهتر",
+          "en": "Embedded meaning and a reason for relief"
+        },
+        "explanation": {
+          "fa": "knowing exactly what the clause means دلیل احساس بهتر را می‌دهد. what the clause means ترتیب خبری دارد؛ در سؤال مستقل What does the clause mean? به does نیاز بود. clearer when ... مقایسه را به یک وضعیت مشروط پیوند می‌دهد: خواندن دقیق هر دو طرف؛ «شفافیت خودکار همهٔ قراردادها» نتیجه نمی‌شود.",
+          "en": "Knowing exactly what the clause means gives the reason for relief. What the clause means has statement order; the direct question would use What does the clause mean? Clearer when ... links comparative clarity to careful reading by both sides, not automatic clarity of all contracts."
+        },
+        "example": {
+          "text": "Thank you, I feel better knowing exactly what the clause means.",
+          "translation": {
+            "fa": "ممنون، حالا که دقیقاً می‌دانم آن بند چه معنی دارد احساس بهتری دارم.",
+            "en": "Thank you, I feel better knowing exactly what the clause means."
+          }
+        },
+        "takeaway": {
+          "fa": "در پرسش داخلی does اضافه نکن؛ means در جای خبری می‌ماند.",
+          "en": "Do not add does inside the embedded question; means stays in statement order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسش داخلی و دلیل احساس بهتر",
+              "en": "Embedded meaning and a reason for relief"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "knowing exactly what the clause means"
+                },
+                {
+                  "text": "knowing + embedded wh-clause"
+                },
+                {
+                  "fa": "حالا که دقیقاً معنی بند را می‌دانم",
+                  "en": "Reason for feeling better"
+                }
+              ],
+              [
+                {
+                  "text": "contracts are clearer when both sides read them carefully"
+                },
+                {
+                  "text": "comparative + when-clause"
+                },
+                {
+                  "fa": "قراردادها با خواندن دقیق روشن‌ترند",
+                  "en": "A context-dependent comparison"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "reference",
+        "text": "which clause are you referring to",
+        "pronunciation": {
+          "faReading": "ویچ کْلاز آر یو ریفِرینگ تو",
+          "ipa": "/wɪtʃ klɔz ɑr ju rɪˈfɝɪŋ tu/"
+        },
+        "meaning": {
+          "fa": "به کدام بند اشاره می‌کنی؟",
+          "en": "Which contract provision do you mean?"
+        },
+        "context": {
+          "fa": "سارا مرجع دقیق پرسش را روشن می‌کند.",
+          "en": "Sara clarifies the exact provision."
+        },
+        "example": {
+          "text": "Let me see the contract, which clause are you referring to?",
+          "translation": {
+            "fa": "بگذار قرارداد را ببینم؛ به کدام بند اشاره می‌کنی؟",
+            "en": "Let me see the contract, which clause are you referring to?"
+          }
+        }
+      },
+      {
+        "id": "notice",
+        "text": "with twenty-four hours notice",
+        "pronunciation": {
+          "faReading": "ویذ تْوِنتی فور آوِرز نُوتِس",
+          "ipa": "/wɪð ˌtwɛntiˈfɔr ˈaʊɚz ˈnoʊtɪs/"
+        },
+        "meaning": {
+          "fa": "با بیست‌وچهار ساعت اطلاع قبلی",
+          "en": "With twenty-four hours’ advance notice"
+        },
+        "context": {
+          "fa": "منبع بدون آپاستروف حفظ شده؛ مدت اطلاع است نه بازدید.",
+          "en": "Source punctuation is retained; this is advance notice, not visit length."
+        },
+        "example": {
+          "text": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice.",
+          "translation": {
+            "fa": "بند هفت؛ می‌گوید صاحب‌خانه می‌تواند با بیست‌وچهار ساعت اطلاع قبلی وارد آپارتمان شود.",
+            "en": "Clause seven, it says the landlord can enter the apartment with twenty-four hours notice."
+          }
+        }
+      },
+      {
+        "id": "concern",
+        "text": "My concern is that",
+        "pronunciation": {
+          "faReading": "مای کِنسِرن ایز ذَت",
+          "ipa": "/maɪ kənˈsɝn ɪz ðæt/"
+        },
+        "meaning": {
+          "fa": "نگرانی من این است که",
+          "en": "My concern is that"
+        },
+        "context": {
+          "fa": "آرمان محتوای نگرانی‌اش را معرفی می‌کند.",
+          "en": "Arman introduces the content of his concern."
+        },
+        "example": {
+          "text": "My concern is that the notice is too short in some situations.",
+          "translation": {
+            "fa": "نگرانی من این است که در بعضی موقعیت‌ها این مهلت اطلاع خیلی کوتاه است.",
+            "en": "My concern is that the notice is too short in some situations."
+          }
+        }
+      },
+      {
+        "id": "writing",
+        "text": "in writing",
+        "pronunciation": {
+          "faReading": "این رایتینگ",
+          "ipa": "/ɪn ˈraɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "به‌صورت کتبی",
+          "en": "In written form"
+        },
+        "context": {
+          "fa": "شکل اطلاع‌رسانی در ادعای سارا را مشخص می‌کند.",
+          "en": "Specifies the form of notice in Sara’s claim."
+        },
+        "example": {
+          "text": "According to the law, he must give the notice in writing, not just a verbal warning.",
+          "translation": {
+            "fa": "طبق قانون، باید اطلاع را کتبی بدهد، نه فقط هشدار شفاهی.",
+            "en": "According to the law, he must give the notice in writing, not just a verbal warning."
+          }
+        }
+      },
+      {
+        "id": "permission",
+        "text": "written permission",
+        "pronunciation": {
+          "faReading": "ریتِن پِرمیشِن",
+          "ipa": "/ˈrɪtən pɚˈmɪʃən/"
+        },
+        "meaning": {
+          "fa": "اجازهٔ کتبی",
+          "en": "Written authorization"
+        },
+        "context": {
+          "fa": "یکی از دو شرط ورود در پاسخ سارا است؛ قانون عمومی تأیید نمی‌شود.",
+          "en": "One of Sara’s stated entry conditions, not verified universal law."
+        },
+        "example": {
+          "text": "No, he should only enter if you are present, or if you have given written permission.",
+          "translation": {
+            "fa": "نه، فقط اگر تو حاضر باشی یا اجازهٔ کتبی داده باشی باید وارد شود.",
+            "en": "No, he should only enter if you are present, or if you have given written permission."
+          }
+        }
+      },
+      {
+        "id": "confirmation",
+        "text": "confirm in writing",
+        "pronunciation": {
+          "faReading": "کِنفِرم این رایتینگ",
+          "ipa": "/kənˈfɝm ɪn ˈraɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "کتبی تأیید کردن",
+          "en": "Confirm in written form"
+        },
+        "context": {
+          "fa": "آرمان می‌خواهد درخواستش ثبت و تأیید شود؛ پاسخی دریافت نکرده است.",
+          "en": "Arman seeks documented confirmation; none has been received yet."
+        },
+        "example": {
+          "text": "I will send him an email and ask him to confirm in writing.",
+          "translation": {
+            "fa": "برای او ایمیل می‌فرستم و از او می‌خواهم کتبی تأیید کند.",
+            "en": "I will send him an email and ask him to confirm in writing."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان در این مکالمه دنبال چیست؟",
+          "en": "What is Arman trying to achieve?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کاهش اجاره با قرارداد تازه",
+              "en": "Reducing rent through a new contract"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "روشن‌کردن شرایط ورود صاحب‌خانه و ثبت کتبی آن‌ها",
+              "en": "Clarifying landlord entry conditions and documenting them"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "لغو فوری همهٔ بندهای قرارداد",
+              "en": "Immediately canceling every contract clause"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او دربارهٔ بند هفت، اطلاع، حضور و تأیید کتبی می‌پرسد.",
+          "en": "He asks about clause seven, notice, presence and written confirmation."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t07",
+          "t09",
+          "t11"
+        ]
+      },
+      {
+        "id": "notice-period",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بند هفت در روایت آرمان چه مدت اطلاع قبلی را ذکر می‌کند؟",
+          "en": "What advance-notice period does Arman report in clause seven?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دوازده ساعت",
+              "en": "Twelve hours"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چهل‌وهشت ساعت",
+              "en": "Forty-eight hours"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیست‌وچهار ساعت",
+              "en": "Twenty-four hours"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "twenty-four hours notice مدت اطلاع پیش از ورود است، نه طول بازدید.",
+          "en": "Twenty-four hours notice is the period before entry, not the visit duration."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "written-notice",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "طبق گفتهٔ سارا، اطلاع باید چه شکلی باشد؟",
+          "en": "According to Sara, what form must the notice take?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کتبی، نه فقط شفاهی",
+              "en": "Written, not merely spoken"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط تماس تلفنی",
+              "en": "A phone call only"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط پیام به همسایه",
+              "en": "A message to the neighbor only"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا in writing را در برابر verbal warning می‌گذارد؛ این پاسخ گزارش حرف اوست.",
+          "en": "Sara contrasts in writing with a verbal warning; this reports her statement."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "entry-alternatives",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام گزینه پاسخ سارا دربارهٔ شرط ورود را دقیق‌تر بازگو می‌کند؟",
+          "en": "Which option most accurately restates Sara’s entry conditions?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حضور همسایه یا اجازهٔ شفاهی مدیر",
+              "en": "The neighbor’s presence or the manager’s verbal consent"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حضور مستأجر یا اجازهٔ کتبی قبلی او",
+              "en": "The tenant’s presence or the tenant’s prior written permission"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حضور صاحب‌خانه و پرداخت اجاره",
+              "en": "The landlord’s presence and payment of rent"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "or دو شرط جایگزین را پیوند می‌دهد؛ پاسخ فقط بازگویی دیدگاه سارا است.",
+          "en": "Or links alternative conditions; the answer restates Sara’s view only."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "confirmation-status",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان در پایان چه کاری را برنامه‌ریزی می‌کند؟",
+          "en": "What action does Arman plan toward the end?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "رد همهٔ درخواست‌های صاحب‌خانه",
+              "en": "Rejecting all landlord requests"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پاسخ دادن به تأیید دریافت‌شده",
+              "en": "Replying to a confirmation already received"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فرستادن ایمیل و درخواست تأیید کتبی",
+              "en": "Sending an email and asking for written confirmation"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "will send و ask ... to confirm برنامه‌اند؛ دریافت تأیید در متن نیست.",
+          "en": "Will send and ask ... to confirm are plans; receipt of confirmation is not reported."
+        },
+        "evidenceTurnIds": [
+          "t11"
+        ]
+      },
+      {
+        "id": "legal-scope",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "از نظر دامنهٔ اطلاعات، کدام برداشت دقیق است؟",
+          "en": "Which interpretation respects the scope of the information?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سارا ادعاهای حقوقی می‌کند ولی حوزهٔ قضایی مشخص نشده است",
+              "en": "Sara makes legal claims, but no jurisdiction is identified"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قانون نقل‌شده برای همهٔ کشورها تأیید شده است",
+              "en": "The stated law is verified for every country"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بند هفت مدت بازدید را به یک روز محدود می‌کند",
+              "en": "Clause seven limits visit length to one day"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "متن از law نام می‌برد ولی محل قانون را تعیین نمی‌کند؛ مدت notice هم مدت بازدید نیست.",
+          "en": "The dialogue invokes law without identifying its jurisdiction; the notice period is not visit length."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t06",
+          "t08"
+        ]
+      }
+    ]
+  }
+}

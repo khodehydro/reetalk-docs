@@ -1,0 +1,3329 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s04",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "مبل برای خانه جدید",
+    "en": "A Sofa for the New Home"
+  },
+  "objective": {
+    "fa": "مقایسهٔ اندازه، جنس و قیمت مبل و توضیح دلیل انتخاب.",
+    "en": "Compare sofa size, material and price, and explain a choice."
+  },
+  "speakers": [
+    {
+      "id": "sina",
+      "name": "Sina",
+      "gender": "man"
+    },
+    {
+      "id": "laila",
+      "name": "Laila",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sina",
+      "text": "We need a new sofa for the new house, what do you suggest?",
+      "translation": {
+        "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+        "en": "We need a new sofa for the new house, what do you suggest?"
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "sofa",
+          "gloss": {
+            "fa": "مبل",
+            "en": "sofa; a padded seat for several people"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "house,",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "suggest?",
+          "gloss": {
+            "fa": "پیشنهاد کردن",
+            "en": "suggest; offer an idea"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "laila",
+      "text": "A gray fabric sofa would fit your living room well.",
+      "translation": {
+        "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+        "en": "A gray fabric sofa would fit your living room well."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "gray",
+          "gloss": {
+            "fa": "خاکستری",
+            "en": "gray; a color between black and white"
+          }
+        },
+        {
+          "surface": "fabric",
+          "gloss": {
+            "fa": "پارچه؛ پارچه‌ای",
+            "en": "fabric; cloth, or made of cloth"
+          }
+        },
+        {
+          "surface": "sofa",
+          "gloss": {
+            "fa": "مبل",
+            "en": "sofa; a padded seat for several people"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "برای پیشنهاد؛ به نظرم می‌آید",
+            "en": "would; makes the sofa suggestion less definite"
+          }
+        },
+        {
+          "surface": "fit",
+          "gloss": {
+            "fa": "به فضا می‌آید؛ مناسب است",
+            "en": "fit; suit the room"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "room",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "well.",
+          "gloss": {
+            "fa": "خوب؛ به‌خوبی",
+            "en": "well; in a good way"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sina",
+      "text": "Do you think a large sofa or a smaller one is better for us?",
+      "translation": {
+        "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+        "en": "Do you think a large sofa or a smaller one is better for us?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "large",
+          "gloss": {
+            "fa": "بزرگ",
+            "en": "large; big in size"
+          }
+        },
+        {
+          "surface": "sofa",
+          "gloss": {
+            "fa": "مبل",
+            "en": "sofa; a padded seat for several people"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "smaller",
+          "gloss": {
+            "fa": "کوچک‌تر",
+            "en": "smaller; less large"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی؛ اینجا یک مبل",
+            "en": "one; a sofa, avoiding repetition"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر",
+            "en": "better; more suitable or effective"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "us?",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "laila",
+      "text": "Since your living room is medium size, a three-seater is enough.",
+      "translation": {
+        "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+        "en": "Since your living room is medium size, a three-seater is enough."
+      },
+      "tokens": [
+        {
+          "surface": "Since",
+          "gloss": {
+            "fa": "چون؛ از آنجا که",
+            "en": "since; because"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "room",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "medium",
+          "gloss": {
+            "fa": "متوسط",
+            "en": "medium; neither large nor small"
+          }
+        },
+        {
+          "surface": "size,",
+          "gloss": {
+            "fa": "اندازه",
+            "en": "size; how large something is"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "three-seater",
+          "gloss": {
+            "fa": "سه‌نفره",
+            "en": "three-seater; a sofa seating three people"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "enough.",
+          "gloss": {
+            "fa": "کافی",
+            "en": "enough; as much as needed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sina",
+      "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+      "translation": {
+        "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+        "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "در «What about»: دربارهٔ ... چطور؟",
+            "en": "In “What about”: asks about another consideration"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "در «What about»: دربارهٔ ... چطور؟",
+            "en": "In “What about”: asks about another consideration"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "price,",
+          "gloss": {
+            "fa": "قیمت",
+            "en": "price; the cost of something"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "fabric",
+          "gloss": {
+            "fa": "پارچه؛ پارچه‌ای",
+            "en": "fabric; cloth, or made of cloth"
+          }
+        },
+        {
+          "surface": "sofa",
+          "gloss": {
+            "fa": "مبل",
+            "en": "sofa; a padded seat for several people"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "expensive",
+          "gloss": {
+            "fa": "گران",
+            "en": "expensive; costing much money"
+          }
+        },
+        {
+          "surface": "than",
+          "gloss": {
+            "fa": "از؛ در مقایسه",
+            "en": "than; introduces the second part of a comparison"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "leather",
+          "gloss": {
+            "fa": "چرم؛ چرمی",
+            "en": "leather; material made from animal skin"
+          }
+        },
+        {
+          "surface": "one?",
+          "gloss": {
+            "fa": "یکی؛ اینجا یک مبل",
+            "en": "one; a sofa, avoiding repetition"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "laila",
+      "text": "Usually fabric is more affordable, and it is easier to clean too.",
+      "translation": {
+        "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+        "en": "Usually fabric is more affordable, and it is easier to clean too."
+      },
+      "tokens": [
+        {
+          "surface": "Usually",
+          "gloss": {
+            "fa": "معمولاً",
+            "en": "usually; most of the time"
+          }
+        },
+        {
+          "surface": "fabric",
+          "gloss": {
+            "fa": "پارچه؛ پارچه‌ای",
+            "en": "fabric; cloth, or made of cloth"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "در «more affordable»: مقرون‌به‌صرفه‌تر",
+            "en": "In “more affordable”: less costly"
+          }
+        },
+        {
+          "surface": "affordable,",
+          "gloss": {
+            "fa": "در «more affordable»: مقرون‌به‌صرفه‌تر",
+            "en": "In “more affordable”: less costly"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "easier",
+          "gloss": {
+            "fa": "آسان‌تر",
+            "en": "easier; less difficult"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "clean",
+          "gloss": {
+            "fa": "تمیز کردن",
+            "en": "clean; remove dirt"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sina",
+      "text": "That matters, we have a little child who will jump on it.",
+      "translation": {
+        "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+        "en": "That matters, we have a little child who will jump on it."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "matters,",
+          "gloss": {
+            "fa": "اهمیت دارد",
+            "en": "matters; is important"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used before another verb to connect an action to now"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "little",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "little; small"
+          }
+        },
+        {
+          "surface": "child",
+          "gloss": {
+            "fa": "کودک",
+            "en": "child; a young person"
+          }
+        },
+        {
+          "surface": "who",
+          "gloss": {
+            "fa": "که؛ برای توضیح بیشتر دربارهٔ شخص",
+            "en": "who; introduces more information about a person"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "jump",
+          "gloss": {
+            "fa": "پریدن",
+            "en": "jump; push off a surface into the air"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "laila",
+      "text": "Then a durable fabric in a light color with removable covers is ideal.",
+      "translation": {
+        "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+        "en": "Then a durable fabric in a light color with removable covers is ideal."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "durable",
+          "gloss": {
+            "fa": "بادوام",
+            "en": "durable; able to withstand use"
+          }
+        },
+        {
+          "surface": "fabric",
+          "gloss": {
+            "fa": "پارچه؛ پارچه‌ای",
+            "en": "fabric; cloth, or made of cloth"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "light",
+          "gloss": {
+            "fa": "روشن؛ دربارهٔ رنگ",
+            "en": "light; pale in color"
+          }
+        },
+        {
+          "surface": "color",
+          "gloss": {
+            "fa": "رنگ",
+            "en": "color; visual appearance such as gray"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "removable",
+          "gloss": {
+            "fa": "قابل جداکردن",
+            "en": "removable; able to be taken off"
+          }
+        },
+        {
+          "surface": "covers",
+          "gloss": {
+            "fa": "روکش‌ها",
+            "en": "covers; protective fabric layers"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "ideal.",
+          "gloss": {
+            "fa": "ایده‌آل؛ بسیار مناسب",
+            "en": "ideal; very suitable"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "sina",
+      "text": "That is exactly what I need, where can we buy one of good quality?",
+      "translation": {
+        "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+        "en": "That is exactly what I need, where can we buy one of good quality?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "exactly",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "need,",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "کجا",
+            "en": "where; asking about place"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "buy",
+          "gloss": {
+            "fa": "خریدن",
+            "en": "buy; obtain by paying"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی؛ اینجا یک مبل",
+            "en": "one; a sofa, avoiding repetition"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "quality?",
+          "gloss": {
+            "fa": "کیفیت",
+            "en": "quality; how well something is made"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "laila",
+      "text": "There is a furniture store near the market with good prices.",
+      "translation": {
+        "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+        "en": "There is a furniture store near the market with good prices."
+      },
+      "tokens": [
+        {
+          "surface": "There",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "furniture",
+          "gloss": {
+            "fa": "مبلمان",
+            "en": "furniture; items such as sofas and tables"
+          }
+        },
+        {
+          "surface": "store",
+          "gloss": {
+            "fa": "فروشگاه",
+            "en": "store; a shop"
+          }
+        },
+        {
+          "surface": "near",
+          "gloss": {
+            "fa": "نزدیکِ",
+            "en": "near; not far from"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "market",
+          "gloss": {
+            "fa": "بازار",
+            "en": "market; a place to buy things"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "prices.",
+          "gloss": {
+            "fa": "قیمت‌ها",
+            "en": "prices; amounts charged"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "we",
+        "text": "We",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "sofa",
+        "text": "sofa",
+        "pronunciation": {
+          "faReading": "سُوفا",
+          "ipa": "/ˈsoʊfə/"
+        },
+        "meaning": {
+          "fa": "مبل",
+          "en": "sofa; a padded seat for several people"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "house",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "خانه",
+          "en": "house; a building where people live"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "suggest",
+        "text": "suggest",
+        "pronunciation": {
+          "faReading": "سِجِست",
+          "ipa": "/səˈdʒɛst/"
+        },
+        "meaning": {
+          "fa": "پیشنهاد کردن",
+          "en": "suggest; offer an idea"
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "gray",
+        "text": "gray",
+        "pronunciation": {
+          "faReading": "گْرِی",
+          "ipa": "/ɡreɪ/"
+        },
+        "meaning": {
+          "fa": "خاکستری",
+          "en": "gray; a color between black and white"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "fabric",
+        "text": "fabric",
+        "pronunciation": {
+          "faReading": "فَبْریک",
+          "ipa": "/ˈfæbrɪk/"
+        },
+        "meaning": {
+          "fa": "پارچه؛ پارچه‌ای",
+          "en": "fabric; cloth, or made of cloth"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "برای پیشنهاد؛ به نظرم می‌آید",
+          "en": "would; makes the sofa suggestion less definite"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "fit",
+        "text": "fit",
+        "pronunciation": {
+          "faReading": "فیت",
+          "ipa": "/fɪt/"
+        },
+        "meaning": {
+          "fa": "به فضا می‌آید؛ مناسب است",
+          "en": "fit; suit the room"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "room",
+        "text": "room",
+        "pronunciation": {
+          "faReading": "روم",
+          "ipa": "/rum/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "خوب؛ به‌خوبی",
+          "en": "well; in a good way"
+        },
+        "example": {
+          "text": "A gray fabric sofa would fit your living room well.",
+          "translation": {
+            "fa": "یک مبل پارچه‌ای خاکستری به نشیمنت خیلی می‌آید.",
+            "en": "A gray fabric sofa would fit your living room well."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "large",
+        "text": "large",
+        "pronunciation": {
+          "faReading": "لارج",
+          "ipa": "/lɑrdʒ/"
+        },
+        "meaning": {
+          "fa": "بزرگ",
+          "en": "large; big in size"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "smaller",
+        "text": "smaller",
+        "pronunciation": {
+          "faReading": "سْمالِر",
+          "ipa": "/ˈsmɔlɚ/"
+        },
+        "meaning": {
+          "fa": "کوچک‌تر",
+          "en": "smaller; less large"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یکی؛ اینجا یک مبل",
+          "en": "one; a sofa, avoiding repetition"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر",
+          "en": "better; more suitable or effective"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Do you think a large sofa or a smaller one is better for us?",
+          "translation": {
+            "fa": "به نظرت یک مبل بزرگ برایمان بهتر است یا یک مبل کوچک‌تر؟",
+            "en": "Do you think a large sofa or a smaller one is better for us?"
+          }
+        }
+      },
+      {
+        "id": "since",
+        "text": "Since",
+        "pronunciation": {
+          "faReading": "سینس",
+          "ipa": "/sɪns/"
+        },
+        "meaning": {
+          "fa": "چون؛ از آنجا که",
+          "en": "since; because"
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "medium",
+        "text": "medium",
+        "pronunciation": {
+          "faReading": "میدیِم",
+          "ipa": "/ˈmidiəm/"
+        },
+        "meaning": {
+          "fa": "متوسط",
+          "en": "medium; neither large nor small"
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "size",
+        "text": "size",
+        "pronunciation": {
+          "faReading": "سایز",
+          "ipa": "/saɪz/"
+        },
+        "meaning": {
+          "fa": "اندازه",
+          "en": "size; how large something is"
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "three-seater",
+        "text": "three-seater",
+        "pronunciation": {
+          "faReading": "ثْری سیتِر",
+          "ipa": "/ˌθriˈsitɚ/"
+        },
+        "meaning": {
+          "fa": "سه‌نفره",
+          "en": "three-seater; a sofa seating three people"
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "enough",
+        "text": "enough",
+        "pronunciation": {
+          "faReading": "ایناف",
+          "ipa": "/ɪˈnʌf/"
+        },
+        "meaning": {
+          "fa": "کافی",
+          "en": "enough; as much as needed"
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "what-2",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «What about»: دربارهٔ ... چطور؟",
+          "en": "In “What about”: asks about another consideration"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "در «What about»: دربارهٔ ... چطور؟",
+          "en": "In “What about”: asks about another consideration"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "price",
+        "text": "price",
+        "pronunciation": {
+          "faReading": "پْرایس",
+          "ipa": "/praɪs/"
+        },
+        "meaning": {
+          "fa": "قیمت",
+          "en": "price; the cost of something"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "expensive",
+        "text": "expensive",
+        "pronunciation": {
+          "faReading": "ایکسپِنسیو",
+          "ipa": "/ɪkˈspɛnsɪv/"
+        },
+        "meaning": {
+          "fa": "گران",
+          "en": "expensive; costing much money"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "than",
+        "text": "than",
+        "pronunciation": {
+          "faReading": "ذَن",
+          "ipa": "/ðæn/"
+        },
+        "meaning": {
+          "fa": "از؛ در مقایسه",
+          "en": "than; introduces the second part of a comparison"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "leather",
+        "text": "leather",
+        "pronunciation": {
+          "faReading": "لِذِر",
+          "ipa": "/ˈlɛðɚ/"
+        },
+        "meaning": {
+          "fa": "چرم؛ چرمی",
+          "en": "leather; material made from animal skin"
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "usually",
+        "text": "Usually",
+        "pronunciation": {
+          "faReading": "یوژوئِلی",
+          "ipa": "/ˈjuʒuəli/"
+        },
+        "meaning": {
+          "fa": "معمولاً",
+          "en": "usually; most of the time"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "more-2",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "در «more affordable»: مقرون‌به‌صرفه‌تر",
+          "en": "In “more affordable”: less costly"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "affordable",
+        "text": "affordable",
+        "pronunciation": {
+          "faReading": "اِفوردِبِل",
+          "ipa": "/əˈfɔrdəbəl/"
+        },
+        "meaning": {
+          "fa": "در «more affordable»: مقرون‌به‌صرفه‌تر",
+          "en": "In “more affordable”: less costly"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "easier",
+        "text": "easier",
+        "pronunciation": {
+          "faReading": "ایزیِر",
+          "ipa": "/ˈiziɚ/"
+        },
+        "meaning": {
+          "fa": "آسان‌تر",
+          "en": "easier; less difficult"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "clean",
+        "text": "clean",
+        "pronunciation": {
+          "faReading": "کْلین",
+          "ipa": "/klin/"
+        },
+        "meaning": {
+          "fa": "تمیز کردن",
+          "en": "clean; remove dirt"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "matters",
+        "text": "matters",
+        "pronunciation": {
+          "faReading": "مَتِرز",
+          "ipa": "/ˈmætɚz/"
+        },
+        "meaning": {
+          "fa": "اهمیت دارد",
+          "en": "matters; is important"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used before another verb to connect an action to now"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "little",
+        "text": "little",
+        "pronunciation": {
+          "faReading": "لیتِل",
+          "ipa": "/ˈlɪtəl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "little; small"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "child",
+        "text": "child",
+        "pronunciation": {
+          "faReading": "چایلد",
+          "ipa": "/tʃaɪld/"
+        },
+        "meaning": {
+          "fa": "کودک",
+          "en": "child; a young person"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "who",
+        "text": "who",
+        "pronunciation": {
+          "faReading": "هو",
+          "ipa": "/hu/"
+        },
+        "meaning": {
+          "fa": "که؛ برای توضیح بیشتر دربارهٔ شخص",
+          "en": "who; introduces more information about a person"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "jump",
+        "text": "jump",
+        "pronunciation": {
+          "faReading": "جامپ",
+          "ipa": "/dʒʌmp/"
+        },
+        "meaning": {
+          "fa": "پریدن",
+          "en": "jump; push off a surface into the air"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "durable",
+        "text": "durable",
+        "pronunciation": {
+          "faReading": "دورِبِل",
+          "ipa": "/ˈdʊrəbəl/"
+        },
+        "meaning": {
+          "fa": "بادوام",
+          "en": "durable; able to withstand use"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "light",
+        "text": "light",
+        "pronunciation": {
+          "faReading": "لایت",
+          "ipa": "/laɪt/"
+        },
+        "meaning": {
+          "fa": "روشن؛ دربارهٔ رنگ",
+          "en": "light; pale in color"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "color",
+        "text": "color",
+        "pronunciation": {
+          "faReading": "کالِر",
+          "ipa": "/ˈkʌlɚ/"
+        },
+        "meaning": {
+          "fa": "رنگ",
+          "en": "color; visual appearance such as gray"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "removable",
+        "text": "removable",
+        "pronunciation": {
+          "faReading": "ریمووِبِل",
+          "ipa": "/rɪˈmuvəbəl/"
+        },
+        "meaning": {
+          "fa": "قابل جداکردن",
+          "en": "removable; able to be taken off"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "covers",
+        "text": "covers",
+        "pronunciation": {
+          "faReading": "کاوِرز",
+          "ipa": "/ˈkʌvɚz/"
+        },
+        "meaning": {
+          "fa": "روکش‌ها",
+          "en": "covers; protective fabric layers"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "ideal",
+        "text": "ideal",
+        "pronunciation": {
+          "faReading": "آیدیئِل",
+          "ipa": "/aɪˈdiəl/"
+        },
+        "meaning": {
+          "fa": "ایده‌آل؛ بسیار مناسب",
+          "en": "ideal; very suitable"
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "کجا",
+          "en": "where; asking about place"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "buy",
+        "text": "buy",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "خریدن",
+          "en": "buy; obtain by paying"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "quality",
+        "text": "quality",
+        "pronunciation": {
+          "faReading": "کْوالِتی",
+          "ipa": "/ˈkwɑləti/"
+        },
+        "meaning": {
+          "fa": "کیفیت",
+          "en": "quality; how well something is made"
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "There",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "furniture",
+        "text": "furniture",
+        "pronunciation": {
+          "faReading": "فِرنیچِر",
+          "ipa": "/ˈfɝnɪtʃɚ/"
+        },
+        "meaning": {
+          "fa": "مبلمان",
+          "en": "furniture; items such as sofas and tables"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "store",
+        "text": "store",
+        "pronunciation": {
+          "faReading": "سْتور",
+          "ipa": "/stɔr/"
+        },
+        "meaning": {
+          "fa": "فروشگاه",
+          "en": "store; a shop"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "near",
+        "text": "near",
+        "pronunciation": {
+          "faReading": "نیر",
+          "ipa": "/nɪr/"
+        },
+        "meaning": {
+          "fa": "نزدیکِ",
+          "en": "near; not far from"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "market",
+        "text": "market",
+        "pronunciation": {
+          "faReading": "مارکِت",
+          "ipa": "/ˈmɑrkɪt/"
+        },
+        "meaning": {
+          "fa": "بازار",
+          "en": "market; a place to buy things"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      },
+      {
+        "id": "prices",
+        "text": "prices",
+        "pronunciation": {
+          "faReading": "پْرایسِز",
+          "ipa": "/ˈpraɪsɪz/"
+        },
+        "meaning": {
+          "fa": "قیمت‌ها",
+          "en": "prices; amounts charged"
+        },
+        "example": {
+          "text": "There is a furniture store near the market with good prices.",
+          "translation": {
+            "fa": "نزدیک بازار یک فروشگاه مبلمان با قیمت‌های خوب هست.",
+            "en": "There is a furniture store near the market with good prices."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "advice-and-reason",
+        "title": {
+          "fa": "پیشنهاد و دلیل",
+          "en": "A suggestion and its reason"
+        },
+        "explanation": {
+          "fa": "what do you suggest? نظر می‌خواهد. would fit پیشنهاد را نرم می‌کند. Since در این جمله «چون» است نه «از وقتی که»؛ دلیل کافی بودن مبل سه‌نفره اندازهٔ متوسط اتاق است.",
+          "en": "What do you suggest? asks for advice. Would fit makes a suggestion less direct. Since means because here, not from a past time: the medium-sized room is the reason a three-seater is enough."
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        },
+        "takeaway": {
+          "fa": "Since می‌تواند دلیل را شروع کند.",
+          "en": "Since can introduce a reason."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد و دلیل",
+              "en": "A suggestion and its reason"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what do you suggest"
+                },
+                {
+                  "text": "What do you + action?"
+                },
+                {
+                  "fa": "چه پیشنهادی داری؟",
+                  "en": "Asks for advice"
+                }
+              ],
+              [
+                {
+                  "text": "would fit your living room well"
+                },
+                {
+                  "text": "would + action"
+                },
+                {
+                  "fa": "به نشیمنت خوب می‌آید",
+                  "en": "A tentative recommendation"
+                }
+              ],
+              [
+                {
+                  "text": "Since your living room is medium size"
+                },
+                {
+                  "text": "Since + reason"
+                },
+                {
+                  "fa": "چون نشیمنت متوسط است",
+                  "en": "Explains the size recommendation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comparisons",
+        "title": {
+          "fa": "مقایسهٔ اندازه و قیمت",
+          "en": "Comparing size and price"
+        },
+        "explanation": {
+          "fa": "smaller یعنی کوچک‌تر و easier یعنی آسان‌تر. برای expensive از more استفاده می‌شود: more expensive than. more affordable یعنی مقرون‌به‌صرفه‌تر و لزوماً گران‌تر نیست؛ affordable را با expensive اشتباه نگیر.",
+          "en": "Smaller means less large; easier means less difficult. Expensive uses more: more expensive than. More affordable means less costly or easier to afford, not more expensive."
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        },
+        "takeaway": {
+          "fa": "مقایسه گاهی -er و گاهی more می‌گیرد.",
+          "en": "Comparisons may use -er or more."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقایسهٔ اندازه و قیمت",
+              "en": "Comparing size and price"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a large sofa or a smaller one"
+                },
+                {
+                  "text": "adjective + -er"
+                },
+                {
+                  "fa": "مبل بزرگ یا یکی کوچک‌تر",
+                  "en": "Compares size"
+                }
+              ],
+              [
+                {
+                  "text": "more expensive than a leather one"
+                },
+                {
+                  "text": "more + adjective + than"
+                },
+                {
+                  "fa": "گران‌تر از مبل چرمی",
+                  "en": "Asks about relative cost"
+                }
+              ],
+              [
+                {
+                  "text": "more affordable"
+                },
+                {
+                  "text": "more + adjective"
+                },
+                {
+                  "fa": "مقرون‌به‌صرفه‌تر",
+                  "en": "Usually costs less"
+                }
+              ],
+              [
+                {
+                  "text": "easier to clean"
+                },
+                {
+                  "text": "easier + to + action"
+                },
+                {
+                  "fa": "تمیزکردنش آسان‌تر است",
+                  "en": "Compares maintenance"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "one-replaces-sofa",
+        "title": {
+          "fa": "one به جای تکرار sofa",
+          "en": "One instead of repeating sofa"
+        },
+        "explanation": {
+          "fa": "a smaller one یعنی یک مبل کوچک‌تر. a leather one یعنی یک مبل چرمی. در buy one هم one به مبل برمی‌گردد، نه به فروشگاه. اینجا one فقط برای شمردن نیست؛ از تکرار sofa جلوگیری می‌کند.",
+          "en": "A smaller one means a smaller sofa; a leather one means a leather sofa. In buy one, one also refers to a sofa, not a store. It avoids repeating sofa rather than merely counting."
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        },
+        "takeaway": {
+          "fa": "از جملهٔ قبل بفهم one جای چه اسمی آمده است.",
+          "en": "Look back to identify the noun replaced by one."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "one به جای تکرار sofa",
+              "en": "One instead of repeating sofa"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a smaller one"
+                },
+                {
+                  "text": "a + description + one"
+                },
+                {
+                  "fa": "یک مبل کوچک‌تر",
+                  "en": "One replaces sofa"
+                }
+              ],
+              [
+                {
+                  "text": "a leather one"
+                },
+                {
+                  "text": "a + material + one"
+                },
+                {
+                  "fa": "یک مبل چرمی",
+                  "en": "The same noun with a different material"
+                }
+              ],
+              [
+                {
+                  "text": "buy one of good quality"
+                },
+                {
+                  "text": "buy + one + description"
+                },
+                {
+                  "fa": "خریدن یک مبل باکیفیت",
+                  "en": "One still means a sofa"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "child-and-relative",
+        "title": {
+          "fa": "توضیح بیشتر دربارهٔ کودک",
+          "en": "More information about the child"
+        },
+        "explanation": {
+          "fa": "who will jump on it کودک را توضیح می‌دهد: کودکی که روی مبل خواهد پرید. who به child و it به sofa برمی‌گردد. will اینجا رفتار پیش‌بینی‌شده را نشان می‌دهد، نه قول کودک.",
+          "en": "Who will jump on it adds information about the child. Who points to child; it points to sofa. Will predicts the child’s behavior; it is not the child making a promise."
+        },
+        "example": {
+          "text": "That matters, we have a little child who will jump on it.",
+          "translation": {
+            "fa": "این مهم است؛ یک بچهٔ کوچک داریم که روی آن خواهد پرید.",
+            "en": "That matters, we have a little child who will jump on it."
+          }
+        },
+        "takeaway": {
+          "fa": "who برای توضیح شخص؛ it برای مبلِ قبلاً گفته‌شده.",
+          "en": "Who adds information about a person; it refers back to the sofa."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توضیح بیشتر دربارهٔ کودک",
+              "en": "More information about the child"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a little child who will jump on it"
+                },
+                {
+                  "text": "person + who + action"
+                },
+                {
+                  "fa": "بچهٔ کوچکی که روی آن خواهد پرید",
+                  "en": "Explains why durability matters"
+                }
+              ],
+              [
+                {
+                  "text": "That matters"
+                },
+                {
+                  "text": "That + matters"
+                },
+                {
+                  "fa": "این مهم است",
+                  "en": "Refers to easy cleaning"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "material-and-features",
+        "title": {
+          "fa": "جنس و ویژگی‌های مبل",
+          "en": "Material and sofa features"
+        },
+        "explanation": {
+          "fa": "gray fabric sofa را از آخر بخوان: مبل، پارچه‌ای، خاکستری. with removable covers یعنی با روکش‌هایی که می‌شود جدا کرد. منبع رنگ روشن پیشنهاد می‌دهد؛ آن را به رنگ تیره تغییر نمی‌دهیم. furniture اسم کلی وسایل خانه است.",
+          "en": "Read gray fabric sofa as a sofa made of fabric and colored gray. With removable covers adds covers that can be taken off. The source recommends a light color, not a dark one. Furniture names household items collectively."
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        },
+        "takeaway": {
+          "fa": "نام وسیله آخر می‌آید؛ with ویژگی اضافه می‌کند.",
+          "en": "The item comes last; with adds another feature."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جنس و ویژگی‌های مبل",
+              "en": "Material and sofa features"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "A gray fabric sofa"
+                },
+                {
+                  "text": "color + material + item"
+                },
+                {
+                  "fa": "یک مبل پارچه‌ای خاکستری",
+                  "en": "Describes color and material"
+                }
+              ],
+              [
+                {
+                  "text": "in a light color with removable covers"
+                },
+                {
+                  "text": "in + color; with + feature"
+                },
+                {
+                  "fa": "به رنگ روشن با روکش جداشدنی",
+                  "en": "Adds practical features"
+                }
+              ],
+              [
+                {
+                  "text": "a furniture store"
+                },
+                {
+                  "text": "furniture + store"
+                },
+                {
+                  "fa": "فروشگاه مبلمان",
+                  "en": "Names the kind of shop"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "suggest",
+        "text": "what do you suggest",
+        "pronunciation": {
+          "faReading": "وات دو یو سِجِست",
+          "ipa": "/wʌt də ju səˈdʒɛst/"
+        },
+        "meaning": {
+          "fa": "چه پیشنهادی داری؟",
+          "en": "What do you recommend?"
+        },
+        "context": {
+          "fa": "سینا دربارهٔ مبل راهنمایی می‌خواهد.",
+          "en": "Sina asks for sofa advice."
+        },
+        "example": {
+          "text": "We need a new sofa for the new house, what do you suggest?",
+          "translation": {
+            "fa": "برای خانهٔ جدید یک مبل نو لازم داریم؛ چه پیشنهادی داری؟",
+            "en": "We need a new sofa for the new house, what do you suggest?"
+          }
+        }
+      },
+      {
+        "id": "three-seater",
+        "text": "a three-seater is enough",
+        "pronunciation": {
+          "faReading": "اِ ثْری سیتِر ایز ایناف",
+          "ipa": "/ə ˌθriˈsitɚ ɪz ɪˈnʌf/"
+        },
+        "meaning": {
+          "fa": "یک سه‌نفره کافی است",
+          "en": "A three-seater is sufficient"
+        },
+        "context": {
+          "fa": "اندازهٔ اتاق دلیل پیشنهاد است.",
+          "en": "The room’s size motivates the advice."
+        },
+        "example": {
+          "text": "Since your living room is medium size, a three-seater is enough.",
+          "translation": {
+            "fa": "چون نشیمنت اندازهٔ متوسطی دارد، یک مبل سه‌نفره کافی است.",
+            "en": "Since your living room is medium size, a three-seater is enough."
+          }
+        }
+      },
+      {
+        "id": "price-comparison",
+        "text": "more expensive than a leather one",
+        "pronunciation": {
+          "faReading": "مور ایکسپِنسیو ذَن اِ لِذِر وان",
+          "ipa": "/mɔr ɪkˈspɛnsɪv ðən ə ˈlɛðɚ wʌn/"
+        },
+        "meaning": {
+          "fa": "گران‌تر از یک مبل چرمی",
+          "en": "More expensive than a leather sofa"
+        },
+        "context": {
+          "fa": "این سؤال است؛ پاسخ پارچه‌ای را معمولاً ارزان‌تر می‌داند.",
+          "en": "This is a question; the reply says fabric is usually cheaper."
+        },
+        "example": {
+          "text": "What about the price, is a fabric sofa more expensive than a leather one?",
+          "translation": {
+            "fa": "قیمتش چطور؟ مبل پارچه‌ای از چرمی گران‌تر است؟",
+            "en": "What about the price, is a fabric sofa more expensive than a leather one?"
+          }
+        }
+      },
+      {
+        "id": "clean",
+        "text": "easier to clean",
+        "pronunciation": {
+          "faReading": "ایزیِر تو کْلین",
+          "ipa": "/ˈiziɚ tə klin/"
+        },
+        "meaning": {
+          "fa": "تمیزکردنش آسان‌تر",
+          "en": "Easier to clean"
+        },
+        "context": {
+          "fa": "مزیت مطرح‌شده برای مبل پارچه‌ای است.",
+          "en": "A stated advantage of the fabric sofa."
+        },
+        "example": {
+          "text": "Usually fabric is more affordable, and it is easier to clean too.",
+          "translation": {
+            "fa": "معمولاً پارچه‌ای مقرون‌به‌صرفه‌تر است و تمیز کردنش هم راحت‌تر است.",
+            "en": "Usually fabric is more affordable, and it is easier to clean too."
+          }
+        }
+      },
+      {
+        "id": "covers",
+        "text": "with removable covers",
+        "pronunciation": {
+          "faReading": "ویذ ریمووِبِل کاوِرز",
+          "ipa": "/wɪð rɪˈmuvəbəl ˈkʌvɚz/"
+        },
+        "meaning": {
+          "fa": "با روکش‌های قابل جداکردن",
+          "en": "With covers that can be taken off"
+        },
+        "context": {
+          "fa": "به انتخاب مناسب برای خانهٔ دارای کودک مربوط است.",
+          "en": "A feature suggested for a home with a child."
+        },
+        "example": {
+          "text": "Then a durable fabric in a light color with removable covers is ideal.",
+          "translation": {
+            "fa": "پس پارچه‌ای بادوام به رنگ روشن با روکش‌های قابل جداکردن ایده‌آل است.",
+            "en": "Then a durable fabric in a light color with removable covers is ideal."
+          }
+        }
+      },
+      {
+        "id": "quality",
+        "text": "of good quality",
+        "pronunciation": {
+          "faReading": "آو گود کْوالِتی",
+          "ipa": "/əv ɡʊd ˈkwɑləti/"
+        },
+        "meaning": {
+          "fa": "باکیفیت",
+          "en": "Well made"
+        },
+        "context": {
+          "fa": "سینا دنبال مبل باکیفیت است، نه فقط ارزان.",
+          "en": "Sina wants a well-made sofa, not just a cheap one."
+        },
+        "example": {
+          "text": "That is exactly what I need, where can we buy one of good quality?",
+          "translation": {
+            "fa": "دقیقاً همین را لازم دارم؛ از کجا می‌توانیم یک مبل باکیفیت بخریم؟",
+            "en": "That is exactly what I need, where can we buy one of good quality?"
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آن‌ها برای چه چیزی مشورت می‌کنند؟",
+          "en": "What are they seeking advice about?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب مبل مناسب خانه و کودک",
+              "en": "Choosing a sofa suitable for the home and child"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "انتخاب تخت برای اتاق کودک",
+              "en": "Choosing a bed for the child’s room"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انتخاب میز برای آشپزخانه",
+              "en": "Choosing a kitchen table"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "بحث دربارهٔ اندازه، جنس، قیمت و دوام مبل است.",
+          "en": "They discuss sofa size, material, price and durability."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05",
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "size",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چرا مبل سه‌نفره کافی دانسته می‌شود؟",
+          "en": "Why is a three-seater considered enough?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "چون کودک تنها زندگی می‌کند",
+              "en": "Because the child lives alone"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چون نشیمن اندازهٔ متوسط دارد",
+              "en": "Because the living room is medium-sized"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چون فروشگاه مبل بزرگ ندارد",
+              "en": "Because the store has no large sofas"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "Since دلیل را معرفی می‌کند: اندازهٔ متوسط نشیمن.",
+          "en": "Since introduces the reason: the living room’s medium size."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "fabric-price",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "طبق حرف لیلا، مبل پارچه‌ای معمولاً چگونه است؟",
+          "en": "According to Laila, what is a fabric sofa usually like?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گران‌تر و سخت‌تر برای نظافت",
+              "en": "More expensive and harder to clean"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ارزان‌تر ولی سخت‌تر برای نظافت",
+              "en": "Cheaper but harder to clean"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مقرون‌به‌صرفه‌تر و آسان‌تر برای نظافت",
+              "en": "More affordable and easier to clean"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "لیلا هر دو مزیت را می‌گوید و usually را هم به کار می‌برد.",
+          "en": "Laila gives both advantages and qualifies them with usually."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "covers",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام ویژگی برای روکش پیشنهاد می‌شود؟",
+          "en": "Which cover feature is recommended?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قابل جداکردن بودن",
+              "en": "Being removable"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "چرمی و ثابت بودن",
+              "en": "Being leather and fixed"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تیره و غیرقابل شست‌وشو بودن",
+              "en": "Being dark and unwashable"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پیشنهاد نهایی removable covers است؛ رنگ روشن هم ذکر می‌شود.",
+          "en": "The final suggestion is removable covers; a light color is also mentioned."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "one",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "در a leather one، one به چه چیزی اشاره دارد؟",
+          "en": "What does one refer to in a leather one?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خانه",
+              "en": "A house"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مبل",
+              "en": "A sofa"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فروشگاه",
+              "en": "A store"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "one جای sofa آمده تا نام وسیله تکرار نشود.",
+          "en": "One replaces sofa to avoid repeating the item."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      }
+    ]
+  }
+}

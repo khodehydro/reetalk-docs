@@ -1,0 +1,2708 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s02",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "پلاک ۱۲، طبقه دوم",
+    "en": "Number Twelve, Second Floor"
+  },
+  "objective": {
+    "fa": "گفتن محل خانه، طبقه و امکانات ساختمان و پرسیدن مدت رسیدن.",
+    "en": "Give a home’s location and floor, discuss building facilities and ask how long access takes."
+  },
+  "speakers": [
+    {
+      "id": "nima",
+      "name": "Nima",
+      "gender": "man"
+    },
+    {
+      "id": "parisa",
+      "name": "Parisa",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nima",
+      "text": "I live at number twelve, on the second floor of the building.",
+      "translation": {
+        "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+        "en": "I live at number twelve, on the second floor of the building."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "live",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "live; have your home in a place"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "number",
+          "gloss": {
+            "fa": "شماره",
+            "en": "number; digits used to call someone"
+          }
+        },
+        {
+          "surface": "twelve,",
+          "gloss": {
+            "fa": "دوازده",
+            "en": "twelve; the number 12"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "second",
+          "gloss": {
+            "fa": "دوم",
+            "en": "second; after the first"
+          }
+        },
+        {
+          "surface": "floor",
+          "gloss": {
+            "fa": "طبقهٔ ساختمان",
+            "en": "floor; a level in a building"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building.",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "parisa",
+      "text": "Is there an elevator in the building?",
+      "translation": {
+        "fa": "در ساختمان آسانسور هست؟",
+        "en": "Is there an elevator in the building?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "elevator",
+          "gloss": {
+            "fa": "آسانسور",
+            "en": "elevator; a lift between floors"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building?",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nima",
+      "text": "No, there is not, but the stairs are not hard to climb.",
+      "translation": {
+        "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+        "en": "No, there is not, but the stairs are not hard to climb."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "در «there is not»: وجود ندارد",
+            "en": "In “there is not”: there is no elevator"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «there is not»: وجود ندارد",
+            "en": "In “there is not”: there is no elevator"
+          }
+        },
+        {
+          "surface": "not,",
+          "gloss": {
+            "fa": "در «there is not»: وجود ندارد",
+            "en": "In “there is not”: there is no elevator"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "stairs",
+          "gloss": {
+            "fa": "پله‌ها",
+            "en": "stairs; steps leading up or down"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "hard",
+          "gloss": {
+            "fa": "سخت",
+            "en": "hard; difficult"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "climb.",
+          "gloss": {
+            "fa": "بالا رفتن از",
+            "en": "climb; move upward on stairs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "parisa",
+      "text": "How long does it take you to reach the street from your apartment?",
+      "translation": {
+        "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+        "en": "How long does it take you to reach the street from your apartment?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How long does it take»: چقدر طول می‌کشد",
+            "en": "In “How long does it take”: asks for the time needed"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "در «How long does it take»: چقدر طول می‌کشد",
+            "en": "In “How long does it take”: asks for the time needed"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "در «How long does it take»: چقدر طول می‌کشد",
+            "en": "In “How long does it take”: asks for the time needed"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در «How long does it take»: چقدر طول می‌کشد",
+            "en": "In “How long does it take”: asks for the time needed"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «How long does it take»: چقدر طول می‌کشد",
+            "en": "In “How long does it take”: asks for the time needed"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "reach",
+          "gloss": {
+            "fa": "رسیدن به",
+            "en": "reach; get to a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "street",
+          "gloss": {
+            "fa": "خیابان",
+            "en": "street; a road in a town"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "apartment?",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nima",
+      "text": "About two minutes, the building entrance is close to the main street.",
+      "translation": {
+        "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+        "en": "About two minutes, the building entrance is close to the main street."
+      },
+      "tokens": [
+        {
+          "surface": "About",
+          "gloss": {
+            "fa": "حدود؛ تقریباً",
+            "en": "about; approximately"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "minutes,",
+          "gloss": {
+            "fa": "دقیقه",
+            "en": "minutes; units of sixty seconds"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        },
+        {
+          "surface": "entrance",
+          "gloss": {
+            "fa": "ورودی",
+            "en": "entrance; the way into a building"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "close",
+          "gloss": {
+            "fa": "در «close to»: نزدیک به",
+            "en": "In “close to”: near"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «close to»: نزدیک به",
+            "en": "In “close to”: near"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "street.",
+          "gloss": {
+            "fa": "خیابان",
+            "en": "street; a road in a town"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "parisa",
+      "text": "That is very convenient, is there parking for residents?",
+      "translation": {
+        "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+        "en": "That is very convenient, is there parking for residents?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "convenient,",
+          "gloss": {
+            "fa": "راحت و دردسترس",
+            "en": "convenient; easy to use or reach"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا؛ در is there یعنی وجود دارد",
+            "en": "there; that place, or introduces existence"
+          }
+        },
+        {
+          "surface": "parking",
+          "gloss": {
+            "fa": "جای پارک؛ پارک خودرو",
+            "en": "parking; space or provision for leaving cars"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "residents?",
+          "gloss": {
+            "fa": "ساکنان",
+            "en": "residents; people living in a building"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nima",
+      "text": "Yes, there is a small parking area behind the building.",
+      "translation": {
+        "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+        "en": "Yes, there is a small parking area behind the building."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "parking",
+          "gloss": {
+            "fa": "جای پارک؛ پارک خودرو",
+            "en": "parking; space or provision for leaving cars"
+          }
+        },
+        {
+          "surface": "area",
+          "gloss": {
+            "fa": "منطقه",
+            "en": "area; a geographical region"
+          }
+        },
+        {
+          "surface": "behind",
+          "gloss": {
+            "fa": "پشت",
+            "en": "behind; at the back of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building.",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "parisa",
+      "text": "Thank you, now I know exactly where to find your place.",
+      "translation": {
+        "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+        "en": "Thank you, now I know exactly where to find your place."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "now",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "know",
+          "gloss": {
+            "fa": "دانستن؛ شناختن",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "exactly",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "کجا",
+            "en": "where; asking about place"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "find",
+          "gloss": {
+            "fa": "پیدا کردن؛ یافتن",
+            "en": "find; discover or experience"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "place.",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "live",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن",
+          "en": "live; have your home in a place"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل یا زمان",
+          "en": "at; marks a place or time"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "number",
+        "text": "number",
+        "pronunciation": {
+          "faReading": "نَمبِر",
+          "ipa": "/ˈnʌmbɚ/"
+        },
+        "meaning": {
+          "fa": "شماره",
+          "en": "number; digits used to call someone"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "twelve",
+        "text": "twelve",
+        "pronunciation": {
+          "faReading": "تْوِلو",
+          "ipa": "/twɛlv/"
+        },
+        "meaning": {
+          "fa": "دوازده",
+          "en": "twelve; the number 12"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "second",
+        "text": "second",
+        "pronunciation": {
+          "faReading": "سِکِند",
+          "ipa": "/ˈsɛkənd/"
+        },
+        "meaning": {
+          "fa": "دوم",
+          "en": "second; after the first"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "floor",
+        "text": "floor",
+        "pronunciation": {
+          "faReading": "فْلور",
+          "ipa": "/flɔr/"
+        },
+        "meaning": {
+          "fa": "طبقهٔ ساختمان",
+          "en": "floor; a level in a building"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "building",
+        "text": "building",
+        "pronunciation": {
+          "faReading": "بیلدینگ",
+          "ipa": "/ˈbɪldɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساختمان",
+          "en": "building; a structure with rooms"
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "Is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "elevator",
+        "text": "elevator",
+        "pronunciation": {
+          "faReading": "اِلِوِیتِر",
+          "ipa": "/ˈɛləveɪtɚ/"
+        },
+        "meaning": {
+          "fa": "آسانسور",
+          "en": "elevator; a lift between floors"
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "there-2",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در «there is not»: وجود ندارد",
+          "en": "In “there is not”: there is no elevator"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «there is not»: وجود ندارد",
+          "en": "In “there is not”: there is no elevator"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «there is not»: وجود ندارد",
+          "en": "In “there is not”: there is no elevator"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "stairs",
+        "text": "stairs",
+        "pronunciation": {
+          "faReading": "سْتِرز",
+          "ipa": "/stɛrz/"
+        },
+        "meaning": {
+          "fa": "پله‌ها",
+          "en": "stairs; steps leading up or down"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "not-2",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "hard",
+        "text": "hard",
+        "pronunciation": {
+          "faReading": "هارد",
+          "ipa": "/hɑrd/"
+        },
+        "meaning": {
+          "fa": "سخت",
+          "en": "hard; difficult"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "climb",
+        "text": "climb",
+        "pronunciation": {
+          "faReading": "کْلایم",
+          "ipa": "/klaɪm/"
+        },
+        "meaning": {
+          "fa": "بالا رفتن از",
+          "en": "climb; move upward on stairs"
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How long does it take»: چقدر طول می‌کشد",
+          "en": "In “How long does it take”: asks for the time needed"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "در «How long does it take»: چقدر طول می‌کشد",
+          "en": "In “How long does it take”: asks for the time needed"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "در «How long does it take»: چقدر طول می‌کشد",
+          "en": "In “How long does it take”: asks for the time needed"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در «How long does it take»: چقدر طول می‌کشد",
+          "en": "In “How long does it take”: asks for the time needed"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «How long does it take»: چقدر طول می‌کشد",
+          "en": "In “How long does it take”: asks for the time needed"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "reach",
+        "text": "reach",
+        "pronunciation": {
+          "faReading": "ریچ",
+          "ipa": "/ritʃ/"
+        },
+        "meaning": {
+          "fa": "رسیدن به",
+          "en": "reach; get to a place"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "street",
+        "text": "street",
+        "pronunciation": {
+          "faReading": "سْتْریت",
+          "ipa": "/strit/"
+        },
+        "meaning": {
+          "fa": "خیابان",
+          "en": "street; a road in a town"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "About",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "حدود؛ تقریباً",
+          "en": "about; approximately"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "minutes",
+        "text": "minutes",
+        "pronunciation": {
+          "faReading": "مینِتس",
+          "ipa": "/ˈmɪnəts/"
+        },
+        "meaning": {
+          "fa": "دقیقه",
+          "en": "minutes; units of sixty seconds"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "entrance",
+        "text": "entrance",
+        "pronunciation": {
+          "faReading": "اِنتْرِنس",
+          "ipa": "/ˈɛntrəns/"
+        },
+        "meaning": {
+          "fa": "ورودی",
+          "en": "entrance; the way into a building"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "is-3",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "close",
+        "text": "close",
+        "pronunciation": {
+          "faReading": "کْلُوس",
+          "ipa": "/kloʊs/"
+        },
+        "meaning": {
+          "fa": "در «close to»: نزدیک به",
+          "en": "In “close to”: near"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «close to»: نزدیک به",
+          "en": "In “close to”: near"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "convenient",
+        "text": "convenient",
+        "pronunciation": {
+          "faReading": "کِنوینیِنت",
+          "ipa": "/kənˈvinjənt/"
+        },
+        "meaning": {
+          "fa": "راحت و دردسترس",
+          "en": "convenient; easy to use or reach"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "there-3",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا؛ در is there یعنی وجود دارد",
+          "en": "there; that place, or introduces existence"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "parking",
+        "text": "parking",
+        "pronunciation": {
+          "faReading": "پارکینگ",
+          "ipa": "/ˈpɑrkɪŋ/"
+        },
+        "meaning": {
+          "fa": "جای پارک؛ پارک خودرو",
+          "en": "parking; space or provision for leaving cars"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "residents",
+        "text": "residents",
+        "pronunciation": {
+          "faReading": "رِزِدِنتس",
+          "ipa": "/ˈrɛzədənts/"
+        },
+        "meaning": {
+          "fa": "ساکنان",
+          "en": "residents; people living in a building"
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, there is a small parking area behind the building.",
+          "translation": {
+            "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+            "en": "Yes, there is a small parking area behind the building."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Yes, there is a small parking area behind the building.",
+          "translation": {
+            "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+            "en": "Yes, there is a small parking area behind the building."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "Yes, there is a small parking area behind the building.",
+          "translation": {
+            "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+            "en": "Yes, there is a small parking area behind the building."
+          }
+        }
+      },
+      {
+        "id": "area",
+        "text": "area",
+        "pronunciation": {
+          "faReading": "اِری‌اِ",
+          "ipa": "/ˈɛriə/"
+        },
+        "meaning": {
+          "fa": "منطقه",
+          "en": "area; a geographical region"
+        },
+        "example": {
+          "text": "Yes, there is a small parking area behind the building.",
+          "translation": {
+            "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+            "en": "Yes, there is a small parking area behind the building."
+          }
+        }
+      },
+      {
+        "id": "behind",
+        "text": "behind",
+        "pronunciation": {
+          "faReading": "بیهایند",
+          "ipa": "/bɪˈhaɪnd/"
+        },
+        "meaning": {
+          "fa": "پشت",
+          "en": "behind; at the back of"
+        },
+        "example": {
+          "text": "Yes, there is a small parking area behind the building.",
+          "translation": {
+            "fa": "بله، پشت ساختمان یک محوطهٔ کوچک پارک وجود دارد.",
+            "en": "Yes, there is a small parking area behind the building."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "کجا",
+          "en": "where; asking about place"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "find",
+        "text": "find",
+        "pronunciation": {
+          "faReading": "فایند",
+          "ipa": "/faɪnd/"
+        },
+        "meaning": {
+          "fa": "پیدا کردن؛ یافتن",
+          "en": "find; discover or experience"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "address-prepositions",
+        "title": {
+          "fa": "پلاک، طبقه و ساختمان",
+          "en": "Number, floor and building"
+        },
+        "explanation": {
+          "fa": "در این نشانی at number twelve برای پلاک، on the second floor برای طبقه و in the building برای ساختمان آمده است. twelve عدد است و second ترتیب طبقه را می‌گوید.",
+          "en": "This address uses at number twelve for the street number, on the second floor for the floor, and in the building for the building. Twelve is a number; second gives a position in order."
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        },
+        "takeaway": {
+          "fa": "پلاک: at؛ طبقه: on؛ داخل ساختمان: in.",
+          "en": "Number: at; floor: on; inside a building: in."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پلاک، طبقه و ساختمان",
+              "en": "Number, floor and building"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "at number twelve"
+                },
+                {
+                  "text": "at + street number"
+                },
+                {
+                  "fa": "پلاک دوازده",
+                  "en": "Gives the building number"
+                }
+              ],
+              [
+                {
+                  "text": "on the second floor"
+                },
+                {
+                  "text": "on + floor"
+                },
+                {
+                  "fa": "در طبقهٔ دوم",
+                  "en": "Gives the floor"
+                }
+              ],
+              [
+                {
+                  "text": "in the building"
+                },
+                {
+                  "text": "in + building"
+                },
+                {
+                  "fa": "در ساختمان",
+                  "en": "Places something inside"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "there-is-facilities",
+        "title": {
+          "fa": "آیا آسانسور یا پارکینگ هست؟",
+          "en": "Is there an elevator or parking?"
+        },
+        "explanation": {
+          "fa": "Is there ...? برای پرسیدن وجود یک امکان است. Yes, there is پاسخ مثبت و No, there is not پاسخ منفی است. there در این الگو به معنی «آنجا» نیست.",
+          "en": "Is there ...? asks whether a facility exists. Yes, there is answers yes; No, there is not answers no. There in this pattern does not point to a distant place."
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        },
+        "takeaway": {
+          "fa": "وجود امکان را با Is there ...? بپرس.",
+          "en": "Ask whether a facility exists with Is there ...?"
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "آیا آسانسور یا پارکینگ هست؟",
+              "en": "Is there an elevator or parking?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Is there an elevator"
+                },
+                {
+                  "text": "Is there + a thing?"
+                },
+                {
+                  "fa": "آسانسور هست؟",
+                  "en": "Asks whether it exists"
+                }
+              ],
+              [
+                {
+                  "text": "No, there is not"
+                },
+                {
+                  "text": "No, there is not"
+                },
+                {
+                  "fa": "نه، وجود ندارد",
+                  "en": "No elevator"
+                }
+              ],
+              [
+                {
+                  "text": "there is a small parking area"
+                },
+                {
+                  "text": "there is + a place"
+                },
+                {
+                  "fa": "یک محوطهٔ کوچک پارک هست",
+                  "en": "Parking is available"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "duration-question",
+        "title": {
+          "fa": "پرسیدن مدت رسیدن",
+          "en": "Asking how long access takes"
+        },
+        "explanation": {
+          "fa": "How long does it take you to reach ...? را به شکل یک سؤال آماده یاد بگیر: «چقدر طول می‌کشد برسی؟» About two minutes مدت تقریبی است، نه ساعت دو. from آپارتمان، مبدأ حرکت را می‌گوید.",
+          "en": "Learn How long does it take you to reach ...? as a useful question for travel time. About two minutes is an approximate duration, not two o’clock. From your apartment gives the starting point."
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        },
+        "takeaway": {
+          "fa": "How long ...? مدت؛ about یعنی حدود.",
+          "en": "How long ...? asks for duration; about means approximately."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن مدت رسیدن",
+              "en": "Asking how long access takes"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How long does it take you to reach the street"
+                },
+                {
+                  "text": "How long does it take you to + action?"
+                },
+                {
+                  "fa": "چقدر طول می‌کشد به خیابان برسی؟",
+                  "en": "Asks for time needed"
+                }
+              ],
+              [
+                {
+                  "text": "About two minutes"
+                },
+                {
+                  "text": "about + duration"
+                },
+                {
+                  "fa": "حدود دو دقیقه",
+                  "en": "Approximate journey time"
+                }
+              ],
+              [
+                {
+                  "text": "from your apartment"
+                },
+                {
+                  "text": "from + starting point"
+                },
+                {
+                  "fa": "از آپارتمانت",
+                  "en": "Starting location"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stairs-and-location",
+        "title": {
+          "fa": "پله‌ها و محل پارک",
+          "en": "Stairs and parking location"
+        },
+        "explanation": {
+          "fa": "The stairs are not hard to climb یعنی بالا رفتن از پله‌ها سخت نیست. are not جمله را منفی می‌کند. behind یعنی پشتِ ساختمان و close to یعنی نزدیکِ خیابان اصلی؛ این‌ها یک محل نیستند.",
+          "en": "The stairs are not hard to climb means using the stairs is not difficult. Are not makes the statement negative. Behind places parking at the back; close to places the entrance near the main street."
+        },
+        "example": {
+          "text": "No, there is not, but the stairs are not hard to climb.",
+          "translation": {
+            "fa": "نه، نیست؛ ولی بالا رفتن از پله‌ها سخت نیست.",
+            "en": "No, there is not, but the stairs are not hard to climb."
+          }
+        },
+        "takeaway": {
+          "fa": "not hard یعنی سخت نیست؛ behind یعنی پشتِ.",
+          "en": "Not hard means not difficult; behind means at the back of."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پله‌ها و محل پارک",
+              "en": "Stairs and parking location"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the stairs are not hard to climb"
+                },
+                {
+                  "text": "stairs + are not hard to + action"
+                },
+                {
+                  "fa": "بالا رفتن از پله‌ها سخت نیست",
+                  "en": "Describes access without an elevator"
+                }
+              ],
+              [
+                {
+                  "text": "behind the building"
+                },
+                {
+                  "text": "behind + place"
+                },
+                {
+                  "fa": "پشت ساختمان",
+                  "en": "Location of parking"
+                }
+              ],
+              [
+                {
+                  "text": "close to the main street"
+                },
+                {
+                  "text": "close to + place"
+                },
+                {
+                  "fa": "نزدیک خیابان اصلی",
+                  "en": "Location of the entrance"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "where-to-find",
+        "title": {
+          "fa": "حالا می‌دانم کجا پیدایش کنم",
+          "en": "Now I know where to find it"
+        },
+        "explanation": {
+          "fa": "where to find your place یعنی «کجا خانه‌ات را پیدا کنم». اینجا place همان خانه است. exactly یعنی دقیقاً؛ پس پریسا می‌گوید نشانی را فهمیده، نه اینکه قبلاً به آنجا رفته است.",
+          "en": "Where to find your place means where to locate your home. Place refers to the home here. Exactly means precisely: Parisa now understands the location; she does not say she has visited it."
+        },
+        "example": {
+          "text": "Thank you, now I know exactly where to find your place.",
+          "translation": {
+            "fa": "ممنون، حالا دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم.",
+            "en": "Thank you, now I know exactly where to find your place."
+          }
+        },
+        "takeaway": {
+          "fa": "where to find ... را برای محل پیدا کردن چیزی به کار ببر.",
+          "en": "Use where to find ... for knowing a location."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حالا می‌دانم کجا پیدایش کنم",
+              "en": "Now I know where to find it"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I know exactly where to find your place"
+                },
+                {
+                  "text": "know + where to + action"
+                },
+                {
+                  "fa": "دقیقاً می‌دانم کجا خانه‌ات را پیدا کنم",
+                  "en": "Understanding the address"
+                }
+              ],
+              [
+                {
+                  "text": "is there parking for residents"
+                },
+                {
+                  "text": "Is there + facility + for people?"
+                },
+                {
+                  "fa": "برای ساکنان جای پارک هست؟",
+                  "en": "Asks who can use the facility"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "address",
+        "text": "at number twelve",
+        "pronunciation": {
+          "faReading": "اَت نامبِر تْوِلو",
+          "ipa": "/ət ˈnʌmbɚ twɛlv/"
+        },
+        "meaning": {
+          "fa": "در پلاک دوازده",
+          "en": "At street number twelve"
+        },
+        "context": {
+          "fa": "پلاک ساختمان است، نه طبقه.",
+          "en": "The building number, not the floor."
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "floor",
+        "text": "on the second floor",
+        "pronunciation": {
+          "faReading": "آن ذِ سِکِند فْلور",
+          "ipa": "/ɑn ðə ˈsɛkənd flɔr/"
+        },
+        "meaning": {
+          "fa": "در طبقهٔ دوم",
+          "en": "On the second floor"
+        },
+        "context": {
+          "fa": "جای آپارتمان در ساختمان است.",
+          "en": "Locates the apartment within the building."
+        },
+        "example": {
+          "text": "I live at number twelve, on the second floor of the building.",
+          "translation": {
+            "fa": "من در پلاک دوازده، طبقهٔ دوم ساختمان زندگی می‌کنم.",
+            "en": "I live at number twelve, on the second floor of the building."
+          }
+        }
+      },
+      {
+        "id": "elevator",
+        "text": "Is there an elevator",
+        "pronunciation": {
+          "faReading": "ایز ذِر اَن اِلِوِیتِر",
+          "ipa": "/ɪz ðɛr ən ˈɛləveɪtɚ/"
+        },
+        "meaning": {
+          "fa": "آسانسور هست؟",
+          "en": "Is an elevator available?"
+        },
+        "context": {
+          "fa": "پریسا دربارهٔ امکان ساختمان می‌پرسد.",
+          "en": "Parisa asks about a building facility."
+        },
+        "example": {
+          "text": "Is there an elevator in the building?",
+          "translation": {
+            "fa": "در ساختمان آسانسور هست؟",
+            "en": "Is there an elevator in the building?"
+          }
+        }
+      },
+      {
+        "id": "duration",
+        "text": "How long does it take you",
+        "pronunciation": {
+          "faReading": "هاو لانگ داز ایت تِیک یو",
+          "ipa": "/haʊ lɔŋ dʌz ɪt teɪk ju/"
+        },
+        "meaning": {
+          "fa": "چقدر طول می‌کشد برایت",
+          "en": "How much time do you need?"
+        },
+        "context": {
+          "fa": "مدت رسیدن به خیابان را می‌پرسد، نه ساعت خروج.",
+          "en": "Asks for journey duration, not departure time."
+        },
+        "example": {
+          "text": "How long does it take you to reach the street from your apartment?",
+          "translation": {
+            "fa": "از آپارتمانت تا خیابان چقدر طول می‌کشد برسی؟",
+            "en": "How long does it take you to reach the street from your apartment?"
+          }
+        }
+      },
+      {
+        "id": "near-street",
+        "text": "close to the main street",
+        "pronunciation": {
+          "faReading": "کْلُوس تو ذِ مِین سْتْریت",
+          "ipa": "/kloʊs tə ðə meɪn strit/"
+        },
+        "meaning": {
+          "fa": "نزدیک خیابان اصلی",
+          "en": "Near the main street"
+        },
+        "context": {
+          "fa": "ورودی ساختمان را توصیف می‌کند.",
+          "en": "Describes the building entrance."
+        },
+        "example": {
+          "text": "About two minutes, the building entrance is close to the main street.",
+          "translation": {
+            "fa": "حدود دو دقیقه؛ ورودی ساختمان به خیابان اصلی نزدیک است.",
+            "en": "About two minutes, the building entrance is close to the main street."
+          }
+        }
+      },
+      {
+        "id": "parking",
+        "text": "parking for residents",
+        "pronunciation": {
+          "faReading": "پارکینگ فور رِزِدِنتس",
+          "ipa": "/ˈpɑrkɪŋ fɚ ˈrɛzədənts/"
+        },
+        "meaning": {
+          "fa": "جای پارک برای ساکنان",
+          "en": "Parking available to residents"
+        },
+        "context": {
+          "fa": "دربارهٔ دسترسی ساکنان به پارکینگ است؛ قیمت ذکر نشده است.",
+          "en": "Asks about residents’ parking; no fee is specified."
+        },
+        "example": {
+          "text": "That is very convenient, is there parking for residents?",
+          "translation": {
+            "fa": "خیلی راحت و دردسترس است؛ برای ساکنان جای پارک هست؟",
+            "en": "That is very convenient, is there parking for residents?"
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی پرسش‌های پریسا چیست؟",
+          "en": "What is the main purpose of Parisa’s questions?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مقایسهٔ اجاره‌های محله",
+              "en": "To compare neighborhood rents"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پیداکردن تعمیرکار آسانسور",
+              "en": "To find an elevator technician"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فهم محل خانه و دسترسی و امکانات ساختمان",
+              "en": "To understand the home’s location, access and building facilities"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "طبقه، آسانسور، زمان رسیدن به خیابان و پارکینگ را می‌پرسد.",
+          "en": "She asks about the floor, elevator, access time and parking."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t02",
+          "t04",
+          "t06",
+          "t08"
+        ]
+      },
+      {
+        "id": "number-floor",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نشانی نیما کدام است؟",
+          "en": "Which location does Nima give?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پلاک دوازده، طبقهٔ دوم",
+              "en": "Number twelve, second floor"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پلاک دو، طبقهٔ دوازدهم",
+              "en": "Number two, twelfth floor"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پلاک دوازده، طبقهٔ اول",
+              "en": "Number twelve, first floor"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "number twelve پلاک و second floor طبقه است.",
+          "en": "Number twelve is the building number; second floor is the floor."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "elevator",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دربارهٔ آسانسور چه می‌فهمیم؟",
+          "en": "What do we learn about the elevator?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "وجود دارد ولی کوچک است",
+              "en": "There is one, but it is small"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آسانسور وجود ندارد",
+              "en": "There is no elevator"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "وجود دارد ولی خراب است",
+              "en": "There is one, but it is broken"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پاسخ No, there is not وجود آسانسور را رد می‌کند؛ خرابی گزارش نشده است.",
+          "en": "No, there is not denies its existence; a breakdown is not reported."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t03"
+        ]
+      },
+      {
+        "id": "duration",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "از آپارتمان تا خیابان حدوداً چقدر طول می‌کشد؟",
+          "en": "About how long does it take to reach the street from the apartment?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دوازده دقیقه",
+              "en": "Twelve minutes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج دقیقه",
+              "en": "Five minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دو دقیقه",
+              "en": "Two minutes"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "About two minutes یک مدت تقریبی است.",
+          "en": "About two minutes gives an approximate duration."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "parking-location",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پارکینگ کجاست؟",
+          "en": "Where is the parking area?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پشت ساختمان",
+              "en": "Behind the building"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جلوی ساختمان",
+              "en": "In front of the building"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کنار پارک",
+              "en": "Beside the park"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نیما محل پارک را behind the building می‌گوید.",
+          "en": "Nima locates parking behind the building."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

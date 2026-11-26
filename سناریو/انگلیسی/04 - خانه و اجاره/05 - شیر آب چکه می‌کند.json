@@ -1,0 +1,3413 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s05",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "شیر آب چکه می‌کند",
+    "en": "The Faucet Is Dripping"
+  },
+  "objective": {
+    "fa": "شرح نشتی، کار امتحان‌شده و برنامهٔ تماس با تعمیرکار قابل‌اعتماد.",
+    "en": "Describe a leak, an attempted repair and a plan to contact a reliable plumber."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "There is a small leak from the kitchen faucet in my apartment.",
+      "translation": {
+        "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+        "en": "There is a small leak from the kitchen faucet in my apartment."
+      },
+      "tokens": [
+        {
+          "surface": "There",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "وجود دارد؛ همراه there is",
+            "en": "with there is, says something exists"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "leak",
+          "gloss": {
+            "fa": "نشتی",
+            "en": "leak; unwanted escape of water"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        },
+        {
+          "surface": "faucet",
+          "gloss": {
+            "fa": "شیر آب",
+            "en": "faucet; a tap controlling water"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "apartment.",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "Is it dripping constantly, or only when you use it?",
+      "translation": {
+        "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+        "en": "Is it dripping constantly, or only when you use it?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "dripping",
+          "gloss": {
+            "fa": "چکه می‌کند",
+            "en": "dripping; letting drops fall"
+          }
+        },
+        {
+          "surface": "constantly,",
+          "gloss": {
+            "fa": "پیوسته",
+            "en": "constantly; all the time"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "use",
+          "gloss": {
+            "fa": "استفاده کردن",
+            "en": "use; make something serve a purpose"
+          }
+        },
+        {
+          "surface": "it?",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "It drips all the time, and the sound is bothering me at night.",
+      "translation": {
+        "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+        "en": "It drips all the time, and the sound is bothering me at night."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "drips",
+          "gloss": {
+            "fa": "چکه می‌کند",
+            "en": "drips; lets drops fall"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "در «all the time»: همیشه؛ دائماً",
+            "en": "In “all the time”: constantly"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "در «all the time»: همیشه؛ دائماً",
+            "en": "In “all the time”: constantly"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "در «all the time»: همیشه؛ دائماً",
+            "en": "In “all the time”: constantly"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "sound",
+          "gloss": {
+            "fa": "صدا",
+            "en": "sound; something heard"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "bothering",
+          "gloss": {
+            "fa": "اذیت می‌کند",
+            "en": "bothering; disturbing or annoying"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "night.",
+          "gloss": {
+            "fa": "شب",
+            "en": "night; the dark part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "Have you tried tightening the valve with a wrench?",
+      "translation": {
+        "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+        "en": "Have you tried tightening the valve with a wrench?"
+      },
+      "tokens": [
+        {
+          "surface": "Have",
+          "gloss": {
+            "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+            "en": "In “Have you tried”: asks whether a solution has already been attempted"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+            "en": "In “Have you tried”: asks whether a solution has already been attempted"
+          }
+        },
+        {
+          "surface": "tried",
+          "gloss": {
+            "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+            "en": "In “Have you tried”: asks whether a solution has already been attempted"
+          }
+        },
+        {
+          "surface": "tightening",
+          "gloss": {
+            "fa": "سفت کردن",
+            "en": "tightening; making a valve less loose"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "valve",
+          "gloss": {
+            "fa": "شیر کنترل؛ سوپاپ",
+            "en": "valve; a device controlling water flow"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "wrench?",
+          "gloss": {
+            "fa": "آچار",
+            "en": "wrench; a tool for gripping and turning nuts"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "I tried, but the leak continues, I think the seal is worn out.",
+      "translation": {
+        "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+        "en": "I tried, but the leak continues, I think the seal is worn out."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "tried,",
+          "gloss": {
+            "fa": "امتحان کرده‌ام",
+            "en": "tried; attempted something or tested a method"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "leak",
+          "gloss": {
+            "fa": "نشتی",
+            "en": "leak; unwanted escape of water"
+          }
+        },
+        {
+          "surface": "continues,",
+          "gloss": {
+            "fa": "ادامه دارد",
+            "en": "continues; keeps happening"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "seal",
+          "gloss": {
+            "fa": "واشر؛ آب‌بند",
+            "en": "seal; a part preventing water from escaping"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "worn",
+          "gloss": {
+            "fa": "در «worn out»: فرسوده",
+            "en": "In “worn out”: damaged through use"
+          }
+        },
+        {
+          "surface": "out.",
+          "gloss": {
+            "fa": "در «worn out»: فرسوده",
+            "en": "In “worn out”: damaged through use"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "You should call a plumber, it can get worse and waste a lot of water.",
+      "translation": {
+        "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+        "en": "You should call a plumber, it can get worse and waste a lot of water."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "call",
+          "gloss": {
+            "fa": "تماس تلفنی گرفتن با",
+            "en": "call; telephone someone"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "plumber,",
+          "gloss": {
+            "fa": "لوله‌کش",
+            "en": "plumber; a person repairing water systems"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "ممکن است",
+            "en": "can; a possible unwanted development"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "در «get worse»: بدتر شود",
+            "en": "In “get worse”: become more serious"
+          }
+        },
+        {
+          "surface": "worse",
+          "gloss": {
+            "fa": "در «get worse»: بدتر شود",
+            "en": "In “get worse”: become more serious"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "waste",
+          "gloss": {
+            "fa": "هدر دادن",
+            "en": "waste; use without benefit"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "lot",
+          "gloss": {
+            "fa": "مقدار زیاد",
+            "en": "lot; a large amount"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "water.",
+          "gloss": {
+            "fa": "آب",
+            "en": "water; the liquid supplied to a home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "I will call one tomorrow morning, do you know a reliable one?",
+      "translation": {
+        "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+        "en": "I will call one tomorrow morning, do you know a reliable one?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "call",
+          "gloss": {
+            "fa": "تماس تلفنی گرفتن با",
+            "en": "call; telephone someone"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی؛ اینجا یک لوله‌کش",
+            "en": "one; a plumber, avoiding repetition"
+          }
+        },
+        {
+          "surface": "tomorrow",
+          "gloss": {
+            "fa": "فردا",
+            "en": "tomorrow; the day after today"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "know",
+          "gloss": {
+            "fa": "دانستن؛ شناختن",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "reliable",
+          "gloss": {
+            "fa": "قابل‌اعتماد",
+            "en": "reliable; dependable"
+          }
+        },
+        {
+          "surface": "one?",
+          "gloss": {
+            "fa": "یکی؛ اینجا یک لوله‌کش",
+            "en": "one; a plumber, avoiding repetition"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+      "translation": {
+        "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+        "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "neighbor",
+          "gloss": {
+            "fa": "همسایه",
+            "en": "neighbor; someone living nearby"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "second",
+          "gloss": {
+            "fa": "دوم",
+            "en": "second; after the first"
+          }
+        },
+        {
+          "surface": "floor",
+          "gloss": {
+            "fa": "طبقهٔ ساختمان",
+            "en": "floor; a level in a building"
+          }
+        },
+        {
+          "surface": "fixed",
+          "gloss": {
+            "fa": "تعمیر کرد",
+            "en": "fixed; repaired, a past action"
+          }
+        },
+        {
+          "surface": "his",
+          "gloss": {
+            "fa": "مال او؛ برای مرد یا پسر",
+            "en": "his; belonging to a male person"
+          }
+        },
+        {
+          "surface": "taps",
+          "gloss": {
+            "fa": "شیرهای آب",
+            "en": "taps; faucets"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "plumber.",
+          "gloss": {
+            "fa": "لوله‌کش",
+            "en": "plumber; a person repairing water systems"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "Thank you, I will ask him for the phone number.",
+      "translation": {
+        "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+        "en": "Thank you, I will ask him for the phone number."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        },
+        {
+          "surface": "phone",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        },
+        {
+          "surface": "number.",
+          "gloss": {
+            "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+            "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "Please do, better to fix it now before it causes more damage.",
+      "translation": {
+        "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+        "en": "Please do, better to fix it now before it causes more damage."
+      },
+      "tokens": [
+        {
+          "surface": "Please",
+          "gloss": {
+            "fa": "در «Please do»: حتماً این کار را بکن",
+            "en": "In “Please do”: encourages the action just mentioned"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "در «Please do»: حتماً این کار را بکن",
+            "en": "In “Please do”: encourages the action just mentioned"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر",
+            "en": "better; more suitable or effective"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "fix",
+          "gloss": {
+            "fa": "تعمیر کردن",
+            "en": "fix; repair"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "now",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "causes",
+          "gloss": {
+            "fa": "باعث می‌شود",
+            "en": "causes; makes something happen"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "damage.",
+          "gloss": {
+            "fa": "خسارت",
+            "en": "damage; harm to property"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "there",
+        "text": "There",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "وجود دارد؛ همراه there is",
+          "en": "with there is, says something exists"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "leak",
+        "text": "leak",
+        "pronunciation": {
+          "faReading": "لیک",
+          "ipa": "/lik/"
+        },
+        "meaning": {
+          "fa": "نشتی",
+          "en": "leak; unwanted escape of water"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "faucet",
+        "text": "faucet",
+        "pronunciation": {
+          "faReading": "فاسِت",
+          "ipa": "/ˈfɔsət/"
+        },
+        "meaning": {
+          "fa": "شیر آب",
+          "en": "faucet; a tap controlling water"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "Is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "dripping",
+        "text": "dripping",
+        "pronunciation": {
+          "faReading": "دْریپینگ",
+          "ipa": "/ˈdrɪpɪŋ/"
+        },
+        "meaning": {
+          "fa": "چکه می‌کند",
+          "en": "dripping; letting drops fall"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "constantly",
+        "text": "constantly",
+        "pronunciation": {
+          "faReading": "کانستِنتلی",
+          "ipa": "/ˈkɑnstəntli/"
+        },
+        "meaning": {
+          "fa": "پیوسته",
+          "en": "constantly; all the time"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "use",
+        "text": "use",
+        "pronunciation": {
+          "faReading": "یوز",
+          "ipa": "/juz/"
+        },
+        "meaning": {
+          "fa": "استفاده کردن",
+          "en": "use; make something serve a purpose"
+        },
+        "example": {
+          "text": "Is it dripping constantly, or only when you use it?",
+          "translation": {
+            "fa": "دائماً چکه می‌کند یا فقط وقتی از آن استفاده می‌کنی؟",
+            "en": "Is it dripping constantly, or only when you use it?"
+          }
+        }
+      },
+      {
+        "id": "drips",
+        "text": "drips",
+        "pronunciation": {
+          "faReading": "دْریپس",
+          "ipa": "/drɪps/"
+        },
+        "meaning": {
+          "fa": "چکه می‌کند",
+          "en": "drips; lets drops fall"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "در «all the time»: همیشه؛ دائماً",
+          "en": "In “all the time”: constantly"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "the-2",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "در «all the time»: همیشه؛ دائماً",
+          "en": "In “all the time”: constantly"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "در «all the time»: همیشه؛ دائماً",
+          "en": "In “all the time”: constantly"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "sound",
+        "text": "sound",
+        "pronunciation": {
+          "faReading": "ساوند",
+          "ipa": "/saʊnd/"
+        },
+        "meaning": {
+          "fa": "صدا",
+          "en": "sound; something heard"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "bothering",
+        "text": "bothering",
+        "pronunciation": {
+          "faReading": "باذِرینگ",
+          "ipa": "/ˈbɑðɚɪŋ/"
+        },
+        "meaning": {
+          "fa": "اذیت می‌کند",
+          "en": "bothering; disturbing or annoying"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل یا زمان",
+          "en": "at; marks a place or time"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "night",
+        "text": "night",
+        "pronunciation": {
+          "faReading": "نایت",
+          "ipa": "/naɪt/"
+        },
+        "meaning": {
+          "fa": "شب",
+          "en": "night; the dark part of the day"
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "Have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+          "en": "In “Have you tried”: asks whether a solution has already been attempted"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+          "en": "In “Have you tried”: asks whether a solution has already been attempted"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "tried",
+        "text": "tried",
+        "pronunciation": {
+          "faReading": "تْراید",
+          "ipa": "/traɪd/"
+        },
+        "meaning": {
+          "fa": "در «Have you tried»: امتحان کرده‌ای؟",
+          "en": "In “Have you tried”: asks whether a solution has already been attempted"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "tightening",
+        "text": "tightening",
+        "pronunciation": {
+          "faReading": "تایتِنینگ",
+          "ipa": "/ˈtaɪtənɪŋ/"
+        },
+        "meaning": {
+          "fa": "سفت کردن",
+          "en": "tightening; making a valve less loose"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "valve",
+        "text": "valve",
+        "pronunciation": {
+          "faReading": "وَلو",
+          "ipa": "/vælv/"
+        },
+        "meaning": {
+          "fa": "شیر کنترل؛ سوپاپ",
+          "en": "valve; a device controlling water flow"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "wrench",
+        "text": "wrench",
+        "pronunciation": {
+          "faReading": "رِنچ",
+          "ipa": "/rɛntʃ/"
+        },
+        "meaning": {
+          "fa": "آچار",
+          "en": "wrench; a tool for gripping and turning nuts"
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "tried-2",
+        "text": "tried",
+        "pronunciation": {
+          "faReading": "تْراید",
+          "ipa": "/traɪd/"
+        },
+        "meaning": {
+          "fa": "امتحان کرده‌ام",
+          "en": "tried; attempted something or tested a method"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "continues",
+        "text": "continues",
+        "pronunciation": {
+          "faReading": "کِنتینیوز",
+          "ipa": "/kənˈtɪnjuz/"
+        },
+        "meaning": {
+          "fa": "ادامه دارد",
+          "en": "continues; keeps happening"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "seal",
+        "text": "seal",
+        "pronunciation": {
+          "faReading": "سیل",
+          "ipa": "/sil/"
+        },
+        "meaning": {
+          "fa": "واشر؛ آب‌بند",
+          "en": "seal; a part preventing water from escaping"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "worn",
+        "text": "worn",
+        "pronunciation": {
+          "faReading": "وورن",
+          "ipa": "/wɔrn/"
+        },
+        "meaning": {
+          "fa": "در «worn out»: فرسوده",
+          "en": "In “worn out”: damaged through use"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "out",
+        "text": "out",
+        "pronunciation": {
+          "faReading": "آوت",
+          "ipa": "/aʊt/"
+        },
+        "meaning": {
+          "fa": "در «worn out»: فرسوده",
+          "en": "In “worn out”: damaged through use"
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "call",
+        "text": "call",
+        "pronunciation": {
+          "faReading": "کال",
+          "ipa": "/kɔl/"
+        },
+        "meaning": {
+          "fa": "تماس تلفنی گرفتن با",
+          "en": "call; telephone someone"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "plumber",
+        "text": "plumber",
+        "pronunciation": {
+          "faReading": "پْلامِر",
+          "ipa": "/ˈplʌmɚ/"
+        },
+        "meaning": {
+          "fa": "لوله‌کش",
+          "en": "plumber; a person repairing water systems"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "ممکن است",
+          "en": "can; a possible unwanted development"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "در «get worse»: بدتر شود",
+          "en": "In “get worse”: become more serious"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "worse",
+        "text": "worse",
+        "pronunciation": {
+          "faReading": "وِرس",
+          "ipa": "/wɝs/"
+        },
+        "meaning": {
+          "fa": "در «get worse»: بدتر شود",
+          "en": "In “get worse”: become more serious"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "waste",
+        "text": "waste",
+        "pronunciation": {
+          "faReading": "وِیست",
+          "ipa": "/weɪst/"
+        },
+        "meaning": {
+          "fa": "هدر دادن",
+          "en": "waste; use without benefit"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "lot",
+        "text": "lot",
+        "pronunciation": {
+          "faReading": "لات",
+          "ipa": "/lɑt/"
+        },
+        "meaning": {
+          "fa": "مقدار زیاد",
+          "en": "lot; a large amount"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "آب",
+          "en": "water; the liquid supplied to a home"
+        },
+        "example": {
+          "text": "You should call a plumber, it can get worse and waste a lot of water.",
+          "translation": {
+            "fa": "باید به لوله‌کش زنگ بزنی؛ ممکن است بدتر شود و آب زیادی هدر بدهد.",
+            "en": "You should call a plumber, it can get worse and waste a lot of water."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یکی؛ اینجا یک لوله‌کش",
+          "en": "one; a plumber, avoiding repetition"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "tomorrow",
+        "text": "tomorrow",
+        "pronunciation": {
+          "faReading": "تُمارُو",
+          "ipa": "/təˈmɑroʊ/"
+        },
+        "meaning": {
+          "fa": "فردا",
+          "en": "tomorrow; the day after today"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "reliable",
+        "text": "reliable",
+        "pronunciation": {
+          "faReading": "ریلایِبِل",
+          "ipa": "/rɪˈlaɪəbəl/"
+        },
+        "meaning": {
+          "fa": "قابل‌اعتماد",
+          "en": "reliable; dependable"
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "neighbor",
+        "text": "neighbor",
+        "pronunciation": {
+          "faReading": "نِیبِر",
+          "ipa": "/ˈneɪbɚ/"
+        },
+        "meaning": {
+          "fa": "همسایه",
+          "en": "neighbor; someone living nearby"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "second",
+        "text": "second",
+        "pronunciation": {
+          "faReading": "سِکِند",
+          "ipa": "/ˈsɛkənd/"
+        },
+        "meaning": {
+          "fa": "دوم",
+          "en": "second; after the first"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "floor",
+        "text": "floor",
+        "pronunciation": {
+          "faReading": "فْلور",
+          "ipa": "/flɔr/"
+        },
+        "meaning": {
+          "fa": "طبقهٔ ساختمان",
+          "en": "floor; a level in a building"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "fixed",
+        "text": "fixed",
+        "pronunciation": {
+          "faReading": "فیکست",
+          "ipa": "/fɪkst/"
+        },
+        "meaning": {
+          "fa": "تعمیر کرد",
+          "en": "fixed; repaired, a past action"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "his",
+        "text": "his",
+        "pronunciation": {
+          "faReading": "هیز",
+          "ipa": "/hɪz/"
+        },
+        "meaning": {
+          "fa": "مال او؛ برای مرد یا پسر",
+          "en": "his; belonging to a male person"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "taps",
+        "text": "taps",
+        "pronunciation": {
+          "faReading": "تَپس",
+          "ipa": "/tæps/"
+        },
+        "meaning": {
+          "fa": "شیرهای آب",
+          "en": "taps; faucets"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Yes, the neighbor on the second floor fixed his taps with a good plumber.",
+          "translation": {
+            "fa": "بله، همسایهٔ طبقهٔ دوم شیرهای آبش را با کمک یک لوله‌کش خوب تعمیر کرد.",
+            "en": "Yes, the neighbor on the second floor fixed his taps with a good plumber."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "ask",
+        "text": "ask",
+        "pronunciation": {
+          "faReading": "اَسک",
+          "ipa": "/æsk/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "the-3",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "phone",
+        "text": "phone",
+        "pronunciation": {
+          "faReading": "فُون",
+          "ipa": "/foʊn/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "number",
+        "text": "number",
+        "pronunciation": {
+          "faReading": "نَمبِر",
+          "ipa": "/ˈnʌmbɚ/"
+        },
+        "meaning": {
+          "fa": "در «ask him for the phone number»: شماره را از همسایه بپرسم",
+          "en": "In “ask him for the phone number”: ask the neighbor to provide the plumber’s phone number"
+        },
+        "example": {
+          "text": "Thank you, I will ask him for the phone number.",
+          "translation": {
+            "fa": "ممنون، شمارهٔ تلفنش را از او می‌پرسم.",
+            "en": "Thank you, I will ask him for the phone number."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "Please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "در «Please do»: حتماً این کار را بکن",
+          "en": "In “Please do”: encourages the action just mentioned"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "do-2",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «Please do»: حتماً این کار را بکن",
+          "en": "In “Please do”: encourages the action just mentioned"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر",
+          "en": "better; more suitable or effective"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "fix",
+        "text": "fix",
+        "pronunciation": {
+          "faReading": "فیکس",
+          "ipa": "/fɪks/"
+        },
+        "meaning": {
+          "fa": "تعمیر کردن",
+          "en": "fix; repair"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "causes",
+        "text": "causes",
+        "pronunciation": {
+          "faReading": "کازِز",
+          "ipa": "/ˈkɔzɪz/"
+        },
+        "meaning": {
+          "fa": "باعث می‌شود",
+          "en": "causes; makes something happen"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      },
+      {
+        "id": "damage",
+        "text": "damage",
+        "pronunciation": {
+          "faReading": "دَمِج",
+          "ipa": "/ˈdæmɪdʒ/"
+        },
+        "meaning": {
+          "fa": "خسارت",
+          "en": "damage; harm to property"
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "constant-or-now",
+        "title": {
+          "fa": "نشتی همیشگی و آزار فعلی",
+          "en": "A constant leak and a current disturbance"
+        },
+        "explanation": {
+          "fa": "Is it dripping? دربارهٔ وضعیت فعلی می‌پرسد. It drips all the time عادت یا مشکل تکراری را می‌گوید. is bothering me یعنی این صدا الان در این دوره اذیتم می‌کند، به‌ویژه شب‌ها.",
+          "en": "Is it dripping? asks about the current situation. It drips all the time describes a repeated problem. Is bothering me focuses on the disturbance being experienced now, especially at night."
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        },
+        "takeaway": {
+          "fa": "drips برای تکرار؛ is bothering برای آزار در این دوره.",
+          "en": "Drips gives a recurring problem; is bothering gives the current disturbance."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نشتی همیشگی و آزار فعلی",
+              "en": "A constant leak and a current disturbance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Is it dripping constantly"
+                },
+                {
+                  "text": "Is it + action ending in -ing?"
+                },
+                {
+                  "fa": "دائماً چکه می‌کند؟",
+                  "en": "Asks about the ongoing leak"
+                }
+              ],
+              [
+                {
+                  "text": "It drips all the time"
+                },
+                {
+                  "text": "It + action + all the time"
+                },
+                {
+                  "fa": "همیشه چکه می‌کند",
+                  "en": "A repeated problem"
+                }
+              ],
+              [
+                {
+                  "text": "the sound is bothering me"
+                },
+                {
+                  "text": "thing + is + action ending in -ing"
+                },
+                {
+                  "fa": "صدا اذیتم می‌کند",
+                  "en": "A current effect"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tried-action",
+        "title": {
+          "fa": "چه کاری را امتحان کرده‌ای؟",
+          "en": "What have you tried?"
+        },
+        "explanation": {
+          "fa": "Have you tried tightening ...? می‌پرسد آیا این راه‌حل را امتحان کرده‌ای. بعد از tried در این سؤال tightening می‌آید. I tried پاسخ می‌دهد که امتحان کرده، ولی ادامهٔ نشتی یعنی موفق نشده؛ امتحان کردن با درست شدن یکی نیست.",
+          "en": "Have you tried tightening ...? asks whether a possible solution has been attempted. Tightening follows tried here. I tried confirms the attempt, but the continuing leak shows that trying did not solve it."
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        },
+        "takeaway": {
+          "fa": "tried + کار با -ing یعنی امتحان کردن یک راه‌حل.",
+          "en": "Tried + an -ing action means testing a possible solution."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "چه کاری را امتحان کرده‌ای؟",
+              "en": "What have you tried?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Have you tried tightening the valve"
+                },
+                {
+                  "text": "Have you tried + action ending in -ing?"
+                },
+                {
+                  "fa": "سفت کردن شیر را امتحان کرده‌ای؟",
+                  "en": "Asks about an attempted solution"
+                }
+              ],
+              [
+                {
+                  "text": "I tried, but the leak continues"
+                },
+                {
+                  "text": "I tried + but + continuing problem"
+                },
+                {
+                  "fa": "امتحان کردم ولی نشتی ادامه دارد",
+                  "en": "An attempt without success"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "diagnosis-and-risk",
+        "title": {
+          "fa": "حدس خرابی و احتمال خطر",
+          "en": "A suspected fault and a risk"
+        },
+        "explanation": {
+          "fa": "I think نشان می‌دهد فرسودگی واشر تشخیص قطعی متخصص نیست. worn out یعنی بر اثر استفاده فرسوده. can get worse امکان بدترشدن را می‌گوید، نه اینکه حتماً رخ خواهد داد.",
+          "en": "I think marks the worn seal as a suspicion, not an expert’s confirmed diagnosis. Worn out means damaged through use. Can get worse states a possibility, not a guaranteed outcome."
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        },
+        "takeaway": {
+          "fa": "I think حدس است؛ can اینجا احتمال را می‌گوید.",
+          "en": "I think signals a belief; can gives a possible development."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حدس خرابی و احتمال خطر",
+              "en": "A suspected fault and a risk"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I think the seal is worn out"
+                },
+                {
+                  "text": "I think + suspected cause"
+                },
+                {
+                  "fa": "فکر می‌کنم واشر فرسوده است",
+                  "en": "A non-expert diagnosis"
+                }
+              ],
+              [
+                {
+                  "text": "it can get worse and waste a lot of water"
+                },
+                {
+                  "text": "can + possible result"
+                },
+                {
+                  "fa": "ممکن است بدتر شود و آب هدر دهد",
+                  "en": "Risk, not certainty"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "should-and-will",
+        "title": {
+          "fa": "پیشنهاد و تصمیم",
+          "en": "Advice and a decision"
+        },
+        "explanation": {
+          "fa": "You should call a plumber پیشنهاد جدی است. I will call one tomorrow morning تصمیم آرمان را می‌گوید. one به plumber برمی‌گردد؛ لازم نیست دوباره اسم شغل را بگوید.",
+          "en": "You should call a plumber gives clear advice. I will call one tomorrow morning states Arman’s decision. One replaces plumber, avoiding repetition of the job title."
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        },
+        "takeaway": {
+          "fa": "should برای توصیه؛ will برای تصمیم این مکالمه.",
+          "en": "Should gives advice; will states the decision in this exchange."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد و تصمیم",
+              "en": "Advice and a decision"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "You should call a plumber"
+                },
+                {
+                  "text": "should + action"
+                },
+                {
+                  "fa": "بهتر است به لوله‌کش زنگ بزنی",
+                  "en": "Advice"
+                }
+              ],
+              [
+                {
+                  "text": "I will call one tomorrow morning"
+                },
+                {
+                  "text": "will + action + time"
+                },
+                {
+                  "fa": "فردا صبح به یکی زنگ می‌زنم",
+                  "en": "A decision with a future time"
+                }
+              ],
+              [
+                {
+                  "text": "do you know a reliable one"
+                },
+                {
+                  "text": "a + description + one"
+                },
+                {
+                  "fa": "یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+                  "en": "One replaces plumber"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "before-damage-and-reference",
+        "title": {
+          "fa": "قبل از خسارت؛ شمارهٔ چه کسی؟",
+          "en": "Before damage; whose contact?"
+        },
+        "explanation": {
+          "fa": "before it causes more damage یعنی قبل از اینکه نشتی خسارت بیشتری بزند؛ بعد از before برای این آینده causes آمده، نه will cause. در ask him، him همسایه است؛ شماره‌ای که می‌خواهد شمارهٔ لوله‌کش است. Please do او را به پرسیدن تشویق می‌کند.",
+          "en": "Before it causes more damage places repair earlier than further harm; causes, not will cause, follows before for this future event. In ask him, him means the neighbor, while the phone number sought is the plumber’s. Please do encourages asking."
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        },
+        "takeaway": {
+          "fa": "بعد از before برای آینده هم فعل ساده می‌آید.",
+          "en": "A simple present form can follow before for a future event."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قبل از خسارت؛ شمارهٔ چه کسی؟",
+              "en": "Before damage; whose contact?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "before it causes more damage"
+                },
+                {
+                  "text": "before + present action"
+                },
+                {
+                  "fa": "قبل از اینکه خسارت بیشتری بزند",
+                  "en": "Repair should precede further damage"
+                }
+              ],
+              [
+                {
+                  "text": "I will ask him for the phone number"
+                },
+                {
+                  "text": "ask + person + for + information"
+                },
+                {
+                  "fa": "شماره را از همسایه می‌پرسم",
+                  "en": "A route to the plumber’s contact"
+                }
+              ],
+              [
+                {
+                  "text": "Please do"
+                },
+                {
+                  "text": "Please + do"
+                },
+                {
+                  "fa": "حتماً این کار را بکن",
+                  "en": "Encourages the proposed action"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "leak",
+        "text": "a small leak",
+        "pronunciation": {
+          "faReading": "اِ سْمال لیک",
+          "ipa": "/ə smɔl lik/"
+        },
+        "meaning": {
+          "fa": "یک نشتی کوچک",
+          "en": "A small escape of water"
+        },
+        "context": {
+          "fa": "مشکل شیر آشپزخانه است.",
+          "en": "The kitchen faucet problem."
+        },
+        "example": {
+          "text": "There is a small leak from the kitchen faucet in my apartment.",
+          "translation": {
+            "fa": "از شیر آب آشپزخانهٔ آپارتمانم کمی آب نشت می‌کند.",
+            "en": "There is a small leak from the kitchen faucet in my apartment."
+          }
+        }
+      },
+      {
+        "id": "constant",
+        "text": "all the time",
+        "pronunciation": {
+          "faReading": "آل ذِ تایم",
+          "ipa": "/ɔl ðə taɪm/"
+        },
+        "meaning": {
+          "fa": "دائماً",
+          "en": "Constantly"
+        },
+        "context": {
+          "fa": "آرمان می‌گوید چکه محدود به زمان استفاده نیست.",
+          "en": "Arman says the drip is not limited to use."
+        },
+        "example": {
+          "text": "It drips all the time, and the sound is bothering me at night.",
+          "translation": {
+            "fa": "همیشه چکه می‌کند و صدایش شب‌ها اذیتم می‌کند.",
+            "en": "It drips all the time, and the sound is bothering me at night."
+          }
+        }
+      },
+      {
+        "id": "tried",
+        "text": "Have you tried tightening the valve",
+        "pronunciation": {
+          "faReading": "هَو یو تْراید تایتِنینگ ذِ وَلو",
+          "ipa": "/hæv ju traɪd ˈtaɪtənɪŋ ðə vælv/"
+        },
+        "meaning": {
+          "fa": "سفت‌کردن شیر را امتحان کرده‌ای؟",
+          "en": "Have you attempted to tighten the valve?"
+        },
+        "context": {
+          "fa": "پرسش دربارهٔ راه‌حلی است که شاید امتحان شده باشد.",
+          "en": "Asks about a possible attempted solution."
+        },
+        "example": {
+          "text": "Have you tried tightening the valve with a wrench?",
+          "translation": {
+            "fa": "امتحان کرده‌ای با آچار شیر کنترل را سفت کنی؟",
+            "en": "Have you tried tightening the valve with a wrench?"
+          }
+        }
+      },
+      {
+        "id": "worn",
+        "text": "worn out",
+        "pronunciation": {
+          "faReading": "وورن آوت",
+          "ipa": "/wɔrn aʊt/"
+        },
+        "meaning": {
+          "fa": "فرسوده",
+          "en": "Damaged through use"
+        },
+        "context": {
+          "fa": "حدس آرمان دربارهٔ واشر است، نه تشخیص قطعی.",
+          "en": "Arman’s suspicion about the seal, not a confirmed diagnosis."
+        },
+        "example": {
+          "text": "I tried, but the leak continues, I think the seal is worn out.",
+          "translation": {
+            "fa": "امتحان کردم، ولی نشتی ادامه دارد؛ فکر می‌کنم واشر فرسوده شده است.",
+            "en": "I tried, but the leak continues, I think the seal is worn out."
+          }
+        }
+      },
+      {
+        "id": "reliable",
+        "text": "a reliable one",
+        "pronunciation": {
+          "faReading": "اِ ریلایِبِل وان",
+          "ipa": "/ə rɪˈlaɪəbəl wʌn/"
+        },
+        "meaning": {
+          "fa": "یک لوله‌کش قابل‌اعتماد",
+          "en": "A dependable plumber"
+        },
+        "context": {
+          "fa": "one جای plumber را می‌گیرد.",
+          "en": "One replaces plumber."
+        },
+        "example": {
+          "text": "I will call one tomorrow morning, do you know a reliable one?",
+          "translation": {
+            "fa": "فردا صبح به یکی زنگ می‌زنم؛ یک لوله‌کش قابل‌اعتماد می‌شناسی؟",
+            "en": "I will call one tomorrow morning, do you know a reliable one?"
+          }
+        }
+      },
+      {
+        "id": "prevent",
+        "text": "before it causes more damage",
+        "pronunciation": {
+          "faReading": "بیفور ایت کازِز مور دَمِج",
+          "ipa": "/bɪˈfɔr ɪt ˈkɔzɪz mɔr ˈdæmɪdʒ/"
+        },
+        "meaning": {
+          "fa": "قبل از خسارت بیشتر",
+          "en": "Before it causes further damage"
+        },
+        "context": {
+          "fa": "دلیل تعویق‌نینداختن تعمیر است.",
+          "en": "A reason not to delay the repair."
+        },
+        "example": {
+          "text": "Please do, better to fix it now before it causes more damage.",
+          "translation": {
+            "fa": "حتماً بپرس؛ بهتر است همین حالا تعمیرش کنی، قبل از اینکه خسارت بیشتری ایجاد کند.",
+            "en": "Please do, better to fix it now before it causes more damage."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مسیر گفت‌وگو چیست؟",
+          "en": "What is the conversation’s progression?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خرید شیر نو و نصب فوری",
+              "en": "Buying a new faucet and installing it immediately"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اعتراض به قبض و کاهش هزینه",
+              "en": "Disputing a bill and reducing costs"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شرح نشتی و پیدا کردن راه تماس با لوله‌کش",
+              "en": "Describing a leak and finding a plumber’s contact"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "تلاش قبلی نتیجه نداده و آرمان می‌خواهد شمارهٔ لوله‌کش را از همسایه بپرسد.",
+          "en": "The earlier attempt failed; Arman plans to get a plumber’s number from the neighbor."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t05",
+          "t07",
+          "t08",
+          "t09"
+        ]
+      },
+      {
+        "id": "frequency",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شیر آب چه زمانی چکه می‌کند؟",
+          "en": "When does the faucet drip?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همیشه",
+              "en": "All the time"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط هنگام استفاده",
+              "en": "Only during use"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط صبح‌ها",
+              "en": "Only in the morning"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "It drips all the time در برابر only when you use it آمده است.",
+          "en": "It drips all the time contrasts with only when you use it."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t03"
+        ]
+      },
+      {
+        "id": "attempt",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان چه راهی را امتحان کرده است؟",
+          "en": "What has Arman already tried?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تعویض کل لوله",
+              "en": "Replacing the whole pipe"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سفت‌کردن شیر کنترل با آچار",
+              "en": "Tightening the valve with a wrench"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نصب شیر آب تازه",
+              "en": "Installing a new faucet"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "I tried به سؤال سارا دربارهٔ tightening the valve پاسخ می‌دهد.",
+          "en": "I tried answers Sara’s question about tightening the valve."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "contact",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان شمارهٔ لوله‌کش را از چه کسی می‌خواهد بپرسد؟",
+          "en": "Whom does Arman plan to ask for the plumber’s phone number?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مدیر ساختمان",
+              "en": "The building manager"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "همکارش",
+              "en": "His colleague"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همسایهٔ طبقهٔ دوم",
+              "en": "The second-floor neighbor"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سارا همسایه‌ای را معرفی می‌کند که از لوله‌کش خوب کمک گرفته؛ him در پاسخ به همان همسایه برمی‌گردد.",
+          "en": "Sara identifies the neighbor who used a good plumber; him refers to that neighbor."
+        },
+        "evidenceTurnIds": [
+          "t08",
+          "t09"
+        ]
+      },
+      {
+        "id": "timing",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان کی می‌خواهد زنگ بزند؟",
+          "en": "When does Arman plan to call a plumber?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فردا صبح",
+              "en": "Tomorrow morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "امشب",
+              "en": "Tonight"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "او می‌گوید I will call one tomorrow morning.",
+          "en": "He says I will call one tomorrow morning."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

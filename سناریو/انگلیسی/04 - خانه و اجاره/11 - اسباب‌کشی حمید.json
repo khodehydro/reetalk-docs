@@ -1,0 +1,4321 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s11",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "اسباب‌کشی حمید",
+    "en": "Hamid’s Move"
+  },
+  "objective": {
+    "fa": "تفکیک فعالیت ادامه‌دار، کار تمام‌شده و برنامهٔ آینده در آماده‌سازی اسباب‌کشی.",
+    "en": "Distinguish ongoing work, completed tasks and future arrangements when preparing a move."
+  },
+  "speakers": [
+    {
+      "id": "hamid",
+      "name": "Hamid",
+      "gender": "man"
+    },
+    {
+      "id": "sahar",
+      "name": "Sahar",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "hamid",
+      "text": "I have been packing my things for the move all day.",
+      "translation": {
+        "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+        "en": "I have been packing my things for the move all day."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+            "en": "In “have been packing”: an activity continuing up to now"
+          }
+        },
+        {
+          "surface": "been",
+          "gloss": {
+            "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+            "en": "In “have been packing”: an activity continuing up to now"
+          }
+        },
+        {
+          "surface": "packing",
+          "gloss": {
+            "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+            "en": "In “have been packing”: an activity continuing up to now"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "things",
+          "gloss": {
+            "fa": "چیزها؛ وسایل",
+            "en": "things; objects or belongings"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "move",
+          "gloss": {
+            "fa": "اسباب‌کشی",
+            "en": "move; relocation to another home"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; the whole amount or period"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sahar",
+      "text": "How much is left, is it the kitchen or the bedrooms now?",
+      "translation": {
+        "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+        "en": "How much is left, is it the kitchen or the bedrooms now?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار کار",
+            "en": "In “How much”: asks about the quantity of remaining work"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار کار",
+            "en": "In “How much”: asks about the quantity of remaining work"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "left,",
+          "gloss": {
+            "fa": "باقی مانده",
+            "en": "left; still to be packed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bedrooms",
+          "gloss": {
+            "fa": "اتاق‌خواب‌ها",
+            "en": "bedrooms; rooms for sleeping"
+          }
+        },
+        {
+          "surface": "now?",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "hamid",
+      "text": "The kitchen is done, now I am sorting the books and the clothes.",
+      "translation": {
+        "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+        "en": "The kitchen is done, now I am sorting the books and the clothes."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «is done»: تمام شده است",
+            "en": "In “is done”: the kitchen packing is complete"
+          }
+        },
+        {
+          "surface": "done,",
+          "gloss": {
+            "fa": "در «is done»: تمام شده است",
+            "en": "In “is done”: the kitchen packing is complete"
+          }
+        },
+        {
+          "surface": "now",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sorting",
+          "gloss": {
+            "fa": "دسته‌بندی کردن",
+            "en": "sorting; arranging things into groups"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "books",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "clothes.",
+          "gloss": {
+            "fa": "لباس‌ها",
+            "en": "clothes; things people wear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sahar",
+      "text": "Have you decided what to keep and what to give away?",
+      "translation": {
+        "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+        "en": "Have you decided what to keep and what to give away?"
+      },
+      "tokens": [
+        {
+          "surface": "Have",
+          "gloss": {
+            "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+            "en": "In “Have you decided”: asks about a choice relevant now"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+            "en": "In “Have you decided”: asks about a choice relevant now"
+          }
+        },
+        {
+          "surface": "decided",
+          "gloss": {
+            "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+            "en": "In “Have you decided”: asks about a choice relevant now"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "keep",
+          "gloss": {
+            "fa": "نگه داشتن",
+            "en": "keep; retain or maintain"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "در «give away»: بخشیدن؛ رایگان به دیگری دادن",
+            "en": "In “give away”: give to someone else without payment"
+          }
+        },
+        {
+          "surface": "away?",
+          "gloss": {
+            "fa": "در «give away»: بخشیدن؛ رایگان به دیگری دادن",
+            "en": "In “give away”: give to someone else without payment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "hamid",
+      "text": "I am keeping the books and essentials, and giving away old clothes.",
+      "translation": {
+        "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+        "en": "I am keeping the books and essentials, and giving away old clothes."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "keeping",
+          "gloss": {
+            "fa": "نگه داشتن",
+            "en": "keeping; retaining rather than giving away"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "books",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "essentials,",
+          "gloss": {
+            "fa": "وسایل ضروری",
+            "en": "essentials; necessary items"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "giving",
+          "gloss": {
+            "fa": "در «giving away»: می‌بخشم؛ رایگان می‌دهم",
+            "en": "In “giving away”: giving to someone else without payment"
+          }
+        },
+        {
+          "surface": "away",
+          "gloss": {
+            "fa": "در «giving away»: می‌بخشم؛ رایگان می‌دهم",
+            "en": "In “giving away”: giving to someone else without payment"
+          }
+        },
+        {
+          "surface": "old",
+          "gloss": {
+            "fa": "قدیمی؛ کهنه",
+            "en": "old; not new"
+          }
+        },
+        {
+          "surface": "clothes.",
+          "gloss": {
+            "fa": "لباس‌ها",
+            "en": "clothes; things people wear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sahar",
+      "text": "Do not forget to label the boxes, it will save you time at the new place.",
+      "translation": {
+        "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+        "en": "Do not forget to label the boxes, it will save you time at the new place."
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "در «Do not forget»: یادت نرود",
+            "en": "In “Do not forget”: reminds someone to perform an action"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "در «Do not forget»: یادت نرود",
+            "en": "In “Do not forget”: reminds someone to perform an action"
+          }
+        },
+        {
+          "surface": "forget",
+          "gloss": {
+            "fa": "در «Do not forget»: یادت نرود",
+            "en": "In “Do not forget”: reminds someone to perform an action"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "label",
+          "gloss": {
+            "fa": "برچسب زدن",
+            "en": "label; mark a container to identify it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "boxes,",
+          "gloss": {
+            "fa": "جعبه‌ها",
+            "en": "boxes; containers for things"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "save",
+          "gloss": {
+            "fa": "صرفه‌جویی می‌کند در",
+            "en": "save; reduce the time needed"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ برای محل یا زمان",
+            "en": "at; marks a place or time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "place.",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "hamid",
+      "text": "I am labeling them by room, and I have made a list of the contents.",
+      "translation": {
+        "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+        "en": "I am labeling them by room, and I have made a list of the contents."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "labeling",
+          "gloss": {
+            "fa": "برچسب می‌زنم",
+            "en": "labeling; marking containers to identify them"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; refers back to things or people already mentioned"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "بر اساسِ؛ طبقِ اتاق",
+            "en": "by; organized according to room"
+          }
+        },
+        {
+          "surface": "room,",
+          "gloss": {
+            "fa": "اتاق",
+            "en": "room; a space within a home"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have made»: تهیه کرده‌ام",
+            "en": "In “have made”: completed a list that is useful now"
+          }
+        },
+        {
+          "surface": "made",
+          "gloss": {
+            "fa": "در «have made»: تهیه کرده‌ام",
+            "en": "In “have made”: completed a list that is useful now"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "list",
+          "gloss": {
+            "fa": "فهرست",
+            "en": "list; a written set of items"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contents.",
+          "gloss": {
+            "fa": "محتویات",
+            "en": "contents; things inside a container"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sahar",
+      "text": "That is very organized, have you hired a van for the moving day?",
+      "translation": {
+        "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+        "en": "That is very organized, have you hired a van for the moving day?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "organized,",
+          "gloss": {
+            "fa": "منظم",
+            "en": "organized; having things arranged clearly"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "همراه hired: کرایه کرده‌ای",
+            "en": "have; connects the vehicle booking with readiness now"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "hired",
+          "gloss": {
+            "fa": "کرایه کرده‌ای",
+            "en": "hired; arranged paid use of a vehicle"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "van",
+          "gloss": {
+            "fa": "ون؛ خودروی باری کوچک",
+            "en": "van; a vehicle for carrying goods"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "moving",
+          "gloss": {
+            "fa": "اسباب‌کشی کردن",
+            "en": "moving; relocating to another home"
+          }
+        },
+        {
+          "surface": "day?",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "hamid",
+      "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+      "translation": {
+        "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+        "en": "Yes, the van is booked for Saturday morning, with two helpers."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "van",
+          "gloss": {
+            "fa": "ون؛ خودروی باری کوچک",
+            "en": "van; a vehicle for carrying goods"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "booked",
+          "gloss": {
+            "fa": "رزرو شده",
+            "en": "booked; reserved in advance"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "Saturday",
+          "gloss": {
+            "fa": "شنبه",
+            "en": "Saturday; the day after Friday"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "همراه با؛ شاملِ",
+            "en": "with; includes two helpers in this arrangement"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "helpers.",
+          "gloss": {
+            "fa": "کمک‌کارها",
+            "en": "helpers; people assisting with the move"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sahar",
+      "text": "Then you are almost ready, and the new place awaits you.",
+      "translation": {
+        "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+        "en": "Then you are almost ready, and the new place awaits you."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "almost",
+          "gloss": {
+            "fa": "تقریباً",
+            "en": "almost; nearly"
+          }
+        },
+        {
+          "surface": "ready,",
+          "gloss": {
+            "fa": "آماده",
+            "en": "ready; prepared to act"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "place",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        },
+        {
+          "surface": "awaits",
+          "gloss": {
+            "fa": "منتظر است",
+            "en": "awaits; is waiting for"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "hamid",
+      "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+      "translation": {
+        "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+        "en": "I am tired but excited, moving to a bigger apartment is a good step."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "tired",
+          "gloss": {
+            "fa": "خسته",
+            "en": "tired; needing rest"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "excited,",
+          "gloss": {
+            "fa": "هیجان‌زده",
+            "en": "excited; happy and eager"
+          }
+        },
+        {
+          "surface": "moving",
+          "gloss": {
+            "fa": "اسباب‌کشی کردن",
+            "en": "moving; relocating to another home"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "bigger",
+          "gloss": {
+            "fa": "بزرگ‌تر",
+            "en": "bigger; larger"
+          }
+        },
+        {
+          "surface": "apartment",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "step.",
+          "gloss": {
+            "fa": "اقدام؛ مرحله",
+            "en": "step; an action in a process"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "sahar",
+      "text": "It is, and once everything is unpacked, it will feel like home.",
+      "translation": {
+        "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+        "en": "It is, and once everything is unpacked, it will feel like home."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "once",
+          "gloss": {
+            "fa": "وقتی که؛ به محض اینکه",
+            "en": "once; when a specified event happens"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "unpacked,",
+          "gloss": {
+            "fa": "از بسته‌ها خارج‌شده",
+            "en": "unpacked; removed from boxes after a move"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience an emotion or impression"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مثلِ",
+            "en": "like; similar to"
+          }
+        },
+        {
+          "surface": "home.",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "hamid",
+      "text": "I hope so, and I will invite you to the housewarming next week.",
+      "translation": {
+        "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+        "en": "I hope so, and I will invite you to the housewarming next week."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+            "en": "In “I hope so”: expresses hope that the home will feel like home"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+            "en": "In “I hope so”: expresses hope that the home will feel like home"
+          }
+        },
+        {
+          "surface": "so,",
+          "gloss": {
+            "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+            "en": "In “I hope so”: expresses hope that the home will feel like home"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "invite",
+          "gloss": {
+            "fa": "دعوت کردن",
+            "en": "invite; ask someone to attend"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "housewarming",
+          "gloss": {
+            "fa": "جشن خانهٔ جدید",
+            "en": "housewarming; a party celebrating a new home"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "sahar",
+      "text": "I would love that, congratulations on the new home.",
+      "translation": {
+        "fa": "خیلی دوست دارم؛ خانهٔ جدید مبارک.",
+        "en": "I would love that, congratulations on the new home."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would love»: خیلی دوست دارم",
+            "en": "In “would love”: enthusiastically accepts the invitation"
+          }
+        },
+        {
+          "surface": "love",
+          "gloss": {
+            "fa": "در «would love»: خیلی دوست دارم",
+            "en": "In “would love”: enthusiastically accepts the invitation"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "congratulations",
+          "gloss": {
+            "fa": "تبریک",
+            "en": "congratulations; words celebrating good news"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بابت؛ برای تبریک خانهٔ جدید",
+            "en": "on; links congratulations to the new home"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "home.",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+          "en": "In “have been packing”: an activity continuing up to now"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "been",
+        "text": "been",
+        "pronunciation": {
+          "faReading": "بین",
+          "ipa": "/bɪn/"
+        },
+        "meaning": {
+          "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+          "en": "In “have been packing”: an activity continuing up to now"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "packing",
+        "text": "packing",
+        "pronunciation": {
+          "faReading": "پَکینگ",
+          "ipa": "/ˈpækɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «have been packing»: مدتی است مشغول بسته‌بندی بوده‌ام",
+          "en": "In “have been packing”: an activity continuing up to now"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "things",
+        "text": "things",
+        "pronunciation": {
+          "faReading": "ثینگْز",
+          "ipa": "/θɪŋz/"
+        },
+        "meaning": {
+          "fa": "چیزها؛ وسایل",
+          "en": "things; objects or belongings"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "move",
+        "text": "move",
+        "pronunciation": {
+          "faReading": "موو",
+          "ipa": "/muv/"
+        },
+        "meaning": {
+          "fa": "اسباب‌کشی",
+          "en": "move; relocation to another home"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; the whole amount or period"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار کار",
+          "en": "In “How much”: asks about the quantity of remaining work"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار کار",
+          "en": "In “How much”: asks about the quantity of remaining work"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "left",
+        "text": "left",
+        "pronunciation": {
+          "faReading": "لِفت",
+          "ipa": "/lɛft/"
+        },
+        "meaning": {
+          "fa": "باقی مانده",
+          "en": "left; still to be packed"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "bedrooms",
+        "text": "bedrooms",
+        "pronunciation": {
+          "faReading": "بِدرومز",
+          "ipa": "/ˈbɛdrumz/"
+        },
+        "meaning": {
+          "fa": "اتاق‌خواب‌ها",
+          "en": "bedrooms; rooms for sleeping"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «is done»: تمام شده است",
+          "en": "In “is done”: the kitchen packing is complete"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "done",
+        "text": "done",
+        "pronunciation": {
+          "faReading": "دان",
+          "ipa": "/dʌn/"
+        },
+        "meaning": {
+          "fa": "در «is done»: تمام شده است",
+          "en": "In “is done”: the kitchen packing is complete"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "sorting",
+        "text": "sorting",
+        "pronunciation": {
+          "faReading": "سورتینگ",
+          "ipa": "/ˈsɔrtɪŋ/"
+        },
+        "meaning": {
+          "fa": "دسته‌بندی کردن",
+          "en": "sorting; arranging things into groups"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "books",
+        "text": "books",
+        "pronunciation": {
+          "faReading": "بوکس",
+          "ipa": "/bʊks/"
+        },
+        "meaning": {
+          "fa": "کتاب‌ها",
+          "en": "books; things to read"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "clothes",
+        "text": "clothes",
+        "pronunciation": {
+          "faReading": "کْلُوذز",
+          "ipa": "/kloʊðz/"
+        },
+        "meaning": {
+          "fa": "لباس‌ها",
+          "en": "clothes; things people wear"
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        }
+      },
+      {
+        "id": "have-2",
+        "text": "Have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+          "en": "In “Have you decided”: asks about a choice relevant now"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+          "en": "In “Have you decided”: asks about a choice relevant now"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "decided",
+        "text": "decided",
+        "pronunciation": {
+          "faReading": "دیسایدِد",
+          "ipa": "/dɪˈsaɪdɪd/"
+        },
+        "meaning": {
+          "fa": "در «Have you decided»: تصمیم گرفته‌ای؟",
+          "en": "In “Have you decided”: asks about a choice relevant now"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "keep",
+        "text": "keep",
+        "pronunciation": {
+          "faReading": "کیپ",
+          "ipa": "/kip/"
+        },
+        "meaning": {
+          "fa": "نگه داشتن",
+          "en": "keep; retain or maintain"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "در «give away»: بخشیدن؛ رایگان به دیگری دادن",
+          "en": "In “give away”: give to someone else without payment"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "away",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "در «give away»: بخشیدن؛ رایگان به دیگری دادن",
+          "en": "In “give away”: give to someone else without payment"
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "keeping",
+        "text": "keeping",
+        "pronunciation": {
+          "faReading": "کیپینگ",
+          "ipa": "/ˈkipɪŋ/"
+        },
+        "meaning": {
+          "fa": "نگه داشتن",
+          "en": "keeping; retaining rather than giving away"
+        },
+        "example": {
+          "text": "I am keeping the books and essentials, and giving away old clothes.",
+          "translation": {
+            "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+            "en": "I am keeping the books and essentials, and giving away old clothes."
+          }
+        }
+      },
+      {
+        "id": "essentials",
+        "text": "essentials",
+        "pronunciation": {
+          "faReading": "ایسِنشِلز",
+          "ipa": "/ɪˈsɛnʃəlz/"
+        },
+        "meaning": {
+          "fa": "وسایل ضروری",
+          "en": "essentials; necessary items"
+        },
+        "example": {
+          "text": "I am keeping the books and essentials, and giving away old clothes.",
+          "translation": {
+            "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+            "en": "I am keeping the books and essentials, and giving away old clothes."
+          }
+        }
+      },
+      {
+        "id": "giving",
+        "text": "giving",
+        "pronunciation": {
+          "faReading": "گیوینگ",
+          "ipa": "/ˈɡɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «giving away»: می‌بخشم؛ رایگان می‌دهم",
+          "en": "In “giving away”: giving to someone else without payment"
+        },
+        "example": {
+          "text": "I am keeping the books and essentials, and giving away old clothes.",
+          "translation": {
+            "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+            "en": "I am keeping the books and essentials, and giving away old clothes."
+          }
+        }
+      },
+      {
+        "id": "away-2",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "در «giving away»: می‌بخشم؛ رایگان می‌دهم",
+          "en": "In “giving away”: giving to someone else without payment"
+        },
+        "example": {
+          "text": "I am keeping the books and essentials, and giving away old clothes.",
+          "translation": {
+            "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+            "en": "I am keeping the books and essentials, and giving away old clothes."
+          }
+        }
+      },
+      {
+        "id": "old",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "قدیمی؛ کهنه",
+          "en": "old; not new"
+        },
+        "example": {
+          "text": "I am keeping the books and essentials, and giving away old clothes.",
+          "translation": {
+            "fa": "کتاب‌ها و وسایل ضروری را نگه می‌دارم و لباس‌های قدیمی را می‌بخشم.",
+            "en": "I am keeping the books and essentials, and giving away old clothes."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "در «Do not forget»: یادت نرود",
+          "en": "In “Do not forget”: reminds someone to perform an action"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "در «Do not forget»: یادت نرود",
+          "en": "In “Do not forget”: reminds someone to perform an action"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "forget",
+        "text": "forget",
+        "pronunciation": {
+          "faReading": "فِرگِت",
+          "ipa": "/fɚˈɡɛt/"
+        },
+        "meaning": {
+          "fa": "در «Do not forget»: یادت نرود",
+          "en": "In “Do not forget”: reminds someone to perform an action"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "label",
+        "text": "label",
+        "pronunciation": {
+          "faReading": "لِیبِل",
+          "ipa": "/ˈleɪbəl/"
+        },
+        "meaning": {
+          "fa": "برچسب زدن",
+          "en": "label; mark a container to identify it"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "boxes",
+        "text": "boxes",
+        "pronunciation": {
+          "faReading": "باکسِز",
+          "ipa": "/ˈbɑksɪz/"
+        },
+        "meaning": {
+          "fa": "جعبه‌ها",
+          "en": "boxes; containers for things"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "save",
+        "text": "save",
+        "pronunciation": {
+          "faReading": "سِیو",
+          "ipa": "/seɪv/"
+        },
+        "meaning": {
+          "fa": "صرفه‌جویی می‌کند در",
+          "en": "save; reduce the time needed"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ برای محل یا زمان",
+          "en": "at; marks a place or time"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "Do not forget to label the boxes, it will save you time at the new place.",
+          "translation": {
+            "fa": "یادت نرود روی جعبه‌ها برچسب بزنی؛ در خانهٔ جدید در وقتت صرفه‌جویی می‌کند.",
+            "en": "Do not forget to label the boxes, it will save you time at the new place."
+          }
+        }
+      },
+      {
+        "id": "labeling",
+        "text": "labeling",
+        "pronunciation": {
+          "faReading": "لِیبِلینگ",
+          "ipa": "/ˈleɪbəlɪŋ/"
+        },
+        "meaning": {
+          "fa": "برچسب می‌زنم",
+          "en": "labeling; marking containers to identify them"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; refers back to things or people already mentioned"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "بر اساسِ؛ طبقِ اتاق",
+          "en": "by; organized according to room"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "room",
+        "text": "room",
+        "pronunciation": {
+          "faReading": "روم",
+          "ipa": "/rum/"
+        },
+        "meaning": {
+          "fa": "اتاق",
+          "en": "room; a space within a home"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "have-3",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have made»: تهیه کرده‌ام",
+          "en": "In “have made”: completed a list that is useful now"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "made",
+        "text": "made",
+        "pronunciation": {
+          "faReading": "مِید",
+          "ipa": "/meɪd/"
+        },
+        "meaning": {
+          "fa": "در «have made»: تهیه کرده‌ام",
+          "en": "In “have made”: completed a list that is useful now"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "list",
+        "text": "list",
+        "pronunciation": {
+          "faReading": "لیست",
+          "ipa": "/lɪst/"
+        },
+        "meaning": {
+          "fa": "فهرست",
+          "en": "list; a written set of items"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "contents",
+        "text": "contents",
+        "pronunciation": {
+          "faReading": "کانتِنتس",
+          "ipa": "/ˈkɑntɛnts/"
+        },
+        "meaning": {
+          "fa": "محتویات",
+          "en": "contents; things inside a container"
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "organized",
+        "text": "organized",
+        "pronunciation": {
+          "faReading": "اورگِنایزد",
+          "ipa": "/ˈɔrɡənaɪzd/"
+        },
+        "meaning": {
+          "fa": "منظم",
+          "en": "organized; having things arranged clearly"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "have-4",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "همراه hired: کرایه کرده‌ای",
+          "en": "have; connects the vehicle booking with readiness now"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "hired",
+        "text": "hired",
+        "pronunciation": {
+          "faReading": "هایِرد",
+          "ipa": "/haɪrd/"
+        },
+        "meaning": {
+          "fa": "کرایه کرده‌ای",
+          "en": "hired; arranged paid use of a vehicle"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "van",
+        "text": "van",
+        "pronunciation": {
+          "faReading": "وَن",
+          "ipa": "/væn/"
+        },
+        "meaning": {
+          "fa": "ون؛ خودروی باری کوچک",
+          "en": "van; a vehicle for carrying goods"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "moving",
+        "text": "moving",
+        "pronunciation": {
+          "faReading": "مووینگ",
+          "ipa": "/ˈmuvɪŋ/"
+        },
+        "meaning": {
+          "fa": "اسباب‌کشی کردن",
+          "en": "moving; relocating to another home"
+        },
+        "example": {
+          "text": "That is very organized, have you hired a van for the moving day?",
+          "translation": {
+            "fa": "خیلی منظم است؛ برای روز اسباب‌کشی ون کرایه کرده‌ای؟",
+            "en": "That is very organized, have you hired a van for the moving day?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "booked",
+        "text": "booked",
+        "pronunciation": {
+          "faReading": "بوکت",
+          "ipa": "/bʊkt/"
+        },
+        "meaning": {
+          "fa": "رزرو شده",
+          "en": "booked; reserved in advance"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "saturday",
+        "text": "Saturday",
+        "pronunciation": {
+          "faReading": "سَتِردِی",
+          "ipa": "/ˈsætɚdeɪ/"
+        },
+        "meaning": {
+          "fa": "شنبه",
+          "en": "Saturday; the day after Friday"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "همراه با؛ شاملِ",
+          "en": "with; includes two helpers in this arrangement"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "helpers",
+        "text": "helpers",
+        "pronunciation": {
+          "faReading": "هِلپِرز",
+          "ipa": "/ˈhɛlpɚz/"
+        },
+        "meaning": {
+          "fa": "کمک‌کارها",
+          "en": "helpers; people assisting with the move"
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then you are almost ready, and the new place awaits you.",
+          "translation": {
+            "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+            "en": "Then you are almost ready, and the new place awaits you."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Then you are almost ready, and the new place awaits you.",
+          "translation": {
+            "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+            "en": "Then you are almost ready, and the new place awaits you."
+          }
+        }
+      },
+      {
+        "id": "almost",
+        "text": "almost",
+        "pronunciation": {
+          "faReading": "آل‌مُوست",
+          "ipa": "/ˈɔlmoʊst/"
+        },
+        "meaning": {
+          "fa": "تقریباً",
+          "en": "almost; nearly"
+        },
+        "example": {
+          "text": "Then you are almost ready, and the new place awaits you.",
+          "translation": {
+            "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+            "en": "Then you are almost ready, and the new place awaits you."
+          }
+        }
+      },
+      {
+        "id": "ready",
+        "text": "ready",
+        "pronunciation": {
+          "faReading": "رِدی",
+          "ipa": "/ˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "آماده",
+          "en": "ready; prepared to act"
+        },
+        "example": {
+          "text": "Then you are almost ready, and the new place awaits you.",
+          "translation": {
+            "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+            "en": "Then you are almost ready, and the new place awaits you."
+          }
+        }
+      },
+      {
+        "id": "awaits",
+        "text": "awaits",
+        "pronunciation": {
+          "faReading": "اِوِیتس",
+          "ipa": "/əˈweɪts/"
+        },
+        "meaning": {
+          "fa": "منتظر است",
+          "en": "awaits; is waiting for"
+        },
+        "example": {
+          "text": "Then you are almost ready, and the new place awaits you.",
+          "translation": {
+            "fa": "پس تقریباً آماده‌ای و خانهٔ جدید منتظرت است.",
+            "en": "Then you are almost ready, and the new place awaits you."
+          }
+        }
+      },
+      {
+        "id": "tired",
+        "text": "tired",
+        "pronunciation": {
+          "faReading": "تایِرد",
+          "ipa": "/ˈtaɪɚd/"
+        },
+        "meaning": {
+          "fa": "خسته",
+          "en": "tired; needing rest"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "excited",
+        "text": "excited",
+        "pronunciation": {
+          "faReading": "ایکسایتِد",
+          "ipa": "/ɪkˈsaɪtɪd/"
+        },
+        "meaning": {
+          "fa": "هیجان‌زده",
+          "en": "excited; happy and eager"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "bigger",
+        "text": "bigger",
+        "pronunciation": {
+          "faReading": "بیگِر",
+          "ipa": "/ˈbɪɡɚ/"
+        },
+        "meaning": {
+          "fa": "بزرگ‌تر",
+          "en": "bigger; larger"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "step",
+        "text": "step",
+        "pronunciation": {
+          "faReading": "سْتِپ",
+          "ipa": "/stɛp/"
+        },
+        "meaning": {
+          "fa": "اقدام؛ مرحله",
+          "en": "step; an action in a process"
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        }
+      },
+      {
+        "id": "once",
+        "text": "once",
+        "pronunciation": {
+          "faReading": "وانس",
+          "ipa": "/wʌns/"
+        },
+        "meaning": {
+          "fa": "وقتی که؛ به محض اینکه",
+          "en": "once; when a specified event happens"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "unpacked",
+        "text": "unpacked",
+        "pronunciation": {
+          "faReading": "آنپَکت",
+          "ipa": "/ʌnˈpækt/"
+        },
+        "meaning": {
+          "fa": "از بسته‌ها خارج‌شده",
+          "en": "unpacked; removed from boxes after a move"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience an emotion or impression"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مثلِ",
+          "en": "like; similar to"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "i-2",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+          "en": "In “I hope so”: expresses hope that the home will feel like home"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+          "en": "In “I hope so”: expresses hope that the home will feel like home"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "در «I hope so»: امیدوارم همین‌طور باشد",
+          "en": "In “I hope so”: expresses hope that the home will feel like home"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "invite",
+        "text": "invite",
+        "pronunciation": {
+          "faReading": "اینوایت",
+          "ipa": "/ɪnˈvaɪt/"
+        },
+        "meaning": {
+          "fa": "دعوت کردن",
+          "en": "invite; ask someone to attend"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "housewarming",
+        "text": "housewarming",
+        "pronunciation": {
+          "faReading": "هاوس‌وورمینگ",
+          "ipa": "/ˈhaʊsˌwɔrmɪŋ/"
+        },
+        "meaning": {
+          "fa": "جشن خانهٔ جدید",
+          "en": "housewarming; a party celebrating a new home"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would love»: خیلی دوست دارم",
+          "en": "In “would love”: enthusiastically accepts the invitation"
+        },
+        "example": {
+          "text": "I would love that, congratulations on the new home.",
+          "translation": {
+            "fa": "خیلی دوست دارم؛ خانهٔ جدید مبارک.",
+            "en": "I would love that, congratulations on the new home."
+          }
+        }
+      },
+      {
+        "id": "love",
+        "text": "love",
+        "pronunciation": {
+          "faReading": "لاو",
+          "ipa": "/lʌv/"
+        },
+        "meaning": {
+          "fa": "در «would love»: خیلی دوست دارم",
+          "en": "In “would love”: enthusiastically accepts the invitation"
+        },
+        "example": {
+          "text": "I would love that, congratulations on the new home.",
+          "translation": {
+            "fa": "خیلی دوست دارم؛ خانهٔ جدید مبارک.",
+            "en": "I would love that, congratulations on the new home."
+          }
+        }
+      },
+      {
+        "id": "congratulations",
+        "text": "congratulations",
+        "pronunciation": {
+          "faReading": "کِنْگْرَچِلِیشنز",
+          "ipa": "/kənˌɡrætʃəˈleɪʃənz/"
+        },
+        "meaning": {
+          "fa": "تبریک",
+          "en": "congratulations; words celebrating good news"
+        },
+        "example": {
+          "text": "I would love that, congratulations on the new home.",
+          "translation": {
+            "fa": "خیلی دوست دارم؛ خانهٔ جدید مبارک.",
+            "en": "I would love that, congratulations on the new home."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "بابت؛ برای تبریک خانهٔ جدید",
+          "en": "on; links congratulations to the new home"
+        },
+        "example": {
+          "text": "I would love that, congratulations on the new home.",
+          "translation": {
+            "fa": "خیلی دوست دارم؛ خانهٔ جدید مبارک.",
+            "en": "I would love that, congratulations on the new home."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "duration-and-results",
+        "title": {
+          "fa": "فعالیت ادامه‌دار و نتیجهٔ آماده",
+          "en": "Ongoing activity and a ready result"
+        },
+        "explanation": {
+          "fa": "have been packing ... all day بر مدت و فرایند تا اکنون تمرکز دارد و به‌تنهایی تمام‌شدن اسباب‌کشی را نمی‌رساند. have made a list نتیجهٔ آمادهٔ فعلی را برجسته می‌کند. اکنون هم sorting نشان می‌دهد بخشی از کار ادامه دارد.",
+          "en": "Have been packing ... all day emphasizes duration and process up to now, not completion of the move. Have made a list highlights a completed result available now. Current sorting confirms that some work remains."
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        },
+        "takeaway": {
+          "fa": "فرایند طولانی با نتیجهٔ تکمیل‌شده یکی نیست.",
+          "en": "A long-running activity is not the same as a completed result."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فعالیت ادامه‌دار و نتیجهٔ آماده",
+              "en": "Ongoing activity and a ready result"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "have been packing my things for the move all day"
+                },
+                {
+                  "text": "have been + -ing + duration"
+                },
+                {
+                  "fa": "تمام روز مشغول بسته‌بندی بوده‌ام",
+                  "en": "Duration and process"
+                }
+              ],
+              [
+                {
+                  "text": "I have made a list of the contents"
+                },
+                {
+                  "text": "have + past participle"
+                },
+                {
+                  "fa": "فهرست محتویات را تهیه کرده‌ام",
+                  "en": "A completed result available now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "remaining-work-and-done",
+        "title": {
+          "fa": "کار مانده و کار تمام‌شده",
+          "en": "Remaining work and completed work"
+        },
+        "explanation": {
+          "fa": "How much is left? دربارهٔ مقدار کار باقی‌مانده است؛ left به چپ اشاره ندارد. The kitchen is done یعنی بسته‌بندی بخش آشپزخانه تمام است، نه اینکه آشپزخانه پخته شده باشد. now I am sorting فعالیت فعلی را در مقابل آن می‌گذارد.",
+          "en": "How much is left? asks about remaining work, not a left-hand direction. The kitchen is done means the kitchen packing is finished. Now I am sorting contrasts an activity still in progress with that completed section."
+        },
+        "example": {
+          "text": "The kitchen is done, now I am sorting the books and the clothes.",
+          "translation": {
+            "fa": "آشپزخانه تمام شده؛ حالا دارم کتاب‌ها و لباس‌ها را دسته‌بندی می‌کنم.",
+            "en": "The kitchen is done, now I am sorting the books and the clothes."
+          }
+        },
+        "takeaway": {
+          "fa": "مرجع کار را از بافت بسته‌بندی بفهم.",
+          "en": "Recover the implied task from the packing context."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کار مانده و کار تمام‌شده",
+              "en": "Remaining work and completed work"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How much is left"
+                },
+                {
+                  "text": "How much + is + left?"
+                },
+                {
+                  "fa": "چقدر کار مانده؟",
+                  "en": "Remaining quantity"
+                }
+              ],
+              [
+                {
+                  "text": "The kitchen is done"
+                },
+                {
+                  "text": "section + is done"
+                },
+                {
+                  "fa": "بخش آشپزخانه تمام است",
+                  "en": "The packing task is understood"
+                }
+              ],
+              [
+                {
+                  "text": "now I am sorting the books and the clothes"
+                },
+                {
+                  "text": "now + present continuous"
+                },
+                {
+                  "fa": "حالا کتاب و لباس دسته‌بندی می‌کنم",
+                  "en": "Current work"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "embedded-choices-and-ellipsis",
+        "title": {
+          "fa": "انتخاب‌های داخلی و حذف تکرار",
+          "en": "Embedded choices and omitted repetition"
+        },
+        "explanation": {
+          "fa": "what to keep و what to give away دو انتخاب با what + to هستند. giving away در پاسخ، I am را از بخش اول به اشتراک می‌گذارد. give away به معنی بخشیدن رایگان است و با دورریختن یا فروختن یکی نیست.",
+          "en": "What to keep and what to give away are parallel what + to-infinitive choices. Giving away in the answer shares I am from the first part. Give away means transfer without payment, not throw away or sell."
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        },
+        "takeaway": {
+          "fa": "what to + فعل برای انتخاب؛ give away یعنی بخشیدن.",
+          "en": "Use what to + verb for a choice; give away means donate or give without payment."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "انتخاب‌های داخلی و حذف تکرار",
+              "en": "Embedded choices and omitted repetition"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what to keep and what to give away"
+                },
+                {
+                  "text": "what to + verb; and + what to + verb"
+                },
+                {
+                  "fa": "چه نگه دارم و چه ببخشم",
+                  "en": "Parallel embedded choices"
+                }
+              ],
+              [
+                {
+                  "text": "I am keeping the books and essentials, and giving away old clothes"
+                },
+                {
+                  "text": "shared I am + two -ing phrases"
+                },
+                {
+                  "fa": "کتاب و ضروریات را نگه می‌دارم و لباس می‌بخشم",
+                  "en": "Shared subject and auxiliary"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "labeling-by-room",
+        "title": {
+          "fa": "برچسب‌گذاری بر اساس اتاق",
+          "en": "Labeling according to room"
+        },
+        "explanation": {
+          "fa": "Do not forget to label یادآوریِ انجام کار است، نه forget labeling که می‌توانست به فراموشی خاطرهٔ کاری انجام‌شده اشاره کند. by room معیار دسته‌بندی است، نه عامل انجام‌دهنده. list of the contents فهرست چیزهای داخل جعبه‌هاست، نه محتوای درسی.",
+          "en": "Do not forget to label reminds someone to perform an action, unlike forgetting a memory of having labeled. By room gives the organizing criterion, not the person doing the work. Contents refers to what is inside the boxes."
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        },
+        "takeaway": {
+          "fa": "forget to do برای انجام کاری که نباید از یاد برود.",
+          "en": "Forget to do concerns an action that must not be missed."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برچسب‌گذاری بر اساس اتاق",
+              "en": "Labeling according to room"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Do not forget to label the boxes"
+                },
+                {
+                  "text": "do not forget to + action"
+                },
+                {
+                  "fa": "یادت نرود برچسب بزنی",
+                  "en": "Reminder of a necessary action"
+                }
+              ],
+              [
+                {
+                  "text": "I am labeling them by room"
+                },
+                {
+                  "text": "by + organizing criterion"
+                },
+                {
+                  "fa": "بر اساس اتاق برچسب می‌زنم",
+                  "en": "Room-based organization"
+                }
+              ],
+              [
+                {
+                  "text": "a list of the contents"
+                },
+                {
+                  "text": "list of + items inside"
+                },
+                {
+                  "fa": "فهرست محتویات",
+                  "en": "An inventory for unpacking"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "booking-and-future-state",
+        "title": {
+          "fa": "رزرو و وضعیت آمادهٔ آینده",
+          "en": "A booking and a future state"
+        },
+        "explanation": {
+          "fa": "Have you hired a van? پیوند رزرو قبلی با آمادگی فعلی را می‌پرسد. is booked وضعیت رزروشده را بیان می‌کند. for Saturday morning زمانِ رزرو است؛ with two helpers جزئیات همراه آن است. once everything is unpacked با حال مجهول، زمان آیندهٔ حس خانه‌شدن را مشخص می‌کند.",
+          "en": "Have you hired a van? links an earlier arrangement to present readiness. Is booked describes the reserved state. For Saturday morning gives the booking time; with two helpers adds the accompanying arrangement. Once everything is unpacked uses a present passive form with future reference."
+        },
+        "example": {
+          "text": "Yes, the van is booked for Saturday morning, with two helpers.",
+          "translation": {
+            "fa": "بله، ون برای صبح شنبه همراه دو کمک‌کار رزرو شده است.",
+            "en": "Yes, the van is booked for Saturday morning, with two helpers."
+          }
+        },
+        "takeaway": {
+          "fa": "رزرو شنبه انجام شده؛ بازکردن جعبه‌ها هنوز در آینده است.",
+          "en": "The Saturday booking is made; unpacking is still future."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "رزرو و وضعیت آمادهٔ آینده",
+              "en": "A booking and a future state"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the van is booked for Saturday morning, with two helpers"
+                },
+                {
+                  "text": "be booked for + time + with + provision"
+                },
+                {
+                  "fa": "ون صبح شنبه با دو کمک‌کار رزرو است",
+                  "en": "A reserved arrangement"
+                }
+              ],
+              [
+                {
+                  "text": "once everything is unpacked, it will feel like home"
+                },
+                {
+                  "text": "once + present passive; will + result"
+                },
+                {
+                  "fa": "وقتی وسایل باز شود حس خانه می‌دهد",
+                  "en": "Future sequence with a present form"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gerund-subject-and-emotion",
+        "title": {
+          "fa": "اسباب‌کشی به‌عنوان موضوع و احساس دوگانه",
+          "en": "Moving as a subject and mixed feelings"
+        },
+        "explanation": {
+          "fa": "moving to a bigger apartment یک گروه است که در جمله نقش موضوع دارد؛ به همین دلیل is مفرد آمده است. tired but excited دو احساس هم‌زمان و متفاوت را کنار هم می‌گذارد. خانهٔ جدید در awaits you به صورت استعاری منتظر است؛ انتظار انسانی واقعی نیست.",
+          "en": "Moving to a bigger apartment forms one subject, so the verb is singular is. Tired but excited joins contrasting simultaneous emotions. The new place awaits you personifies the home; it is not literally a conscious person waiting."
+        },
+        "example": {
+          "text": "I am tired but excited, moving to a bigger apartment is a good step.",
+          "translation": {
+            "fa": "خسته‌ام ولی هیجان‌زده؛ رفتن به آپارتمانی بزرگ‌تر قدم خوبی است.",
+            "en": "I am tired but excited, moving to a bigger apartment is a good step."
+          }
+        },
+        "takeaway": {
+          "fa": "یک فعالیتِ کامل می‌تواند موضوع مفرد جمله باشد.",
+          "en": "An activity phrase can function as a single subject."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اسباب‌کشی به‌عنوان موضوع و احساس دوگانه",
+              "en": "Moving as a subject and mixed feelings"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "moving to a bigger apartment is a good step"
+                },
+                {
+                  "text": "-ing phrase + is + evaluation"
+                },
+                {
+                  "fa": "رفتن به آپارتمان بزرگ‌تر قدم خوبی است",
+                  "en": "An activity as the subject"
+                }
+              ],
+              [
+                {
+                  "text": "I am tired but excited"
+                },
+                {
+                  "text": "state + but + contrasting state"
+                },
+                {
+                  "fa": "خسته‌ام ولی هیجان‌زده‌ام",
+                  "en": "Mixed emotions"
+                }
+              ],
+              [
+                {
+                  "text": "the new place awaits you"
+                },
+                {
+                  "text": "place + human-like action"
+                },
+                {
+                  "fa": "خانهٔ جدید منتظرت است",
+                  "en": "Personification"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "invitation-and-acceptance",
+        "title": {
+          "fa": "دعوت آینده و پاسخ حذف‌شده",
+          "en": "A future invitation and an elliptical response"
+        },
+        "explanation": {
+          "fa": "I will invite you وعدهٔ دعوت است؛ next week طبق جمله زمان جشن یا دعوت را می‌رساند و ساعت دقیقی نمی‌دهد. I would love that پذیرش مشتاقانه است و that به دعوت جشن خانهٔ جدید برمی‌گردد. I hope so نیز تمام گزارهٔ حس خانه‌بودن را با so جایگزین می‌کند.",
+          "en": "I will invite you promises an invitation. Next week locates the housewarming plan without giving an exact date or time. I would love that enthusiastically accepts the invitation, with that referring to it. I hope so substitutes so for the prospect that the new place will feel like home."
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        },
+        "takeaway": {
+          "fa": "that و so می‌توانند یک فکر کاملِ قبلی را جایگزین کنند.",
+          "en": "That and so can stand for a whole preceding idea."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دعوت آینده و پاسخ حذف‌شده",
+              "en": "A future invitation and an elliptical response"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I hope so"
+                },
+                {
+                  "text": "hope + so"
+                },
+                {
+                  "fa": "امیدوارم همین‌طور باشد",
+                  "en": "So replaces the hoped-for proposition"
+                }
+              ],
+              [
+                {
+                  "text": "I will invite you to the housewarming next week"
+                },
+                {
+                  "text": "invite + person + to + event"
+                },
+                {
+                  "fa": "هفتهٔ آینده به جشن خانه دعوتت می‌کنم",
+                  "en": "A promised social invitation"
+                }
+              ],
+              [
+                {
+                  "text": "I would love that"
+                },
+                {
+                  "text": "would love + that"
+                },
+                {
+                  "fa": "خیلی دوست دارم",
+                  "en": "Enthusiastic acceptance"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "duration",
+        "text": "have been packing",
+        "pronunciation": {
+          "faReading": "هَو بین پَکینگ",
+          "ipa": "/hæv bɪn ˈpækɪŋ/"
+        },
+        "meaning": {
+          "fa": "مدتی است مشغول بسته‌بندی بوده‌ام",
+          "en": "Have been engaged in packing"
+        },
+        "context": {
+          "fa": "بر فرایند تا اکنون تأکید دارد، نه اتمام همهٔ کارها.",
+          "en": "Emphasizes the process up to now, not completion of every task."
+        },
+        "example": {
+          "text": "I have been packing my things for the move all day.",
+          "translation": {
+            "fa": "تمام روز مشغول بسته‌بندی وسایلم برای اسباب‌کشی بوده‌ام.",
+            "en": "I have been packing my things for the move all day."
+          }
+        }
+      },
+      {
+        "id": "remaining",
+        "text": "How much is left",
+        "pronunciation": {
+          "faReading": "هاو ماچ ایز لِفت",
+          "ipa": "/haʊ mʌtʃ ɪz lɛft/"
+        },
+        "meaning": {
+          "fa": "چقدر باقی مانده؟",
+          "en": "How much remains?"
+        },
+        "context": {
+          "fa": "سحر دربارهٔ کار بسته‌بندی می‌پرسد.",
+          "en": "Sahar asks about remaining packing work."
+        },
+        "example": {
+          "text": "How much is left, is it the kitchen or the bedrooms now?",
+          "translation": {
+            "fa": "چقدر مانده؟ حالا آشپزخانه است یا اتاق‌خواب‌ها؟",
+            "en": "How much is left, is it the kitchen or the bedrooms now?"
+          }
+        }
+      },
+      {
+        "id": "donate",
+        "text": "give away",
+        "pronunciation": {
+          "faReading": "گیو اِوِی",
+          "ipa": "/ɡɪv əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "بخشیدن؛ رایگان دادن",
+          "en": "Give to another person without payment"
+        },
+        "context": {
+          "fa": "با نگه‌داشتن وسایل مقایسه شده است.",
+          "en": "Contrasted with keeping belongings."
+        },
+        "example": {
+          "text": "Have you decided what to keep and what to give away?",
+          "translation": {
+            "fa": "تصمیم گرفته‌ای چه چیزهایی را نگه داری و چه چیزهایی را ببخشی؟",
+            "en": "Have you decided what to keep and what to give away?"
+          }
+        }
+      },
+      {
+        "id": "organize",
+        "text": "labeling them by room",
+        "pronunciation": {
+          "faReading": "لِیبِلینگ ذِم بای روم",
+          "ipa": "/ˈleɪbəlɪŋ ðəm baɪ rum/"
+        },
+        "meaning": {
+          "fa": "برچسب‌زدن بر اساس اتاق",
+          "en": "Labeling the boxes according to room"
+        },
+        "context": {
+          "fa": "روش حمید برای سامان‌دهی جعبه‌هاست.",
+          "en": "Hamid’s method for organizing boxes."
+        },
+        "example": {
+          "text": "I am labeling them by room, and I have made a list of the contents.",
+          "translation": {
+            "fa": "دارم بر اساس اتاق به آن‌ها برچسب می‌زنم و فهرستی از محتویات تهیه کرده‌ام.",
+            "en": "I am labeling them by room, and I have made a list of the contents."
+          }
+        }
+      },
+      {
+        "id": "settle",
+        "text": "feel like home",
+        "pronunciation": {
+          "faReading": "فیل لایک هُوم",
+          "ipa": "/fil laɪk hoʊm/"
+        },
+        "meaning": {
+          "fa": "حس خانه بودن داشتن",
+          "en": "Feel familiar and comfortable as a home"
+        },
+        "context": {
+          "fa": "به زمان پس از بازکردن وسایل اشاره دارد.",
+          "en": "Refers to after the belongings are unpacked."
+        },
+        "example": {
+          "text": "It is, and once everything is unpacked, it will feel like home.",
+          "translation": {
+            "fa": "همین‌طور است و وقتی همه‌چیز از بسته‌ها بیرون بیاید، حس خانه بودن پیدا می‌کند.",
+            "en": "It is, and once everything is unpacked, it will feel like home."
+          }
+        }
+      },
+      {
+        "id": "party",
+        "text": "the housewarming next week",
+        "pronunciation": {
+          "faReading": "ذِ هاوس‌وورمینگ نِکست ویک",
+          "ipa": "/ðə ˈhaʊsˌwɔrmɪŋ nɛkst wik/"
+        },
+        "meaning": {
+          "fa": "جشن خانهٔ جدید در هفتهٔ آینده",
+          "en": "The housewarming next week"
+        },
+        "context": {
+          "fa": "برنامهٔ اجتماعی آینده است؛ روز دقیق مشخص نیست.",
+          "en": "A future social plan without an exact day."
+        },
+        "example": {
+          "text": "I hope so, and I will invite you to the housewarming next week.",
+          "translation": {
+            "fa": "امیدوارم؛ هفتهٔ آینده تو را به جشن خانهٔ جدید دعوت می‌کنم.",
+            "en": "I hope so, and I will invite you to the housewarming next week."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام خلاصه با وضعیت حمید سازگار است؟",
+          "en": "Which summary matches Hamid’s situation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اسباب‌کشی تمام شده و جشن هم برگزار شده است",
+              "en": "The move and housewarming are both over"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بخشی از بسته‌بندی تمام است و برای ادامه و حمل وسایل برنامه دارد",
+              "en": "Some packing is finished and further sorting and transport are arranged"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هنوز خانه‌ای انتخاب نکرده و دنبال وام است",
+              "en": "He has not chosen a home and is seeking a loan"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "آشپزخانه تمام، دسته‌بندی جاری، ون رزرو و جشن در آینده است.",
+          "en": "Kitchen packing is done, sorting is ongoing, the van is booked and the party is future."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t07",
+          "t09",
+          "t13"
+        ]
+      },
+      {
+        "id": "keep-give",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "حمید چه چیزهایی را نگه می‌دارد و چه می‌بخشد؟",
+          "en": "What does Hamid keep, and what does he give away?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "لباس‌های قدیمی را نگه می‌دارد و کتاب‌ها را می‌بخشد",
+              "en": "Keeps old clothes and gives away books"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط وسایل آشپزخانه را نگه می‌دارد و همهٔ لباس‌ها را می‌بخشد",
+              "en": "Keeps only kitchen items and gives away all clothes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کتاب‌ها و ضروریات را نگه می‌دارد و لباس‌های قدیمی را می‌بخشد",
+              "en": "Keeps books and essentials and gives away old clothes"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "پاسخ دو دسته را صریح تفکیک می‌کند؛ همهٔ لباس‌ها گفته نشده است.",
+          "en": "His answer explicitly separates the categories; it does not say all clothes."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "labels",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "جعبه‌ها را بر چه اساسی برچسب می‌زند؟",
+          "en": "How does he organize the box labels?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بر اساس اتاق",
+              "en": "By room"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بر اساس رنگ لباس",
+              "en": "By clothing color"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بر اساس قیمت وسایل",
+              "en": "By item price"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "by room معیار سازمان‌دهی را می‌گوید و فهرست محتویات هم دارد.",
+          "en": "By room gives the organizing criterion; he also has a contents list."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "van",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رزرو حمل وسایل چه جزئیاتی دارد؟",
+          "en": "What are the transport booking details?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "عصر جمعه با یک کمک‌کار",
+              "en": "Friday evening with one helper"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "صبح شنبه با دو کمک‌کار",
+              "en": "Saturday morning with two helpers"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "صبح یکشنبه بدون کمک‌کار",
+              "en": "Sunday morning without helpers"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "Saturday morning و two helpers هر دو در همان پاسخ آمده‌اند.",
+          "en": "Saturday morning and two helpers both appear in the same answer."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "completion",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "have been packing ... all day به‌تنهایی چه چیزی را ثابت نمی‌کند؟",
+          "en": "What does have been packing ... all day not establish by itself?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فعالیت تا زمان حال مرتبط است",
+              "en": "The activity is connected to now"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بسته‌بندی مدت زیادی طول کشیده است",
+              "en": "Packing has occupied a long period"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تمام بسته‌بندی به پایان رسیده است",
+              "en": "All packing is complete"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "این ساخت فرایند و مدت را برجسته می‌کند؛ ادامهٔ sorting هم کار باقی‌مانده را نشان می‌دهد.",
+          "en": "The form highlights process and duration; ongoing sorting also shows unfinished work."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03"
+        ]
+      },
+      {
+        "id": "home-feeling",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "طبق گفتهٔ سحر، خانهٔ جدید کی حس خانه پیدا می‌کند؟",
+          "en": "According to Sahar, when will the new place feel like home?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "وقتی همه‌چیز از بسته‌ها خارج شود",
+              "en": "Once everything is unpacked"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "وقتی لباس‌ها فروخته شوند",
+              "en": "Once the clothes are sold"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "وقتی قرارداد وام امضا شود",
+              "en": "Once the loan contract is signed"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "once everything is unpacked شرط زمانیِ حس خانه‌بودن است.",
+          "en": "Once everything is unpacked supplies the time condition for feeling at home."
+        },
+        "evidenceTurnIds": [
+          "t12"
+        ]
+      }
+    ]
+  }
+}

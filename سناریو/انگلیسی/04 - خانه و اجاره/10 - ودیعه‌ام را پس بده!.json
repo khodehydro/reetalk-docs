@@ -1,0 +1,4374 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s10",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "ودیعه‌ام را پس بده!",
+    "en": "Return My Deposit!"
+  },
+  "objective": {
+    "fa": "پیگیری ودیعه با مهلت قراردادی، مدارک، یادآوری رسمی و مسیر مشروط حل اختلاف.",
+    "en": "Follow a deposit dispute through a contractual deadline, records, a formal reminder and conditional escalation."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "advisor",
+      "name": "Advisor",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "I am calling about my deposit, the landlord is not returning it.",
+      "translation": {
+        "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+        "en": "I am calling about my deposit, the landlord is not returning it."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "calling",
+          "gloss": {
+            "fa": "تلفن می‌کنم",
+            "en": "calling; speaking to someone by phone"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "deposit,",
+          "gloss": {
+            "fa": "ودیعه",
+            "en": "deposit; money held as security for a rental"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "landlord",
+          "gloss": {
+            "fa": "صاحب‌خانه",
+            "en": "landlord; a person renting property to a tenant"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "returning",
+          "gloss": {
+            "fa": "پس می‌دهد",
+            "en": "returning; paying back"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "advisor",
+      "text": "Do you have the contract and the receipt of the deposit payment?",
+      "translation": {
+        "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+        "en": "Do you have the contract and the receipt of the deposit payment?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used before another verb to connect an action to now"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "receipt",
+          "gloss": {
+            "fa": "رسید",
+            "en": "receipt; proof of payment"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "deposit",
+          "gloss": {
+            "fa": "ودیعه",
+            "en": "deposit; money held as security for a rental"
+          }
+        },
+        {
+          "surface": "payment?",
+          "gloss": {
+            "fa": "پرداخت",
+            "en": "payment; money paid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+      "translation": {
+        "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+        "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "kept",
+          "gloss": {
+            "fa": "نگه داشتم",
+            "en": "kept; retained in the past"
+          }
+        },
+        {
+          "surface": "everything,",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "says",
+          "gloss": {
+            "fa": "می‌گوید",
+            "en": "says; expresses in words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "deposit",
+          "gloss": {
+            "fa": "ودیعه",
+            "en": "deposit; money held as security for a rental"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "returned",
+          "gloss": {
+            "fa": "بازگردانده می‌شود",
+            "en": "returned; paid back"
+          }
+        },
+        {
+          "surface": "within",
+          "gloss": {
+            "fa": "ظرف؛ حداکثر تا پایان این مدت",
+            "en": "within; no later than the end of one month"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "month.",
+          "gloss": {
+            "fa": "ماه",
+            "en": "month; one of twelve calendar periods"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "advisor",
+      "text": "The deadline has passed, so you can send him a formal written reminder.",
+      "translation": {
+        "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+        "en": "The deadline has passed, so you can send him a formal written reminder."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "deadline",
+          "gloss": {
+            "fa": "مهلت نهایی",
+            "en": "deadline; the latest allowed time"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "در «has passed»: گذشته است",
+            "en": "In “has passed”: the deadline is already over"
+          }
+        },
+        {
+          "surface": "passed,",
+          "gloss": {
+            "fa": "در «has passed»: گذشته است",
+            "en": "In “has passed”: the deadline is already over"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "فرستادن",
+            "en": "send; make something go to someone"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "formal",
+          "gloss": {
+            "fa": "رسمی",
+            "en": "formal; suitable for official communication"
+          }
+        },
+        {
+          "surface": "written",
+          "gloss": {
+            "fa": "کتبی؛ نوشته‌شده",
+            "en": "written; recorded in writing"
+          }
+        },
+        {
+          "surface": "reminder.",
+          "gloss": {
+            "fa": "یادآوری؛ اخطاریهٔ یادآوری",
+            "en": "reminder; a message asking someone to act on an obligation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "What should the reminder include, so it is legally effective?",
+      "translation": {
+        "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+        "en": "What should the reminder include, so it is legally effective?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "reminder",
+          "gloss": {
+            "fa": "یادآوری؛ اخطاریهٔ یادآوری",
+            "en": "reminder; a message asking someone to act on an obligation"
+          }
+        },
+        {
+          "surface": "include,",
+          "gloss": {
+            "fa": "شامل بودن",
+            "en": "include; contain as part of the total"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "legally",
+          "gloss": {
+            "fa": "از نظر قانونی",
+            "en": "legally; in terms of law"
+          }
+        },
+        {
+          "surface": "effective?",
+          "gloss": {
+            "fa": "مؤثر",
+            "en": "effective; producing the intended result"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "advisor",
+      "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+      "translation": {
+        "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+        "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+      },
+      "tokens": [
+        {
+          "surface": "Mention",
+          "gloss": {
+            "fa": "ذکر کردن",
+            "en": "mention; refer to something briefly"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "date,",
+          "gloss": {
+            "fa": "تاریخ",
+            "en": "date; a particular calendar day"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "deposit",
+          "gloss": {
+            "fa": "ودیعه",
+            "en": "deposit; money held as security for a rental"
+          }
+        },
+        {
+          "surface": "amount,",
+          "gloss": {
+            "fa": "مبلغ",
+            "en": "amount; a sum of money"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "exact",
+          "gloss": {
+            "fa": "دقیق",
+            "en": "exact; precise"
+          }
+        },
+        {
+          "surface": "deadline",
+          "gloss": {
+            "fa": "مهلت نهایی",
+            "en": "deadline; the latest allowed time"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "return.",
+          "gloss": {
+            "fa": "بازپرداخت",
+            "en": "return; giving money back"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "I will send it by registered mail so there is a record of delivery.",
+      "translation": {
+        "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+        "en": "I will send it by registered mail so there is a record of delivery."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "فرستادن",
+            "en": "send; make something go to someone"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "با؛ از راهِ",
+            "en": "by; using a means of transport here"
+          }
+        },
+        {
+          "surface": "registered",
+          "gloss": {
+            "fa": "در «registered mail»: پست سفارشی",
+            "en": "In “registered mail”: mail sent with an official delivery record"
+          }
+        },
+        {
+          "surface": "mail",
+          "gloss": {
+            "fa": "در «registered mail»: پست سفارشی",
+            "en": "In “registered mail”: mail sent with an official delivery record"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "در «there is»: وجود داشته باشد؛ برای بیان هدف",
+            "en": "In “there is”: something exists, here as an intended result"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "در «there is»: وجود داشته باشد؛ برای بیان هدف",
+            "en": "In “there is”: something exists, here as an intended result"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "record",
+          "gloss": {
+            "fa": "مدرک ثبت‌شدهٔ تحویل",
+            "en": "record; documented evidence of delivery"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "delivery.",
+          "gloss": {
+            "fa": "تحویل؛ رساندن نامه",
+            "en": "delivery; the act of bringing mail to its destination"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "advisor",
+      "text": "That is the right step, and give him a few days to respond after it arrives.",
+      "translation": {
+        "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+        "en": "That is the right step, and give him a few days to respond after it arrives."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "درست؛ مناسب",
+            "en": "right; correct or suitable"
+          }
+        },
+        {
+          "surface": "step,",
+          "gloss": {
+            "fa": "اقدام؛ مرحله",
+            "en": "step; an action in a process"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "him",
+          "gloss": {
+            "fa": "او را؛ به او",
+            "en": "him; the male person receiving an action"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "few",
+          "gloss": {
+            "fa": "چند؛ تعداد کم",
+            "en": "few; a small number"
+          }
+        },
+        {
+          "surface": "days",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "respond",
+          "gloss": {
+            "fa": "واکنش نشان دادن؛ پاسخ دادن",
+            "en": "respond; react or reply"
+          }
+        },
+        {
+          "surface": "after",
+          "gloss": {
+            "fa": "پس از",
+            "en": "after; later than"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "arrives.",
+          "gloss": {
+            "fa": "می‌رسد",
+            "en": "arrives; reaches its destination"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "If he still refuses, what can I do next?",
+      "translation": {
+        "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+        "en": "If he still refuses, what can I do next?"
+      },
+      "tokens": [
+        {
+          "surface": "If",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "he",
+          "gloss": {
+            "fa": "او؛ برای مرد یا پسر",
+            "en": "he; a male person"
+          }
+        },
+        {
+          "surface": "still",
+          "gloss": {
+            "fa": "هنوز",
+            "en": "still; continuing until now"
+          }
+        },
+        {
+          "surface": "refuses,",
+          "gloss": {
+            "fa": "خودداری می‌کند",
+            "en": "refuses; declines to do something"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "next?",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "advisor",
+      "text": "You can file a complaint with the rental board or take the case to a mediator.",
+      "translation": {
+        "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+        "en": "You can file a complaint with the rental board or take the case to a mediator."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "file",
+          "gloss": {
+            "fa": "در «file a complaint»: شکایت ثبت کردن",
+            "en": "In “file a complaint”: officially submit a complaint"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "در «file a complaint»: شکایت ثبت کردن",
+            "en": "In “file a complaint”: officially submit a complaint"
+          }
+        },
+        {
+          "surface": "complaint",
+          "gloss": {
+            "fa": "در «file a complaint»: شکایت ثبت کردن",
+            "en": "In “file a complaint”: officially submit a complaint"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rental",
+          "gloss": {
+            "fa": "مربوط به اجاره",
+            "en": "rental; relating to renting property"
+          }
+        },
+        {
+          "surface": "board",
+          "gloss": {
+            "fa": "هیئت رسیدگی به امور اجاره",
+            "en": "board; a body dealing with rental disputes, as named in the dialogue"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "ارجاع دادن؛ سپردن پرونده به میانجی",
+            "en": "take; bring a case to a mediator for resolution"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "case",
+          "gloss": {
+            "fa": "پرونده؛ موضوع اختلاف",
+            "en": "case; a dispute presented for resolution"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "mediator.",
+          "gloss": {
+            "fa": "میانجی",
+            "en": "mediator; a person helping parties resolve a dispute"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "reza",
+      "text": "That sounds serious, but I hope the reminder is enough.",
+      "translation": {
+        "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+        "en": "That sounds serious, but I hope the reminder is enough."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که می‌شنویم",
+            "en": "sounds; gives an impression from what is heard"
+          }
+        },
+        {
+          "surface": "serious,",
+          "gloss": {
+            "fa": "جدی",
+            "en": "serious; not joking much"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "reminder",
+          "gloss": {
+            "fa": "یادآوری؛ اخطاریهٔ یادآوری",
+            "en": "reminder; a message asking someone to act on an obligation"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "enough.",
+          "gloss": {
+            "fa": "کافی",
+            "en": "enough; as much as needed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "advisor",
+      "text": "Often it is, because landlords know their legal obligations clearly.",
+      "translation": {
+        "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+        "en": "Often it is, because landlords know their legal obligations clearly."
+      },
+      "tokens": [
+        {
+          "surface": "Often",
+          "gloss": {
+            "fa": "اغلب؛ به دفعات",
+            "en": "often; frequently"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "because",
+          "gloss": {
+            "fa": "چون؛ زیرا",
+            "en": "because; introduces a reason"
+          }
+        },
+        {
+          "surface": "landlords",
+          "gloss": {
+            "fa": "صاحب‌خانه‌ها",
+            "en": "landlords; people renting property to tenants"
+          }
+        },
+        {
+          "surface": "know",
+          "gloss": {
+            "fa": "دانستن؛ شناختن",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "legal",
+          "gloss": {
+            "fa": "قانونی",
+            "en": "legal; relating to the law"
+          }
+        },
+        {
+          "surface": "obligations",
+          "gloss": {
+            "fa": "تعهدات",
+            "en": "obligations; duties a person is required to meet"
+          }
+        },
+        {
+          "surface": "clearly.",
+          "gloss": {
+            "fa": "به‌روشنی",
+            "en": "clearly; without confusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "reza",
+      "text": "Thank you, I will send the letter today and keep you updated.",
+      "translation": {
+        "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+        "en": "Thank you, I will send the letter today and keep you updated."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "فرستادن",
+            "en": "send; make something go to someone"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "letter",
+          "gloss": {
+            "fa": "نامه",
+            "en": "letter; a written message"
+          }
+        },
+        {
+          "surface": "today",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "keep",
+          "gloss": {
+            "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+            "en": "In “keep you updated”: continue informing you of developments"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+            "en": "In “keep you updated”: continue informing you of developments"
+          }
+        },
+        {
+          "surface": "updated.",
+          "gloss": {
+            "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+            "en": "In “keep you updated”: continue informing you of developments"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "advisor",
+      "text": "You are welcome, and keep copies of every document you send.",
+      "translation": {
+        "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+        "en": "You are welcome, and keep copies of every document you send."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "در «You are welcome»: خواهش می‌کنم",
+            "en": "In “You are welcome”: a polite response to thanks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "keep",
+          "gloss": {
+            "fa": "نگه داشتن",
+            "en": "keep; retain or maintain"
+          }
+        },
+        {
+          "surface": "copies",
+          "gloss": {
+            "fa": "نسخه‌ها",
+            "en": "copies; duplicate documents"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "document",
+          "gloss": {
+            "fa": "سند؛ مدرک",
+            "en": "document; a written record"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "send.",
+          "gloss": {
+            "fa": "فرستادن",
+            "en": "send; make something go to someone"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "calling",
+        "text": "calling",
+        "pronunciation": {
+          "faReading": "کالینگ",
+          "ipa": "/ˈkɔlɪŋ/"
+        },
+        "meaning": {
+          "fa": "تلفن می‌کنم",
+          "en": "calling; speaking to someone by phone"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "deposit",
+        "text": "deposit",
+        "pronunciation": {
+          "faReading": "دیپازِت",
+          "ipa": "/dɪˈpɑzɪt/"
+        },
+        "meaning": {
+          "fa": "ودیعه",
+          "en": "deposit; money held as security for a rental"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "landlord",
+        "text": "landlord",
+        "pronunciation": {
+          "faReading": "لَندلورد",
+          "ipa": "/ˈlændlɔrd/"
+        },
+        "meaning": {
+          "fa": "صاحب‌خانه",
+          "en": "landlord; a person renting property to a tenant"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "returning",
+        "text": "returning",
+        "pronunciation": {
+          "faReading": "ریتِرنینگ",
+          "ipa": "/rɪˈtɝnɪŋ/"
+        },
+        "meaning": {
+          "fa": "پس می‌دهد",
+          "en": "returning; paying back"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used before another verb to connect an action to now"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "contract",
+        "text": "contract",
+        "pronunciation": {
+          "faReading": "کانتْرَکت",
+          "ipa": "/ˈkɑntrækt/"
+        },
+        "meaning": {
+          "fa": "قرارداد",
+          "en": "contract; a written agreement"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "receipt",
+        "text": "receipt",
+        "pronunciation": {
+          "faReading": "ریسیت",
+          "ipa": "/rɪˈsit/"
+        },
+        "meaning": {
+          "fa": "رسید",
+          "en": "receipt; proof of payment"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "payment",
+        "text": "payment",
+        "pronunciation": {
+          "faReading": "پِیمِنت",
+          "ipa": "/ˈpeɪmənt/"
+        },
+        "meaning": {
+          "fa": "پرداخت",
+          "en": "payment; money paid"
+        },
+        "example": {
+          "text": "Do you have the contract and the receipt of the deposit payment?",
+          "translation": {
+            "fa": "قرارداد و رسید پرداخت ودیعه را داری؟",
+            "en": "Do you have the contract and the receipt of the deposit payment?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "kept",
+        "text": "kept",
+        "pronunciation": {
+          "faReading": "کِپت",
+          "ipa": "/kɛpt/"
+        },
+        "meaning": {
+          "fa": "نگه داشتم",
+          "en": "kept; retained in the past"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "says",
+        "text": "says",
+        "pronunciation": {
+          "faReading": "سِز",
+          "ipa": "/sɛz/"
+        },
+        "meaning": {
+          "fa": "می‌گوید",
+          "en": "says; expresses in words"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "returned",
+        "text": "returned",
+        "pronunciation": {
+          "faReading": "ریتِرند",
+          "ipa": "/rɪˈtɝnd/"
+        },
+        "meaning": {
+          "fa": "بازگردانده می‌شود",
+          "en": "returned; paid back"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "within",
+        "text": "within",
+        "pronunciation": {
+          "faReading": "ویذین",
+          "ipa": "/wɪˈðɪn/"
+        },
+        "meaning": {
+          "fa": "ظرف؛ حداکثر تا پایان این مدت",
+          "en": "within; no later than the end of one month"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "month",
+        "text": "month",
+        "pronunciation": {
+          "faReading": "مَنث",
+          "ipa": "/mʌnθ/"
+        },
+        "meaning": {
+          "fa": "ماه",
+          "en": "month; one of twelve calendar periods"
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "deadline",
+        "text": "deadline",
+        "pronunciation": {
+          "faReading": "دِدلاین",
+          "ipa": "/ˈdɛdlaɪn/"
+        },
+        "meaning": {
+          "fa": "مهلت نهایی",
+          "en": "deadline; the latest allowed time"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "در «has passed»: گذشته است",
+          "en": "In “has passed”: the deadline is already over"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "passed",
+        "text": "passed",
+        "pronunciation": {
+          "faReading": "پَست",
+          "ipa": "/pæst/"
+        },
+        "meaning": {
+          "fa": "در «has passed»: گذشته است",
+          "en": "In “has passed”: the deadline is already over"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "send",
+        "text": "send",
+        "pronunciation": {
+          "faReading": "سِند",
+          "ipa": "/sɛnd/"
+        },
+        "meaning": {
+          "fa": "فرستادن",
+          "en": "send; make something go to someone"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "him",
+        "text": "him",
+        "pronunciation": {
+          "faReading": "هیم",
+          "ipa": "/hɪm/"
+        },
+        "meaning": {
+          "fa": "او را؛ به او",
+          "en": "him; the male person receiving an action"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "formal",
+        "text": "formal",
+        "pronunciation": {
+          "faReading": "فورمِل",
+          "ipa": "/ˈfɔrməl/"
+        },
+        "meaning": {
+          "fa": "رسمی",
+          "en": "formal; suitable for official communication"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "written",
+        "text": "written",
+        "pronunciation": {
+          "faReading": "ریتِن",
+          "ipa": "/ˈrɪtən/"
+        },
+        "meaning": {
+          "fa": "کتبی؛ نوشته‌شده",
+          "en": "written; recorded in writing"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "reminder",
+        "text": "reminder",
+        "pronunciation": {
+          "faReading": "ریمایندِر",
+          "ipa": "/rɪˈmaɪndɚ/"
+        },
+        "meaning": {
+          "fa": "یادآوری؛ اخطاریهٔ یادآوری",
+          "en": "reminder; a message asking someone to act on an obligation"
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What should the reminder include, so it is legally effective?",
+          "translation": {
+            "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+            "en": "What should the reminder include, so it is legally effective?"
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "What should the reminder include, so it is legally effective?",
+          "translation": {
+            "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+            "en": "What should the reminder include, so it is legally effective?"
+          }
+        }
+      },
+      {
+        "id": "include",
+        "text": "include",
+        "pronunciation": {
+          "faReading": "اینکْلود",
+          "ipa": "/ɪnˈklud/"
+        },
+        "meaning": {
+          "fa": "شامل بودن",
+          "en": "include; contain as part of the total"
+        },
+        "example": {
+          "text": "What should the reminder include, so it is legally effective?",
+          "translation": {
+            "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+            "en": "What should the reminder include, so it is legally effective?"
+          }
+        }
+      },
+      {
+        "id": "legally",
+        "text": "legally",
+        "pronunciation": {
+          "faReading": "لیگِلی",
+          "ipa": "/ˈliɡəli/"
+        },
+        "meaning": {
+          "fa": "از نظر قانونی",
+          "en": "legally; in terms of law"
+        },
+        "example": {
+          "text": "What should the reminder include, so it is legally effective?",
+          "translation": {
+            "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+            "en": "What should the reminder include, so it is legally effective?"
+          }
+        }
+      },
+      {
+        "id": "effective",
+        "text": "effective",
+        "pronunciation": {
+          "faReading": "ایفِکتیو",
+          "ipa": "/ɪˈfɛktɪv/"
+        },
+        "meaning": {
+          "fa": "مؤثر",
+          "en": "effective; producing the intended result"
+        },
+        "example": {
+          "text": "What should the reminder include, so it is legally effective?",
+          "translation": {
+            "fa": "یادآوری باید شامل چه چیزهایی باشد تا از نظر قانونی مؤثر باشد؟",
+            "en": "What should the reminder include, so it is legally effective?"
+          }
+        }
+      },
+      {
+        "id": "mention",
+        "text": "Mention",
+        "pronunciation": {
+          "faReading": "مِنشِن",
+          "ipa": "/ˈmɛnʃən/"
+        },
+        "meaning": {
+          "fa": "ذکر کردن",
+          "en": "mention; refer to something briefly"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "date",
+        "text": "date",
+        "pronunciation": {
+          "faReading": "دِیت",
+          "ipa": "/deɪt/"
+        },
+        "meaning": {
+          "fa": "تاریخ",
+          "en": "date; a particular calendar day"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "amount",
+        "text": "amount",
+        "pronunciation": {
+          "faReading": "اِماونت",
+          "ipa": "/əˈmaʊnt/"
+        },
+        "meaning": {
+          "fa": "مبلغ",
+          "en": "amount; a sum of money"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "exact",
+        "text": "exact",
+        "pronunciation": {
+          "faReading": "ایگْزَکت",
+          "ipa": "/ɪɡˈzækt/"
+        },
+        "meaning": {
+          "fa": "دقیق",
+          "en": "exact; precise"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "return",
+        "text": "return",
+        "pronunciation": {
+          "faReading": "ریتِرن",
+          "ipa": "/rɪˈtɝn/"
+        },
+        "meaning": {
+          "fa": "بازپرداخت",
+          "en": "return; giving money back"
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "با؛ از راهِ",
+          "en": "by; using a means of transport here"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "registered",
+        "text": "registered",
+        "pronunciation": {
+          "faReading": "رِجِستِرد",
+          "ipa": "/ˈrɛdʒɪstɚd/"
+        },
+        "meaning": {
+          "fa": "در «registered mail»: پست سفارشی",
+          "en": "In “registered mail”: mail sent with an official delivery record"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "mail",
+        "text": "mail",
+        "pronunciation": {
+          "faReading": "مِیل",
+          "ipa": "/meɪl/"
+        },
+        "meaning": {
+          "fa": "در «registered mail»: پست سفارشی",
+          "en": "In “registered mail”: mail sent with an official delivery record"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "در «there is»: وجود داشته باشد؛ برای بیان هدف",
+          "en": "In “there is”: something exists, here as an intended result"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "is-2",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "در «there is»: وجود داشته باشد؛ برای بیان هدف",
+          "en": "In “there is”: something exists, here as an intended result"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "record",
+        "text": "record",
+        "pronunciation": {
+          "faReading": "رِکِرد",
+          "ipa": "/ˈrɛkɚd/"
+        },
+        "meaning": {
+          "fa": "مدرک ثبت‌شدهٔ تحویل",
+          "en": "record; documented evidence of delivery"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "delivery",
+        "text": "delivery",
+        "pronunciation": {
+          "faReading": "دیلیوِری",
+          "ipa": "/dɪˈlɪvɚi/"
+        },
+        "meaning": {
+          "fa": "تحویل؛ رساندن نامه",
+          "en": "delivery; the act of bringing mail to its destination"
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست؛ مناسب",
+          "en": "right; correct or suitable"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "step",
+        "text": "step",
+        "pronunciation": {
+          "faReading": "سْتِپ",
+          "ipa": "/stɛp/"
+        },
+        "meaning": {
+          "fa": "اقدام؛ مرحله",
+          "en": "step; an action in a process"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "few",
+        "text": "few",
+        "pronunciation": {
+          "faReading": "فیو",
+          "ipa": "/fju/"
+        },
+        "meaning": {
+          "fa": "چند؛ تعداد کم",
+          "en": "few; a small number"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "days",
+        "text": "days",
+        "pronunciation": {
+          "faReading": "دِیز",
+          "ipa": "/deɪz/"
+        },
+        "meaning": {
+          "fa": "روزها",
+          "en": "days; periods of twenty-four hours"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "respond",
+        "text": "respond",
+        "pronunciation": {
+          "faReading": "ریسپاند",
+          "ipa": "/rɪˈspɑnd/"
+        },
+        "meaning": {
+          "fa": "واکنش نشان دادن؛ پاسخ دادن",
+          "en": "respond; react or reply"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "after",
+        "text": "after",
+        "pronunciation": {
+          "faReading": "اَفتِر",
+          "ipa": "/ˈæftɚ/"
+        },
+        "meaning": {
+          "fa": "پس از",
+          "en": "after; later than"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "arrives",
+        "text": "arrives",
+        "pronunciation": {
+          "faReading": "اِرایوز",
+          "ipa": "/əˈraɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌رسد",
+          "en": "arrives; reaches its destination"
+        },
+        "example": {
+          "text": "That is the right step, and give him a few days to respond after it arrives.",
+          "translation": {
+            "fa": "اقدام درستی است؛ بعد از رسیدنش هم چند روز به او فرصت پاسخ بده.",
+            "en": "That is the right step, and give him a few days to respond after it arrives."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "If",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "If he still refuses, what can I do next?",
+          "translation": {
+            "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+            "en": "If he still refuses, what can I do next?"
+          }
+        }
+      },
+      {
+        "id": "he",
+        "text": "he",
+        "pronunciation": {
+          "faReading": "هی",
+          "ipa": "/hi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای مرد یا پسر",
+          "en": "he; a male person"
+        },
+        "example": {
+          "text": "If he still refuses, what can I do next?",
+          "translation": {
+            "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+            "en": "If he still refuses, what can I do next?"
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "هنوز",
+          "en": "still; continuing until now"
+        },
+        "example": {
+          "text": "If he still refuses, what can I do next?",
+          "translation": {
+            "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+            "en": "If he still refuses, what can I do next?"
+          }
+        }
+      },
+      {
+        "id": "refuses",
+        "text": "refuses",
+        "pronunciation": {
+          "faReading": "ریفْیوزِز",
+          "ipa": "/rɪˈfjuzɪz/"
+        },
+        "meaning": {
+          "fa": "خودداری می‌کند",
+          "en": "refuses; declines to do something"
+        },
+        "example": {
+          "text": "If he still refuses, what can I do next?",
+          "translation": {
+            "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+            "en": "If he still refuses, what can I do next?"
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "If he still refuses, what can I do next?",
+          "translation": {
+            "fa": "اگر باز هم خودداری کرد، بعد چه کار می‌توانم بکنم؟",
+            "en": "If he still refuses, what can I do next?"
+          }
+        }
+      },
+      {
+        "id": "file",
+        "text": "file",
+        "pronunciation": {
+          "faReading": "فایل",
+          "ipa": "/faɪl/"
+        },
+        "meaning": {
+          "fa": "در «file a complaint»: شکایت ثبت کردن",
+          "en": "In “file a complaint”: officially submit a complaint"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "a-2",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "در «file a complaint»: شکایت ثبت کردن",
+          "en": "In “file a complaint”: officially submit a complaint"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "complaint",
+        "text": "complaint",
+        "pronunciation": {
+          "faReading": "کِمپْلِینت",
+          "ipa": "/kəmˈpleɪnt/"
+        },
+        "meaning": {
+          "fa": "در «file a complaint»: شکایت ثبت کردن",
+          "en": "In “file a complaint”: officially submit a complaint"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "rental",
+        "text": "rental",
+        "pronunciation": {
+          "faReading": "رِنتِل",
+          "ipa": "/ˈrɛntəl/"
+        },
+        "meaning": {
+          "fa": "مربوط به اجاره",
+          "en": "rental; relating to renting property"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "board",
+        "text": "board",
+        "pronunciation": {
+          "faReading": "بورد",
+          "ipa": "/bɔrd/"
+        },
+        "meaning": {
+          "fa": "هیئت رسیدگی به امور اجاره",
+          "en": "board; a body dealing with rental disputes, as named in the dialogue"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "ارجاع دادن؛ سپردن پرونده به میانجی",
+          "en": "take; bring a case to a mediator for resolution"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "case",
+        "text": "case",
+        "pronunciation": {
+          "faReading": "کِیس",
+          "ipa": "/keɪs/"
+        },
+        "meaning": {
+          "fa": "پرونده؛ موضوع اختلاف",
+          "en": "case; a dispute presented for resolution"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "mediator",
+        "text": "mediator",
+        "pronunciation": {
+          "faReading": "میدیِیتِر",
+          "ipa": "/ˈmidieɪtɚ/"
+        },
+        "meaning": {
+          "fa": "میانجی",
+          "en": "mediator; a person helping parties resolve a dispute"
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که می‌شنویم",
+          "en": "sounds; gives an impression from what is heard"
+        },
+        "example": {
+          "text": "That sounds serious, but I hope the reminder is enough.",
+          "translation": {
+            "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+            "en": "That sounds serious, but I hope the reminder is enough."
+          }
+        }
+      },
+      {
+        "id": "serious",
+        "text": "serious",
+        "pronunciation": {
+          "faReading": "سیریِس",
+          "ipa": "/ˈsɪriəs/"
+        },
+        "meaning": {
+          "fa": "جدی",
+          "en": "serious; not joking much"
+        },
+        "example": {
+          "text": "That sounds serious, but I hope the reminder is enough.",
+          "translation": {
+            "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+            "en": "That sounds serious, but I hope the reminder is enough."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "That sounds serious, but I hope the reminder is enough.",
+          "translation": {
+            "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+            "en": "That sounds serious, but I hope the reminder is enough."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "That sounds serious, but I hope the reminder is enough.",
+          "translation": {
+            "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+            "en": "That sounds serious, but I hope the reminder is enough."
+          }
+        }
+      },
+      {
+        "id": "enough",
+        "text": "enough",
+        "pronunciation": {
+          "faReading": "ایناف",
+          "ipa": "/ɪˈnʌf/"
+        },
+        "meaning": {
+          "fa": "کافی",
+          "en": "enough; as much as needed"
+        },
+        "example": {
+          "text": "That sounds serious, but I hope the reminder is enough.",
+          "translation": {
+            "fa": "جدی به نظر می‌رسد، ولی امیدوارم همان یادآوری کافی باشد.",
+            "en": "That sounds serious, but I hope the reminder is enough."
+          }
+        }
+      },
+      {
+        "id": "often",
+        "text": "Often",
+        "pronunciation": {
+          "faReading": "آفِن",
+          "ipa": "/ˈɔfən/"
+        },
+        "meaning": {
+          "fa": "اغلب؛ به دفعات",
+          "en": "often; frequently"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "because",
+        "text": "because",
+        "pronunciation": {
+          "faReading": "بی‌کاز",
+          "ipa": "/bɪˈkɔz/"
+        },
+        "meaning": {
+          "fa": "چون؛ زیرا",
+          "en": "because; introduces a reason"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "landlords",
+        "text": "landlords",
+        "pronunciation": {
+          "faReading": "لَندلوردز",
+          "ipa": "/ˈlændlɔrdz/"
+        },
+        "meaning": {
+          "fa": "صاحب‌خانه‌ها",
+          "en": "landlords; people renting property to tenants"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "their",
+        "text": "their",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "مال آن‌ها",
+          "en": "their; belonging to them"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "legal",
+        "text": "legal",
+        "pronunciation": {
+          "faReading": "لیگِل",
+          "ipa": "/ˈliɡəl/"
+        },
+        "meaning": {
+          "fa": "قانونی",
+          "en": "legal; relating to the law"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "obligations",
+        "text": "obligations",
+        "pronunciation": {
+          "faReading": "آبْلِگِیشنز",
+          "ipa": "/ˌɑbləˈɡeɪʃənz/"
+        },
+        "meaning": {
+          "fa": "تعهدات",
+          "en": "obligations; duties a person is required to meet"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "clearly",
+        "text": "clearly",
+        "pronunciation": {
+          "faReading": "کْلیرلی",
+          "ipa": "/ˈklɪrli/"
+        },
+        "meaning": {
+          "fa": "به‌روشنی",
+          "en": "clearly; without confusion"
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "letter",
+        "text": "letter",
+        "pronunciation": {
+          "faReading": "لِتِر",
+          "ipa": "/ˈlɛtɚ/"
+        },
+        "meaning": {
+          "fa": "نامه",
+          "en": "letter; a written message"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "keep",
+        "text": "keep",
+        "pronunciation": {
+          "faReading": "کیپ",
+          "ipa": "/kip/"
+        },
+        "meaning": {
+          "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+          "en": "In “keep you updated”: continue informing you of developments"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "you-2",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+          "en": "In “keep you updated”: continue informing you of developments"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "updated",
+        "text": "updated",
+        "pronunciation": {
+          "faReading": "آپدِیتِد",
+          "ipa": "/ʌpˈdeɪtɪd/"
+        },
+        "meaning": {
+          "fa": "در «keep you updated»: تو را در جریان می‌گذارم",
+          "en": "In “keep you updated”: continue informing you of developments"
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      },
+      {
+        "id": "you-3",
+        "text": "You",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "در «You are welcome»: خواهش می‌کنم",
+          "en": "In “You are welcome”: a polite response to thanks"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "keep-2",
+        "text": "keep",
+        "pronunciation": {
+          "faReading": "کیپ",
+          "ipa": "/kip/"
+        },
+        "meaning": {
+          "fa": "نگه داشتن",
+          "en": "keep; retain or maintain"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "copies",
+        "text": "copies",
+        "pronunciation": {
+          "faReading": "کاپیز",
+          "ipa": "/ˈkɑpiz/"
+        },
+        "meaning": {
+          "fa": "نسخه‌ها",
+          "en": "copies; duplicate documents"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      },
+      {
+        "id": "document",
+        "text": "document",
+        "pronunciation": {
+          "faReading": "داکیومِنت",
+          "ipa": "/ˈdɑkjəmənt/"
+        },
+        "meaning": {
+          "fa": "سند؛ مدرک",
+          "en": "document; a written record"
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "unreturned-deposit",
+        "title": {
+          "fa": "پس‌ندادن فعلی و تعهد قرارداد",
+          "en": "Current non-return and a contractual term"
+        },
+        "explanation": {
+          "fa": "is not returning it وضعیت حل‌نشدهٔ فعلی را نشان می‌دهد. the deposit is returned within one month مجهولِ حال در نقل مفاد قرارداد است، نه خبر اینکه پول واقعاً برگشته است. within سقف زمانی می‌دهد؛ نه اینکه الزاماً دقیقاً روز آخر بازپرداخت شود.",
+          "en": "Is not returning it presents the unresolved current problem. The deposit is returned within one month is a passive present statement of the contract term, not a report of actual repayment. Within sets an outer limit, not an exact repayment day."
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        },
+        "takeaway": {
+          "fa": "قاعدهٔ قرارداد با وقوع بازپرداخت تفاوت دارد.",
+          "en": "A contractual term differs from an actual repayment."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پس‌ندادن فعلی و تعهد قرارداد",
+              "en": "Current non-return and a contractual term"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the landlord is not returning it"
+                },
+                {
+                  "text": "present continuous negative"
+                },
+                {
+                  "fa": "صاحب‌خانه پس نمی‌دهد",
+                  "en": "Ongoing unresolved issue"
+                }
+              ],
+              [
+                {
+                  "text": "the deposit is returned within one month"
+                },
+                {
+                  "text": "present passive + within + period"
+                },
+                {
+                  "fa": "طبق قرارداد ظرف یک ماه پس داده می‌شود",
+                  "en": "A term, not a completed payment"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elapsed-deadline-and-options",
+        "title": {
+          "fa": "گذشتن مهلت و امکان اقدام",
+          "en": "An elapsed deadline and an available action"
+        },
+        "explanation": {
+          "fa": "has passed یک تغییر کامل‌شده با اثر فعلی است: حالا مهلت گذشته. so نتیجهٔ استدلال مشاور را وصل می‌کند. can send امکان یک اقدام بعدی را می‌گوید، نه اینکه نامه ارسال شده است. مدت یک ماه طبق همین قرارداد گفته شده، نه قانون همگانی.",
+          "en": "Has passed marks a completed change with a present consequence: the deadline is now over. So links the advisor’s proposed consequence. Can send gives an available next action, not an action already taken. The one-month period is attributed to this contract, not universal law."
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        },
+        "takeaway": {
+          "fa": "has passed وضعیت اکنون را توجیه می‌کند؛ can send هنوز امکان است.",
+          "en": "Has passed explains the present situation; can send remains an option."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گذشتن مهلت و امکان اقدام",
+              "en": "An elapsed deadline and an available action"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "The deadline has passed"
+                },
+                {
+                  "text": "has + past participle"
+                },
+                {
+                  "fa": "مهلت گذشته است",
+                  "en": "Completed event with a present consequence"
+                }
+              ],
+              [
+                {
+                  "text": "so you can send him a formal written reminder"
+                },
+                {
+                  "text": "so + can + action"
+                },
+                {
+                  "fa": "پس می‌توانی یادآوری رسمی بفرستی",
+                  "en": "An available next step"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "purpose-and-required-content",
+        "title": {
+          "fa": "هدف نامه و اجزای لازم",
+          "en": "The letter’s purpose and required content"
+        },
+        "explanation": {
+          "fa": "What should ... include? محتوای مناسب نامه را می‌پرسد. so it is legally effective هدف را بیان می‌کند، نه تضمین اثر حقوقی. Mention سه گروه اسمی هم‌پایه دارد: تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت. اثر حقوقی واقعی به محل و شرایط وابسته است؛ متن آن‌ها را تعیین نمی‌کند.",
+          "en": "What should ... include? asks about appropriate content. So it is legally effective states the intended purpose, not a guarantee of legal effect. Mention governs three parallel noun groups: contract date, deposit amount and exact return deadline. The dialogue specifies no jurisdiction or facts that establish legal effectiveness."
+        },
+        "example": {
+          "text": "Mention the contract date, the deposit amount, and the exact deadline for the return.",
+          "translation": {
+            "fa": "تاریخ قرارداد، مبلغ ودیعه و مهلت دقیق بازپرداخت را ذکر کن.",
+            "en": "Mention the contract date, the deposit amount, and the exact deadline for the return."
+          }
+        },
+        "takeaway": {
+          "fa": "هدف حقوقیِ نامه تضمین نتیجه نیست؛ سه جزء را جدا بخوان.",
+          "en": "The letter’s legal purpose is not a guaranteed result; identify the three items."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هدف نامه و اجزای لازم",
+              "en": "The letter’s purpose and required content"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What should the reminder include"
+                },
+                {
+                  "text": "What should + subject + action?"
+                },
+                {
+                  "fa": "یادآوری باید شامل چه باشد؟",
+                  "en": "Asks for suitable content"
+                }
+              ],
+              [
+                {
+                  "text": "so it is legally effective"
+                },
+                {
+                  "text": "so + intended result"
+                },
+                {
+                  "fa": "تا از نظر قانونی مؤثر باشد",
+                  "en": "Purpose, not proof of effect"
+                }
+              ],
+              [
+                {
+                  "text": "the contract date, the deposit amount, and the exact deadline"
+                },
+                {
+                  "text": "parallel noun groups"
+                },
+                {
+                  "fa": "تاریخ، مبلغ و مهلت",
+                  "en": "Three requested details"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "delivery-and-sequence",
+        "title": {
+          "fa": "مدرک تحویل و ترتیب زمانی",
+          "en": "Delivery evidence and time sequence"
+        },
+        "explanation": {
+          "fa": "by registered mail روش ارسال است؛ record of delivery مدرک رسیدن نامه است، نه دریافت پول. after it arrives شروع فرصت چندروزهٔ پاسخ را به رسیدن نامه وابسته می‌کند. arrives با وجود معنی آینده حال ساده است. چند روز دقیق تعیین نشده است.",
+          "en": "By registered mail gives the sending method; a record of delivery documents receipt of the letter, not repayment. After it arrives places the few days for response after arrival. Arrives is present simple despite future reference. The number of days is not specified."
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        },
+        "takeaway": {
+          "fa": "مدرک تحویل نامه، مدرک بازپرداخت ودیعه نیست.",
+          "en": "Evidence of letter delivery is not evidence of deposit repayment."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مدرک تحویل و ترتیب زمانی",
+              "en": "Delivery evidence and time sequence"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "by registered mail so there is a record of delivery"
+                },
+                {
+                  "text": "method + so + purpose"
+                },
+                {
+                  "fa": "پست سفارشی برای مدرک تحویل",
+                  "en": "Method and evidentiary purpose"
+                }
+              ],
+              [
+                {
+                  "text": "give him a few days to respond after it arrives"
+                },
+                {
+                  "text": "after + present simple"
+                },
+                {
+                  "fa": "پس از رسیدنش چند روز فرصت بده",
+                  "en": "Response window starts after delivery"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conditional-dispute-options",
+        "title": {
+          "fa": "دو مسیر مشروط حل اختلاف",
+          "en": "Two conditional dispute routes"
+        },
+        "explanation": {
+          "fa": "If he still refuses شرطی حل‌نشده است؛ متن نمی‌گوید بعد از اخطاریه هم رد کرده است. can file ... or take ... دو گزینه را می‌دهد، نه الزام به انجام هم‌زمان. board یک هیئت رسیدگی است، نه تخته یا عضو تیم. دسترسی واقعی به این مسیرها از این دیالوگ ثابت نمی‌شود.",
+          "en": "If he still refuses is an unresolved condition; no refusal after the reminder is reported. Can file ... or take ... offers alternatives, not mandatory simultaneous actions. Board means a dispute-handling body here, not a plank or team membership. The dialogue does not establish real-world availability of these routes."
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        },
+        "takeaway": {
+          "fa": "دو گزینهٔ متن را از اقدام انجام‌شده و تضمین حقوقی جدا کن.",
+          "en": "Distinguish offered routes from completed action and legal guarantees."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دو مسیر مشروط حل اختلاف",
+              "en": "Two conditional dispute routes"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "If he still refuses"
+                },
+                {
+                  "text": "if + present simple"
+                },
+                {
+                  "fa": "اگر باز هم خودداری کرد",
+                  "en": "Condition not yet resolved"
+                }
+              ],
+              [
+                {
+                  "text": "file a complaint with the rental board or take the case to a mediator"
+                },
+                {
+                  "text": "can + action + or + action"
+                },
+                {
+                  "fa": "شکایت نزد هیئت یا ارجاع به میانجی",
+                  "en": "Two proposed alternatives"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ellipsis-frequency-and-hope",
+        "title": {
+          "fa": "حذف، بسامد و امید",
+          "en": "Ellipsis, frequency and hope"
+        },
+        "explanation": {
+          "fa": "در Often it is، واژهٔ enough از جملهٔ قبل فهمیده می‌شود: یادآوری اغلب کافی است. often یعنی نه همیشه. because علت را از دید مشاور بیان می‌کند؛ دانستن تعهدات از سوی همهٔ صاحب‌خانه‌ها یا موفقیت قطعی نامه ثابت نمی‌شود. I hope هم امید رضاست.",
+          "en": "In Often it is, enough is understood from the previous sentence: the reminder is often enough. Often does not mean always. Because gives the advisor’s explanation; it does not prove universal landlord knowledge or guaranteed success. I hope separately marks Reza’s desired outcome."
+        },
+        "example": {
+          "text": "Often it is, because landlords know their legal obligations clearly.",
+          "translation": {
+            "fa": "اغلب کافی است، چون صاحب‌خانه‌ها تعهدات قانونی‌شان را به‌روشنی می‌دانند.",
+            "en": "Often it is, because landlords know their legal obligations clearly."
+          }
+        },
+        "takeaway": {
+          "fa": "Often it is یعنی Often it is enough؛ اغلب، نه همیشه.",
+          "en": "Often it is means Often it is enough; often, not always."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حذف، بسامد و امید",
+              "en": "Ellipsis, frequency and hope"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I hope the reminder is enough"
+                },
+                {
+                  "text": "hope + clause"
+                },
+                {
+                  "fa": "امیدوارم یادآوری کافی باشد",
+                  "en": "Desired outcome"
+                }
+              ],
+              [
+                {
+                  "text": "Often it is"
+                },
+                {
+                  "text": "frequency + subject + be + understood complement"
+                },
+                {
+                  "fa": "اغلب کافی است",
+                  "en": "Enough is omitted but understood"
+                }
+              ],
+              [
+                {
+                  "text": "because landlords know their legal obligations clearly"
+                },
+                {
+                  "text": "because + explanation"
+                },
+                {
+                  "fa": "چون به گفتهٔ مشاور تعهداتشان را می‌دانند",
+                  "en": "Speaker’s causal generalization"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "records-and-relative-clause",
+        "title": {
+          "fa": "نسخهٔ اسناد و جملهٔ توضیحی",
+          "en": "Document copies and a relative clause"
+        },
+        "explanation": {
+          "fa": "keep you updated یعنی در جریان تحولات گذاشتن؛ updated حالت شخص را توصیف می‌کند. every document you send یک بند توضیحی بدون that دارد؛ you send مشخص می‌کند کدام اسناد. every با document مفرد می‌آید، حتی اگر تعداد زیادی سند باشد.",
+          "en": "Keep you updated means continue informing you of developments; updated describes the person’s state. Every document you send contains a relative clause with omitted that, specifying which documents. Every takes singular document even when many are involved."
+        },
+        "example": {
+          "text": "You are welcome, and keep copies of every document you send.",
+          "translation": {
+            "fa": "خواهش می‌کنم و از هر مدرکی که می‌فرستی نسخه نگه دار.",
+            "en": "You are welcome, and keep copies of every document you send."
+          }
+        },
+        "takeaway": {
+          "fa": "every + اسم مفرد؛ you send دامنهٔ اسناد را مشخص می‌کند.",
+          "en": "Every + singular noun; you send identifies the documents covered."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نسخهٔ اسناد و جملهٔ توضیحی",
+              "en": "Document copies and a relative clause"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "keep you updated"
+                },
+                {
+                  "text": "keep + person + past participle"
+                },
+                {
+                  "fa": "تو را در جریان می‌گذارم",
+                  "en": "Maintaining an informed state"
+                }
+              ],
+              [
+                {
+                  "text": "copies of every document you send"
+                },
+                {
+                  "text": "every + singular noun + relative clause"
+                },
+                {
+                  "fa": "نسخهٔ هر سندی که می‌فرستی",
+                  "en": "That is omitted before you send"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "deposit",
+        "text": "my deposit",
+        "pronunciation": {
+          "faReading": "مای دیپازِت",
+          "ipa": "/maɪ dɪˈpɑzɪt/"
+        },
+        "meaning": {
+          "fa": "ودیعهٔ من",
+          "en": "My rental security deposit"
+        },
+        "context": {
+          "fa": "پول تضمین اجاره است، نه پیش‌پرداخت خرید خانه.",
+          "en": "Rental security money, not a home-purchase down payment."
+        },
+        "example": {
+          "text": "I am calling about my deposit, the landlord is not returning it.",
+          "translation": {
+            "fa": "دربارهٔ ودیعه‌ام تماس می‌گیرم؛ صاحب‌خانه آن را پس نمی‌دهد.",
+            "en": "I am calling about my deposit, the landlord is not returning it."
+          }
+        }
+      },
+      {
+        "id": "limit",
+        "text": "within one month",
+        "pronunciation": {
+          "faReading": "ویذین وان مانث",
+          "ipa": "/wɪˈðɪn wʌn mʌnθ/"
+        },
+        "meaning": {
+          "fa": "ظرف یک ماه",
+          "en": "No later than the end of one month"
+        },
+        "context": {
+          "fa": "مهلت قرارداد رضاست، نه قانون جهانی بازپرداخت.",
+          "en": "Reza’s contract term, not a universal refund rule."
+        },
+        "example": {
+          "text": "Yes, I kept everything, the contract says the deposit is returned within one month.",
+          "translation": {
+            "fa": "بله، همه‌چیز را نگه داشتم؛ قرارداد می‌گوید ودیعه ظرف یک ماه پس داده می‌شود.",
+            "en": "Yes, I kept everything, the contract says the deposit is returned within one month."
+          }
+        }
+      },
+      {
+        "id": "reminder",
+        "text": "a formal written reminder",
+        "pronunciation": {
+          "faReading": "اِ فورمِل ریتِن ریمایندِر",
+          "ipa": "/ə ˈfɔrməl ˈrɪtən rɪˈmaɪndɚ/"
+        },
+        "meaning": {
+          "fa": "یادآوری رسمی کتبی",
+          "en": "A formal reminder in written form"
+        },
+        "context": {
+          "fa": "مشاور پس از گذشت مهلت پیشنهادش می‌کند.",
+          "en": "The advisor proposes it after the deadline has passed."
+        },
+        "example": {
+          "text": "The deadline has passed, so you can send him a formal written reminder.",
+          "translation": {
+            "fa": "مهلت گذشته، پس می‌توانی برایش یک یادآوری رسمی کتبی بفرستی.",
+            "en": "The deadline has passed, so you can send him a formal written reminder."
+          }
+        }
+      },
+      {
+        "id": "mail",
+        "text": "by registered mail",
+        "pronunciation": {
+          "faReading": "بای رِجِستِرد مِیل",
+          "ipa": "/baɪ ˈrɛdʒɪstɚd meɪl/"
+        },
+        "meaning": {
+          "fa": "با پست سفارشی",
+          "en": "By registered mail"
+        },
+        "context": {
+          "fa": "هدف داشتن مدرک تحویل نامه است، نه اثبات بازپرداخت.",
+          "en": "The purpose is evidence of letter delivery, not repayment."
+        },
+        "example": {
+          "text": "I will send it by registered mail so there is a record of delivery.",
+          "translation": {
+            "fa": "آن را با پست سفارشی می‌فرستم تا مدرک تحویل وجود داشته باشد.",
+            "en": "I will send it by registered mail so there is a record of delivery."
+          }
+        }
+      },
+      {
+        "id": "complaint",
+        "text": "file a complaint",
+        "pronunciation": {
+          "faReading": "فایل اِ کِمپْلِینت",
+          "ipa": "/faɪl ə kəmˈpleɪnt/"
+        },
+        "meaning": {
+          "fa": "شکایت ثبت کردن",
+          "en": "Officially submit a complaint"
+        },
+        "context": {
+          "fa": "اقدام مشروطِ پیشنهادی است، نه شکایتی که ثبت شده باشد.",
+          "en": "A proposed conditional action, not an already filed complaint."
+        },
+        "example": {
+          "text": "You can file a complaint with the rental board or take the case to a mediator.",
+          "translation": {
+            "fa": "می‌توانی نزد هیئت رسیدگی به امور اجاره شکایت ثبت کنی یا پرونده را به میانجی بسپاری.",
+            "en": "You can file a complaint with the rental board or take the case to a mediator."
+          }
+        }
+      },
+      {
+        "id": "updates",
+        "text": "keep you updated",
+        "pronunciation": {
+          "faReading": "کیپ یو آپدِیتِد",
+          "ipa": "/kip ju ʌpˈdeɪtɪd/"
+        },
+        "meaning": {
+          "fa": "تو را در جریان بگذارم",
+          "en": "Keep you informed of developments"
+        },
+        "context": {
+          "fa": "رضا وعدهٔ پیگیری و خبررسانی می‌دهد.",
+          "en": "Reza promises follow-up information."
+        },
+        "example": {
+          "text": "Thank you, I will send the letter today and keep you updated.",
+          "translation": {
+            "fa": "ممنون، امروز نامه را می‌فرستم و تو را در جریان می‌گذارم.",
+            "en": "Thank you, I will send the letter today and keep you updated."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع و هدف تماس رضا چیست؟",
+          "en": "What is the subject and purpose of Reza’s call?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درخواست وام برای پرداخت اجاره",
+              "en": "Seeking a loan to pay rent"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پیگیری ودیعهٔ بازنگشته و فهم اقدام بعدی",
+              "en": "Pursuing an unreturned deposit and understanding next steps"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رزرو خانه برای اسباب‌کشی",
+              "en": "Reserving a home for a move"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "ودیعه برنگشته و مشاور دربارهٔ مدارک، نامه و حل اختلاف صحبت می‌کند.",
+          "en": "The deposit is unreturned; the advisor discusses records, a letter and dispute routes."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t02",
+          "t04",
+          "t10"
+        ]
+      },
+      {
+        "id": "contract-limit",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "قرارداد رضا چه مهلتی برای بازپرداخت می‌گوید؟",
+          "en": "What repayment period does Reza’s contract specify?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ظرف سه ماه",
+              "en": "Within three months"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ظرف دو هفته",
+              "en": "Within two weeks"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ظرف یک ماه",
+              "en": "Within one month"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "قرارداد within one month می‌گوید؛ متن آن را قانون همه‌جا معرفی نمی‌کند.",
+          "en": "The contract says within one month; this is not established as a universal law."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "letter-content",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام مجموعه باید در یادآوری ذکر شود؟",
+          "en": "Which set of details should the reminder mention?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تاریخ قرارداد، مبلغ ودیعه، مهلت دقیق بازپرداخت",
+              "en": "Contract date, deposit amount and exact return deadline"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شمارهٔ طبقه، اجارهٔ همسایه، تاریخ تولد",
+              "en": "Floor number, neighbor’s rent and date of birth"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "قیمت خانه، نام بانک، نرخ بهره",
+              "en": "House price, bank name and interest rate"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "این سه مورد دقیقاً در پاسخ مشاور آمده‌اند.",
+          "en": "These are the three items explicitly listed by the advisor."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "mail-purpose",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف رضا از پست سفارشی چیست؟",
+          "en": "Why does Reza choose registered mail?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کاهش مبلغ ودیعه",
+              "en": "To reduce the deposit amount"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "داشتن مدرک تحویل نامه",
+              "en": "To have a record of the letter’s delivery"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تضمین بازپرداخت همان روز",
+              "en": "To guarantee same-day repayment"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "so there is a record of delivery هدف مستندسازی است، نه تضمین نتیجه.",
+          "en": "So there is a record of delivery gives an evidentiary purpose, not a guaranteed outcome."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "next-routes",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "اگر صاحب‌خانه همچنان خودداری کند، چه گزینه‌هایی مطرح می‌شود؟",
+          "en": "If the landlord still refuses, what routes are proposed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "توقف پیگیری یا پرداخت دوبارهٔ ودیعه",
+              "en": "Stop pursuing it or pay the deposit again"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تماس با بانک یا رزرو ون",
+              "en": "Call the bank or book a van"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شکایت نزد هیئت اجاره یا مراجعه به میانجی",
+              "en": "Complain to the rental board or take the case to a mediator"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "دو مسیر با or آمده‌اند و هنوز انجام‌شدنشان گزارش نشده است.",
+          "en": "Two routes are linked with or; neither is reported as completed."
+        },
+        "evidenceTurnIds": [
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "enough-ellipsis",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "Often it is چه چیزی را از جملهٔ قبل بازمی‌گیرد؟",
+          "en": "What does Often it is recover from the previous sentence?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یادآوری اغلب کافی است، نه همیشه",
+              "en": "The reminder is often enough, not always"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ودیعه اغلب از دست رفته است، نه همیشه",
+              "en": "The deposit is often lost, not always"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نامه اغلب دیر می‌رسد، نه همیشه",
+              "en": "The letter often arrives late, not always"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "it همان reminder است و enough از جملهٔ رضا فهمیده می‌شود؛ often تضمین نیست.",
+          "en": "It refers to the reminder and enough is understood from Reza’s sentence; often is not a guarantee."
+        },
+        "evidenceTurnIds": [
+          "t11",
+          "t12"
+        ]
+      }
+    ]
+  }
+}

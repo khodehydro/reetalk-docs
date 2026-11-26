@@ -1,0 +1,2347 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s01",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "خانه کوچک لیلا",
+    "en": "Leila’s Small House"
+  },
+  "objective": {
+    "fa": "توصیف اتاق‌ها، اجاره و محلهٔ خانه با جمله‌های کوتاه.",
+    "en": "Describe rooms, rent and the neighborhood in short sentences."
+  },
+  "speakers": [
+    {
+      "id": "leila",
+      "name": "Leila",
+      "gender": "woman"
+    },
+    {
+      "id": "omid",
+      "name": "Omid",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "leila",
+      "text": "I live in a small house with a small yard in the city.",
+      "translation": {
+        "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+        "en": "I live in a small house with a small yard in the city."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "live",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "live; have your home in a place"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "yard",
+          "gloss": {
+            "fa": "حیاط",
+            "en": "yard; an outdoor area beside a home"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "city.",
+          "gloss": {
+            "fa": "شهر",
+            "en": "city; a large town"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "omid",
+      "text": "How many rooms does your house have?",
+      "translation": {
+        "fa": "خانه‌ات چند اتاق دارد؟",
+        "en": "How many rooms does your house have?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How many»: چند تا؛ برای پرسیدن تعداد",
+            "en": "In “How many”: asks for a count"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "در «How many»: چند تا؛ برای پرسیدن تعداد",
+            "en": "In “How many”: asks for a count"
+          }
+        },
+        {
+          "surface": "rooms",
+          "gloss": {
+            "fa": "اتاق‌ها",
+            "en": "rooms; spaces inside a home"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "does; helps ask a question"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "have?",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess, or used before another verb to connect an action to now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "leila",
+      "text": "It has two bedrooms, a living room, and a small kitchen.",
+      "translation": {
+        "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+        "en": "It has two bedrooms, a living room, and a small kitchen."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "دارد",
+            "en": "has; have with he, she or it"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "bedrooms,",
+          "gloss": {
+            "fa": "اتاق‌خواب‌ها",
+            "en": "bedrooms; rooms for sleeping"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "room,",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "kitchen.",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "omid",
+      "text": "That is a cozy size for one person, is the rent high?",
+      "translation": {
+        "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+        "en": "That is a cozy size for one person, is the rent high?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "cozy",
+          "gloss": {
+            "fa": "دنج",
+            "en": "cozy; small and comfortable"
+          }
+        },
+        {
+          "surface": "size",
+          "gloss": {
+            "fa": "اندازه",
+            "en": "size; how large something is"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "person,",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "high?",
+          "gloss": {
+            "fa": "زیاد؛ بالا",
+            "en": "high; large in amount"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "leila",
+      "text": "The rent is reasonable, and the location is very convenient.",
+      "translation": {
+        "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+        "en": "The rent is reasonable, and the location is very convenient."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "reasonable,",
+          "gloss": {
+            "fa": "معقول؛ منصفانه",
+            "en": "reasonable; fair and not excessive"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "location",
+          "gloss": {
+            "fa": "موقعیت مکانی",
+            "en": "location; where a home is situated"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "convenient.",
+          "gloss": {
+            "fa": "راحت و دردسترس",
+            "en": "convenient; easy to use or reach"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "omid",
+      "text": "It sounds like a comfortable place to live.",
+      "translation": {
+        "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+        "en": "It sounds like a comfortable place to live."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "در «sounds like»: به نظر می‌رسد؛ از چیزی که می‌شنویم",
+            "en": "In “sounds like”: gives an impression based on hearing"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «sounds like»: به نظر می‌رسد؛ از چیزی که می‌شنویم",
+            "en": "In “sounds like”: gives an impression based on hearing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "comfortable",
+          "gloss": {
+            "fa": "راحت",
+            "en": "comfortable; pleasant to live in"
+          }
+        },
+        {
+          "surface": "place",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "live.",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "live; have your home in a place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "leila",
+      "text": "It is, and the neighborhood is quiet and safe.",
+      "translation": {
+        "fa": "همین‌طور است و محله هم ساکت و امن است.",
+        "en": "It is, and the neighborhood is quiet and safe."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "neighborhood",
+          "gloss": {
+            "fa": "محله",
+            "en": "neighborhood; an area where people live"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "quiet",
+          "gloss": {
+            "fa": "ساکت؛ آرام",
+            "en": "quiet; with little noise"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "safe.",
+          "gloss": {
+            "fa": "امن",
+            "en": "safe; free from danger"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "omid",
+      "text": "Thank you for telling me about your house.",
+      "translation": {
+        "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+        "en": "Thank you for telling me about your house."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "در «Thank you for»: ممنون برای",
+            "en": "In “Thank you for”: thanks someone for something"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "در «Thank you for»: ممنون برای",
+            "en": "In “Thank you for”: thanks someone for something"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «Thank you for»: ممنون برای",
+            "en": "In “Thank you for”: thanks someone for something"
+          }
+        },
+        {
+          "surface": "telling",
+          "gloss": {
+            "fa": "گفتن",
+            "en": "telling; giving information"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "house.",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "live",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن",
+          "en": "live; have your home in a place"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "house",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "خانه",
+          "en": "house; a building where people live"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "yard",
+        "text": "yard",
+        "pronunciation": {
+          "faReading": "یارد",
+          "ipa": "/jɑrd/"
+        },
+        "meaning": {
+          "fa": "حیاط",
+          "en": "yard; an outdoor area beside a home"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "city",
+        "text": "city",
+        "pronunciation": {
+          "faReading": "سیتی",
+          "ipa": "/ˈsɪti/"
+        },
+        "meaning": {
+          "fa": "شهر",
+          "en": "city; a large town"
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How many»: چند تا؛ برای پرسیدن تعداد",
+          "en": "In “How many”: asks for a count"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "در «How many»: چند تا؛ برای پرسیدن تعداد",
+          "en": "In “How many”: asks for a count"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "rooms",
+        "text": "rooms",
+        "pronunciation": {
+          "faReading": "رومز",
+          "ipa": "/rumz/"
+        },
+        "meaning": {
+          "fa": "اتاق‌ها",
+          "en": "rooms; spaces inside a home"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "does; helps ask a question"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess, or used before another verb to connect an action to now"
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "دارد",
+          "en": "has; have with he, she or it"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "bedrooms",
+        "text": "bedrooms",
+        "pronunciation": {
+          "faReading": "بِدرومز",
+          "ipa": "/ˈbɛdrumz/"
+        },
+        "meaning": {
+          "fa": "اتاق‌خواب‌ها",
+          "en": "bedrooms; rooms for sleeping"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "room",
+        "text": "room",
+        "pronunciation": {
+          "faReading": "روم",
+          "ipa": "/rum/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "cozy",
+        "text": "cozy",
+        "pronunciation": {
+          "faReading": "کُوزی",
+          "ipa": "/ˈkoʊzi/"
+        },
+        "meaning": {
+          "fa": "دنج",
+          "en": "cozy; small and comfortable"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "size",
+        "text": "size",
+        "pronunciation": {
+          "faReading": "سایز",
+          "ipa": "/saɪz/"
+        },
+        "meaning": {
+          "fa": "اندازه",
+          "en": "size; how large something is"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "person",
+        "text": "person",
+        "pronunciation": {
+          "faReading": "پِرسِن",
+          "ipa": "/ˈpɝsən/"
+        },
+        "meaning": {
+          "fa": "شخص؛ فرد",
+          "en": "person; a human being"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "rent",
+        "text": "rent",
+        "pronunciation": {
+          "faReading": "رِنت",
+          "ipa": "/rɛnt/"
+        },
+        "meaning": {
+          "fa": "اجاره‌بها",
+          "en": "rent; money paid regularly to use a home"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "high",
+        "text": "high",
+        "pronunciation": {
+          "faReading": "های",
+          "ipa": "/haɪ/"
+        },
+        "meaning": {
+          "fa": "زیاد؛ بالا",
+          "en": "high; large in amount"
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "reasonable",
+        "text": "reasonable",
+        "pronunciation": {
+          "faReading": "ریزِنِبِل",
+          "ipa": "/ˈrizənəbəl/"
+        },
+        "meaning": {
+          "fa": "معقول؛ منصفانه",
+          "en": "reasonable; fair and not excessive"
+        },
+        "example": {
+          "text": "The rent is reasonable, and the location is very convenient.",
+          "translation": {
+            "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+            "en": "The rent is reasonable, and the location is very convenient."
+          }
+        }
+      },
+      {
+        "id": "location",
+        "text": "location",
+        "pronunciation": {
+          "faReading": "لُوکِیشن",
+          "ipa": "/loʊˈkeɪʃən/"
+        },
+        "meaning": {
+          "fa": "موقعیت مکانی",
+          "en": "location; where a home is situated"
+        },
+        "example": {
+          "text": "The rent is reasonable, and the location is very convenient.",
+          "translation": {
+            "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+            "en": "The rent is reasonable, and the location is very convenient."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "The rent is reasonable, and the location is very convenient.",
+          "translation": {
+            "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+            "en": "The rent is reasonable, and the location is very convenient."
+          }
+        }
+      },
+      {
+        "id": "convenient",
+        "text": "convenient",
+        "pronunciation": {
+          "faReading": "کِنوینیِنت",
+          "ipa": "/kənˈvinjənt/"
+        },
+        "meaning": {
+          "fa": "راحت و دردسترس",
+          "en": "convenient; easy to use or reach"
+        },
+        "example": {
+          "text": "The rent is reasonable, and the location is very convenient.",
+          "translation": {
+            "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+            "en": "The rent is reasonable, and the location is very convenient."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "در «sounds like»: به نظر می‌رسد؛ از چیزی که می‌شنویم",
+          "en": "In “sounds like”: gives an impression based on hearing"
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «sounds like»: به نظر می‌رسد؛ از چیزی که می‌شنویم",
+          "en": "In “sounds like”: gives an impression based on hearing"
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        }
+      },
+      {
+        "id": "comfortable",
+        "text": "comfortable",
+        "pronunciation": {
+          "faReading": "کامفْتِربِل",
+          "ipa": "/ˈkʌmftɚbəl/"
+        },
+        "meaning": {
+          "fa": "راحت",
+          "en": "comfortable; pleasant to live in"
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        }
+      },
+      {
+        "id": "neighborhood",
+        "text": "neighborhood",
+        "pronunciation": {
+          "faReading": "نِیبِرهود",
+          "ipa": "/ˈneɪbɚˌhʊd/"
+        },
+        "meaning": {
+          "fa": "محله",
+          "en": "neighborhood; an area where people live"
+        },
+        "example": {
+          "text": "It is, and the neighborhood is quiet and safe.",
+          "translation": {
+            "fa": "همین‌طور است و محله هم ساکت و امن است.",
+            "en": "It is, and the neighborhood is quiet and safe."
+          }
+        }
+      },
+      {
+        "id": "quiet",
+        "text": "quiet",
+        "pronunciation": {
+          "faReading": "کوایِت",
+          "ipa": "/ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "ساکت؛ آرام",
+          "en": "quiet; with little noise"
+        },
+        "example": {
+          "text": "It is, and the neighborhood is quiet and safe.",
+          "translation": {
+            "fa": "همین‌طور است و محله هم ساکت و امن است.",
+            "en": "It is, and the neighborhood is quiet and safe."
+          }
+        }
+      },
+      {
+        "id": "safe",
+        "text": "safe",
+        "pronunciation": {
+          "faReading": "سِیف",
+          "ipa": "/seɪf/"
+        },
+        "meaning": {
+          "fa": "امن",
+          "en": "safe; free from danger"
+        },
+        "example": {
+          "text": "It is, and the neighborhood is quiet and safe.",
+          "translation": {
+            "fa": "همین‌طور است و محله هم ساکت و امن است.",
+            "en": "It is, and the neighborhood is quiet and safe."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "در «Thank you for»: ممنون برای",
+          "en": "In “Thank you for”: thanks someone for something"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "در «Thank you for»: ممنون برای",
+          "en": "In “Thank you for”: thanks someone for something"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      },
+      {
+        "id": "for-2",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «Thank you for»: ممنون برای",
+          "en": "In “Thank you for”: thanks someone for something"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      },
+      {
+        "id": "telling",
+        "text": "telling",
+        "pronunciation": {
+          "faReading": "تِلینگ",
+          "ipa": "/ˈtɛlɪŋ/"
+        },
+        "meaning": {
+          "fa": "گفتن",
+          "en": "telling; giving information"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "live-in-with",
+        "title": {
+          "fa": "گفتن محل زندگی",
+          "en": "Saying where you live"
+        },
+        "explanation": {
+          "fa": "I live in برای گفتن محل زندگی است. with اینجا چیزی را به توصیف خانه اضافه می‌کند: خانه‌ای با حیاط، نه زندگی با یک شخص. a small house یعنی یک خانهٔ کوچک.",
+          "en": "Use I live in to name your home or city. With adds a feature here: a house with a yard, not a person you live with. A small house means one small home."
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        },
+        "takeaway": {
+          "fa": "in محل و with ویژگی همراه خانه را می‌گوید.",
+          "en": "In gives the place; with adds a feature of the house."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن محل زندگی",
+              "en": "Saying where you live"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I live in a small house"
+                },
+                {
+                  "text": "I live in + place"
+                },
+                {
+                  "fa": "در یک خانهٔ کوچک زندگی می‌کنم",
+                  "en": "Names the type of home"
+                }
+              ],
+              [
+                {
+                  "text": "with a small yard"
+                },
+                {
+                  "text": "with + feature"
+                },
+                {
+                  "fa": "با یک حیاط کوچک",
+                  "en": "Adds an outdoor feature"
+                }
+              ],
+              [
+                {
+                  "text": "in the city"
+                },
+                {
+                  "text": "in + place"
+                },
+                {
+                  "fa": "در شهر",
+                  "en": "Names the wider location"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-many-rooms",
+        "title": {
+          "fa": "چند اتاق دارد؟",
+          "en": "How many rooms?"
+        },
+        "explanation": {
+          "fa": "How many را برای تعداد می‌پرسیم و بعد rooms می‌آید. برای your house سؤال با does و have ساخته می‌شود. در پاسخ با It از has استفاده کن: It has two bedrooms.",
+          "en": "How many asks for a number, followed by rooms. With your house, the question uses does and have. The answer with it uses has: It has two bedrooms."
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        },
+        "takeaway": {
+          "fa": "سؤال: does ... have؟ پاسخ: It has ... .",
+          "en": "Question: does ... have? Answer: It has ... ."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "چند اتاق دارد؟",
+              "en": "How many rooms?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How many rooms does your house have"
+                },
+                {
+                  "text": "How many + rooms + does ... have"
+                },
+                {
+                  "fa": "خانه‌ات چند اتاق دارد؟",
+                  "en": "Asks for a count"
+                }
+              ],
+              [
+                {
+                  "text": "It has two bedrooms"
+                },
+                {
+                  "text": "It has + number + rooms"
+                },
+                {
+                  "fa": "دو اتاق‌خواب دارد",
+                  "en": "Gives a count without does"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "describe-home",
+        "title": {
+          "fa": "خانه چه جور جایی است؟",
+          "en": "What is the home like?"
+        },
+        "explanation": {
+          "fa": "با is ویژگی خانه را بگو. small اندازه است؛ cozy یعنی دنج و راحت، نه فقط کوچک. quiet یعنی کم‌سروصدا و safe یعنی امن. and دو ویژگی را کنار هم می‌آورد.",
+          "en": "Use is to describe the home. Small gives size; cozy means pleasantly small and comfortable. Quiet means not noisy; safe means not dangerous. And joins two features."
+        },
+        "example": {
+          "text": "It is, and the neighborhood is quiet and safe.",
+          "translation": {
+            "fa": "همین‌طور است و محله هم ساکت و امن است.",
+            "en": "It is, and the neighborhood is quiet and safe."
+          }
+        },
+        "takeaway": {
+          "fa": "اسم یا it + is + ویژگی.",
+          "en": "A thing or it + is + a describing word."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "خانه چه جور جایی است؟",
+              "en": "What is the home like?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the neighborhood is quiet and safe"
+                },
+                {
+                  "text": "place + is + feature + and + feature"
+                },
+                {
+                  "fa": "محله ساکت و امن است",
+                  "en": "Two qualities of the area"
+                }
+              ],
+              [
+                {
+                  "text": "The rent is reasonable"
+                },
+                {
+                  "text": "cost + is + feature"
+                },
+                {
+                  "fa": "اجاره معقول است",
+                  "en": "Describes the cost"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "asking-and-impression",
+        "title": {
+          "fa": "پرسش و برداشت از شنیده‌ها",
+          "en": "A question and an impression"
+        },
+        "explanation": {
+          "fa": "برای سؤال کوتاه is را جلو بیاور: Is the rent high? در It sounds like ... گوینده از حرف‌های لیلا برداشت می‌کند؛ هنوز لازم نیست خانه را دیده باشد. to live یعنی برای زندگی کردن.",
+          "en": "Put is first for a short question: Is the rent high? It sounds like gives an impression from Leila’s words; Omid need not have seen the home. To live says what the place is for."
+        },
+        "example": {
+          "text": "It sounds like a comfortable place to live.",
+          "translation": {
+            "fa": "به نظر می‌رسد جای راحتی برای زندگی باشد.",
+            "en": "It sounds like a comfortable place to live."
+          }
+        },
+        "takeaway": {
+          "fa": "Is ...? سؤال است؛ sounds like برداشت از شنیده‌هاست.",
+          "en": "Is ...? asks; sounds like gives an impression from hearing."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسش و برداشت از شنیده‌ها",
+              "en": "A question and an impression"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "is the rent high"
+                },
+                {
+                  "text": "Is + thing + feature?"
+                },
+                {
+                  "fa": "اجاره بالاست؟",
+                  "en": "Asks about cost"
+                }
+              ],
+              [
+                {
+                  "text": "It sounds like a comfortable place to live"
+                },
+                {
+                  "text": "It sounds like + description"
+                },
+                {
+                  "fa": "به نظر جای راحتی برای زندگی می‌آید",
+                  "en": "An impression, not direct inspection"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "short-answer-and-thanks",
+        "title": {
+          "fa": "پاسخ کوتاه و تشکر",
+          "en": "A short response and thanks"
+        },
+        "explanation": {
+          "fa": "It is پاسخ کوتاه لیلا به comfortable place است؛ لازم نیست تمام توصیف را تکرار کند. Thank you for telling me یعنی ممنون که برایم گفتی. بعد از for در این عبارت telling می‌آید.",
+          "en": "It is agrees with the description comfortable place without repeating it. Thank you for telling me thanks someone for sharing information. Use telling after for in this expression."
+        },
+        "example": {
+          "text": "Thank you for telling me about your house.",
+          "translation": {
+            "fa": "ممنون که دربارهٔ خانه‌ات برایم گفتی.",
+            "en": "Thank you for telling me about your house."
+          }
+        },
+        "takeaway": {
+          "fa": "با It is تأیید کن؛ با Thank you for ... تشکر کن.",
+          "en": "Agree with It is; thank someone with Thank you for ... ."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پاسخ کوتاه و تشکر",
+              "en": "A short response and thanks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "It is, and the neighborhood"
+                },
+                {
+                  "text": "It is + added information"
+                },
+                {
+                  "fa": "همین‌طور است؛ سپس توضیح بیشتر",
+                  "en": "Agrees with the previous description"
+                }
+              ],
+              [
+                {
+                  "text": "Thank you for telling me"
+                },
+                {
+                  "text": "Thank you for + action ending in -ing"
+                },
+                {
+                  "fa": "ممنون که به من گفتی",
+                  "en": "Thanks for sharing information"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "live-in",
+        "text": "I live in a small house",
+        "pronunciation": {
+          "faReading": "آی لیو این اِ سْمال هاوس",
+          "ipa": "/aɪ lɪv ɪn ə smɔl haʊs/"
+        },
+        "meaning": {
+          "fa": "در یک خانهٔ کوچک زندگی می‌کنم",
+          "en": "I live in a small house"
+        },
+        "context": {
+          "fa": "لیلا نوع خانه‌اش را معرفی می‌کند.",
+          "en": "Leila introduces her type of home."
+        },
+        "example": {
+          "text": "I live in a small house with a small yard in the city.",
+          "translation": {
+            "fa": "من در یک خانهٔ کوچک با یک حیاط کوچک در شهر زندگی می‌کنم.",
+            "en": "I live in a small house with a small yard in the city."
+          }
+        }
+      },
+      {
+        "id": "rooms",
+        "text": "How many rooms",
+        "pronunciation": {
+          "faReading": "هاو مِنی رومز",
+          "ipa": "/haʊ ˈmɛni rumz/"
+        },
+        "meaning": {
+          "fa": "چند اتاق",
+          "en": "How many rooms"
+        },
+        "context": {
+          "fa": "آغاز سؤال دربارهٔ تعداد اتاق‌هاست.",
+          "en": "Opens a question about the number of rooms."
+        },
+        "example": {
+          "text": "How many rooms does your house have?",
+          "translation": {
+            "fa": "خانه‌ات چند اتاق دارد؟",
+            "en": "How many rooms does your house have?"
+          }
+        }
+      },
+      {
+        "id": "living-room",
+        "text": "a living room",
+        "pronunciation": {
+          "faReading": "اِ لیوینگ روم",
+          "ipa": "/ə ˈlɪvɪŋ rum/"
+        },
+        "meaning": {
+          "fa": "یک اتاق نشیمن",
+          "en": "A room for sitting and relaxing"
+        },
+        "context": {
+          "fa": "یکی از فضاهای خانه است، جدا از اتاق‌خواب‌ها.",
+          "en": "One part of the home, distinct from the bedrooms."
+        },
+        "example": {
+          "text": "It has two bedrooms, a living room, and a small kitchen.",
+          "translation": {
+            "fa": "دو اتاق‌خواب، یک نشیمن و یک آشپزخانهٔ کوچک دارد.",
+            "en": "It has two bedrooms, a living room, and a small kitchen."
+          }
+        }
+      },
+      {
+        "id": "cozy-size",
+        "text": "a cozy size for one person",
+        "pronunciation": {
+          "faReading": "اِ کُوزی سایز فور وان پِرسِن",
+          "ipa": "/ə ˈkoʊzi saɪz fɚ wʌn ˈpɝsən/"
+        },
+        "meaning": {
+          "fa": "اندازه‌ای دنج برای یک نفر",
+          "en": "A pleasantly small size for one person"
+        },
+        "context": {
+          "fa": "برداشت امید از توصیف خانه است؛ تعداد واقعی ساکنان تأیید نشده است.",
+          "en": "Omid’s impression; actual occupancy is not confirmed."
+        },
+        "example": {
+          "text": "That is a cozy size for one person, is the rent high?",
+          "translation": {
+            "fa": "برای یک نفر اندازهٔ دنجی است؛ اجاره‌اش بالاست؟",
+            "en": "That is a cozy size for one person, is the rent high?"
+          }
+        }
+      },
+      {
+        "id": "reasonable-rent",
+        "text": "The rent is reasonable",
+        "pronunciation": {
+          "faReading": "ذِ رِنت ایز ریزِنِبِل",
+          "ipa": "/ðə rɛnt ɪz ˈrizənəbəl/"
+        },
+        "meaning": {
+          "fa": "اجاره معقول است",
+          "en": "The rent is fair and not too high"
+        },
+        "context": {
+          "fa": "ارزیابی لیلا از هزینه است؛ مبلغ مشخصی نمی‌گوید.",
+          "en": "Leila evaluates cost without stating an amount."
+        },
+        "example": {
+          "text": "The rent is reasonable, and the location is very convenient.",
+          "translation": {
+            "fa": "اجاره معقول است و موقعیتش بسیار مناسب و دردسترس است.",
+            "en": "The rent is reasonable, and the location is very convenient."
+          }
+        }
+      },
+      {
+        "id": "quiet-safe",
+        "text": "quiet and safe",
+        "pronunciation": {
+          "faReading": "کْوایِت اَند سِیف",
+          "ipa": "/ˈkwaɪət ən seɪf/"
+        },
+        "meaning": {
+          "fa": "ساکت و امن",
+          "en": "Quiet and safe"
+        },
+        "context": {
+          "fa": "دو ویژگی محله‌اند، نه دو اتاق.",
+          "en": "Two neighborhood qualities, not rooms."
+        },
+        "example": {
+          "text": "It is, and the neighborhood is quiet and safe.",
+          "translation": {
+            "fa": "همین‌طور است و محله هم ساکت و امن است.",
+            "en": "It is, and the neighborhood is quiet and safe."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "لیلا بیشتر دربارهٔ چه چیزی صحبت می‌کند؟",
+          "en": "What does Leila mainly describe?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خانه و محله‌اش",
+              "en": "Her home and neighborhood"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خانهٔ جدید امید",
+              "en": "Omid’s new home"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خرید وسایل آشپزخانه",
+              "en": "Buying kitchen appliances"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "لیلا اتاق‌ها، اجاره، موقعیت و محلهٔ خانهٔ خودش را توصیف می‌کند.",
+          "en": "Leila describes her own rooms, rent, location and neighborhood."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05",
+          "t07"
+        ]
+      },
+      {
+        "id": "bedrooms",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "خانه چند اتاق‌خواب دارد؟",
+          "en": "How many bedrooms does the house have?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک",
+              "en": "One"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو",
+              "en": "Two"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه",
+              "en": "Three"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "two bedrooms تعداد اتاق‌خواب‌هاست؛ نشیمن جدا گفته می‌شود.",
+          "en": "Two bedrooms gives the bedroom count; the living room is listed separately."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "outdoor",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "خانه چه فضای بازی دارد؟",
+          "en": "What outdoor space does the house have?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بالکن بزرگ",
+              "en": "A large balcony"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "باغ پشت‌بام",
+              "en": "A roof garden"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حیاط کوچک",
+              "en": "A small yard"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "لیلا می‌گوید with a small yard.",
+          "en": "Leila says with a small yard."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "rent",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "لیلا اجاره را چطور توصیف می‌کند؟",
+          "en": "How does Leila describe the rent?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "معقول",
+              "en": "Reasonable"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بسیار بالا",
+              "en": "Very high"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "رایگان",
+              "en": "Free"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "reasonable یعنی معقول؛ رقم مشخصی بیان نمی‌شود.",
+          "en": "Reasonable means fair; no specific amount is stated."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "area",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام توصیف دربارهٔ محله درست است؟",
+          "en": "Which description matches the neighborhood?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شلوغ و ناامن",
+              "en": "Busy and unsafe"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ساکت و امن",
+              "en": "Quiet and safe"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دور و گران",
+              "en": "Remote and expensive"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "quiet and safe دو ویژگی محله‌اند.",
+          "en": "Quiet and safe are the two neighborhood qualities."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

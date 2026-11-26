@@ -1,0 +1,3149 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s03",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "بازدید از آپارتمان نو",
+    "en": "Viewing a New Apartment"
+  },
+  "objective": {
+    "fa": "پرسیدن دربارهٔ ویژگی‌های آپارتمان و هزینه‌های جدا از اجاره در بازدید.",
+    "en": "Ask about an apartment’s features and costs excluded from rent during a viewing."
+  },
+  "speakers": [
+    {
+      "id": "maryam",
+      "name": "Maryam",
+      "gender": "woman"
+    },
+    {
+      "id": "hossein",
+      "name": "Hossein",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "maryam",
+      "text": "Welcome to the apartment, this is the living room first.",
+      "translation": {
+        "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+        "en": "Welcome to the apartment, this is the living room first."
+      },
+      "tokens": [
+        {
+          "surface": "Welcome",
+          "gloss": {
+            "fa": "خوش آمدی",
+            "en": "welcome; a greeting on arrival"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "apartment,",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "room",
+          "gloss": {
+            "fa": "در «living room»: اتاق نشیمن",
+            "en": "In “living room”: the room for relaxing and sitting"
+          }
+        },
+        {
+          "surface": "first.",
+          "gloss": {
+            "fa": "اولین",
+            "en": "first; before all the others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "hossein",
+      "text": "It is bright and spacious, how is the kitchen?",
+      "translation": {
+        "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+        "en": "It is bright and spacious, how is the kitchen?"
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "bright",
+          "gloss": {
+            "fa": "روشن؛ پرنور",
+            "en": "bright; full of light"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "spacious,",
+          "gloss": {
+            "fa": "جادار",
+            "en": "spacious; having plenty of room"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen?",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "maryam",
+      "text": "The kitchen was renovated last year, with a new oven and fridge.",
+      "translation": {
+        "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+        "en": "The kitchen was renovated last year, with a new oven and fridge."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "kitchen",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "renovated",
+          "gloss": {
+            "fa": "بازسازی شد",
+            "en": "renovated; repaired and updated"
+          }
+        },
+        {
+          "surface": "last",
+          "gloss": {
+            "fa": "گذشته؛ قبلی",
+            "en": "last; the previous one"
+          }
+        },
+        {
+          "surface": "year,",
+          "gloss": {
+            "fa": "سال",
+            "en": "year; twelve months"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید؛ تازه",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "oven",
+          "gloss": {
+            "fa": "فر",
+            "en": "oven; an enclosed appliance for baking"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "fridge.",
+          "gloss": {
+            "fa": "یخچال",
+            "en": "fridge; a refrigerator"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "hossein",
+      "text": "What about the bedrooms, are they quiet in the morning?",
+      "translation": {
+        "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+        "en": "What about the bedrooms, are they quiet in the morning?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "در «What about»: دربارهٔ ... چطور؟",
+            "en": "In “What about”: asks about another feature"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "در «What about»: دربارهٔ ... چطور؟",
+            "en": "In “What about”: asks about another feature"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bedrooms,",
+          "gloss": {
+            "fa": "اتاق‌خواب‌ها",
+            "en": "bedrooms; rooms for sleeping"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "quiet",
+          "gloss": {
+            "fa": "ساکت؛ آرام",
+            "en": "quiet; with little noise"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "morning?",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "maryam",
+      "text": "The main bedroom faces the inner street, so it is quite quiet.",
+      "translation": {
+        "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+        "en": "The main bedroom faces the inner street, so it is quite quiet."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "bedroom",
+          "gloss": {
+            "fa": "اتاق‌خواب",
+            "en": "bedroom; a room for sleeping"
+          }
+        },
+        {
+          "surface": "faces",
+          "gloss": {
+            "fa": "رو به ... است",
+            "en": "faces; looks toward a direction"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "inner",
+          "gloss": {
+            "fa": "داخلی",
+            "en": "inner; situated farther inside"
+          }
+        },
+        {
+          "surface": "street,",
+          "gloss": {
+            "fa": "خیابان",
+            "en": "street; a road in a town"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "quite",
+          "gloss": {
+            "fa": "نسبتاً؛ تا حد خوبی",
+            "en": "quite; fairly"
+          }
+        },
+        {
+          "surface": "quiet.",
+          "gloss": {
+            "fa": "ساکت",
+            "en": "quiet; with little noise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "hossein",
+      "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+      "translation": {
+        "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+        "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "inclusive",
+          "gloss": {
+            "fa": "در «inclusive of»: شاملِ",
+            "en": "In “inclusive of”: including these costs"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «inclusive of»: شاملِ",
+            "en": "In “inclusive of”: including these costs"
+          }
+        },
+        {
+          "surface": "water",
+          "gloss": {
+            "fa": "آب",
+            "en": "water; the liquid supplied to a home"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "electricity,",
+          "gloss": {
+            "fa": "برق",
+            "en": "electricity; power supplied to a home"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "pay",
+          "gloss": {
+            "fa": "پرداخت کردن",
+            "en": "pay; give money for something"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ به آن‌ها",
+            "en": "them; refers back to things or people already mentioned"
+          }
+        },
+        {
+          "surface": "separately?",
+          "gloss": {
+            "fa": "جداگانه",
+            "en": "separately; as an additional cost or calculation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "maryam",
+      "text": "They are separate, but the building fees are low and the bill is clear.",
+      "translation": {
+        "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+        "en": "They are separate, but the building fees are low and the bill is clear."
+      },
+      "tokens": [
+        {
+          "surface": "They",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "separate,",
+          "gloss": {
+            "fa": "جدا",
+            "en": "separate; not included in another cost"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "building",
+          "gloss": {
+            "fa": "ساختمان",
+            "en": "building; a structure with rooms"
+          }
+        },
+        {
+          "surface": "fees",
+          "gloss": {
+            "fa": "هزینه‌ها؛ شارژ ساختمان",
+            "en": "fees; service charges"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "low",
+          "gloss": {
+            "fa": "کم؛ پایین",
+            "en": "low; small in amount"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "bill",
+          "gloss": {
+            "fa": "قبض",
+            "en": "bill; a statement of money owed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "clear.",
+          "gloss": {
+            "fa": "روشن و قابل‌فهم؛ دربارهٔ قبض",
+            "en": "clear; easy to understand, referring to the bill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "hossein",
+      "text": "The apartment is nice, I would like to see the balcony and the view.",
+      "translation": {
+        "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+        "en": "The apartment is nice, I would like to see the balcony and the view."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "apartment",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "nice,",
+          "gloss": {
+            "fa": "خوشایند؛ خوب",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: دوست دارم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: want, said politely"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: دوست دارم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: want, said politely"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "see",
+          "gloss": {
+            "fa": "دیدن",
+            "en": "see; meet or look at someone"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "balcony",
+          "gloss": {
+            "fa": "بالکن",
+            "en": "balcony; an outdoor platform attached to a room"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "view.",
+          "gloss": {
+            "fa": "منظره",
+            "en": "view; the scene you can see"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "maryam",
+      "text": "Of course, this way, the balcony overlooks the park.",
+      "translation": {
+        "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+        "en": "Of course, this way, the balcony overlooks the park."
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "در «this way»: از این طرف",
+            "en": "In “this way”: indicates the route to follow"
+          }
+        },
+        {
+          "surface": "way,",
+          "gloss": {
+            "fa": "در «this way»: از این طرف",
+            "en": "In “this way”: indicates the route to follow"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "balcony",
+          "gloss": {
+            "fa": "بالکن",
+            "en": "balcony; an outdoor platform attached to a room"
+          }
+        },
+        {
+          "surface": "overlooks",
+          "gloss": {
+            "fa": "مشرف است به",
+            "en": "overlooks; has a view over"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "park.",
+          "gloss": {
+            "fa": "پارک",
+            "en": "park; a public green area"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "hossein",
+      "text": "It is a great place, I think I am going to take it.",
+      "translation": {
+        "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+        "en": "It is a great place, I think I am going to take it."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "خیلی خوب؛ عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "place,",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر کردن؛ به نظر رسیدن",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "going",
+          "gloss": {
+            "fa": "در «going to»: قصد دارم؛ برای برنامهٔ آینده",
+            "en": "In “going to”: marks an intention"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "در «going to»: قصد دارم؛ برای برنامهٔ آینده",
+            "en": "In “going to”: marks an intention"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "اجاره کنم؛ این آپارتمان را انتخاب کنم",
+            "en": "take; choose to rent this apartment"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "welcome",
+        "text": "Welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی",
+          "en": "welcome; a greeting on arrival"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "room",
+        "text": "room",
+        "pronunciation": {
+          "faReading": "روم",
+          "ipa": "/rum/"
+        },
+        "meaning": {
+          "fa": "در «living room»: اتاق نشیمن",
+          "en": "In “living room”: the room for relaxing and sitting"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اولین",
+          "en": "first; before all the others"
+        },
+        "example": {
+          "text": "Welcome to the apartment, this is the living room first.",
+          "translation": {
+            "fa": "به آپارتمان خوش آمدید؛ اول اینجا نشیمن است.",
+            "en": "Welcome to the apartment, this is the living room first."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "bright",
+        "text": "bright",
+        "pronunciation": {
+          "faReading": "بْرایت",
+          "ipa": "/braɪt/"
+        },
+        "meaning": {
+          "fa": "روشن؛ پرنور",
+          "en": "bright; full of light"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "spacious",
+        "text": "spacious",
+        "pronunciation": {
+          "faReading": "سْپِیشِس",
+          "ipa": "/ˈspeɪʃəs/"
+        },
+        "meaning": {
+          "fa": "جادار",
+          "en": "spacious; having plenty of room"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "renovated",
+        "text": "renovated",
+        "pronunciation": {
+          "faReading": "رِنِوِیتِد",
+          "ipa": "/ˈrɛnəveɪtɪd/"
+        },
+        "meaning": {
+          "fa": "بازسازی شد",
+          "en": "renovated; repaired and updated"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "last",
+        "text": "last",
+        "pronunciation": {
+          "faReading": "لَست",
+          "ipa": "/læst/"
+        },
+        "meaning": {
+          "fa": "گذشته؛ قبلی",
+          "en": "last; the previous one"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "year",
+        "text": "year",
+        "pronunciation": {
+          "faReading": "ییر",
+          "ipa": "/jɪr/"
+        },
+        "meaning": {
+          "fa": "سال",
+          "en": "year; twelve months"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "oven",
+        "text": "oven",
+        "pronunciation": {
+          "faReading": "آوِن",
+          "ipa": "/ˈʌvən/"
+        },
+        "meaning": {
+          "fa": "فر",
+          "en": "oven; an enclosed appliance for baking"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "fridge",
+        "text": "fridge",
+        "pronunciation": {
+          "faReading": "فْریج",
+          "ipa": "/frɪdʒ/"
+        },
+        "meaning": {
+          "fa": "یخچال",
+          "en": "fridge; a refrigerator"
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "در «What about»: دربارهٔ ... چطور؟",
+          "en": "In “What about”: asks about another feature"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "در «What about»: دربارهٔ ... چطور؟",
+          "en": "In “What about”: asks about another feature"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "bedrooms",
+        "text": "bedrooms",
+        "pronunciation": {
+          "faReading": "بِدرومز",
+          "ipa": "/ˈbɛdrumz/"
+        },
+        "meaning": {
+          "fa": "اتاق‌خواب‌ها",
+          "en": "bedrooms; rooms for sleeping"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "quiet",
+        "text": "quiet",
+        "pronunciation": {
+          "faReading": "کوایِت",
+          "ipa": "/ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "ساکت؛ آرام",
+          "en": "quiet; with little noise"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "What about the bedrooms, are they quiet in the morning?",
+          "translation": {
+            "fa": "اتاق‌خواب‌ها چطور؟ صبح‌ها ساکت‌اند؟",
+            "en": "What about the bedrooms, are they quiet in the morning?"
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "bedroom",
+        "text": "bedroom",
+        "pronunciation": {
+          "faReading": "بِدروم",
+          "ipa": "/ˈbɛdrum/"
+        },
+        "meaning": {
+          "fa": "اتاق‌خواب",
+          "en": "bedroom; a room for sleeping"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "faces",
+        "text": "faces",
+        "pronunciation": {
+          "faReading": "فِیسِز",
+          "ipa": "/ˈfeɪsɪz/"
+        },
+        "meaning": {
+          "fa": "رو به ... است",
+          "en": "faces; looks toward a direction"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "inner",
+        "text": "inner",
+        "pronunciation": {
+          "faReading": "اینِر",
+          "ipa": "/ˈɪnɚ/"
+        },
+        "meaning": {
+          "fa": "داخلی",
+          "en": "inner; situated farther inside"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "street",
+        "text": "street",
+        "pronunciation": {
+          "faReading": "سْتْریت",
+          "ipa": "/strit/"
+        },
+        "meaning": {
+          "fa": "خیابان",
+          "en": "street; a road in a town"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "quite",
+        "text": "quite",
+        "pronunciation": {
+          "faReading": "کوایت",
+          "ipa": "/kwaɪt/"
+        },
+        "meaning": {
+          "fa": "نسبتاً؛ تا حد خوبی",
+          "en": "quite; fairly"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "quiet-2",
+        "text": "quiet",
+        "pronunciation": {
+          "faReading": "کوایِت",
+          "ipa": "/ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "ساکت",
+          "en": "quiet; with little noise"
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "rent",
+        "text": "rent",
+        "pronunciation": {
+          "faReading": "رِنت",
+          "ipa": "/rɛnt/"
+        },
+        "meaning": {
+          "fa": "اجاره‌بها",
+          "en": "rent; money paid regularly to use a home"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "inclusive",
+        "text": "inclusive",
+        "pronunciation": {
+          "faReading": "اینکْلوسیو",
+          "ipa": "/ɪnˈklusɪv/"
+        },
+        "meaning": {
+          "fa": "در «inclusive of»: شاملِ",
+          "en": "In “inclusive of”: including these costs"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «inclusive of»: شاملِ",
+          "en": "In “inclusive of”: including these costs"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "water",
+        "text": "water",
+        "pronunciation": {
+          "faReading": "ووتِر",
+          "ipa": "/ˈwɔtɚ/"
+        },
+        "meaning": {
+          "fa": "آب",
+          "en": "water; the liquid supplied to a home"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "electricity",
+        "text": "electricity",
+        "pronunciation": {
+          "faReading": "ایلِکتْریسِتی",
+          "ipa": "/ɪˌlɛkˈtrɪsəti/"
+        },
+        "meaning": {
+          "fa": "برق",
+          "en": "electricity; power supplied to a home"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "pay",
+        "text": "pay",
+        "pronunciation": {
+          "faReading": "پِی",
+          "ipa": "/peɪ/"
+        },
+        "meaning": {
+          "fa": "پرداخت کردن",
+          "en": "pay; give money for something"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ به آن‌ها",
+          "en": "them; refers back to things or people already mentioned"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "separately",
+        "text": "separately",
+        "pronunciation": {
+          "faReading": "سِپِرِتلی",
+          "ipa": "/ˈsɛpərətli/"
+        },
+        "meaning": {
+          "fa": "جداگانه",
+          "en": "separately; as an additional cost or calculation"
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "separate",
+        "text": "separate",
+        "pronunciation": {
+          "faReading": "سِپِرِت",
+          "ipa": "/ˈsɛpərət/"
+        },
+        "meaning": {
+          "fa": "جدا",
+          "en": "separate; not included in another cost"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "building",
+        "text": "building",
+        "pronunciation": {
+          "faReading": "بیلدینگ",
+          "ipa": "/ˈbɪldɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساختمان",
+          "en": "building; a structure with rooms"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "fees",
+        "text": "fees",
+        "pronunciation": {
+          "faReading": "فیز",
+          "ipa": "/fiz/"
+        },
+        "meaning": {
+          "fa": "هزینه‌ها؛ شارژ ساختمان",
+          "en": "fees; service charges"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "low",
+        "text": "low",
+        "pronunciation": {
+          "faReading": "لُو",
+          "ipa": "/loʊ/"
+        },
+        "meaning": {
+          "fa": "کم؛ پایین",
+          "en": "low; small in amount"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "bill",
+        "text": "bill",
+        "pronunciation": {
+          "faReading": "بیل",
+          "ipa": "/bɪl/"
+        },
+        "meaning": {
+          "fa": "قبض",
+          "en": "bill; a statement of money owed"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "روشن و قابل‌فهم؛ دربارهٔ قبض",
+          "en": "clear; easy to understand, referring to the bill"
+        },
+        "example": {
+          "text": "They are separate, but the building fees are low and the bill is clear.",
+          "translation": {
+            "fa": "جدا هستند، ولی شارژ ساختمان کم است و قبض هم روشن و مشخص است.",
+            "en": "They are separate, but the building fees are low and the bill is clear."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would like»: دوست دارم؛ خواستهٔ مؤدبانه",
+          "en": "In “would like”: want, said politely"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would like»: دوست دارم؛ خواستهٔ مؤدبانه",
+          "en": "In “would like”: want, said politely"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "see",
+        "text": "see",
+        "pronunciation": {
+          "faReading": "سی",
+          "ipa": "/si/"
+        },
+        "meaning": {
+          "fa": "دیدن",
+          "en": "see; meet or look at someone"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "balcony",
+        "text": "balcony",
+        "pronunciation": {
+          "faReading": "بَلکِنی",
+          "ipa": "/ˈbælkəni/"
+        },
+        "meaning": {
+          "fa": "بالکن",
+          "en": "balcony; an outdoor platform attached to a room"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "view",
+        "text": "view",
+        "pronunciation": {
+          "faReading": "ویو",
+          "ipa": "/vju/"
+        },
+        "meaning": {
+          "fa": "منظره",
+          "en": "view; the scene you can see"
+        },
+        "example": {
+          "text": "The apartment is nice, I would like to see the balcony and the view.",
+          "translation": {
+            "fa": "آپارتمان خوب است؛ دوست دارم بالکن و منظره را ببینم.",
+            "en": "The apartment is nice, I would like to see the balcony and the view."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "this-2",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "در «this way»: از این طرف",
+          "en": "In “this way”: indicates the route to follow"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "way",
+        "text": "way",
+        "pronunciation": {
+          "faReading": "وِی",
+          "ipa": "/weɪ/"
+        },
+        "meaning": {
+          "fa": "در «this way»: از این طرف",
+          "en": "In “this way”: indicates the route to follow"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "overlooks",
+        "text": "overlooks",
+        "pronunciation": {
+          "faReading": "اُووِرلوکس",
+          "ipa": "/ˌoʊvɚˈlʊks/"
+        },
+        "meaning": {
+          "fa": "مشرف است به",
+          "en": "overlooks; has a view over"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "park",
+        "text": "park",
+        "pronunciation": {
+          "faReading": "پارک",
+          "ipa": "/pɑrk/"
+        },
+        "meaning": {
+          "fa": "پارک",
+          "en": "park; a public green area"
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "خیلی خوب؛ عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "going",
+        "text": "going",
+        "pronunciation": {
+          "faReading": "گُوینگ",
+          "ipa": "/ˈɡoʊɪŋ/"
+        },
+        "meaning": {
+          "fa": "در «going to»: قصد دارم؛ برای برنامهٔ آینده",
+          "en": "In “going to”: marks an intention"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "to-2",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "در «going to»: قصد دارم؛ برای برنامهٔ آینده",
+          "en": "In “going to”: marks an intention"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "اجاره کنم؛ این آپارتمان را انتخاب کنم",
+          "en": "take; choose to rent this apartment"
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "renovation-passive",
+        "title": {
+          "fa": "بازسازی در سال گذشته",
+          "en": "Renovation last year"
+        },
+        "explanation": {
+          "fa": "The kitchen was renovated روی آشپزخانه و کاری که روی آن انجام شده تمرکز دارد؛ شخص بازسازی‌کننده نام برده نشده است. was + renovated با last year زمان گذشته را نشان می‌دهد. with فر و یخچال نو را به توصیف اضافه می‌کند.",
+          "en": "The kitchen was renovated focuses on the kitchen and what happened to it, not on who did the work. Was + renovated with last year places the change in the past. With adds the new appliances."
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        },
+        "takeaway": {
+          "fa": "برای کار انجام‌شده روی آشپزخانه: was renovated.",
+          "en": "For work done to the kitchen: was renovated."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بازسازی در سال گذشته",
+              "en": "Renovation last year"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "The kitchen was renovated last year"
+                },
+                {
+                  "text": "thing + was + renovated + past time"
+                },
+                {
+                  "fa": "آشپزخانه پارسال بازسازی شد",
+                  "en": "Focus on the completed change"
+                }
+              ],
+              [
+                {
+                  "text": "with a new oven and fridge"
+                },
+                {
+                  "text": "with + new items"
+                },
+                {
+                  "fa": "با فر و یخچال نو",
+                  "en": "Adds the updated appliances"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feature-questions",
+        "title": {
+          "fa": "دنبال کردن ویژگی‌های خانه",
+          "en": "Following up on home features"
+        },
+        "explanation": {
+          "fa": "How is the kitchen? دربارهٔ وضعیت آشپزخانه می‌پرسد. What about the bedrooms? موضوع بعدی را مطرح می‌کند. bright یعنی پرنور و spacious یعنی جادار؛ این دو یکی نیستند.",
+          "en": "How is the kitchen? asks about its condition. What about the bedrooms? moves to another feature. Bright describes light; spacious describes available space."
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        },
+        "takeaway": {
+          "fa": "برای بخش بعدی خانه بپرس What about ...?",
+          "en": "Ask What about ...? to move to the next home feature."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دنبال کردن ویژگی‌های خانه",
+              "en": "Following up on home features"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how is the kitchen"
+                },
+                {
+                  "text": "How is + room?"
+                },
+                {
+                  "fa": "آشپزخانه چطور است؟",
+                  "en": "Asks about condition"
+                }
+              ],
+              [
+                {
+                  "text": "What about the bedrooms"
+                },
+                {
+                  "text": "What about + another feature?"
+                },
+                {
+                  "fa": "اتاق‌خواب‌ها چطور؟",
+                  "en": "Moves to a new topic"
+                }
+              ],
+              [
+                {
+                  "text": "bright and spacious"
+                },
+                {
+                  "text": "feature + and + feature"
+                },
+                {
+                  "fa": "روشن و جادار",
+                  "en": "Light and space are separate qualities"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quiet-and-quite",
+        "title": {
+          "fa": "quiet با quite فرق دارد",
+          "en": "Quiet is not quite"
+        },
+        "explanation": {
+          "fa": "faces فعل است: اتاق رو به خیابان است. so نتیجه را می‌گوید. در quite quiet، quite یعنی نسبتاً و quiet یعنی ساکت؛ شباهت املایی نباید معنی‌ها را یکی کند. inner street عین تعبیر منبع است و خیابان داخلی را می‌گوید، نه الزاماً حیاط.",
+          "en": "Faces is a verb: the room looks toward a street. So introduces a result. In quite quiet, quite means fairly, while quiet means not noisy. Inner street is the source wording; it does not explicitly say courtyard."
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        },
+        "takeaway": {
+          "fa": "quite شدت را می‌گوید؛ quiet کم‌سروصداست.",
+          "en": "Quite gives degree; quiet describes little noise."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "quiet با quite فرق دارد",
+              "en": "Quiet is not quite"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "faces the inner street"
+                },
+                {
+                  "text": "room + faces + direction"
+                },
+                {
+                  "fa": "رو به خیابان داخلی است",
+                  "en": "Orientation of the bedroom"
+                }
+              ],
+              [
+                {
+                  "text": "so it is quite quiet"
+                },
+                {
+                  "text": "so + result"
+                },
+                {
+                  "fa": "پس نسبتاً ساکت است",
+                  "en": "A result with two different words"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "included-or-separate",
+        "title": {
+          "fa": "هزینه داخل اجاره یا جدا؟",
+          "en": "Included in rent or separate?"
+        },
+        "explanation": {
+          "fa": "inclusive of water and electricity یعنی شامل آب و برق. or دو حالت را برای سؤال می‌گذارد. پاسخ They are separate به هزینهٔ آب و برق برمی‌گردد؛ کم بودن building fees به معنی رایگان بودن آن‌ها نیست.",
+          "en": "Inclusive of water and electricity means those costs are included. Or presents two alternatives. They are separate refers to the water and electricity costs; low building fees does not mean those utilities are free."
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        },
+        "takeaway": {
+          "fa": "inclusive of یعنی شامل؛ separately یعنی جداگانه.",
+          "en": "Inclusive of means including; separately means as a separate payment."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هزینه داخل اجاره یا جدا؟",
+              "en": "Included in rent or separate?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "inclusive of water and electricity"
+                },
+                {
+                  "text": "inclusive of + costs"
+                },
+                {
+                  "fa": "شامل آب و برق",
+                  "en": "Asks about the scope of rent"
+                }
+              ],
+              [
+                {
+                  "text": "do I pay them separately"
+                },
+                {
+                  "text": "do I + action + separately?"
+                },
+                {
+                  "fa": "جدا می‌پردازم؟",
+                  "en": "Asks about additional payment"
+                }
+              ],
+              [
+                {
+                  "text": "They are separate"
+                },
+                {
+                  "text": "They + are + separate"
+                },
+                {
+                  "fa": "آن‌ها جدا هستند",
+                  "en": "Utilities are excluded"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "polite-wish-and-intention",
+        "title": {
+          "fa": "دیدن بیشتر و قصد اجاره",
+          "en": "A polite wish and an intention"
+        },
+        "explanation": {
+          "fa": "I would like to see خواستهٔ مؤدبانه است. I think I am going to take it تصمیمی در حال شکل‌گیری را می‌گوید: take it در بازدید یعنی انتخاب کردن برای اجاره، نه برداشتن یک شیء. امضای قرارداد هنوز گزارش نشده است.",
+          "en": "I would like to see is a polite wish. I think I am going to take it signals an emerging intention: take it here means choose the apartment to rent, not pick up an object. No signed contract is reported."
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        },
+        "takeaway": {
+          "fa": "would like to برای خواسته؛ going to برای قصد آینده.",
+          "en": "Use would like to for a wish and going to for an intention."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دیدن بیشتر و قصد اجاره",
+              "en": "A polite wish and an intention"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I would like to see the balcony"
+                },
+                {
+                  "text": "I would like to + action"
+                },
+                {
+                  "fa": "دوست دارم بالکن را ببینم",
+                  "en": "A polite request"
+                }
+              ],
+              [
+                {
+                  "text": "I think I am going to take it"
+                },
+                {
+                  "text": "I think + I am going to + action"
+                },
+                {
+                  "fa": "فکر می‌کنم اجاره‌اش کنم",
+                  "en": "Intention, not a completed rental"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "bright-spacious",
+        "text": "bright and spacious",
+        "pronunciation": {
+          "faReading": "بْرایت اَند سْپِیشِس",
+          "ipa": "/braɪt ən ˈspeɪʃəs/"
+        },
+        "meaning": {
+          "fa": "روشن و جادار",
+          "en": "Well lit and roomy"
+        },
+        "context": {
+          "fa": "حسین نشیمن را توصیف می‌کند.",
+          "en": "Hossein describes the living room."
+        },
+        "example": {
+          "text": "It is bright and spacious, how is the kitchen?",
+          "translation": {
+            "fa": "روشن و جادار است؛ آشپزخانه چطور است؟",
+            "en": "It is bright and spacious, how is the kitchen?"
+          }
+        }
+      },
+      {
+        "id": "renovated",
+        "text": "was renovated last year",
+        "pronunciation": {
+          "faReading": "واز رِنِوِیتِد لَست ییر",
+          "ipa": "/wəz ˈrɛnəveɪtɪd læst jɪr/"
+        },
+        "meaning": {
+          "fa": "پارسال بازسازی شد",
+          "en": "Was renovated last year"
+        },
+        "context": {
+          "fa": "کار انجام‌شده روی آشپزخانه است.",
+          "en": "Work completed on the kitchen."
+        },
+        "example": {
+          "text": "The kitchen was renovated last year, with a new oven and fridge.",
+          "translation": {
+            "fa": "آشپزخانه سال گذشته با یک فر و یخچال نو بازسازی شد.",
+            "en": "The kitchen was renovated last year, with a new oven and fridge."
+          }
+        }
+      },
+      {
+        "id": "quiet",
+        "text": "quite quiet",
+        "pronunciation": {
+          "faReading": "کْوایت کْوایِت",
+          "ipa": "/kwaɪt ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "نسبتاً ساکت",
+          "en": "Fairly quiet"
+        },
+        "context": {
+          "fa": "quite درجه و quiet ویژگیِ صدا را می‌گوید.",
+          "en": "Quite gives degree; quiet describes noise level."
+        },
+        "example": {
+          "text": "The main bedroom faces the inner street, so it is quite quiet.",
+          "translation": {
+            "fa": "اتاق‌خواب اصلی رو به خیابان داخلی است، پس نسبتاً ساکت است.",
+            "en": "The main bedroom faces the inner street, so it is quite quiet."
+          }
+        }
+      },
+      {
+        "id": "included",
+        "text": "inclusive of water and electricity",
+        "pronunciation": {
+          "faReading": "اینکْلوسیو آو ووتِر اَند ایلِکتْریسِتی",
+          "ipa": "/ɪnˈklusɪv əv ˈwɔtɚ ən ɪˌlɛkˈtrɪsəti/"
+        },
+        "meaning": {
+          "fa": "شامل آب و برق",
+          "en": "Including water and electricity"
+        },
+        "context": {
+          "fa": "سؤال دربارهٔ دامنهٔ اجاره است؛ پاسخ می‌گوید جدا هستند.",
+          "en": "Asks about rent coverage; the answer says they are separate."
+        },
+        "example": {
+          "text": "Is the rent inclusive of water and electricity, or do I pay them separately?",
+          "translation": {
+            "fa": "اجاره شامل آب و برق هم هست یا باید آن‌ها را جداگانه بپردازم؟",
+            "en": "Is the rent inclusive of water and electricity, or do I pay them separately?"
+          }
+        }
+      },
+      {
+        "id": "view",
+        "text": "overlooks the park",
+        "pronunciation": {
+          "faReading": "اُووِرلوکس ذِ پارک",
+          "ipa": "/ˌoʊvɚˈlʊks ðə pɑrk/"
+        },
+        "meaning": {
+          "fa": "مشرف به پارک است",
+          "en": "Has a view over the park"
+        },
+        "context": {
+          "fa": "جهت منظرهٔ بالکن را می‌گوید.",
+          "en": "Gives the balcony’s outlook."
+        },
+        "example": {
+          "text": "Of course, this way, the balcony overlooks the park.",
+          "translation": {
+            "fa": "حتماً، از این طرف؛ بالکن مشرف به پارک است.",
+            "en": "Of course, this way, the balcony overlooks the park."
+          }
+        }
+      },
+      {
+        "id": "take-it",
+        "text": "I am going to take it",
+        "pronunciation": {
+          "faReading": "آی اَم گُواینگ تو تِیک ایت",
+          "ipa": "/aɪ əm ˈɡoʊɪŋ tə teɪk ɪt/"
+        },
+        "meaning": {
+          "fa": "می‌خواهم اجاره‌اش کنم",
+          "en": "I intend to take the apartment"
+        },
+        "context": {
+          "fa": "قصد انتخاب خانه است؛ امضای قرارداد گزارش نشده است.",
+          "en": "An intention to choose it; signing is not reported."
+        },
+        "example": {
+          "text": "It is a great place, I think I am going to take it.",
+          "translation": {
+            "fa": "جای خیلی خوبی است؛ فکر می‌کنم می‌خواهم اجاره‌اش کنم.",
+            "en": "It is a great place, I think I am going to take it."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "حسین در این مکالمه چه کار می‌کند؟",
+          "en": "What is Hossein doing in this conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تعمیر آشپزخانه را برنامه‌ریزی می‌کند",
+              "en": "Planning kitchen repairs"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آپارتمان را برای اجاره بررسی می‌کند",
+              "en": "Inspecting an apartment with a view to renting it"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همسایه را بابت سروصدا خطاب می‌کند",
+              "en": "Addressing a noisy neighbor"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "دربارهٔ اتاق‌ها، هزینه‌ها و بالکن می‌پرسد و در پایان قصد اجاره را می‌گوید.",
+          "en": "He asks about rooms, costs and the balcony, then expresses an intention to take it."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t06",
+          "t08",
+          "t10"
+        ]
+      },
+      {
+        "id": "renovation",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام قسمت سال گذشته بازسازی شد؟",
+          "en": "Which part was renovated last year?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بالکن",
+              "en": "The balcony"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اتاق‌خواب اصلی",
+              "en": "The main bedroom"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آشپزخانه",
+              "en": "The kitchen"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "مریم می‌گوید The kitchen was renovated last year.",
+          "en": "Maryam says The kitchen was renovated last year."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "utilities",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هزینهٔ آب و برق چطور پرداخت می‌شود؟",
+          "en": "How are water and electricity paid?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "جدا از اجاره",
+              "en": "Separately from rent"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "داخل اجاره",
+              "en": "Included in rent"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بدون پرداخت",
+              "en": "Free of charge"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "They are separate پاسخ به سؤال آب و برق است؛ شارژ کم به معنی شامل بودن آن‌ها نیست.",
+          "en": "They are separate answers the utility question; low building fees do not make utilities included."
+        },
+        "evidenceTurnIds": [
+          "t06",
+          "t07"
+        ]
+      },
+      {
+        "id": "view",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بالکن مشرف به کجاست؟",
+          "en": "What does the balcony overlook?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خیابان اصلی",
+              "en": "The main street"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پارک",
+              "en": "The park"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پارکینگ",
+              "en": "The parking area"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "overlooks the park دربارهٔ منظرهٔ بالکن است.",
+          "en": "Overlooks the park describes the balcony view."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "decision",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "در پایان کدام برداشت دقیق‌تر است؟",
+          "en": "Which is the most accurate reading of the ending?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حسین قرارداد را امضا کرده است",
+              "en": "Hossein has signed the contract"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حسین تصمیم به رد آپارتمان گرفته است",
+              "en": "Hossein has decided to reject the apartment"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حسین قصد اجاره دارد ولی امضا گزارش نشده است",
+              "en": "Hossein intends to rent it, but no signing is reported"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "I think I am going to take it قصد را بیان می‌کند، نه قرارداد تکمیل‌شده.",
+          "en": "I think I am going to take it expresses an intention, not a completed contract."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      }
+    ]
+  }
+}

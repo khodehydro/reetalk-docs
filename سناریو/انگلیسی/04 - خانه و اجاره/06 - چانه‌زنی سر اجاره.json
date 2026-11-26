@@ -1,0 +1,3943 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t04-s06",
+  "categoryId": "housing-and-rent",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "چانه‌زنی سر اجاره",
+    "en": "Negotiating the Rent"
+  },
+  "objective": {
+    "fa": "فهم مذاکرهٔ مؤدبانه، پیشنهاد افزایش درصدی و پذیرش مشروط قرارداد.",
+    "en": "Understand polite negotiation, a percentage increase and conditional acceptance of a contract."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "landlord",
+      "name": "Landlord",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "I would like to discuss the rent for the next year, if you agree.",
+      "translation": {
+        "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+        "en": "I would like to discuss the rent for the next year, if you agree."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: would like; politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: would like; politely want"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "discuss",
+          "gloss": {
+            "fa": "گفت‌وگو کردن دربارهٔ",
+            "en": "discuss; examine a topic in conversation"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به‌خاطرِ",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "year,",
+          "gloss": {
+            "fa": "سال",
+            "en": "year; twelve months"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "agree.",
+          "gloss": {
+            "fa": "موافق بودن",
+            "en": "agree; have the same opinion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "landlord",
+      "text": "Of course, what is your concern about the rent?",
+      "translation": {
+        "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+        "en": "Of course, what is your concern about the rent?"
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "در «Of course»: حتماً؛ البته",
+            "en": "In “Of course”: a willing response"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "concern",
+          "gloss": {
+            "fa": "نگرانی",
+            "en": "concern; a matter that worries someone"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent?",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+      "translation": {
+        "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+        "en": "The current rent has been stable for three years, and I would like it to stay that way."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "current",
+          "gloss": {
+            "fa": "فعلی",
+            "en": "current; existing now"
+          }
+        },
+        {
+          "surface": "rent",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "has",
+          "gloss": {
+            "fa": "در «has been»: بوده است؛ از گذشته تا اکنون",
+            "en": "In “has been”: links the stable state to the present"
+          }
+        },
+        {
+          "surface": "been",
+          "gloss": {
+            "fa": "در «has been»: بوده است؛ از گذشته تا اکنون",
+            "en": "In “has been”: links the stable state to the present"
+          }
+        },
+        {
+          "surface": "stable",
+          "gloss": {
+            "fa": "ثابت",
+            "en": "stable; not changing much"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «for three years»: به مدت سه سال تا اکنون",
+            "en": "In “for three years”: for a duration of three years up to now"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "در «for three years»: به مدت سه سال تا اکنون",
+            "en": "In “for three years”: for a duration of three years up to now"
+          }
+        },
+        {
+          "surface": "years,",
+          "gloss": {
+            "fa": "در «for three years»: به مدت سه سال تا اکنون",
+            "en": "In “for three years”: for a duration of three years up to now"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: would like; politely want"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+            "en": "In “would like”: would like; politely want"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "stay",
+          "gloss": {
+            "fa": "ماندن",
+            "en": "stay; continue to be"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "در «that way»: به همان شکل؛ ثابت",
+            "en": "In “that way”: in that unchanged state"
+          }
+        },
+        {
+          "surface": "way.",
+          "gloss": {
+            "fa": "در «that way»: به همان شکل؛ ثابت",
+            "en": "In “that way”: in that unchanged state"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "landlord",
+      "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+      "translation": {
+        "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+        "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "understand,",
+          "gloss": {
+            "fa": "فهمیدن",
+            "en": "understand; know what someone means"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "prices",
+          "gloss": {
+            "fa": "قیمت‌ها",
+            "en": "prices; amounts charged"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "neighborhood",
+          "gloss": {
+            "fa": "محله",
+            "en": "neighborhood; an area where people live"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "در «have risen»: بالا رفته‌اند؛ تا امسال",
+            "en": "In “have risen”: prices have increased, with a result now"
+          }
+        },
+        {
+          "surface": "risen",
+          "gloss": {
+            "fa": "در «have risen»: بالا رفته‌اند؛ تا امسال",
+            "en": "In “have risen”: prices have increased, with a result now"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "bit",
+          "gloss": {
+            "fa": "مقدار کم؛ کمی",
+            "en": "bit; a small amount"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "year.",
+          "gloss": {
+            "fa": "سال",
+            "en": "year; twelve months"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+      "translation": {
+        "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+        "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "know,",
+          "gloss": {
+            "fa": "دانستن؛ شناختن",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "در «on time»: به‌موقع",
+            "en": "In “on time”: punctually"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "در «on time»: به‌موقع",
+            "en": "In “on time”: punctually"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "rent,",
+          "gloss": {
+            "fa": "اجاره‌بها",
+            "en": "rent; money paid regularly to use a home"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "در «take good care of»: خوب مراقبت کردن از",
+            "en": "In “take good care of”: look after well"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "در «take good care of»: خوب مراقبت کردن از",
+            "en": "In “take good care of”: look after well"
+          }
+        },
+        {
+          "surface": "care",
+          "gloss": {
+            "fa": "در «take good care of»: خوب مراقبت کردن از",
+            "en": "In “take good care of”: look after well"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "در «take good care of»: خوب مراقبت کردن از",
+            "en": "In “take good care of”: look after well"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "apartment.",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "landlord",
+      "text": "That is true, and I appreciate that, but I need a small adjustment.",
+      "translation": {
+        "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+        "en": "That is true, and I appreciate that, but I need a small adjustment."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "true,",
+          "gloss": {
+            "fa": "درست؛ مطابق واقع",
+            "en": "true; accurate"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی کردن از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "adjustment.",
+          "gloss": {
+            "fa": "تعدیل؛ تغییر مبلغ",
+            "en": "adjustment; a change in an amount"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "How much of an increase are you considering, exactly?",
+      "translation": {
+        "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+        "en": "How much of an increase are you considering, exactly?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار",
+            "en": "In “How much”: asks about an amount"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "در «How much»: چه مقدار",
+            "en": "In “How much”: asks about an amount"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "increase",
+          "gloss": {
+            "fa": "افزایش",
+            "en": "increase; a rise in an amount"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "considering,",
+          "gloss": {
+            "fa": "در نظر دارید",
+            "en": "considering; thinking about as a possibility"
+          }
+        },
+        {
+          "surface": "exactly?",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "landlord",
+      "text": "I was thinking of raising it by five percent, nothing more.",
+      "translation": {
+        "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+        "en": "I was thinking of raising it by five percent, nothing more."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "thinking",
+          "gloss": {
+            "fa": "در نظر داشتم؛ پیشنهاد غیرمستقیم",
+            "en": "thinking; considering a proposal, softened by was"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "ـِ؛ برای پیوند دادن دو بخش",
+            "en": "of; links related things, as in a list of contents"
+          }
+        },
+        {
+          "surface": "raising",
+          "gloss": {
+            "fa": "بالا بردن",
+            "en": "raising; increasing an amount"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "به میزانِ؛ مقدار افزایش",
+            "en": "by; specifies the amount of an increase"
+          }
+        },
+        {
+          "surface": "five",
+          "gloss": {
+            "fa": "پنج",
+            "en": "five; 5"
+          }
+        },
+        {
+          "surface": "percent,",
+          "gloss": {
+            "fa": "درصد",
+            "en": "percent; out of every hundred"
+          }
+        },
+        {
+          "surface": "nothing",
+          "gloss": {
+            "fa": "هیچ‌چیز",
+            "en": "nothing; not anything"
+          }
+        },
+        {
+          "surface": "more.",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+      "translation": {
+        "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+        "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "fair",
+          "gloss": {
+            "fa": "منصفانه",
+            "en": "fair; treating people reasonably"
+          }
+        },
+        {
+          "surface": "offer,",
+          "gloss": {
+            "fa": "پیشنهاد",
+            "en": "offer; proposed terms"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "accept",
+          "gloss": {
+            "fa": "پذیرفتن",
+            "en": "accept; agree to an offer"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+            "en": "it; refers to the thing being discussed"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "sign",
+          "gloss": {
+            "fa": "امضا کردن",
+            "en": "sign; write a signature to accept a document"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "two-year",
+          "gloss": {
+            "fa": "دوساله",
+            "en": "two-year; lasting two years"
+          }
+        },
+        {
+          "surface": "contract.",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "landlord",
+      "text": "That works for me, we can sign the contract next week.",
+      "translation": {
+        "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+        "en": "That works for me, we can sign the contract next week."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "works",
+          "gloss": {
+            "fa": "در «works for me»: برای من قابل‌قبول است",
+            "en": "In “works for me”: is acceptable to me"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "در «works for me»: برای من قابل‌قبول است",
+            "en": "In “works for me”: is acceptable to me"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "در «works for me»: برای من قابل‌قبول است",
+            "en": "In “works for me”: is acceptable to me"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانی",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "sign",
+          "gloss": {
+            "fa": "امضا کردن",
+            "en": "sign; write a signature to accept a document"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "این یا آنِ مشخص",
+            "en": "the; a particular thing"
+          }
+        },
+        {
+          "surface": "contract",
+          "gloss": {
+            "fa": "قرارداد",
+            "en": "contract; a written agreement"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "reza",
+      "text": "Thank you, I am glad we reached a fair agreement.",
+      "translation": {
+        "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+        "en": "Thank you, I am glad we reached a fair agreement."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال؛ خرسند",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "reached",
+          "gloss": {
+            "fa": "رسیدیم به",
+            "en": "reached; arrived at an agreement"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "fair",
+          "gloss": {
+            "fa": "منصفانه",
+            "en": "fair; treating people reasonably"
+          }
+        },
+        {
+          "surface": "agreement.",
+          "gloss": {
+            "fa": "توافق",
+            "en": "agreement; an arrangement accepted by both sides"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "landlord",
+      "text": "I am glad too, and I am happy to keep you as a tenant.",
+      "translation": {
+        "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+        "en": "I am glad too, and I am happy to keep you as a tenant."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال؛ خرسند",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ برای؛ یا پیش از فعل",
+            "en": "to; toward, for, or before an action word"
+          }
+        },
+        {
+          "surface": "keep",
+          "gloss": {
+            "fa": "حفظ کردن؛ ادامهٔ اجاره به تو",
+            "en": "keep; retain Reza as a tenant"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "به‌عنوانِ",
+            "en": "as; in the role of"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "tenant.",
+          "gloss": {
+            "fa": "مستأجر",
+            "en": "tenant; a person renting a home"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+          "en": "In “would like”: would like; politely want"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "در «would like»: مایلم؛ خواستهٔ مؤدبانه",
+          "en": "In “would like”: would like; politely want"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ برای؛ یا پیش از فعل",
+          "en": "to; toward, for, or before an action word"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "discuss",
+        "text": "discuss",
+        "pronunciation": {
+          "faReading": "دیس‌کَس",
+          "ipa": "/dɪˈskʌs/"
+        },
+        "meaning": {
+          "fa": "گفت‌وگو کردن دربارهٔ",
+          "en": "discuss; examine a topic in conversation"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "rent",
+        "text": "rent",
+        "pronunciation": {
+          "faReading": "رِنت",
+          "ipa": "/rɛnt/"
+        },
+        "meaning": {
+          "fa": "اجاره‌بها",
+          "en": "rent; money paid regularly to use a home"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "year",
+        "text": "year",
+        "pronunciation": {
+          "faReading": "ییر",
+          "ipa": "/jɪr/"
+        },
+        "meaning": {
+          "fa": "سال",
+          "en": "year; twelve months"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "Of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "در «Of course»: حتماً؛ البته",
+          "en": "In “Of course”: a willing response"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "concern",
+        "text": "concern",
+        "pronunciation": {
+          "faReading": "کِنسِرن",
+          "ipa": "/kənˈsɝn/"
+        },
+        "meaning": {
+          "fa": "نگرانی",
+          "en": "concern; a matter that worries someone"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Of course, what is your concern about the rent?",
+          "translation": {
+            "fa": "حتماً، نگرانی‌ات دربارهٔ اجاره چیست؟",
+            "en": "Of course, what is your concern about the rent?"
+          }
+        }
+      },
+      {
+        "id": "current",
+        "text": "current",
+        "pronunciation": {
+          "faReading": "کِرِنت",
+          "ipa": "/ˈkɝənt/"
+        },
+        "meaning": {
+          "fa": "فعلی",
+          "en": "current; existing now"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "has",
+        "text": "has",
+        "pronunciation": {
+          "faReading": "هَز",
+          "ipa": "/hæz/"
+        },
+        "meaning": {
+          "fa": "در «has been»: بوده است؛ از گذشته تا اکنون",
+          "en": "In “has been”: links the stable state to the present"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "been",
+        "text": "been",
+        "pronunciation": {
+          "faReading": "بین",
+          "ipa": "/bɪn/"
+        },
+        "meaning": {
+          "fa": "در «has been»: بوده است؛ از گذشته تا اکنون",
+          "en": "In “has been”: links the stable state to the present"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "stable",
+        "text": "stable",
+        "pronunciation": {
+          "faReading": "سْتِیبِل",
+          "ipa": "/ˈsteɪbəl/"
+        },
+        "meaning": {
+          "fa": "ثابت",
+          "en": "stable; not changing much"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "for-2",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «for three years»: به مدت سه سال تا اکنون",
+          "en": "In “for three years”: for a duration of three years up to now"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "در «for three years»: به مدت سه سال تا اکنون",
+          "en": "In “for three years”: for a duration of three years up to now"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "در «for three years»: به مدت سه سال تا اکنون",
+          "en": "In “for three years”: for a duration of three years up to now"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ اشاره به چیزی که درباره‌اش صحبت می‌شود",
+          "en": "it; refers to the thing being discussed"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "stay",
+        "text": "stay",
+        "pronunciation": {
+          "faReading": "سْتِی",
+          "ipa": "/steɪ/"
+        },
+        "meaning": {
+          "fa": "ماندن",
+          "en": "stay; continue to be"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "در «that way»: به همان شکل؛ ثابت",
+          "en": "In “that way”: in that unchanged state"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "way",
+        "text": "way",
+        "pronunciation": {
+          "faReading": "وِی",
+          "ipa": "/weɪ/"
+        },
+        "meaning": {
+          "fa": "در «that way»: به همان شکل؛ ثابت",
+          "en": "In “that way”: in that unchanged state"
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        }
+      },
+      {
+        "id": "understand",
+        "text": "understand",
+        "pronunciation": {
+          "faReading": "آندِرْسْتَند",
+          "ipa": "/ˌʌndɚˈstænd/"
+        },
+        "meaning": {
+          "fa": "فهمیدن",
+          "en": "understand; know what someone means"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "prices",
+        "text": "prices",
+        "pronunciation": {
+          "faReading": "پْرایسِز",
+          "ipa": "/ˈpraɪsɪz/"
+        },
+        "meaning": {
+          "fa": "قیمت‌ها",
+          "en": "prices; amounts charged"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "neighborhood",
+        "text": "neighborhood",
+        "pronunciation": {
+          "faReading": "نِیبِرهود",
+          "ipa": "/ˈneɪbɚˌhʊd/"
+        },
+        "meaning": {
+          "fa": "محله",
+          "en": "neighborhood; an area where people live"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «have risen»: بالا رفته‌اند؛ تا امسال",
+          "en": "In “have risen”: prices have increased, with a result now"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "risen",
+        "text": "risen",
+        "pronunciation": {
+          "faReading": "ریزِن",
+          "ipa": "/ˈrɪzən/"
+        },
+        "meaning": {
+          "fa": "در «have risen»: بالا رفته‌اند؛ تا امسال",
+          "en": "In “have risen”: prices have increased, with a result now"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "bit",
+        "text": "bit",
+        "pronunciation": {
+          "faReading": "بیت",
+          "ipa": "/bɪt/"
+        },
+        "meaning": {
+          "fa": "مقدار کم؛ کمی",
+          "en": "bit; a small amount"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "I understand, but the prices in the neighborhood have risen a bit this year.",
+          "translation": {
+            "fa": "می‌فهمم، ولی امسال قیمت‌های محله کمی بالا رفته‌اند.",
+            "en": "I understand, but the prices in the neighborhood have risen a bit this year."
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "در «on time»: به‌موقع",
+          "en": "In “on time”: punctually"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "در «on time»: به‌موقع",
+          "en": "In “on time”: punctually"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "در «take good care of»: خوب مراقبت کردن از",
+          "en": "In “take good care of”: look after well"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "در «take good care of»: خوب مراقبت کردن از",
+          "en": "In “take good care of”: look after well"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "care",
+        "text": "care",
+        "pronunciation": {
+          "faReading": "کِر",
+          "ipa": "/kɛr/"
+        },
+        "meaning": {
+          "fa": "در «take good care of»: خوب مراقبت کردن از",
+          "en": "In “take good care of”: look after well"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "of-2",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "در «take good care of»: خوب مراقبت کردن از",
+          "en": "In “take good care of”: look after well"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "that-2",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "true",
+        "text": "true",
+        "pronunciation": {
+          "faReading": "تْرو",
+          "ipa": "/tru/"
+        },
+        "meaning": {
+          "fa": "درست؛ مطابق واقع",
+          "en": "true; accurate"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "adjustment",
+        "text": "adjustment",
+        "pronunciation": {
+          "faReading": "اِجَستْمِنت",
+          "ipa": "/əˈdʒʌstmənt/"
+        },
+        "meaning": {
+          "fa": "تعدیل؛ تغییر مبلغ",
+          "en": "adjustment; a change in an amount"
+        },
+        "example": {
+          "text": "That is true, and I appreciate that, but I need a small adjustment.",
+          "translation": {
+            "fa": "درست است و قدردانم، ولی به یک تعدیل کوچک نیاز دارم.",
+            "en": "That is true, and I appreciate that, but I need a small adjustment."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "How",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار",
+          "en": "In “How much”: asks about an amount"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در «How much»: چه مقدار",
+          "en": "In “How much”: asks about an amount"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "of-3",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "ـِ؛ برای پیوند دادن دو بخش",
+          "en": "of; links related things, as in a list of contents"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "increase",
+        "text": "increase",
+        "pronunciation": {
+          "faReading": "اینکْریس",
+          "ipa": "/ˈɪnkris/"
+        },
+        "meaning": {
+          "fa": "افزایش",
+          "en": "increase; a rise in an amount"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "considering",
+        "text": "considering",
+        "pronunciation": {
+          "faReading": "کِنسیدِرینگ",
+          "ipa": "/kənˈsɪdɚɪŋ/"
+        },
+        "meaning": {
+          "fa": "در نظر دارید",
+          "en": "considering; thinking about as a possibility"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "How much of an increase are you considering, exactly?",
+          "translation": {
+            "fa": "دقیقاً چه مقدار افزایش در نظر دارید؟",
+            "en": "How much of an increase are you considering, exactly?"
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "thinking",
+        "text": "thinking",
+        "pronunciation": {
+          "faReading": "ثینکینگ",
+          "ipa": "/ˈθɪŋkɪŋ/"
+        },
+        "meaning": {
+          "fa": "در نظر داشتم؛ پیشنهاد غیرمستقیم",
+          "en": "thinking; considering a proposal, softened by was"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "raising",
+        "text": "raising",
+        "pronunciation": {
+          "faReading": "رِیزینگ",
+          "ipa": "/ˈreɪzɪŋ/"
+        },
+        "meaning": {
+          "fa": "بالا بردن",
+          "en": "raising; increasing an amount"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "به میزانِ؛ مقدار افزایش",
+          "en": "by; specifies the amount of an increase"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "five",
+        "text": "five",
+        "pronunciation": {
+          "faReading": "فایو",
+          "ipa": "/faɪv/"
+        },
+        "meaning": {
+          "fa": "پنج",
+          "en": "five; 5"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "percent",
+        "text": "percent",
+        "pronunciation": {
+          "faReading": "پِرسِنت",
+          "ipa": "/pɚˈsɛnt/"
+        },
+        "meaning": {
+          "fa": "درصد",
+          "en": "percent; out of every hundred"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز",
+          "en": "nothing; not anything"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "fair",
+        "text": "fair",
+        "pronunciation": {
+          "faReading": "فِر",
+          "ipa": "/fɛr/"
+        },
+        "meaning": {
+          "fa": "منصفانه",
+          "en": "fair; treating people reasonably"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "offer",
+        "text": "offer",
+        "pronunciation": {
+          "faReading": "آفِر",
+          "ipa": "/ˈɔfɚ/"
+        },
+        "meaning": {
+          "fa": "پیشنهاد",
+          "en": "offer; proposed terms"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "accept",
+        "text": "accept",
+        "pronunciation": {
+          "faReading": "اَکسِپت",
+          "ipa": "/əkˈsɛpt/"
+        },
+        "meaning": {
+          "fa": "پذیرفتن",
+          "en": "accept; agree to an offer"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "sign",
+        "text": "sign",
+        "pronunciation": {
+          "faReading": "ساین",
+          "ipa": "/saɪn/"
+        },
+        "meaning": {
+          "fa": "امضا کردن",
+          "en": "sign; write a signature to accept a document"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "two-year",
+        "text": "two-year",
+        "pronunciation": {
+          "faReading": "تو ییر",
+          "ipa": "/ˈtuˌjɪr/"
+        },
+        "meaning": {
+          "fa": "دوساله",
+          "en": "two-year; lasting two years"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "contract",
+        "text": "contract",
+        "pronunciation": {
+          "faReading": "کانتْرَکت",
+          "ipa": "/ˈkɑntrækt/"
+        },
+        "meaning": {
+          "fa": "قرارداد",
+          "en": "contract; a written agreement"
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "works",
+        "text": "works",
+        "pronunciation": {
+          "faReading": "وِرکس",
+          "ipa": "/wɝks/"
+        },
+        "meaning": {
+          "fa": "در «works for me»: برای من قابل‌قبول است",
+          "en": "In “works for me”: is acceptable to me"
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      },
+      {
+        "id": "for-3",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "در «works for me»: برای من قابل‌قبول است",
+          "en": "In “works for me”: is acceptable to me"
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "در «works for me»: برای من قابل‌قبول است",
+          "en": "In “works for me”: is acceptable to me"
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude"
+        },
+        "example": {
+          "text": "Thank you, I am glad we reached a fair agreement.",
+          "translation": {
+            "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+            "en": "Thank you, I am glad we reached a fair agreement."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "Thank you, I am glad we reached a fair agreement.",
+          "translation": {
+            "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+            "en": "Thank you, I am glad we reached a fair agreement."
+          }
+        }
+      },
+      {
+        "id": "reached",
+        "text": "reached",
+        "pronunciation": {
+          "faReading": "ریچت",
+          "ipa": "/ritʃt/"
+        },
+        "meaning": {
+          "fa": "رسیدیم به",
+          "en": "reached; arrived at an agreement"
+        },
+        "example": {
+          "text": "Thank you, I am glad we reached a fair agreement.",
+          "translation": {
+            "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+            "en": "Thank you, I am glad we reached a fair agreement."
+          }
+        }
+      },
+      {
+        "id": "agreement",
+        "text": "agreement",
+        "pronunciation": {
+          "faReading": "اِگریمِنت",
+          "ipa": "/əˈɡrimənt/"
+        },
+        "meaning": {
+          "fa": "توافق",
+          "en": "agreement; an arrangement accepted by both sides"
+        },
+        "example": {
+          "text": "Thank you, I am glad we reached a fair agreement.",
+          "translation": {
+            "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+            "en": "Thank you, I am glad we reached a fair agreement."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I am glad too, and I am happy to keep you as a tenant.",
+          "translation": {
+            "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+            "en": "I am glad too, and I am happy to keep you as a tenant."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "I am glad too, and I am happy to keep you as a tenant.",
+          "translation": {
+            "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+            "en": "I am glad too, and I am happy to keep you as a tenant."
+          }
+        }
+      },
+      {
+        "id": "keep",
+        "text": "keep",
+        "pronunciation": {
+          "faReading": "کیپ",
+          "ipa": "/kip/"
+        },
+        "meaning": {
+          "fa": "حفظ کردن؛ ادامهٔ اجاره به تو",
+          "en": "keep; retain Reza as a tenant"
+        },
+        "example": {
+          "text": "I am glad too, and I am happy to keep you as a tenant.",
+          "translation": {
+            "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+            "en": "I am glad too, and I am happy to keep you as a tenant."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "به‌عنوانِ",
+          "en": "as; in the role of"
+        },
+        "example": {
+          "text": "I am glad too, and I am happy to keep you as a tenant.",
+          "translation": {
+            "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+            "en": "I am glad too, and I am happy to keep you as a tenant."
+          }
+        }
+      },
+      {
+        "id": "tenant",
+        "text": "tenant",
+        "pronunciation": {
+          "faReading": "تِنِنت",
+          "ipa": "/ˈtɛnənt/"
+        },
+        "meaning": {
+          "fa": "مستأجر",
+          "en": "tenant; a person renting a home"
+        },
+        "example": {
+          "text": "I am glad too, and I am happy to keep you as a tenant.",
+          "translation": {
+            "fa": "من هم خوشحالم و از اینکه مستأجرم بمانی راضی‌ام.",
+            "en": "I am glad too, and I am happy to keep you as a tenant."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "polite-negotiation",
+        "title": {
+          "fa": "نرم‌کردن درخواست و پیشنهاد",
+          "en": "Softening requests and proposals"
+        },
+        "explanation": {
+          "fa": "would like خواسته را مؤدبانه مطرح می‌کند و if you agree حق موافقت طرف مقابل را به رسمیت می‌شناسد. I was thinking of raising ... گذشتهٔ صرفِ یک فکر رهاشده نیست؛ اینجا راه غیرمستقیم ارائهٔ پیشنهاد فعلی است. پس از of شکل raising آمده است.",
+          "en": "Would like makes the request polite, while if you agree acknowledges the other person’s consent. I was thinking of raising ... is a tentative way to present the current proposal, not simply an abandoned past thought. Of is followed by raising."
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        },
+        "takeaway": {
+          "fa": "was thinking of + -ing می‌تواند پیشنهاد فعلی را نرم کند.",
+          "en": "Was thinking of + -ing can soften a present proposal."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نرم‌کردن درخواست و پیشنهاد",
+              "en": "Softening requests and proposals"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I would like to discuss the rent"
+                },
+                {
+                  "text": "would like to + action"
+                },
+                {
+                  "fa": "مایلم دربارهٔ اجاره صحبت کنم",
+                  "en": "Polite opening"
+                }
+              ],
+              [
+                {
+                  "text": "if you agree"
+                },
+                {
+                  "text": "if + present"
+                },
+                {
+                  "fa": "اگر موافق باشید",
+                  "en": "Invites consent"
+                }
+              ],
+              [
+                {
+                  "text": "I was thinking of raising it"
+                },
+                {
+                  "text": "was thinking of + -ing"
+                },
+                {
+                  "fa": "به افزایشش فکر می‌کردم",
+                  "en": "Tentative proposal"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "present-perfect-states",
+        "title": {
+          "fa": "ثبات و تغییر تا اکنون",
+          "en": "Stability and change up to now"
+        },
+        "explanation": {
+          "fa": "has been stable for three years وضعیتی را از گذشته تا حال می‌رساند. have risen ... this year تغییر قیمت در بازهٔ امسال را به اکنون وصل می‌کند. risen از rise است و مفعول ندارد؛ raising در پیشنهاد صاحب‌خانه افزایش دادنِ rent است و مفعول می‌گیرد.",
+          "en": "Has been stable for three years links a continuing state to now. Have risen ... this year links a price change in the current year to the present. Risen comes from rise without an object; raising in the landlord’s proposal acts on rent."
+        },
+        "example": {
+          "text": "The current rent has been stable for three years, and I would like it to stay that way.",
+          "translation": {
+            "fa": "اجارهٔ فعلی سه سال ثابت بوده و می‌خواهم همان‌طور بماند.",
+            "en": "The current rent has been stable for three years, and I would like it to stay that way."
+          }
+        },
+        "takeaway": {
+          "fa": "قیمت‌ها have risen؛ صاحب‌خانه rent را is considering raising.",
+          "en": "Prices have risen; the landlord is considering raising the rent."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ثبات و تغییر تا اکنون",
+              "en": "Stability and change up to now"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "has been stable for three years"
+                },
+                {
+                  "text": "has been + state + for + duration"
+                },
+                {
+                  "fa": "سه سال ثابت بوده است",
+                  "en": "Continuing state"
+                }
+              ],
+              [
+                {
+                  "text": "have risen a bit this year"
+                },
+                {
+                  "text": "have + risen + current period"
+                },
+                {
+                  "fa": "امسال کمی بالا رفته‌اند",
+                  "en": "Change relevant now"
+                }
+              ],
+              [
+                {
+                  "text": "raising it by five percent"
+                },
+                {
+                  "text": "raise + object + by + amount"
+                },
+                {
+                  "fa": "افزایش آن به میزان پنج درصد",
+                  "en": "Causing an increase"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bargaining-reasons",
+        "title": {
+          "fa": "دلیل در مذاکره و مرجع that",
+          "en": "Reasons and reference in negotiation"
+        },
+        "explanation": {
+          "fa": "رضا با on time و take good care of سابقهٔ خود را دلیل ثابت‌ماندن اجاره می‌کند. That is true حرف او را می‌پذیرد، اما but درخواست تغییر را نگه می‌دارد. adjustment واژه‌ای ملایم‌تر برای همان افزایش مورد بحث است، نه لزوماً کاهش.",
+          "en": "Reza uses punctual payment and care of the apartment to support keeping rent unchanged. That is true accepts his point, but but retains the request for a change. Adjustment is a softer label for the increase being discussed, not a reduction here."
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        },
+        "takeaway": {
+          "fa": "پذیرفتن یک دلیل با پذیرفتن نتیجهٔ آن یکی نیست.",
+          "en": "Accepting a reason is not the same as accepting the requested outcome."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دلیل در مذاکره و مرجع that",
+              "en": "Reasons and reference in negotiation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "on time with the rent"
+                },
+                {
+                  "text": "on time with + payment"
+                },
+                {
+                  "fa": "به‌موقع در پرداخت اجاره",
+                  "en": "Tenant’s supporting reason"
+                }
+              ],
+              [
+                {
+                  "text": "take good care of the apartment"
+                },
+                {
+                  "text": "take good care of + thing"
+                },
+                {
+                  "fa": "خوب از آپارتمان مراقبت کردن",
+                  "en": "Another reason"
+                }
+              ],
+              [
+                {
+                  "text": "That is true, and I appreciate that, but"
+                },
+                {
+                  "text": "agreement + but"
+                },
+                {
+                  "fa": "پذیرش نکته و سپس مخالفت نسبی",
+                  "en": "Acknowledges without conceding everything"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "amount-of-increase",
+        "title": {
+          "fa": "مقدار افزایش؛ by نه to",
+          "en": "The increase: by, not to"
+        },
+        "explanation": {
+          "fa": "How much of an increase ...? دربارهٔ اندازهٔ افزایش می‌پرسد. by five percent یعنی مبلغ قبلی پنج درصد زیاد شود؛ to five percent به یک سطح نهایی اشاره می‌کرد. قیمت پایه در متن نیست، پس مبلغ پولی تازه قابل محاسبه نیست. nothing more سقف پیشنهاد را همان پنج درصد نگه می‌دارد.",
+          "en": "How much of an increase ...? asks about the size of the change. By five percent adds five percent to the previous amount; to five percent would identify a final level. No base rent is given, so no monetary total can be calculated. Nothing more limits the proposal to that increase."
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        },
+        "takeaway": {
+          "fa": "by مقدار تغییر است، نه مبلغ نهایی اجاره.",
+          "en": "By gives the change, not the final rent."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقدار افزایش؛ by نه to",
+              "en": "The increase: by, not to"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How much of an increase"
+                },
+                {
+                  "text": "How much of + a change?"
+                },
+                {
+                  "fa": "چه مقدار افزایش؟",
+                  "en": "Asks for the size of the change"
+                }
+              ],
+              [
+                {
+                  "text": "by five percent, nothing more"
+                },
+                {
+                  "text": "by + percentage + limit"
+                },
+                {
+                  "fa": "پنج درصد، نه بیشتر",
+                  "en": "A limited percentage increase"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conditional-acceptance",
+        "title": {
+          "fa": "پذیرش مشروط، نه بی‌قید",
+          "en": "Conditional, not unconditional, acceptance"
+        },
+        "explanation": {
+          "fa": "I will accept it if we sign ... پذیرش را به قرارداد دوساله وابسته می‌کند. بخش نتیجه will accept دارد و بخش شرط if we sign بدون will است. پاسخ That works for me موافقت صاحب‌خانه با این شرط است. امضای هفتهٔ آینده هنوز انجام نشده است.",
+          "en": "I will accept it if we sign ... makes acceptance depend on a two-year contract. The result uses will accept; the if-part uses sign without will. That works for me accepts the condition. Signing next week remains a future arrangement."
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        },
+        "takeaway": {
+          "fa": "if + حال ساده؛ نتیجه با will برای این شرط واقعی.",
+          "en": "If + present simple, with will in the result, for this realistic condition."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پذیرش مشروط، نه بی‌قید",
+              "en": "Conditional, not unconditional, acceptance"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will accept it if we sign a two-year contract"
+                },
+                {
+                  "text": "will + action + if + present"
+                },
+                {
+                  "fa": "اگر قرارداد دوساله امضا کنیم قبول می‌کنم",
+                  "en": "Conditional acceptance"
+                }
+              ],
+              [
+                {
+                  "text": "That works for me"
+                },
+                {
+                  "text": "That works for + person"
+                },
+                {
+                  "fa": "برای من قابل‌قبول است",
+                  "en": "Agrees to the proposed terms"
+                }
+              ],
+              [
+                {
+                  "text": "we can sign the contract next week"
+                },
+                {
+                  "text": "can + action + future time"
+                },
+                {
+                  "fa": "می‌توانیم هفتهٔ آینده امضا کنیم",
+                  "en": "Signing has not happened yet"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "compound-duration",
+        "title": {
+          "fa": "two-year نه two-years",
+          "en": "Two-year, not two-years"
+        },
+        "explanation": {
+          "fa": "در a two-year contract، دو واژه با خط تیره یک توصیف پیش از اسم می‌سازند و year جمع نمی‌شود. در for three years اسم مدت مستقل است و years جمع می‌شود. reached an agreement ترکیب رسیدن به توافق است، نه رسیدن فیزیکی به یک جا.",
+          "en": "In a two-year contract, the hyphenated phrase describes the noun and year stays singular. In for three years, years is a separate plural duration noun. Reached an agreement describes achieving consensus rather than physically arriving somewhere."
+        },
+        "example": {
+          "text": "Thank you, I am glad we reached a fair agreement.",
+          "translation": {
+            "fa": "ممنون، خوشحالم که به توافقی منصفانه رسیدیم.",
+            "en": "Thank you, I am glad we reached a fair agreement."
+          }
+        },
+        "takeaway": {
+          "fa": "پیش از اسم: two-year؛ مدت مستقل: three years.",
+          "en": "Before a noun: two-year; a separate duration: three years."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "two-year نه two-years",
+              "en": "Two-year, not two-years"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a two-year contract"
+                },
+                {
+                  "text": "number-unit + noun"
+                },
+                {
+                  "fa": "قرارداد دوساله",
+                  "en": "Singular unit in a compound description"
+                }
+              ],
+              [
+                {
+                  "text": "for three years"
+                },
+                {
+                  "text": "for + number + plural unit"
+                },
+                {
+                  "fa": "به مدت سه سال",
+                  "en": "Independent duration"
+                }
+              ],
+              [
+                {
+                  "text": "we reached a fair agreement"
+                },
+                {
+                  "text": "reach + agreement"
+                },
+                {
+                  "fa": "به توافقی منصفانه رسیدیم",
+                  "en": "Achieved consensus"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "open",
+        "text": "I would like to discuss the rent",
+        "pronunciation": {
+          "faReading": "آی وود لایک تو دیسکاس ذِ رِنت",
+          "ipa": "/aɪ wʊd laɪk tə dɪˈskʌs ðə rɛnt/"
+        },
+        "meaning": {
+          "fa": "مایلم دربارهٔ اجاره صحبت کنم",
+          "en": "I would like to discuss the rent"
+        },
+        "context": {
+          "fa": "آغاز مؤدبانهٔ مذاکرهٔ رضاست.",
+          "en": "Reza’s polite negotiation opening."
+        },
+        "example": {
+          "text": "I would like to discuss the rent for the next year, if you agree.",
+          "translation": {
+            "fa": "اگر موافق باشید، می‌خواهم دربارهٔ اجارهٔ سال آینده صحبت کنم.",
+            "en": "I would like to discuss the rent for the next year, if you agree."
+          }
+        }
+      },
+      {
+        "id": "punctual",
+        "text": "on time with the rent",
+        "pronunciation": {
+          "faReading": "آن تایم ویذ ذِ رِنت",
+          "ipa": "/ɑn taɪm wɪð ðə rɛnt/"
+        },
+        "meaning": {
+          "fa": "به‌موقع در پرداخت اجاره",
+          "en": "Punctual with rent payments"
+        },
+        "context": {
+          "fa": "رضا سابقهٔ پرداخت را دلیل پیشنهادش می‌کند.",
+          "en": "Reza uses his payment history as an argument."
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "care",
+        "text": "take good care of the apartment",
+        "pronunciation": {
+          "faReading": "تِیک گود کِر آو ذی اِپارتْمِنت",
+          "ipa": "/teɪk ɡʊd kɛr əv ði əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "خوب از آپارتمان مراقبت کردن",
+          "en": "Look after the apartment well"
+        },
+        "context": {
+          "fa": "دلیل دوم رضا برای حفظ شرایط است.",
+          "en": "Reza’s second reason for keeping the terms."
+        },
+        "example": {
+          "text": "I know, and I am always on time with the rent, and I take good care of the apartment.",
+          "translation": {
+            "fa": "می‌دانم؛ من هم همیشه اجاره را به‌موقع می‌دهم و خوب از آپارتمان مراقبت می‌کنم.",
+            "en": "I know, and I am always on time with the rent, and I take good care of the apartment."
+          }
+        }
+      },
+      {
+        "id": "increase",
+        "text": "raising it by five percent",
+        "pronunciation": {
+          "faReading": "رِیزینگ ایت بای فایو پِرسِنت",
+          "ipa": "/ˈreɪzɪŋ ɪt baɪ faɪv pɚˈsɛnt/"
+        },
+        "meaning": {
+          "fa": "پنج درصد افزایش دادن آن",
+          "en": "Increasing it by five percent"
+        },
+        "context": {
+          "fa": "مقدار افزایش اجاره است، نه مبلغ نهایی.",
+          "en": "The size of the rent increase, not the final total."
+        },
+        "example": {
+          "text": "I was thinking of raising it by five percent, nothing more.",
+          "translation": {
+            "fa": "به افزایش پنج‌درصدی فکر می‌کردم، نه بیشتر.",
+            "en": "I was thinking of raising it by five percent, nothing more."
+          }
+        }
+      },
+      {
+        "id": "contract",
+        "text": "a two-year contract",
+        "pronunciation": {
+          "faReading": "اِ تو ییر کانتْرَکت",
+          "ipa": "/ə ˈtuˌjɪr ˈkɑntrækt/"
+        },
+        "meaning": {
+          "fa": "قرارداد دوساله",
+          "en": "A contract lasting two years"
+        },
+        "context": {
+          "fa": "شرط پذیرش افزایش از طرف رضاست.",
+          "en": "Reza’s condition for accepting the increase."
+        },
+        "example": {
+          "text": "That is a fair offer, and I will accept it if we sign a two-year contract.",
+          "translation": {
+            "fa": "پیشنهاد منصفانه‌ای است؛ اگر قرارداد دوساله امضا کنیم، قبولش می‌کنم.",
+            "en": "That is a fair offer, and I will accept it if we sign a two-year contract."
+          }
+        }
+      },
+      {
+        "id": "accept",
+        "text": "That works for me",
+        "pronunciation": {
+          "faReading": "ذَت وِرکس فور می",
+          "ipa": "/ðæt wɝks fɚ mi/"
+        },
+        "meaning": {
+          "fa": "برای من قابل‌قبول است",
+          "en": "That is acceptable to me"
+        },
+        "context": {
+          "fa": "صاحب‌خانه شرط قرارداد را می‌پذیرد.",
+          "en": "The landlord accepts the contract condition."
+        },
+        "example": {
+          "text": "That works for me, we can sign the contract next week.",
+          "translation": {
+            "fa": "برای من هم قابل‌قبول است؛ می‌توانیم هفتهٔ آینده قرارداد را امضا کنیم.",
+            "en": "That works for me, we can sign the contract next week."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام خلاصه با نتیجهٔ مذاکره سازگار است؟",
+          "en": "Which summary matches the negotiation’s outcome?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اجاره ثابت می‌ماند و قرارداد یک‌ساله می‌شود",
+              "en": "Rent stays unchanged with a one-year contract"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "افزایش پنج‌درصدی در برابر قرارداد دوساله پذیرفته می‌شود",
+              "en": "A five-percent increase is accepted in exchange for a two-year contract"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "افزایش ده‌درصدی بدون قرارداد پذیرفته می‌شود",
+              "en": "A ten-percent increase is accepted without a contract"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "رضا پذیرش را مشروط به دو سال می‌کند و صاحب‌خانه می‌پذیرد.",
+          "en": "Reza makes acceptance conditional on two years, and the landlord agrees."
+        },
+        "evidenceTurnIds": [
+          "t08",
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "stable-period",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "اجارهٔ فعلی چه مدت ثابت بوده است؟",
+          "en": "How long has the current rent been stable?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک سال",
+              "en": "One year"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو سال",
+              "en": "Two years"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه سال",
+              "en": "Three years"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "for three years مدت ثبات قبلی است؛ two-year مدت قرارداد جدید است.",
+          "en": "For three years is the prior stable period; two-year describes the new contract."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t09"
+        ]
+      },
+      {
+        "id": "reasons",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا چه سابقه‌ای را دلیل درخواست خود می‌داند؟",
+          "en": "Which record does Reza use to support his request?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پرداخت به‌موقع و مراقبت خوب از آپارتمان",
+              "en": "Punctual payment and good care of the apartment"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تعمیر ساختمان و خرید مبلمان",
+              "en": "Renovating the building and buying furniture"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اجارهٔ چند آپارتمان و پرداخت زودهنگام",
+              "en": "Renting several apartments and paying early"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "on time و take good care دو دلیل صریح رضا هستند.",
+          "en": "On time and take good care are Reza’s two explicit reasons."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "signing-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه زمانی برای امضای قرارداد پیشنهاد می‌شود؟",
+          "en": "When do they propose signing the contract?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "امروز",
+              "en": "Today"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سال آینده",
+              "en": "Next year"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "صاحب‌خانه می‌گوید we can sign the contract next week؛ امضا هنوز رخ نداده است.",
+          "en": "The landlord says we can sign the contract next week; it has not happened yet."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "percentage",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "by five percent در این پیشنهاد چه معنی دارد؟",
+          "en": "What does by five percent mean in the proposal?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اجاره به پنج درصد مبلغ قبلی کاهش یابد",
+              "en": "Rent falls to five percent of its previous amount"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اجاره برای پنج سال ثابت بماند",
+              "en": "Rent stays unchanged for five years"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اجاره به میزان پنج درصد مبلغ قبلی افزایش یابد",
+              "en": "Rent increases by five percent of the previous amount"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "by مقدار تغییر را مشخص می‌کند؛ مبلغ پایه در متن نیست.",
+          "en": "By specifies the change; the base rent is not provided."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}
