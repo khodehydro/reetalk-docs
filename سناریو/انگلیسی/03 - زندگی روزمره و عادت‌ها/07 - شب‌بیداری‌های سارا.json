@@ -1,0 +1,3565 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s07",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "شب‌بیداری‌های سارا",
+    "en": "Waking during the Night"
+  },
+  "objective": {
+    "fa": "زمان بیدارشدن سارا، نگرانی او و دو تغییر تازهٔ پیشنهادی را تشخیص بده.",
+    "en": "Identify when Sara wakes, what occupies her mind, and the two new changes proposed."
+  },
+  "speakers": [
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    },
+    {
+      "id": "mona",
+      "name": "Mona",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sara",
+      "text": "I have been waking up in the middle of the night lately.",
+      "translation": {
+        "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+        "en": "I have been waking up in the middle of the night lately."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "بخشی از «این اواخر بیدار می‌شوم»",
+            "en": "have; with been waking, a repeated recent problem"
+          }
+        },
+        {
+          "surface": "been",
+          "gloss": {
+            "fa": "بخشی از «این اواخر بیدار می‌شوم»",
+            "en": "been; part of have been waking"
+          }
+        },
+        {
+          "surface": "waking",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of waking up; stop sleeping"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of waking up; stop sleeping"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "middle",
+          "gloss": {
+            "fa": "میانه؛ وسط",
+            "en": "middle; the central part"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "night",
+          "gloss": {
+            "fa": "شب",
+            "en": "night; the dark part of the day"
+          }
+        },
+        {
+          "surface": "lately.",
+          "gloss": {
+            "fa": "اخیراً؛ این اواخر",
+            "en": "lately; in the recent period"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "mona",
+      "text": "Is something worrying you, or is it just a habit?",
+      "translation": {
+        "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+        "en": "Is something worrying you, or is it just a habit?"
+      },
+      "tokens": [
+        {
+          "surface": "Is",
+          "gloss": {
+            "fa": "بخشی از سؤال «نگران می‌کند»",
+            "en": "is; with worrying, asks about a current cause"
+          }
+        },
+        {
+          "surface": "something",
+          "gloss": {
+            "fa": "چیزی",
+            "en": "something; a thing not named"
+          }
+        },
+        {
+          "surface": "worrying",
+          "gloss": {
+            "fa": "نگران می‌کند",
+            "en": "worrying; causing anxiety"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "تازه؛ همین الان",
+            "en": "just; very recently"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "habit?",
+          "gloss": {
+            "fa": "عادت",
+            "en": "habit; something done regularly"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sara",
+      "text": "I wake up at three in the morning and cannot fall asleep again.",
+      "translation": {
+        "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+        "en": "I wake up at three in the morning and cannot fall asleep again."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "wake",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; before a clock time"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "سه",
+            "en": "three; 3"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "cannot",
+          "gloss": {
+            "fa": "بخشی از «بی‌صبر بودن»",
+            "en": "part of cannot wait; be very excited for something"
+          }
+        },
+        {
+          "surface": "fall",
+          "gloss": {
+            "fa": "بخشی از «به خواب رفتن»",
+            "en": "part of fall asleep; begin sleeping"
+          }
+        },
+        {
+          "surface": "asleep",
+          "gloss": {
+            "fa": "بخشی از «به خواب رفتن»",
+            "en": "part of fall asleep; begin sleeping"
+          }
+        },
+        {
+          "surface": "again.",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "mona",
+      "text": "Have you tried listening to calm music before you sleep?",
+      "translation": {
+        "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+        "en": "Have you tried listening to calm music before you sleep?"
+      },
+      "tokens": [
+        {
+          "surface": "Have",
+          "gloss": {
+            "fa": "کمک به سؤال دربارهٔ روش امتحان‌شده",
+            "en": "have; with tried, asks about a previous attempt"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "tried",
+          "gloss": {
+            "fa": "امتحان کرده‌ام",
+            "en": "tried; attempted something or tested a method"
+          }
+        },
+        {
+          "surface": "listening",
+          "gloss": {
+            "fa": "گوش دادن",
+            "en": "listening; paying attention to sounds"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ همراه listening",
+            "en": "to; part of listening to music"
+          }
+        },
+        {
+          "surface": "calm",
+          "gloss": {
+            "fa": "آرام",
+            "en": "calm; peaceful and soothing"
+          }
+        },
+        {
+          "surface": "music",
+          "gloss": {
+            "fa": "موسیقی",
+            "en": "music; songs and other musical sounds"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "sleep?",
+          "gloss": {
+            "fa": "خوابیدن",
+            "en": "sleep; rest in a sleeping state"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sara",
+      "text": "I have, but my mind keeps thinking about the work of the next day.",
+      "translation": {
+        "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+        "en": "I have, but my mind keeps thinking about the work of the next day."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have,",
+          "gloss": {
+            "fa": "امتحان کرده‌ام؛ جواب کوتاه",
+            "en": "have; stands for have tried listening to music"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "mind",
+          "gloss": {
+            "fa": "ذهن",
+            "en": "mind; thoughts and awareness"
+          }
+        },
+        {
+          "surface": "keeps",
+          "gloss": {
+            "fa": "مدام ادامه می‌دهد؛ با thinking",
+            "en": "keeps; continues thinking repeatedly"
+          }
+        },
+        {
+          "surface": "thinking",
+          "gloss": {
+            "fa": "فکر کردن",
+            "en": "thinking; considering an idea"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "mona",
+      "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+      "translation": {
+        "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+        "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+      },
+      "tokens": [
+        {
+          "surface": "Perhaps",
+          "gloss": {
+            "fa": "شاید",
+            "en": "perhaps; maybe"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "نوشتن",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "کارها؛ وظیفه‌ها",
+            "en": "tasks; pieces of work to do"
+          }
+        },
+        {
+          "surface": "down",
+          "gloss": {
+            "fa": "بخشی از «یادداشت کردن»",
+            "en": "down; with write, record in writing"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "bed,",
+          "gloss": {
+            "fa": "تخت؛ اینجا خواب",
+            "en": "bed; in before bed, before going to sleep"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "تا؛ برای اینکه",
+            "en": "so; gives the purpose of writing"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "mind",
+          "gloss": {
+            "fa": "ذهن",
+            "en": "mind; thoughts and awareness"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "rest.",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sara",
+      "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+      "translation": {
+        "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+        "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "cut",
+          "gloss": {
+            "fa": "بخشی از «کم کردن مصرف»",
+            "en": "part of cut down on; consume less"
+          }
+        },
+        {
+          "surface": "down",
+          "gloss": {
+            "fa": "بخشی از «کم کردن مصرف»",
+            "en": "part of cut down on; consume less"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بخشی از «کم کردن مصرف»",
+            "en": "part of cut down on; consume less"
+          }
+        },
+        {
+          "surface": "coffee",
+          "gloss": {
+            "fa": "قهوه",
+            "en": "coffee; a hot drink"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "afternoon.",
+          "gloss": {
+            "fa": "بعدازظهر",
+            "en": "afternoon; the period after midday"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "mona",
+      "text": "Both will help, give it a few days and see how you feel.",
+      "translation": {
+        "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+        "en": "Both will help, give it a few days and see how you feel."
+      },
+      "tokens": [
+        {
+          "surface": "Both",
+          "gloss": {
+            "fa": "هر دو؛ نوشتن کارها و کم‌کردن قهوه",
+            "en": "both; writing tasks and reducing coffee"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "help,",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "give",
+          "gloss": {
+            "fa": "دادن",
+            "en": "give; let someone have something"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ فرصت اثرکردن این تغییرها",
+            "en": "it; the changes given time to take effect"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "few",
+          "gloss": {
+            "fa": "چند؛ تعداد کم",
+            "en": "few; a small number"
+          }
+        },
+        {
+          "surface": "days",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "see",
+          "gloss": {
+            "fa": "دیدن",
+            "en": "see; meet or look at someone"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "feel.",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience a feeling"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "sara",
+      "text": "I hope it works, good nights are so important for my days.",
+      "translation": {
+        "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+        "en": "I hope it works, good nights are so important for my days."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "works,",
+          "gloss": {
+            "fa": "جواب بدهد؛ مؤثر باشد",
+            "en": "works; has the intended effect"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "nights",
+          "gloss": {
+            "fa": "شب‌ها",
+            "en": "nights; periods of nighttime"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "خیلی؛ برای تأکید بر important",
+            "en": "so; strengthens important"
+          }
+        },
+        {
+          "surface": "important",
+          "gloss": {
+            "fa": "مهم",
+            "en": "important; having great value"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "days.",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "mona",
+      "text": "They are, and I am here if you need to talk about anything.",
+      "translation": {
+        "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+        "en": "They are, and I am here if you need to talk about anything."
+      },
+      "tokens": [
+        {
+          "surface": "They",
+          "gloss": {
+            "fa": "آن‌ها؛ شب‌های خوب",
+            "en": "they; good nights"
+          }
+        },
+        {
+          "surface": "are,",
+          "gloss": {
+            "fa": "همین‌طورند؛ شب‌ها مهم‌اند",
+            "en": "are; agrees that good nights are important"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "حرف زدن؛ گفت‌وگو",
+            "en": "talk; speak with someone"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "anything.",
+          "gloss": {
+            "fa": "چیزی؛ هر چیزی",
+            "en": "anything; any thing"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «این اواخر بیدار می‌شوم»",
+          "en": "have; with been waking, a repeated recent problem"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "been",
+        "text": "been",
+        "pronunciation": {
+          "faReading": "بین",
+          "ipa": "/bɪn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «این اواخر بیدار می‌شوم»",
+          "en": "been; part of have been waking"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "waking",
+        "text": "waking",
+        "pronunciation": {
+          "faReading": "وِیکینگ",
+          "ipa": "/ˈweɪkɪŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of waking up; stop sleeping"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of waking up; stop sleeping"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "middle",
+        "text": "middle",
+        "pronunciation": {
+          "faReading": "میدِل",
+          "ipa": "/ˈmɪdəl/"
+        },
+        "meaning": {
+          "fa": "میانه؛ وسط",
+          "en": "middle; the central part"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "night",
+        "text": "night",
+        "pronunciation": {
+          "faReading": "نایت",
+          "ipa": "/naɪt/"
+        },
+        "meaning": {
+          "fa": "شب",
+          "en": "night; the dark part of the day"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "lately",
+        "text": "lately",
+        "pronunciation": {
+          "faReading": "لِیتلی",
+          "ipa": "/ˈleɪtli/"
+        },
+        "meaning": {
+          "fa": "اخیراً؛ این اواخر",
+          "en": "lately; in the recent period"
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "Is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "بخشی از سؤال «نگران می‌کند»",
+          "en": "is; with worrying, asks about a current cause"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "something",
+        "text": "something",
+        "pronunciation": {
+          "faReading": "سَم‌ثینگ",
+          "ipa": "/ˈsʌmˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی",
+          "en": "something; a thing not named"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "worrying",
+        "text": "worrying",
+        "pronunciation": {
+          "faReading": "وِری‌اینگ",
+          "ipa": "/ˈwɝiɪŋ/"
+        },
+        "meaning": {
+          "fa": "نگران می‌کند",
+          "en": "worrying; causing anxiety"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "is-base",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "تازه؛ همین الان",
+          "en": "just; very recently"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "habit",
+        "text": "habit",
+        "pronunciation": {
+          "faReading": "هَبِت",
+          "ipa": "/ˈhæbɪt/"
+        },
+        "meaning": {
+          "fa": "عادت",
+          "en": "habit; something done regularly"
+        },
+        "example": {
+          "text": "Is something worrying you, or is it just a habit?",
+          "translation": {
+            "fa": "چیزی نگرانت می‌کند یا فقط عادت است؟",
+            "en": "Is something worrying you, or is it just a habit?"
+          }
+        }
+      },
+      {
+        "id": "wake",
+        "text": "wake",
+        "pronunciation": {
+          "faReading": "وِیک",
+          "ipa": "/weɪk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of wake up; stop sleeping"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "up-wake",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of wake up; stop sleeping"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در ساعتِ",
+          "en": "at; before a clock time"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "cannot",
+        "text": "cannot",
+        "pronunciation": {
+          "faReading": "کَنات",
+          "ipa": "/ˈkænɑt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بی‌صبر بودن»",
+          "en": "part of cannot wait; be very excited for something"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "fall",
+        "text": "fall",
+        "pronunciation": {
+          "faReading": "فال",
+          "ipa": "/fɔl/"
+        },
+        "meaning": {
+          "fa": "بخشی از «به خواب رفتن»",
+          "en": "part of fall asleep; begin sleeping"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "asleep",
+        "text": "asleep",
+        "pronunciation": {
+          "faReading": "اِسْلیپ",
+          "ipa": "/əˈslip/"
+        },
+        "meaning": {
+          "fa": "بخشی از «به خواب رفتن»",
+          "en": "part of fall asleep; begin sleeping"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "have-perfect",
+        "text": "Have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "کمک به سؤال دربارهٔ روش امتحان‌شده",
+          "en": "have; with tried, asks about a previous attempt"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "tried",
+        "text": "tried",
+        "pronunciation": {
+          "faReading": "تْراید",
+          "ipa": "/traɪd/"
+        },
+        "meaning": {
+          "fa": "امتحان کرده‌ام",
+          "en": "tried; attempted something or tested a method"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "listening",
+        "text": "listening",
+        "pronunciation": {
+          "faReading": "لیسِنینگ",
+          "ipa": "/ˈlɪsənɪŋ/"
+        },
+        "meaning": {
+          "fa": "گوش دادن",
+          "en": "listening; paying attention to sounds"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ همراه listening",
+          "en": "to; part of listening to music"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "calm",
+        "text": "calm",
+        "pronunciation": {
+          "faReading": "کام",
+          "ipa": "/kɑm/"
+        },
+        "meaning": {
+          "fa": "آرام",
+          "en": "calm; peaceful and soothing"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "music",
+        "text": "music",
+        "pronunciation": {
+          "faReading": "میوزیک",
+          "ipa": "/ˈmjuzɪk/"
+        },
+        "meaning": {
+          "fa": "موسیقی",
+          "en": "music; songs and other musical sounds"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "sleep",
+        "text": "sleep",
+        "pronunciation": {
+          "faReading": "سْلیپ",
+          "ipa": "/slip/"
+        },
+        "meaning": {
+          "fa": "خوابیدن",
+          "en": "sleep; rest in a sleeping state"
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "have-reply",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "امتحان کرده‌ام؛ جواب کوتاه",
+          "en": "have; stands for have tried listening to music"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "mind",
+        "text": "mind",
+        "pronunciation": {
+          "faReading": "مایند",
+          "ipa": "/maɪnd/"
+        },
+        "meaning": {
+          "fa": "ذهن",
+          "en": "mind; thoughts and awareness"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "keeps",
+        "text": "keeps",
+        "pronunciation": {
+          "faReading": "کیپس",
+          "ipa": "/kips/"
+        },
+        "meaning": {
+          "fa": "مدام ادامه می‌دهد؛ با thinking",
+          "en": "keeps; continues thinking repeatedly"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "thinking",
+        "text": "thinking",
+        "pronunciation": {
+          "faReading": "ثینکینگ",
+          "ipa": "/ˈθɪŋkɪŋ/"
+        },
+        "meaning": {
+          "fa": "فکر کردن",
+          "en": "thinking; considering an idea"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "I have, but my mind keeps thinking about the work of the next day.",
+          "translation": {
+            "fa": "امتحان کرده‌ام، ولی ذهنم مدام درگیر کارهای روز بعد است.",
+            "en": "I have, but my mind keeps thinking about the work of the next day."
+          }
+        }
+      },
+      {
+        "id": "perhaps",
+        "text": "Perhaps",
+        "pronunciation": {
+          "faReading": "پِرهَپس",
+          "ipa": "/pɚˈhæps/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "perhaps; maybe"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "tasks",
+        "text": "tasks",
+        "pronunciation": {
+          "faReading": "تَسکس",
+          "ipa": "/tæsks/"
+        },
+        "meaning": {
+          "fa": "کارها؛ وظیفه‌ها",
+          "en": "tasks; pieces of work to do"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "down",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «یادداشت کردن»",
+          "en": "down; with write, record in writing"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "bed",
+        "text": "bed",
+        "pronunciation": {
+          "faReading": "بِد",
+          "ipa": "/bɛd/"
+        },
+        "meaning": {
+          "fa": "تخت؛ اینجا خواب",
+          "en": "bed; in before bed, before going to sleep"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "تا؛ برای اینکه",
+          "en": "so; gives the purpose of writing"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "rest",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "استراحت؛ استراحت کردن",
+          "en": "rest; relaxation or taking a break"
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "cut",
+        "text": "cut",
+        "pronunciation": {
+          "faReading": "کَت",
+          "ipa": "/kʌt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کم کردن مصرف»",
+          "en": "part of cut down on; consume less"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "down-reduce",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کم کردن مصرف»",
+          "en": "part of cut down on; consume less"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کم کردن مصرف»",
+          "en": "part of cut down on; consume less"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "coffee",
+        "text": "coffee",
+        "pronunciation": {
+          "faReading": "کافی",
+          "ipa": "/ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "قهوه",
+          "en": "coffee; a hot drink"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "afternoon",
+        "text": "afternoon",
+        "pronunciation": {
+          "faReading": "اَفتِرنون",
+          "ipa": "/ˌæftɚˈnun/"
+        },
+        "meaning": {
+          "fa": "بعدازظهر",
+          "en": "afternoon; the period after midday"
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "Both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو؛ نوشتن کارها و کم‌کردن قهوه",
+          "en": "both; writing tasks and reducing coffee"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "give",
+        "text": "give",
+        "pronunciation": {
+          "faReading": "گیو",
+          "ipa": "/ɡɪv/"
+        },
+        "meaning": {
+          "fa": "دادن",
+          "en": "give; let someone have something"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ فرصت اثرکردن این تغییرها",
+          "en": "it; the changes given time to take effect"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "few",
+        "text": "few",
+        "pronunciation": {
+          "faReading": "فیو",
+          "ipa": "/fju/"
+        },
+        "meaning": {
+          "fa": "چند؛ تعداد کم",
+          "en": "few; a small number"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "days",
+        "text": "days",
+        "pronunciation": {
+          "faReading": "دِیز",
+          "ipa": "/deɪz/"
+        },
+        "meaning": {
+          "fa": "روزها",
+          "en": "days; periods of twenty-four hours"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "see",
+        "text": "see",
+        "pronunciation": {
+          "faReading": "سی",
+          "ipa": "/si/"
+        },
+        "meaning": {
+          "fa": "دیدن",
+          "en": "see; meet or look at someone"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "works",
+        "text": "works",
+        "pronunciation": {
+          "faReading": "وِرکس",
+          "ipa": "/wɝks/"
+        },
+        "meaning": {
+          "fa": "جواب بدهد؛ مؤثر باشد",
+          "en": "works; has the intended effect"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "nights",
+        "text": "nights",
+        "pronunciation": {
+          "faReading": "نایتس",
+          "ipa": "/naɪts/"
+        },
+        "meaning": {
+          "fa": "شب‌ها",
+          "en": "nights; periods of nighttime"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "so-degree",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ برای تأکید بر important",
+          "en": "so; strengthens important"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "important",
+        "text": "important",
+        "pronunciation": {
+          "faReading": "ایمْپورتِنت",
+          "ipa": "/ɪmˈpɔrtənt/"
+        },
+        "meaning": {
+          "fa": "مهم",
+          "en": "important; having great value"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "I hope it works, good nights are so important for my days.",
+          "translation": {
+            "fa": "امیدوارم جواب بدهد؛ شب‌های خوب برای روزهایم خیلی مهم‌اند.",
+            "en": "I hope it works, good nights are so important for my days."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "They",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها؛ شب‌های خوب",
+          "en": "they; good nights"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "are-reply",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "همین‌طورند؛ شب‌ها مهم‌اند",
+          "en": "are; agrees that good nights are important"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "to-base",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "talk",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "حرف زدن؛ گفت‌وگو",
+          "en": "talk; speak with someone"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      },
+      {
+        "id": "anything",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی؛ هر چیزی",
+          "en": "anything; any thing"
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "recent-waking",
+        "title": {
+          "fa": "مشکل تکراری در این اواخر",
+          "en": "A repeated recent problem"
+        },
+        "explanation": {
+          "fa": "I have been waking up ... lately یعنی این اواخر بارها بیدار می‌شوم. این یک بار بیدارشدنِ تمام‌شده نیست؛ اخیراً تکرار می‌شود. فعلاً have been waking up را با این معنی و lately را با معنی «این اواخر» یاد بگیر.",
+          "en": "I have been waking up ... lately describes repeated waking during a recent period, not one completed awakening. Learn have been waking up as a useful recent-problem pattern and lately as recently."
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        },
+        "takeaway": {
+          "fa": "ساخت بلند را به یک معنی کاربردی وصل کن: اخیراً مدام بیدار می‌شوم.",
+          "en": "Connect the longer pattern to one useful meaning: I keep waking recently."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مشکل تکراری در این اواخر",
+              "en": "A repeated recent problem"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have been waking up"
+                },
+                {
+                  "text": "have been + waking up"
+                },
+                {
+                  "fa": "این اواخر بیدار می‌شوم",
+                  "en": "Repeated recent experience"
+                }
+              ],
+              [
+                {
+                  "text": "in the middle of the night lately"
+                },
+                {
+                  "text": "place in the night + lately"
+                },
+                {
+                  "fa": "اخیراً در میانهٔ شب",
+                  "en": "When the problem occurs"
+                }
+              ],
+              [
+                {
+                  "text": "at three in the morning"
+                },
+                {
+                  "text": "at + clock time + part of day"
+                },
+                {
+                  "fa": "سه صبح",
+                  "en": "The specific waking time"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "worry-and-sleep",
+        "title": {
+          "fa": "نگرانی و دوباره خوابیدن",
+          "en": "Worry and falling asleep again"
+        },
+        "explanation": {
+          "fa": "Is something worrying you? دربارهٔ نگرانی فعلی است. fall asleep یعنی به خواب رفتن؛ این عبارت را جداجدا به «افتادن» ترجمه نکن. cannot fall asleep again یعنی دوباره خوابم نمی‌برد.",
+          "en": "Is something worrying you? asks about a current source of anxiety. Fall asleep means begin sleeping, not physically fall. Cannot fall asleep again describes the difficulty of returning to sleep."
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        },
+        "takeaway": {
+          "fa": "fall asleep یک عبارت کامل برای به‌خواب‌رفتن است.",
+          "en": "Learn fall asleep as a complete expression."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نگرانی و دوباره خوابیدن",
+              "en": "Worry and falling asleep again"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Is something worrying you"
+                },
+                {
+                  "text": "is + something + worrying + you"
+                },
+                {
+                  "fa": "چیزی نگرانت می‌کند",
+                  "en": "A current concern"
+                }
+              ],
+              [
+                {
+                  "text": "cannot fall asleep again"
+                },
+                {
+                  "text": "cannot + fall asleep + again"
+                },
+                {
+                  "fa": "دوباره خوابم نمی‌برد",
+                  "en": "Unable to return to sleep"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "trying-a-method",
+        "title": {
+          "fa": "امتحان روش و جواب کوتاه",
+          "en": "Trying a method and replying briefly"
+        },
+        "explanation": {
+          "fa": "Have you tried listening ...? می‌پرسد این روش را امتحان کرده‌ای؟ پس از tried در این معنی listening می‌آید. I have یعنی بله، امتحان کرده‌ام و بخش طولانی تکرار نمی‌شود. listening to music هم to می‌خواهد.",
+          "en": "Have you tried listening ...? asks whether a method has been tested, with listening after tried. I have confirms the attempt without repeating it. Keep to in listening to music."
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        },
+        "takeaway": {
+          "fa": "I have را از حرف قبل کامل کن: have tried listening.",
+          "en": "Complete I have from the earlier words: have tried listening."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "امتحان روش و جواب کوتاه",
+              "en": "Trying a method and replying briefly"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Have you tried listening to calm music"
+                },
+                {
+                  "text": "have you tried + ing"
+                },
+                {
+                  "fa": "گوش‌دادن به موسیقی آرام را امتحان کرده‌ای",
+                  "en": "A question about a tested method"
+                }
+              ],
+              [
+                {
+                  "text": "I have"
+                },
+                {
+                  "text": "have + understood action"
+                },
+                {
+                  "fa": "بله، امتحان کرده‌ام",
+                  "en": "A short confirmation"
+                }
+              ],
+              [
+                {
+                  "text": "my mind keeps thinking"
+                },
+                {
+                  "text": "keeps + activity with ing"
+                },
+                {
+                  "fa": "ذهنم مدام فکر می‌کند",
+                  "en": "Continued mental activity"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "two-new-changes",
+        "title": {
+          "fa": "دو تغییر تازه",
+          "en": "Two new changes"
+        },
+        "explanation": {
+          "fa": "Perhaps you should write ... توصیه‌ای نرم است. write your tasks down یعنی کارها را یادداشت کن. cut down on coffee یعنی مصرف قهوه را کم کن، نه اینکه آن را قطعاً کامل کنار بگذار. Both در پاسخ بعد به همین دو تغییر اشاره دارد.",
+          "en": "Perhaps you should write ... softens the advice. Write your tasks down means record them. Cut down on coffee means reduce it, not necessarily stop completely. Both in the next turn refers to these two changes."
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        },
+        "takeaway": {
+          "fa": "Both یعنی نوشتن کارها و کاهش قهوه، نه دو نوع موسیقی.",
+          "en": "Both refers to writing tasks and reducing coffee."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دو تغییر تازه",
+              "en": "Two new changes"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "write your tasks down before bed"
+                },
+                {
+                  "text": "write + tasks + down"
+                },
+                {
+                  "fa": "قبل خواب کارها را یادداشت کن",
+                  "en": "A proposed routine"
+                }
+              ],
+              [
+                {
+                  "text": "cut down on coffee in the afternoon"
+                },
+                {
+                  "text": "cut down on + something"
+                },
+                {
+                  "fa": "قهوهٔ بعدازظهر را کم کن",
+                  "en": "Reducing consumption"
+                }
+              ],
+              [
+                {
+                  "text": "Both will help"
+                },
+                {
+                  "text": "both + will + help"
+                },
+                {
+                  "fa": "هر دو کمک می‌کنند",
+                  "en": "The character’s prediction about the changes"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "purpose-and-support",
+        "title": {
+          "fa": "هدف یادداشت و پیشنهاد همراهی",
+          "en": "Purpose and an offer of support"
+        },
+        "explanation": {
+          "fa": "so your mind can rest هدف نوشتن کارهاست. give it a few days یعنی چند روز فرصت بده. I hope it works امید به نتیجه است؛ حرف‌های شخصیت‌ها تضمین پزشکی نیستند. if you need to talk شرط پیشنهاد حمایت را می‌گوید.",
+          "en": "So your mind can rest gives the purpose of writing. Give it a few days asks for a short trial period. I hope it works expresses hope; the characters’ predictions are not medical guarantees. If you need to talk sets the condition for an offer of support."
+        },
+        "example": {
+          "text": "They are, and I am here if you need to talk about anything.",
+          "translation": {
+            "fa": "همین‌طور است؛ اگر لازم داشتی دربارهٔ هر چیزی حرف بزنی، من کنارتم.",
+            "en": "They are, and I am here if you need to talk about anything."
+          }
+        },
+        "takeaway": {
+          "fa": "hope و پیش‌بینی گفت‌وگو را از تضمین نتیجه جدا کن.",
+          "en": "Distinguish hope and a character’s prediction from a guaranteed outcome."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هدف یادداشت و پیشنهاد همراهی",
+              "en": "Purpose and an offer of support"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "so your mind can rest"
+                },
+                {
+                  "text": "so + purpose clause"
+                },
+                {
+                  "fa": "تا ذهنت استراحت کند",
+                  "en": "The reason for the suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "give it a few days"
+                },
+                {
+                  "text": "give + it + time"
+                },
+                {
+                  "fa": "چند روز فرصت بده",
+                  "en": "Allow time"
+                }
+              ],
+              [
+                {
+                  "text": "I am here if you need to talk"
+                },
+                {
+                  "text": "offer + if + need"
+                },
+                {
+                  "fa": "اگر لازم شد حرف بزنی، کنارتم",
+                  "en": "Conditional support"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "middle-night",
+        "text": "in the middle of the night",
+        "pronunciation": {
+          "faReading": "این ذِ میدِل اَو ذِ نایت",
+          "ipa": "/ɪn ðə ˈmɪdəl əv ðə naɪt/"
+        },
+        "meaning": {
+          "fa": "در میانهٔ شب",
+          "en": "In the middle of the night"
+        },
+        "context": {
+          "fa": "دورهٔ بیدارشدن سارا در این اواخر.",
+          "en": "The period when Sara has recently been waking."
+        },
+        "example": {
+          "text": "I have been waking up in the middle of the night lately.",
+          "translation": {
+            "fa": "این اواخر نیمه‌شب از خواب بیدار می‌شوم.",
+            "en": "I have been waking up in the middle of the night lately."
+          }
+        }
+      },
+      {
+        "id": "fall-asleep",
+        "text": "fall asleep again",
+        "pronunciation": {
+          "faReading": "فال اِسْلیپ اِگِن",
+          "ipa": "/fɔl əˈslip əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره به خواب رفتن",
+          "en": "Fall asleep again"
+        },
+        "context": {
+          "fa": "در جمله با cannot آمده: دوباره خوابش نمی‌برد.",
+          "en": "Occurs after cannot: Sara cannot return to sleep."
+        },
+        "example": {
+          "text": "I wake up at three in the morning and cannot fall asleep again.",
+          "translation": {
+            "fa": "ساعت سه صبح بیدار می‌شوم و دیگر خوابم نمی‌برد.",
+            "en": "I wake up at three in the morning and cannot fall asleep again."
+          }
+        }
+      },
+      {
+        "id": "tried-listening",
+        "text": "Have you tried listening to calm music",
+        "pronunciation": {
+          "faReading": "هَو یو تْراید لیسِنینگ تو کام میوزیک",
+          "ipa": "/hæv ju traɪd ˈlɪsənɪŋ tə kɑm ˈmjuzɪk/"
+        },
+        "meaning": {
+          "fa": "موسیقی آرام گوش‌دادن را امتحان کرده‌ای؟",
+          "en": "Have you tried listening to calm music?"
+        },
+        "context": {
+          "fa": "پرسش دربارهٔ یک روش امتحان‌شده، نه تضمین درمان.",
+          "en": "Asks about trying a method, not a guaranteed treatment."
+        },
+        "example": {
+          "text": "Have you tried listening to calm music before you sleep?",
+          "translation": {
+            "fa": "امتحان کرده‌ای پیش از خواب موسیقی آرام گوش بدهی؟",
+            "en": "Have you tried listening to calm music before you sleep?"
+          }
+        }
+      },
+      {
+        "id": "write-down",
+        "text": "write your tasks down before bed",
+        "pronunciation": {
+          "faReading": "رایت یور تَسکس داون بی‌فور بِد",
+          "ipa": "/raɪt jʊr tæsks daʊn bɪˈfɔr bɛd/"
+        },
+        "meaning": {
+          "fa": "پیش از خواب کارهایت را یادداشت کن",
+          "en": "Write your tasks down before bed"
+        },
+        "context": {
+          "fa": "پیشنهاد تازه برای درگیرنبودن ذهن با کار فردا.",
+          "en": "A new suggestion about tomorrow’s tasks occupying the mind."
+        },
+        "example": {
+          "text": "Perhaps you should write your tasks down before bed, so your mind can rest.",
+          "translation": {
+            "fa": "شاید بهتر باشد قبل از خواب کارهایت را بنویسی تا ذهنت بتواند استراحت کند.",
+            "en": "Perhaps you should write your tasks down before bed, so your mind can rest."
+          }
+        }
+      },
+      {
+        "id": "cut-down",
+        "text": "cut down on coffee",
+        "pronunciation": {
+          "faReading": "کَت داون آن کافی",
+          "ipa": "/kʌt daʊn ɑn ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "مصرف قهوه را کم کردن",
+          "en": "Cut down on coffee"
+        },
+        "context": {
+          "fa": "کاهش مصرف است، نه الزاماً قطع کامل آن.",
+          "en": "Means reducing, not necessarily stopping completely."
+        },
+        "example": {
+          "text": "That is a good idea, and I will also cut down on coffee in the afternoon.",
+          "translation": {
+            "fa": "فکر خوبی است؛ مصرف قهوه در بعدازظهر را هم کم می‌کنم.",
+            "en": "That is a good idea, and I will also cut down on coffee in the afternoon."
+          }
+        }
+      },
+      {
+        "id": "give-days",
+        "text": "give it a few days",
+        "pronunciation": {
+          "faReading": "گیو ایت اِ فیو دِیز",
+          "ipa": "/ɡɪv ɪt ə fju deɪz/"
+        },
+        "meaning": {
+          "fa": "چند روز به آن فرصت بده",
+          "en": "Give it a few days"
+        },
+        "context": {
+          "fa": "فرصت‌دادن به تغییرها در حرف مونا؛ نسخهٔ پزشکی نیست.",
+          "en": "Mona suggests allowing time; this is dialogue content, not a prescription."
+        },
+        "example": {
+          "text": "Both will help, give it a few days and see how you feel.",
+          "translation": {
+            "fa": "هر دو کمک می‌کنند؛ چند روز به آن فرصت بده و ببین چه احساسی داری.",
+            "en": "Both will help, give it a few days and see how you feel."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف این صحبت چیست؟",
+          "en": "What is the purpose of this conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گفتن مشکل خواب و بررسی تغییرهای روزمره",
+              "en": "Discussing a sleep problem and possible routine changes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هماهنگی شیفت کاری شب",
+              "en": "Arranging a night work shift"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انتخاب موسیقی برای مهمانی",
+              "en": "Choosing party music"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا مشکل بیدارشدن را می‌گوید و مونا پیشنهادهایی مطرح می‌کند.",
+          "en": "Sara describes waking at night and Mona offers suggestions."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t06",
+          "t07"
+        ]
+      },
+      {
+        "id": "waking",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سارا چه ساعتی از خواب بیدار می‌شود؟",
+          "en": "At what time does Sara wake?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نیمه‌شب دقیقاً دوازده",
+              "en": "Exactly midnight"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سه صبح",
+              "en": "Three in the morning"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شش صبح",
+              "en": "Six in the morning"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "سارا می‌گوید at three in the morning.",
+          "en": "Sara says at three in the morning."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "concern",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "ذهن سارا درگیر چیست؟",
+          "en": "What occupies Sara’s mind?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قیمت خرید خانه",
+              "en": "The price of buying a house"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنامهٔ تعطیلات دوستان",
+              "en": "Friends’ holiday plans"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کارهای روز بعد",
+              "en": "The next day’s work"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "او می‌گوید my mind keeps thinking about the work of the next day.",
+          "en": "She says my mind keeps thinking about the work of the next day."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "write",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مونا چه چیزی را برای قبل از خواب پیشنهاد می‌دهد؟",
+          "en": "What does Mona suggest doing before bed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نوشتن کارها",
+              "en": "Writing down tasks"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "نوشیدن قهوه",
+              "en": "Drinking coffee"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شروع کارهای فردا",
+              "en": "Starting tomorrow’s work"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "write your tasks down before bed پیشنهاد تازهٔ موناست.",
+          "en": "Write your tasks down before bed is Mona’s new suggestion."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "coffee",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سارا می‌خواهد چه تغییری در مصرف قهوه بدهد؟",
+          "en": "What change does Sara intend to make to coffee consumption?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط شب‌ها بیشتر بنوشد.",
+              "en": "Drink more only at night."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قهوهٔ بعدازظهر را کم کند.",
+              "en": "Reduce afternoon coffee."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "صبحانه را با قهوه عوض کند.",
+              "en": "Replace breakfast with coffee."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "سارا می‌گوید cut down on coffee in the afternoon.",
+          "en": "Sara says cut down on coffee in the afternoon."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2537 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s02",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "ساعت چند است؟",
+    "en": "What Time Is It?"
+  },
+  "objective": {
+    "fa": "ساعت فعلی، زمان جلسهٔ نیما و مدت پیاده‌روی تا دفتر را پیدا کن.",
+    "en": "Identify the current time, Nima’s meeting time, and the walk’s duration to the office."
+  },
+  "speakers": [
+    {
+      "id": "nima",
+      "name": "Nima",
+      "gender": "man"
+    },
+    {
+      "id": "farhad",
+      "name": "Farhad",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nima",
+      "text": "Excuse me, do you have the time, please?",
+      "translation": {
+        "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+        "en": "Excuse me, do you have the time, please?"
+      },
+      "tokens": [
+        {
+          "surface": "Excuse",
+          "gloss": {
+            "fa": "ببخشید",
+            "en": "excuse; in excuse me"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "بخشی از «ساعت را دانستن»",
+            "en": "have; part of have the time, know the clock time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "بخشی از «ساعت را دانستن»",
+            "en": "part of have the time; know what time it is"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "بخشی از «ساعت را دانستن»",
+            "en": "part of have the time; know what time it is"
+          }
+        },
+        {
+          "surface": "please?",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "farhad",
+      "text": "Yes, it is nine thirty in the morning.",
+      "translation": {
+        "fa": "بله، ساعت نه‌ونیم صبح است.",
+        "en": "Yes, it is nine thirty in the morning."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در گفتن ساعت جدا ترجمه نمی‌شود",
+            "en": "it; introduces a clock time"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "nine",
+          "gloss": {
+            "fa": "نه",
+            "en": "nine; 9"
+          }
+        },
+        {
+          "surface": "thirty",
+          "gloss": {
+            "fa": "سی",
+            "en": "thirty; 30"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "morning.",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nima",
+      "text": "Thank you, my watch stopped working this morning.",
+      "translation": {
+        "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+        "en": "Thank you, my watch stopped working this morning."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "watch",
+          "gloss": {
+            "fa": "ساعت مچی",
+            "en": "watch; a clock worn on the wrist"
+          }
+        },
+        {
+          "surface": "stopped",
+          "gloss": {
+            "fa": "از کار افتاد؛ متوقف شد",
+            "en": "stopped; ceased doing something"
+          }
+        },
+        {
+          "surface": "working",
+          "gloss": {
+            "fa": "کار کردن",
+            "en": "working; doing work"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "morning.",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "farhad",
+      "text": "That is annoying, do you need to get somewhere at a certain time?",
+      "translation": {
+        "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+        "en": "That is annoying, do you need to get somewhere at a certain time?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "annoying,",
+          "gloss": {
+            "fa": "آزاردهنده",
+            "en": "annoying; causing irritation"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز داشتن",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "رسیدن",
+            "en": "get; arrive at a place"
+          }
+        },
+        {
+          "surface": "somewhere",
+          "gloss": {
+            "fa": "جایی",
+            "en": "somewhere; a place not named"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; before a particular time"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "certain",
+          "gloss": {
+            "fa": "معین؛ مشخص",
+            "en": "certain; particular, not necessarily sure"
+          }
+        },
+        {
+          "surface": "time?",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nima",
+      "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+      "translation": {
+        "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+        "en": "Yes, I have a meeting at ten, so I still have half an hour."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "meeting",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; before a clock time"
+          }
+        },
+        {
+          "surface": "ten,",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس",
+            "en": "so; introduces the result"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "still",
+          "gloss": {
+            "fa": "هنوز",
+            "en": "still; continuing to have time now"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "half",
+          "gloss": {
+            "fa": "بخشی از «ساعت شش‌ونیم»",
+            "en": "part of half past six; six thirty"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "hour.",
+          "gloss": {
+            "fa": "ساعت؛ مدت شصت دقیقه",
+            "en": "hour; sixty minutes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "farhad",
+      "text": "Do not worry, the office is only a five-minute walk from here.",
+      "translation": {
+        "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+        "en": "Do not worry, the office is only a five-minute walk from here."
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "برای گفتن «نگران نباش»",
+            "en": "do; helps make do not worry negative"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "worry,",
+          "gloss": {
+            "fa": "نگران بودن",
+            "en": "worry; feel anxious"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "office",
+          "gloss": {
+            "fa": "اداره؛ دفتر کار",
+            "en": "office; a workplace for desk work"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "five-minute",
+          "gloss": {
+            "fa": "پنج‌دقیقه‌ای",
+            "en": "five-minute; lasting five minutes"
+          }
+        },
+        {
+          "surface": "walk",
+          "gloss": {
+            "fa": "مسافت پیاده‌روی",
+            "en": "walk; a distance traveled on foot"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nima",
+      "text": "That is perfect, thank you for your help.",
+      "translation": {
+        "fa": "عالی است؛ ممنون بابت کمکت.",
+        "en": "That is perfect, thank you for your help."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "perfect,",
+          "gloss": {
+            "fa": "عالی؛ کاملاً مناسب",
+            "en": "perfect; exactly right"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "بابت؛ دلیل تشکر",
+            "en": "for; the reason for thanks"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "help.",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "farhad",
+      "text": "You are welcome, good luck with your meeting.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+        "en": "You are welcome, good luck with your meeting."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "خواهش می‌کنم",
+            "en": "welcome; in you are welcome, replies to thanks"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "luck",
+          "gloss": {
+            "fa": "شانس؛ بخت",
+            "en": "luck; good fortune"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "meeting.",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "excuse",
+        "text": "Excuse",
+        "pronunciation": {
+          "faReading": "ایکسکیوز",
+          "ipa": "/ɪkˈskjuz/"
+        },
+        "meaning": {
+          "fa": "ببخشید",
+          "en": "excuse; in excuse me"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت را دانستن»",
+          "en": "have; part of have the time, know the clock time"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت را دانستن»",
+          "en": "part of have the time; know what time it is"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت را دانستن»",
+          "en": "part of have the time; know what time it is"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در گفتن ساعت جدا ترجمه نمی‌شود",
+          "en": "it; introduces a clock time"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "nine",
+        "text": "nine",
+        "pronunciation": {
+          "faReading": "ناین",
+          "ipa": "/naɪn/"
+        },
+        "meaning": {
+          "fa": "نه",
+          "en": "nine; 9"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "thirty",
+        "text": "thirty",
+        "pronunciation": {
+          "faReading": "ثِرتی",
+          "ipa": "/ˈθɝti/"
+        },
+        "meaning": {
+          "fa": "سی",
+          "en": "thirty; 30"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "the-base",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "watch",
+        "text": "watch",
+        "pronunciation": {
+          "faReading": "واچ",
+          "ipa": "/wɑtʃ/"
+        },
+        "meaning": {
+          "fa": "ساعت مچی",
+          "en": "watch; a clock worn on the wrist"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "stopped",
+        "text": "stopped",
+        "pronunciation": {
+          "faReading": "سْتاپت",
+          "ipa": "/stɑpt/"
+        },
+        "meaning": {
+          "fa": "از کار افتاد؛ متوقف شد",
+          "en": "stopped; ceased doing something"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "working",
+        "text": "working",
+        "pronunciation": {
+          "faReading": "وِرکینگ",
+          "ipa": "/ˈwɝkɪŋ/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "working; doing work"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "annoying",
+        "text": "annoying",
+        "pronunciation": {
+          "faReading": "اِنوی‌اینگ",
+          "ipa": "/əˈnɔɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "آزاردهنده",
+          "en": "annoying; causing irritation"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "رسیدن",
+          "en": "get; arrive at a place"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "somewhere",
+        "text": "somewhere",
+        "pronunciation": {
+          "faReading": "سَم‌وِر",
+          "ipa": "/ˈsʌmwɛr/"
+        },
+        "meaning": {
+          "fa": "جایی",
+          "en": "somewhere; a place not named"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در ساعتِ",
+          "en": "at; before a particular time"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "certain",
+        "text": "certain",
+        "pronunciation": {
+          "faReading": "سِرتِن",
+          "ipa": "/ˈsɝtən/"
+        },
+        "meaning": {
+          "fa": "معین؛ مشخص",
+          "en": "certain; particular, not necessarily sure"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "time-base",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "That is annoying, do you need to get somewhere at a certain time?",
+          "translation": {
+            "fa": "چه آزاردهنده؛ لازم است ساعت مشخصی جایی باشی؟",
+            "en": "That is annoying, do you need to get somewhere at a certain time?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "have-base",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "meeting",
+        "text": "meeting",
+        "pronunciation": {
+          "faReading": "میتینگ",
+          "ipa": "/ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "جلسه",
+          "en": "meeting; people coming together to discuss work"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "at-time",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در ساعتِ",
+          "en": "at; before a clock time"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس",
+          "en": "so; introduces the result"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "هنوز",
+          "en": "still; continuing to have time now"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "half",
+        "text": "half",
+        "pronunciation": {
+          "faReading": "هَف",
+          "ipa": "/hæf/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت شش‌ونیم»",
+          "en": "part of half past six; six thirty"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "hour",
+        "text": "hour",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "ساعت؛ مدت شصت دقیقه",
+          "en": "hour; sixty minutes"
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        }
+      },
+      {
+        "id": "do-negative",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "برای گفتن «نگران نباش»",
+          "en": "do; helps make do not worry negative"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "worry",
+        "text": "worry",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈwɝi/"
+        },
+        "meaning": {
+          "fa": "نگران بودن",
+          "en": "worry; feel anxious"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "office",
+        "text": "office",
+        "pronunciation": {
+          "faReading": "آفیس",
+          "ipa": "/ˈɔfɪs/"
+        },
+        "meaning": {
+          "fa": "اداره؛ دفتر کار",
+          "en": "office; a workplace for desk work"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "five-minute",
+        "text": "five-minute",
+        "pronunciation": {
+          "faReading": "فایو مینِت",
+          "ipa": "/ˌfaɪv ˈmɪnɪt/"
+        },
+        "meaning": {
+          "fa": "پنج‌دقیقه‌ای",
+          "en": "five-minute; lasting five minutes"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "walk",
+        "text": "walk",
+        "pronunciation": {
+          "faReading": "واک",
+          "ipa": "/wɔk/"
+        },
+        "meaning": {
+          "fa": "مسافت پیاده‌روی",
+          "en": "walk; a distance traveled on foot"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly right"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است؛ ممنون بابت کمکت.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "بابت؛ دلیل تشکر",
+          "en": "for; the reason for thanks"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است؛ ممنون بابت کمکت.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است؛ ممنون بابت کمکت.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "That is perfect, thank you for your help.",
+          "translation": {
+            "fa": "عالی است؛ ممنون بابت کمکت.",
+            "en": "That is perfect, thank you for your help."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "welcome; in you are welcome, replies to thanks"
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      },
+      {
+        "id": "luck",
+        "text": "luck",
+        "pronunciation": {
+          "faReading": "لاک",
+          "ipa": "/lʌk/"
+        },
+        "meaning": {
+          "fa": "شانس؛ بخت",
+          "en": "luck; good fortune"
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "asking-time",
+        "title": {
+          "fa": "پرسیدن ساعت با ادب",
+          "en": "Politely asking the time"
+        },
+        "explanation": {
+          "fa": "Excuse me برای جلب توجه مؤدبانه است. Do you have the time? اینجا ساعت را می‌پرسد، نه اینکه «وقت آزاد داری؟». برای پاسخ بگو It is و ساعت؛ nine thirty یعنی نه‌ونیم.",
+          "en": "Excuse me politely gets attention. Do you have the time? asks what time it is, not whether someone has free time. Answer with It is and the clock time; nine thirty means half past nine."
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        },
+        "takeaway": {
+          "fa": "have the time را در این بافت یک سؤال آماده دربارهٔ ساعت یاد بگیر.",
+          "en": "Learn have the time as a ready-made clock-time question here."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن ساعت با ادب",
+              "en": "Politely asking the time"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "do you have the time, please"
+                },
+                {
+                  "text": "do you have the time"
+                },
+                {
+                  "fa": "ممکن است بگویی ساعت چند است",
+                  "en": "A polite clock-time question"
+                }
+              ],
+              [
+                {
+                  "text": "it is nine thirty in the morning"
+                },
+                {
+                  "text": "it is + time + part of day"
+                },
+                {
+                  "fa": "نه‌ونیم صبح است",
+                  "en": "Giving the time"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-watch",
+        "title": {
+          "fa": "گفتن مشکل ساعت مچی",
+          "en": "Explaining a watch problem"
+        },
+        "explanation": {
+          "fa": "My watch stopped working یعنی ساعت مچی‌ام از کار افتاد. stopped دربارهٔ گذشته است و working کارِ متوقف‌شده را نام می‌برد. this morning زمان اتفاق را می‌گوید. watch اینجا اسم ساعت مچی است، نه فعل تماشا کردن.",
+          "en": "My watch stopped working reports a past problem. Stopped is a past action and working names what ceased. This morning tells when. Watch is a wrist clock here, not the action of watching."
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        },
+        "takeaway": {
+          "fa": "stopped working را با هم یاد بگیر: از کار افتاد.",
+          "en": "Learn stopped working together: it no longer worked."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن مشکل ساعت مچی",
+              "en": "Explaining a watch problem"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "my watch stopped working"
+                },
+                {
+                  "text": "thing + stopped + working"
+                },
+                {
+                  "fa": "ساعت مچی‌ام از کار افتاد",
+                  "en": "A past problem"
+                }
+              ],
+              [
+                {
+                  "text": "this morning"
+                },
+                {
+                  "text": "this + morning"
+                },
+                {
+                  "fa": "امروز صبح",
+                  "en": "When it happened"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "need-and-meeting",
+        "title": {
+          "fa": "نیاز به رسیدن و زمان جلسه",
+          "en": "Needing to arrive for a meeting"
+        },
+        "explanation": {
+          "fa": "need to get somewhere یعنی لازم است به جایی برسی. get اینجا رسیدن است. I have a meeting at ten یعنی ساعت ده جلسه دارم؛ have اینجا داشتن برنامه است، نه همان سؤال آمادهٔ have the time.",
+          "en": "Need to get somewhere means there is a reason to arrive at a place. Get means arrive here. I have a meeting at ten describes a scheduled event; have differs from the ready-made have the time question."
+        },
+        "example": {
+          "text": "Yes, I have a meeting at ten, so I still have half an hour.",
+          "translation": {
+            "fa": "بله، ساعت ده جلسه دارم؛ پس هنوز نیم ساعت وقت دارم.",
+            "en": "Yes, I have a meeting at ten, so I still have half an hour."
+          }
+        },
+        "takeaway": {
+          "fa": "at ten ساعت جلسه را می‌گوید، نه مدت آن.",
+          "en": "At ten gives the meeting’s time, not its duration."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نیاز به رسیدن و زمان جلسه",
+              "en": "Needing to arrive for a meeting"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "do you need to get somewhere"
+                },
+                {
+                  "text": "need to + action"
+                },
+                {
+                  "fa": "لازم است جایی برسی",
+                  "en": "A question about necessity"
+                }
+              ],
+              [
+                {
+                  "text": "I have a meeting at ten"
+                },
+                {
+                  "text": "have + event + at + time"
+                },
+                {
+                  "fa": "ساعت ده جلسه دارم",
+                  "en": "A scheduled event"
+                }
+              ],
+              [
+                {
+                  "text": "I still have half an hour"
+                },
+                {
+                  "text": "still have + time available"
+                },
+                {
+                  "fa": "هنوز نیم ساعت وقت دارم",
+                  "en": "Remaining time"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "walking-duration",
+        "title": {
+          "fa": "راه پنج‌دقیقه‌ای",
+          "en": "A five-minute walk"
+        },
+        "explanation": {
+          "fa": "a five-minute walk یعنی مسافتی که پیاده‌رفتنش پنج دقیقه طول می‌کشد. five-minute پیش از walk یک توصیف است و minute در آن s نمی‌گیرد. from here یعنی از اینجا؛ only یعنی فقط.",
+          "en": "A five-minute walk is a distance taking five minutes on foot. Five-minute describes walk, so minute stays without s in this pattern. From here gives the starting place; only emphasizes how short it is."
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        },
+        "takeaway": {
+          "fa": "پیش از walk بگو five-minute، نه five-minutes.",
+          "en": "Before walk, use five-minute, not five-minutes."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "راه پنج‌دقیقه‌ای",
+              "en": "A five-minute walk"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "only a five-minute walk"
+                },
+                {
+                  "text": "a + five-minute + walk"
+                },
+                {
+                  "fa": "فقط پنج دقیقه پیاده‌روی",
+                  "en": "A short walking distance"
+                }
+              ],
+              [
+                {
+                  "text": "from here"
+                },
+                {
+                  "text": "from + here"
+                },
+                {
+                  "fa": "از اینجا",
+                  "en": "The starting point"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reassurance-and-thanks",
+        "title": {
+          "fa": "آرام‌کردن و تشکر",
+          "en": "Reassurance and thanks"
+        },
+        "explanation": {
+          "fa": "Do not worry یعنی نگران نباش؛ پس از do not از worry استفاده می‌کنیم. Thank you for your help دلیل تشکر را می‌گوید. You are welcome جواب تشکر است و good luck with your meeting آرزوی موفقیت برای جلسه است.",
+          "en": "Do not worry reassures someone; use worry after do not. Thank you for your help names the reason for thanks. You are welcome replies to thanks, and good luck with your meeting wishes someone success."
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        },
+        "takeaway": {
+          "fa": "good luck with + کار، برای آرزوی موفقیت است.",
+          "en": "Use good luck with and an activity to wish someone success."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "آرام‌کردن و تشکر",
+              "en": "Reassurance and thanks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Do not worry"
+                },
+                {
+                  "text": "do not + action"
+                },
+                {
+                  "fa": "نگران نباش",
+                  "en": "Reassurance"
+                }
+              ],
+              [
+                {
+                  "text": "thank you for your help"
+                },
+                {
+                  "text": "thank you for + help"
+                },
+                {
+                  "fa": "ممنون بابت کمکت",
+                  "en": "Thanks"
+                }
+              ],
+              [
+                {
+                  "text": "good luck with your meeting"
+                },
+                {
+                  "text": "good luck with + event"
+                },
+                {
+                  "fa": "امیدوارم جلسه‌ات خوب پیش برود",
+                  "en": "A good wish"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "excuse",
+        "text": "Excuse me",
+        "pronunciation": {
+          "faReading": "ایکسکیوز می",
+          "ipa": "/ɪkˈskjuz mi/"
+        },
+        "meaning": {
+          "fa": "ببخشید",
+          "en": "Excuse me"
+        },
+        "context": {
+          "fa": "برای جلب توجه مؤدبانه پیش از سؤال.",
+          "en": "Politely gets attention before a question."
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "time-question",
+        "text": "do you have the time, please?",
+        "pronunciation": {
+          "faReading": "دو یو هَو ذِ تایم پْلیز",
+          "ipa": "/du ju hæv ðə taɪm pliz/"
+        },
+        "meaning": {
+          "fa": "ممکن است بگویید ساعت چند است؟",
+          "en": "Could you tell me the time?"
+        },
+        "context": {
+          "fa": "دربارهٔ ساعت است، نه وقت آزاد داشتن.",
+          "en": "Asks for clock time, not availability."
+        },
+        "example": {
+          "text": "Excuse me, do you have the time, please?",
+          "translation": {
+            "fa": "ببخشید، ممکن است بگویید ساعت چند است؟",
+            "en": "Excuse me, do you have the time, please?"
+          }
+        }
+      },
+      {
+        "id": "nine-thirty",
+        "text": "nine thirty in the morning",
+        "pronunciation": {
+          "faReading": "ناین ثِرتی این ذِ مورنینگ",
+          "ipa": "/naɪn ˈθɝti ɪn ðə ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "نه‌ونیم صبح",
+          "en": "Nine thirty in the morning"
+        },
+        "context": {
+          "fa": "پاسخ ساعت فعلی.",
+          "en": "The current clock time."
+        },
+        "example": {
+          "text": "Yes, it is nine thirty in the morning.",
+          "translation": {
+            "fa": "بله، ساعت نه‌ونیم صبح است.",
+            "en": "Yes, it is nine thirty in the morning."
+          }
+        }
+      },
+      {
+        "id": "stopped-working",
+        "text": "my watch stopped working",
+        "pronunciation": {
+          "faReading": "مای واچ سْتاپت وِرکینگ",
+          "ipa": "/maɪ wɑtʃ stɑpt ˈwɝkɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساعت مچی‌ام از کار افتاد",
+          "en": "My watch stopped working"
+        },
+        "context": {
+          "fa": "نیما دلیل ساعت پرسیدن را توضیح می‌دهد.",
+          "en": "Nima explains why he needs to ask the time."
+        },
+        "example": {
+          "text": "Thank you, my watch stopped working this morning.",
+          "translation": {
+            "fa": "ممنون؛ ساعت مچی‌ام امروز صبح از کار افتاد.",
+            "en": "Thank you, my watch stopped working this morning."
+          }
+        }
+      },
+      {
+        "id": "no-worry",
+        "text": "Do not worry",
+        "pronunciation": {
+          "faReading": "دو نات وِری",
+          "ipa": "/du nɑt ˈwɝi/"
+        },
+        "meaning": {
+          "fa": "نگران نباش",
+          "en": "Do not worry"
+        },
+        "context": {
+          "fa": "فرهاد به نزدیک‌بودن دفتر اشاره می‌کند و اطمینان می‌دهد.",
+          "en": "Farhad reassures Nima by explaining the office is nearby."
+        },
+        "example": {
+          "text": "Do not worry, the office is only a five-minute walk from here.",
+          "translation": {
+            "fa": "نگران نباش؛ دفتر از اینجا فقط پنج دقیقه پیاده راه است.",
+            "en": "Do not worry, the office is only a five-minute walk from here."
+          }
+        }
+      },
+      {
+        "id": "good-luck",
+        "text": "good luck with your meeting",
+        "pronunciation": {
+          "faReading": "گود لاک ویذ یور میتینگ",
+          "ipa": "/ɡʊd lʌk wɪð jʊr ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "امیدوارم جلسه‌ات خوب پیش برود",
+          "en": "Good luck with your meeting"
+        },
+        "context": {
+          "fa": "آرزوی موفقیت در پایان صحبت.",
+          "en": "A good wish at the close of the exchange."
+        },
+        "example": {
+          "text": "You are welcome, good luck with your meeting.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ امیدوارم جلسه‌ات خوب پیش برود.",
+            "en": "You are welcome, good luck with your meeting."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیما چرا از فرهاد کمک می‌خواهد؟",
+          "en": "Why does Nima ask Farhad for help?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای خرید ساعت تازه",
+              "en": "To buy a new watch"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برای تغییر ساعت جلسه",
+              "en": "To change a meeting time"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برای دانستن ساعت و اطمینان از وقت رسیدن",
+              "en": "To know the time and check he can reach his meeting"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "ساعتش از کار افتاده و جلسهٔ ساعت ده دارد؛ نزدیکی دفتر هم توضیح داده می‌شود.",
+          "en": "His watch stopped and he has a meeting at ten; the office’s proximity is explained."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05",
+          "t06"
+        ]
+      },
+      {
+        "id": "current-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "ساعت فعلی چند است؟",
+          "en": "What time is it now?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نه‌ونیم صبح",
+              "en": "Nine thirty in the morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده صبح",
+              "en": "Ten in the morning"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نه صبح",
+              "en": "Nine in the morning"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "فرهاد می‌گوید it is nine thirty in the morning.",
+          "en": "Farhad says it is nine thirty in the morning."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "meeting",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "جلسهٔ نیما چه ساعتی است؟",
+          "en": "What time is Nima’s meeting?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یازده",
+              "en": "Eleven"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده",
+              "en": "Ten"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نه‌ونیم",
+              "en": "Nine thirty"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "نیما می‌گوید I have a meeting at ten.",
+          "en": "Nima says I have a meeting at ten."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "walk",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیاده تا دفتر چقدر راه است؟",
+          "en": "How long is the walk to the office?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نیم ساعت",
+              "en": "Half an hour"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده دقیقه",
+              "en": "Ten minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پنج دقیقه",
+              "en": "Five minutes"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "a five-minute walk یعنی پنج دقیقه پیاده‌روی.",
+          "en": "A five-minute walk means five minutes on foot."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "watch",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه اتفاقی برای ساعت مچی افتاده است؟",
+          "en": "What happened to the watch?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "امروز صبح از کار افتاده است.",
+              "en": "It stopped working this morning."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دیروز گم شده است.",
+              "en": "It was lost yesterday."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در دفتر جا مانده است.",
+              "en": "It was left at the office."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نیما صریحاً می‌گوید my watch stopped working this morning.",
+          "en": "Nima explicitly says my watch stopped working this morning."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      }
+    ]
+  }
+}

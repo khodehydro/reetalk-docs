@@ -1,0 +1,3001 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s05",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "شنبه تا جمعه نیما",
+    "en": "Nima’s Week"
+  },
+  "objective": {
+    "fa": "کارهای روزهای کاری، شنبه و یکشنبهٔ نیما و پیشنهاد او برای برنامه‌ریزی را تفکیک کن.",
+    "en": "Distinguish Nima’s weekday, Saturday and Sunday activities and his planning advice."
+  },
+  "speakers": [
+    {
+      "id": "nima",
+      "name": "Nima",
+      "gender": "man"
+    },
+    {
+      "id": "sorayya",
+      "name": "Sorayya",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nima",
+      "text": "My week is busy from Monday to Friday with work and classes.",
+      "translation": {
+        "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+        "en": "My week is busy from Monday to Friday with work and classes."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "week",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "busy",
+          "gloss": {
+            "fa": "پرمشغله",
+            "en": "busy; having many things to do"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "Monday",
+          "gloss": {
+            "fa": "دوشنبه",
+            "en": "Monday; the day after Sunday"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "تا؛ انتهای بازهٔ روزها",
+            "en": "to; the end of a from ... to range"
+          }
+        },
+        {
+          "surface": "Friday",
+          "gloss": {
+            "fa": "جمعه",
+            "en": "Friday; the day after Thursday"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "classes.",
+          "gloss": {
+            "fa": "کلاس‌ها",
+            "en": "classes; lessons or learning groups"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sorayya",
+      "text": "What do you do on Saturdays, do you also work?",
+      "translation": {
+        "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+        "en": "What do you do on Saturdays, do you also work?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps form a present question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام می‌دهی",
+            "en": "do; carry out an activity"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "Saturdays,",
+          "gloss": {
+            "fa": "شنبه‌ها",
+            "en": "Saturdays; every Saturday or several Saturdays"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps form a present question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "work?",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nima",
+      "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+      "translation": {
+        "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+        "en": "No, Saturday is for errands, shopping, and visiting my parents."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "Saturday",
+          "gloss": {
+            "fa": "شنبه",
+            "en": "Saturday; the day after Friday"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ اختصاص یک روز",
+            "en": "for; designates what Saturday is used for"
+          }
+        },
+        {
+          "surface": "errands,",
+          "gloss": {
+            "fa": "کارهای بیرون از خانه",
+            "en": "errands; short trips for practical tasks"
+          }
+        },
+        {
+          "surface": "shopping,",
+          "gloss": {
+            "fa": "خرید",
+            "en": "shopping; buying things"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "visiting",
+          "gloss": {
+            "fa": "دیدن؛ دیدار کردن",
+            "en": "visiting; going to see people or places"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "parents.",
+          "gloss": {
+            "fa": "پدر و مادر؛ والدین",
+            "en": "parents; mother and father"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sorayya",
+      "text": "And Sunday, is it the only completely free day?",
+      "translation": {
+        "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+        "en": "And Sunday, is it the only completely free day?"
+      },
+      "tokens": [
+        {
+          "surface": "And",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "Sunday,",
+          "gloss": {
+            "fa": "یکشنبه",
+            "en": "Sunday; the day after Saturday"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ منظور یکشنبه است",
+            "en": "it; refers to Sunday"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "completely",
+          "gloss": {
+            "fa": "کاملاً",
+            "en": "completely; entirely"
+          }
+        },
+        {
+          "surface": "free",
+          "gloss": {
+            "fa": "آزاد؛ بی‌برنامه",
+            "en": "free; without scheduled commitments here"
+          }
+        },
+        {
+          "surface": "day?",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nima",
+      "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+      "translation": {
+        "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+        "en": "Yes, I rest, read, and sometimes go hiking with friends."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "rest,",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        },
+        {
+          "surface": "read,",
+          "gloss": {
+            "fa": "مطالعه می‌کنم",
+            "en": "read; spend time reading written material"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "sometimes",
+          "gloss": {
+            "fa": "گاهی",
+            "en": "sometimes; on some occasions"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "بخشی از «بیرون رفتن»",
+            "en": "part of go out; leave home for a social activity"
+          }
+        },
+        {
+          "surface": "hiking",
+          "gloss": {
+            "fa": "پیاده‌روی در طبیعت",
+            "en": "hiking; walking in the countryside"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "friends.",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sorayya",
+      "text": "That sounds balanced, I should plan my own week better.",
+      "translation": {
+        "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+        "en": "That sounds balanced, I should plan my own week better."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "balanced,",
+          "gloss": {
+            "fa": "متعادل",
+            "en": "balanced; avoiding an excessive emphasis on one side"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ توصیه به خود",
+            "en": "should; advice directed at oneself"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه‌ریزی کنم",
+            "en": "plan; arrange activities in advance, a verb"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "شخصی؛ متعلق به خود",
+            "en": "own; belonging to that person"
+          }
+        },
+        {
+          "surface": "week",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "better.",
+          "gloss": {
+            "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+            "en": "better; an improvement to the plan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nima",
+      "text": "You can start with one fixed activity, then add the rest.",
+      "translation": {
+        "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+        "en": "You can start with one fixed activity, then add the rest."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "start",
+          "gloss": {
+            "fa": "شروع کردن",
+            "en": "start; begin"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "fixed",
+          "gloss": {
+            "fa": "ثابت",
+            "en": "fixed; set and not changing"
+          }
+        },
+        {
+          "surface": "activity,",
+          "gloss": {
+            "fa": "فعالیت",
+            "en": "activity; something you do"
+          }
+        },
+        {
+          "surface": "then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "add",
+          "gloss": {
+            "fa": "اضافه کردن",
+            "en": "add; include something more"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "rest.",
+          "gloss": {
+            "fa": "بقیه؛ فعالیت‌های باقی‌مانده",
+            "en": "rest; the remaining activities, not relaxation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sorayya",
+      "text": "I will try, having a plan makes the week feel shorter.",
+      "translation": {
+        "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+        "en": "I will try, having a plan makes the week feel shorter."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "try,",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "having",
+          "gloss": {
+            "fa": "داشتن؛ نام یک وضعیت",
+            "en": "having; the state of possessing a plan"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه",
+            "en": "plan; an arrangement for what to do"
+          }
+        },
+        {
+          "surface": "makes",
+          "gloss": {
+            "fa": "باعث می‌شود",
+            "en": "makes; causes the week to feel a certain way"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "week",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "shorter.",
+          "gloss": {
+            "fa": "کوتاه‌تر",
+            "en": "shorter; less long"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "nima",
+      "text": "Exactly, and always leave some room for rest.",
+      "translation": {
+        "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+        "en": "Exactly, and always leave some room for rest."
+      },
+      "tokens": [
+        {
+          "surface": "Exactly,",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "leave",
+          "gloss": {
+            "fa": "گذاشتن؛ باقی گذاشتن",
+            "en": "leave; allow something to remain"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "مقداری؛ چند",
+            "en": "some; an amount or number"
+          }
+        },
+        {
+          "surface": "room",
+          "gloss": {
+            "fa": "جا؛ فرصت در برنامه",
+            "en": "room; available time or capacity, not a bedroom"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "rest.",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sorayya",
+      "text": "Thank you, I feel more organized already.",
+      "translation": {
+        "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+        "en": "Thank you, I feel more organized already."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس می‌کنم",
+            "en": "feel; experience a state"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "organized",
+          "gloss": {
+            "fa": "منظم",
+            "en": "organized; having things arranged clearly"
+          }
+        },
+        {
+          "surface": "already.",
+          "gloss": {
+            "fa": "قبلاً؛ تا همین حالا",
+            "en": "already; before now"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "busy",
+        "text": "busy",
+        "pronunciation": {
+          "faReading": "بیزی",
+          "ipa": "/ˈbɪzi/"
+        },
+        "meaning": {
+          "fa": "پرمشغله",
+          "en": "busy; having many things to do"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "monday",
+        "text": "Monday",
+        "pronunciation": {
+          "faReading": "ماندِی",
+          "ipa": "/ˈmʌndeɪ/"
+        },
+        "meaning": {
+          "fa": "دوشنبه",
+          "en": "Monday; the day after Sunday"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "تا؛ انتهای بازهٔ روزها",
+          "en": "to; the end of a from ... to range"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "friday",
+        "text": "Friday",
+        "pronunciation": {
+          "faReading": "فْرای‌دِی",
+          "ipa": "/ˈfraɪdeɪ/"
+        },
+        "meaning": {
+          "fa": "جمعه",
+          "en": "Friday; the day after Thursday"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "classes",
+        "text": "classes",
+        "pronunciation": {
+          "faReading": "کْلَسِز",
+          "ipa": "/ˈklæsɪz/"
+        },
+        "meaning": {
+          "fa": "کلاس‌ها",
+          "en": "classes; lessons or learning groups"
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps form a present question"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "do-action",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام می‌دهی",
+          "en": "do; carry out an activity"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "saturdays",
+        "text": "Saturdays",
+        "pronunciation": {
+          "faReading": "سَتِردِیز",
+          "ipa": "/ˈsætɚdeɪz/"
+        },
+        "meaning": {
+          "fa": "شنبه‌ها",
+          "en": "Saturdays; every Saturday or several Saturdays"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "What do you do on Saturdays, do you also work?",
+          "translation": {
+            "fa": "شنبه‌ها چه می‌کنی؛ آن روز هم کار می‌کنی؟",
+            "en": "What do you do on Saturdays, do you also work?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "saturday",
+        "text": "Saturday",
+        "pronunciation": {
+          "faReading": "سَتِردِی",
+          "ipa": "/ˈsætɚdeɪ/"
+        },
+        "meaning": {
+          "fa": "شنبه",
+          "en": "Saturday; the day after Friday"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ اختصاص یک روز",
+          "en": "for; designates what Saturday is used for"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "errands",
+        "text": "errands",
+        "pronunciation": {
+          "faReading": "اِرِندز",
+          "ipa": "/ˈɛrəndz/"
+        },
+        "meaning": {
+          "fa": "کارهای بیرون از خانه",
+          "en": "errands; short trips for practical tasks"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "shopping",
+        "text": "shopping",
+        "pronunciation": {
+          "faReading": "شاپینگ",
+          "ipa": "/ˈʃɑpɪŋ/"
+        },
+        "meaning": {
+          "fa": "خرید",
+          "en": "shopping; buying things"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "visiting",
+        "text": "visiting",
+        "pronunciation": {
+          "faReading": "ویزِتینگ",
+          "ipa": "/ˈvɪzɪtɪŋ/"
+        },
+        "meaning": {
+          "fa": "دیدن؛ دیدار کردن",
+          "en": "visiting; going to see people or places"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "parents",
+        "text": "parents",
+        "pronunciation": {
+          "faReading": "پِرِنتس",
+          "ipa": "/ˈpɛrənts/"
+        },
+        "meaning": {
+          "fa": "پدر و مادر؛ والدین",
+          "en": "parents; mother and father"
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "sunday",
+        "text": "Sunday",
+        "pronunciation": {
+          "faReading": "سَندِی",
+          "ipa": "/ˈsʌndeɪ/"
+        },
+        "meaning": {
+          "fa": "یکشنبه",
+          "en": "Sunday; the day after Saturday"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ منظور یکشنبه است",
+          "en": "it; refers to Sunday"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "completely",
+        "text": "completely",
+        "pronunciation": {
+          "faReading": "کِمپْلیتلی",
+          "ipa": "/kəmˈplitli/"
+        },
+        "meaning": {
+          "fa": "کاملاً",
+          "en": "completely; entirely"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "free",
+        "text": "free",
+        "pronunciation": {
+          "faReading": "فْری",
+          "ipa": "/fri/"
+        },
+        "meaning": {
+          "fa": "آزاد؛ بی‌برنامه",
+          "en": "free; without scheduled commitments here"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "rest",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "استراحت؛ استراحت کردن",
+          "en": "rest; relaxation or taking a break"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "read",
+        "text": "read",
+        "pronunciation": {
+          "faReading": "رید",
+          "ipa": "/rid/"
+        },
+        "meaning": {
+          "fa": "مطالعه می‌کنم",
+          "en": "read; spend time reading written material"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "sometimes",
+        "text": "sometimes",
+        "pronunciation": {
+          "faReading": "سَم‌تایمز",
+          "ipa": "/ˈsʌmtaɪmz/"
+        },
+        "meaning": {
+          "fa": "گاهی",
+          "en": "sometimes; on some occasions"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیرون رفتن»",
+          "en": "part of go out; leave home for a social activity"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "hiking",
+        "text": "hiking",
+        "pronunciation": {
+          "faReading": "هایکینگ",
+          "ipa": "/ˈhaɪkɪŋ/"
+        },
+        "meaning": {
+          "fa": "پیاده‌روی در طبیعت",
+          "en": "hiking; walking in the countryside"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "balanced",
+        "text": "balanced",
+        "pronunciation": {
+          "faReading": "بَلِنست",
+          "ipa": "/ˈbælənst/"
+        },
+        "meaning": {
+          "fa": "متعادل",
+          "en": "balanced; avoiding an excessive emphasis on one side"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ توصیه به خود",
+          "en": "should; advice directed at oneself"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "plan",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی کنم",
+          "en": "plan; arrange activities in advance, a verb"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "own",
+        "text": "own",
+        "pronunciation": {
+          "faReading": "اُوْن",
+          "ipa": "/oʊn/"
+        },
+        "meaning": {
+          "fa": "شخصی؛ متعلق به خود",
+          "en": "own; belonging to that person"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+          "en": "better; an improvement to the plan"
+        },
+        "example": {
+          "text": "That sounds balanced, I should plan my own week better.",
+          "translation": {
+            "fa": "متعادل به نظر می‌رسد؛ من هم باید هفتهٔ خودم را بهتر برنامه‌ریزی کنم.",
+            "en": "That sounds balanced, I should plan my own week better."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "start",
+        "text": "start",
+        "pronunciation": {
+          "faReading": "سْتارت",
+          "ipa": "/stɑrt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن",
+          "en": "start; begin"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "fixed",
+        "text": "fixed",
+        "pronunciation": {
+          "faReading": "فیکست",
+          "ipa": "/fɪkst/"
+        },
+        "meaning": {
+          "fa": "ثابت",
+          "en": "fixed; set and not changing"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "activity",
+        "text": "activity",
+        "pronunciation": {
+          "faReading": "اَکتیوِتی",
+          "ipa": "/ækˈtɪvəti/"
+        },
+        "meaning": {
+          "fa": "فعالیت",
+          "en": "activity; something you do"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "add",
+        "text": "add",
+        "pronunciation": {
+          "faReading": "اَد",
+          "ipa": "/æd/"
+        },
+        "meaning": {
+          "fa": "اضافه کردن",
+          "en": "add; include something more"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "rest-remainder",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "بقیه؛ فعالیت‌های باقی‌مانده",
+          "en": "rest; the remaining activities, not relaxation"
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "having",
+        "text": "having",
+        "pronunciation": {
+          "faReading": "هَوینگ",
+          "ipa": "/ˈhævɪŋ/"
+        },
+        "meaning": {
+          "fa": "داشتن؛ نام یک وضعیت",
+          "en": "having; the state of possessing a plan"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "plan-base",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه",
+          "en": "plan; an arrangement for what to do"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "makes",
+        "text": "makes",
+        "pronunciation": {
+          "faReading": "مِیکس",
+          "ipa": "/meɪks/"
+        },
+        "meaning": {
+          "fa": "باعث می‌شود",
+          "en": "makes; causes the week to feel a certain way"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "shorter",
+        "text": "shorter",
+        "pronunciation": {
+          "faReading": "شورتِر",
+          "ipa": "/ˈʃɔrtɚ/"
+        },
+        "meaning": {
+          "fa": "کوتاه‌تر",
+          "en": "shorter; less long"
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "Exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "leave",
+        "text": "leave",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/liv/"
+        },
+        "meaning": {
+          "fa": "گذاشتن؛ باقی گذاشتن",
+          "en": "leave; allow something to remain"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an amount or number"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "room",
+        "text": "room",
+        "pronunciation": {
+          "faReading": "روم",
+          "ipa": "/rum/"
+        },
+        "meaning": {
+          "fa": "جا؛ فرصت در برنامه",
+          "en": "room; available time or capacity, not a bedroom"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "for-base",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I feel more organized already.",
+          "translation": {
+            "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+            "en": "Thank you, I feel more organized already."
+          }
+        }
+      },
+      {
+        "id": "feel-feeling",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس می‌کنم",
+          "en": "feel; experience a state"
+        },
+        "example": {
+          "text": "Thank you, I feel more organized already.",
+          "translation": {
+            "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+            "en": "Thank you, I feel more organized already."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "Thank you, I feel more organized already.",
+          "translation": {
+            "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+            "en": "Thank you, I feel more organized already."
+          }
+        }
+      },
+      {
+        "id": "organized",
+        "text": "organized",
+        "pronunciation": {
+          "faReading": "اورگِنایزد",
+          "ipa": "/ˈɔrɡənaɪzd/"
+        },
+        "meaning": {
+          "fa": "منظم",
+          "en": "organized; having things arranged clearly"
+        },
+        "example": {
+          "text": "Thank you, I feel more organized already.",
+          "translation": {
+            "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+            "en": "Thank you, I feel more organized already."
+          }
+        }
+      },
+      {
+        "id": "already",
+        "text": "already",
+        "pronunciation": {
+          "faReading": "آل‌رِدی",
+          "ipa": "/ɔlˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "قبلاً؛ تا همین حالا",
+          "en": "already; before now"
+        },
+        "example": {
+          "text": "Thank you, I feel more organized already.",
+          "translation": {
+            "fa": "ممنون؛ همین الان هم احساس نظم بیشتری می‌کنم.",
+            "en": "Thank you, I feel more organized already."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "week-and-days",
+        "title": {
+          "fa": "تقسیم روزهای هفته",
+          "en": "Dividing up the week"
+        },
+        "explanation": {
+          "fa": "from Monday to Friday یک بازهٔ کاری است؛ تقویم متن را با نام فارسی عنوان عوض نکن. on Saturdays یعنی شنبه‌ها. Sunday به‌عنوان روز کاملاً آزاد معرفی می‌شود، نه هر دو روز آخر هفته.",
+          "en": "From Monday to Friday gives the working range in this dialogue. On Saturdays means recurring Saturdays. Sunday is identified as the completely free day; do not replace the source schedule with a different local calendar."
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        },
+        "takeaway": {
+          "fa": "from ... to ... بازه می‌دهد؛ on پیش از روز می‌آید.",
+          "en": "From ... to ... gives a range; on introduces a day."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تقسیم روزهای هفته",
+              "en": "Dividing up the week"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "from Monday to Friday"
+                },
+                {
+                  "text": "from + day + to + day"
+                },
+                {
+                  "fa": "از دوشنبه تا جمعه",
+                  "en": "The busy working range"
+                }
+              ],
+              [
+                {
+                  "text": "on Saturdays"
+                },
+                {
+                  "text": "on + plural day"
+                },
+                {
+                  "fa": "شنبه‌ها",
+                  "en": "A recurring day"
+                }
+              ],
+              [
+                {
+                  "text": "Saturday is for errands, shopping, and visiting my parents"
+                },
+                {
+                  "text": "day is for + activities"
+                },
+                {
+                  "fa": "شنبه برای کارهای بیرون، خرید و دیدار والدین است",
+                  "en": "The day’s uses"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "activity-lists",
+        "title": {
+          "fa": "فهرست کارها و گاهی",
+          "en": "Activity lists and sometimes"
+        },
+        "explanation": {
+          "fa": "shopping و visiting نام فعالیت‌اند و کنار errands آمده‌اند. در I rest, read, and sometimes go hiking فعل‌ها کارهای معمول را می‌گویند. sometimes یعنی گاهی؛ پس پیاده‌روی در طبیعت هر یکشنبه قطعی نیست.",
+          "en": "Shopping and visiting name activities alongside errands. Rest, read and go hiking describe usual choices. Sometimes limits the frequency, so hiking is not guaranteed every Sunday."
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        },
+        "takeaway": {
+          "fa": "sometimes را به always تبدیل نکن.",
+          "en": "Do not turn sometimes into always."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فهرست کارها و گاهی",
+              "en": "Activity lists and sometimes"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "shopping, and visiting my parents"
+                },
+                {
+                  "text": "activity names with ing"
+                },
+                {
+                  "fa": "خرید و دیدن والدین",
+                  "en": "Activities assigned to Saturday"
+                }
+              ],
+              [
+                {
+                  "text": "I rest, read, and sometimes go hiking"
+                },
+                {
+                  "text": "regular verbs + sometimes"
+                },
+                {
+                  "fa": "استراحت، مطالعه و گاهی طبیعت‌گردی",
+                  "en": "A routine with an occasional activity"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "simple-advice",
+        "title": {
+          "fa": "شروع برنامه‌ریزی با یک کار",
+          "en": "Starting planning with one activity"
+        },
+        "explanation": {
+          "fa": "I should plan ... یعنی بهتر است برنامه بریزم. You can start with one fixed activity راهی ساده پیشنهاد می‌کند؛ then مرحلهٔ بعد را می‌گوید. the rest اینجا بقیهٔ فعالیت‌هاست، ولی room for rest یعنی وقت برای استراحت.",
+          "en": "Should recommends planning, while can start offers a manageable first step. Then orders the next step. The rest means remaining activities, unlike rest in room for rest, which means relaxation."
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        },
+        "takeaway": {
+          "fa": "دو معنی rest را از اطرافش تشخیص بده.",
+          "en": "Use the context to distinguish the two meanings of rest."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "شروع برنامه‌ریزی با یک کار",
+              "en": "Starting planning with one activity"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I should plan my own week better"
+                },
+                {
+                  "text": "should + action"
+                },
+                {
+                  "fa": "بهتر است هفته‌ام را برنامه بریزم",
+                  "en": "Self-advice"
+                }
+              ],
+              [
+                {
+                  "text": "start with one fixed activity, then add the rest"
+                },
+                {
+                  "text": "start with + first step; then + next"
+                },
+                {
+                  "fa": "با یک فعالیت ثابت شروع کن و بقیه را اضافه کن",
+                  "en": "A manageable sequence"
+                }
+              ],
+              [
+                {
+                  "text": "leave some room for rest"
+                },
+                {
+                  "text": "leave + room + for rest"
+                },
+                {
+                  "fa": "جایی برای استراحت بگذار",
+                  "en": "Keep spare capacity"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "having-a-plan",
+        "title": {
+          "fa": "داشتن برنامه و اثر آن",
+          "en": "Having a plan and its effect"
+        },
+        "explanation": {
+          "fa": "having a plan نام یک وضعیت است و در ابتدای جمله آمده. makes the week feel shorter یعنی باعث می‌شود هفته کوتاه‌تر حس شود؛ بعد از makes در این الگو feel بدون to می‌آید. طول واقعی هفته تغییر نمی‌کند.",
+          "en": "Having a plan names a situation as the sentence topic. Makes the week feel shorter describes a perceived effect, not a shorter calendar week. This pattern uses feel without to after makes and the thing affected."
+        },
+        "example": {
+          "text": "I will try, having a plan makes the week feel shorter.",
+          "translation": {
+            "fa": "امتحان می‌کنم؛ داشتن برنامه باعث می‌شود هفته کوتاه‌تر به نظر برسد.",
+            "en": "I will try, having a plan makes the week feel shorter."
+          }
+        },
+        "takeaway": {
+          "fa": "makes + چیزی + feel + توصیف، اثر ذهنی را بیان می‌کند.",
+          "en": "Makes + something + feel + description can express a perceived effect."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "داشتن برنامه و اثر آن",
+              "en": "Having a plan and its effect"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "having a plan"
+                },
+                {
+                  "text": "activity with ing as topic"
+                },
+                {
+                  "fa": "داشتن برنامه",
+                  "en": "The situation being discussed"
+                }
+              ],
+              [
+                {
+                  "text": "makes the week feel shorter"
+                },
+                {
+                  "text": "makes + object + feel + description"
+                },
+                {
+                  "fa": "هفته را کوتاه‌تر حس می‌کند",
+                  "en": "Perceived duration"
+                }
+              ],
+              [
+                {
+                  "text": "I feel more organized already"
+                },
+                {
+                  "text": "feel + description"
+                },
+                {
+                  "fa": "همین الان منظم‌تر حس می‌کنم",
+                  "en": "An immediate impression"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "short-questions",
+        "title": {
+          "fa": "پاسخ کوتاه و تأکید بر آزادی",
+          "en": "Short questions and a free day"
+        },
+        "explanation": {
+          "fa": "And Sunday? سؤال کوتاهی است که از بحث روزهای هفته فهمیده می‌شود. is it the only completely free day? می‌پرسد آیا فقط همان روز کاملاً آزاد است. I will try هم تصمیم به امتحان پیشنهاد قبلی است، نه ادعای ساختن کامل برنامه.",
+          "en": "And Sunday? relies on the earlier discussion for its missing words. The only completely free day asks whether Sunday alone has no commitments. I will try commits to testing the suggestion, not to having already made a full plan."
+        },
+        "example": {
+          "text": "And Sunday, is it the only completely free day?",
+          "translation": {
+            "fa": "و یکشنبه؛ تنها روز کاملاً آزادت است؟",
+            "en": "And Sunday, is it the only completely free day?"
+          }
+        },
+        "takeaway": {
+          "fa": "پاسخ‌های کوتاه را با موضوع نوبت قبل کامل کن.",
+          "en": "Complete short replies using the previous topic."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پاسخ کوتاه و تأکید بر آزادی",
+              "en": "Short questions and a free day"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "And Sunday"
+                },
+                {
+                  "text": "short topic question"
+                },
+                {
+                  "fa": "و یکشنبه چطور",
+                  "en": "A follow-up about another day"
+                }
+              ],
+              [
+                {
+                  "text": "is it the only completely free day"
+                },
+                {
+                  "text": "is + it + description"
+                },
+                {
+                  "fa": "تنها روز کاملاً آزاد است",
+                  "en": "Checking exclusivity"
+                }
+              ],
+              [
+                {
+                  "text": "I will try"
+                },
+                {
+                  "text": "will + try"
+                },
+                {
+                  "fa": "امتحان می‌کنم",
+                  "en": "A future intention"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "work-range",
+        "text": "from Monday to Friday",
+        "pronunciation": {
+          "faReading": "فْرِم ماندِی تو فْرایدِی",
+          "ipa": "/frəm ˈmʌndeɪ tə ˈfraɪdeɪ/"
+        },
+        "meaning": {
+          "fa": "از دوشنبه تا جمعه",
+          "en": "From Monday to Friday"
+        },
+        "context": {
+          "fa": "بازهٔ شلوغی نیما طبق متن است.",
+          "en": "Nima’s busy range as the source states it."
+        },
+        "example": {
+          "text": "My week is busy from Monday to Friday with work and classes.",
+          "translation": {
+            "fa": "هفته‌ام از دوشنبه تا جمعه با کار و کلاس‌ها شلوغ است.",
+            "en": "My week is busy from Monday to Friday with work and classes."
+          }
+        }
+      },
+      {
+        "id": "errands",
+        "text": "Saturday is for errands",
+        "pronunciation": {
+          "faReading": "سَتِردِی ایز فور اِرِندز",
+          "ipa": "/ˈsætɚdeɪ ɪz fɔr ˈɛrəndz/"
+        },
+        "meaning": {
+          "fa": "شنبه برای کارهای بیرون است",
+          "en": "Saturday is for errands"
+        },
+        "context": {
+          "fa": "errands کارهای عملی کوتاه است؛ نوع دقیقشان گفته نشده.",
+          "en": "Errands are practical short trips; the exact tasks are not specified."
+        },
+        "example": {
+          "text": "No, Saturday is for errands, shopping, and visiting my parents.",
+          "translation": {
+            "fa": "نه، شنبه برای کارهای بیرون، خرید و دیدن پدر و مادرم است.",
+            "en": "No, Saturday is for errands, shopping, and visiting my parents."
+          }
+        }
+      },
+      {
+        "id": "hiking",
+        "text": "go hiking with friends",
+        "pronunciation": {
+          "faReading": "گُو هایکینگ ویذ فْرِندز",
+          "ipa": "/ɡoʊ ˈhaɪkɪŋ wɪð frɛndz/"
+        },
+        "meaning": {
+          "fa": "با دوستان به پیاده‌روی در طبیعت رفتن",
+          "en": "Go hiking with friends"
+        },
+        "context": {
+          "fa": "فقط گاهی در یکشنبه‌ها رخ می‌دهد.",
+          "en": "An occasional Sunday activity."
+        },
+        "example": {
+          "text": "Yes, I rest, read, and sometimes go hiking with friends.",
+          "translation": {
+            "fa": "بله، استراحت می‌کنم، کتاب می‌خوانم و گاهی با دوستان به پیاده‌روی در طبیعت می‌روم.",
+            "en": "Yes, I rest, read, and sometimes go hiking with friends."
+          }
+        }
+      },
+      {
+        "id": "fixed-activity",
+        "text": "one fixed activity",
+        "pronunciation": {
+          "faReading": "وان فیکست اَکتیوِتی",
+          "ipa": "/wʌn fɪkst ækˈtɪvəti/"
+        },
+        "meaning": {
+          "fa": "یک فعالیت ثابت",
+          "en": "One fixed activity"
+        },
+        "context": {
+          "fa": "قدم اول پیشنهادی برای برنامه‌ریزی است.",
+          "en": "The suggested first step in planning."
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "add-rest",
+        "text": "then add the rest",
+        "pronunciation": {
+          "faReading": "ذِن اَد ذِ رِست",
+          "ipa": "/ðɛn æd ðə rɛst/"
+        },
+        "meaning": {
+          "fa": "بعد بقیه را اضافه کن",
+          "en": "Then add the rest"
+        },
+        "context": {
+          "fa": "rest اینجا بقیهٔ فعالیت‌هاست، نه استراحت.",
+          "en": "Rest here means remaining activities, not relaxation."
+        },
+        "example": {
+          "text": "You can start with one fixed activity, then add the rest.",
+          "translation": {
+            "fa": "می‌توانی از یک فعالیت ثابت شروع کنی و بعد بقیه را اضافه کنی.",
+            "en": "You can start with one fixed activity, then add the rest."
+          }
+        }
+      },
+      {
+        "id": "room-rest",
+        "text": "leave some room for rest",
+        "pronunciation": {
+          "faReading": "لیو سَم روم فور رِست",
+          "ipa": "/liv sʌm rum fɔr rɛst/"
+        },
+        "meaning": {
+          "fa": "کمی جا برای استراحت بگذار",
+          "en": "Leave some room for rest"
+        },
+        "context": {
+          "fa": "room ظرفیت زمانی است، نه اتاق خانه.",
+          "en": "Room means schedule capacity, not a room in a home."
+        },
+        "example": {
+          "text": "Exactly, and always leave some room for rest.",
+          "translation": {
+            "fa": "دقیقاً؛ همیشه هم جایی برای استراحت بگذار.",
+            "en": "Exactly, and always leave some room for rest."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیما بیشتر چه چیزی را توضیح می‌دهد؟",
+          "en": "What does Nima mainly explain?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "روش رزرو کلاس زبان",
+              "en": "How to book a language class"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنامهٔ یک سفر کاری",
+              "en": "Plans for a work trip"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تقسیم هفته بین کار، کارهای شخصی و استراحت",
+              "en": "Dividing the week among work, errands and rest"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "بازهٔ کار و فعالیت‌های شنبه و یکشنبه را تفکیک می‌کند.",
+          "en": "He distinguishes workdays from Saturday and Sunday activities."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05"
+        ]
+      },
+      {
+        "id": "workdays",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بازهٔ پرمشغلهٔ نیما طبق متن کدام است؟",
+          "en": "What is Nima’s busy range according to the dialogue?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دوشنبه تا جمعه",
+              "en": "Monday to Friday"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شنبه تا چهارشنبه",
+              "en": "Saturday to Wednesday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه‌شنبه تا یکشنبه",
+              "en": "Tuesday to Sunday"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "خود متن from Monday to Friday را می‌گوید.",
+          "en": "The source explicitly says from Monday to Friday."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "saturday",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شنبه برای چه کارهایی است؟",
+          "en": "What is Saturday used for?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط کلاس و جلسه",
+              "en": "Only classes and meetings"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کارهای بیرون، خرید و دیدار والدین",
+              "en": "Errands, shopping and visiting parents"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط استراحت و طبیعت‌گردی",
+              "en": "Only rest and hiking"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "نیما هر سه فعالیت را در پاسخ شنبه نام می‌برد.",
+          "en": "Nima names all three activities in his Saturday answer."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "sunday",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام روز کاملاً آزاد است؟",
+          "en": "Which day is completely free?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "جمعه",
+              "en": "Friday"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شنبه",
+              "en": "Saturday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "یکشنبه",
+              "en": "Sunday"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "ثریا دربارهٔ یکشنبه می‌پرسد و نیما با Yes تأیید می‌کند.",
+          "en": "Sorayya asks about Sunday and Nima confirms with Yes."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "planning",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پیشنهاد شروع برنامه‌ریزی چیست؟",
+          "en": "What is the suggested first step in planning?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شروع از یک فعالیت ثابت",
+              "en": "Start with one fixed activity"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پرکردن همهٔ ساعت‌ها",
+              "en": "Fill every hour"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حذف زمان استراحت",
+              "en": "Remove time for rest"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نیما start with one fixed activity را می‌گوید و بعد اضافه‌کردن بقیه را پیشنهاد می‌کند.",
+          "en": "Nima says start with one fixed activity, then add the rest."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

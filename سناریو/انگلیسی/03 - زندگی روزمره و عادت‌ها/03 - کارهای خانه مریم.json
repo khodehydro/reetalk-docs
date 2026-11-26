@@ -1,0 +1,2776 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s03",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "کارهای خانه مریم",
+    "en": "Maryam’s Household Chores"
+  },
+  "objective": {
+    "fa": "زمان نظافت مریم و کمک همسرش، کارهای وقت‌گیر و ابزار یادآوری مریم را تشخیص بده.",
+    "en": "Identify when Maryam cleans and her husband helps, the longest chores, and Maryam’s reminder tool."
+  },
+  "speakers": [
+    {
+      "id": "maryam",
+      "name": "Maryam",
+      "gender": "woman"
+    },
+    {
+      "id": "niloufar",
+      "name": "Niloufar",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "maryam",
+      "text": "On weekdays I clean the house before going to work.",
+      "translation": {
+        "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+        "en": "On weekdays I clean the house before going to work."
+      },
+      "tokens": [
+        {
+          "surface": "On",
+          "gloss": {
+            "fa": "در؛ برای روزهای هفته",
+            "en": "on; before days of the week"
+          }
+        },
+        {
+          "surface": "weekdays",
+          "gloss": {
+            "fa": "روزهای کاری هفته",
+            "en": "weekdays; days of the working week"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "clean",
+          "gloss": {
+            "fa": "تمیز می‌کنم",
+            "en": "clean; make the house clean"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "going",
+          "gloss": {
+            "fa": "رفتن؛ در حال رفتن",
+            "en": "going; traveling or moving"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ مقصد کار",
+            "en": "to; toward the workplace"
+          }
+        },
+        {
+          "surface": "work.",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "niloufar",
+      "text": "Do you do all the cleaning alone, or does your family help?",
+      "translation": {
+        "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+        "en": "Do you do all the cleaning alone, or does your family help?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام دادن",
+            "en": "do; carry out the cleaning"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه؛ تمام",
+            "en": "all; the whole amount or everyone"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "cleaning",
+          "gloss": {
+            "fa": "نظافت",
+            "en": "cleaning; the activity of making things clean"
+          }
+        },
+        {
+          "surface": "alone,",
+          "gloss": {
+            "fa": "تنها",
+            "en": "alone; without other people"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به سؤال دربارهٔ خانواده",
+            "en": "does; helps ask about one family"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "help?",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "maryam",
+      "text": "My husband helps on weekends, but I do it during the week.",
+      "translation": {
+        "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+        "en": "My husband helps on weekends, but I do it during the week."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "husband",
+          "gloss": {
+            "fa": "شوهر؛ همسر مرد",
+            "en": "husband; a married man in relation to his spouse"
+          }
+        },
+        {
+          "surface": "helps",
+          "gloss": {
+            "fa": "کمک می‌کند",
+            "en": "helps; makes something easier"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "در؛ برای روزهای هفته",
+            "en": "on; before days of the week"
+          }
+        },
+        {
+          "surface": "weekends,",
+          "gloss": {
+            "fa": "آخر هفته‌ها",
+            "en": "weekends; end-of-week breaks"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام می‌دهم",
+            "en": "do; carry out the cleaning"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن کار؛ نظافت",
+            "en": "it; refers to the cleaning"
+          }
+        },
+        {
+          "surface": "during",
+          "gloss": {
+            "fa": "در طولِ",
+            "en": "during; throughout a period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "niloufar",
+      "text": "What chores take you the longest?",
+      "translation": {
+        "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+        "en": "What chores take you the longest?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "chores",
+          "gloss": {
+            "fa": "کارهای خانه",
+            "en": "chores; routine household tasks"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "وقت می‌گیرند",
+            "en": "take; need an amount of time"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "longest?",
+          "gloss": {
+            "fa": "بیشترین مدت",
+            "en": "longest; the most time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "maryam",
+      "text": "Vacuuming and washing the windows, the house is quite big.",
+      "translation": {
+        "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+        "en": "Vacuuming and washing the windows, the house is quite big."
+      },
+      "tokens": [
+        {
+          "surface": "Vacuuming",
+          "gloss": {
+            "fa": "جاروبرقی کشیدن",
+            "en": "vacuuming; cleaning with a vacuum cleaner"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "washing",
+          "gloss": {
+            "fa": "شستن",
+            "en": "washing; cleaning with water"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "windows,",
+          "gloss": {
+            "fa": "پنجره‌ها",
+            "en": "windows; glass openings in walls"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "house",
+          "gloss": {
+            "fa": "خانه",
+            "en": "house; a building where people live"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "quite",
+          "gloss": {
+            "fa": "نسبتاً؛ تا حد زیادی",
+            "en": "quite; to a noticeable degree, with strength depending on context"
+          }
+        },
+        {
+          "surface": "big.",
+          "gloss": {
+            "fa": "بزرگ؛ پرجمعیت",
+            "en": "big; large"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "niloufar",
+      "text": "I always put those tasks off, and they take twice as long later.",
+      "translation": {
+        "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+        "en": "I always put those tasks off, and they take twice as long later."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "put",
+          "gloss": {
+            "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+            "en": "part of put those tasks off; postpone those chores"
+          }
+        },
+        {
+          "surface": "those",
+          "gloss": {
+            "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+            "en": "part of put those tasks off; postpone those chores"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+            "en": "part of put those tasks off; postpone those chores"
+          }
+        },
+        {
+          "surface": "off,",
+          "gloss": {
+            "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+            "en": "part of put those tasks off; postpone those chores"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها؛ کارهای عقب‌افتاده",
+            "en": "they; the postponed tasks"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "وقت می‌گیرند",
+            "en": "take; need an amount of time"
+          }
+        },
+        {
+          "surface": "twice",
+          "gloss": {
+            "fa": "بخشی از «دو برابر طولانی»",
+            "en": "part of twice as long; two times the duration"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "بخشی از «دو برابر طولانی»",
+            "en": "part of twice as long; two times the duration"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "بخشی از «دو برابر طولانی»",
+            "en": "part of twice as long; two times the duration"
+          }
+        },
+        {
+          "surface": "later.",
+          "gloss": {
+            "fa": "دیرتر؛ بعداً",
+            "en": "later; after the present or usual time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "maryam",
+      "text": "I make a small list every day so nothing is forgotten.",
+      "translation": {
+        "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+        "en": "I make a small list every day so nothing is forgotten."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "تهیه می‌کنم؛ می‌نویسم",
+            "en": "make; create a list"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "list",
+          "gloss": {
+            "fa": "فهرست",
+            "en": "list; a written set of items"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "day",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "تا؛ برای اینکه",
+            "en": "so; explains why the list is made"
+          }
+        },
+        {
+          "surface": "nothing",
+          "gloss": {
+            "fa": "هیچ‌چیز",
+            "en": "nothing; not anything"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "بخشی از «فراموش نشود»",
+            "en": "is; with forgotten, says nothing gets missed"
+          }
+        },
+        {
+          "surface": "forgotten.",
+          "gloss": {
+            "fa": "فراموش‌شده",
+            "en": "forgotten; not remembered"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "niloufar",
+      "text": "That is a smart habit, I should do the same.",
+      "translation": {
+        "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+        "en": "That is a smart habit, I should do the same."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "smart",
+          "gloss": {
+            "fa": "هوشمندانه",
+            "en": "smart; sensible and useful"
+          }
+        },
+        {
+          "surface": "habit,",
+          "gloss": {
+            "fa": "عادت",
+            "en": "habit; something done regularly"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است",
+            "en": "should; suggests adopting a habit"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهم",
+            "en": "do; make a daily list too"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "same.",
+          "gloss": {
+            "fa": "همان؛ یکسان",
+            "en": "same; identical or shared"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "on",
+        "text": "On",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "در؛ برای روزهای هفته",
+          "en": "on; before days of the week"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "weekdays",
+        "text": "weekdays",
+        "pronunciation": {
+          "faReading": "ویک‌دِیز",
+          "ipa": "/ˈwikdeɪz/"
+        },
+        "meaning": {
+          "fa": "روزهای کاری هفته",
+          "en": "weekdays; days of the working week"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "clean",
+        "text": "clean",
+        "pronunciation": {
+          "faReading": "کْلین",
+          "ipa": "/klin/"
+        },
+        "meaning": {
+          "fa": "تمیز می‌کنم",
+          "en": "clean; make the house clean"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "house",
+        "text": "house",
+        "pronunciation": {
+          "faReading": "هاوس",
+          "ipa": "/haʊs/"
+        },
+        "meaning": {
+          "fa": "خانه",
+          "en": "house; a building where people live"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "going",
+        "text": "going",
+        "pronunciation": {
+          "faReading": "گُوینگ",
+          "ipa": "/ˈɡoʊɪŋ/"
+        },
+        "meaning": {
+          "fa": "رفتن؛ در حال رفتن",
+          "en": "going; traveling or moving"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ مقصد کار",
+          "en": "to; toward the workplace"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "do-action",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام دادن",
+          "en": "do; carry out the cleaning"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ تمام",
+          "en": "all; the whole amount or everyone"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "cleaning",
+        "text": "cleaning",
+        "pronunciation": {
+          "faReading": "کْلینینگ",
+          "ipa": "/ˈklinɪŋ/"
+        },
+        "meaning": {
+          "fa": "نظافت",
+          "en": "cleaning; the activity of making things clean"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "alone",
+        "text": "alone",
+        "pronunciation": {
+          "faReading": "اِلُون",
+          "ipa": "/əˈloʊn/"
+        },
+        "meaning": {
+          "fa": "تنها",
+          "en": "alone; without other people"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به سؤال دربارهٔ خانواده",
+          "en": "does; helps ask about one family"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "My",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "husband",
+        "text": "husband",
+        "pronunciation": {
+          "faReading": "هازبِند",
+          "ipa": "/ˈhʌzbənd/"
+        },
+        "meaning": {
+          "fa": "شوهر؛ همسر مرد",
+          "en": "husband; a married man in relation to his spouse"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "helps",
+        "text": "helps",
+        "pronunciation": {
+          "faReading": "هِلپس",
+          "ipa": "/hɛlps/"
+        },
+        "meaning": {
+          "fa": "کمک می‌کند",
+          "en": "helps; makes something easier"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "weekends",
+        "text": "weekends",
+        "pronunciation": {
+          "faReading": "ویک‌اِندز",
+          "ipa": "/ˈwikɛndz/"
+        },
+        "meaning": {
+          "fa": "آخر هفته‌ها",
+          "en": "weekends; end-of-week breaks"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "do-action-2",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام می‌دهم",
+          "en": "do; carry out the cleaning"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن کار؛ نظافت",
+          "en": "it; refers to the cleaning"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "during",
+        "text": "during",
+        "pronunciation": {
+          "faReading": "دورینگ",
+          "ipa": "/ˈdʊrɪŋ/"
+        },
+        "meaning": {
+          "fa": "در طولِ",
+          "en": "during; throughout a period"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What chores take you the longest?",
+          "translation": {
+            "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+            "en": "What chores take you the longest?"
+          }
+        }
+      },
+      {
+        "id": "chores",
+        "text": "chores",
+        "pronunciation": {
+          "faReading": "چورز",
+          "ipa": "/tʃɔrz/"
+        },
+        "meaning": {
+          "fa": "کارهای خانه",
+          "en": "chores; routine household tasks"
+        },
+        "example": {
+          "text": "What chores take you the longest?",
+          "translation": {
+            "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+            "en": "What chores take you the longest?"
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "وقت می‌گیرند",
+          "en": "take; need an amount of time"
+        },
+        "example": {
+          "text": "What chores take you the longest?",
+          "translation": {
+            "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+            "en": "What chores take you the longest?"
+          }
+        }
+      },
+      {
+        "id": "longest",
+        "text": "longest",
+        "pronunciation": {
+          "faReading": "لانگِست",
+          "ipa": "/ˈlɔŋɡɪst/"
+        },
+        "meaning": {
+          "fa": "بیشترین مدت",
+          "en": "longest; the most time"
+        },
+        "example": {
+          "text": "What chores take you the longest?",
+          "translation": {
+            "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+            "en": "What chores take you the longest?"
+          }
+        }
+      },
+      {
+        "id": "vacuuming",
+        "text": "Vacuuming",
+        "pronunciation": {
+          "faReading": "وَکیومینگ",
+          "ipa": "/ˈvækjumɪŋ/"
+        },
+        "meaning": {
+          "fa": "جاروبرقی کشیدن",
+          "en": "vacuuming; cleaning with a vacuum cleaner"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "washing",
+        "text": "washing",
+        "pronunciation": {
+          "faReading": "واشینگ",
+          "ipa": "/ˈwɑʃɪŋ/"
+        },
+        "meaning": {
+          "fa": "شستن",
+          "en": "washing; cleaning with water"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "windows",
+        "text": "windows",
+        "pronunciation": {
+          "faReading": "ویندُوز",
+          "ipa": "/ˈwɪndoʊz/"
+        },
+        "meaning": {
+          "fa": "پنجره‌ها",
+          "en": "windows; glass openings in walls"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "quite",
+        "text": "quite",
+        "pronunciation": {
+          "faReading": "کوایت",
+          "ipa": "/kwaɪt/"
+        },
+        "meaning": {
+          "fa": "نسبتاً؛ تا حد زیادی",
+          "en": "quite; to a noticeable degree, with strength depending on context"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "big",
+        "text": "big",
+        "pronunciation": {
+          "faReading": "بیگ",
+          "ipa": "/bɪɡ/"
+        },
+        "meaning": {
+          "fa": "بزرگ؛ پرجمعیت",
+          "en": "big; large"
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "put",
+        "text": "put",
+        "pronunciation": {
+          "faReading": "پوت",
+          "ipa": "/pʊt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+          "en": "part of put those tasks off; postpone those chores"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "those",
+        "text": "those",
+        "pronunciation": {
+          "faReading": "ذُوز",
+          "ipa": "/ðoʊz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+          "en": "part of put those tasks off; postpone those chores"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "tasks",
+        "text": "tasks",
+        "pronunciation": {
+          "faReading": "تَسکس",
+          "ipa": "/tæsks/"
+        },
+        "meaning": {
+          "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+          "en": "part of put those tasks off; postpone those chores"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "off",
+        "text": "off",
+        "pronunciation": {
+          "faReading": "آف",
+          "ipa": "/ɔf/"
+        },
+        "meaning": {
+          "fa": "بخشی از «آن کارها را عقب می‌اندازم»",
+          "en": "part of put those tasks off; postpone those chores"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها؛ کارهای عقب‌افتاده",
+          "en": "they; the postponed tasks"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "twice",
+        "text": "twice",
+        "pronunciation": {
+          "faReading": "توایس",
+          "ipa": "/twaɪs/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دو برابر طولانی»",
+          "en": "part of twice as long; two times the duration"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دو برابر طولانی»",
+          "en": "part of twice as long; two times the duration"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «دو برابر طولانی»",
+          "en": "part of twice as long; two times the duration"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "later",
+        "text": "later",
+        "pronunciation": {
+          "faReading": "لِیتِر",
+          "ipa": "/ˈleɪtɚ/"
+        },
+        "meaning": {
+          "fa": "دیرتر؛ بعداً",
+          "en": "later; after the present or usual time"
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "تهیه می‌کنم؛ می‌نویسم",
+          "en": "make; create a list"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "list",
+        "text": "list",
+        "pronunciation": {
+          "faReading": "لیست",
+          "ipa": "/lɪst/"
+        },
+        "meaning": {
+          "fa": "فهرست",
+          "en": "list; a written set of items"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "تا؛ برای اینکه",
+          "en": "so; explains why the list is made"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "nothing",
+        "text": "nothing",
+        "pronunciation": {
+          "faReading": "ناثینگ",
+          "ipa": "/ˈnʌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "هیچ‌چیز",
+          "en": "nothing; not anything"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "is-forgotten",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "بخشی از «فراموش نشود»",
+          "en": "is; with forgotten, says nothing gets missed"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "forgotten",
+        "text": "forgotten",
+        "pronunciation": {
+          "faReading": "فِرگاتِن",
+          "ipa": "/fɚˈɡɑtən/"
+        },
+        "meaning": {
+          "fa": "فراموش‌شده",
+          "en": "forgotten; not remembered"
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      },
+      {
+        "id": "smart",
+        "text": "smart",
+        "pronunciation": {
+          "faReading": "سْمارت",
+          "ipa": "/smɑrt/"
+        },
+        "meaning": {
+          "fa": "هوشمندانه",
+          "en": "smart; sensible and useful"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      },
+      {
+        "id": "habit",
+        "text": "habit",
+        "pronunciation": {
+          "faReading": "هَبِت",
+          "ipa": "/ˈhæbɪt/"
+        },
+        "meaning": {
+          "fa": "عادت",
+          "en": "habit; something done regularly"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است",
+          "en": "should; suggests adopting a habit"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      },
+      {
+        "id": "do-action-3",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام بدهم",
+          "en": "do; make a daily list too"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      },
+      {
+        "id": "same",
+        "text": "same",
+        "pronunciation": {
+          "faReading": "سِیم",
+          "ipa": "/seɪm/"
+        },
+        "meaning": {
+          "fa": "همان؛ یکسان",
+          "en": "same; identical or shared"
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "weekly-routines",
+        "title": {
+          "fa": "برنامهٔ نظافت در هفته",
+          "en": "Weekly cleaning routines"
+        },
+        "explanation": {
+          "fa": "On weekdays و on weekends روزهای معمول انجام کار را می‌گویند. با I از clean و do استفاده کن؛ با my husband فعل helps می‌آید. but تفاوت کمک آخر هفته و کارِ روزهای هفته را نشان می‌دهد.",
+          "en": "On weekdays and on weekends give regular days. Use clean and do with I; my husband takes helps. But contrasts weekend help with Maryam’s weekday work."
+        },
+        "example": {
+          "text": "My husband helps on weekends, but I do it during the week.",
+          "translation": {
+            "fa": "همسرم آخر هفته‌ها کمک می‌کند، ولی در طول هفته من انجامش می‌دهم.",
+            "en": "My husband helps on weekends, but I do it during the week."
+          }
+        },
+        "takeaway": {
+          "fa": "I do ولی my husband helps؛ s را با شخص جمله هماهنگ کن.",
+          "en": "Say I do but my husband helps."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برنامهٔ نظافت در هفته",
+              "en": "Weekly cleaning routines"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "On weekdays I clean the house"
+                },
+                {
+                  "text": "on weekdays + regular action"
+                },
+                {
+                  "fa": "روزهای کاری خانه را تمیز می‌کنم",
+                  "en": "Weekday routine"
+                }
+              ],
+              [
+                {
+                  "text": "My husband helps on weekends"
+                },
+                {
+                  "text": "person + helps + time"
+                },
+                {
+                  "fa": "همسرم آخر هفته کمک می‌کند",
+                  "en": "A regular helping role"
+                }
+              ],
+              [
+                {
+                  "text": "I do it during the week"
+                },
+                {
+                  "text": "I do + it + time"
+                },
+                {
+                  "fa": "در طول هفته من انجامش می‌دهم",
+                  "en": "It refers to cleaning"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "questions-with-do",
+        "title": {
+          "fa": "دو کاربرد do در یک سؤال",
+          "en": "Two uses of do in one question"
+        },
+        "explanation": {
+          "fa": "Do you do all the cleaning? دو do دارد. اولی به ساخت سؤال کمک می‌کند؛ دومی یعنی انجام دادن. در does your family help، does سؤال را می‌سازد و help ساده می‌ماند.",
+          "en": "Do you do all the cleaning? has two uses of do: the first makes a question and the second means perform. Does your family help uses does to ask about one family and leaves help unchanged."
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        },
+        "takeaway": {
+          "fa": "در یک جمله do می‌تواند هم به پرسیدن کمک کند و هم نام کار باشد.",
+          "en": "Do can help ask a question and also mean perform an activity."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دو کاربرد do در یک سؤال",
+              "en": "Two uses of do in one question"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Do you do all the cleaning alone"
+                },
+                {
+                  "text": "do + you + do + activity"
+                },
+                {
+                  "fa": "همهٔ نظافت را تنهایی انجام می‌دهی",
+                  "en": "Question do and action do"
+                }
+              ],
+              [
+                {
+                  "text": "does your family help"
+                },
+                {
+                  "text": "does + family + help"
+                },
+                {
+                  "fa": "خانواده‌ات کمک می‌کند",
+                  "en": "Help stays without s"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "before-ing",
+        "title": {
+          "fa": "پیش از رفتن و نام کارها",
+          "en": "Before going and naming chores"
+        },
+        "explanation": {
+          "fa": "before going to work یعنی پیش از رفتن سر کار؛ بعد از before در این عبارت going آمده است. Vacuuming و washing نام دو کارند. لازم نیست برای فهمشان یک توضیح طولانی یاد بگیری: جاروبرقی کشیدن و شستن.",
+          "en": "Before going to work uses going after before. Vacuuming and washing name two activities. Learn their practical meanings: cleaning with a vacuum and washing things."
+        },
+        "example": {
+          "text": "Vacuuming and washing the windows, the house is quite big.",
+          "translation": {
+            "fa": "جاروبرقی کشیدن و شستن پنجره‌ها؛ خانه نسبتاً بزرگ است.",
+            "en": "Vacuuming and washing the windows, the house is quite big."
+          }
+        },
+        "takeaway": {
+          "fa": "ing می‌تواند نام یک کار را بسازد.",
+          "en": "An ing form can name an activity."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیش از رفتن و نام کارها",
+              "en": "Before going and naming chores"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "before going to work"
+                },
+                {
+                  "text": "before + activity with ing"
+                },
+                {
+                  "fa": "پیش از رفتن سر کار",
+                  "en": "One activity before another"
+                }
+              ],
+              [
+                {
+                  "text": "Vacuuming and washing the windows"
+                },
+                {
+                  "text": "two activity names joined by and"
+                },
+                {
+                  "fa": "جاروبرقی و شستن پنجره‌ها",
+                  "en": "Naming chores"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "time-comparison",
+        "title": {
+          "fa": "بیشترین وقت و دو برابر وقت",
+          "en": "The most time and twice the time"
+        },
+        "explanation": {
+          "fa": "What chores take you the longest? یعنی کدام کارها بیشترین وقتت را می‌گیرند؟ take اینجا وقت گرفتن است. twice as long یعنی دو برابر طولانی؛ نیلوفر می‌گوید عقب‌انداختن کارها بعداً وقت بیشتری می‌گیرد.",
+          "en": "What chores take you the longest? asks which tasks need the most time. Take means require time here. Twice as long means double the duration; Niloufar says delaying the chores makes them take longer later."
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        },
+        "takeaway": {
+          "fa": "take time یعنی وقت گرفتن؛ twice as long یعنی دو برابر طولانی.",
+          "en": "Take time means require time; twice as long means double the duration."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بیشترین وقت و دو برابر وقت",
+              "en": "The most time and twice the time"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What chores take you the longest"
+                },
+                {
+                  "text": "what chores + take + longest"
+                },
+                {
+                  "fa": "کدام کارها بیشترین وقت را می‌گیرند",
+                  "en": "Asking about duration"
+                }
+              ],
+              [
+                {
+                  "text": "they take twice as long later"
+                },
+                {
+                  "text": "take + twice as long"
+                },
+                {
+                  "fa": "بعداً دو برابر وقت می‌گیرند",
+                  "en": "Comparing duration"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "put-off",
+        "title": {
+          "fa": "عقب‌انداختن کارها",
+          "en": "Putting chores off"
+        },
+        "explanation": {
+          "fa": "put those tasks off یعنی آن کارها را عقب می‌اندازم. put و off را اینجا یک عبارت بدان؛ فقط گذاشتن چیزی روی میز نیست. those tasks میان دو بخش آمده و به کارهای جاروبرقی و پنجره‌ها برمی‌گردد.",
+          "en": "Put those tasks off means postpone the chores. Learn put and off together rather than reading put literally. Those tasks comes between the two parts and refers back to vacuuming and window washing."
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        },
+        "takeaway": {
+          "fa": "put ... off را برای عقب‌انداختن یک کار یاد بگیر.",
+          "en": "Use put ... off for postponing something."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عقب‌انداختن کارها",
+              "en": "Putting chores off"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "put those tasks off"
+                },
+                {
+                  "text": "put + tasks + off"
+                },
+                {
+                  "fa": "آن کارها را عقب می‌اندازم",
+                  "en": "Postponing chores"
+                }
+              ],
+              [
+                {
+                  "text": "I always put those tasks off"
+                },
+                {
+                  "text": "always + put ... off"
+                },
+                {
+                  "fa": "همیشه آن‌ها را عقب می‌اندازم",
+                  "en": "A repeated habit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "list-and-purpose",
+        "title": {
+          "fa": "فهرست برای فراموش‌نکردن",
+          "en": "A list so nothing is missed"
+        },
+        "explanation": {
+          "fa": "so nothing is forgotten یعنی تا هیچ‌چیز فراموش نشود. فعلاً این بخش را یک الگوی آماده برای دلیل نوشتن فهرست یاد بگیر. I should do the same یعنی بهتر است من هم همین کار را بکنم؛ منظور تهیهٔ فهرست است.",
+          "en": "So nothing is forgotten explains why Maryam makes a list. Learn it as a useful phrase here. I should do the same suggests copying that habit: making a daily list."
+        },
+        "example": {
+          "text": "I make a small list every day so nothing is forgotten.",
+          "translation": {
+            "fa": "هر روز فهرست کوچکی می‌نویسم تا هیچ‌چیز فراموش نشود.",
+            "en": "I make a small list every day so nothing is forgotten."
+          }
+        },
+        "takeaway": {
+          "fa": "the same به عادت نوشتن فهرست برمی‌گردد.",
+          "en": "The same refers back to making a list."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فهرست برای فراموش‌نکردن",
+              "en": "A list so nothing is missed"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I make a small list every day"
+                },
+                {
+                  "text": "make + list + every day"
+                },
+                {
+                  "fa": "هر روز فهرست می‌نویسم",
+                  "en": "A reminder habit"
+                }
+              ],
+              [
+                {
+                  "text": "so nothing is forgotten"
+                },
+                {
+                  "text": "so + nothing is forgotten"
+                },
+                {
+                  "fa": "تا هیچ‌چیز فراموش نشود",
+                  "en": "The purpose of the list"
+                }
+              ],
+              [
+                {
+                  "text": "I should do the same"
+                },
+                {
+                  "text": "should + do the same"
+                },
+                {
+                  "fa": "من هم بهتر است همین کار را بکنم",
+                  "en": "Adopting the habit"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "weekdays",
+        "text": "On weekdays",
+        "pronunciation": {
+          "faReading": "آن ویک‌دِیز",
+          "ipa": "/ɑn ˈwikdeɪz/"
+        },
+        "meaning": {
+          "fa": "روزهای کاری هفته",
+          "en": "On weekdays"
+        },
+        "context": {
+          "fa": "زمان معمول نظافت مریم.",
+          "en": "Maryam’s usual cleaning days."
+        },
+        "example": {
+          "text": "On weekdays I clean the house before going to work.",
+          "translation": {
+            "fa": "روزهای کاری هفته، پیش از رفتن به سر کار خانه را تمیز می‌کنم.",
+            "en": "On weekdays I clean the house before going to work."
+          }
+        }
+      },
+      {
+        "id": "all-cleaning",
+        "text": "all the cleaning alone",
+        "pronunciation": {
+          "faReading": "آل ذِ کْلینینگ اِلُون",
+          "ipa": "/ɔl ðə ˈklinɪŋ əˈloʊn/"
+        },
+        "meaning": {
+          "fa": "همهٔ نظافت به‌تنهایی",
+          "en": "All the cleaning alone"
+        },
+        "context": {
+          "fa": "دربارهٔ تقسیم کار خانه می‌پرسد.",
+          "en": "Asks about the distribution of housework."
+        },
+        "example": {
+          "text": "Do you do all the cleaning alone, or does your family help?",
+          "translation": {
+            "fa": "همهٔ نظافت را تنهایی انجام می‌دهی یا خانواده‌ات کمک می‌کنند؟",
+            "en": "Do you do all the cleaning alone, or does your family help?"
+          }
+        }
+      },
+      {
+        "id": "longest",
+        "text": "take you the longest",
+        "pronunciation": {
+          "faReading": "تِیک یو ذِ لانگِست",
+          "ipa": "/teɪk ju ðə ˈlɔŋɡɪst/"
+        },
+        "meaning": {
+          "fa": "بیشترین وقتت را می‌گیرند",
+          "en": "Take you the longest"
+        },
+        "context": {
+          "fa": "کارهای وقت‌گیر را مقایسه می‌کند.",
+          "en": "Compares which chores need the most time."
+        },
+        "example": {
+          "text": "What chores take you the longest?",
+          "translation": {
+            "fa": "کدام کارهای خانه بیشترین وقتت را می‌گیرند؟",
+            "en": "What chores take you the longest?"
+          }
+        }
+      },
+      {
+        "id": "put-off",
+        "text": "put those tasks off",
+        "pronunciation": {
+          "faReading": "پوت ذُوز تَسکس آف",
+          "ipa": "/pʊt ðoʊz tæsks ɔf/"
+        },
+        "meaning": {
+          "fa": "آن کارها را عقب انداختن",
+          "en": "Put those tasks off"
+        },
+        "context": {
+          "fa": "دربارهٔ تعویق نظافت است، نه جابه‌جاکردن وسایل.",
+          "en": "Means postponing chores, not moving objects."
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "twice-long",
+        "text": "twice as long",
+        "pronunciation": {
+          "faReading": "توایس اَز لانگ",
+          "ipa": "/twaɪs æz lɔŋ/"
+        },
+        "meaning": {
+          "fa": "دو برابر طولانی",
+          "en": "Twice as long"
+        },
+        "context": {
+          "fa": "مدت بیشتر پس از عقب‌انداختن کارها.",
+          "en": "The longer duration after postponement."
+        },
+        "example": {
+          "text": "I always put those tasks off, and they take twice as long later.",
+          "translation": {
+            "fa": "من همیشه آن کارها را عقب می‌اندازم و بعداً دو برابر وقت می‌گیرند.",
+            "en": "I always put those tasks off, and they take twice as long later."
+          }
+        }
+      },
+      {
+        "id": "do-same",
+        "text": "I should do the same",
+        "pronunciation": {
+          "faReading": "آی شود دو ذِ سِیم",
+          "ipa": "/aɪ ʃʊd du ðə seɪm/"
+        },
+        "meaning": {
+          "fa": "من هم بهتر است همین کار را بکنم",
+          "en": "I should do the same"
+        },
+        "context": {
+          "fa": "یعنی نیلوفر هم فهرست روزانه بنویسد.",
+          "en": "Niloufar means she should make a daily list too."
+        },
+        "example": {
+          "text": "That is a smart habit, I should do the same.",
+          "translation": {
+            "fa": "عادت هوشمندانه‌ای است؛ من هم بهتر است همین کار را بکنم.",
+            "en": "That is a smart habit, I should do the same."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر دربارهٔ چه چیزی حرف می‌زنند؟",
+          "en": "What are the speakers discussing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خرید وسایل تازه برای خانه",
+              "en": "Buying new household items"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کارهای خانه و عادت‌های انجام آن‌ها",
+              "en": "Household chores and ways of managing them"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تغییر محل کار خانواده",
+              "en": "Changing the family’s workplace"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "از زمان نظافت، تقسیم کار، تعویق و فهرست روزانه می‌گویند.",
+          "en": "They discuss cleaning times, shared duties, postponement and daily lists."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t06",
+          "t07"
+        ]
+      },
+      {
+        "id": "maryam-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم روزهای کاری چه زمانی نظافت می‌کند؟",
+          "en": "When does Maryam clean on weekdays?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بعد از شام",
+              "en": "After dinner"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پس از کار",
+              "en": "After work"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پیش از رفتن به کار",
+              "en": "Before going to work"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "before going to work زمان نظافت مریم است.",
+          "en": "Before going to work gives Maryam’s cleaning time."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "husband",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "همسر مریم چه زمانی کمک می‌کند؟",
+          "en": "When does Maryam’s husband help?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آخر هفته‌ها",
+              "en": "On weekends"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هر روز صبح",
+              "en": "Every morning"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط دوشنبه‌ها",
+              "en": "Only on Mondays"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مریم می‌گوید My husband helps on weekends.",
+          "en": "Maryam says My husband helps on weekends."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "longest",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام کارها بیشترین وقت را می‌گیرند؟",
+          "en": "Which chores take the longest?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آشپزی و شستن لباس",
+              "en": "Cooking and washing clothes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جاروبرقی و شستن پنجره‌ها",
+              "en": "Vacuuming and washing windows"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خرید و شستن ظرف‌ها",
+              "en": "Shopping and washing dishes"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پاسخ مریم Vacuuming and washing the windows است.",
+          "en": "Maryam answers Vacuuming and washing the windows."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "reminder",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم برای فراموش‌نکردن کارها چه می‌کند؟",
+          "en": "What does Maryam do so nothing is forgotten?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برای خانواده پیام می‌فرستد.",
+              "en": "She messages the family."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "همهٔ کارها را آخر هفته می‌گذارد.",
+              "en": "She leaves all chores for the weekend."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هر روز فهرست کوتاهی می‌نویسد.",
+              "en": "She makes a small list every day."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "I make a small list every day ابزار یادآوری را مشخص می‌کند.",
+          "en": "I make a small list every day identifies her reminder tool."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

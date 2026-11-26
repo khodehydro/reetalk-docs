@@ -1,0 +1,4537 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s11",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "راز روزهای پربار",
+    "en": "The Secret of Productive Days"
+  },
+  "objective": {
+    "fa": "الگوی اولویت‌بندی پویا، راه مواجهه با کار غیرمنتظره و نقش استراحت و نه‌گفتن را تحلیل کن.",
+    "en": "Analyze Poya’s prioritization, his response to unexpected work, and the roles of rest and saying no."
+  },
+  "speakers": [
+    {
+      "id": "poya",
+      "name": "Poya",
+      "gender": "man"
+    },
+    {
+      "id": "mina",
+      "name": "Mina",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "poya",
+      "text": "I have noticed that my most productive days are always well planned.",
+      "translation": {
+        "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+        "en": "I have noticed that my most productive days are always well planned."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء have noticed؛ مشاهده تا اکنون",
+            "en": "have; perfect auxiliary introducing accumulated observation"
+          }
+        },
+        {
+          "surface": "noticed",
+          "gloss": {
+            "fa": "متوجه شده‌ام",
+            "en": "noticed; become aware of"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "که؛ آغاز محتوای مشاهده",
+            "en": "that; introduces the content of noticed"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "most",
+          "gloss": {
+            "fa": "بیشترین؛ برای productive برترین درجه می‌سازد",
+            "en": "most; forms the superlative most productive"
+          }
+        },
+        {
+          "surface": "productive",
+          "gloss": {
+            "fa": "پربار؛ نتیجه‌بخش",
+            "en": "productive; producing useful results"
+          }
+        },
+        {
+          "surface": "days",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "با well planned وضعیت برنامه‌ریزی‌شده را بیان می‌کند",
+            "en": "are; presents the days as well planned"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "well",
+          "gloss": {
+            "fa": "خوب؛ به‌خوبی",
+            "en": "well; in a good way"
+          }
+        },
+        {
+          "surface": "planned.",
+          "gloss": {
+            "fa": "برنامه‌ریزی‌شده",
+            "en": "planned; arranged in advance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "mina",
+      "text": "What is the secret of those days, is it the planning?",
+      "translation": {
+        "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+        "en": "What is the secret of those days, is it the planning?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "secret",
+          "gloss": {
+            "fa": "عامل موفقیت؛ راز",
+            "en": "secret; a proposed explanation of success, not hidden confidential information"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "those",
+          "gloss": {
+            "fa": "آن‌ها؛ آن",
+            "en": "those; more than one thing further away or already mentioned"
+          }
+        },
+        {
+          "surface": "days,",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "planning?",
+          "gloss": {
+            "fa": "برنامه‌ریزی",
+            "en": "planning; deciding what to do"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "poya",
+      "text": "It is, I write my three main tasks in the morning and focus on them.",
+      "translation": {
+        "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+        "en": "It is, I write my three main tasks in the morning and focus on them."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "همین‌طور؛ برنامه‌ریزی عامل آن است",
+            "en": "it; refers back to planning"
+          }
+        },
+        {
+          "surface": "is,",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "نوشتن",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "سه",
+            "en": "three; 3"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "کارها؛ وظیفه‌ها",
+            "en": "tasks; pieces of work to do"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "focus",
+          "gloss": {
+            "fa": "تمرکز کردن",
+            "en": "focus; direct attention toward a topic"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "them.",
+          "gloss": {
+            "fa": "آن‌ها؛ سه کار اصلی",
+            "en": "them; the three main tasks"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "mina",
+      "text": "What if an unexpected task appears during the day?",
+      "translation": {
+        "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+        "en": "What if an unexpected task appears during the day?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "unexpected",
+          "gloss": {
+            "fa": "پیش‌بینی‌نشده",
+            "en": "unexpected; not anticipated"
+          }
+        },
+        {
+          "surface": "task",
+          "gloss": {
+            "fa": "کار؛ وظیفه",
+            "en": "task; a piece of work to do"
+          }
+        },
+        {
+          "surface": "appears",
+          "gloss": {
+            "fa": "پیش می‌آید",
+            "en": "appears; arises or becomes noticeable"
+          }
+        },
+        {
+          "surface": "during",
+          "gloss": {
+            "fa": "در طولِ",
+            "en": "during; throughout a period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "day?",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "poya",
+      "text": "I leave a little time in the afternoon for unexpected things.",
+      "translation": {
+        "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+        "en": "I leave a little time in the afternoon for unexpected things."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "leave",
+          "gloss": {
+            "fa": "گذاشتن؛ باقی گذاشتن",
+            "en": "leave; allow something to remain"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "بخشی از a little؛ کمی وقت",
+            "en": "a; part of a little, a small positive amount"
+          }
+        },
+        {
+          "surface": "little",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "little; small"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "afternoon",
+          "gloss": {
+            "fa": "بعدازظهر",
+            "en": "afternoon; the period after midday"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "unexpected",
+          "gloss": {
+            "fa": "پیش‌بینی‌نشده",
+            "en": "unexpected; not anticipated"
+          }
+        },
+        {
+          "surface": "things.",
+          "gloss": {
+            "fa": "چیزها؛ وسایل",
+            "en": "things; objects or belongings"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "mina",
+      "text": "That sounds realistic, most plans fail because they are too strict.",
+      "translation": {
+        "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+        "en": "That sounds realistic, most plans fail because they are too strict."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "realistic,",
+          "gloss": {
+            "fa": "واقع‌بینانه",
+            "en": "realistic; allowing for actual constraints and uncertainty"
+          }
+        },
+        {
+          "surface": "most",
+          "gloss": {
+            "fa": "بیشترِ؛ اکثرِ",
+            "en": "most; the majority of plans, not a superlative marker"
+          }
+        },
+        {
+          "surface": "plans",
+          "gloss": {
+            "fa": "برنامه‌ها",
+            "en": "plans; arrangements for future activities"
+          }
+        },
+        {
+          "surface": "fail",
+          "gloss": {
+            "fa": "شکست خوردن؛ کار نکردن",
+            "en": "fail; not achieve the intended result"
+          }
+        },
+        {
+          "surface": "because",
+          "gloss": {
+            "fa": "چون؛ زیرا",
+            "en": "because; introduces a reason"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "بیش از حد",
+            "en": "too; excessive rigidity"
+          }
+        },
+        {
+          "surface": "strict.",
+          "gloss": {
+            "fa": "سخت‌گیر",
+            "en": "strict; demanding close obedience to rules"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "poya",
+      "text": "Exactly, a plan should be a guide, not a prison for you.",
+      "translation": {
+        "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+        "en": "Exactly, a plan should be a guide, not a prison for you."
+      },
+      "tokens": [
+        {
+          "surface": "Exactly,",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه",
+            "en": "plan; an arrangement for what to do"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "باید؛ توصیه برای نقش برنامه",
+            "en": "should; a normative recommendation, not a factual description"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "guide,",
+          "gloss": {
+            "fa": "راهنما",
+            "en": "guide; something that directs without rigidly controlling"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "prison",
+          "gloss": {
+            "fa": "زندان؛ استعاره از محدودیت شدید",
+            "en": "prison; metaphor for an inflexible system that traps its user"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "mina",
+      "text": "Do you also plan your rest, or do you work until you are tired?",
+      "translation": {
+        "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+        "en": "Do you also plan your rest, or do you work until you are tired?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسش دربارهٔ عادت",
+            "en": "do; auxiliary for a habitual question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه‌ریزی می‌کنی؛ اینجا فعل است",
+            "en": "plan; arrange rest in advance, a verb here"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "rest,",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسش دربارهٔ عادت",
+            "en": "do; auxiliary for a habitual question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "until",
+          "gloss": {
+            "fa": "تا؛ تا وقتی که",
+            "en": "until; up to a time or event"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "tired?",
+          "gloss": {
+            "fa": "خسته",
+            "en": "tired; needing rest"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "poya",
+      "text": "I plan my rest too, a short walk in the evening clears my mind.",
+      "translation": {
+        "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+        "en": "I plan my rest too, a short walk in the evening clears my mind."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه‌ریزی می‌کنم؛ اینجا فعل است",
+            "en": "plan; arrange in advance, a verb here"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "rest",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "short",
+          "gloss": {
+            "fa": "کوتاه",
+            "en": "short; not long"
+          }
+        },
+        {
+          "surface": "walk",
+          "gloss": {
+            "fa": "پیاده‌روی",
+            "en": "walk; a journey on foot"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "evening",
+          "gloss": {
+            "fa": "عصر؛ اوایل شب",
+            "en": "evening; the later part of the day"
+          }
+        },
+        {
+          "surface": "clears",
+          "gloss": {
+            "fa": "سبک و شفاف می‌کند؛ دربارهٔ ذهن",
+            "en": "clears; reduces mental clutter, not physical cleaning"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "mind.",
+          "gloss": {
+            "fa": "ذهن",
+            "en": "mind; thoughts and awareness"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "mina",
+      "text": "That is wise, work and rest support each other when they are balanced.",
+      "translation": {
+        "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+        "en": "That is wise, work and rest support each other when they are balanced."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "wise,",
+          "gloss": {
+            "fa": "خردمندانه",
+            "en": "wise; showing sound judgment"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "rest",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        },
+        {
+          "surface": "support",
+          "gloss": {
+            "fa": "حمایت؛ حمایت کردن",
+            "en": "support; help or encouragement"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "هر",
+            "en": "each; every one considered separately"
+          }
+        },
+        {
+          "surface": "other",
+          "gloss": {
+            "fa": "دیگر؛ در each other یعنی یکدیگر",
+            "en": "other; in each other, one another"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی؛ زمانی که",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "با balanced وضعیت را توصیف می‌کند",
+            "en": "are; copular be describing balance"
+          }
+        },
+        {
+          "surface": "balanced.",
+          "gloss": {
+            "fa": "متعادل",
+            "en": "balanced; avoiding an excessive emphasis on one side"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "poya",
+      "text": "I have also learned to say no to tasks that do not fit my plan.",
+      "translation": {
+        "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+        "en": "I have also learned to say no to tasks that do not fit my plan."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء have learned؛ مهارت کسب‌شده تا اکنون",
+            "en": "have; perfect auxiliary for a learned present ability"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "learned",
+          "gloss": {
+            "fa": "یاد گرفته‌ام",
+            "en": "learned; gained knowledge or skill"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "say",
+          "gloss": {
+            "fa": "گفتن",
+            "en": "say; express in words"
+          }
+        },
+        {
+          "surface": "no",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ مخاطب نه‌گفتن کارها هستند",
+            "en": "to; preposition marking what is refused"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "کارها؛ وظیفه‌ها",
+            "en": "tasks; pieces of work to do"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "که؛ بند توضیح‌دهندهٔ tasks",
+            "en": "that; subject relative marker describing tasks"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "جزء منفی do not fit",
+            "en": "do; auxiliary negating fit"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "fit",
+          "gloss": {
+            "fa": "جور بودن؛ سازگار بودن",
+            "en": "fit; be compatible with a plan"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "plan.",
+          "gloss": {
+            "fa": "برنامه",
+            "en": "plan; an arrangement for what to do"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "mina",
+      "text": "That is a valuable skill, it protects your energy for what matters.",
+      "translation": {
+        "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+        "en": "That is a valuable skill, it protects your energy for what matters."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "valuable",
+          "gloss": {
+            "fa": "ارزشمند",
+            "en": "valuable; useful or important"
+          }
+        },
+        {
+          "surface": "skill,",
+          "gloss": {
+            "fa": "مهارت",
+            "en": "skill; an ability developed through practice"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "protects",
+          "gloss": {
+            "fa": "محافظت می‌کند",
+            "en": "protects; preserves from harm or depletion"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "energy",
+          "gloss": {
+            "fa": "انرژی",
+            "en": "energy; power used to do work"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "آنچه؛ چیزهایی که اهمیت دارند",
+            "en": "what; fused relative naming the things that matter"
+          }
+        },
+        {
+          "surface": "matters.",
+          "gloss": {
+            "fa": "اهمیت دارد",
+            "en": "matters; is important"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "poya",
+      "text": "It does, and my days feel richer and more meaningful now.",
+      "translation": {
+        "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+        "en": "It does, and my days feel richer and more meaningful now."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "does,",
+          "gloss": {
+            "fa": "محافظت می‌کند؛ جانشین گزارهٔ قبل",
+            "en": "does; substitutes for protects your energy for what matters"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "days",
+          "gloss": {
+            "fa": "روزها",
+            "en": "days; periods of twenty-four hours"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "به نظر می‌رسند؛ تجربهٔ ذهنی روزها",
+            "en": "feel; are experienced as, with richer and more meaningful"
+          }
+        },
+        {
+          "surface": "richer",
+          "gloss": {
+            "fa": "پربارتر",
+            "en": "richer; more rewarding or varied here"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ دیگر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "meaningful",
+          "gloss": {
+            "fa": "معنادار؛ باارزش",
+            "en": "meaningful; having significance rather than being merely routine"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "mina",
+      "text": "Thank you for sharing, I will try this method next week.",
+      "translation": {
+        "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+        "en": "Thank you for sharing, I will try this method next week."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "sharing,",
+          "gloss": {
+            "fa": "در میان گذاشتن",
+            "en": "sharing; telling someone about an experience"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "method",
+          "gloss": {
+            "fa": "روش",
+            "en": "method; a particular way of doing something"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء have noticed؛ مشاهده تا اکنون",
+          "en": "have; perfect auxiliary introducing accumulated observation"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "noticed",
+        "text": "noticed",
+        "pronunciation": {
+          "faReading": "نُوتِست",
+          "ipa": "/ˈnoʊtɪst/"
+        },
+        "meaning": {
+          "fa": "متوجه شده‌ام",
+          "en": "noticed; become aware of"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "که؛ آغاز محتوای مشاهده",
+          "en": "that; introduces the content of noticed"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشترین؛ برای productive برترین درجه می‌سازد",
+          "en": "most; forms the superlative most productive"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "productive",
+        "text": "productive",
+        "pronunciation": {
+          "faReading": "پْرِداکتیو",
+          "ipa": "/prəˈdʌktɪv/"
+        },
+        "meaning": {
+          "fa": "پربار؛ نتیجه‌بخش",
+          "en": "productive; producing useful results"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "days",
+        "text": "days",
+        "pronunciation": {
+          "faReading": "دِیز",
+          "ipa": "/deɪz/"
+        },
+        "meaning": {
+          "fa": "روزها",
+          "en": "days; periods of twenty-four hours"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "با well planned وضعیت برنامه‌ریزی‌شده را بیان می‌کند",
+          "en": "are; presents the days as well planned"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "خوب؛ به‌خوبی",
+          "en": "well; in a good way"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "planned",
+        "text": "planned",
+        "pronunciation": {
+          "faReading": "پْلَند",
+          "ipa": "/plænd/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی‌شده",
+          "en": "planned; arranged in advance"
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "secret",
+        "text": "secret",
+        "pronunciation": {
+          "faReading": "سیکْرِت",
+          "ipa": "/ˈsikrɪt/"
+        },
+        "meaning": {
+          "fa": "عامل موفقیت؛ راز",
+          "en": "secret; a proposed explanation of success, not hidden confidential information"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "those",
+        "text": "those",
+        "pronunciation": {
+          "faReading": "ذُوز",
+          "ipa": "/ðoʊz/"
+        },
+        "meaning": {
+          "fa": "آن‌ها؛ آن",
+          "en": "those; more than one thing further away or already mentioned"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "planning",
+        "text": "planning",
+        "pronunciation": {
+          "faReading": "پْلَنینگ",
+          "ipa": "/ˈplænɪŋ/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی",
+          "en": "planning; deciding what to do"
+        },
+        "example": {
+          "text": "What is the secret of those days, is it the planning?",
+          "translation": {
+            "fa": "راز آن روزها چیست؛ برنامه‌ریزی است؟",
+            "en": "What is the secret of those days, is it the planning?"
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "همین‌طور؛ برنامه‌ریزی عامل آن است",
+          "en": "it; refers back to planning"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "tasks",
+        "text": "tasks",
+        "pronunciation": {
+          "faReading": "تَسکس",
+          "ipa": "/tæsks/"
+        },
+        "meaning": {
+          "fa": "کارها؛ وظیفه‌ها",
+          "en": "tasks; pieces of work to do"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "focus",
+        "text": "focus",
+        "pronunciation": {
+          "faReading": "فُوکِس",
+          "ipa": "/ˈfoʊkəs/"
+        },
+        "meaning": {
+          "fa": "تمرکز کردن",
+          "en": "focus; direct attention toward a topic"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها؛ سه کار اصلی",
+          "en": "them; the three main tasks"
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "unexpected",
+        "text": "unexpected",
+        "pronunciation": {
+          "faReading": "آنیکْسْپِکتِد",
+          "ipa": "/ˌʌnɪkˈspɛktɪd/"
+        },
+        "meaning": {
+          "fa": "پیش‌بینی‌نشده",
+          "en": "unexpected; not anticipated"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "task",
+        "text": "task",
+        "pronunciation": {
+          "faReading": "تَسک",
+          "ipa": "/tæsk/"
+        },
+        "meaning": {
+          "fa": "کار؛ وظیفه",
+          "en": "task; a piece of work to do"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "appears",
+        "text": "appears",
+        "pronunciation": {
+          "faReading": "اِپیرز",
+          "ipa": "/əˈpɪrz/"
+        },
+        "meaning": {
+          "fa": "پیش می‌آید",
+          "en": "appears; arises or becomes noticeable"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "during",
+        "text": "during",
+        "pronunciation": {
+          "faReading": "دورینگ",
+          "ipa": "/ˈdʊrɪŋ/"
+        },
+        "meaning": {
+          "fa": "در طولِ",
+          "en": "during; throughout a period"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "leave",
+        "text": "leave",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/liv/"
+        },
+        "meaning": {
+          "fa": "گذاشتن؛ باقی گذاشتن",
+          "en": "leave; allow something to remain"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "بخشی از a little؛ کمی وقت",
+          "en": "a; part of a little, a small positive amount"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "little",
+        "text": "little",
+        "pronunciation": {
+          "faReading": "لیتِل",
+          "ipa": "/ˈlɪtəl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "little; small"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "afternoon",
+        "text": "afternoon",
+        "pronunciation": {
+          "faReading": "اَفتِرنون",
+          "ipa": "/ˌæftɚˈnun/"
+        },
+        "meaning": {
+          "fa": "بعدازظهر",
+          "en": "afternoon; the period after midday"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "things",
+        "text": "things",
+        "pronunciation": {
+          "faReading": "ثینگْز",
+          "ipa": "/θɪŋz/"
+        },
+        "meaning": {
+          "fa": "چیزها؛ وسایل",
+          "en": "things; objects or belongings"
+        },
+        "example": {
+          "text": "I leave a little time in the afternoon for unexpected things.",
+          "translation": {
+            "fa": "بعدازظهر کمی وقت برای چیزهای غیرمنتظره کنار می‌گذارم.",
+            "en": "I leave a little time in the afternoon for unexpected things."
+          }
+        }
+      },
+      {
+        "id": "that-base",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "realistic",
+        "text": "realistic",
+        "pronunciation": {
+          "faReading": "ری‌اِلیستیک",
+          "ipa": "/ˌriəˈlɪstɪk/"
+        },
+        "meaning": {
+          "fa": "واقع‌بینانه",
+          "en": "realistic; allowing for actual constraints and uncertainty"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "most-quantifier",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشترِ؛ اکثرِ",
+          "en": "most; the majority of plans, not a superlative marker"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "plans",
+        "text": "plans",
+        "pronunciation": {
+          "faReading": "پْلَنز",
+          "ipa": "/plænz/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ها",
+          "en": "plans; arrangements for future activities"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "fail",
+        "text": "fail",
+        "pronunciation": {
+          "faReading": "فِیل",
+          "ipa": "/feɪl/"
+        },
+        "meaning": {
+          "fa": "شکست خوردن؛ کار نکردن",
+          "en": "fail; not achieve the intended result"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "because",
+        "text": "because",
+        "pronunciation": {
+          "faReading": "بی‌کاز",
+          "ipa": "/bɪˈkɔz/"
+        },
+        "meaning": {
+          "fa": "چون؛ زیرا",
+          "en": "because; introduces a reason"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "are-base",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بیش از حد",
+          "en": "too; excessive rigidity"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "strict",
+        "text": "strict",
+        "pronunciation": {
+          "faReading": "سْتْریکت",
+          "ipa": "/strɪkt/"
+        },
+        "meaning": {
+          "fa": "سخت‌گیر",
+          "en": "strict; demanding close obedience to rules"
+        },
+        "example": {
+          "text": "That sounds realistic, most plans fail because they are too strict.",
+          "translation": {
+            "fa": "واقع‌بینانه به نظر می‌رسد؛ بیشتر برنامه‌ها به‌دلیل انعطاف‌ناپذیری زیاد شکست می‌خورند.",
+            "en": "That sounds realistic, most plans fail because they are too strict."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "Exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "a-base",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "plan",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه",
+          "en": "plan; an arrangement for what to do"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "باید؛ توصیه برای نقش برنامه",
+          "en": "should; a normative recommendation, not a factual description"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "guide",
+        "text": "guide",
+        "pronunciation": {
+          "faReading": "گاید",
+          "ipa": "/ɡaɪd/"
+        },
+        "meaning": {
+          "fa": "راهنما",
+          "en": "guide; something that directs without rigidly controlling"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "prison",
+        "text": "prison",
+        "pronunciation": {
+          "faReading": "پْریزِن",
+          "ipa": "/ˈprɪzən/"
+        },
+        "meaning": {
+          "fa": "زندان؛ استعاره از محدودیت شدید",
+          "en": "prison; metaphor for an inflexible system that traps its user"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "Do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسش دربارهٔ عادت",
+          "en": "do; auxiliary for a habitual question"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "plan-verb",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی می‌کنی؛ اینجا فعل است",
+          "en": "plan; arrange rest in advance, a verb here"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "rest",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "استراحت؛ استراحت کردن",
+          "en": "rest; relaxation or taking a break"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "until",
+        "text": "until",
+        "pronunciation": {
+          "faReading": "اَنتیل",
+          "ipa": "/ənˈtɪl/"
+        },
+        "meaning": {
+          "fa": "تا؛ تا وقتی که",
+          "en": "until; up to a time or event"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "tired",
+        "text": "tired",
+        "pronunciation": {
+          "faReading": "تایِرد",
+          "ipa": "/ˈtaɪɚd/"
+        },
+        "meaning": {
+          "fa": "خسته",
+          "en": "tired; needing rest"
+        },
+        "example": {
+          "text": "Do you also plan your rest, or do you work until you are tired?",
+          "translation": {
+            "fa": "برای استراحت هم برنامه می‌ریزی یا تا وقتی خسته شوی کار می‌کنی؟",
+            "en": "Do you also plan your rest, or do you work until you are tired?"
+          }
+        }
+      },
+      {
+        "id": "plan-verb-2",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی می‌کنم؛ اینجا فعل است",
+          "en": "plan; arrange in advance, a verb here"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "too-base",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "short",
+        "text": "short",
+        "pronunciation": {
+          "faReading": "شورت",
+          "ipa": "/ʃɔrt/"
+        },
+        "meaning": {
+          "fa": "کوتاه",
+          "en": "short; not long"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "walk",
+        "text": "walk",
+        "pronunciation": {
+          "faReading": "واک",
+          "ipa": "/wɔk/"
+        },
+        "meaning": {
+          "fa": "پیاده‌روی",
+          "en": "walk; a journey on foot"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ اوایل شب",
+          "en": "evening; the later part of the day"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "clears",
+        "text": "clears",
+        "pronunciation": {
+          "faReading": "کْلیرز",
+          "ipa": "/klɪrz/"
+        },
+        "meaning": {
+          "fa": "سبک و شفاف می‌کند؛ دربارهٔ ذهن",
+          "en": "clears; reduces mental clutter, not physical cleaning"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "mind",
+        "text": "mind",
+        "pronunciation": {
+          "faReading": "مایند",
+          "ipa": "/maɪnd/"
+        },
+        "meaning": {
+          "fa": "ذهن",
+          "en": "mind; thoughts and awareness"
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "wise",
+        "text": "wise",
+        "pronunciation": {
+          "faReading": "وایز",
+          "ipa": "/waɪz/"
+        },
+        "meaning": {
+          "fa": "خردمندانه",
+          "en": "wise; showing sound judgment"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "support",
+        "text": "support",
+        "pronunciation": {
+          "faReading": "سِپورت",
+          "ipa": "/səˈpɔrt/"
+        },
+        "meaning": {
+          "fa": "حمایت؛ حمایت کردن",
+          "en": "support; help or encouragement"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "each; every one considered separately"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ در each other یعنی یکدیگر",
+          "en": "other; in each other, one another"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "are-state",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "با balanced وضعیت را توصیف می‌کند",
+          "en": "are; copular be describing balance"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "balanced",
+        "text": "balanced",
+        "pronunciation": {
+          "faReading": "بَلِنست",
+          "ipa": "/ˈbælənst/"
+        },
+        "meaning": {
+          "fa": "متعادل",
+          "en": "balanced; avoiding an excessive emphasis on one side"
+        },
+        "example": {
+          "text": "That is wise, work and rest support each other when they are balanced.",
+          "translation": {
+            "fa": "خردمندانه است؛ کار و استراحت وقتی متعادل باشند به هم کمک می‌کنند.",
+            "en": "That is wise, work and rest support each other when they are balanced."
+          }
+        }
+      },
+      {
+        "id": "have-perfect",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء have learned؛ مهارت کسب‌شده تا اکنون",
+          "en": "have; perfect auxiliary for a learned present ability"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "learned",
+        "text": "learned",
+        "pronunciation": {
+          "faReading": "لِرند",
+          "ipa": "/lɝnd/"
+        },
+        "meaning": {
+          "fa": "یاد گرفته‌ام",
+          "en": "learned; gained knowledge or skill"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "say",
+        "text": "say",
+        "pronunciation": {
+          "faReading": "سِی",
+          "ipa": "/seɪ/"
+        },
+        "meaning": {
+          "fa": "گفتن",
+          "en": "say; express in words"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "to-recipient",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ مخاطب نه‌گفتن کارها هستند",
+          "en": "to; preposition marking what is refused"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "that-relative",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "که؛ بند توضیح‌دهندهٔ tasks",
+          "en": "that; subject relative marker describing tasks"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "do-negative",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "جزء منفی do not fit",
+          "en": "do; auxiliary negating fit"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "fit",
+        "text": "fit",
+        "pronunciation": {
+          "faReading": "فیت",
+          "ipa": "/fɪt/"
+        },
+        "meaning": {
+          "fa": "جور بودن؛ سازگار بودن",
+          "en": "fit; be compatible with a plan"
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "valuable",
+        "text": "valuable",
+        "pronunciation": {
+          "faReading": "وَلْیوئِبِل",
+          "ipa": "/ˈvæljuəbəl/"
+        },
+        "meaning": {
+          "fa": "ارزشمند",
+          "en": "valuable; useful or important"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "skill",
+        "text": "skill",
+        "pronunciation": {
+          "faReading": "سْکیل",
+          "ipa": "/skɪl/"
+        },
+        "meaning": {
+          "fa": "مهارت",
+          "en": "skill; an ability developed through practice"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "protects",
+        "text": "protects",
+        "pronunciation": {
+          "faReading": "پْرِتِکتس",
+          "ipa": "/prəˈtɛkts/"
+        },
+        "meaning": {
+          "fa": "محافظت می‌کند",
+          "en": "protects; preserves from harm or depletion"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "energy",
+        "text": "energy",
+        "pronunciation": {
+          "faReading": "اِنِرجی",
+          "ipa": "/ˈɛnɚdʒi/"
+        },
+        "meaning": {
+          "fa": "انرژی",
+          "en": "energy; power used to do work"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "what-fused-relative",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "آنچه؛ چیزهایی که اهمیت دارند",
+          "en": "what; fused relative naming the things that matter"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "matters",
+        "text": "matters",
+        "pronunciation": {
+          "faReading": "مَتِرز",
+          "ipa": "/ˈmætɚz/"
+        },
+        "meaning": {
+          "fa": "اهمیت دارد",
+          "en": "matters; is important"
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "محافظت می‌کند؛ جانشین گزارهٔ قبل",
+          "en": "does; substitutes for protects your energy for what matters"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسند؛ تجربهٔ ذهنی روزها",
+          "en": "feel; are experienced as, with richer and more meaningful"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "richer",
+        "text": "richer",
+        "pronunciation": {
+          "faReading": "ریچِر",
+          "ipa": "/ˈrɪtʃɚ/"
+        },
+        "meaning": {
+          "fa": "پربارتر",
+          "en": "richer; more rewarding or varied here"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "meaningful",
+        "text": "meaningful",
+        "pronunciation": {
+          "faReading": "مینینگ‌فُل",
+          "ipa": "/ˈminɪŋfəl/"
+        },
+        "meaning": {
+          "fa": "معنادار؛ باارزش",
+          "en": "meaningful; having significance rather than being merely routine"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "sharing",
+        "text": "sharing",
+        "pronunciation": {
+          "faReading": "شِرینگ",
+          "ipa": "/ˈʃɛrɪŋ/"
+        },
+        "meaning": {
+          "fa": "در میان گذاشتن",
+          "en": "sharing; telling someone about an experience"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "method",
+        "text": "method",
+        "pronunciation": {
+          "faReading": "مِثِد",
+          "ipa": "/ˈmɛθəd/"
+        },
+        "meaning": {
+          "fa": "روش",
+          "en": "method; a particular way of doing something"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Thank you for sharing, I will try this method next week.",
+          "translation": {
+            "fa": "ممنون که در میان گذاشتی؛ هفتهٔ بعد این روش را امتحان می‌کنم.",
+            "en": "Thank you for sharing, I will try this method next week."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "observation-and-planned-state",
+        "title": {
+          "fa": "مشاهده و وضعیت برنامه‌ریزی‌شده",
+          "en": "Observation and the planned state"
+        },
+        "explanation": {
+          "fa": "have noticed یک مشاهدهٔ مرتبط با اکنون را معرفی می‌کند و that محتوای آن را می‌آورد. most productive برترین درجهٔ productive است؛ در مقابل most plans یعنی اکثر برنامه‌ها. well planned وضعیت سازمان‌یافتهٔ روزها را توصیف می‌کند و عامل برنامه‌ریزی صریحاً در همان بند نیامده است.",
+          "en": "Have noticed introduces a present-relevant observation, with that marking its content. Most productive is a superlative, whereas most plans is a quantifier meaning the majority. Well planned describes the organized state of the days without specifying an agent in that clause."
+        },
+        "example": {
+          "text": "I have noticed that my most productive days are always well planned.",
+          "translation": {
+            "fa": "متوجه شده‌ام پربارترین روزهایم همیشه خوب برنامه‌ریزی شده‌اند.",
+            "en": "I have noticed that my most productive days are always well planned."
+          }
+        },
+        "takeaway": {
+          "fa": "most پیش از صفت و most پیش از اسم لزوماً یک نقش ندارند.",
+          "en": "Most before an adjective and most before a noun need not have the same function."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مشاهده و وضعیت برنامه‌ریزی‌شده",
+              "en": "Observation and the planned state"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have noticed that"
+                },
+                {
+                  "text": "have + noticed + content clause"
+                },
+                {
+                  "fa": "متوجه شده‌ام که",
+                  "en": "A present-relevant observation"
+                }
+              ],
+              [
+                {
+                  "text": "my most productive days"
+                },
+                {
+                  "text": "possessive + superlative + noun"
+                },
+                {
+                  "fa": "پربارترین روزهایم",
+                  "en": "Superlative degree"
+                }
+              ],
+              [
+                {
+                  "text": "most plans fail"
+                },
+                {
+                  "text": "most + plural noun"
+                },
+                {
+                  "fa": "بیشتر برنامه‌ها شکست می‌خورند",
+                  "en": "A majority claim"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "contingency-and-buffer",
+        "title": {
+          "fa": "احتمال کار تازه و زمان ذخیره",
+          "en": "Contingencies and buffer time"
+        },
+        "explanation": {
+          "fa": "What if an unexpected task appears? یک احتمال را برای آزمودن برنامه مطرح می‌کند؛ به پاسخ کامل «در آن صورت چه می‌کنی؟» نیاز معنایی دارد. a little time مقدار کمی زمانِ مثبت است و برای کارهای پیش‌بینی‌نشده کنار گذاشته می‌شود.",
+          "en": "What if an unexpected task appears? raises a contingency, implicitly asking what the response would be. A little time indicates a small positive amount reserved for unanticipated work."
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        },
+        "takeaway": {
+          "fa": "برنامهٔ واقع‌بینانه برای پیش‌بینی‌نشده‌ها ظرفیت دارد.",
+          "en": "A realistic plan allows capacity for the unexpected."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "احتمال کار تازه و زمان ذخیره",
+              "en": "Contingencies and buffer time"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What if an unexpected task appears during the day"
+                },
+                {
+                  "text": "what if + present clause"
+                },
+                {
+                  "fa": "اگر کاری ناگهانی پیش بیاید چه",
+                  "en": "A contingency question"
+                }
+              ],
+              [
+                {
+                  "text": "I leave a little time in the afternoon"
+                },
+                {
+                  "text": "leave + small amount + time"
+                },
+                {
+                  "fa": "کمی وقت بعدازظهر کنار می‌گذارم",
+                  "en": "A buffer rather than a full schedule"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "guide-not-prison",
+        "title": {
+          "fa": "راهنما نه زندان",
+          "en": "A guide, not a prison"
+        },
+        "explanation": {
+          "fa": "a plan should be a guide, not a prison با تضاد استعاری نقش برنامه را ارزیابی می‌کند. should توصیهٔ هنجاری است، نه تضمین کارکرد همهٔ برنامه‌ها. too strict زیاده‌روی در سختی را علت شکست معرفی می‌کند؛ این نظر میناست و قانون آماری اثبات‌شده نیست.",
+          "en": "A plan should be a guide, not a prison evaluates planning through contrasting metaphors. Should is normative rather than a factual guarantee. Too strict presents rigidity as a cause of failure in Mina’s view, not as an independently verified statistical law."
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        },
+        "takeaway": {
+          "fa": "guide و prison دو استعاره برای هدایت در برابر اسارت‌اند.",
+          "en": "Guide and prison contrast direction with confinement."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "راهنما نه زندان",
+              "en": "A guide, not a prison"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a plan should be a guide, not a prison"
+                },
+                {
+                  "text": "should be + contrasting noun metaphors"
+                },
+                {
+                  "fa": "برنامه باید راهنما باشد نه زندان",
+                  "en": "A normative metaphor"
+                }
+              ],
+              [
+                {
+                  "text": "because they are too strict"
+                },
+                {
+                  "text": "because + cause clause"
+                },
+                {
+                  "fa": "چون بیش از حد سخت‌اند",
+                  "en": "The speaker’s causal explanation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rest-and-until",
+        "title": {
+          "fa": "استراحت و حد زمانی کار",
+          "en": "Rest and the endpoint of work"
+        },
+        "explanation": {
+          "fa": "Do you also plan your rest, or do you work until you are tired? دو شیوه را مقابل هم می‌گذارد. until پایانِ ادامهٔ کار را مشخص می‌کند. a short walk clears my mind اثر ذهنی پیاده‌روی را با clears استعاری می‌گوید و support each other رابطهٔ دوطرفهٔ کار و استراحت است.",
+          "en": "The question contrasts planned rest with working until tired. Until marks the endpoint of continued work. Clears my mind metaphorically describes a mental effect of walking, and support each other makes the work-rest relation reciprocal."
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        },
+        "takeaway": {
+          "fa": "استراحت برنامه‌ریزی‌شده با توقف فقط پس از خستگی یکسان نیست.",
+          "en": "Planned rest differs from stopping only after fatigue."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "استراحت و حد زمانی کار",
+              "en": "Rest and the endpoint of work"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "work until you are tired"
+                },
+                {
+                  "text": "action + until + clause"
+                },
+                {
+                  "fa": "تا خسته‌شدن کار کردن",
+                  "en": "An endpoint condition"
+                }
+              ],
+              [
+                {
+                  "text": "a short walk in the evening clears my mind"
+                },
+                {
+                  "text": "singular subject + clears"
+                },
+                {
+                  "fa": "پیاده‌روی عصر ذهنم را سبک می‌کند",
+                  "en": "A reported mental benefit"
+                }
+              ],
+              [
+                {
+                  "text": "work and rest support each other"
+                },
+                {
+                  "text": "reciprocal complement"
+                },
+                {
+                  "fa": "کار و استراحت به هم کمک می‌کنند",
+                  "en": "Mutual support"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "refusing-and-relative",
+        "title": {
+          "fa": "نه‌گفتن و کارهای ناسازگار",
+          "en": "Refusal and incompatible tasks"
+        },
+        "explanation": {
+          "fa": "have learned to say no مهارتی کسب‌شده تا اکنون را می‌گوید. در tasks that do not fit my plan، that فاعل بند توصیفی است و قابل حذف مانند ضمیر مفعولی نیست. to در say no to tasks حرف اضافه است، ولی to say نشانۀ مصدر است.",
+          "en": "Have learned to say no presents an acquired ability. In tasks that do not fit my plan, that is the relative-clause subject and cannot simply be omitted like an object relative marker. Prepositional to in say no to tasks differs from infinitival to say."
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        },
+        "takeaway": {
+          "fa": "دو to را تفکیک کن و that فاعلی را حذف نکن.",
+          "en": "Distinguish the two uses of to and retain subject-relative that."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نه‌گفتن و کارهای ناسازگار",
+              "en": "Refusal and incompatible tasks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have also learned to say no"
+                },
+                {
+                  "text": "have learned + to-infinitive"
+                },
+                {
+                  "fa": "یاد گرفته‌ام نه بگویم",
+                  "en": "An acquired skill"
+                }
+              ],
+              [
+                {
+                  "text": "tasks that do not fit my plan"
+                },
+                {
+                  "text": "noun + subject relative clause"
+                },
+                {
+                  "fa": "کارهایی که در برنامه نمی‌گنجند",
+                  "en": "That is the relative subject"
+                }
+              ],
+              [
+                {
+                  "text": "say no to tasks"
+                },
+                {
+                  "text": "say no + prepositional to"
+                },
+                {
+                  "fa": "نه‌گفتن به کارها",
+                  "en": "The target of refusal"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "substitution-and-what",
+        "title": {
+          "fa": "گزارهٔ تکرارنشده و چیزهای مهم",
+          "en": "Substitution and what matters"
+        },
+        "explanation": {
+          "fa": "It does جای protects your energy for what matters را می‌گیرد. what matters یک گروه وابسته به معنی «آنچه اهمیت دارد» است، نه سؤال مستقیم. them در نوبت سوم به سه کار اصلی و it در پاسخ تأییدی ابتدای آن نوبت به برنامه‌ریزی اشاره دارد.",
+          "en": "It does substitutes for protects your energy for what matters. What matters is a fused relative identifying what is important rather than a direct question. Them in the third turn refers to the main tasks, while the initial It is confirms planning as the explanation."
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        },
+        "takeaway": {
+          "fa": "برای بازیابی پاسخ کوتاه، گزارهٔ مرتبط نوبت قبل را پیدا کن.",
+          "en": "Recover a short reply from the relevant preceding proposition."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گزارهٔ تکرارنشده و چیزهای مهم",
+              "en": "Substitution and what matters"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "for what matters"
+                },
+                {
+                  "text": "for + fused relative"
+                },
+                {
+                  "fa": "برای آنچه مهم است",
+                  "en": "The beneficiary or purpose of protected energy"
+                }
+              ],
+              [
+                {
+                  "text": "It does"
+                },
+                {
+                  "text": "does + understood predicate"
+                },
+                {
+                  "fa": "همین‌طور است؛ محافظت می‌کند",
+                  "en": "Predicate substitution"
+                }
+              ],
+              [
+                {
+                  "text": "focus on them"
+                },
+                {
+                  "text": "focus on + pronoun"
+                },
+                {
+                  "fa": "روی آن‌ها تمرکزکردن",
+                  "en": "Them refers to the main tasks"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "experienced-comparison",
+        "title": {
+          "fa": "مقایسهٔ کیفیت روزها",
+          "en": "Comparing the experienced quality of days"
+        },
+        "explanation": {
+          "fa": "feel richer and more meaningful با دو شکل مقایسه‌ای کار می‌کند: richer با er و more meaningful با more. feel اینجا تجربهٔ ذهنی روزها را بیان می‌کند. I will try this method تعهد به آزمودن روش است، نه پذیرش اینکه برای همه به یک شکل جواب می‌دهد.",
+          "en": "Feel richer and more meaningful coordinates an er-comparative with a more-comparative. Feel reports how the days are experienced. I will try this method commits to a trial, not to universal effectiveness."
+        },
+        "example": {
+          "text": "It does, and my days feel richer and more meaningful now.",
+          "translation": {
+            "fa": "همین‌طور است؛ حالا روزهایم پربارتر و معنادارتر به نظر می‌رسند.",
+            "en": "It does, and my days feel richer and more meaningful now."
+          }
+        },
+        "takeaway": {
+          "fa": "مقایسهٔ تجربهٔ شخصی را از تضمین موفقیت روش جدا کن.",
+          "en": "Separate personal comparative experience from guaranteed effectiveness."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقایسهٔ کیفیت روزها",
+              "en": "Comparing the experienced quality of days"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "my days feel richer and more meaningful now"
+                },
+                {
+                  "text": "feel + coordinated comparatives"
+                },
+                {
+                  "fa": "روزها پربارتر و معنادارتر حس می‌شوند",
+                  "en": "Subjective comparative evaluation"
+                }
+              ],
+              [
+                {
+                  "text": "I will try this method next week"
+                },
+                {
+                  "text": "will + try + method + time"
+                },
+                {
+                  "fa": "هفتهٔ بعد روش را امتحان می‌کنم",
+                  "en": "A future trial"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "main-tasks",
+        "text": "my three main tasks",
+        "pronunciation": {
+          "faReading": "مای ثْری مِین تَسکس",
+          "ipa": "/maɪ θri meɪn tæsks/"
+        },
+        "meaning": {
+          "fa": "سه کار اصلی‌ام",
+          "en": "My three main tasks"
+        },
+        "context": {
+          "fa": "اولویت‌های روزانه‌اند؛ به معنی فقط سه کار در تمام روز نیست.",
+          "en": "Daily priorities, not necessarily the only tasks in the whole day."
+        },
+        "example": {
+          "text": "It is, I write my three main tasks in the morning and focus on them.",
+          "translation": {
+            "fa": "همین‌طور است؛ صبح سه کار اصلی‌ام را می‌نویسم و روی آن‌ها تمرکز می‌کنم.",
+            "en": "It is, I write my three main tasks in the morning and focus on them."
+          }
+        }
+      },
+      {
+        "id": "what-if",
+        "text": "What if an unexpected task appears",
+        "pronunciation": {
+          "faReading": "وات ایف اَن آنیکْسْپِکتِد تَسک اِپیرز",
+          "ipa": "/wʌt ɪf ən ˌʌnɪkˈspɛktɪd tæsk əˈpɪrz/"
+        },
+        "meaning": {
+          "fa": "اگر کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+          "en": "What if an unexpected task appears?"
+        },
+        "context": {
+          "fa": "انعطاف‌پذیری روش را با یک احتمال می‌سنجد.",
+          "en": "Tests the method’s flexibility through a contingency."
+        },
+        "example": {
+          "text": "What if an unexpected task appears during the day?",
+          "translation": {
+            "fa": "اگر در طول روز کاری پیش‌بینی‌نشده پیش بیاید چه؟",
+            "en": "What if an unexpected task appears during the day?"
+          }
+        }
+      },
+      {
+        "id": "not-prison",
+        "text": "a guide, not a prison",
+        "pronunciation": {
+          "faReading": "اِ گاید نات اِ پْریزِن",
+          "ipa": "/ə ɡaɪd nɑt ə ˈprɪzən/"
+        },
+        "meaning": {
+          "fa": "راهنما، نه زندان",
+          "en": "A guide, not a prison"
+        },
+        "context": {
+          "fa": "تقابل استعاریِ هدایت و محدودیت افراطی.",
+          "en": "A metaphorical contrast between guidance and excessive constraint."
+        },
+        "example": {
+          "text": "Exactly, a plan should be a guide, not a prison for you.",
+          "translation": {
+            "fa": "دقیقاً؛ برنامه باید راهنما باشد، نه زندان.",
+            "en": "Exactly, a plan should be a guide, not a prison for you."
+          }
+        }
+      },
+      {
+        "id": "clear-mind",
+        "text": "clears my mind",
+        "pronunciation": {
+          "faReading": "کْلیرز مای مایند",
+          "ipa": "/klɪrz maɪ maɪnd/"
+        },
+        "meaning": {
+          "fa": "ذهنم را سبک و شفاف می‌کند",
+          "en": "Clears my mind"
+        },
+        "context": {
+          "fa": "اثر ذهنی پیاده‌روی است، نه پاک‌کردن حافظه.",
+          "en": "The mental effect of a walk, not erasing memory."
+        },
+        "example": {
+          "text": "I plan my rest too, a short walk in the evening clears my mind.",
+          "translation": {
+            "fa": "برای استراحتم هم برنامه دارم؛ پیاده‌روی کوتاه عصر ذهنم را سبک می‌کند.",
+            "en": "I plan my rest too, a short walk in the evening clears my mind."
+          }
+        }
+      },
+      {
+        "id": "say-no",
+        "text": "say no to tasks that do not fit my plan",
+        "pronunciation": {
+          "faReading": "سِی نُو تو تَسکس ذَت دو نات فیت مای پْلَن",
+          "ipa": "/seɪ noʊ tə tæsks ðæt du nɑt fɪt maɪ plæn/"
+        },
+        "meaning": {
+          "fa": "به کارهای ناسازگار با برنامه‌ام نه بگویم",
+          "en": "Say no to tasks that do not fit my plan"
+        },
+        "context": {
+          "fa": "مرزگذاری برای حفظ انرژی، نه رد همهٔ کارهای تازه.",
+          "en": "A boundary to preserve energy, not rejection of every new task."
+        },
+        "example": {
+          "text": "I have also learned to say no to tasks that do not fit my plan.",
+          "translation": {
+            "fa": "همچنین یاد گرفته‌ام به کارهایی که در برنامه‌ام نمی‌گنجند نه بگویم.",
+            "en": "I have also learned to say no to tasks that do not fit my plan."
+          }
+        }
+      },
+      {
+        "id": "what-matters",
+        "text": "for what matters",
+        "pronunciation": {
+          "faReading": "فور وات مَتِرز",
+          "ipa": "/fɔr wʌt ˈmætɚz/"
+        },
+        "meaning": {
+          "fa": "برای آنچه اهمیت دارد",
+          "en": "For what matters"
+        },
+        "context": {
+          "fa": "مقصد صرف انرژی را با یک بند whatدار مشخص می‌کند.",
+          "en": "Uses a what-clause to specify what deserves energy."
+        },
+        "example": {
+          "text": "That is a valuable skill, it protects your energy for what matters.",
+          "translation": {
+            "fa": "مهارت ارزشمندی است؛ انرژی‌ات را برای چیزهای مهم حفظ می‌کند.",
+            "en": "That is a valuable skill, it protects your energy for what matters."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام توصیف بهتر روش پویا را جمع‌بندی می‌کند؟",
+          "en": "Which description best summarizes Poya’s method?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پرکردن تمام زمان‌ها بدون استراحت",
+              "en": "Filling every moment without rest"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "رد همهٔ کارهای پیش‌بینی‌نشده",
+              "en": "Rejecting all unexpected work"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اولویت‌بندی همراه انعطاف، استراحت و مرزبندی",
+              "en": "Prioritization with flexibility, rest and boundaries"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سه کار اصلی، وقت ذخیره، استراحت و نه‌گفتن بخش‌های مکمل روش هستند.",
+          "en": "Main tasks, buffer time, rest and saying no complement each other."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t05",
+          "t09",
+          "t11"
+        ]
+      },
+      {
+        "id": "priorities",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پویا هر صبح چند کار اصلی می‌نویسد؟",
+          "en": "How many main tasks does Poya write each morning?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سه",
+              "en": "Three"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج",
+              "en": "Five"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ده",
+              "en": "Ten"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "my three main tasks تعداد اولویت‌هاست، نه لزوماً تمام کارهای روز.",
+          "en": "My three main tasks counts priorities, not necessarily every task in the day."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "buffer",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برای کارهای پیش‌بینی‌نشده چه می‌کند؟",
+          "en": "What does Poya do about unexpected work?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "همه را بدون بررسی رد می‌کند.",
+              "en": "He rejects all of it without review."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کمی وقت بعدازظهر خالی می‌گذارد.",
+              "en": "He leaves a little afternoon time."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همیشه تا نیمه‌شب کار می‌کند.",
+              "en": "He always works until midnight."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "leave a little time in the afternoon پاسخ مستقیم به What if است.",
+          "en": "Leave a little time in the afternoon directly answers What if."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "rest",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام کار ذهن پویا را سبک می‌کند؟",
+          "en": "What clears Poya’s mind?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تماشای فیلم طولانی هنگام کار",
+              "en": "Watching a long film while working"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حذف استراحت‌ها",
+              "en": "Removing breaks"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پیاده‌روی کوتاه عصر",
+              "en": "A short evening walk"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "او می‌گوید a short walk in the evening clears my mind.",
+          "en": "He says a short walk in the evening clears my mind."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "refusal",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پویا به کدام کارها نه می‌گوید؟",
+          "en": "Which tasks does Poya say no to?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کارهایی که با برنامه‌اش جور نیستند",
+              "en": "Tasks that do not fit his plan"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "همهٔ کارهای همکاران",
+              "en": "All coworkers’ tasks"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط کارهای صبح",
+              "en": "Only morning tasks"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "that do not fit my plan دامنهٔ ردکردن را محدود می‌کند.",
+          "en": "That do not fit my plan limits which tasks are refused."
+        },
+        "evidenceTurnIds": [
+          "t11"
+        ]
+      },
+      {
+        "id": "metaphor",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "تقابل راهنما و زندان چه نکته‌ای دارد؟",
+          "en": "What is the point of the guide-versus-prison contrast?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "برنامه باید هر انتخابی را حذف کند.",
+              "en": "A plan should remove every choice."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنامه باید کمک کند، نه زندگی را سخت و محبوس کند.",
+              "en": "A plan should assist rather than rigidly confine life."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامه‌ریزی همیشه بی‌فایده است.",
+              "en": "Planning is always useless."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "نوبت‌های زمان ذخیره و انعطاف، معنای مثبت guide در برابر prison را روشن می‌کنند.",
+          "en": "Buffer time and flexibility clarify guide as supportive rather than prison-like constraint."
+        },
+        "evidenceTurnIds": [
+          "t05",
+          "t06",
+          "t07"
+        ]
+      }
+    ]
+  }
+}

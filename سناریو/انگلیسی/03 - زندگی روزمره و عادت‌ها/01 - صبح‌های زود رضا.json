@@ -1,0 +1,2582 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s01",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "صبح‌های زود رضا",
+    "en": "Reza’s Early Mornings"
+  },
+  "objective": {
+    "fa": "زمان بیدارشدن رضا، مدت دویدن او و برنامهٔ مشترک بعدی را تشخیص بده.",
+    "en": "Identify Reza’s waking time, how long he runs, and the next shared plan."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "mona",
+      "name": "Mona",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "I wake up early every morning, at about six o'clock.",
+      "translation": {
+        "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+        "en": "I wake up early every morning, at about six o'clock."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "wake",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "early",
+          "gloss": {
+            "fa": "زود",
+            "en": "early; before the usual time"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعتِ",
+            "en": "at; before a clock time"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "o'clock.",
+          "gloss": {
+            "fa": "بخشی از گفتن ساعت کامل",
+            "en": "o'clock; used after the number for an exact hour"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "mona",
+      "text": "That is early, do you like waking up so early?",
+      "translation": {
+        "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+        "en": "That is early, do you like waking up so early?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "early,",
+          "gloss": {
+            "fa": "زود",
+            "en": "early; before the usual time"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داشتن",
+            "en": "like; enjoy"
+          }
+        },
+        {
+          "surface": "waking",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of waking up; stop sleeping"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of waking up; stop sleeping"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "این‌قدر",
+            "en": "so; to such a degree"
+          }
+        },
+        {
+          "surface": "early?",
+          "gloss": {
+            "fa": "زود",
+            "en": "early; before the usual time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "Yes, I run for half an hour before breakfast.",
+      "translation": {
+        "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+        "en": "Yes, I run for half an hour before breakfast."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "run",
+          "gloss": {
+            "fa": "دویدن",
+            "en": "run; move faster than walking"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "به مدتِ",
+            "en": "for; how long the run lasts"
+          }
+        },
+        {
+          "surface": "half",
+          "gloss": {
+            "fa": "بخشی از «ساعت شش‌ونیم»",
+            "en": "part of half past six; six thirty"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک؛ پیش از صدای واکه",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "hour",
+          "gloss": {
+            "fa": "ساعت؛ مدت شصت دقیقه",
+            "en": "hour; sixty minutes"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "breakfast.",
+          "gloss": {
+            "fa": "صبحانه",
+            "en": "breakfast; the first meal of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "mona",
+      "text": "I prefer to wake up later, I never feel rested in the morning.",
+      "translation": {
+        "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+        "en": "I prefer to wake up later, I never feel rested in the morning."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "prefer",
+          "gloss": {
+            "fa": "ترجیح دادن",
+            "en": "prefer; like one choice more than another"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "wake",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "بخشی از «بیدار شدن»",
+            "en": "part of wake up; stop sleeping"
+          }
+        },
+        {
+          "surface": "later,",
+          "gloss": {
+            "fa": "دیرتر؛ بعداً",
+            "en": "later; after the present or usual time"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "never",
+          "gloss": {
+            "fa": "هرگز؛ هیچ‌وقت",
+            "en": "never; not at any time"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس می‌کنم",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "rested",
+          "gloss": {
+            "fa": "سرحال پس از استراحت",
+            "en": "rested; refreshed after rest"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "morning.",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "Morning exercise gives me energy for the whole day.",
+      "translation": {
+        "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+        "en": "Morning exercise gives me energy for the whole day."
+      },
+      "tokens": [
+        {
+          "surface": "Morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "exercise",
+          "gloss": {
+            "fa": "ورزش",
+            "en": "exercise; physical activity for health"
+          }
+        },
+        {
+          "surface": "gives",
+          "gloss": {
+            "fa": "می‌دهد",
+            "en": "gives; provides"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "energy",
+          "gloss": {
+            "fa": "انرژی",
+            "en": "energy; power used to do work"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "whole",
+          "gloss": {
+            "fa": "تمام؛ کل",
+            "en": "whole; all of something"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "mona",
+      "text": "Maybe I should try your routine for a week.",
+      "translation": {
+        "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+        "en": "Maybe I should try your routine for a week."
+      },
+      "tokens": [
+        {
+          "surface": "Maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است",
+            "en": "should; suggests trying a routine"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "routine",
+          "gloss": {
+            "fa": "برنامهٔ همیشگی",
+            "en": "routine; a regular pattern of activities"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "به مدتِ",
+            "en": "for; how long the trial lasts"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "You can join me, we can run in the park together.",
+      "translation": {
+        "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+        "en": "You can join me, we can run in the park together."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "join",
+          "gloss": {
+            "fa": "پیوستن؛ همراه شدن",
+            "en": "join; become part of a group"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "run",
+          "gloss": {
+            "fa": "دویدن",
+            "en": "run; move faster than walking"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "park",
+          "gloss": {
+            "fa": "پارک",
+            "en": "park; a public green area"
+          }
+        },
+        {
+          "surface": "together.",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "mona",
+      "text": "That is a good idea, let us start from tomorrow.",
+      "translation": {
+        "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+        "en": "That is a good idea, let us start from tomorrow."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده؛ فکر",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "بخشی از «بیایید؛ بیا»",
+            "en": "part of let us; suggests an action including the speaker"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "بخشی از «بیایید؛ بیا»",
+            "en": "part of let us; suggests an action including the speaker"
+          }
+        },
+        {
+          "surface": "start",
+          "gloss": {
+            "fa": "شروع کردن",
+            "en": "start; begin"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ شروع از فردا",
+            "en": "from; the starting time"
+          }
+        },
+        {
+          "surface": "tomorrow.",
+          "gloss": {
+            "fa": "فردا",
+            "en": "tomorrow; the day after today"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "wake",
+        "text": "wake",
+        "pronunciation": {
+          "faReading": "وِیک",
+          "ipa": "/weɪk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of wake up; stop sleeping"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of wake up; stop sleeping"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "early",
+        "text": "early",
+        "pronunciation": {
+          "faReading": "اِرلی",
+          "ipa": "/ˈɝli/"
+        },
+        "meaning": {
+          "fa": "زود",
+          "en": "early; before the usual time"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در ساعتِ",
+          "en": "at; before a clock time"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "six",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "شش",
+          "en": "six; 6"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "o-clock",
+        "text": "o'clock",
+        "pronunciation": {
+          "faReading": "اِکْلاک",
+          "ipa": "/əˈklɑk/"
+        },
+        "meaning": {
+          "fa": "بخشی از گفتن ساعت کامل",
+          "en": "o'clock; used after the number for an exact hour"
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن",
+          "en": "like; enjoy"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "waking",
+        "text": "waking",
+        "pronunciation": {
+          "faReading": "وِیکینگ",
+          "ipa": "/ˈweɪkɪŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of waking up; stop sleeping"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "up-wake",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیدار شدن»",
+          "en": "part of waking up; stop sleeping"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "این‌قدر",
+          "en": "so; to such a degree"
+        },
+        "example": {
+          "text": "That is early, do you like waking up so early?",
+          "translation": {
+            "fa": "زود است؛ دوست داری این‌قدر زود بیدار شوی؟",
+            "en": "That is early, do you like waking up so early?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "run",
+        "text": "run",
+        "pronunciation": {
+          "faReading": "ران",
+          "ipa": "/rʌn/"
+        },
+        "meaning": {
+          "fa": "دویدن",
+          "en": "run; move faster than walking"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "به مدتِ",
+          "en": "for; how long the run lasts"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "half",
+        "text": "half",
+        "pronunciation": {
+          "faReading": "هَف",
+          "ipa": "/hæf/"
+        },
+        "meaning": {
+          "fa": "بخشی از «ساعت شش‌ونیم»",
+          "en": "part of half past six; six thirty"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "hour",
+        "text": "hour",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "ساعت؛ مدت شصت دقیقه",
+          "en": "hour; sixty minutes"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "breakfast",
+        "text": "breakfast",
+        "pronunciation": {
+          "faReading": "بْرِکفِست",
+          "ipa": "/ˈbrɛkfəst/"
+        },
+        "meaning": {
+          "fa": "صبحانه",
+          "en": "breakfast; the first meal of the day"
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "prefer",
+        "text": "prefer",
+        "pronunciation": {
+          "faReading": "پْریفِر",
+          "ipa": "/prɪˈfɝ/"
+        },
+        "meaning": {
+          "fa": "ترجیح دادن",
+          "en": "prefer; like one choice more than another"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "later",
+        "text": "later",
+        "pronunciation": {
+          "faReading": "لِیتِر",
+          "ipa": "/ˈleɪtɚ/"
+        },
+        "meaning": {
+          "fa": "دیرتر؛ بعداً",
+          "en": "later; after the present or usual time"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "never",
+        "text": "never",
+        "pronunciation": {
+          "faReading": "نِوِر",
+          "ipa": "/ˈnɛvɚ/"
+        },
+        "meaning": {
+          "fa": "هرگز؛ هیچ‌وقت",
+          "en": "never; not at any time"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس می‌کنم",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "rested",
+        "text": "rested",
+        "pronunciation": {
+          "faReading": "رِستِد",
+          "ipa": "/ˈrɛstɪd/"
+        },
+        "meaning": {
+          "fa": "سرحال پس از استراحت",
+          "en": "rested; refreshed after rest"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "exercise",
+        "text": "exercise",
+        "pronunciation": {
+          "faReading": "اِکسِرسایز",
+          "ipa": "/ˈɛksɚsaɪz/"
+        },
+        "meaning": {
+          "fa": "ورزش",
+          "en": "exercise; physical activity for health"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "gives",
+        "text": "gives",
+        "pronunciation": {
+          "faReading": "گیوز",
+          "ipa": "/ɡɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌دهد",
+          "en": "gives; provides"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "energy",
+        "text": "energy",
+        "pronunciation": {
+          "faReading": "اِنِرجی",
+          "ipa": "/ˈɛnɚdʒi/"
+        },
+        "meaning": {
+          "fa": "انرژی",
+          "en": "energy; power used to do work"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "for-base",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "whole",
+        "text": "whole",
+        "pronunciation": {
+          "faReading": "هُول",
+          "ipa": "/hoʊl/"
+        },
+        "meaning": {
+          "fa": "تمام؛ کل",
+          "en": "whole; all of something"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "Maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است",
+          "en": "should; suggests trying a routine"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "routine",
+        "text": "routine",
+        "pronunciation": {
+          "faReading": "روتین",
+          "ipa": "/ruˈtin/"
+        },
+        "meaning": {
+          "fa": "برنامهٔ همیشگی",
+          "en": "routine; a regular pattern of activities"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "for-duration",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "به مدتِ",
+          "en": "for; how long the trial lasts"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Maybe I should try your routine for a week.",
+          "translation": {
+            "fa": "شاید بهتر باشد برنامهٔ همیشگی تو را یک هفته امتحان کنم.",
+            "en": "Maybe I should try your routine for a week."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "join",
+        "text": "join",
+        "pronunciation": {
+          "faReading": "جوین",
+          "ipa": "/dʒɔɪn/"
+        },
+        "meaning": {
+          "fa": "پیوستن؛ همراه شدن",
+          "en": "join; become part of a group"
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "park",
+        "text": "park",
+        "pronunciation": {
+          "faReading": "پارک",
+          "ipa": "/pɑrk/"
+        },
+        "meaning": {
+          "fa": "پارک",
+          "en": "park; a public green area"
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیایید؛ بیا»",
+          "en": "part of let us; suggests an action including the speaker"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیایید؛ بیا»",
+          "en": "part of let us; suggests an action including the speaker"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "start",
+        "text": "start",
+        "pronunciation": {
+          "faReading": "سْتارت",
+          "ipa": "/stɑrt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن",
+          "en": "start; begin"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ شروع از فردا",
+          "en": "from; the starting time"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      },
+      {
+        "id": "tomorrow",
+        "text": "tomorrow",
+        "pronunciation": {
+          "faReading": "تُمارُو",
+          "ipa": "/təˈmɑroʊ/"
+        },
+        "meaning": {
+          "fa": "فردا",
+          "en": "tomorrow; the day after today"
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "daily-actions",
+        "title": {
+          "fa": "گفتن کارهای روزانه",
+          "en": "Talking about daily activities"
+        },
+        "explanation": {
+          "fa": "برای کارهای معمولت با I از خود فعل استفاده کن: I wake up و I run. every morning یعنی هر روز صبح. never یعنی هیچ‌وقت؛ در I never feel rested می‌گوید این احساس خوب صبحگاهی را ندارد.",
+          "en": "Use the action after I for regular activities: I wake up and I run. Every morning says how often. Never means not at any time, as in I never feel rested."
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        },
+        "takeaway": {
+          "fa": "با I کار معمولت را بگو و زمانش را اضافه کن.",
+          "en": "Say a regular activity with I and add when it happens."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن کارهای روزانه",
+              "en": "Talking about daily activities"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I wake up early every morning"
+                },
+                {
+                  "text": "I + action + time"
+                },
+                {
+                  "fa": "هر روز صبح زود بیدار می‌شوم",
+                  "en": "A daily routine"
+                }
+              ],
+              [
+                {
+                  "text": "I run for half an hour"
+                },
+                {
+                  "text": "I + action + duration"
+                },
+                {
+                  "fa": "نیم ساعت می‌دوم",
+                  "en": "A regular activity"
+                }
+              ],
+              [
+                {
+                  "text": "I never feel rested"
+                },
+                {
+                  "text": "I + never + action"
+                },
+                {
+                  "fa": "هیچ‌وقت احساس سرحالی نمی‌کنم",
+                  "en": "Something that does not happen"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "time-and-duration",
+        "title": {
+          "fa": "ساعت یا مدت؟",
+          "en": "Clock time or duration?"
+        },
+        "explanation": {
+          "fa": "at about six o’clock یعنی حدود ساعت شش. for half an hour یعنی به مدت نیم ساعت؛ این مدت است، نه ساعت شروع. before breakfast یعنی قبل از صبحانه.",
+          "en": "At about six o’clock gives an approximate clock time. For half an hour gives a duration, not a starting time. Before breakfast places the run earlier than breakfast."
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        },
+        "takeaway": {
+          "fa": "at برای ساعت؛ for برای مدت این دویدن.",
+          "en": "Use at for the clock time and for for the run’s duration."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ساعت یا مدت؟",
+              "en": "Clock time or duration?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "at about six o'clock"
+                },
+                {
+                  "text": "at about + clock time"
+                },
+                {
+                  "fa": "حدود ساعت شش",
+                  "en": "Approximate waking time"
+                }
+              ],
+              [
+                {
+                  "text": "for half an hour"
+                },
+                {
+                  "text": "for + length of time"
+                },
+                {
+                  "fa": "به مدت نیم ساعت",
+                  "en": "Length of the run"
+                }
+              ],
+              [
+                {
+                  "text": "before breakfast"
+                },
+                {
+                  "text": "before + meal"
+                },
+                {
+                  "fa": "پیش از صبحانه",
+                  "en": "Order of activities"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "likes-and-preferences",
+        "title": {
+          "fa": "علاقه و ترجیح",
+          "en": "Likes and preferences"
+        },
+        "explanation": {
+          "fa": "Do you like waking up ...? یعنی بیدارشدن را دوست داری؟ بعد از like در این جمله waking آمده است. I prefer to wake up later یعنی دیرتر بیدارشدن را ترجیح می‌دهم؛ prefer to را با یک کار تمرین کن.",
+          "en": "Do you like waking up ...? asks if the activity is enjoyable. This sentence uses waking after like. I prefer to wake up later gives a preferred choice; practice prefer to with an action."
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        },
+        "takeaway": {
+          "fa": "like waking و prefer to wake دو الگوی همین گفت‌وگو هستند.",
+          "en": "Like waking and prefer to wake are two patterns from this conversation."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "علاقه و ترجیح",
+              "en": "Likes and preferences"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "do you like waking up so early"
+                },
+                {
+                  "text": "do you like + activity with ing"
+                },
+                {
+                  "fa": "این‌قدر زود بیدارشدن را دوست داری",
+                  "en": "Asking about enjoyment"
+                }
+              ],
+              [
+                {
+                  "text": "I prefer to wake up later"
+                },
+                {
+                  "text": "prefer to + action"
+                },
+                {
+                  "fa": "ترجیح می‌دهم دیرتر بیدار شوم",
+                  "en": "Expressing a preference"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "energy-and-gives",
+        "title": {
+          "fa": "اثر ورزش و فعل gives",
+          "en": "Exercise and gives"
+        },
+        "explanation": {
+          "fa": "Morning exercise gives me energy یعنی ورزش صبحگاهی به من انرژی می‌دهد. exercise در اینجا یک فعالیت کلی است و فعل gives دارد. me می‌گوید انرژی به چه کسی می‌رسد و the whole day یعنی تمام روز.",
+          "en": "Morning exercise gives me energy says what exercise provides and to whom. Exercise is treated as one activity, so the verb is gives. Me identifies the person receiving energy; the whole day means all day."
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        },
+        "takeaway": {
+          "fa": "gives me یعنی به من می‌دهد.",
+          "en": "Gives me means provides something to me."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اثر ورزش و فعل gives",
+              "en": "Exercise and gives"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Morning exercise gives me energy"
+                },
+                {
+                  "text": "activity + gives + me + something"
+                },
+                {
+                  "fa": "ورزش به من انرژی می‌دهد",
+                  "en": "Describing an effect"
+                }
+              ],
+              [
+                {
+                  "text": "for the whole day"
+                },
+                {
+                  "text": "for + the whole day"
+                },
+                {
+                  "fa": "برای تمام روز",
+                  "en": "The time covered"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "try-and-join",
+        "title": {
+          "fa": "پیشنهاد امتحان‌کردن و همراهی",
+          "en": "Trying and joining in"
+        },
+        "explanation": {
+          "fa": "Maybe I should try ... یعنی شاید بهتر باشد امتحان کنم؛ دستور نیست. You can join me پیشنهاد همراهی است. let us start یعنی بیا شروع کنیم و from tomorrow شروع از فردا را می‌گوید.",
+          "en": "Maybe I should try ... suggests a possible experiment, not an order. You can join me offers company. Let us start includes both speakers; from tomorrow gives the starting day."
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        },
+        "takeaway": {
+          "fa": "should پیشنهاد می‌دهد؛ can امکان همراهی را می‌گوید.",
+          "en": "Should suggests a choice; can offers the possibility of joining."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد امتحان‌کردن و همراهی",
+              "en": "Trying and joining in"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Maybe I should try your routine for a week"
+                },
+                {
+                  "text": "should try + routine + duration"
+                },
+                {
+                  "fa": "شاید برنامه‌ات را یک هفته امتحان کنم",
+                  "en": "A possible trial"
+                }
+              ],
+              [
+                {
+                  "text": "You can join me"
+                },
+                {
+                  "text": "can + action"
+                },
+                {
+                  "fa": "می‌توانی همراهم بیایی",
+                  "en": "An invitation"
+                }
+              ],
+              [
+                {
+                  "text": "let us start from tomorrow"
+                },
+                {
+                  "text": "let us + action + starting day"
+                },
+                {
+                  "fa": "بیا از فردا شروع کنیم",
+                  "en": "A shared plan"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "wake-up",
+        "text": "wake up early",
+        "pronunciation": {
+          "faReading": "وِیک آپ اِرلی",
+          "ipa": "/weɪk ʌp ˈɝli/"
+        },
+        "meaning": {
+          "fa": "زود بیدار شدن",
+          "en": "Wake up early"
+        },
+        "context": {
+          "fa": "برنامهٔ هر روز رضاست.",
+          "en": "Reza’s regular morning routine."
+        },
+        "example": {
+          "text": "I wake up early every morning, at about six o'clock.",
+          "translation": {
+            "fa": "هر روز صبح زود، حدود ساعت شش بیدار می‌شوم.",
+            "en": "I wake up early every morning, at about six o'clock."
+          }
+        }
+      },
+      {
+        "id": "half-hour",
+        "text": "for half an hour",
+        "pronunciation": {
+          "faReading": "فور هَف اَن آوِر",
+          "ipa": "/fɔr hæf ən aʊr/"
+        },
+        "meaning": {
+          "fa": "به مدت نیم ساعت",
+          "en": "For half an hour"
+        },
+        "context": {
+          "fa": "مدت دویدن است، نه ساعت شروع آن.",
+          "en": "The run’s duration, not its starting time."
+        },
+        "example": {
+          "text": "Yes, I run for half an hour before breakfast.",
+          "translation": {
+            "fa": "بله، قبل از صبحانه نیم ساعت می‌دوم.",
+            "en": "Yes, I run for half an hour before breakfast."
+          }
+        }
+      },
+      {
+        "id": "prefer",
+        "text": "I prefer to wake up later",
+        "pronunciation": {
+          "faReading": "آی پْریفِر تو وِیک آپ لِیتِر",
+          "ipa": "/aɪ prɪˈfɝ tə weɪk ʌp ˈleɪtɚ/"
+        },
+        "meaning": {
+          "fa": "ترجیح می‌دهم دیرتر بیدار شوم",
+          "en": "I prefer to wake up later"
+        },
+        "context": {
+          "fa": "مونا انتخاب خودش را می‌گوید، نه دستور به رضا.",
+          "en": "Mona expresses her own preference, not an order to Reza."
+        },
+        "example": {
+          "text": "I prefer to wake up later, I never feel rested in the morning.",
+          "translation": {
+            "fa": "من ترجیح می‌دهم دیرتر بیدار شوم؛ صبح‌ها هیچ‌وقت احساس سرحالی نمی‌کنم.",
+            "en": "I prefer to wake up later, I never feel rested in the morning."
+          }
+        }
+      },
+      {
+        "id": "whole-day",
+        "text": "for the whole day",
+        "pronunciation": {
+          "faReading": "فور ذِ هُول دِی",
+          "ipa": "/fɔr ðə hoʊl deɪ/"
+        },
+        "meaning": {
+          "fa": "برای تمام روز",
+          "en": "For the whole day"
+        },
+        "context": {
+          "fa": "رضا دربارهٔ اثر ورزش بر انرژی خودش می‌گوید.",
+          "en": "Reza describes exercise’s effect on his own energy."
+        },
+        "example": {
+          "text": "Morning exercise gives me energy for the whole day.",
+          "translation": {
+            "fa": "ورزش صبحگاهی برای تمام روز به من انرژی می‌دهد.",
+            "en": "Morning exercise gives me energy for the whole day."
+          }
+        }
+      },
+      {
+        "id": "join-me",
+        "text": "You can join me",
+        "pronunciation": {
+          "faReading": "یو کَن جوین می",
+          "ipa": "/ju kæn dʒɔɪn mi/"
+        },
+        "meaning": {
+          "fa": "می‌توانی همراهم بیایی",
+          "en": "You can join me"
+        },
+        "context": {
+          "fa": "دعوت به دویدن مشترک است.",
+          "en": "An invitation to run together."
+        },
+        "example": {
+          "text": "You can join me, we can run in the park together.",
+          "translation": {
+            "fa": "می‌توانی همراهم بیایی؛ می‌توانیم با هم در پارک بدویم.",
+            "en": "You can join me, we can run in the park together."
+          }
+        }
+      },
+      {
+        "id": "start-tomorrow",
+        "text": "let us start from tomorrow",
+        "pronunciation": {
+          "faReading": "لِت اَس سْتارت فْرِم تِمارُو",
+          "ipa": "/lɛt ʌs stɑrt frəm təˈmɑroʊ/"
+        },
+        "meaning": {
+          "fa": "بیا از فردا شروع کنیم",
+          "en": "Let us start from tomorrow"
+        },
+        "context": {
+          "fa": "شروع برنامهٔ مشترک را پیشنهاد می‌دهد.",
+          "en": "Proposes when to start together."
+        },
+        "example": {
+          "text": "That is a good idea, let us start from tomorrow.",
+          "translation": {
+            "fa": "فکر خوبی است؛ بیا از فردا شروع کنیم.",
+            "en": "That is a good idea, let us start from tomorrow."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "عادت‌های صبح و دویدن مشترک",
+              "en": "Morning routines and running together"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "برنامهٔ شام و آشپزی",
+              "en": "Dinner plans and cooking"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کارهای خانه در آخر هفته",
+              "en": "Weekend housework"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "از زمان بیدارشدن، دویدن و امتحان برنامهٔ رضا صحبت می‌کنند.",
+          "en": "They discuss waking times, running and trying Reza’s routine."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t06",
+          "t07"
+        ]
+      },
+      {
+        "id": "waking-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا حدود چه ساعتی بیدار می‌شود؟",
+          "en": "At about what time does Reza wake up?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفت",
+              "en": "Seven"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شش",
+              "en": "Six"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نه",
+              "en": "Nine"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "رضا می‌گوید at about six o’clock.",
+          "en": "Reza says at about six o’clock."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "run-duration",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا چه مدت می‌دود؟",
+          "en": "How long does Reza run?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک ساعت",
+              "en": "One hour"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "یک ربع",
+              "en": "Fifteen minutes"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نیم ساعت",
+              "en": "Half an hour"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "for half an hour مدت دویدن را می‌گوید.",
+          "en": "For half an hour states the duration."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "run-place",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برای دویدن مشترک کجا را پیشنهاد می‌کنند؟",
+          "en": "Where do they suggest running together?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پارک",
+              "en": "The park"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خیابان کنار دفتر",
+              "en": "The street beside the office"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حیاط خانه",
+              "en": "The home courtyard"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رضا می‌گوید we can run in the park together.",
+          "en": "Reza says we can run in the park together."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "start-day",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چه زمانی می‌خواهند شروع کنند؟",
+          "en": "When do they propose starting?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فردا",
+              "en": "Tomorrow"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "امروز عصر",
+              "en": "This evening"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مونا می‌گوید let us start from tomorrow.",
+          "en": "Mona says let us start from tomorrow."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

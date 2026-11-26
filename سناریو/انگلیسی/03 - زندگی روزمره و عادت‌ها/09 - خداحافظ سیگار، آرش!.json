@@ -1,0 +1,3923 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s09",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "خداحافظ سیگار، آرش!",
+    "en": "Arash Quits Smoking"
+  },
+  "objective": {
+    "fa": "مدت عادت گذشته، عوامل کمک‌کننده به ترک و فایدهٔ جسمی و مالی گزارش‌شدهٔ آرش را تشخیص بده.",
+    "en": "Identify the previous habit’s duration, the aids to quitting, and Arash’s reported physical and financial benefits."
+  },
+  "speakers": [
+    {
+      "id": "arash",
+      "name": "Arash",
+      "gender": "man"
+    },
+    {
+      "id": "milad",
+      "name": "Milad",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arash",
+      "text": "I am happy to say I have finally quit smoking.",
+      "translation": {
+        "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+        "en": "I am happy to say I have finally quit smoking."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "say",
+          "gloss": {
+            "fa": "گفتن",
+            "en": "say; express in words"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء have quit؛ نتیجه در حال حاضر",
+            "en": "have; perfect auxiliary for a completed change with a present result"
+          }
+        },
+        {
+          "surface": "finally",
+          "gloss": {
+            "fa": "بالاخره",
+            "en": "finally; after effort or a long wait"
+          }
+        },
+        {
+          "surface": "quit",
+          "gloss": {
+            "fa": "ترک کرده‌ام؛ دست کشیدن",
+            "en": "quit; stop a habit"
+          }
+        },
+        {
+          "surface": "smoking.",
+          "gloss": {
+            "fa": "سیگار کشیدن",
+            "en": "smoking; using cigarettes or other tobacco products"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "milad",
+      "text": "That is wonderful news, how long had you been smoking before?",
+      "translation": {
+        "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+        "en": "That is wonderful news, how long had you been smoking before?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "wonderful",
+          "gloss": {
+            "fa": "فوق‌العاده؛ بسیار خوب",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "news,",
+          "gloss": {
+            "fa": "خبر",
+            "en": "news; new information"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور؛ چگونه",
+            "en": "how; asks in what way"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "طولانی؛ مدت",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "جزء had been smoking؛ پیش از ترک",
+            "en": "had; locates the earlier activity before another past event"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "been",
+          "gloss": {
+            "fa": "جزء had been smoking؛ روند قبلی",
+            "en": "been; part of the continuous form describing the earlier habit"
+          }
+        },
+        {
+          "surface": "smoking",
+          "gloss": {
+            "fa": "سیگار کشیدن",
+            "en": "smoking; using cigarettes or other tobacco products"
+          }
+        },
+        {
+          "surface": "before?",
+          "gloss": {
+            "fa": "قبل از؛ قبلاً",
+            "en": "before; earlier than"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arash",
+      "text": "For almost ten years, and it was very hard to stop at first.",
+      "translation": {
+        "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+        "en": "For almost ten years, and it was very hard to stop at first."
+      },
+      "tokens": [
+        {
+          "surface": "For",
+          "gloss": {
+            "fa": "به مدتِ",
+            "en": "for; the duration of the earlier habit"
+          }
+        },
+        {
+          "surface": "almost",
+          "gloss": {
+            "fa": "تقریباً",
+            "en": "almost; nearly"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "years,",
+          "gloss": {
+            "fa": "سال‌ها",
+            "en": "years; periods of twelve months"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در این الگوی سخت‌بودن جدا ترجمه نمی‌شود",
+            "en": "it; introduces an evaluation of stopping"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "hard",
+          "gloss": {
+            "fa": "بخشی از «فرد پرتلاش»",
+            "en": "part of hard worker; someone who makes a lot of effort"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "stop",
+          "gloss": {
+            "fa": "متوقف کردن؛ دست کشیدن",
+            "en": "stop; cease an activity"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در؛ در ساعتِ",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "first.",
+          "gloss": {
+            "fa": "اول؛ نخست",
+            "en": "first; before other things"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "milad",
+      "text": "What helped you most, was it medicine or your own determination?",
+      "translation": {
+        "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+        "en": "What helped you most, was it medicine or your own determination?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "helped",
+          "gloss": {
+            "fa": "کمک کرد",
+            "en": "helped; made something easier"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "most,",
+          "gloss": {
+            "fa": "بیش از همه",
+            "en": "most; to the greatest extent"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "medicine",
+          "gloss": {
+            "fa": "دارو",
+            "en": "medicine; a substance used for treatment"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "شخصی؛ متعلق به خود",
+            "en": "own; belonging to that person"
+          }
+        },
+        {
+          "surface": "determination?",
+          "gloss": {
+            "fa": "اراده؛ عزم",
+            "en": "determination; resolve to continue toward a goal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arash",
+      "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+      "translation": {
+        "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+        "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+      },
+      "tokens": [
+        {
+          "surface": "Both,",
+          "gloss": {
+            "fa": "هر دو؛ درمان و عزم شخصی",
+            "en": "both; treatment and personal determination"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "doctor",
+          "gloss": {
+            "fa": "دکتر؛ عنوان خطاب",
+            "en": "doctor; a professional or academic title"
+          }
+        },
+        {
+          "surface": "gave",
+          "gloss": {
+            "fa": "داد",
+            "en": "gave; give in the past"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "patch,",
+          "gloss": {
+            "fa": "چسب دارویی",
+            "en": "patch; an adhesive treatment worn on the skin here"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "avoided",
+          "gloss": {
+            "fa": "پرهیز کردم از",
+            "en": "avoided; stayed away from"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "old",
+          "gloss": {
+            "fa": "قدیمی",
+            "en": "old; belonging to an earlier period"
+          }
+        },
+        {
+          "surface": "habits.",
+          "gloss": {
+            "fa": "عادت‌ها",
+            "en": "habits; regular ways of behaving"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "milad",
+      "text": "It is a great achievement, your health will thank you for it.",
+      "translation": {
+        "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+        "en": "It is a great achievement, your health will thank you for it."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ ترک سیگار",
+            "en": "it; refers to quitting smoking"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "achievement,",
+          "gloss": {
+            "fa": "دستاورد",
+            "en": "achievement; a significant result gained through effort"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "health",
+          "gloss": {
+            "fa": "سلامت",
+            "en": "health; physical and mental wellbeing"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "سپاسگزار خواهد بود؛ جان‌بخشی به سلامتی",
+            "en": "thank; gives health a human voice in a figurative compliment"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arash",
+      "text": "I feel better already, I can climb the stairs without getting tired.",
+      "translation": {
+        "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+        "en": "I feel better already, I can climb the stairs without getting tired."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "better",
+          "gloss": {
+            "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+            "en": "better; an improvement to the plan"
+          }
+        },
+        {
+          "surface": "already,",
+          "gloss": {
+            "fa": "همین حالا هم؛ تا این مرحله",
+            "en": "already; by this point after quitting"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "climb",
+          "gloss": {
+            "fa": "بالا رفتن از",
+            "en": "climb; move upward on stairs"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "stairs",
+          "gloss": {
+            "fa": "پله‌ها",
+            "en": "stairs; steps leading up or down"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "بدونِ",
+            "en": "without; not doing or having"
+          }
+        },
+        {
+          "surface": "getting",
+          "gloss": {
+            "fa": "شدن؛ در getting upset",
+            "en": "getting; becoming, in getting upset"
+          }
+        },
+        {
+          "surface": "tired.",
+          "gloss": {
+            "fa": "خسته",
+            "en": "tired; needing rest"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "milad",
+      "text": "That is a clear sign, and the money you saved is a bonus too.",
+      "translation": {
+        "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+        "en": "That is a clear sign, and the money you saved is a bonus too."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "clear",
+          "gloss": {
+            "fa": "روشن؛ مشخص",
+            "en": "clear; easy to understand"
+          }
+        },
+        {
+          "surface": "sign,",
+          "gloss": {
+            "fa": "نشانهٔ پیشرفت",
+            "en": "sign; an indication of improvement"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "money",
+          "gloss": {
+            "fa": "پول",
+            "en": "money; what is used to pay for things"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "saved",
+          "gloss": {
+            "fa": "پس‌انداز کردی؛ ذخیره کردی",
+            "en": "saved; kept rather than spent"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "bonus",
+          "gloss": {
+            "fa": "مزیت اضافه",
+            "en": "bonus; an additional benefit"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arash",
+      "text": "Yes, I am using that money for something useful every month.",
+      "translation": {
+        "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+        "en": "Yes, I am using that money for something useful every month."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "جزء am using؛ رفتار جاری",
+            "en": "am; progressive auxiliary for a current practice"
+          }
+        },
+        {
+          "surface": "using",
+          "gloss": {
+            "fa": "استفاده کردن",
+            "en": "using; putting something to a purpose"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ پول خرج‌نشده برای سیگار",
+            "en": "that; refers to the money saved"
+          }
+        },
+        {
+          "surface": "money",
+          "gloss": {
+            "fa": "پول",
+            "en": "money; what is used to pay for things"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "something",
+          "gloss": {
+            "fa": "چیزی",
+            "en": "something; a thing not named"
+          }
+        },
+        {
+          "surface": "useful",
+          "gloss": {
+            "fa": "مفید",
+            "en": "useful; serving a practical purpose"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "month.",
+          "gloss": {
+            "fa": "ماه",
+            "en": "month; one of twelve calendar periods"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "milad",
+      "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+      "translation": {
+        "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+        "en": "I am really proud of you, and I hope you stay smoke-free forever."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "proud",
+          "gloss": {
+            "fa": "مفتخر؛ سربلند",
+            "en": "proud; pleased about someone’s achievement"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امید داشتن",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "stay",
+          "gloss": {
+            "fa": "ماندن",
+            "en": "stay; continue to be"
+          }
+        },
+        {
+          "surface": "smoke-free",
+          "gloss": {
+            "fa": "بدون سیگار؛ دور از سیگار",
+            "en": "smoke-free; not smoking here"
+          }
+        },
+        {
+          "surface": "forever.",
+          "gloss": {
+            "fa": "برای همیشه",
+            "en": "forever; for all future time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "arash",
+      "text": "Thank you, I will not go back, I have come too far for that.",
+      "translation": {
+        "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+        "en": "Thank you, I will not go back, I have come too far for that."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "بخشی از «بازگشت به عادت قبل»",
+            "en": "part of go back; resume the former habit"
+          }
+        },
+        {
+          "surface": "back,",
+          "gloss": {
+            "fa": "بخشی از «بازگشت به عادت قبل»",
+            "en": "part of go back; resume the former habit"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "جزء have come؛ پیشرفت تا امروز",
+            "en": "have; perfect auxiliary for progress made up to now"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "پیشرفت کرده‌ام؛ همراه have و far",
+            "en": "come; in have come far, made progress"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "بیش از آن؛ در too far",
+            "en": "too; beyond an acceptable point for returning"
+          }
+        },
+        {
+          "surface": "far",
+          "gloss": {
+            "fa": "زیاد؛ میزان پیشرفت نه فاصلهٔ مکانی",
+            "en": "far; degree of progress rather than physical distance"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "that.",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "milad",
+      "text": "Your example may even help others to quit too.",
+      "translation": {
+        "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+        "en": "Your example may even help others to quit too."
+      },
+      "tokens": [
+        {
+          "surface": "Your",
+          "gloss": {
+            "fa": "مال تو یا شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "example",
+          "gloss": {
+            "fa": "اگزامپل؛ نام دامنهٔ ایمیل",
+            "en": "example; the email domain here"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "ممکن است",
+            "en": "may; possibility, not a guaranteed result"
+          }
+        },
+        {
+          "surface": "even",
+          "gloss": {
+            "fa": "حتی",
+            "en": "even; adds an unexpected or stronger point"
+          }
+        },
+        {
+          "surface": "help",
+          "gloss": {
+            "fa": "کمک؛ کمک کردن",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "others",
+          "gloss": {
+            "fa": "دیگران",
+            "en": "others; other people"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از quit؛ در help others to quit",
+            "en": "to; infinitive marker in the help construction"
+          }
+        },
+        {
+          "surface": "quit",
+          "gloss": {
+            "fa": "ترک کرده‌ام؛ دست کشیدن",
+            "en": "quit; stop a habit"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "say",
+        "text": "say",
+        "pronunciation": {
+          "faReading": "سِی",
+          "ipa": "/seɪ/"
+        },
+        "meaning": {
+          "fa": "گفتن",
+          "en": "say; express in words"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء have quit؛ نتیجه در حال حاضر",
+          "en": "have; perfect auxiliary for a completed change with a present result"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "finally",
+        "text": "finally",
+        "pronunciation": {
+          "faReading": "فاینِلی",
+          "ipa": "/ˈfaɪnəli/"
+        },
+        "meaning": {
+          "fa": "بالاخره",
+          "en": "finally; after effort or a long wait"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "quit",
+        "text": "quit",
+        "pronunciation": {
+          "faReading": "کْویت",
+          "ipa": "/kwɪt/"
+        },
+        "meaning": {
+          "fa": "ترک کرده‌ام؛ دست کشیدن",
+          "en": "quit; stop a habit"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "smoking",
+        "text": "smoking",
+        "pronunciation": {
+          "faReading": "سْمُوکینگ",
+          "ipa": "/ˈsmoʊkɪŋ/"
+        },
+        "meaning": {
+          "fa": "سیگار کشیدن",
+          "en": "smoking; using cigarettes or other tobacco products"
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "news",
+        "text": "news",
+        "pronunciation": {
+          "faReading": "نیوز",
+          "ipa": "/nuz/"
+        },
+        "meaning": {
+          "fa": "خبر",
+          "en": "news; new information"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asks in what way"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "طولانی؛ مدت",
+          "en": "long; lasting much time"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "جزء had been smoking؛ پیش از ترک",
+          "en": "had; locates the earlier activity before another past event"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "been",
+        "text": "been",
+        "pronunciation": {
+          "faReading": "بین",
+          "ipa": "/bɪn/"
+        },
+        "meaning": {
+          "fa": "جزء had been smoking؛ روند قبلی",
+          "en": "been; part of the continuous form describing the earlier habit"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "For",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "به مدتِ",
+          "en": "for; the duration of the earlier habit"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "almost",
+        "text": "almost",
+        "pronunciation": {
+          "faReading": "آل‌مُوست",
+          "ipa": "/ˈɔlmoʊst/"
+        },
+        "meaning": {
+          "fa": "تقریباً",
+          "en": "almost; nearly"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این الگوی سخت‌بودن جدا ترجمه نمی‌شود",
+          "en": "it; introduces an evaluation of stopping"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "hard",
+        "text": "hard",
+        "pronunciation": {
+          "faReading": "هارد",
+          "ipa": "/hɑrd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «فرد پرتلاش»",
+          "en": "part of hard worker; someone who makes a lot of effort"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "stop",
+        "text": "stop",
+        "pronunciation": {
+          "faReading": "سْتاپ",
+          "ipa": "/stɑp/"
+        },
+        "meaning": {
+          "fa": "متوقف کردن؛ دست کشیدن",
+          "en": "stop; cease an activity"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ در ساعتِ",
+          "en": "at; a place or exact time"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اول؛ نخست",
+          "en": "first; before other things"
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "What",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "helped",
+        "text": "helped",
+        "pronunciation": {
+          "faReading": "هِلپت",
+          "ipa": "/hɛlpt/"
+        },
+        "meaning": {
+          "fa": "کمک کرد",
+          "en": "helped; made something easier"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیش از همه",
+          "en": "most; to the greatest extent"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "it-base",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "medicine",
+        "text": "medicine",
+        "pronunciation": {
+          "faReading": "مِدِسِن",
+          "ipa": "/ˈmɛdəsən/"
+        },
+        "meaning": {
+          "fa": "دارو",
+          "en": "medicine; a substance used for treatment"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "own",
+        "text": "own",
+        "pronunciation": {
+          "faReading": "اُوْن",
+          "ipa": "/oʊn/"
+        },
+        "meaning": {
+          "fa": "شخصی؛ متعلق به خود",
+          "en": "own; belonging to that person"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "determination",
+        "text": "determination",
+        "pronunciation": {
+          "faReading": "دی‌تِرمِنِیشن",
+          "ipa": "/dɪˌtɝməˈneɪʃən/"
+        },
+        "meaning": {
+          "fa": "اراده؛ عزم",
+          "en": "determination; resolve to continue toward a goal"
+        },
+        "example": {
+          "text": "What helped you most, was it medicine or your own determination?",
+          "translation": {
+            "fa": "بیشتر چه چیزی کمکت کرد؛ دارو بود یا ارادهٔ خودت؟",
+            "en": "What helped you most, was it medicine or your own determination?"
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "Both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو؛ درمان و عزم شخصی",
+          "en": "both; treatment and personal determination"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "doctor",
+        "text": "doctor",
+        "pronunciation": {
+          "faReading": "داکتِر",
+          "ipa": "/ˈdɑktɚ/"
+        },
+        "meaning": {
+          "fa": "دکتر؛ عنوان خطاب",
+          "en": "doctor; a professional or academic title"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "gave",
+        "text": "gave",
+        "pronunciation": {
+          "faReading": "گِیو",
+          "ipa": "/ɡeɪv/"
+        },
+        "meaning": {
+          "fa": "داد",
+          "en": "gave; give in the past"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "patch",
+        "text": "patch",
+        "pronunciation": {
+          "faReading": "پَچ",
+          "ipa": "/pætʃ/"
+        },
+        "meaning": {
+          "fa": "چسب دارویی",
+          "en": "patch; an adhesive treatment worn on the skin here"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "avoided",
+        "text": "avoided",
+        "pronunciation": {
+          "faReading": "اِوویدِد",
+          "ipa": "/əˈvɔɪdɪd/"
+        },
+        "meaning": {
+          "fa": "پرهیز کردم از",
+          "en": "avoided; stayed away from"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "old",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "قدیمی",
+          "en": "old; belonging to an earlier period"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "habits",
+        "text": "habits",
+        "pronunciation": {
+          "faReading": "هَبِتس",
+          "ipa": "/ˈhæbɪts/"
+        },
+        "meaning": {
+          "fa": "عادت‌ها",
+          "en": "habits; regular ways of behaving"
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ ترک سیگار",
+          "en": "it; refers to quitting smoking"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "achievement",
+        "text": "achievement",
+        "pronunciation": {
+          "faReading": "اِچیومِنت",
+          "ipa": "/əˈtʃivmənt/"
+        },
+        "meaning": {
+          "fa": "دستاورد",
+          "en": "achievement; a significant result gained through effort"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "health",
+        "text": "health",
+        "pronunciation": {
+          "faReading": "هِلث",
+          "ipa": "/hɛlθ/"
+        },
+        "meaning": {
+          "fa": "سلامت",
+          "en": "health; physical and mental wellbeing"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "سپاسگزار خواهد بود؛ جان‌بخشی به سلامتی",
+          "en": "thank; gives health a human voice in a figurative compliment"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "for-base",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "It is a great achievement, your health will thank you for it.",
+          "translation": {
+            "fa": "دستاورد بزرگی است؛ سلامتی‌ات از تو ممنون خواهد بود.",
+            "en": "It is a great achievement, your health will thank you for it."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "better",
+        "text": "better",
+        "pronunciation": {
+          "faReading": "بِتِر",
+          "ipa": "/ˈbɛtɚ/"
+        },
+        "meaning": {
+          "fa": "بهتر؛ دربارهٔ برنامهٔ تازه",
+          "en": "better; an improvement to the plan"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "already",
+        "text": "already",
+        "pronunciation": {
+          "faReading": "آل‌رِدی",
+          "ipa": "/ɔlˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "همین حالا هم؛ تا این مرحله",
+          "en": "already; by this point after quitting"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "climb",
+        "text": "climb",
+        "pronunciation": {
+          "faReading": "کْلایم",
+          "ipa": "/klaɪm/"
+        },
+        "meaning": {
+          "fa": "بالا رفتن از",
+          "en": "climb; move upward on stairs"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "stairs",
+        "text": "stairs",
+        "pronunciation": {
+          "faReading": "سْتِرز",
+          "ipa": "/stɛrz/"
+        },
+        "meaning": {
+          "fa": "پله‌ها",
+          "en": "stairs; steps leading up or down"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "بدونِ",
+          "en": "without; not doing or having"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "getting",
+        "text": "getting",
+        "pronunciation": {
+          "faReading": "گِتینگ",
+          "ipa": "/ˈɡɛtɪŋ/"
+        },
+        "meaning": {
+          "fa": "شدن؛ در getting upset",
+          "en": "getting; becoming, in getting upset"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "tired",
+        "text": "tired",
+        "pronunciation": {
+          "faReading": "تایِرد",
+          "ipa": "/ˈtaɪɚd/"
+        },
+        "meaning": {
+          "fa": "خسته",
+          "en": "tired; needing rest"
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "روشن؛ مشخص",
+          "en": "clear; easy to understand"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "sign",
+        "text": "sign",
+        "pronunciation": {
+          "faReading": "ساین",
+          "ipa": "/saɪn/"
+        },
+        "meaning": {
+          "fa": "نشانهٔ پیشرفت",
+          "en": "sign; an indication of improvement"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "money",
+        "text": "money",
+        "pronunciation": {
+          "faReading": "مانی",
+          "ipa": "/ˈmʌni/"
+        },
+        "meaning": {
+          "fa": "پول",
+          "en": "money; what is used to pay for things"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "saved",
+        "text": "saved",
+        "pronunciation": {
+          "faReading": "سِیود",
+          "ipa": "/seɪvd/"
+        },
+        "meaning": {
+          "fa": "پس‌انداز کردی؛ ذخیره کردی",
+          "en": "saved; kept rather than spent"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "bonus",
+        "text": "bonus",
+        "pronunciation": {
+          "faReading": "بُونِس",
+          "ipa": "/ˈboʊnəs/"
+        },
+        "meaning": {
+          "fa": "مزیت اضافه",
+          "en": "bonus; an additional benefit"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "am-ongoing",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "جزء am using؛ رفتار جاری",
+          "en": "am; progressive auxiliary for a current practice"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "using",
+        "text": "using",
+        "pronunciation": {
+          "faReading": "یوزینگ",
+          "ipa": "/ˈjuzɪŋ/"
+        },
+        "meaning": {
+          "fa": "استفاده کردن",
+          "en": "using; putting something to a purpose"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "that-reference",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ پول خرج‌نشده برای سیگار",
+          "en": "that; refers to the money saved"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "something",
+        "text": "something",
+        "pronunciation": {
+          "faReading": "سَم‌ثینگ",
+          "ipa": "/ˈsʌmˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی",
+          "en": "something; a thing not named"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "useful",
+        "text": "useful",
+        "pronunciation": {
+          "faReading": "یوسْفُل",
+          "ipa": "/ˈjusfəl/"
+        },
+        "meaning": {
+          "fa": "مفید",
+          "en": "useful; serving a practical purpose"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "month",
+        "text": "month",
+        "pronunciation": {
+          "faReading": "مَنث",
+          "ipa": "/mʌnθ/"
+        },
+        "meaning": {
+          "fa": "ماه",
+          "en": "month; one of twelve calendar periods"
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "proud",
+        "text": "proud",
+        "pronunciation": {
+          "faReading": "پْراود",
+          "ipa": "/praʊd/"
+        },
+        "meaning": {
+          "fa": "مفتخر؛ سربلند",
+          "en": "proud; pleased about someone’s achievement"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "stay",
+        "text": "stay",
+        "pronunciation": {
+          "faReading": "سْتِی",
+          "ipa": "/steɪ/"
+        },
+        "meaning": {
+          "fa": "ماندن",
+          "en": "stay; continue to be"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "smoke-free",
+        "text": "smoke-free",
+        "pronunciation": {
+          "faReading": "سْمُوک فْری",
+          "ipa": "/ˌsmoʊk ˈfri/"
+        },
+        "meaning": {
+          "fa": "بدون سیگار؛ دور از سیگار",
+          "en": "smoke-free; not smoking here"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "forever",
+        "text": "forever",
+        "pronunciation": {
+          "faReading": "فِرِوِر",
+          "ipa": "/fɚˈɛvɚ/"
+        },
+        "meaning": {
+          "fa": "برای همیشه",
+          "en": "forever; for all future time"
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "thank-base",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بازگشت به عادت قبل»",
+          "en": "part of go back; resume the former habit"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "back",
+        "text": "back",
+        "pronunciation": {
+          "faReading": "بَک",
+          "ipa": "/bæk/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بازگشت به عادت قبل»",
+          "en": "part of go back; resume the former habit"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "have-perfect",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء have come؛ پیشرفت تا امروز",
+          "en": "have; perfect auxiliary for progress made up to now"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "پیشرفت کرده‌ام؛ همراه have و far",
+          "en": "come; in have come far, made progress"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "too-excess",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بیش از آن؛ در too far",
+          "en": "too; beyond an acceptable point for returning"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "far",
+        "text": "far",
+        "pronunciation": {
+          "faReading": "فار",
+          "ipa": "/fɑr/"
+        },
+        "meaning": {
+          "fa": "زیاد؛ میزان پیشرفت نه فاصلهٔ مکانی",
+          "en": "far; degree of progress rather than physical distance"
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      },
+      {
+        "id": "example",
+        "text": "example",
+        "pronunciation": {
+          "faReading": "ایگْزَمپِل",
+          "ipa": "/ɪɡˈzæmpəl/"
+        },
+        "meaning": {
+          "fa": "اگزامپل؛ نام دامنهٔ ایمیل",
+          "en": "example; the email domain here"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "ممکن است",
+          "en": "may; possibility, not a guaranteed result"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      },
+      {
+        "id": "even",
+        "text": "even",
+        "pronunciation": {
+          "faReading": "ایوِن",
+          "ipa": "/ˈivən/"
+        },
+        "meaning": {
+          "fa": "حتی",
+          "en": "even; adds an unexpected or stronger point"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      },
+      {
+        "id": "others",
+        "text": "others",
+        "pronunciation": {
+          "faReading": "آذِرز",
+          "ipa": "/ˈʌðɚz/"
+        },
+        "meaning": {
+          "fa": "دیگران",
+          "en": "others; other people"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از quit؛ در help others to quit",
+          "en": "to; infinitive marker in the help construction"
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "quitting-and-earlier-duration",
+        "title": {
+          "fa": "ترک فعلی و عادت پیش از آن",
+          "en": "Quitting now and the earlier habit"
+        },
+        "explanation": {
+          "fa": "have finally quit نتیجهٔ فعلی ترک را برجسته می‌کند. had you been smoking به دورهٔ سیگارکشیدن پیش از ترک برمی‌گردد؛ had + been + ing روند قبلی را می‌سازد. for almost ten years مدت همان عادت است، نه مدت ترک.",
+          "en": "Have finally quit emphasizes the current result. Had you been smoking looks back to the activity before quitting, using had + been + ing. For almost ten years gives the smoking duration, not the length of abstinence."
+        },
+        "example": {
+          "text": "That is wonderful news, how long had you been smoking before?",
+          "translation": {
+            "fa": "چه خبر خوبی؛ پیش از آن چه مدت سیگار می‌کشیدی؟",
+            "en": "That is wonderful news, how long had you been smoking before?"
+          }
+        },
+        "takeaway": {
+          "fa": "نزدیک ده سال مربوط به سیگارکشیدن است، نه دوری از آن.",
+          "en": "Almost ten years describes smoking, not abstinence."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ترک فعلی و عادت پیش از آن",
+              "en": "Quitting now and the earlier habit"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have finally quit smoking"
+                },
+                {
+                  "text": "have + quit + activity with ing"
+                },
+                {
+                  "fa": "بالاخره سیگار را ترک کرده‌ام",
+                  "en": "A completed change with a present result"
+                }
+              ],
+              [
+                {
+                  "text": "how long had you been smoking before"
+                },
+                {
+                  "text": "had + been + ing"
+                },
+                {
+                  "fa": "پیش از آن چه مدت سیگار می‌کشیدی",
+                  "en": "An earlier continuing habit"
+                }
+              ],
+              [
+                {
+                  "text": "For almost ten years"
+                },
+                {
+                  "text": "for + approximate duration"
+                },
+                {
+                  "fa": "نزدیک ده سال",
+                  "en": "Duration of that habit"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-help-and-both",
+        "title": {
+          "fa": "کمک‌های گذشته و هر دو عامل",
+          "en": "Past help and both factors"
+        },
+        "explanation": {
+          "fa": "What helped you most? سؤال با what در نقش عامل کمک‌کننده است و did جدا لازم ندارد. medicine or your own determination دو گزینه‌اند؛ Both یعنی ترکیب آن دو. gave و avoided اقدامات گذشته را گزارش می‌کنند، نه نسخه‌ای برای همه.",
+          "en": "What helped you most? has what as the subject, so no separate did is needed. Medicine or your own determination presents alternatives; Both includes the two. Gave and avoided report past actions, not a treatment prescription for everyone."
+        },
+        "example": {
+          "text": "Both, the doctor gave me a patch, and I avoided my old habits.",
+          "translation": {
+            "fa": "هر دو؛ پزشک به من چسب دارویی داد و از عادت‌های قدیمی‌ام دوری کردم.",
+            "en": "Both, the doctor gave me a patch, and I avoided my old habits."
+          }
+        },
+        "takeaway": {
+          "fa": "شرح تجربهٔ شخصیت را از توصیهٔ پزشکی عمومی جدا کن.",
+          "en": "Distinguish a character’s reported experience from general medical advice."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کمک‌های گذشته و هر دو عامل",
+              "en": "Past help and both factors"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "What helped you most"
+                },
+                {
+                  "text": "what + past verb"
+                },
+                {
+                  "fa": "بیشتر چه چیزی کمکت کرد",
+                  "en": "A subject question"
+                }
+              ],
+              [
+                {
+                  "text": "Both, the doctor gave me a patch"
+                },
+                {
+                  "text": "both + past account"
+                },
+                {
+                  "fa": "هر دو؛ پزشک چسب دارویی داد",
+                  "en": "Two acknowledged factors"
+                }
+              ],
+              [
+                {
+                  "text": "I avoided my old habits"
+                },
+                {
+                  "text": "past verb + object"
+                },
+                {
+                  "fa": "از عادت‌های قبلی پرهیز کردم",
+                  "en": "A reported behavior change"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ability-without-ing",
+        "title": {
+          "fa": "توانایی و بدون خستگی",
+          "en": "Ability without getting tired"
+        },
+        "explanation": {
+          "fa": "can climb توانایی فعلی را می‌گوید. بدون یک کار یا حالت با without و ing بیان شده: without getting tired. get tired یعنی خسته شدن و با be tired که حالت خسته‌بودن را می‌گوید فرق دارد.",
+          "en": "Can climb reports a present ability. Without getting tired uses an ing form after without. Get tired describes becoming tired, whereas be tired describes the state."
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        },
+        "takeaway": {
+          "fa": "بعد از without از getting استفاده شده؛ این بخش یک نتیجهٔ گزارش‌شده است.",
+          "en": "Without is followed by getting here; the sentence reports a personal outcome."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توانایی و بدون خستگی",
+              "en": "Ability without getting tired"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I can climb the stairs"
+                },
+                {
+                  "text": "can + base verb"
+                },
+                {
+                  "fa": "می‌توانم از پله‌ها بالا بروم",
+                  "en": "Current ability"
+                }
+              ],
+              [
+                {
+                  "text": "without getting tired"
+                },
+                {
+                  "text": "without + ing"
+                },
+                {
+                  "fa": "بدون خسته‌شدن",
+                  "en": "Absence of a tiring result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "money-and-relative",
+        "title": {
+          "fa": "پول پس‌اندازشده و ارجاع",
+          "en": "Saved money and reference"
+        },
+        "explanation": {
+          "fa": "در the money you saved، that یا which می‌تواند قبل از you باشد ولی حذف شده است. money چیزی است که پس‌انداز شده. that money در پاسخ بعد همان پول است و am using خرج‌کرد فعلی و تکرارشوندهٔ آن را می‌گوید.",
+          "en": "The money you saved omits an object relative marker such as that or which. Money is what was saved. That money in the next turn refers to it, and am using describes a current recurring practice."
+        },
+        "example": {
+          "text": "Yes, I am using that money for something useful every month.",
+          "translation": {
+            "fa": "بله، هر ماه آن پول را برای چیز مفیدی استفاده می‌کنم.",
+            "en": "Yes, I am using that money for something useful every month."
+          }
+        },
+        "takeaway": {
+          "fa": "that money به پول سیگارِ خرج‌نشده برمی‌گردد؛ مقدار پول گفته نشده است.",
+          "en": "That money refers to unspent smoking money; no amount is specified."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پول پس‌اندازشده و ارجاع",
+              "en": "Saved money and reference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the money you saved"
+                },
+                {
+                  "text": "noun + object relative without marker"
+                },
+                {
+                  "fa": "پولی که پس‌انداز کردی",
+                  "en": "Identifying the money"
+                }
+              ],
+              [
+                {
+                  "text": "I am using that money"
+                },
+                {
+                  "text": "am + using + reference"
+                },
+                {
+                  "fa": "دارم آن پول را استفاده می‌کنم",
+                  "en": "A current practice"
+                }
+              ],
+              [
+                {
+                  "text": "every month"
+                },
+                {
+                  "text": "every + period"
+                },
+                {
+                  "fa": "هر ماه",
+                  "en": "Recurring frequency"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "metaphor-and-progress",
+        "title": {
+          "fa": "جان‌بخشی و پیشرفت",
+          "en": "Personification and progress"
+        },
+        "explanation": {
+          "fa": "your health will thank you به سلامت رفتار انسانی می‌دهد و تحسین استعاری است. I have come too far هم پیشرفت در ترک را می‌گوید، نه مسافت طی‌شده. too far for that یعنی پیشرفت آن‌قدر بوده که بازگشت را نامناسب می‌بیند.",
+          "en": "Your health will thank you personifies health in a figurative compliment. I have come too far refers to progress in quitting, not distance traveled. Too far for that frames returning as incompatible with the progress made."
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        },
+        "takeaway": {
+          "fa": "far اینجا درجهٔ پیشرفت است، نه فاصلهٔ مکانی.",
+          "en": "Far here measures progress rather than physical distance."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جان‌بخشی و پیشرفت",
+              "en": "Personification and progress"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "your health will thank you for it"
+                },
+                {
+                  "text": "personification + will"
+                },
+                {
+                  "fa": "سلامتی‌ات سپاسگزار خواهد بود",
+                  "en": "Figurative praise"
+                }
+              ],
+              [
+                {
+                  "text": "I have come too far for that"
+                },
+                {
+                  "text": "have come + too far"
+                },
+                {
+                  "fa": "بیش از آن پیشرفت کرده‌ام که برگردم",
+                  "en": "Progress supporting commitment"
+                }
+              ],
+              [
+                {
+                  "text": "I will not go back"
+                },
+                {
+                  "text": "will not + action"
+                },
+                {
+                  "fa": "برنمی‌گردم",
+                  "en": "A stated intention"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hope-versus-possibility",
+        "title": {
+          "fa": "امید و امکان اثر بر دیگران",
+          "en": "Hope and possible influence"
+        },
+        "explanation": {
+          "fa": "I hope you stay smoke-free یک آرزوست؛ may even help others امکان اثرگذاری مثال شخصی را می‌گوید، نه تضمین ترک دیگران. help others to quit دارای مفعول و to quit است؛ در انگلیسی help others quit بدون to هم ممکن است.",
+          "en": "I hope you stay smoke-free is a wish. May even help others presents possible influence, not a guaranteed result. Help others to quit takes an object and to-infinitive; help others quit without to is also possible."
+        },
+        "example": {
+          "text": "Your example may even help others to quit too.",
+          "translation": {
+            "fa": "الگوی تو حتی ممکن است به دیگران هم کمک کند ترک کنند.",
+            "en": "Your example may even help others to quit too."
+          }
+        },
+        "takeaway": {
+          "fa": "may امکان می‌دهد و hope آرزو؛ هیچ‌یک تضمین نیست.",
+          "en": "May marks possibility and hope a wish; neither guarantees an outcome."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "امید و امکان اثر بر دیگران",
+              "en": "Hope and possible influence"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I hope you stay smoke-free forever"
+                },
+                {
+                  "text": "hope + clause"
+                },
+                {
+                  "fa": "امیدوارم همیشه دور از سیگار بمانی",
+                  "en": "A good wish"
+                }
+              ],
+              [
+                {
+                  "text": "may even help others to quit too"
+                },
+                {
+                  "text": "may + help + object + to-infinitive"
+                },
+                {
+                  "fa": "حتی ممکن است به دیگران کمک کند",
+                  "en": "Possible influence"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "quit-smoking",
+        "text": "I have finally quit smoking",
+        "pronunciation": {
+          "faReading": "آی هَو فاینِلی کْویت سْمُوکینگ",
+          "ipa": "/aɪ hæv ˈfaɪnəli kwɪt ˈsmoʊkɪŋ/"
+        },
+        "meaning": {
+          "fa": "بالاخره سیگار را ترک کرده‌ام",
+          "en": "I have finally quit smoking"
+        },
+        "context": {
+          "fa": "نتیجهٔ شخصی گزارش‌شدهٔ آرش.",
+          "en": "Arash’s report of his own change."
+        },
+        "example": {
+          "text": "I am happy to say I have finally quit smoking.",
+          "translation": {
+            "fa": "خوشحالم بگویم بالاخره سیگار را ترک کرده‌ام.",
+            "en": "I am happy to say I have finally quit smoking."
+          }
+        }
+      },
+      {
+        "id": "at-first",
+        "text": "at first",
+        "pronunciation": {
+          "faReading": "اَت فِرست",
+          "ipa": "/æt fɝst/"
+        },
+        "meaning": {
+          "fa": "در ابتدا",
+          "en": "At first"
+        },
+        "context": {
+          "fa": "سختی ابتدای ترک، نه الزاماً وضعیت فعلی.",
+          "en": "The difficulty at the beginning, not necessarily now."
+        },
+        "example": {
+          "text": "For almost ten years, and it was very hard to stop at first.",
+          "translation": {
+            "fa": "تقریباً ده سال؛ و اوایل ترک‌کردن خیلی سخت بود.",
+            "en": "For almost ten years, and it was very hard to stop at first."
+          }
+        }
+      },
+      {
+        "id": "without-tired",
+        "text": "without getting tired",
+        "pronunciation": {
+          "faReading": "ویذاوت گِتینگ تایِرد",
+          "ipa": "/wɪˈðaʊt ˈɡɛtɪŋ ˈtaɪɚd/"
+        },
+        "meaning": {
+          "fa": "بدون خسته‌شدن",
+          "en": "Without getting tired"
+        },
+        "context": {
+          "fa": "فایدهٔ جسمی را طبق گفتهٔ آرش بیان می‌کند.",
+          "en": "Describes the physical benefit according to Arash."
+        },
+        "example": {
+          "text": "I feel better already, I can climb the stairs without getting tired.",
+          "translation": {
+            "fa": "همین الان هم حالم بهتر است؛ می‌توانم بدون خسته‌شدن از پله‌ها بالا بروم.",
+            "en": "I feel better already, I can climb the stairs without getting tired."
+          }
+        }
+      },
+      {
+        "id": "bonus",
+        "text": "a bonus too",
+        "pronunciation": {
+          "faReading": "اِ بُونِس تو",
+          "ipa": "/ə ˈboʊnəs tu/"
+        },
+        "meaning": {
+          "fa": "یک مزیت اضافه هم",
+          "en": "An added benefit too"
+        },
+        "context": {
+          "fa": "پول پس‌اندازشده مزیت فرعی علاوه بر بهبود گزارش‌شده است.",
+          "en": "Saved money is an additional benefit beside the reported improvement."
+        },
+        "example": {
+          "text": "That is a clear sign, and the money you saved is a bonus too.",
+          "translation": {
+            "fa": "نشانهٔ روشنی است؛ پولی هم که پس‌انداز کردی یک مزیت اضافه است.",
+            "en": "That is a clear sign, and the money you saved is a bonus too."
+          }
+        }
+      },
+      {
+        "id": "proud",
+        "text": "I am really proud of you",
+        "pronunciation": {
+          "faReading": "آی اَم ریلی پْراود اَو یو",
+          "ipa": "/aɪ æm ˈrili praʊd əv ju/"
+        },
+        "meaning": {
+          "fa": "واقعاً به تو افتخار می‌کنم",
+          "en": "I am really proud of you"
+        },
+        "context": {
+          "fa": "تحسین و حمایت از تلاش دوست.",
+          "en": "Praises and supports a friend’s effort."
+        },
+        "example": {
+          "text": "I am really proud of you, and I hope you stay smoke-free forever.",
+          "translation": {
+            "fa": "واقعاً به تو افتخار می‌کنم و امیدوارم همیشه دور از سیگار بمانی.",
+            "en": "I am really proud of you, and I hope you stay smoke-free forever."
+          }
+        }
+      },
+      {
+        "id": "too-far",
+        "text": "I have come too far for that",
+        "pronunciation": {
+          "faReading": "آی هَو کَم تو فار فور ذَت",
+          "ipa": "/aɪ hæv kʌm tu fɑr fɔr ðæt/"
+        },
+        "meaning": {
+          "fa": "برای بازگشت بیش از آن پیشرفت کرده‌ام",
+          "en": "I have made too much progress to go back"
+        },
+        "context": {
+          "fa": "far میزان پیشرفت است، نه فاصلهٔ مکانی.",
+          "en": "Far measures progress rather than physical distance."
+        },
+        "example": {
+          "text": "Thank you, I will not go back, I have come too far for that.",
+          "translation": {
+            "fa": "ممنون؛ برنمی‌گردم، برای آن کار پیشرفت زیادی کرده‌ام.",
+            "en": "Thank you, I will not go back, I have come too far for that."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی این تبادل چیست؟",
+          "en": "What is the main subject of this exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب برنامهٔ ورزشی جدید",
+              "en": "Choosing a new exercise program"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تجربهٔ ترک سیگار و فایده‌های گزارش‌شدهٔ آن",
+              "en": "Quitting smoking and its reported benefits"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "روش تأمین هزینهٔ درمان یک دوست",
+              "en": "Funding a friend’s treatment"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "آرش ترک را اعلام می‌کند و از عامل‌های کمک‌کننده و تغییرهای بعدی می‌گوید.",
+          "en": "Arash announces quitting and describes contributing factors and later changes."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t05",
+          "t07",
+          "t09"
+        ]
+      },
+      {
+        "id": "duration",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرش پیش از ترک تقریباً چه مدت سیگار می‌کشیده است؟",
+          "en": "Approximately how long had Arash smoked before quitting?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک سال",
+              "en": "One year"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنج سال",
+              "en": "Five years"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ده سال",
+              "en": "Ten years"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "For almost ten years پاسخ مدتِ عادت پیش از ترک است، نه زمان سپری‌شده از ترک.",
+          "en": "For almost ten years answers the duration of smoking before quitting, not the time since quitting."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t03"
+        ]
+      },
+      {
+        "id": "factors",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرش کدام عوامل را کمک‌کننده می‌داند؟",
+          "en": "Which factors does Arash acknowledge as helpful?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درمان و اراده، همراه دوری از عادت‌های قبلی",
+              "en": "Treatment and determination, alongside avoiding old habits"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فقط عوض‌کردن شغل",
+              "en": "Only changing jobs"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فقط کمک مالی دوستان",
+              "en": "Only financial help from friends"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "به دو گزینهٔ medicine و determination پاسخ Both می‌دهد و چسب و دوری از عادت‌ها را توضیح می‌دهد.",
+          "en": "He answers Both to medicine and determination, then mentions a patch and avoiding old habits."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05"
+        ]
+      },
+      {
+        "id": "physical",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرش چه فایدهٔ جسمی را گزارش می‌کند؟",
+          "en": "What physical benefit does Arash report?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دوندگی روزانهٔ ده‌کیلومتری",
+              "en": "Running ten kilometers daily"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بالارفتن از پله‌ها بدون خستگی",
+              "en": "Climbing stairs without getting tired"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پیاده‌روی طولانی بدون تنگی‌نفس",
+              "en": "Walking long distances without breathlessness"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او می‌گوید I can climb the stairs without getting tired.",
+          "en": "He says I can climb the stairs without getting tired."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "money",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرش با پول پس‌اندازشده چه می‌کند؟",
+          "en": "What does Arash do with the saved money?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هر ماه مقدارش را به میلاد می‌دهد.",
+              "en": "He gives it to Milad monthly."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تمامش را خرج سفر مشخصی کرده است.",
+              "en": "He spent it all on a specified trip."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هر ماه برای چیز مفیدی استفاده‌اش می‌کند.",
+              "en": "He uses it for something useful each month."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "نوع خرید دقیق معلوم نیست؛ فقط something useful every month گفته می‌شود.",
+          "en": "No exact purchase is specified; he says something useful every month."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      }
+    ]
+  }
+}

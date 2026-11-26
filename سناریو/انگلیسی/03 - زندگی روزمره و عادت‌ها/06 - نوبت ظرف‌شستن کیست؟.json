@@ -1,0 +1,3388 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s06",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "نوبت ظرف‌شستن کیست؟",
+    "en": "Whose Turn to Wash Up?"
+  },
+  "objective": {
+    "fa": "نوبت‌های سارا و آرمان، محل ثبت نوبت‌ها و زمان وعدهٔ ظرف‌شستن آرمان را تشخیص بده.",
+    "en": "Identify Sara’s and Arman’s assigned days, where the list is, and when Arman promises to wash the dishes."
+  },
+  "speakers": [
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arman",
+      "text": "Whose turn is it to wash the dishes this week?",
+      "translation": {
+        "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+        "en": "Whose turn is it to wash the dishes this week?"
+      },
+      "tokens": [
+        {
+          "surface": "Whose",
+          "gloss": {
+            "fa": "مال چه کسی",
+            "en": "whose; asks who has a responsibility or possession"
+          }
+        },
+        {
+          "surface": "turn",
+          "gloss": {
+            "fa": "نوبت",
+            "en": "turn; an assigned opportunity or responsibility"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در سؤال نوبت جدا ترجمه نمی‌شود",
+            "en": "it; used in the turn question"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "wash",
+          "gloss": {
+            "fa": "شستن",
+            "en": "wash; clean with water"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "dishes",
+          "gloss": {
+            "fa": "ظرف‌ها",
+            "en": "dishes; plates and other items to wash"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; the person or thing here"
+          }
+        },
+        {
+          "surface": "week?",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sara",
+      "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+      "translation": {
+        "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+        "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "was",
+          "gloss": {
+            "fa": "بود؛ بودم",
+            "en": "was; am or is in the past"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "turn",
+          "gloss": {
+            "fa": "نوبت",
+            "en": "turn; an assigned opportunity or responsibility"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "Monday",
+          "gloss": {
+            "fa": "دوشنبه",
+            "en": "Monday; the day after Sunday"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "Tuesday,",
+          "gloss": {
+            "fa": "سه‌شنبه",
+            "en": "Tuesday; the day after Monday"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ نتیجه از نوبت‌های قبلی",
+            "en": "so; introduces a conclusion from assigned days"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "باید؛ نتیجه از تقسیم نوبت‌ها",
+            "en": "should; the expected turn based on the schedule"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "yours",
+          "gloss": {
+            "fa": "نوبت تو؛ بدون تکرار turn",
+            "en": "yours; your turn, without repeating turn"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arman",
+      "text": "Let me check the list, I wrote everything down on the fridge.",
+      "translation": {
+        "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+        "en": "Let me check the list, I wrote everything down on the fridge."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بگذار؛ برای بررسی خودم",
+            "en": "let; asks to check the list"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من را؛ به من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "check",
+          "gloss": {
+            "fa": "بررسی کردن",
+            "en": "check; look at something to make sure"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "list,",
+          "gloss": {
+            "fa": "فهرست",
+            "en": "list; a written set of items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "wrote",
+          "gloss": {
+            "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+            "en": "part of wrote everything down; recorded everything in writing"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+            "en": "part of wrote everything down; recorded everything in writing"
+          }
+        },
+        {
+          "surface": "down",
+          "gloss": {
+            "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+            "en": "part of wrote everything down; recorded everything in writing"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ محل فهرست",
+            "en": "on; where the list is displayed"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "fridge.",
+          "gloss": {
+            "fa": "یخچال",
+            "en": "fridge; a refrigerator"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sara",
+      "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+      "translation": {
+        "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+        "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله",
+            "en": "yes; shows that you agree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "saw",
+          "gloss": {
+            "fa": "دیدم",
+            "en": "saw; see in the past"
+          }
+        },
+        {
+          "surface": "it,",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند؛ نوبت‌های تو هستند",
+            "en": "are; links the assigned days to yours"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست",
+            "en": "right; correct"
+          }
+        },
+        {
+          "surface": "Wednesday",
+          "gloss": {
+            "fa": "چهارشنبه",
+            "en": "Wednesday; the day after Tuesday"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "Thursday",
+          "gloss": {
+            "fa": "پنجشنبه",
+            "en": "Thursday; the day after Wednesday"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "yours.",
+          "gloss": {
+            "fa": "نوبت‌های تو",
+            "en": "yours; your assigned days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arman",
+      "text": "I will do them tonight, I promise, I got home late yesterday.",
+      "translation": {
+        "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+        "en": "I will do them tonight, I promise, I got home late yesterday."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "بشویم؛ انجام ظرف‌شستن",
+            "en": "do; wash the dishes in do them"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "آن‌ها را؛ ظرف‌ها",
+            "en": "them; the dishes"
+          }
+        },
+        {
+          "surface": "tonight,",
+          "gloss": {
+            "fa": "امشب",
+            "en": "tonight; this night"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "promise,",
+          "gloss": {
+            "fa": "قول دادن",
+            "en": "promise; commit to doing something"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "got",
+          "gloss": {
+            "fa": "رسیدم؛ همراه home",
+            "en": "got; with home, arrived"
+          }
+        },
+        {
+          "surface": "home",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        },
+        {
+          "surface": "late",
+          "gloss": {
+            "fa": "دیر",
+            "en": "late; after the expected time"
+          }
+        },
+        {
+          "surface": "yesterday.",
+          "gloss": {
+            "fa": "دیروز",
+            "en": "yesterday; the day before today"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sara",
+      "text": "That is fine, but please do not leave it until the weekend again.",
+      "translation": {
+        "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+        "en": "That is fine, but please do not leave it until the weekend again."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "fine,",
+          "gloss": {
+            "fa": "خوب؛ در جواب احوالپرسی",
+            "en": "fine; well"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; a polite word when asking"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به درخواست منفی",
+            "en": "do; forms a negative request"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "leave",
+          "gloss": {
+            "fa": "گذاشتن؛ باقی گذاشتن",
+            "en": "leave; allow something to remain"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن کار؛ ظرف‌شستن",
+            "en": "it; the task of washing the dishes"
+          }
+        },
+        {
+          "surface": "until",
+          "gloss": {
+            "fa": "تا؛ تا وقتی که",
+            "en": "until; up to a time or event"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "weekend",
+          "gloss": {
+            "fa": "آخر هفته",
+            "en": "weekend; the end of the working week"
+          }
+        },
+        {
+          "surface": "again.",
+          "gloss": {
+            "fa": "دوباره؛ باز هم",
+            "en": "again; once more"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arman",
+      "text": "I understand, from now on I will do my turns on the same day.",
+      "translation": {
+        "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+        "en": "I understand, from now on I will do my turns on the same day."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "understand,",
+          "gloss": {
+            "fa": "فهمیدن",
+            "en": "understand; know what someone means"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "بخشی از «از این به بعد»",
+            "en": "part of from now on; starting now and continuing"
+          }
+        },
+        {
+          "surface": "now",
+          "gloss": {
+            "fa": "بخشی از «از این به بعد»",
+            "en": "part of from now on; starting now and continuing"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بخشی از «از این به بعد»",
+            "en": "part of from now on; starting now and continuing"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهم؛ نوبت‌هایم را",
+            "en": "do; carry out assigned dishwashing turns"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "turns",
+          "gloss": {
+            "fa": "نوبت‌ها",
+            "en": "turns; assigned occasions to act"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "same",
+          "gloss": {
+            "fa": "همان؛ یکسان",
+            "en": "same; identical or shared"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sara",
+      "text": "Thank you, sharing the chores makes living together much easier.",
+      "translation": {
+        "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+        "en": "Thank you, sharing the chores makes living together much easier."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "sharing",
+          "gloss": {
+            "fa": "تقسیم کردن؛ با هم بر عهده گرفتن",
+            "en": "sharing; dividing responsibility for chores"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "chores",
+          "gloss": {
+            "fa": "کارهای خانه",
+            "en": "chores; routine household tasks"
+          }
+        },
+        {
+          "surface": "makes",
+          "gloss": {
+            "fa": "باعث می‌شود",
+            "en": "makes; causes something to be a certain way"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "زندگی کردن؛ نام فعالیت",
+            "en": "living; the activity of sharing a home"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "much",
+          "gloss": {
+            "fa": "خیلی؛ پیش از easier",
+            "en": "much; strengthens a comparison"
+          }
+        },
+        {
+          "surface": "easier.",
+          "gloss": {
+            "fa": "آسان‌تر",
+            "en": "easier; less difficult"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arman",
+      "text": "You are welcome, it is fair for both of us.",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+        "en": "You are welcome, it is fair for both of us."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+            "en": "are; be with you, we or they"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "خواهش می‌کنم",
+            "en": "welcome; in you are welcome, replies to thanks"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "fair",
+          "gloss": {
+            "fa": "منصفانه",
+            "en": "fair; treating people reasonably"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sara",
+      "text": "I appreciate that, and I will do my turns on time too.",
+      "translation": {
+        "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+        "en": "I appreciate that, and I will do my turns on time too."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی کردن از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهم؛ نوبت‌هایم را",
+            "en": "do; carry out assigned dishwashing turns"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "turns",
+          "gloss": {
+            "fa": "نوبت‌ها",
+            "en": "turns; assigned occasions to act"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بخشی از «سر وقت»",
+            "en": "part of on time; at the scheduled time"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "بخشی از «سر وقت»",
+            "en": "part of on time; at the scheduled time"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "whose",
+        "text": "Whose",
+        "pronunciation": {
+          "faReading": "هوز",
+          "ipa": "/huz/"
+        },
+        "meaning": {
+          "fa": "مال چه کسی",
+          "en": "whose; asks who has a responsibility or possession"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "turn",
+        "text": "turn",
+        "pronunciation": {
+          "faReading": "تِرن",
+          "ipa": "/tɝn/"
+        },
+        "meaning": {
+          "fa": "نوبت",
+          "en": "turn; an assigned opportunity or responsibility"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در سؤال نوبت جدا ترجمه نمی‌شود",
+          "en": "it; used in the turn question"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "wash",
+        "text": "wash",
+        "pronunciation": {
+          "faReading": "واش",
+          "ipa": "/wɑʃ/"
+        },
+        "meaning": {
+          "fa": "شستن",
+          "en": "wash; clean with water"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "dishes",
+        "text": "dishes",
+        "pronunciation": {
+          "faReading": "دیشِز",
+          "ipa": "/ˈdɪʃɪz/"
+        },
+        "meaning": {
+          "fa": "ظرف‌ها",
+          "en": "dishes; plates and other items to wash"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; the person or thing here"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "it-base",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "was",
+        "text": "was",
+        "pronunciation": {
+          "faReading": "وَز",
+          "ipa": "/wəz/"
+        },
+        "meaning": {
+          "fa": "بود؛ بودم",
+          "en": "was; am or is in the past"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "monday",
+        "text": "Monday",
+        "pronunciation": {
+          "faReading": "ماندِی",
+          "ipa": "/ˈmʌndeɪ/"
+        },
+        "meaning": {
+          "fa": "دوشنبه",
+          "en": "Monday; the day after Sunday"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "tuesday",
+        "text": "Tuesday",
+        "pronunciation": {
+          "faReading": "توزدِی",
+          "ipa": "/ˈtuzdeɪ/"
+        },
+        "meaning": {
+          "fa": "سه‌شنبه",
+          "en": "Tuesday; the day after Monday"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ نتیجه از نوبت‌های قبلی",
+          "en": "so; introduces a conclusion from assigned days"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "باید؛ نتیجه از تقسیم نوبت‌ها",
+          "en": "should; the expected turn based on the schedule"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "yours",
+        "text": "yours",
+        "pronunciation": {
+          "faReading": "یورز",
+          "ipa": "/jʊrz/"
+        },
+        "meaning": {
+          "fa": "نوبت تو؛ بدون تکرار turn",
+          "en": "yours; your turn, without repeating turn"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بگذار؛ برای بررسی خودم",
+          "en": "let; asks to check the list"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "check",
+        "text": "check",
+        "pronunciation": {
+          "faReading": "چِک",
+          "ipa": "/tʃɛk/"
+        },
+        "meaning": {
+          "fa": "بررسی کردن",
+          "en": "check; look at something to make sure"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "list",
+        "text": "list",
+        "pronunciation": {
+          "faReading": "لیست",
+          "ipa": "/lɪst/"
+        },
+        "meaning": {
+          "fa": "فهرست",
+          "en": "list; a written set of items"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "wrote",
+        "text": "wrote",
+        "pronunciation": {
+          "faReading": "رُوت",
+          "ipa": "/roʊt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+          "en": "part of wrote everything down; recorded everything in writing"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+          "en": "part of wrote everything down; recorded everything in writing"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "down",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «همه‌چیز را یادداشت کردم»",
+          "en": "part of wrote everything down; recorded everything in writing"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "on-location",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ محل فهرست",
+          "en": "on; where the list is displayed"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "fridge",
+        "text": "fridge",
+        "pronunciation": {
+          "faReading": "فْریج",
+          "ipa": "/frɪdʒ/"
+        },
+        "meaning": {
+          "fa": "یخچال",
+          "en": "fridge; a refrigerator"
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; shows that you agree"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "saw",
+        "text": "saw",
+        "pronunciation": {
+          "faReading": "سا",
+          "ipa": "/sɔ/"
+        },
+        "meaning": {
+          "fa": "دیدم",
+          "en": "saw; see in the past"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستند؛ نوبت‌های تو هستند",
+          "en": "are; links the assigned days to yours"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست",
+          "en": "right; correct"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "wednesday",
+        "text": "Wednesday",
+        "pronunciation": {
+          "faReading": "وِنزدِی",
+          "ipa": "/ˈwɛnzdeɪ/"
+        },
+        "meaning": {
+          "fa": "چهارشنبه",
+          "en": "Wednesday; the day after Tuesday"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "thursday",
+        "text": "Thursday",
+        "pronunciation": {
+          "faReading": "ثِرز‌دِی",
+          "ipa": "/ˈθɝzdeɪ/"
+        },
+        "meaning": {
+          "fa": "پنجشنبه",
+          "en": "Thursday; the day after Wednesday"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "are-base",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "yours-possessive",
+        "text": "yours",
+        "pronunciation": {
+          "faReading": "یورز",
+          "ipa": "/jʊrz/"
+        },
+        "meaning": {
+          "fa": "نوبت‌های تو",
+          "en": "yours; your assigned days"
+        },
+        "example": {
+          "text": "Yes, I saw it, you are right, Wednesday and Thursday are yours.",
+          "translation": {
+            "fa": "بله، دیدمش؛ درست می‌گویی، چهارشنبه و پنجشنبه نوبت توست.",
+            "en": "Yes, I saw it, you are right, Wednesday and Thursday are yours."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "بشویم؛ انجام ظرف‌شستن",
+          "en": "do; wash the dishes in do them"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "آن‌ها را؛ ظرف‌ها",
+          "en": "them; the dishes"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "tonight",
+        "text": "tonight",
+        "pronunciation": {
+          "faReading": "تِنایت",
+          "ipa": "/təˈnaɪt/"
+        },
+        "meaning": {
+          "fa": "امشب",
+          "en": "tonight; this night"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "promise",
+        "text": "promise",
+        "pronunciation": {
+          "faReading": "پْرامِس",
+          "ipa": "/ˈprɑmɪs/"
+        },
+        "meaning": {
+          "fa": "قول دادن",
+          "en": "promise; commit to doing something"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "got",
+        "text": "got",
+        "pronunciation": {
+          "faReading": "گات",
+          "ipa": "/ɡɑt/"
+        },
+        "meaning": {
+          "fa": "رسیدم؛ همراه home",
+          "en": "got; with home, arrived"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "late",
+        "text": "late",
+        "pronunciation": {
+          "faReading": "لِیت",
+          "ipa": "/leɪt/"
+        },
+        "meaning": {
+          "fa": "دیر",
+          "en": "late; after the expected time"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "yesterday",
+        "text": "yesterday",
+        "pronunciation": {
+          "faReading": "یِستِردِی",
+          "ipa": "/ˈjɛstɚdeɪ/"
+        },
+        "meaning": {
+          "fa": "دیروز",
+          "en": "yesterday; the day before today"
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "fine",
+        "text": "fine",
+        "pronunciation": {
+          "faReading": "فاین",
+          "ipa": "/faɪn/"
+        },
+        "meaning": {
+          "fa": "خوب؛ در جواب احوالپرسی",
+          "en": "fine; well"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; a polite word when asking"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "do-negative",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به درخواست منفی",
+          "en": "do; forms a negative request"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "leave",
+        "text": "leave",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/liv/"
+        },
+        "meaning": {
+          "fa": "گذاشتن؛ باقی گذاشتن",
+          "en": "leave; allow something to remain"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن کار؛ ظرف‌شستن",
+          "en": "it; the task of washing the dishes"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "until",
+        "text": "until",
+        "pronunciation": {
+          "faReading": "اَنتیل",
+          "ipa": "/ənˈtɪl/"
+        },
+        "meaning": {
+          "fa": "تا؛ تا وقتی که",
+          "en": "until; up to a time or event"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "weekend",
+        "text": "weekend",
+        "pronunciation": {
+          "faReading": "ویک‌اِند",
+          "ipa": "/ˈwikˌɛnd/"
+        },
+        "meaning": {
+          "fa": "آخر هفته",
+          "en": "weekend; the end of the working week"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "That is fine, but please do not leave it until the weekend again.",
+          "translation": {
+            "fa": "اشکالی ندارد، ولی لطفاً دوباره تا آخر هفته عقبش نینداز.",
+            "en": "That is fine, but please do not leave it until the weekend again."
+          }
+        }
+      },
+      {
+        "id": "understand",
+        "text": "understand",
+        "pronunciation": {
+          "faReading": "آندِرْسْتَند",
+          "ipa": "/ˌʌndɚˈstænd/"
+        },
+        "meaning": {
+          "fa": "فهمیدن",
+          "en": "understand; know what someone means"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از این به بعد»",
+          "en": "part of from now on; starting now and continuing"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "now-future-start",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از این به بعد»",
+          "en": "part of from now on; starting now and continuing"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "on-future-start",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «از این به بعد»",
+          "en": "part of from now on; starting now and continuing"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "do-action",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام بدهم؛ نوبت‌هایم را",
+          "en": "do; carry out assigned dishwashing turns"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "turns",
+        "text": "turns",
+        "pronunciation": {
+          "faReading": "تِرنز",
+          "ipa": "/tɝnz/"
+        },
+        "meaning": {
+          "fa": "نوبت‌ها",
+          "en": "turns; assigned occasions to act"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "same",
+        "text": "same",
+        "pronunciation": {
+          "faReading": "سِیم",
+          "ipa": "/seɪm/"
+        },
+        "meaning": {
+          "fa": "همان؛ یکسان",
+          "en": "same; identical or shared"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "Thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "sharing",
+        "text": "sharing",
+        "pronunciation": {
+          "faReading": "شِرینگ",
+          "ipa": "/ˈʃɛrɪŋ/"
+        },
+        "meaning": {
+          "fa": "تقسیم کردن؛ با هم بر عهده گرفتن",
+          "en": "sharing; dividing responsibility for chores"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "chores",
+        "text": "chores",
+        "pronunciation": {
+          "faReading": "چورز",
+          "ipa": "/tʃɔrz/"
+        },
+        "meaning": {
+          "fa": "کارهای خانه",
+          "en": "chores; routine household tasks"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "makes",
+        "text": "makes",
+        "pronunciation": {
+          "faReading": "مِیکس",
+          "ipa": "/meɪks/"
+        },
+        "meaning": {
+          "fa": "باعث می‌شود",
+          "en": "makes; causes something to be a certain way"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن؛ نام فعالیت",
+          "en": "living; the activity of sharing a home"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ پیش از easier",
+          "en": "much; strengthens a comparison"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "easier",
+        "text": "easier",
+        "pronunciation": {
+          "faReading": "ایزیِر",
+          "ipa": "/ˈiziɚ/"
+        },
+        "meaning": {
+          "fa": "آسان‌تر",
+          "en": "easier; less difficult"
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "welcome; in you are welcome, replies to thanks"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "fair",
+        "text": "fair",
+        "pronunciation": {
+          "faReading": "فِر",
+          "ipa": "/fɛr/"
+        },
+        "meaning": {
+          "fa": "منصفانه",
+          "en": "fair; treating people reasonably"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two together"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "You are welcome, it is fair for both of us.",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ برای هر دوی ما منصفانه است.",
+            "en": "You are welcome, it is fair for both of us."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "I appreciate that, and I will do my turns on time too.",
+          "translation": {
+            "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+            "en": "I appreciate that, and I will do my turns on time too."
+          }
+        }
+      },
+      {
+        "id": "on-punctual",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «سر وقت»",
+          "en": "part of on time; at the scheduled time"
+        },
+        "example": {
+          "text": "I appreciate that, and I will do my turns on time too.",
+          "translation": {
+            "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+            "en": "I appreciate that, and I will do my turns on time too."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "بخشی از «سر وقت»",
+          "en": "part of on time; at the scheduled time"
+        },
+        "example": {
+          "text": "I appreciate that, and I will do my turns on time too.",
+          "translation": {
+            "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+            "en": "I appreciate that, and I will do my turns on time too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I appreciate that, and I will do my turns on time too.",
+          "translation": {
+            "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+            "en": "I appreciate that, and I will do my turns on time too."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "turns-and-possession",
+        "title": {
+          "fa": "نوبت چه کسی؟",
+          "en": "Whose turn is it?"
+        },
+        "explanation": {
+          "fa": "Whose turn is it to wash ...? می‌پرسد نوبت کیست. my turn اسم turn را دارد، اما yours یعنی your turn و دیگر turn تکرار نمی‌شود. در Wednesday and Thursday are yours هر دو روز به آرمان اختصاص دارند.",
+          "en": "Whose turn is it to wash ...? asks who has the responsibility. My turn includes the noun, while yours stands for your turn or assigned days. Wednesday and Thursday are yours allocates both days to Arman."
+        },
+        "example": {
+          "text": "It was my turn on Monday and Tuesday, so it should be yours now.",
+          "translation": {
+            "fa": "دوشنبه و سه‌شنبه نوبت من بود؛ پس الان باید نوبت تو باشد.",
+            "en": "It was my turn on Monday and Tuesday, so it should be yours now."
+          }
+        },
+        "takeaway": {
+          "fa": "yours به‌تنهایی جای your turn را می‌گیرد.",
+          "en": "Yours can replace your turn without repeating the noun."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نوبت چه کسی؟",
+              "en": "Whose turn is it?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Whose turn is it to wash the dishes"
+                },
+                {
+                  "text": "whose turn is it to + action"
+                },
+                {
+                  "fa": "نوبت کیست ظرف بشوید",
+                  "en": "Asking responsibility"
+                }
+              ],
+              [
+                {
+                  "text": "It was my turn on Monday and Tuesday"
+                },
+                {
+                  "text": "was my turn + days"
+                },
+                {
+                  "fa": "دوشنبه و سه‌شنبه نوبت من بود",
+                  "en": "Past allocation"
+                }
+              ],
+              [
+                {
+                  "text": "Wednesday and Thursday are yours"
+                },
+                {
+                  "text": "days + are yours"
+                },
+                {
+                  "fa": "چهارشنبه و پنجشنبه نوبت توست",
+                  "en": "Assigned days"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-and-written-list",
+        "title": {
+          "fa": "بررسی فهرست و اتفاق گذشته",
+          "en": "Checking the list and past events"
+        },
+        "explanation": {
+          "fa": "Let me check یعنی بگذار خودم بررسی کنم. wrote، saw و got شکل‌های گذشتهٔ write، see و get هستند. wrote everything down یعنی همه‌چیز را یادداشت کردم؛ got home یعنی به خانه رسیدم.",
+          "en": "Let me check requests a moment to check. Wrote, saw and got are past forms of write, see and get. Wrote everything down means recorded everything; got home means arrived home."
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        },
+        "takeaway": {
+          "fa": "شکل‌های wrote، saw و got را با عبارت واقعی یاد بگیر.",
+          "en": "Learn wrote, saw and got in their actual phrases."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بررسی فهرست و اتفاق گذشته",
+              "en": "Checking the list and past events"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Let me check the list"
+                },
+                {
+                  "text": "let me + action"
+                },
+                {
+                  "fa": "بگذار فهرست را بررسی کنم",
+                  "en": "Requesting a moment"
+                }
+              ],
+              [
+                {
+                  "text": "I wrote everything down on the fridge"
+                },
+                {
+                  "text": "wrote + object + down"
+                },
+                {
+                  "fa": "روی یخچال یادداشت کردم",
+                  "en": "A written record"
+                }
+              ],
+              [
+                {
+                  "text": "I got home late yesterday"
+                },
+                {
+                  "text": "got home + time"
+                },
+                {
+                  "fa": "دیروز دیر رسیدم خانه",
+                  "en": "Past arrival"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "promise-and-expectation",
+        "title": {
+          "fa": "انتظار نوبت و قول انجام کار",
+          "en": "Expected turns and promises"
+        },
+        "explanation": {
+          "fa": "it should be yours now نتیجه‌گیری از برنامه است: الان باید نوبت تو باشد. I will do them tonight با I promise قول را روشن می‌کند؛ them ظرف‌هاست. اینجا do them یعنی ظرف‌ها را بشویم.",
+          "en": "It should be yours now is an expectation based on the schedule. I will do them tonight, reinforced by I promise, commits to washing the dishes. Them refers to the dishes, not the days."
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        },
+        "takeaway": {
+          "fa": "should اینجا انتظار منطقی است؛ will همراه promise قول است.",
+          "en": "Should expresses an expectation here; will with promise expresses commitment."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "انتظار نوبت و قول انجام کار",
+              "en": "Expected turns and promises"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "it should be yours now"
+                },
+                {
+                  "text": "should be + yours"
+                },
+                {
+                  "fa": "الان باید نوبت تو باشد",
+                  "en": "An expected assignment"
+                }
+              ],
+              [
+                {
+                  "text": "I will do them tonight, I promise"
+                },
+                {
+                  "text": "will + action + time + promise"
+                },
+                {
+                  "fa": "قول می‌دهم امشب بشویم",
+                  "en": "An explicit commitment"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "deadline-and-new-habit",
+        "title": {
+          "fa": "عقب‌نینداختن و عادت تازه",
+          "en": "Not delaying and a new commitment"
+        },
+        "explanation": {
+          "fa": "do not leave it until the weekend یعنی ظرف‌شستن را تا آخر هفته عقب نینداز. from now on آغاز یک رفتار تازه است. on the same day یعنی همان روز نوبت و on time یعنی سر وقت؛ این دو به برنامهٔ انجام کار مربوط‌اند.",
+          "en": "Do not leave it until the weekend asks Arman not to delay the task. From now on starts a new commitment. On the same day means the assigned day, and on time means punctually."
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        },
+        "takeaway": {
+          "fa": "until آخرین زمان انتظار را می‌گوید؛ on time سر وقت است.",
+          "en": "Until marks the point up to which something is delayed; on time means punctually."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عقب‌نینداختن و عادت تازه",
+              "en": "Not delaying and a new commitment"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "do not leave it until the weekend"
+                },
+                {
+                  "text": "do not + delay + until + time"
+                },
+                {
+                  "fa": "تا آخر هفته عقب نینداز",
+                  "en": "A negative request"
+                }
+              ],
+              [
+                {
+                  "text": "from now on"
+                },
+                {
+                  "text": "from now on"
+                },
+                {
+                  "fa": "از این به بعد",
+                  "en": "A new starting point"
+                }
+              ],
+              [
+                {
+                  "text": "on the same day"
+                },
+                {
+                  "text": "on + assigned day"
+                },
+                {
+                  "fa": "در همان روز",
+                  "en": "No postponement"
+                }
+              ],
+              [
+                {
+                  "text": "on time"
+                },
+                {
+                  "text": "on time"
+                },
+                {
+                  "fa": "سر وقت",
+                  "en": "Punctuality"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sharing-and-easier",
+        "title": {
+          "fa": "اثر تقسیم کار",
+          "en": "The effect of sharing chores"
+        },
+        "explanation": {
+          "fa": "sharing the chores نام یک فعالیت است و makes با آن می‌آید. living together فعالیت دیگری است؛ much easier یعنی خیلی آسان‌تر. جمله می‌گوید تقسیم کار زندگی با هم را آسان‌تر می‌کند، نه اینکه خود chores همیشه کم می‌شود.",
+          "en": "Sharing the chores is an activity used as the subject of makes. Living together names the affected activity. Much easier strengthens the comparison: shared responsibility improves living together, not necessarily the number of chores."
+        },
+        "example": {
+          "text": "Thank you, sharing the chores makes living together much easier.",
+          "translation": {
+            "fa": "ممنون؛ تقسیم کارهای خانه زندگی مشترک را خیلی آسان‌تر می‌کند.",
+            "en": "Thank you, sharing the chores makes living together much easier."
+          }
+        },
+        "takeaway": {
+          "fa": "much قبل از easier شدت «آسان‌تر» را بیشتر می‌کند.",
+          "en": "Much before easier strengthens the comparison."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اثر تقسیم کار",
+              "en": "The effect of sharing chores"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "sharing the chores"
+                },
+                {
+                  "text": "activity with ing"
+                },
+                {
+                  "fa": "تقسیم مسئولیت کارها",
+                  "en": "The sentence topic"
+                }
+              ],
+              [
+                {
+                  "text": "makes living together much easier"
+                },
+                {
+                  "text": "makes + activity + much easier"
+                },
+                {
+                  "fa": "زندگی با هم را خیلی آسان‌تر می‌کند",
+                  "en": "An effect and a stronger comparison"
+                }
+              ],
+              [
+                {
+                  "text": "it is fair for both of us"
+                },
+                {
+                  "text": "fair for + both of us"
+                },
+                {
+                  "fa": "برای هر دو منصفانه است",
+                  "en": "Evaluating the arrangement"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "whose-turn",
+        "text": "Whose turn is it",
+        "pronunciation": {
+          "faReading": "هوز تِرن ایز ایت",
+          "ipa": "/huz tɝn ɪz ɪt/"
+        },
+        "meaning": {
+          "fa": "نوبت چه کسی است",
+          "en": "Whose turn is it?"
+        },
+        "context": {
+          "fa": "پرسش از مسئولیت شستن ظرف‌ها.",
+          "en": "Asks who is responsible for washing the dishes."
+        },
+        "example": {
+          "text": "Whose turn is it to wash the dishes this week?",
+          "translation": {
+            "fa": "این هفته نوبت چه کسی است ظرف‌ها را بشوید؟",
+            "en": "Whose turn is it to wash the dishes this week?"
+          }
+        }
+      },
+      {
+        "id": "check-list",
+        "text": "Let me check the list",
+        "pronunciation": {
+          "faReading": "لِت می چِک ذِ لیست",
+          "ipa": "/lɛt mi tʃɛk ðə lɪst/"
+        },
+        "meaning": {
+          "fa": "بگذار فهرست را بررسی کنم",
+          "en": "Let me check the list"
+        },
+        "context": {
+          "fa": "آرمان برای روشن‌کردن نوبت‌ها به فهرست رجوع می‌کند.",
+          "en": "Arman checks the recorded allocation."
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "write-down",
+        "text": "wrote everything down",
+        "pronunciation": {
+          "faReading": "رُوت اِوری‌ثینگ داون",
+          "ipa": "/roʊt ˈɛvriˌθɪŋ daʊn/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز را یادداشت کردم",
+          "en": "Wrote everything down"
+        },
+        "context": {
+          "fa": "ثبت کتبی برنامه روی یخچال.",
+          "en": "A written record on the fridge."
+        },
+        "example": {
+          "text": "Let me check the list, I wrote everything down on the fridge.",
+          "translation": {
+            "fa": "بگذار فهرست را نگاه کنم؛ همه‌چیز را روی یخچال یادداشت کردم.",
+            "en": "Let me check the list, I wrote everything down on the fridge."
+          }
+        }
+      },
+      {
+        "id": "promise",
+        "text": "I will do them tonight, I promise",
+        "pronunciation": {
+          "faReading": "آی ویل دو ذِم تِنایت آی پْرامِس",
+          "ipa": "/aɪ wɪl du ðɛm təˈnaɪt aɪ ˈprɑmɪs/"
+        },
+        "meaning": {
+          "fa": "قول می‌دهم امشب ظرف‌ها را بشویم",
+          "en": "I promise to wash them tonight"
+        },
+        "context": {
+          "fa": "them ظرف‌هاست، نه دو روز هفته.",
+          "en": "Them refers to the dishes, not the two weekdays."
+        },
+        "example": {
+          "text": "I will do them tonight, I promise, I got home late yesterday.",
+          "translation": {
+            "fa": "امشب ظرف‌ها را می‌شویم، قول می‌دهم؛ دیروز دیر به خانه رسیدم.",
+            "en": "I will do them tonight, I promise, I got home late yesterday."
+          }
+        }
+      },
+      {
+        "id": "from-now",
+        "text": "from now on",
+        "pronunciation": {
+          "faReading": "فْرِم ناو آن",
+          "ipa": "/frəm naʊ ɑn/"
+        },
+        "meaning": {
+          "fa": "از این به بعد",
+          "en": "From now on"
+        },
+        "context": {
+          "fa": "آغاز تعهد تازه به انجام همان‌روز نوبت‌ها.",
+          "en": "Starts a new commitment to doing chores on the assigned day."
+        },
+        "example": {
+          "text": "I understand, from now on I will do my turns on the same day.",
+          "translation": {
+            "fa": "می‌فهمم؛ از این به بعد نوبت‌هایم را همان روز انجام می‌دهم.",
+            "en": "I understand, from now on I will do my turns on the same day."
+          }
+        }
+      },
+      {
+        "id": "on-time",
+        "text": "on time",
+        "pronunciation": {
+          "faReading": "آن تایم",
+          "ipa": "/ɑn taɪm/"
+        },
+        "meaning": {
+          "fa": "سر وقت",
+          "en": "On time"
+        },
+        "context": {
+          "fa": "سارا هم قول رعایت نوبت‌هایش را می‌دهد.",
+          "en": "Sara also commits to punctual turns."
+        },
+        "example": {
+          "text": "I appreciate that, and I will do my turns on time too.",
+          "translation": {
+            "fa": "از این بابت ممنونم؛ من هم نوبت‌هایم را سر وقت انجام می‌دهم.",
+            "en": "I appreciate that, and I will do my turns on time too."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب یخچال تازه",
+              "en": "Choosing a new fridge"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "روشن‌کردن نوبت ظرف‌شستن و قول انجام سر وقت",
+              "en": "Clarifying dishwashing turns and committing to punctual completion"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامه‌ریزی مهمانی آخر هفته",
+              "en": "Planning a weekend party"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "فهرست نوبت‌ها بررسی و تأخیرهای آینده منع می‌شود.",
+          "en": "They check assigned days and agree not to postpone chores."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t06",
+          "t07"
+        ]
+      },
+      {
+        "id": "sara-days",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام روزها نوبت سارا بوده است؟",
+          "en": "Which days were Sara’s turn?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "چهارشنبه و پنجشنبه",
+              "en": "Wednesday and Thursday"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جمعه و شنبه",
+              "en": "Friday and Saturday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دوشنبه و سه‌شنبه",
+              "en": "Monday and Tuesday"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سارا می‌گوید my turn on Monday and Tuesday.",
+          "en": "Sara says my turn on Monday and Tuesday."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "arman-days",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "چهارشنبه و پنجشنبه نوبت چه کسی است؟",
+          "en": "Whose days are Wednesday and Thursday?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آرمان",
+              "en": "Arman"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سارا",
+              "en": "Sara"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در متن مشخص نیست.",
+              "en": "The dialogue does not say."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا در خطاب به آرمان می‌گوید Wednesday and Thursday are yours.",
+          "en": "Sara tells Arman Wednesday and Thursday are yours."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "list",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برنامه کجا نوشته شده است؟",
+          "en": "Where is the schedule written?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "داخل تلفن",
+              "en": "In a phone"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "روی یخچال",
+              "en": "On the fridge"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "روی درِ اتاق",
+              "en": "On the bedroom door"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "آرمان می‌گوید I wrote everything down on the fridge.",
+          "en": "Arman says I wrote everything down on the fridge."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "promise-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان قول می‌دهد چه زمانی ظرف‌ها را بشوید؟",
+          "en": "When does Arman promise to wash the dishes?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فردا صبح",
+              "en": "Tomorrow morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آخر هفته",
+              "en": "At the weekend"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "امشب",
+              "en": "Tonight"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "I will do them tonight زمان قول را می‌گوید.",
+          "en": "I will do them tonight gives the promised time."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      }
+    ]
+  }
+}

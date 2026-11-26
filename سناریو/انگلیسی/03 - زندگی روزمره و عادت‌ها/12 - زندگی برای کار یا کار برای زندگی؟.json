@@ -1,0 +1,4872 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s12",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "C1",
+  "title": {
+    "fa": "زندگی برای کار یا کار برای زندگی؟",
+    "en": "Living to Work or Working to Live?"
+  },
+  "objective": {
+    "fa": "دیدگاه‌های ابزاری و معنامحور دربارهٔ کار را مقایسه کن، پیامد سلطهٔ کار را توضیح بده و نقش مرزبندی شخصی را تحلیل کن.",
+    "en": "Compare instrumental and meaning-centered views of work, explain the consequences of work taking over, and analyze individualized boundaries."
+  },
+  "speakers": [
+    {
+      "id": "farzad",
+      "name": "Farzad",
+      "gender": "man"
+    },
+    {
+      "id": "leila",
+      "name": "Leila",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "farzad",
+      "text": "People often argue whether we live to work or work to live.",
+      "translation": {
+        "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+        "en": "People often argue whether we live to work or work to live."
+      },
+      "tokens": [
+        {
+          "surface": "People",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "often",
+          "gloss": {
+            "fa": "اغلب؛ به دفعات",
+            "en": "often; frequently"
+          }
+        },
+        {
+          "surface": "argue",
+          "gloss": {
+            "fa": "جر و بحث کردن",
+            "en": "argue; disagree in an angry discussion"
+          }
+        },
+        {
+          "surface": "whether",
+          "gloss": {
+            "fa": "آیا؛ بین دو حالت",
+            "en": "whether; introduces alternatives under consideration"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "live",
+          "gloss": {
+            "fa": "زندگی می‌کنیم",
+            "en": "live; lead one’s life, not an adjective meaning broadcast live"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ هدف زندگی یا کار",
+            "en": "to; introduces purpose in the mirrored alternatives"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ هدف زندگی یا کار",
+            "en": "to; introduces purpose in the mirrored alternatives"
+          }
+        },
+        {
+          "surface": "live.",
+          "gloss": {
+            "fa": "زندگی کنیم",
+            "en": "live; lead one’s life"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "leila",
+      "text": "It is a deep question, and the answer differs from person to person.",
+      "translation": {
+        "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+        "en": "It is a deep question, and the answer differs from person to person."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن؛ این",
+            "en": "it; refers to something mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "deep",
+          "gloss": {
+            "fa": "عمیق؛ تأمل‌برانگیز",
+            "en": "deep; involving fundamental or complex questions"
+          }
+        },
+        {
+          "surface": "question,",
+          "gloss": {
+            "fa": "پرسش",
+            "en": "question; an issue requiring an answer"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "answer",
+          "gloss": {
+            "fa": "پاسخ",
+            "en": "answer; a response to a question"
+          }
+        },
+        {
+          "surface": "differs",
+          "gloss": {
+            "fa": "فرق می‌کند",
+            "en": "differs; varies"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از؛ اهلِ",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "person",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "person.",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "farzad",
+      "text": "For many people, work is only a way to earn money for their life.",
+      "translation": {
+        "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+        "en": "For many people, work is only a way to earn money for their life."
+      },
+      "tokens": [
+        {
+          "surface": "For",
+          "gloss": {
+            "fa": "از دیدِ؛ برای این گروه",
+            "en": "for; frames a group’s perspective"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "people,",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "only",
+          "gloss": {
+            "fa": "فقط",
+            "en": "only; no more than"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "way",
+          "gloss": {
+            "fa": "راه؛ روش",
+            "en": "way; a manner or approach"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ هدف درآمدزایی",
+            "en": "to; introduces the purpose of work as earning money"
+          }
+        },
+        {
+          "surface": "earn",
+          "gloss": {
+            "fa": "کسب کردن؛ درآمد داشتن",
+            "en": "earn; receive money through work"
+          }
+        },
+        {
+          "surface": "money",
+          "gloss": {
+            "fa": "پول",
+            "en": "money; what is used to pay for things"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "life.",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "leila",
+      "text": "For others, work is where they find meaning and purpose in life.",
+      "translation": {
+        "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+        "en": "For others, work is where they find meaning and purpose in life."
+      },
+      "tokens": [
+        {
+          "surface": "For",
+          "gloss": {
+            "fa": "از دیدِ؛ برای گروه دیگر",
+            "en": "for; introduces a contrasting group’s perspective"
+          }
+        },
+        {
+          "surface": "others,",
+          "gloss": {
+            "fa": "دیگران",
+            "en": "others; other people"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "جایی که؛ موقعیت تجربهٔ معنا",
+            "en": "where; predicative relative locating the source of meaning"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "find",
+          "gloss": {
+            "fa": "پیدا کردن؛ یافتن",
+            "en": "find; discover or experience"
+          }
+        },
+        {
+          "surface": "meaning",
+          "gloss": {
+            "fa": "معنا",
+            "en": "meaning; significance or a sense of value"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "purpose",
+          "gloss": {
+            "fa": "هدف؛ مقصود",
+            "en": "purpose; an aim giving direction or significance"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "life.",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "farzad",
+      "text": "I believe the balance matters more than choosing one side.",
+      "translation": {
+        "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+        "en": "I believe the balance matters more than choosing one side."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "believe",
+          "gloss": {
+            "fa": "باور داشتن؛ فکر کردن",
+            "en": "believe; think something is true"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "balance",
+          "gloss": {
+            "fa": "تعادل",
+            "en": "balance; a workable relationship between competing demands"
+          }
+        },
+        {
+          "surface": "matters",
+          "gloss": {
+            "fa": "اهمیت دارد",
+            "en": "matters; is important"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر؛ درجهٔ اهمیت",
+            "en": "more; marks a greater degree of importance"
+          }
+        },
+        {
+          "surface": "than",
+          "gloss": {
+            "fa": "از؛ در مقایسه",
+            "en": "than; introduces the second part of a comparison"
+          }
+        },
+        {
+          "surface": "choosing",
+          "gloss": {
+            "fa": "انتخاب کردن",
+            "en": "choosing; selecting among alternatives"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "side.",
+          "gloss": {
+            "fa": "طرف؛ سوی بحث",
+            "en": "side; a position in a debate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "leila",
+      "text": "I agree, working hard without time for life is also a kind of loss.",
+      "translation": {
+        "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+        "en": "I agree, working hard without time for life is also a kind of loss."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "agree,",
+          "gloss": {
+            "fa": "موافق بودن",
+            "en": "agree; have the same opinion"
+          }
+        },
+        {
+          "surface": "working",
+          "gloss": {
+            "fa": "کار کردن",
+            "en": "working; doing work"
+          }
+        },
+        {
+          "surface": "hard",
+          "gloss": {
+            "fa": "بخشی از «فرد پرتلاش»",
+            "en": "part of hard worker; someone who makes a lot of effort"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "بدونِ",
+            "en": "without; not doing or having"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "life",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم؛ همچنین",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "kind",
+          "gloss": {
+            "fa": "نوع؛ شکل",
+            "en": "kind; a type of loss, not kindness"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از؛ برای پیوند واژه‌ها",
+            "en": "of; links related words"
+          }
+        },
+        {
+          "surface": "loss.",
+          "gloss": {
+            "fa": "فقدان؛ از دست رفتن چیزی ارزشمند",
+            "en": "loss; the absence or forfeiture of something valuable"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "farzad",
+      "text": "And a life without any work can lose its structure and value too.",
+      "translation": {
+        "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+        "en": "And a life without any work can lose its structure and value too."
+      },
+      "tokens": [
+        {
+          "surface": "And",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "life",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        },
+        {
+          "surface": "without",
+          "gloss": {
+            "fa": "بدونِ",
+            "en": "without; not doing or having"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "هیچ؛ هر؛ مقداری",
+            "en": "any; an unspecified amount"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "lose",
+          "gloss": {
+            "fa": "از دست دادن",
+            "en": "lose; cease to have"
+          }
+        },
+        {
+          "surface": "its",
+          "gloss": {
+            "fa": "مال آن؛ مربوط به زندگی",
+            "en": "its; refers to life, not work"
+          }
+        },
+        {
+          "surface": "structure",
+          "gloss": {
+            "fa": "ساختار؛ نظم",
+            "en": "structure; an organizing framework"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "value",
+          "gloss": {
+            "fa": "ارزش قائل بودن برای",
+            "en": "value; consider important"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم؛ نیز",
+            "en": "too; also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "leila",
+      "text": "True, work gives us routine, skill, and a place in the world.",
+      "translation": {
+        "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+        "en": "True, work gives us routine, skill, and a place in the world."
+      },
+      "tokens": [
+        {
+          "surface": "True,",
+          "gloss": {
+            "fa": "درست است؛ پذیرش نکتهٔ قبل",
+            "en": "true; concedes a point before the argument develops"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "gives",
+          "gloss": {
+            "fa": "می‌دهد",
+            "en": "gives; provides"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "routine,",
+          "gloss": {
+            "fa": "برنامهٔ همیشگی",
+            "en": "routine; a regular pattern of activities"
+          }
+        },
+        {
+          "surface": "skill,",
+          "gloss": {
+            "fa": "مهارت",
+            "en": "skill; an ability developed through practice"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "place",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "world.",
+          "gloss": {
+            "fa": "جهان؛ جامعه",
+            "en": "world; society or human life at large here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "farzad",
+      "text": "The problem is when work takes over everything else completely.",
+      "translation": {
+        "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+        "en": "The problem is when work takes over everything else completely."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "problem",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; something difficult"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی که؛ موقعیت مسئله‌ساز",
+            "en": "when; introduces the condition defining the problem"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "takes",
+          "gloss": {
+            "fa": "بخشی از «مسلط شدن»",
+            "en": "part of takes over; gains excessive control of other life domains"
+          }
+        },
+        {
+          "surface": "over",
+          "gloss": {
+            "fa": "بخشی از «مسلط شدن»",
+            "en": "part of takes over; gains excessive control of other life domains"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "else",
+          "gloss": {
+            "fa": "دیگر؛ علاوه بر این",
+            "en": "else; additional"
+          }
+        },
+        {
+          "surface": "completely.",
+          "gloss": {
+            "fa": "کاملاً",
+            "en": "completely; entirely"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "leila",
+      "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+      "translation": {
+        "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+        "en": "Then rest, family, and hobbies disappear, and people feel empty."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "rest,",
+          "gloss": {
+            "fa": "استراحت؛ استراحت کردن",
+            "en": "rest; relaxation or taking a break"
+          }
+        },
+        {
+          "surface": "family,",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "hobbies",
+          "gloss": {
+            "fa": "سرگرمی‌ها",
+            "en": "hobbies; activities for fun"
+          }
+        },
+        {
+          "surface": "disappear,",
+          "gloss": {
+            "fa": "ناپدید شدن؛ کنار رفتن",
+            "en": "disappear; cease to be present"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "افراد؛ مردم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کردن",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "empty.",
+          "gloss": {
+            "fa": "تهی؛ فاقد رضایت عاطفی",
+            "en": "empty; emotionally unfulfilled rather than physically vacant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "farzad",
+      "text": "So we should work with purpose, but never let it consume us.",
+      "translation": {
+        "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+        "en": "So we should work with purpose, but never let it consume us."
+      },
+      "tokens": [
+        {
+          "surface": "So",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "بهتر است؛ لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "purpose,",
+          "gloss": {
+            "fa": "هدف؛ مقصود",
+            "en": "purpose; an aim giving direction or significance"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "never",
+          "gloss": {
+            "fa": "هرگز؛ هیچ‌وقت",
+            "en": "never; not at any time"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "اجازه دادن؛ با never نهی شده است",
+            "en": "let; allow, negated by never"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ منظور کار است",
+            "en": "it; refers to work, not to purpose"
+          }
+        },
+        {
+          "surface": "consume",
+          "gloss": {
+            "fa": "تمام وقت و توان را در خود بلعیدن",
+            "en": "consume; metaphorically absorb a person’s life and energy"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "ما را؛ به ما",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "leila",
+      "text": "A good life is built in the space between work and living.",
+      "translation": {
+        "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+        "en": "A good life is built in the space between work and living."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "life",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "جزء مجهول is built",
+            "en": "is; passive auxiliary foregrounding the life being developed"
+          }
+        },
+        {
+          "surface": "built",
+          "gloss": {
+            "fa": "ساخته‌شده",
+            "en": "built; created or developed"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "space",
+          "gloss": {
+            "fa": "فضا؛ فرصت محفوظ",
+            "en": "space; protected capacity for life outside work here"
+          }
+        },
+        {
+          "surface": "between",
+          "gloss": {
+            "fa": "بین",
+            "en": "between; linking or separating people or things"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "living.",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "living; having a home somewhere"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "farzad",
+      "text": "That space is where family, books, and friends find their place.",
+      "translation": {
+        "fa": "آن فضا جایی است که خانواده، کتاب‌ها و دوستان جای خود را پیدا می‌کنند.",
+        "en": "That space is where family, books, and friends find their place."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "space",
+          "gloss": {
+            "fa": "فضا؛ فرصت محفوظ",
+            "en": "space; protected capacity for life outside work here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "جایی که؛ فضای استعاری زندگی",
+            "en": "where; predicative relative developing the spatial metaphor"
+          }
+        },
+        {
+          "surface": "family,",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "books,",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "friends",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        },
+        {
+          "surface": "find",
+          "gloss": {
+            "fa": "پیدا کردن؛ یافتن",
+            "en": "find; discover or experience"
+          }
+        },
+        {
+          "surface": "their",
+          "gloss": {
+            "fa": "مال آن‌ها",
+            "en": "their; belonging to them"
+          }
+        },
+        {
+          "surface": "place.",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "leila",
+      "text": "Exactly, and protecting that space is a skill everyone must learn.",
+      "translation": {
+        "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+        "en": "Exactly, and protecting that space is a skill everyone must learn."
+      },
+      "tokens": [
+        {
+          "surface": "Exactly,",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "protecting",
+          "gloss": {
+            "fa": "محافظت کردن؛ فعالیت در جایگاه فاعل",
+            "en": "protecting; an ing-clause functioning as subject"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "space",
+          "gloss": {
+            "fa": "فضا؛ فرصت محفوظ",
+            "en": "space; protected capacity for life outside work here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "skill",
+          "gloss": {
+            "fa": "مهارت",
+            "en": "skill; an ability developed through practice"
+          }
+        },
+        {
+          "surface": "everyone",
+          "gloss": {
+            "fa": "همه؛ همگی",
+            "en": "everyone; all the people"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "باید؛ ضرورت هنجاری در نظر گوینده",
+            "en": "must; expresses the speaker’s normative necessity"
+          }
+        },
+        {
+          "surface": "learn.",
+          "gloss": {
+            "fa": "یاد گرفتن",
+            "en": "learn; gain knowledge or a skill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "speakerId": "farzad",
+      "text": "I try to draw a clear line between work time and life time.",
+      "translation": {
+        "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+        "en": "I try to draw a clear line between work time and life time."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "تلاش کردن؛ امتحان کردن",
+            "en": "try; make an effort or test a method"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر پس از try",
+            "en": "to; introduces the attempted action draw"
+          }
+        },
+        {
+          "surface": "draw",
+          "gloss": {
+            "fa": "بخشی از «مرز روشنی کشیدن»",
+            "en": "part of draw a clear line; establish an explicit boundary"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "بخشی از «مرز روشنی کشیدن»",
+            "en": "part of draw a clear line; establish an explicit boundary"
+          }
+        },
+        {
+          "surface": "clear",
+          "gloss": {
+            "fa": "بخشی از «مرز روشنی کشیدن»",
+            "en": "part of draw a clear line; establish an explicit boundary"
+          }
+        },
+        {
+          "surface": "line",
+          "gloss": {
+            "fa": "بخشی از «مرز روشنی کشیدن»",
+            "en": "part of draw a clear line; establish an explicit boundary"
+          }
+        },
+        {
+          "surface": "between",
+          "gloss": {
+            "fa": "بین",
+            "en": "between; linking or separating people or things"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار؛ کار کردن",
+            "en": "work; a job or doing a job"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "life",
+          "gloss": {
+            "fa": "زندگی",
+            "en": "life; a person’s existence and experiences"
+          }
+        },
+        {
+          "surface": "time.",
+          "gloss": {
+            "fa": "وقت؛ زمان",
+            "en": "time; a period or moment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "speakerId": "leila",
+      "text": "That line may differ for each person, but it must exist.",
+      "translation": {
+        "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+        "en": "That line may differ for each person, but it must exist."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "line",
+          "gloss": {
+            "fa": "خط؛ مرز",
+            "en": "line; a boundary, literal or metaphorical"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "ممکن است؛ امکان تفاوت فردی",
+            "en": "may; allows variation across individuals"
+          }
+        },
+        {
+          "surface": "differ",
+          "gloss": {
+            "fa": "فرق داشتن",
+            "en": "differ; vary between people or cases"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ به مدتِ",
+            "en": "for; a purpose or a length of time"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "هر",
+            "en": "each; every one considered separately"
+          }
+        },
+        {
+          "surface": "person,",
+          "gloss": {
+            "fa": "شخص؛ فرد",
+            "en": "person; a human being"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; shows a difference"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن؛ منظور همان مرز است",
+            "en": "it; refers to the boundary, not its exact position"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "باید؛ ضرورت وجود مرز",
+            "en": "must; insists on the boundary’s existence"
+          }
+        },
+        {
+          "surface": "exist.",
+          "gloss": {
+            "fa": "وجود داشتن",
+            "en": "exist; be present or real"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "people",
+        "text": "People",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "often",
+        "text": "often",
+        "pronunciation": {
+          "faReading": "آفِن",
+          "ipa": "/ˈɔfən/"
+        },
+        "meaning": {
+          "fa": "اغلب؛ به دفعات",
+          "en": "often; frequently"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "argue",
+        "text": "argue",
+        "pronunciation": {
+          "faReading": "آرگیو",
+          "ipa": "/ˈɑrɡju/"
+        },
+        "meaning": {
+          "fa": "جر و بحث کردن",
+          "en": "argue; disagree in an angry discussion"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "whether",
+        "text": "whether",
+        "pronunciation": {
+          "faReading": "وِذِر",
+          "ipa": "/ˈwɛðɚ/"
+        },
+        "meaning": {
+          "fa": "آیا؛ بین دو حالت",
+          "en": "whether; introduces alternatives under consideration"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "live",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی می‌کنیم",
+          "en": "live; lead one’s life, not an adjective meaning broadcast live"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ هدف زندگی یا کار",
+          "en": "to; introduces purpose in the mirrored alternatives"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار؛ کار کردن",
+          "en": "work; a job or doing a job"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "live-verb",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی کنیم",
+          "en": "live; lead one’s life"
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "It",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; refers to something mentioned"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "deep",
+        "text": "deep",
+        "pronunciation": {
+          "faReading": "دیپ",
+          "ipa": "/dip/"
+        },
+        "meaning": {
+          "fa": "عمیق؛ تأمل‌برانگیز",
+          "en": "deep; involving fundamental or complex questions"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "question",
+        "text": "question",
+        "pronunciation": {
+          "faReading": "کْوِسچِن",
+          "ipa": "/ˈkwɛstʃən/"
+        },
+        "meaning": {
+          "fa": "پرسش",
+          "en": "question; an issue requiring an answer"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "answer",
+        "text": "answer",
+        "pronunciation": {
+          "faReading": "اَنسِر",
+          "ipa": "/ˈænsɚ/"
+        },
+        "meaning": {
+          "fa": "پاسخ",
+          "en": "answer; a response to a question"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "differs",
+        "text": "differs",
+        "pronunciation": {
+          "faReading": "دیفِرز",
+          "ipa": "/ˈdɪfɚz/"
+        },
+        "meaning": {
+          "fa": "فرق می‌کند",
+          "en": "differs; varies"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "person",
+        "text": "person",
+        "pronunciation": {
+          "faReading": "پِرسِن",
+          "ipa": "/ˈpɝsən/"
+        },
+        "meaning": {
+          "fa": "شخص؛ فرد",
+          "en": "person; a human being"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "to-base",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "For",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "از دیدِ؛ برای این گروه",
+          "en": "for; frames a group’s perspective"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بسیاری",
+          "en": "many; a large number"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "only",
+        "text": "only",
+        "pronunciation": {
+          "faReading": "اُونلی",
+          "ipa": "/ˈoʊnli/"
+        },
+        "meaning": {
+          "fa": "فقط",
+          "en": "only; no more than"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "way",
+        "text": "way",
+        "pronunciation": {
+          "faReading": "وِی",
+          "ipa": "/weɪ/"
+        },
+        "meaning": {
+          "fa": "راه؛ روش",
+          "en": "way; a manner or approach"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "to-purpose",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ هدف درآمدزایی",
+          "en": "to; introduces the purpose of work as earning money"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "earn",
+        "text": "earn",
+        "pronunciation": {
+          "faReading": "اِرن",
+          "ipa": "/ɝn/"
+        },
+        "meaning": {
+          "fa": "کسب کردن؛ درآمد داشتن",
+          "en": "earn; receive money through work"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "money",
+        "text": "money",
+        "pronunciation": {
+          "faReading": "مانی",
+          "ipa": "/ˈmʌni/"
+        },
+        "meaning": {
+          "fa": "پول",
+          "en": "money; what is used to pay for things"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "for-base",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به مدتِ",
+          "en": "for; a purpose or a length of time"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "their",
+        "text": "their",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "مال آن‌ها",
+          "en": "their; belonging to them"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "life",
+        "text": "life",
+        "pronunciation": {
+          "faReading": "لایف",
+          "ipa": "/laɪf/"
+        },
+        "meaning": {
+          "fa": "زندگی",
+          "en": "life; a person’s existence and experiences"
+        },
+        "example": {
+          "text": "For many people, work is only a way to earn money for their life.",
+          "translation": {
+            "fa": "برای افراد زیادی، کار فقط راهی برای کسب پولِ زندگی است.",
+            "en": "For many people, work is only a way to earn money for their life."
+          }
+        }
+      },
+      {
+        "id": "for-perspective",
+        "text": "For",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "از دیدِ؛ برای گروه دیگر",
+          "en": "for; introduces a contrasting group’s perspective"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "others",
+        "text": "others",
+        "pronunciation": {
+          "faReading": "آذِرز",
+          "ipa": "/ˈʌðɚz/"
+        },
+        "meaning": {
+          "fa": "دیگران",
+          "en": "others; other people"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "جایی که؛ موقعیت تجربهٔ معنا",
+          "en": "where; predicative relative locating the source of meaning"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "find",
+        "text": "find",
+        "pronunciation": {
+          "faReading": "فایند",
+          "ipa": "/faɪnd/"
+        },
+        "meaning": {
+          "fa": "پیدا کردن؛ یافتن",
+          "en": "find; discover or experience"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "meaning",
+        "text": "meaning",
+        "pronunciation": {
+          "faReading": "مینینگ",
+          "ipa": "/ˈminɪŋ/"
+        },
+        "meaning": {
+          "fa": "معنا",
+          "en": "meaning; significance or a sense of value"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "purpose",
+        "text": "purpose",
+        "pronunciation": {
+          "faReading": "پِرپِس",
+          "ipa": "/ˈpɝpəs/"
+        },
+        "meaning": {
+          "fa": "هدف؛ مقصود",
+          "en": "purpose; an aim giving direction or significance"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "believe",
+        "text": "believe",
+        "pronunciation": {
+          "faReading": "بی‌لیو",
+          "ipa": "/bɪˈliv/"
+        },
+        "meaning": {
+          "fa": "باور داشتن؛ فکر کردن",
+          "en": "believe; think something is true"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "balance",
+        "text": "balance",
+        "pronunciation": {
+          "faReading": "بَلِنس",
+          "ipa": "/ˈbæləns/"
+        },
+        "meaning": {
+          "fa": "تعادل",
+          "en": "balance; a workable relationship between competing demands"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "matters",
+        "text": "matters",
+        "pronunciation": {
+          "faReading": "مَتِرز",
+          "ipa": "/ˈmætɚz/"
+        },
+        "meaning": {
+          "fa": "اهمیت دارد",
+          "en": "matters; is important"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ درجهٔ اهمیت",
+          "en": "more; marks a greater degree of importance"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "than",
+        "text": "than",
+        "pronunciation": {
+          "faReading": "ذَن",
+          "ipa": "/ðæn/"
+        },
+        "meaning": {
+          "fa": "از؛ در مقایسه",
+          "en": "than; introduces the second part of a comparison"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "choosing",
+        "text": "choosing",
+        "pronunciation": {
+          "faReading": "چوزینگ",
+          "ipa": "/ˈtʃuzɪŋ/"
+        },
+        "meaning": {
+          "fa": "انتخاب کردن",
+          "en": "choosing; selecting among alternatives"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "side",
+        "text": "side",
+        "pronunciation": {
+          "faReading": "ساید",
+          "ipa": "/saɪd/"
+        },
+        "meaning": {
+          "fa": "طرف؛ سوی بحث",
+          "en": "side; a position in a debate"
+        },
+        "example": {
+          "text": "I believe the balance matters more than choosing one side.",
+          "translation": {
+            "fa": "به نظر من تعادل از انتخاب یک طرف مهم‌تر است.",
+            "en": "I believe the balance matters more than choosing one side."
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "working",
+        "text": "working",
+        "pronunciation": {
+          "faReading": "وِرکینگ",
+          "ipa": "/ˈwɝkɪŋ/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "working; doing work"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "hard",
+        "text": "hard",
+        "pronunciation": {
+          "faReading": "هارد",
+          "ipa": "/hɑrd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «فرد پرتلاش»",
+          "en": "part of hard worker; someone who makes a lot of effort"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "without",
+        "text": "without",
+        "pronunciation": {
+          "faReading": "ویذاوت",
+          "ipa": "/wɪˈðaʊt/"
+        },
+        "meaning": {
+          "fa": "بدونِ",
+          "en": "without; not doing or having"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "نوع؛ شکل",
+          "en": "kind; a type of loss, not kindness"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "loss",
+        "text": "loss",
+        "pronunciation": {
+          "faReading": "لاس",
+          "ipa": "/lɔs/"
+        },
+        "meaning": {
+          "fa": "فقدان؛ از دست رفتن چیزی ارزشمند",
+          "en": "loss; the absence or forfeiture of something valuable"
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        }
+      },
+      {
+        "id": "any",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "هیچ؛ هر؛ مقداری",
+          "en": "any; an unspecified amount"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "lose",
+        "text": "lose",
+        "pronunciation": {
+          "faReading": "لوز",
+          "ipa": "/luz/"
+        },
+        "meaning": {
+          "fa": "از دست دادن",
+          "en": "lose; cease to have"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "its",
+        "text": "its",
+        "pronunciation": {
+          "faReading": "ایتس",
+          "ipa": "/ɪts/"
+        },
+        "meaning": {
+          "fa": "مال آن؛ مربوط به زندگی",
+          "en": "its; refers to life, not work"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "structure",
+        "text": "structure",
+        "pronunciation": {
+          "faReading": "سْتْراکچِر",
+          "ipa": "/ˈstrʌktʃɚ/"
+        },
+        "meaning": {
+          "fa": "ساختار؛ نظم",
+          "en": "structure; an organizing framework"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "value",
+        "text": "value",
+        "pronunciation": {
+          "faReading": "وَلیو",
+          "ipa": "/ˈvælju/"
+        },
+        "meaning": {
+          "fa": "ارزش قائل بودن برای",
+          "en": "value; consider important"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "And a life without any work can lose its structure and value too.",
+          "translation": {
+            "fa": "و زندگی بدون هیچ کاری هم ممکن است ساختار و ارزشش را از دست بدهد.",
+            "en": "And a life without any work can lose its structure and value too."
+          }
+        }
+      },
+      {
+        "id": "true",
+        "text": "True",
+        "pronunciation": {
+          "faReading": "تْرو",
+          "ipa": "/tru/"
+        },
+        "meaning": {
+          "fa": "درست است؛ پذیرش نکتهٔ قبل",
+          "en": "true; concedes a point before the argument develops"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "gives",
+        "text": "gives",
+        "pronunciation": {
+          "faReading": "گیوز",
+          "ipa": "/ɡɪvz/"
+        },
+        "meaning": {
+          "fa": "می‌دهد",
+          "en": "gives; provides"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "routine",
+        "text": "routine",
+        "pronunciation": {
+          "faReading": "روتین",
+          "ipa": "/ruˈtin/"
+        },
+        "meaning": {
+          "fa": "برنامهٔ همیشگی",
+          "en": "routine; a regular pattern of activities"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "skill",
+        "text": "skill",
+        "pronunciation": {
+          "faReading": "سْکیل",
+          "ipa": "/skɪl/"
+        },
+        "meaning": {
+          "fa": "مهارت",
+          "en": "skill; an ability developed through practice"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "world",
+        "text": "world",
+        "pronunciation": {
+          "faReading": "وِرلد",
+          "ipa": "/wɝld/"
+        },
+        "meaning": {
+          "fa": "جهان؛ جامعه",
+          "en": "world; society or human life at large here"
+        },
+        "example": {
+          "text": "True, work gives us routine, skill, and a place in the world.",
+          "translation": {
+            "fa": "درست است؛ کار به ما نظم روزانه، مهارت و جایگاهی در جهان می‌دهد.",
+            "en": "True, work gives us routine, skill, and a place in the world."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; something difficult"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی که؛ موقعیت مسئله‌ساز",
+          "en": "when; introduces the condition defining the problem"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "takes",
+        "text": "takes",
+        "pronunciation": {
+          "faReading": "تِیکس",
+          "ipa": "/teɪks/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مسلط شدن»",
+          "en": "part of takes over; gains excessive control of other life domains"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "over",
+        "text": "over",
+        "pronunciation": {
+          "faReading": "اُووِر",
+          "ipa": "/ˈoʊvɚ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مسلط شدن»",
+          "en": "part of takes over; gains excessive control of other life domains"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "else",
+        "text": "else",
+        "pronunciation": {
+          "faReading": "اِلس",
+          "ipa": "/ɛls/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ علاوه بر این",
+          "en": "else; additional"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "completely",
+        "text": "completely",
+        "pronunciation": {
+          "faReading": "کِمپْلیتلی",
+          "ipa": "/kəmˈplitli/"
+        },
+        "meaning": {
+          "fa": "کاملاً",
+          "en": "completely; entirely"
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "rest",
+        "text": "rest",
+        "pronunciation": {
+          "faReading": "رِست",
+          "ipa": "/rɛst/"
+        },
+        "meaning": {
+          "fa": "استراحت؛ استراحت کردن",
+          "en": "rest; relaxation or taking a break"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "hobbies",
+        "text": "hobbies",
+        "pronunciation": {
+          "faReading": "ها‌بیز",
+          "ipa": "/ˈhɑbiz/"
+        },
+        "meaning": {
+          "fa": "سرگرمی‌ها",
+          "en": "hobbies; activities for fun"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "disappear",
+        "text": "disappear",
+        "pronunciation": {
+          "faReading": "دیسِپیر",
+          "ipa": "/ˌdɪsəˈpɪr/"
+        },
+        "meaning": {
+          "fa": "ناپدید شدن؛ کنار رفتن",
+          "en": "disappear; cease to be present"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "empty",
+        "text": "empty",
+        "pronunciation": {
+          "faReading": "اِمپتی",
+          "ipa": "/ˈɛmpti/"
+        },
+        "meaning": {
+          "fa": "تهی؛ فاقد رضایت عاطفی",
+          "en": "empty; emotionally unfulfilled rather than physically vacant"
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "So",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "ولی",
+          "en": "but; shows a difference"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "never",
+        "text": "never",
+        "pronunciation": {
+          "faReading": "نِوِر",
+          "ipa": "/ˈnɛvɚ/"
+        },
+        "meaning": {
+          "fa": "هرگز؛ هیچ‌وقت",
+          "en": "never; not at any time"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "اجازه دادن؛ با never نهی شده است",
+          "en": "let; allow, negated by never"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "it-reference",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ منظور کار است",
+          "en": "it; refers to work, not to purpose"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "consume",
+        "text": "consume",
+        "pronunciation": {
+          "faReading": "کِنسوم",
+          "ipa": "/kənˈsum/"
+        },
+        "meaning": {
+          "fa": "تمام وقت و توان را در خود بلعیدن",
+          "en": "consume; metaphorically absorb a person’s life and energy"
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "is-passive",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "جزء مجهول is built",
+          "en": "is; passive auxiliary foregrounding the life being developed"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "built",
+        "text": "built",
+        "pronunciation": {
+          "faReading": "بیلت",
+          "ipa": "/bɪlt/"
+        },
+        "meaning": {
+          "fa": "ساخته‌شده",
+          "en": "built; created or developed"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "space",
+        "text": "space",
+        "pronunciation": {
+          "faReading": "سْپِیس",
+          "ipa": "/speɪs/"
+        },
+        "meaning": {
+          "fa": "فضا؛ فرصت محفوظ",
+          "en": "space; protected capacity for life outside work here"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "between",
+        "text": "between",
+        "pronunciation": {
+          "faReading": "بی‌توین",
+          "ipa": "/bɪˈtwin/"
+        },
+        "meaning": {
+          "fa": "بین",
+          "en": "between; linking or separating people or things"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن",
+          "en": "living; having a home somewhere"
+        },
+        "example": {
+          "text": "A good life is built in the space between work and living.",
+          "translation": {
+            "fa": "زندگی خوب در فضای میان کار و زندگی ساخته می‌شود.",
+            "en": "A good life is built in the space between work and living."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "That",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That space is where family, books, and friends find their place.",
+          "translation": {
+            "fa": "آن فضا جایی است که خانواده، کتاب‌ها و دوستان جای خود را پیدا می‌کنند.",
+            "en": "That space is where family, books, and friends find their place."
+          }
+        }
+      },
+      {
+        "id": "where-relative",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "جایی که؛ فضای استعاری زندگی",
+          "en": "where; predicative relative developing the spatial metaphor"
+        },
+        "example": {
+          "text": "That space is where family, books, and friends find their place.",
+          "translation": {
+            "fa": "آن فضا جایی است که خانواده، کتاب‌ها و دوستان جای خود را پیدا می‌کنند.",
+            "en": "That space is where family, books, and friends find their place."
+          }
+        }
+      },
+      {
+        "id": "books",
+        "text": "books",
+        "pronunciation": {
+          "faReading": "بوکس",
+          "ipa": "/bʊks/"
+        },
+        "meaning": {
+          "fa": "کتاب‌ها",
+          "en": "books; things to read"
+        },
+        "example": {
+          "text": "That space is where family, books, and friends find their place.",
+          "translation": {
+            "fa": "آن فضا جایی است که خانواده، کتاب‌ها و دوستان جای خود را پیدا می‌کنند.",
+            "en": "That space is where family, books, and friends find their place."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "That space is where family, books, and friends find their place.",
+          "translation": {
+            "fa": "آن فضا جایی است که خانواده، کتاب‌ها و دوستان جای خود را پیدا می‌کنند.",
+            "en": "That space is where family, books, and friends find their place."
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "Exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        }
+      },
+      {
+        "id": "protecting",
+        "text": "protecting",
+        "pronunciation": {
+          "faReading": "پْرِتِکتینگ",
+          "ipa": "/prəˈtɛktɪŋ/"
+        },
+        "meaning": {
+          "fa": "محافظت کردن؛ فعالیت در جایگاه فاعل",
+          "en": "protecting; an ing-clause functioning as subject"
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        }
+      },
+      {
+        "id": "everyone",
+        "text": "everyone",
+        "pronunciation": {
+          "faReading": "اِوری‌وان",
+          "ipa": "/ˈɛvriwʌn/"
+        },
+        "meaning": {
+          "fa": "همه؛ همگی",
+          "en": "everyone; all the people"
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "باید؛ ضرورت هنجاری در نظر گوینده",
+          "en": "must; expresses the speaker’s normative necessity"
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        }
+      },
+      {
+        "id": "learn",
+        "text": "learn",
+        "pronunciation": {
+          "faReading": "لِرن",
+          "ipa": "/lɝn/"
+        },
+        "meaning": {
+          "fa": "یاد گرفتن",
+          "en": "learn; gain knowledge or a skill"
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "تلاش کردن؛ امتحان کردن",
+          "en": "try; make an effort or test a method"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "نشانۀ مصدر پس از try",
+          "en": "to; introduces the attempted action draw"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "draw",
+        "text": "draw",
+        "pronunciation": {
+          "faReading": "دْرا",
+          "ipa": "/drɔ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مرز روشنی کشیدن»",
+          "en": "part of draw a clear line; establish an explicit boundary"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "a-boundary",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مرز روشنی کشیدن»",
+          "en": "part of draw a clear line; establish an explicit boundary"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "clear",
+        "text": "clear",
+        "pronunciation": {
+          "faReading": "کْلیر",
+          "ipa": "/klɪr/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مرز روشنی کشیدن»",
+          "en": "part of draw a clear line; establish an explicit boundary"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "line",
+        "text": "line",
+        "pronunciation": {
+          "faReading": "لاین",
+          "ipa": "/laɪn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مرز روشنی کشیدن»",
+          "en": "part of draw a clear line; establish an explicit boundary"
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      },
+      {
+        "id": "line-base",
+        "text": "line",
+        "pronunciation": {
+          "faReading": "لاین",
+          "ipa": "/laɪn/"
+        },
+        "meaning": {
+          "fa": "خط؛ مرز",
+          "en": "line; a boundary, literal or metaphorical"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "ممکن است؛ امکان تفاوت فردی",
+          "en": "may; allows variation across individuals"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "differ",
+        "text": "differ",
+        "pronunciation": {
+          "faReading": "دیفِر",
+          "ipa": "/ˈdɪfɚ/"
+        },
+        "meaning": {
+          "fa": "فرق داشتن",
+          "en": "differ; vary between people or cases"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "each; every one considered separately"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "it-reference-2",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ منظور همان مرز است",
+          "en": "it; refers to the boundary, not its exact position"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "must-obligation",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "باید؛ ضرورت وجود مرز",
+          "en": "must; insists on the boundary’s existence"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      },
+      {
+        "id": "exist",
+        "text": "exist",
+        "pronunciation": {
+          "faReading": "ایگْزیست",
+          "ipa": "/ɪɡˈzɪst/"
+        },
+        "meaning": {
+          "fa": "وجود داشتن",
+          "en": "exist; be present or real"
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "mirrored-alternatives",
+        "title": {
+          "fa": "دو هدف با ترتیب آینه‌ای",
+          "en": "Mirrored alternatives and purpose"
+        },
+        "explanation": {
+          "fa": "live to work و work to live با جابه‌جایی همان واژه‌ها دو جهت هدف را می‌سازند. whether ... or ... پرسش وابستهٔ دوگزینه‌ای پس از argue است؛ ترتیب درون بند خبری است، نه do we live. عنوان بحث را قاب‌بندی می‌کند، اما فرزاد بعداً انتخاب دوگانه را کافی نمی‌داند.",
+          "en": "Live to work and work to live reverse the same lexical items to contrast the direction of purpose. Whether ... or ... introduces an embedded alternative question after argue, retaining declarative order. The framing is binary, but Farzad later resists treating a single side as sufficient."
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        },
+        "takeaway": {
+          "fa": "تقابل لفظی آغاز بحث لزوماً نتیجهٔ نهایی بحث نیست.",
+          "en": "The opening verbal opposition need not determine the final position."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دو هدف با ترتیب آینه‌ای",
+              "en": "Mirrored alternatives and purpose"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "whether we live to work or work to live"
+                },
+                {
+                  "text": "whether + declarative alternative + or + alternative"
+                },
+                {
+                  "fa": "آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم",
+                  "en": "Embedded alternatives"
+                }
+              ],
+              [
+                {
+                  "text": "I believe the balance matters more than choosing one side"
+                },
+                {
+                  "text": "comparative evaluation + ing complement"
+                },
+                {
+                  "fa": "تعادل مهم‌تر از انتخاب یک سوست",
+                  "en": "Rejecting a rigid binary"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "group-perspectives",
+        "title": {
+          "fa": "دیدگاه ابزاری و معنامحور",
+          "en": "Instrumental and meaning-centered perspectives"
+        },
+        "explanation": {
+          "fa": "For many people و For others دامنهٔ دو دیدگاه را تعیین می‌کنند؛ هیچ‌کدام همهٔ مردم نیستند. a way to earn money کار را وسیله می‌بیند، ولی where they find meaning and purpose منشأ معنا را برجسته می‌کند. where مکان فیزیکیِ محل کار را به‌تنهایی توصیف نمی‌کند، بلکه نقش کار در زندگی را می‌سازد.",
+          "en": "For many people and For others scope two perspectives rather than universal claims. A way to earn money frames work instrumentally, while where they find meaning and purpose locates significance in work. Where goes beyond a physical workplace to describe work’s role in life."
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        },
+        "takeaway": {
+          "fa": "دو نگاه می‌توانند در افراد مختلف یا با وزن‌های متفاوت هم‌زمان وجود داشته باشند.",
+          "en": "The two views need not exclude different emphases within a person."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دیدگاه ابزاری و معنامحور",
+              "en": "Instrumental and meaning-centered perspectives"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "For many people, work is only a way to earn money"
+                },
+                {
+                  "text": "perspective frame + instrumental complement"
+                },
+                {
+                  "fa": "کار برای بسیاری وسیلهٔ درآمد است",
+                  "en": "An instrumental view"
+                }
+              ],
+              [
+                {
+                  "text": "For others, work is where they find meaning and purpose in life"
+                },
+                {
+                  "text": "contrasting frame + where-clause"
+                },
+                {
+                  "fa": "کار برای برخی منشأ معنا و هدف است",
+                  "en": "A meaning-centered view"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "activities-as-subjects",
+        "title": {
+          "fa": "فعالیت‌ها در جایگاه فاعل",
+          "en": "Activities functioning as subjects"
+        },
+        "explanation": {
+          "fa": "working hard without time for life یک بند ingدار در جایگاه فاعل is است؛ protecting that space هم با is یک مهارت تعریف می‌شود. در هر دو، کل فعالیت یک واحد تلقی شده است. without time for life گروه اسمی پس از حرف اضافه دارد؛ choosing one side هم پس از than آمده و موضوع مقایسه است.",
+          "en": "Working hard without time for life and protecting that space are ing-clauses functioning as singular subjects of is. Each activity is construed as a unit. Without time for life contains a noun complement, while choosing one side follows than as the comparison term."
+        },
+        "example": {
+          "text": "I agree, working hard without time for life is also a kind of loss.",
+          "translation": {
+            "fa": "موافقم؛ سخت‌کارکردن بدون داشتن وقت برای زندگی هم نوعی از دست دادن است.",
+            "en": "I agree, working hard without time for life is also a kind of loss."
+          }
+        },
+        "takeaway": {
+          "fa": "شکل ing می‌تواند کل یک فعالیت پیچیده را به موضوع جمله تبدیل کند.",
+          "en": "An ing-clause can package a complex activity as the subject of a clause."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فعالیت‌ها در جایگاه فاعل",
+              "en": "Activities functioning as subjects"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "working hard without time for life is also a kind of loss"
+                },
+                {
+                  "text": "ing-clause subject + singular is"
+                },
+                {
+                  "fa": "کار سخت بدون وقت زندگی نوعی فقدان است",
+                  "en": "An activity evaluated as one unit"
+                }
+              ],
+              [
+                {
+                  "text": "protecting that space is a skill everyone must learn"
+                },
+                {
+                  "text": "ing-clause subject + is + classification"
+                },
+                {
+                  "fa": "حفظ آن فضا یک مهارت است",
+                  "en": "Classifying an activity"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "metaphorical-domination",
+        "title": {
+          "fa": "سلطه و فضای استعاری",
+          "en": "Domination and metaphorical space"
+        },
+        "explanation": {
+          "fa": "takes over تصویر تصاحب و سلطهٔ کار را می‌سازد. never let it consume us این تصویر را به بلعیدن توان زندگی گسترش می‌دهد؛ it کار است. space، place و line نیز یک شبکهٔ استعاری از جای‌دادن و مرزبندی زندگی می‌سازند، نه صرفاً اتاق و خط فیزیکی.",
+          "en": "Takes over frames work as gaining control, and never let it consume us extends the image to absorption of a life’s energy; it refers to work. Space, place and line develop a connected spatial metaphor of room for life and boundaries, not merely physical rooms or marks."
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        },
+        "takeaway": {
+          "fa": "مرجع it و استعاری‌بودن فضا را برای فهم استدلال دنبال کن.",
+          "en": "Track the referent of it and the spatial metaphor through the argument."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "سلطه و فضای استعاری",
+              "en": "Domination and metaphorical space"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "work takes over everything else completely"
+                },
+                {
+                  "text": "take over + object"
+                },
+                {
+                  "fa": "کار کاملاً بر همه‌چیز مسلط می‌شود",
+                  "en": "Work as a dominating force"
+                }
+              ],
+              [
+                {
+                  "text": "never let it consume us"
+                },
+                {
+                  "text": "negative permission + bare infinitive"
+                },
+                {
+                  "fa": "نگذاریم همهٔ وجودمان را بگیرد",
+                  "en": "Absorption as a warning"
+                }
+              ],
+              [
+                {
+                  "text": "draw a clear line"
+                },
+                {
+                  "text": "draw + boundary metaphor"
+                },
+                {
+                  "fa": "مرز روشنی کشیدن",
+                  "en": "Personal boundary-setting"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "modality-and-personal-boundary",
+        "title": {
+          "fa": "تفاوت مرزها و ضرورت وجودشان",
+          "en": "Variable boundaries and necessary existence"
+        },
+        "explanation": {
+          "fa": "may differ امکان تفاوت فردی را می‌پذیرد، اما must exist وجود اصل مرز را ضروری می‌داند. تضاد but این دو سطح را جدا می‌کند: جای مرز متغیر است، نه ضرورت داشتنش. should work with purpose هم توصیهٔ ارزشی است و از دادهٔ تجربی قطعی جداست.",
+          "en": "May differ permits individual variation, while must exist insists on the boundary’s existence. But separates these levels: the position may vary, not the claimed need for a boundary. Should work with purpose is likewise a normative recommendation rather than an established empirical fact."
+        },
+        "example": {
+          "text": "That line may differ for each person, but it must exist.",
+          "translation": {
+            "fa": "آن مرز ممکن است برای هر فرد متفاوت باشد، ولی باید وجود داشته باشد.",
+            "en": "That line may differ for each person, but it must exist."
+          }
+        },
+        "takeaway": {
+          "fa": "تفاوت در شکل اجرا، نفی اصل مرزبندی نیست.",
+          "en": "Variation in implementation does not negate the proposed principle."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تفاوت مرزها و ضرورت وجودشان",
+              "en": "Variable boundaries and necessary existence"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "That line may differ for each person"
+                },
+                {
+                  "text": "may + variation"
+                },
+                {
+                  "fa": "مرز ممکن است برای هرکس فرق کند",
+                  "en": "Allowance for individual differences"
+                }
+              ],
+              [
+                {
+                  "text": "but it must exist"
+                },
+                {
+                  "text": "but + must + principle"
+                },
+                {
+                  "fa": "ولی باید وجود داشته باشد",
+                  "en": "Insistence on the principle"
+                }
+              ],
+              [
+                {
+                  "text": "we should work with purpose"
+                },
+                {
+                  "text": "should + recommended action"
+                },
+                {
+                  "fa": "باید هدفمند کار کنیم",
+                  "en": "A normative proposal"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "passive-and-relative",
+        "title": {
+          "fa": "مجهول و بندهای تعریف‌کننده",
+          "en": "Passive framing and defining clauses"
+        },
+        "explanation": {
+          "fa": "is built در A good life is built ... زندگی خوب را محور می‌کند و سازنده را نام نمی‌برد. where family ... find their place محتوای استعارهٔ space را توضیح می‌دهد. در a skill everyone must learn، نشانۀ مفعولی that حذف شده؛ everyone فاعل learn و skill چیزی است که باید آموخته شود.",
+          "en": "Is built foregrounds the good life without naming its builder. Where family ... find their place develops the space metaphor. In a skill everyone must learn, object relative that is omitted: everyone is the learner and skill is what must be learned."
+        },
+        "example": {
+          "text": "Exactly, and protecting that space is a skill everyone must learn.",
+          "translation": {
+            "fa": "دقیقاً؛ محافظت از آن فضا مهارتی است که همه باید یاد بگیرند.",
+            "en": "Exactly, and protecting that space is a skill everyone must learn."
+          }
+        },
+        "takeaway": {
+          "fa": "حذف that مفعولی را با حذف فاعل بند اشتباه نگیر.",
+          "en": "Do not confuse an omitted object relative marker with an absent clause subject."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مجهول و بندهای تعریف‌کننده",
+              "en": "Passive framing and defining clauses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "A good life is built in the space between work and living"
+                },
+                {
+                  "text": "passive be + built"
+                },
+                {
+                  "fa": "زندگی خوب در آن فضا ساخته می‌شود",
+                  "en": "Focus on the result"
+                }
+              ],
+              [
+                {
+                  "text": "That space is where family, books, and friends find their place"
+                },
+                {
+                  "text": "where-clause as complement"
+                },
+                {
+                  "fa": "آن فضا جای خانواده، کتاب‌ها و دوستان است",
+                  "en": "Defining a metaphorical space"
+                }
+              ],
+              [
+                {
+                  "text": "a skill everyone must learn"
+                },
+                {
+                  "text": "noun + object relative without marker"
+                },
+                {
+                  "fa": "مهارتی که همه باید یاد بگیرند",
+                  "en": "Omitted object marker"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "consequences-and-qualification",
+        "title": {
+          "fa": "پیامدها و ادعاهای محدود",
+          "en": "Consequences and qualified claims"
+        },
+        "explanation": {
+          "fa": "when work takes over وضعیت مسئله‌ساز را معرفی می‌کند و Then پیامدهای آن را می‌آورد. can lose در سوی دیگر امکان زیان بی‌کاری را می‌گوید، نه حکم قطعی برای هر فرد. True پذیرش بخشی از استدلال است؛ گفتگو با انکار ارزش کار یا حذف زندگی غیرکاری جمع‌بندی نمی‌شود.",
+          "en": "When work takes over defines the problematic condition and Then introduces consequences. Can lose on the other side expresses possible loss from having no work, not an inevitable outcome for every person. True concedes part of the reasoning; the exchange does not reject work or nonwork life wholesale."
+        },
+        "example": {
+          "text": "Then rest, family, and hobbies disappear, and people feel empty.",
+          "translation": {
+            "fa": "آن وقت استراحت، خانواده و سرگرمی‌ها کنار می‌روند و آدم‌ها احساس تهی‌بودن می‌کنند.",
+            "en": "Then rest, family, and hobbies disappear, and people feel empty."
+          }
+        },
+        "takeaway": {
+          "fa": "can امکان است و many تعمیم محدود؛ استدلال دربارهٔ تعادل است.",
+          "en": "Can marks possibility and many a limited generalization; the argument concerns balance."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیامدها و ادعاهای محدود",
+              "en": "Consequences and qualified claims"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a life without any work can lose its structure and value too"
+                },
+                {
+                  "text": "can + possible loss"
+                },
+                {
+                  "fa": "زندگی بدون کار هم ممکن است نظم و ارزش از دست بدهد",
+                  "en": "A possible cost"
+                }
+              ],
+              [
+                {
+                  "text": "when work takes over everything else completely"
+                },
+                {
+                  "text": "when + problematic condition"
+                },
+                {
+                  "fa": "وقتی کار مسلط شود",
+                  "en": "The condition under criticism"
+                }
+              ],
+              [
+                {
+                  "text": "Then rest, family, and hobbies disappear"
+                },
+                {
+                  "text": "then + consequences"
+                },
+                {
+                  "fa": "آن‌گاه استراحت و روابط کنار می‌روند",
+                  "en": "The speakers’ stated consequences"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "collocations-and-life-time",
+        "title": {
+          "fa": "هم‌آیندها و عبارت نامعمول life time",
+          "en": "Collocations and the unusual life time phrase"
+        },
+        "explanation": {
+          "fa": "earn money درآمد کسب‌کردن، find meaning یافتن معنا و a place in the world جایگاه اجتماعی داشتن است. life time در پایان متن به قرینهٔ work time زمان زندگی شخصی است؛ برای این معنا personal time یا time outside work معمول‌تر است. آن را با lifetime به‌معنی تمام طول عمر یکی نکن؛ منبع بدون اصلاح نگه داشته شده است.",
+          "en": "Earn money, find meaning and a place in the world are meaningful collocations rather than literal word sums alone. The source’s life time contrasts with work time and means personal time; personal time or time outside work is more idiomatic. Do not conflate it with lifetime, meaning an entire lifespan. The source wording is retained."
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        },
+        "takeaway": {
+          "fa": "life time در این بافت زمان شخصی است، نه واژهٔ lifetime.",
+          "en": "Life time in this context means personal time, not lifetime."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هم‌آیندها و عبارت نامعمول life time",
+              "en": "Collocations and the unusual life time phrase"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a way to earn money"
+                },
+                {
+                  "text": "way + to-infinitive"
+                },
+                {
+                  "fa": "راهی برای درآمد",
+                  "en": "An instrumental collocation"
+                }
+              ],
+              [
+                {
+                  "text": "find meaning and purpose in life"
+                },
+                {
+                  "text": "find + abstract objects"
+                },
+                {
+                  "fa": "یافتن معنا و هدف",
+                  "en": "A meaning-centered collocation"
+                }
+              ],
+              [
+                {
+                  "text": "between work time and life time"
+                },
+                {
+                  "text": "between + contrasted domains"
+                },
+                {
+                  "fa": "بین وقت کار و زندگی شخصی",
+                  "en": "Source wording; personal time is more idiomatic"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "mirrored",
+        "text": "live to work or work to live",
+        "pronunciation": {
+          "faReading": "لیو تو وِرک اور وِرک تو لیو",
+          "ipa": "/lɪv tə wɝk ɔr wɝk tə lɪv/"
+        },
+        "meaning": {
+          "fa": "برای کار زندگی‌کردن یا برای زندگی کارکردن",
+          "en": "Live to work or work to live"
+        },
+        "context": {
+          "fa": "جابه‌جایی آینه‌ای واژه‌ها جهت هدف را عوض می‌کند؛ نتیجهٔ بحث الزاماً انتخاب یکی نیست.",
+          "en": "The mirrored wording reverses purpose; the discussion need not end by choosing one side."
+        },
+        "example": {
+          "text": "People often argue whether we live to work or work to live.",
+          "translation": {
+            "fa": "مردم اغلب بحث می‌کنند که آیا برای کار زندگی می‌کنیم یا برای زندگی کار می‌کنیم.",
+            "en": "People often argue whether we live to work or work to live."
+          }
+        }
+      },
+      {
+        "id": "person-to-person",
+        "text": "from person to person",
+        "pronunciation": {
+          "faReading": "فْرِم پِرسِن تو پِرسِن",
+          "ipa": "/frəm ˈpɝsən tə ˈpɝsən/"
+        },
+        "meaning": {
+          "fa": "از فردی به فرد دیگر",
+          "en": "From person to person"
+        },
+        "context": {
+          "fa": "تفاوت پاسخ‌های فردی را مجاز می‌داند، نه یک پاسخ همگانی.",
+          "en": "Allows individual variation rather than one universal answer."
+        },
+        "example": {
+          "text": "It is a deep question, and the answer differs from person to person.",
+          "translation": {
+            "fa": "پرسش عمیقی است و پاسخ از شخصی به شخص دیگر فرق می‌کند.",
+            "en": "It is a deep question, and the answer differs from person to person."
+          }
+        }
+      },
+      {
+        "id": "meaning-purpose",
+        "text": "meaning and purpose in life",
+        "pronunciation": {
+          "faReading": "مینینگ اَند پِرپِس این لایف",
+          "ipa": "/ˈminɪŋ ænd ˈpɝpəs ɪn laɪf/"
+        },
+        "meaning": {
+          "fa": "معنا و هدف در زندگی",
+          "en": "Meaning and purpose in life"
+        },
+        "context": {
+          "fa": "معنای کار را فراتر از کارکرد درآمدی طرح می‌کند.",
+          "en": "Frames work as significant beyond earning income."
+        },
+        "example": {
+          "text": "For others, work is where they find meaning and purpose in life.",
+          "translation": {
+            "fa": "برای برخی دیگر، کار جایی است که در زندگی معنا و هدف پیدا می‌کنند.",
+            "en": "For others, work is where they find meaning and purpose in life."
+          }
+        }
+      },
+      {
+        "id": "take-over",
+        "text": "takes over everything else completely",
+        "pronunciation": {
+          "faReading": "تِیکس اُووِر اِوری‌ثینگ اِلس کِمپْلیتلی",
+          "ipa": "/teɪks ˈoʊvɚ ˈɛvriˌθɪŋ ɛls kəmˈplitli/"
+        },
+        "meaning": {
+          "fa": "کاملاً بر همه‌چیز دیگر مسلط می‌شود",
+          "en": "Takes over everything else completely"
+        },
+        "context": {
+          "fa": "نقطهٔ تبدیل نقش مفید کار به سلطهٔ افراطی را برجسته می‌کند.",
+          "en": "Marks the shift from useful work to excessive domination."
+        },
+        "example": {
+          "text": "The problem is when work takes over everything else completely.",
+          "translation": {
+            "fa": "مشکل وقتی است که کار کاملاً بر همه‌چیز دیگر مسلط می‌شود.",
+            "en": "The problem is when work takes over everything else completely."
+          }
+        }
+      },
+      {
+        "id": "consume",
+        "text": "never let it consume us",
+        "pronunciation": {
+          "faReading": "نِوِر لِت ایت کِنسوم اَس",
+          "ipa": "/ˈnɛvɚ lɛt ɪt kənˈsum ʌs/"
+        },
+        "meaning": {
+          "fa": "هرگز نگذاریم همهٔ وجودمان را بگیرد",
+          "en": "Never let it consume us"
+        },
+        "context": {
+          "fa": "consume استعاره از جذب تمام وقت و توان است؛ it به کار اشاره دارد.",
+          "en": "Consume metaphorically means absorbing a life’s time and energy; it refers to work."
+        },
+        "example": {
+          "text": "So we should work with purpose, but never let it consume us.",
+          "translation": {
+            "fa": "پس باید هدفمند کار کنیم، ولی هرگز نگذاریم کار همهٔ وجودمان را بگیرد.",
+            "en": "So we should work with purpose, but never let it consume us."
+          }
+        }
+      },
+      {
+        "id": "clear-line",
+        "text": "draw a clear line between work time and life time",
+        "pronunciation": {
+          "faReading": "دْرا اِ کْلیر لاین بی‌توین وِرک تایم اَند لایف تایم",
+          "ipa": "/drɔ ə klɪr laɪn bɪˈtwin wɝk taɪm ænd laɪf taɪm/"
+        },
+        "meaning": {
+          "fa": "بین وقت کار و زندگی شخصی مرز روشنی بکشم",
+          "en": "Draw a clear boundary between work and personal time"
+        },
+        "context": {
+          "fa": "مرز استعاری است؛ life time شکل منبع برای زمان شخصی است و با lifetime یکسان نیست.",
+          "en": "A metaphorical boundary; source life time means personal time, not lifetime."
+        },
+        "example": {
+          "text": "I try to draw a clear line between work time and life time.",
+          "translation": {
+            "fa": "سعی می‌کنم بین زمان کار و زمان زندگی شخصی مرز روشنی بکشم.",
+            "en": "I try to draw a clear line between work time and life time."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام جمع‌بندی به نتیجهٔ بحث نزدیک‌تر است؟",
+          "en": "Which summary best matches the direction of the discussion?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "راه حل اصلی، انتخاب درآمد به‌جای معناست.",
+              "en": "The main solution is to choose income over meaning."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "باید یکی از دو دیدگاه کار را انتخاب کرد و از دیگری گذشت.",
+              "en": "One must select one view of work and give up the other."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کار می‌تواند ارزشمند باشد، اما باید برای زندگی غیرکاری هم مرز و فضا حفظ کرد.",
+              "en": "Work can be valuable, but boundaries and room for nonwork life matter."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "بحث هم نقش مفید کار را می‌پذیرد و هم سلطهٔ آن بر دیگر حوزه‌ها را نقد می‌کند.",
+          "en": "The discussion acknowledges work’s value while criticizing domination of other life domains."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08",
+          "t09",
+          "t11",
+          "t15",
+          "t16"
+        ]
+      },
+      {
+        "id": "perspectives",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نقش کار در آغاز بحث چگونه مقابل هم قرار می‌گیرند؟",
+          "en": "Which two roles of work are contrasted early in the exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "وسیلهٔ درآمد در برابر منشأ معنا و هدف",
+              "en": "A means of income versus a source of meaning and purpose"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تنها سرگرمی در برابر تنها راه دوستی",
+              "en": "The only hobby versus the only source of friendship"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کار خانگی در برابر کار اداری",
+              "en": "Housework versus office work"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "a way to earn money و where they find meaning and purpose دو نگاه را می‌سازند.",
+          "en": "A way to earn money and where they find meaning and purpose frame the two views."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t04"
+        ]
+      },
+      {
+        "id": "overwork",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "طبق گفت‌وگو وقتی کار بر همه‌چیز مسلط شود چه اتفاقی می‌افتد؟",
+          "en": "According to the exchange, what happens when work takes over everything else?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تمام روابط خودبه‌خود بهتر می‌شوند.",
+              "en": "All relationships automatically improve."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "استراحت، خانواده و سرگرمی‌ها کنار می‌روند و حس تهی‌بودن ایجاد می‌شود.",
+              "en": "Rest, family and hobbies disappear, and people feel empty."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نیاز به مهارت‌های شخصی از بین می‌رود.",
+              "en": "The need for personal skills disappears."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "Then نوبت بعد پیامدهای تسلط کار را فهرست می‌کند.",
+          "en": "Then in the following turn introduces the consequences."
+        },
+        "evidenceTurnIds": [
+          "t09",
+          "t10"
+        ]
+      },
+      {
+        "id": "boundary",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کدام برداشت از جملهٔ پایانی دقیق‌تر است؟",
+          "en": "Which interpretation of the closing sentence is more precise?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مرز باید برای همه دقیقاً یکسان باشد.",
+              "en": "The boundary must be identical for everyone."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اگر مرزها فرق کنند، داشتنشان بی‌معنی است.",
+              "en": "Different boundaries make having one meaningless."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "جای مرز ممکن است شخصی باشد، اما اصل وجود آن ضروری دانسته می‌شود.",
+              "en": "Its position may vary by person, while its existence is treated as necessary."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "may differ تفاوت را مجاز و must exist ضرورت اصل مرز را بیان می‌کند.",
+          "en": "May differ permits variation, while must exist insists on the boundary’s existence."
+        },
+        "evidenceTurnIds": [
+          "t16"
+        ]
+      },
+      {
+        "id": "space",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "space و line در این بحث عمدتاً چه کارکردی دارند؟",
+          "en": "What do space and line mainly do in this argument?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فضا و مرز استعاری برای حفظ زندگی بیرون از کار می‌سازند.",
+              "en": "They build a spatial metaphor for protecting nonwork life."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "نشانی اتاق و مسیر رفت‌وآمد را می‌دهند.",
+              "en": "They give room locations and commuting directions."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مساحت محل کار را اندازه می‌گیرند.",
+              "en": "They measure the workplace area."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "family، books و friends در آن space جای می‌گیرند و line کار را از زمان شخصی جدا می‌کند.",
+          "en": "Family, books and friends occupy that space, and the line separates work from personal time."
+        },
+        "evidenceTurnIds": [
+          "t12",
+          "t13",
+          "t15"
+        ]
+      },
+      {
+        "id": "balance",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "فرزاد چه چیزی را از انتخاب یک سوی بحث مهم‌تر می‌داند؟",
+          "en": "What does Farzad consider more important than choosing one side?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "افزایش ساعات کار",
+              "en": "Increasing work hours"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تعادل",
+              "en": "Balance"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حذف همهٔ برنامه‌ها",
+              "en": "Removing all schedules"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "او صریح می‌گوید the balance matters more than choosing one side.",
+          "en": "He explicitly says the balance matters more than choosing one side."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      }
+    ]
+  }
+}

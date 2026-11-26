@@ -1,0 +1,3217 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t03-s08",
+  "categoryId": "daily-life-and-habits",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "برنامه هفته بعد",
+    "en": "Planning Next Week"
+  },
+  "objective": {
+    "fa": "روز دیدار والدین، مهلت گزارش، شام دوستان و ترتیب کارهای شنبه را مشخص کن.",
+    "en": "Identify the parents’ visit day, report deadline, friends’ dinner day, and Saturday’s sequence."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "niloufar",
+      "name": "Niloufar",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "Let us plan next week, I have a few things to arrange.",
+      "translation": {
+        "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+        "en": "Let us plan next week, I have a few things to arrange."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بخشی از «بیایید؛ بیا»",
+            "en": "part of let us; suggests an action including the speaker"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "بخشی از «بیایید؛ بیا»",
+            "en": "part of let us; suggests an action including the speaker"
+          }
+        },
+        {
+          "surface": "plan",
+          "gloss": {
+            "fa": "برنامه‌ریزی کنیم",
+            "en": "plan; arrange activities in advance, a verb"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week,",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "few",
+          "gloss": {
+            "fa": "چند؛ تعداد کم",
+            "en": "few; a small number"
+          }
+        },
+        {
+          "surface": "things",
+          "gloss": {
+            "fa": "چیزها؛ وسایل",
+            "en": "things; objects or belongings"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "arrange.",
+          "gloss": {
+            "fa": "هماهنگ کردن",
+            "en": "arrange; make plans for"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "niloufar",
+      "text": "Go ahead, what do you want to do next week?",
+      "translation": {
+        "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+        "en": "Go ahead, what do you want to do next week?"
+      },
+      "tokens": [
+        {
+          "surface": "Go",
+          "gloss": {
+            "fa": "بخشی از «بفرما؛ ادامه بده»",
+            "en": "part of go ahead; invites someone to continue"
+          }
+        },
+        {
+          "surface": "ahead,",
+          "gloss": {
+            "fa": "بخشی از «بفرما؛ ادامه بده»",
+            "en": "part of go ahead; invites someone to continue"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه؛ چی",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask about intentions"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهی",
+            "en": "do; carry out a planned activity"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی؛ آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week?",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+      "translation": {
+        "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+        "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "visit",
+          "gloss": {
+            "fa": "دیدار؛ دیدن کسی یا جایی",
+            "en": "visit; time spent seeing a person or place"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "parents",
+          "gloss": {
+            "fa": "پدر و مادر؛ والدین",
+            "en": "parents; mother and father"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "Tuesday",
+          "gloss": {
+            "fa": "سه‌شنبه",
+            "en": "Tuesday; the day after Monday"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "finish",
+          "gloss": {
+            "fa": "تمام کردن",
+            "en": "finish; complete"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "report",
+          "gloss": {
+            "fa": "گزارش",
+            "en": "report; a written account"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "تا؛ حداکثر تا چهارشنبه",
+            "en": "by; no later than the deadline"
+          }
+        },
+        {
+          "surface": "Wednesday.",
+          "gloss": {
+            "fa": "چهارشنبه",
+            "en": "Wednesday; the day after Tuesday"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "niloufar",
+      "text": "I have a language class on Tuesday, so I can join you in the evening.",
+      "translation": {
+        "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+        "en": "I have a language class on Tuesday, so I can join you in the evening."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "language",
+          "gloss": {
+            "fa": "زبان",
+            "en": "language; a system of communication"
+          }
+        },
+        {
+          "surface": "class",
+          "gloss": {
+            "fa": "کلاس",
+            "en": "class; a group that learns together"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "Tuesday,",
+          "gloss": {
+            "fa": "سه‌شنبه",
+            "en": "Tuesday; the day after Monday"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "join",
+          "gloss": {
+            "fa": "پیوستن؛ همراه شدن",
+            "en": "join; become part of a group"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو؛ شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; inside a place or period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "evening.",
+          "gloss": {
+            "fa": "عصر؛ اوایل شب",
+            "en": "evening; the later part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "Then Thursday we can meet our friends for dinner.",
+      "translation": {
+        "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+        "en": "Then Thursday we can meet our friends for dinner."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "Thursday",
+          "gloss": {
+            "fa": "پنجشنبه",
+            "en": "Thursday; the day after Wednesday"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ببینیم؛ با دوستان قرار بگذاریم",
+            "en": "meet; spend time with people already known"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "friends",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای؛ هدف دیدار",
+            "en": "for; gives the purpose of meeting"
+          }
+        },
+        {
+          "surface": "dinner.",
+          "gloss": {
+            "fa": "شام",
+            "en": "dinner; the main evening meal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "niloufar",
+      "text": "Good, I will tell them and confirm the place.",
+      "translation": {
+        "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+        "en": "Good, I will tell them and confirm the place."
+      },
+      "tokens": [
+        {
+          "surface": "Good,",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "tell",
+          "gloss": {
+            "fa": "گفتن؛ تعریف کردن برای کسی",
+            "en": "tell; give someone information"
+          }
+        },
+        {
+          "surface": "them",
+          "gloss": {
+            "fa": "به آن‌ها؛ رضا و نیما",
+            "en": "them; Reza and Nima"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "confirm",
+          "gloss": {
+            "fa": "تأیید و قطعی کردن",
+            "en": "confirm; establish that an arrangement is definite"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "place.",
+          "gloss": {
+            "fa": "جا؛ اینجا خانه",
+            "en": "place; a location, here someone's home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "On Friday I have a meeting, so I will be home late that day.",
+      "translation": {
+        "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+        "en": "On Friday I have a meeting, so I will be home late that day."
+      },
+      "tokens": [
+        {
+          "surface": "On",
+          "gloss": {
+            "fa": "روی؛ در ارتباط با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "Friday",
+          "gloss": {
+            "fa": "جمعه",
+            "en": "Friday; the day after Thursday"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن",
+            "en": "have; possess or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "meeting,",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس؛ نتیجهٔ داشتن جلسه",
+            "en": "so; introduces the consequence of the meeting"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "home",
+          "gloss": {
+            "fa": "خانه؛ به خانه",
+            "en": "home; where someone lives"
+          }
+        },
+        {
+          "surface": "late",
+          "gloss": {
+            "fa": "دیر",
+            "en": "late; after the expected time"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "niloufar",
+      "text": "No problem, Saturday is free, we can do something together then.",
+      "translation": {
+        "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+        "en": "No problem, Saturday is free, we can do something together then."
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "نه؛ هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "problem,",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; something difficult"
+          }
+        },
+        {
+          "surface": "Saturday",
+          "gloss": {
+            "fa": "شنبه",
+            "en": "Saturday; the day after Friday"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "free,",
+          "gloss": {
+            "fa": "آزاد؛ بی‌برنامه",
+            "en": "free; without scheduled commitments here"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام بدهیم",
+            "en": "do; carry out a shared activity"
+          }
+        },
+        {
+          "surface": "something",
+          "gloss": {
+            "fa": "چیزی",
+            "en": "something; a thing not named"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "then.",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+      "translation": {
+        "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+        "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+      },
+      "tokens": [
+        {
+          "surface": "Saturday",
+          "gloss": {
+            "fa": "شنبه",
+            "en": "Saturday; the day after Friday"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the time before noon"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "خواستن",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "go",
+          "gloss": {
+            "fa": "بخشی از «بیرون رفتن»",
+            "en": "part of go out; leave home for a social activity"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به؛ مقصد بازار",
+            "en": "to; toward a destination"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "market,",
+          "gloss": {
+            "fa": "بازار",
+            "en": "market; a place to buy things"
+          }
+        },
+        {
+          "surface": "then",
+          "gloss": {
+            "fa": "پس؛ آن‌وقت",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "visit",
+          "gloss": {
+            "fa": "دیدار؛ دیدن کسی یا جایی",
+            "en": "visit; time spent seeing a person or place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "exhibition.",
+          "gloss": {
+            "fa": "نمایشگاه",
+            "en": "exhibition; a public display of works or objects"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "niloufar",
+      "text": "That sounds like a nice week, everything is settled now.",
+      "translation": {
+        "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+        "en": "That sounds like a nice week, everything is settled now."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن؛ آن حرف",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مثل؛ به شکل",
+            "en": "like; introduces an impression"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one, before a person or thing"
+          }
+        },
+        {
+          "surface": "nice",
+          "gloss": {
+            "fa": "خوشایند؛ خوب",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "week,",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "everything",
+          "gloss": {
+            "fa": "همه‌چیز",
+            "en": "everything; all the things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with one person or thing"
+          }
+        },
+        {
+          "surface": "settled",
+          "gloss": {
+            "fa": "قطعی؛ مشخص‌شده",
+            "en": "settled; decided and arranged"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "اکنون؛ الان",
+            "en": "now; at the present time"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "let",
+        "text": "Let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیایید؛ بیا»",
+          "en": "part of let us; suggests an action including the speaker"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیایید؛ بیا»",
+          "en": "part of let us; suggests an action including the speaker"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "plan",
+        "text": "plan",
+        "pronunciation": {
+          "faReading": "پْلَن",
+          "ipa": "/plæn/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی کنیم",
+          "en": "plan; arrange activities in advance, a verb"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; possess or experience"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one, before a person or thing"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "few",
+        "text": "few",
+        "pronunciation": {
+          "faReading": "فیو",
+          "ipa": "/fju/"
+        },
+        "meaning": {
+          "fa": "چند؛ تعداد کم",
+          "en": "few; a small number"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "things",
+        "text": "things",
+        "pronunciation": {
+          "faReading": "ثینگْز",
+          "ipa": "/θɪŋz/"
+        },
+        "meaning": {
+          "fa": "چیزها؛ وسایل",
+          "en": "things; objects or belongings"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "پیش از یک کار؛ جدا ترجمه نمی‌شود",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "arrange",
+        "text": "arrange",
+        "pronunciation": {
+          "faReading": "اِرِینج",
+          "ipa": "/əˈreɪndʒ/"
+        },
+        "meaning": {
+          "fa": "هماهنگ کردن",
+          "en": "arrange; make plans for"
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "go",
+        "text": "Go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بفرما؛ ادامه بده»",
+          "en": "part of go ahead; invites someone to continue"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "ahead",
+        "text": "ahead",
+        "pronunciation": {
+          "faReading": "اِهِد",
+          "ipa": "/əˈhɛd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بفرما؛ ادامه بده»",
+          "en": "part of go ahead; invites someone to continue"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask about intentions"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "do-action",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام بدهی",
+          "en": "do; carry out a planned activity"
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "visit",
+        "text": "visit",
+        "pronunciation": {
+          "faReading": "ویزیت",
+          "ipa": "/ˈvɪzɪt/"
+        },
+        "meaning": {
+          "fa": "دیدار؛ دیدن کسی یا جایی",
+          "en": "visit; time spent seeing a person or place"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "parents",
+        "text": "parents",
+        "pronunciation": {
+          "faReading": "پِرِنتس",
+          "ipa": "/ˈpɛrənts/"
+        },
+        "meaning": {
+          "fa": "پدر و مادر؛ والدین",
+          "en": "parents; mother and father"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "tuesday",
+        "text": "Tuesday",
+        "pronunciation": {
+          "faReading": "توزدِی",
+          "ipa": "/ˈtuzdeɪ/"
+        },
+        "meaning": {
+          "fa": "سه‌شنبه",
+          "en": "Tuesday; the day after Monday"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "finish",
+        "text": "finish",
+        "pronunciation": {
+          "faReading": "فینیش",
+          "ipa": "/ˈfɪnɪʃ/"
+        },
+        "meaning": {
+          "fa": "تمام کردن",
+          "en": "finish; complete"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "report",
+        "text": "report",
+        "pronunciation": {
+          "faReading": "ری‌پورت",
+          "ipa": "/rɪˈpɔrt/"
+        },
+        "meaning": {
+          "fa": "گزارش",
+          "en": "report; a written account"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "تا؛ حداکثر تا چهارشنبه",
+          "en": "by; no later than the deadline"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "wednesday",
+        "text": "Wednesday",
+        "pronunciation": {
+          "faReading": "وِنزدِی",
+          "ipa": "/ˈwɛnzdeɪ/"
+        },
+        "meaning": {
+          "fa": "چهارشنبه",
+          "en": "Wednesday; the day after Tuesday"
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "language",
+        "text": "language",
+        "pronunciation": {
+          "faReading": "لَنگْویج",
+          "ipa": "/ˈlæŋɡwɪdʒ/"
+        },
+        "meaning": {
+          "fa": "زبان",
+          "en": "language; a system of communication"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "class",
+        "text": "class",
+        "pronunciation": {
+          "faReading": "کْلَس",
+          "ipa": "/klæs/"
+        },
+        "meaning": {
+          "fa": "کلاس",
+          "en": "class; a group that learns together"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانیم؛ می‌تواند",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "join",
+        "text": "join",
+        "pronunciation": {
+          "faReading": "جوین",
+          "ipa": "/dʒɔɪn/"
+        },
+        "meaning": {
+          "fa": "پیوستن؛ همراه شدن",
+          "en": "join; become part of a group"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در",
+          "en": "in; inside a place or period"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+          "en": "the; marks the particular thing meant"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ اوایل شب",
+          "en": "evening; the later part of the day"
+        },
+        "example": {
+          "text": "I have a language class on Tuesday, so I can join you in the evening.",
+          "translation": {
+            "fa": "سه‌شنبه کلاس زبان دارم، پس عصر می‌توانم همراهت بیایم.",
+            "en": "I have a language class on Tuesday, so I can join you in the evening."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "Then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "thursday",
+        "text": "Thursday",
+        "pronunciation": {
+          "faReading": "ثِرز‌دِی",
+          "ipa": "/ˈθɝzdeɪ/"
+        },
+        "meaning": {
+          "fa": "پنجشنبه",
+          "en": "Thursday; the day after Wednesday"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "ببینیم؛ با دوستان قرار بگذاریم",
+          "en": "meet; spend time with people already known"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ هدف دیدار",
+          "en": "for; gives the purpose of meeting"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "dinner",
+        "text": "dinner",
+        "pronunciation": {
+          "faReading": "دینِر",
+          "ipa": "/ˈdɪnɚ/"
+        },
+        "meaning": {
+          "fa": "شام",
+          "en": "dinner; the main evening meal"
+        },
+        "example": {
+          "text": "Then Thursday we can meet our friends for dinner.",
+          "translation": {
+            "fa": "پس پنجشنبه می‌توانیم برای شام دوستانمان را ببینیم.",
+            "en": "Then Thursday we can meet our friends for dinner."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "Good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "گفتن؛ تعریف کردن برای کسی",
+          "en": "tell; give someone information"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "them",
+        "text": "them",
+        "pronunciation": {
+          "faReading": "ذِم",
+          "ipa": "/ðɛm/"
+        },
+        "meaning": {
+          "fa": "به آن‌ها؛ رضا و نیما",
+          "en": "them; Reza and Nima"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "confirm",
+        "text": "confirm",
+        "pronunciation": {
+          "faReading": "کِنفِرم",
+          "ipa": "/kənˈfɝm/"
+        },
+        "meaning": {
+          "fa": "تأیید و قطعی کردن",
+          "en": "confirm; establish that an arrangement is definite"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "place",
+        "text": "place",
+        "pronunciation": {
+          "faReading": "پْلِیس",
+          "ipa": "/pleɪs/"
+        },
+        "meaning": {
+          "fa": "جا؛ اینجا خانه",
+          "en": "place; a location, here someone's home"
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "friday",
+        "text": "Friday",
+        "pronunciation": {
+          "faReading": "فْرای‌دِی",
+          "ipa": "/ˈfraɪdeɪ/"
+        },
+        "meaning": {
+          "fa": "جمعه",
+          "en": "Friday; the day after Thursday"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "meeting",
+        "text": "meeting",
+        "pronunciation": {
+          "faReading": "میتینگ",
+          "ipa": "/ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "جلسه",
+          "en": "meeting; people coming together to discuss work"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "so-result",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ نتیجهٔ داشتن جلسه",
+          "en": "so; introduces the consequence of the meeting"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه",
+          "en": "home; where someone lives"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "late",
+        "text": "late",
+        "pronunciation": {
+          "faReading": "لِیت",
+          "ipa": "/leɪt/"
+        },
+        "meaning": {
+          "fa": "دیر",
+          "en": "late; after the expected time"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "On Friday I have a meeting, so I will be home late that day.",
+          "translation": {
+            "fa": "جمعه جلسه دارم، پس آن روز دیر به خانه می‌رسم.",
+            "en": "On Friday I have a meeting, so I will be home late that day."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "No",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; something difficult"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "saturday",
+        "text": "Saturday",
+        "pronunciation": {
+          "faReading": "سَتِردِی",
+          "ipa": "/ˈsætɚdeɪ/"
+        },
+        "meaning": {
+          "fa": "شنبه",
+          "en": "Saturday; the day after Friday"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with one person or thing"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "free",
+        "text": "free",
+        "pronunciation": {
+          "faReading": "فْری",
+          "ipa": "/fri/"
+        },
+        "meaning": {
+          "fa": "آزاد؛ بی‌برنامه",
+          "en": "free; without scheduled commitments here"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "do-action-2",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام بدهیم",
+          "en": "do; carry out a shared activity"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "something",
+        "text": "something",
+        "pronunciation": {
+          "faReading": "سَم‌ثینگ",
+          "ipa": "/ˈsʌmˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی",
+          "en": "something; a thing not named"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the time before noon"
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        }
+      },
+      {
+        "id": "go-base",
+        "text": "go",
+        "pronunciation": {
+          "faReading": "گُو",
+          "ipa": "/ɡoʊ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «بیرون رفتن»",
+          "en": "part of go out; leave home for a social activity"
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        }
+      },
+      {
+        "id": "to-destination",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ مقصد بازار",
+          "en": "to; toward a destination"
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        }
+      },
+      {
+        "id": "market",
+        "text": "market",
+        "pronunciation": {
+          "faReading": "مارکِت",
+          "ipa": "/ˈmɑrkɪt/"
+        },
+        "meaning": {
+          "fa": "بازار",
+          "en": "market; a place to buy things"
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        }
+      },
+      {
+        "id": "exhibition",
+        "text": "exhibition",
+        "pronunciation": {
+          "faReading": "اِگْزِبیشِن",
+          "ipa": "/ˌɛɡzəˈbɪʃən/"
+        },
+        "meaning": {
+          "fa": "نمایشگاه",
+          "en": "exhibition; a public display of works or objects"
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مثل؛ به شکل",
+          "en": "like; introduces an impression"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      },
+      {
+        "id": "everything",
+        "text": "everything",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ",
+          "ipa": "/ˈɛvriˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "همه‌چیز",
+          "en": "everything; all the things"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      },
+      {
+        "id": "settled",
+        "text": "settled",
+        "pronunciation": {
+          "faReading": "سِتِلد",
+          "ipa": "/ˈsɛtəld/"
+        },
+        "meaning": {
+          "fa": "قطعی؛ مشخص‌شده",
+          "en": "settled; decided and arranged"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "intentions-and-plans",
+        "title": {
+          "fa": "برنامه و قصد",
+          "en": "Intentions and plans"
+        },
+        "explanation": {
+          "fa": "want to visit و want to go قصد را می‌گویند. have a class و have a meeting در این متن برنامه‌های ثبت‌شده‌اند. can join و can meet امکان هماهنگی را بیان می‌کنند؛ هرکدام یک نقش در چیدن هفته دارند.",
+          "en": "Want to visit and want to go express intentions. Have a class and have a meeting describe scheduled commitments. Can join and can meet express possibilities for coordination."
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        },
+        "takeaway": {
+          "fa": "قصد، تعهد ثبت‌شده و امکان همراهی را از هم جدا بخوان.",
+          "en": "Distinguish intention, scheduled commitment and possible coordination."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "برنامه و قصد",
+              "en": "Intentions and plans"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I want to visit my parents on Tuesday"
+                },
+                {
+                  "text": "want to + action + day"
+                },
+                {
+                  "fa": "قصد دیدار والدین در سه‌شنبه",
+                  "en": "An intention"
+                }
+              ],
+              [
+                {
+                  "text": "I have a language class on Tuesday"
+                },
+                {
+                  "text": "have + scheduled event"
+                },
+                {
+                  "fa": "سه‌شنبه کلاس زبان دارم",
+                  "en": "A commitment"
+                }
+              ],
+              [
+                {
+                  "text": "I can join you in the evening"
+                },
+                {
+                  "text": "can + action + time"
+                },
+                {
+                  "fa": "عصر می‌توانم همراهت بیایم",
+                  "en": "Coordination"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "days-and-deadline",
+        "title": {
+          "fa": "روز انجام یا مهلت؟",
+          "en": "Event day or deadline?"
+        },
+        "explanation": {
+          "fa": "on Tuesday روز دیدار را می‌گوید. by Wednesday مهلت گزارش است: حداکثر تا چهارشنبه، نه الزاماً فقط خود چهارشنبه. in the evening بخش روز را مشخص می‌کند؛ برای آن از in استفاده شده است.",
+          "en": "On Tuesday dates the visit. By Wednesday sets a deadline: no later than Wednesday, not necessarily only on that day. In the evening identifies a part of the day."
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        },
+        "takeaway": {
+          "fa": "on روز انجام است؛ by آخرین مهلت را می‌گوید.",
+          "en": "On dates an event; by sets the latest completion time."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "روز انجام یا مهلت؟",
+              "en": "Event day or deadline?"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "on Tuesday"
+                },
+                {
+                  "text": "on + day"
+                },
+                {
+                  "fa": "سه‌شنبه",
+                  "en": "The visit day"
+                }
+              ],
+              [
+                {
+                  "text": "finish a report by Wednesday"
+                },
+                {
+                  "text": "finish + task + by + deadline"
+                },
+                {
+                  "fa": "گزارش را تا چهارشنبه تمام کردن",
+                  "en": "A completion deadline"
+                }
+              ],
+              [
+                {
+                  "text": "in the evening"
+                },
+                {
+                  "text": "in + part of day"
+                },
+                {
+                  "fa": "عصر",
+                  "en": "A part of the day"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sequence-and-reference",
+        "title": {
+          "fa": "ترتیب شنبه و اشاره به برنامه",
+          "en": "Saturday sequence and reference"
+        },
+        "explanation": {
+          "fa": "then ترتیب بعدی را می‌دهد: بازار صبح شنبه و بعد نمایشگاه. that day در حرف رضا به جمعه اشاره دارد. then در we can do something together then به شنبه برمی‌گردد، نه لزوماً همان معنی «سپس» در هر جمله.",
+          "en": "Then sequences Saturday’s market trip before the exhibition. That day refers back to Friday. Then in we can do something together then refers to Saturday, so its function depends on context."
+        },
+        "example": {
+          "text": "Saturday morning I want to go to the market, then we can visit the exhibition.",
+          "translation": {
+            "fa": "صبح شنبه می‌خواهم به بازار بروم و بعد می‌توانیم نمایشگاه را ببینیم.",
+            "en": "Saturday morning I want to go to the market, then we can visit the exhibition."
+          }
+        },
+        "takeaway": {
+          "fa": "معنی then را از روز و کارهای اطرافش پیدا کن.",
+          "en": "Use nearby days and activities to interpret then."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ترتیب شنبه و اشاره به برنامه",
+              "en": "Saturday sequence and reference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Saturday morning I want to go to the market"
+                },
+                {
+                  "text": "day + part of day + intention"
+                },
+                {
+                  "fa": "صبح شنبه بازار",
+                  "en": "First Saturday activity"
+                }
+              ],
+              [
+                {
+                  "text": "then we can visit the exhibition"
+                },
+                {
+                  "text": "then + next activity"
+                },
+                {
+                  "fa": "بعد بازدید نمایشگاه",
+                  "en": "The following activity"
+                }
+              ],
+              [
+                {
+                  "text": "I will be home late that day"
+                },
+                {
+                  "text": "will + state + that day"
+                },
+                {
+                  "fa": "آن روز دیر خانه خواهم بود",
+                  "en": "That day refers to Friday"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "confirm-and-result",
+        "title": {
+          "fa": "قبول هماهنگی و نتیجه",
+          "en": "Taking responsibility and giving reasons"
+        },
+        "explanation": {
+          "fa": "I will tell them and confirm the place مسئولیت خبر دادن و قطعی‌کردن مکان را می‌پذیرد؛ them دوستان هستند. so I will be home late نتیجهٔ جلسهٔ جمعه است. settled یعنی برنامه‌ها مشخص‌اند، نه اینکه همهٔ کارها انجام شده‌اند.",
+          "en": "I will tell them and confirm the place accepts coordination tasks, with them referring to the friends. So I will be home late states the result of Friday’s meeting. Settled means the arrangements are decided, not completed."
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        },
+        "takeaway": {
+          "fa": "settled دربارهٔ قطعی‌شدن برنامه است، نه تمام‌شدن هفته.",
+          "en": "Settled concerns decided arrangements rather than completed events."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قبول هماهنگی و نتیجه",
+              "en": "Taking responsibility and giving reasons"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will tell them and confirm the place"
+                },
+                {
+                  "text": "will + two actions"
+                },
+                {
+                  "fa": "خبر می‌دهم و مکان را قطعی می‌کنم",
+                  "en": "A coordinating commitment"
+                }
+              ],
+              [
+                {
+                  "text": "so I will be home late"
+                },
+                {
+                  "text": "so + result"
+                },
+                {
+                  "fa": "پس دیر خانه می‌رسم",
+                  "en": "A consequence"
+                }
+              ],
+              [
+                {
+                  "text": "everything is settled now"
+                },
+                {
+                  "text": "is + settled"
+                },
+                {
+                  "fa": "حالا همه‌چیز مشخص است",
+                  "en": "The state of the arrangements"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "few-and-short-responses",
+        "title": {
+          "fa": "چند کار و پاسخ‌های کوتاه",
+          "en": "A few tasks and short responses"
+        },
+        "explanation": {
+          "fa": "a few things یعنی چند کار؛ things اینجا اشیای فیزیکی لازم نیست باشد. Go ahead اجازهٔ ادامه‌دادن صحبت است. No problem هم پذیرش برنامهٔ جمعه بدون اعتراض است و چیزی دربارهٔ نبود هر مشکلی در تمام هفته تضمین نمی‌کند.",
+          "en": "A few things means several tasks, not necessarily objects. Go ahead invites the speaker to continue. No problem accepts Friday’s arrangement without guaranteeing a trouble-free week."
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        },
+        "takeaway": {
+          "fa": "معنی کاربردی عبارت کوتاه را با نوبت قبل بخوان.",
+          "en": "Interpret a short expression through the preceding turn."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "چند کار و پاسخ‌های کوتاه",
+              "en": "A few tasks and short responses"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a few things to arrange"
+                },
+                {
+                  "text": "a few + plural noun + to + action"
+                },
+                {
+                  "fa": "چند کار برای هماهنگی",
+                  "en": "A small positive number of tasks"
+                }
+              ],
+              [
+                {
+                  "text": "Go ahead"
+                },
+                {
+                  "text": "go ahead"
+                },
+                {
+                  "fa": "بفرما ادامه بده",
+                  "en": "Encouragement to speak"
+                }
+              ],
+              [
+                {
+                  "text": "No problem"
+                },
+                {
+                  "text": "short acceptance"
+                },
+                {
+                  "fa": "مشکلی نیست",
+                  "en": "Accepting the stated arrangement"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "plan-week",
+        "text": "Let us plan next week",
+        "pronunciation": {
+          "faReading": "لِت اَس پْلَن نِکست ویک",
+          "ipa": "/lɛt ʌs plæn nɛkst wik/"
+        },
+        "meaning": {
+          "fa": "بیا هفتهٔ بعد را برنامه بریزیم",
+          "en": "Let us plan next week"
+        },
+        "context": {
+          "fa": "دعوت به هماهنگی برنامهٔ مشترک.",
+          "en": "An invitation to coordinate shared plans."
+        },
+        "example": {
+          "text": "Let us plan next week, I have a few things to arrange.",
+          "translation": {
+            "fa": "بیا هفتهٔ بعد را برنامه‌ریزی کنیم؛ چند کار برای هماهنگ‌کردن دارم.",
+            "en": "Let us plan next week, I have a few things to arrange."
+          }
+        }
+      },
+      {
+        "id": "go-ahead",
+        "text": "Go ahead",
+        "pronunciation": {
+          "faReading": "گُو اِهِد",
+          "ipa": "/ɡoʊ əˈhɛd/"
+        },
+        "meaning": {
+          "fa": "بفرما؛ ادامه بده",
+          "en": "Go ahead"
+        },
+        "context": {
+          "fa": "اجازهٔ ادامهٔ صحبت است، نه جهت حرکت.",
+          "en": "Encourages speaking, not movement in a direction."
+        },
+        "example": {
+          "text": "Go ahead, what do you want to do next week?",
+          "translation": {
+            "fa": "بفرما؛ هفتهٔ بعد می‌خواهی چه کنی؟",
+            "en": "Go ahead, what do you want to do next week?"
+          }
+        }
+      },
+      {
+        "id": "by-wednesday",
+        "text": "finish a report by Wednesday",
+        "pronunciation": {
+          "faReading": "فینیش اِ ری‌پورت بای وِنزدِی",
+          "ipa": "/ˈfɪnɪʃ ə rɪˈpɔrt baɪ ˈwɛnzdeɪ/"
+        },
+        "meaning": {
+          "fa": "گزارش را تا چهارشنبه تمام کردن",
+          "en": "Finish a report by Wednesday"
+        },
+        "context": {
+          "fa": "by مهلت را می‌دهد و زودتر تمام‌شدن را رد نمی‌کند.",
+          "en": "By gives a deadline and allows earlier completion."
+        },
+        "example": {
+          "text": "I want to visit my parents on Tuesday and finish a report by Wednesday.",
+          "translation": {
+            "fa": "می‌خواهم سه‌شنبه پدر و مادرم را ببینم و گزارش را تا چهارشنبه تمام کنم.",
+            "en": "I want to visit my parents on Tuesday and finish a report by Wednesday."
+          }
+        }
+      },
+      {
+        "id": "confirm-place",
+        "text": "confirm the place",
+        "pronunciation": {
+          "faReading": "کِنفِرم ذِ پْلِیس",
+          "ipa": "/kənˈfɝm ðə pleɪs/"
+        },
+        "meaning": {
+          "fa": "مکان را قطعی کردن",
+          "en": "Confirm the place"
+        },
+        "context": {
+          "fa": "نیلوفر هماهنگی محل شام را می‌پذیرد.",
+          "en": "Niloufar takes responsibility for confirming the dinner location."
+        },
+        "example": {
+          "text": "Good, I will tell them and confirm the place.",
+          "translation": {
+            "fa": "خوب است؛ به آن‌ها می‌گویم و محل را قطعی می‌کنم.",
+            "en": "Good, I will tell them and confirm the place."
+          }
+        }
+      },
+      {
+        "id": "no-problem",
+        "text": "No problem",
+        "pronunciation": {
+          "faReading": "نُو پْرابلِم",
+          "ipa": "/noʊ ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکلی نیست",
+          "en": "No problem"
+        },
+        "context": {
+          "fa": "پذیرش دیرآمدن جمعه؛ تضمین بی‌مشکل‌بودن کل هفته نیست.",
+          "en": "Accepts Friday’s late return, not a guarantee about the whole week."
+        },
+        "example": {
+          "text": "No problem, Saturday is free, we can do something together then.",
+          "translation": {
+            "fa": "مشکلی نیست؛ شنبه آزاد است و آن وقت می‌توانیم با هم کاری بکنیم.",
+            "en": "No problem, Saturday is free, we can do something together then."
+          }
+        }
+      },
+      {
+        "id": "settled",
+        "text": "everything is settled now",
+        "pronunciation": {
+          "faReading": "اِوری‌ثینگ ایز سِتِلد ناو",
+          "ipa": "/ˈɛvriˌθɪŋ ɪz ˈsɛtəld naʊ/"
+        },
+        "meaning": {
+          "fa": "حالا همه‌چیز مشخص شده است",
+          "en": "Everything is settled now"
+        },
+        "context": {
+          "fa": "برنامه‌ها تعیین شده‌اند، نه اینکه اجرا شده باشند.",
+          "en": "The arrangements are decided, not yet carried out."
+        },
+        "example": {
+          "text": "That sounds like a nice week, everything is settled now.",
+          "translation": {
+            "fa": "هفتهٔ خوبی به نظر می‌رسد؛ حالا همه‌چیز مشخص شده است.",
+            "en": "That sounds like a nice week, everything is settled now."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "این گفت‌وگو برای چیست؟",
+          "en": "What is this conversation for?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گزارش کارهای انجام‌شدهٔ هفتهٔ قبل",
+              "en": "Reporting last week’s completed activities"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "لغو همهٔ قرارهای کاری",
+              "en": "Canceling all work appointments"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هماهنگ‌کردن برنامه‌های هفتهٔ بعد",
+              "en": "Coordinating next week’s plans"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "رضا از plan next week شروع می‌کند و برنامه‌ها یکی‌یکی هماهنگ می‌شوند.",
+          "en": "Reza opens with plan next week and they coordinate the arrangements."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t05",
+          "t09"
+        ]
+      },
+      {
+        "id": "parents",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا چه روزی می‌خواهد والدینش را ببیند؟",
+          "en": "When does Reza intend to visit his parents?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سه‌شنبه",
+              "en": "Tuesday"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پنجشنبه",
+              "en": "Thursday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شنبه",
+              "en": "Saturday"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رضا می‌گوید visit my parents on Tuesday.",
+          "en": "Reza says visit my parents on Tuesday."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "report",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مهلت تمام‌کردن گزارش چیست؟",
+          "en": "What is the deadline for finishing the report?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "فقط سه‌شنبه صبح",
+              "en": "Only Tuesday morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حداکثر تا چهارشنبه",
+              "en": "No later than Wednesday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بعد از شنبه",
+              "en": "After Saturday"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "by Wednesday مهلت است و تمام‌کردن زودتر را هم اجازه می‌دهد.",
+          "en": "By Wednesday is a deadline and allows earlier completion."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "dinner",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شام با دوستان برای کدام روز پیشنهاد می‌شود؟",
+          "en": "For which day is dinner with friends proposed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "جمعه",
+              "en": "Friday"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دوشنبه",
+              "en": "Monday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "پنجشنبه",
+              "en": "Thursday"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "رضا می‌گوید Thursday we can meet our friends for dinner.",
+          "en": "Reza says Thursday we can meet our friends for dinner."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "saturday-order",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "ترتیب برنامهٔ شنبه چیست؟",
+          "en": "What is Saturday’s planned sequence?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اول بازار، بعد نمایشگاه",
+              "en": "Market first, then exhibition"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "اول نمایشگاه، بعد جلسه",
+              "en": "Exhibition first, then meeting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اول دیدار والدین، بعد کلاس",
+              "en": "Parents first, then class"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "در نوبت رضا market پیش از then ... exhibition آمده است.",
+          "en": "Reza places the market before then ... the exhibition."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      }
+    ]
+  }
+}
