@@ -1,0 +1,2665 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s04",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "شماره‌ات را بده، نیما!",
+    "en": "Exchanging contact details"
+  },
+  "objective": {
+    "fa": "شمارهٔ تلفن پریسا، نشانی ایمیل نیما و دو کاری را که پریسا پس از رسیدن به خانه می‌پذیرد انجام دهد تشخیص بده.",
+    "en": "Identify Parisa’s phone number, Nima’s email address, and the two things Parisa agrees to do after getting home."
+  },
+  "speakers": [
+    {
+      "id": "nima",
+      "name": "Nima",
+      "gender": "man"
+    },
+    {
+      "id": "parisa",
+      "name": "Parisa",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nima",
+      "text": "Excuse me, may I have your phone number?",
+      "translation": {
+        "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+        "en": "Excuse me, may I have your phone number?"
+      },
+      "tokens": [
+        {
+          "surface": "Excuse",
+          "gloss": {
+            "fa": "جزء عبارت «ببخشید»",
+            "en": "part of “excuse me”: polite attention-getter"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "جزء عبارت «ببخشید»",
+            "en": "object in “excuse me”"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "آیا اجازه دارم",
+            "en": "may: asking permission"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشته باشم؛ دریافت کنم",
+            "en": "have: obtain"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your"
+          }
+        },
+        {
+          "surface": "phone",
+          "gloss": {
+            "fa": "تلفن",
+            "en": "phone"
+          }
+        },
+        {
+          "surface": "number?",
+          "gloss": {
+            "fa": "شماره؟",
+            "en": "number"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "parisa",
+      "text": "Yes, it is five five five, one two three four.",
+      "translation": {
+        "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+        "en": "Yes, it is five five five, one two three four."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله،",
+            "en": "yes"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن",
+            "en": "it"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "five",
+          "gloss": {
+            "fa": "پنج",
+            "en": "five"
+          }
+        },
+        {
+          "surface": "five",
+          "gloss": {
+            "fa": "پنج",
+            "en": "five"
+          }
+        },
+        {
+          "surface": "five,",
+          "gloss": {
+            "fa": "پنج،",
+            "en": "five"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "سه",
+            "en": "three"
+          }
+        },
+        {
+          "surface": "four.",
+          "gloss": {
+            "fa": "چهار.",
+            "en": "four"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nima",
+      "text": "Let me write it down, thank you.",
+      "translation": {
+        "fa": "بگذارید یادداشتش کنم، ممنونم.",
+        "en": "Let me write it down, thank you."
+      },
+      "tokens": [
+        {
+          "surface": "Let",
+          "gloss": {
+            "fa": "بگذارید",
+            "en": "let: allow"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من",
+            "en": "me"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "بنویسم",
+            "en": "write"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن را",
+            "en": "it"
+          }
+        },
+        {
+          "surface": "down,",
+          "gloss": {
+            "fa": "جزء فعل write down به معنی یادداشت کردن",
+            "en": "particle in write down: record"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "شما.",
+            "en": "you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "parisa",
+      "text": "You are welcome, and what is your email address?",
+      "translation": {
+        "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+        "en": "You are welcome, and what is your email address?"
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "شما",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستید",
+            "en": "be: present with you/we"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "جزء پاسخ «خواهش می‌کنم»",
+            "en": "welcome: part of a response to thanks"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه",
+            "en": "what"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your"
+          }
+        },
+        {
+          "surface": "email",
+          "gloss": {
+            "fa": "ایمیل",
+            "en": "email"
+          }
+        },
+        {
+          "surface": "address?",
+          "gloss": {
+            "fa": "نشانی؟",
+            "en": "address"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nima",
+      "text": "It is nima.rezaei at example dot com.",
+      "translation": {
+        "fa": "nima.rezaei ات example دات com است.",
+        "en": "It is nima.rezaei at example dot com."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن",
+            "en": "it"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "nima.rezaei",
+          "gloss": {
+            "fa": "نیما رضایی؛ بخش نام کاربری ایمیل",
+            "en": "nima.rezaei: email username"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "اَت؛ نشانۀ @",
+            "en": "at: the @ sign"
+          }
+        },
+        {
+          "surface": "example",
+          "gloss": {
+            "fa": "اِگزامپِل؛ نام دامنه",
+            "en": "example: domain name"
+          }
+        },
+        {
+          "surface": "dot",
+          "gloss": {
+            "fa": "دات؛ نقطهٔ دامنه",
+            "en": "dot: full stop in an address"
+          }
+        },
+        {
+          "surface": "com.",
+          "gloss": {
+            "fa": "کام؛ پسوند دامنه.",
+            "en": "com: domain suffix"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "parisa",
+      "text": "I will save it in my phone right now.",
+      "translation": {
+        "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+        "en": "I will save it in my phone right now."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ نشانۀ تصمیم آینده",
+            "en": "will: future decision"
+          }
+        },
+        {
+          "surface": "save",
+          "gloss": {
+            "fa": "ذخیره کنم",
+            "en": "save: store"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن را",
+            "en": "it"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my"
+          }
+        },
+        {
+          "surface": "phone",
+          "gloss": {
+            "fa": "تلفن",
+            "en": "phone"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "همین؛ همراه now",
+            "en": "right: immediately"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "الان.",
+            "en": "now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nima",
+      "text": "Please call me when you get home safely.",
+      "translation": {
+        "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+        "en": "Please call me when you get home safely."
+      },
+      "tokens": [
+        {
+          "surface": "Please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please"
+          }
+        },
+        {
+          "surface": "call",
+          "gloss": {
+            "fa": "تماس بگیرید با",
+            "en": "call: telephone"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من",
+            "en": "me"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی",
+            "en": "when"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "برسید",
+            "en": "get: arrive"
+          }
+        },
+        {
+          "surface": "home",
+          "gloss": {
+            "fa": "خانه؛ مقصد بدون to",
+            "en": "home: destination"
+          }
+        },
+        {
+          "surface": "safely.",
+          "gloss": {
+            "fa": "به‌سلامت.",
+            "en": "safely"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "parisa",
+      "text": "I will, and I will send you a message too.",
+      "translation": {
+        "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+        "en": "I will, and I will send you a message too."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "will,",
+          "gloss": {
+            "fa": "انجام می‌دهم؛ جانشین will call",
+            "en": "will: auxiliary standing for “will call”"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم؛ نشانۀ تصمیم آینده",
+            "en": "will: future decision"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "بفرستم",
+            "en": "send"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "برای شما",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a: one, not yet identified"
+          }
+        },
+        {
+          "surface": "message",
+          "gloss": {
+            "fa": "پیام",
+            "en": "message"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم.",
+            "en": "also"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "excuse",
+        "text": "excuse",
+        "pronunciation": {
+          "faReading": "ایکسکیوز",
+          "ipa": "/ɪkˈskjuz/"
+        },
+        "meaning": {
+          "fa": "ببخشید؛ فعل در excuse me",
+          "en": "excuse; forgive, in excuse me"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; object form of I"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "اجازه داشتن؛ در درخواست مؤدبانه",
+          "en": "may; used to ask permission"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشته باشم؛ در درخواست شماره یعنی دریافت کردن",
+          "en": "have; obtain someone’s number"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو؛ مال شما",
+          "en": "your; belonging to the addressee"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "phone",
+        "text": "phone",
+        "pronunciation": {
+          "faReading": "فُون",
+          "ipa": "/foʊn/"
+        },
+        "meaning": {
+          "fa": "تلفن",
+          "en": "phone; telephone"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "number",
+        "text": "number",
+        "pronunciation": {
+          "faReading": "نَمبِر",
+          "ipa": "/ˈnʌmbɚ/"
+        },
+        "meaning": {
+          "fa": "شماره",
+          "en": "number; a sequence identifying a telephone"
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; an affirmative answer"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ گاهی فقط فاعل دستوری",
+          "en": "it; a referent or dummy subject"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; present singular form of be"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "five",
+        "text": "five",
+        "pronunciation": {
+          "faReading": "فایو",
+          "ipa": "/faɪv/"
+        },
+        "meaning": {
+          "fa": "پنج",
+          "en": "five; 5"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "four",
+        "text": "four",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "چهار",
+          "en": "four; 4"
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "اجازه دادن؛ گذاشتن",
+          "en": "let; allow someone to do something"
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "down",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "ثبت کردن؛ جزء فعل write down",
+          "en": "down; particle in write down, meaning record"
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person or people addressed"
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم، بسته به فاعل",
+          "en": "present form of be with you/we/they"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "جزئی از you are welcome به معنی خواهش می‌کنم",
+          "en": "welcome; part of the response you are welcome"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "email",
+        "text": "email",
+        "pronunciation": {
+          "faReading": "ای‌مِیل",
+          "ipa": "/ˈiˌmeɪl/"
+        },
+        "meaning": {
+          "fa": "ایمیل؛ پست الکترونیکی",
+          "en": "email; electronic mail"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "address",
+        "text": "address",
+        "pronunciation": {
+          "faReading": "اَدرِس",
+          "ipa": "/ˈædrɛs/"
+        },
+        "meaning": {
+          "fa": "نشانی",
+          "en": "address; the destination for a message"
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "اَت؛ نام نشانۀ @ در ایمیل",
+          "en": "at; the spoken name of @ in email"
+        },
+        "example": {
+          "text": "It is nima.rezaei at example dot com.",
+          "translation": {
+            "fa": "nima.rezaei ات example دات com است.",
+            "en": "It is nima.rezaei at example dot com."
+          }
+        }
+      },
+      {
+        "id": "example",
+        "text": "example",
+        "pronunciation": {
+          "faReading": "ایگْزَمپِل",
+          "ipa": "/ɪɡˈzæmpəl/"
+        },
+        "meaning": {
+          "fa": "اگزامپل؛ نام دامنه در این نشانی",
+          "en": "example; the domain label in this address"
+        },
+        "example": {
+          "text": "It is nima.rezaei at example dot com.",
+          "translation": {
+            "fa": "nima.rezaei ات example دات com است.",
+            "en": "It is nima.rezaei at example dot com."
+          }
+        }
+      },
+      {
+        "id": "dot",
+        "text": "dot",
+        "pronunciation": {
+          "faReading": "دات",
+          "ipa": "/dɑt/"
+        },
+        "meaning": {
+          "fa": "نقطه؛ هنگام خواندن نشانی",
+          "en": "dot; a period in a spoken address"
+        },
+        "example": {
+          "text": "It is nima.rezaei at example dot com.",
+          "translation": {
+            "fa": "nima.rezaei ات example دات com است.",
+            "en": "It is nima.rezaei at example dot com."
+          }
+        }
+      },
+      {
+        "id": "com",
+        "text": "com",
+        "pronunciation": {
+          "faReading": "کام",
+          "ipa": "/kɑm/"
+        },
+        "meaning": {
+          "fa": "کام؛ پسوند دامنهٔ اینترنتی",
+          "en": "com; the spoken domain suffix"
+        },
+        "example": {
+          "text": "It is nima.rezaei at example dot com.",
+          "translation": {
+            "fa": "nima.rezaei ات example دات com است.",
+            "en": "It is nima.rezaei at example dot com."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ خواهی؛ نشانۀ تصمیم آینده",
+          "en": "will; auxiliary for a future decision or promise"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "save",
+        "text": "save",
+        "pronunciation": {
+          "faReading": "سِیو",
+          "ipa": "/seɪv/"
+        },
+        "meaning": {
+          "fa": "ذخیره کردن",
+          "en": "save; store information"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من؛ ـَم پیش از اسم",
+          "en": "my; belonging to the speaker"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "همین؛ در right now برای تأکید بر فوریت",
+          "en": "right; emphasizes now in right now"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "call",
+        "text": "call",
+        "pronunciation": {
+          "faReading": "کال",
+          "ipa": "/kɔl/"
+        },
+        "meaning": {
+          "fa": "تماس تلفنی گرفتن با",
+          "en": "call; telephone someone"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "رسیدن؛ در get home",
+          "en": "get; arrive in get home"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "home",
+        "text": "home",
+        "pronunciation": {
+          "faReading": "هُوم",
+          "ipa": "/hoʊm/"
+        },
+        "meaning": {
+          "fa": "خانه؛ به خانه به‌عنوان مقصد",
+          "en": "home; at or to one’s place of residence"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "safely",
+        "text": "safely",
+        "pronunciation": {
+          "faReading": "سِیفلی",
+          "ipa": "/ˈseɪfli/"
+        },
+        "meaning": {
+          "fa": "به‌سلامت؛ بدون خطر",
+          "en": "safely; without harm"
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "send",
+        "text": "send",
+        "pronunciation": {
+          "faReading": "سِند",
+          "ipa": "/sɛnd/"
+        },
+        "meaning": {
+          "fa": "فرستادن",
+          "en": "send; cause something to reach someone"
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک؛ حرف تعریف نامعین",
+          "en": "a; indefinite article before a consonant sound"
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      },
+      {
+        "id": "message",
+        "text": "message",
+        "pronunciation": {
+          "faReading": "مِسیج",
+          "ipa": "/ˈmɛsɪdʒ/"
+        },
+        "meaning": {
+          "fa": "پیام",
+          "en": "message; a written or spoken communication"
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "may-have",
+        "title": {
+          "fa": "درخواست اطلاعات با may I have",
+          "en": "Requesting information with may I have"
+        },
+        "explanation": {
+          "fa": "May + I + have + اسم؟ یک درخواست مؤدبانه می‌سازد. have اینجا دریافت اطلاعات است. پس از may شکل سادهٔ have می‌آید و فاعل I پس از فعل کمکی قرار می‌گیرد. your phone number یک گروه اسمی با مالک your و هستهٔ number است؛ phone نوع شماره را مشخص می‌کند.",
+          "en": "May + I + have + noun? is a polite request for information here. Have means obtain. Use base-form have after may, with I following the auxiliary. Your phone number is a noun phrase with possessive your and head number; phone specifies its type."
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        },
+        "takeaway": {
+          "fa": "May I have your phone number? درخواست شماره است، نه پرسش دربارهٔ توانایی.",
+          "en": "May I have your phone number? requests a number rather than asking about ability."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست اطلاعات با may I have",
+              "en": "Requesting information with may I have"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "may I have your phone number?"
+                },
+                {
+                  "text": "may + I + have + your + phone + number?"
+                },
+                {
+                  "fa": "درخواست مؤدبانهٔ شماره",
+                  "en": "A polite request for a telephone number"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "be-questions",
+        "title": {
+          "fa": "be، it و سؤال با what",
+          "en": "Be, it and what questions"
+        },
+        "explanation": {
+          "fa": "It is به اطلاعاتی مانند شماره یا ایمیل اشاره می‌کند. در what is your email address?، what اطلاعات گمشده را می‌پرسد و is پیش از گروه اسمی می‌آید. You are welcome ساخت you + are + صفت دارد، اما معنی کل آن پاسخ به تشکر است.",
+          "en": "It is introduces a previously requested number or email address. In what is your email address?, what asks for missing information and is precedes the noun phrase. You are welcome has you + are + adjective, but the whole expression responds to thanks."
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        },
+        "takeaway": {
+          "fa": "با is سؤال می‌سازیم؛ do لازم نیست.",
+          "en": "Make this question with is, not do."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "be، it و سؤال با what",
+              "en": "Be, it and what questions"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "it is five five five"
+                },
+                {
+                  "text": "it + is + telephone digits"
+                },
+                {
+                  "fa": "بیان شمارهٔ درخواست‌شده",
+                  "en": "Giving the requested number"
+                }
+              ],
+              [
+                {
+                  "text": "what is your email address?"
+                },
+                {
+                  "text": "what + is + noun phrase?"
+                },
+                {
+                  "fa": "پرسیدن نشانی ایمیل",
+                  "en": "Asking for an email address"
+                }
+              ],
+              [
+                {
+                  "text": "You are welcome"
+                },
+                {
+                  "text": "you + are + adjective"
+                },
+                {
+                  "fa": "خواهش می‌کنم",
+                  "en": "A conventional response to thanks"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pronoun-reference",
+        "title": {
+          "fa": "ضمیرها و ارجاع اطلاعات",
+          "en": "Pronouns and reference"
+        },
+        "explanation": {
+          "fa": "I و you فاعلی‌اند؛ me مفعول I است و you با مفعولی شدن تغییر نمی‌کند. it به اطلاعات گفته‌شده اشاره می‌کند: در write it down شمارهٔ تلفن و در save it نشانی ایمیل است. my و your پیش از اسم مالک را نشان می‌دهند.",
+          "en": "I and you are subjects; me is the object form of I, while you stays unchanged as an object. It refers to previous information: the phone number in write it down, but the email address in save it. My and your mark possession before nouns."
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        },
+        "takeaway": {
+          "fa": "برای فهم it، به آخرین اطلاعات مرتبط توجه کن.",
+          "en": "Resolve it by looking at the most recent relevant information."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ضمیرها و ارجاع اطلاعات",
+              "en": "Pronouns and reference"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Let me write it down"
+                },
+                {
+                  "text": "me = writer; it = phone number"
+                },
+                {
+                  "fa": "من شماره را یادداشت کنم",
+                  "en": "Me is the writer; it is the phone number"
+                }
+              ],
+              [
+                {
+                  "text": "I will save it in my phone"
+                },
+                {
+                  "text": "it = email address; my = speaker’s"
+                },
+                {
+                  "fa": "پریسا ایمیل را ذخیره می‌کند",
+                  "en": "Parisa will store the email address"
+                }
+              ],
+              [
+                {
+                  "text": "send you a message"
+                },
+                {
+                  "text": "you = recipient; a message = thing sent"
+                },
+                {
+                  "fa": "تو گیرندهٔ پیام هستی",
+                  "en": "You is the recipient"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "let-base",
+        "title": {
+          "fa": "پیشنهاد اقدام با let me",
+          "en": "Offering an action with let me"
+        },
+        "explanation": {
+          "fa": "Let + me + شکل سادهٔ فعل یعنی «بگذارید من آن کار را انجام بدهم». پس از me در این ساخت to نمی‌آید. در Let me write it down نیما فرصت می‌خواهد شماره را ثبت کند؛ درخواست نوشتن از پریسا نیست.",
+          "en": "Let + me + base verb means allow me to perform the action. Do not put to after me in this construction. In Let me write it down, Nima asks for time to record the number; he is not asking Parisa to write."
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        },
+        "takeaway": {
+          "fa": "Let me + فعل ساده، اقدام خود گوینده را پیشنهاد می‌کند.",
+          "en": "Let me + base verb proposes an action by the speaker."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد اقدام با let me",
+              "en": "Offering an action with let me"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Let me write it down"
+                },
+                {
+                  "text": "let + object me + base write + it + down"
+                },
+                {
+                  "fa": "بگذارید یادداشتش کنم",
+                  "en": "Let the speaker record it"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "write-down",
+        "title": {
+          "fa": "جای ضمیر در write down",
+          "en": "Pronoun position in write down"
+        },
+        "explanation": {
+          "fa": "write down یعنی یادداشت یا ثبت کردن. این فعل ترکیبی جداشدنی است؛ وقتی مفعول ضمیر it باشد، آن را میان write و down بگذار. در این متن write it down درست است؛ write down it درست نیست.",
+          "en": "Write down means record in writing. It is a separable phrasal verb; when its object is the pronoun it, place that pronoun between write and down. The dialogue uses write it down, not write down it."
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        },
+        "takeaway": {
+          "fa": "با ضمیر بگو write it down.",
+          "en": "With a pronoun, use write it down."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جای ضمیر در write down",
+              "en": "Pronoun position in write down"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "write it down"
+                },
+                {
+                  "text": "write + pronoun object + down"
+                },
+                {
+                  "fa": "آن را یادداشت کردن",
+                  "en": "Record it in writing"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "will-future",
+        "title": {
+          "fa": "تصمیم و قول با will",
+          "en": "Decisions and promises with will"
+        },
+        "explanation": {
+          "fa": "برای تصمیم یا قول از فاعل + will + شکل سادهٔ فعل استفاده شده است. در I will save و I will send، فعل پس از will تغییر نمی‌کند. در I will کوتاهِ پریسا، call me when you get home safely از گفتهٔ قبل فهمیده می‌شود و دوباره تکرار نشده است.",
+          "en": "The dialogue uses subject + will + base verb for decisions and promises. Save and send do not change after will. In Parisa’s short I will, the action call me when you get home safely is understood from the previous request and is not repeated."
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        },
+        "takeaway": {
+          "fa": "I will به‌تنهایی می‌تواند قبول کردن انجام کارِ گفته‌شده باشد.",
+          "en": "I will alone can agree to do the action just mentioned."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تصمیم و قول با will",
+              "en": "Decisions and promises with will"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I will save it"
+                },
+                {
+                  "text": "I + will + base save + object"
+                },
+                {
+                  "fa": "تصمیم به ذخیره کردن",
+                  "en": "A decision to store the address"
+                }
+              ],
+              [
+                {
+                  "text": "I will"
+                },
+                {
+                  "text": "I + will + understood action"
+                },
+                {
+                  "fa": "قول به تماس گرفتن",
+                  "en": "An agreement to make the requested call"
+                }
+              ],
+              [
+                {
+                  "text": "I will send you a message too"
+                },
+                {
+                  "text": "I + will + base send + recipient + object + too"
+                },
+                {
+                  "fa": "قولِ فرستادن پیام هم",
+                  "en": "An additional promise to send a message"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "when-clause",
+        "title": {
+          "fa": "when و حال ساده برای آینده",
+          "en": "When clauses referring to the future"
+        },
+        "explanation": {
+          "fa": "در Please call me when you get home safely، بخش when زمان تماس را تعیین می‌کند. با اینکه رسیدن در آینده است، در این بند زمانی از حال سادهٔ get استفاده می‌شود، نه will get. جملهٔ اصلی درخواست امری با please است.",
+          "en": "In Please call me when you get home safely, the when-clause specifies the time for the call. Although the arrival is in the future, the time clause uses present-simple get, not will get. The main clause is an imperative softened by please."
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        },
+        "takeaway": {
+          "fa": "در این بند زمانی بگو when you get home، نه when you will get home.",
+          "en": "In this time clause, use when you get home, not when you will get home."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "when و حال ساده برای آینده",
+              "en": "When clauses referring to the future"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Please call me"
+                },
+                {
+                  "text": "please + base call + object me"
+                },
+                {
+                  "fa": "درخواست مؤدبانهٔ تماس",
+                  "en": "A polite request to call"
+                }
+              ],
+              [
+                {
+                  "text": "when you get home safely"
+                },
+                {
+                  "text": "when + subject + present verb + destination + adverb"
+                },
+                {
+                  "fa": "وقتی به‌سلامت به خانه رسیدی",
+                  "en": "The future time when the call should happen"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "home-safely",
+        "title": {
+          "fa": "مقصد home و قید safely",
+          "en": "Destination home and the adverb safely"
+        },
+        "explanation": {
+          "fa": "get home یعنی به خانه رسیدن؛ home در اینجا قید مقصد است و to نمی‌گیرد. safely قیدِ ساخته‌شده از safe + ly است و نحوهٔ رسیدن را بیان می‌کند، نه ویژگی خانه را. right در right now فوریت now را تقویت می‌کند.",
+          "en": "Get home means arrive home; home acts as a destination adverb and takes no to here. Safely is the adverb safe + ly and describes the arrival, not the house. Right in right now emphasizes the immediacy of now."
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        },
+        "takeaway": {
+          "fa": "get home بدون to؛ safely وصفِ عمل است.",
+          "en": "Use get home without to; safely describes the action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقصد home و قید safely",
+              "en": "Destination home and the adverb safely"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "get home safely"
+                },
+                {
+                  "text": "get + destination home + manner adverb"
+                },
+                {
+                  "fa": "به‌سلامت به خانه رسیدن",
+                  "en": "Arrive home without harm"
+                }
+              ],
+              [
+                {
+                  "text": "right now"
+                },
+                {
+                  "text": "intensifier right + now"
+                },
+                {
+                  "fa": "همین الان",
+                  "en": "Immediately, at this moment"
+                }
+              ],
+              [
+                {
+                  "text": "in my phone"
+                },
+                {
+                  "text": "in + possessive + device noun"
+                },
+                {
+                  "fa": "در تلفنم؛ محل ذخیرهٔ اطلاعات",
+                  "en": "The device where the information will be stored"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "send-two-objects",
+        "title": {
+          "fa": "دو مفعول در send",
+          "en": "Two objects with send"
+        },
+        "explanation": {
+          "fa": "در send you a message، نخست گیرنده یعنی you و سپس چیز فرستاده‌شده یعنی a message می‌آید. a نشان می‌دهد یک پیام نامشخص مطرح است. and وعدهٔ تماس و پیام را پیوند می‌دهد و too در پایان، پیام را به تماس اضافه می‌کند.",
+          "en": "In send you a message, the recipient you comes before the thing sent, a message. A introduces one unspecified message. And links the call and message commitments, while final too adds the message to the call."
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        },
+        "takeaway": {
+          "fa": "send + گیرنده + چیز فرستاده‌شده را به همین ترتیب بخوان.",
+          "en": "Read send + recipient + thing sent in that order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "دو مفعول در send",
+              "en": "Two objects with send"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "send you a message"
+                },
+                {
+                  "text": "send + recipient + a + message"
+                },
+                {
+                  "fa": "یک پیام برای تو فرستادن",
+                  "en": "Send a message to the listener"
+                }
+              ],
+              [
+                {
+                  "text": "and I will send you a message too"
+                },
+                {
+                  "text": "and + future clause + too"
+                },
+                {
+                  "fa": "علاوه بر تماس، پیام هم می‌فرستم",
+                  "en": "Adding a message to the promised call"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spoken-details",
+        "title": {
+          "fa": "ساخت شماره و نشانی ایمیل",
+          "en": "Structure of spoken contact details"
+        },
+        "explanation": {
+          "fa": "شمارهٔ تلفن این متن رقم‌به‌رقم خوانده می‌شود؛ تکرار five سه رقم جداست. در ایمیل، at علامت @ و dot نقطهٔ میان دامنه و پسوند است. nima.rezaei در متن یک توکن مکتوب با نقطهٔ داخلی است و نباید آن نقطه حذف شود؛ transcript آن را به دو واژه نشکسته است.",
+          "en": "The phone number is spoken digit by digit; the repeated five represents three separate digits. In the email, at names @ and dot separates the domain from the suffix. Nima.rezaei is one written token with an internal period; preserve it because the transcript does not split it into words."
+        },
+        "example": {
+          "text": "It is nima.rezaei at example dot com.",
+          "translation": {
+            "fa": "nima.rezaei ات example دات com است.",
+            "en": "It is nima.rezaei at example dot com."
+          }
+        },
+        "takeaway": {
+          "fa": "رقم‌ها و اجزای نشانی را به ترتیب بشنو و ثبت کن.",
+          "en": "Listen to and record the digits and address components in order."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ساخت شماره و نشانی ایمیل",
+              "en": "Structure of spoken contact details"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "five five five, one two three four"
+                },
+                {
+                  "text": "5 + 5 + 5 + 1 + 2 + 3 + 4"
+                },
+                {
+                  "fa": "شمارهٔ ۵۵۵۱۲۳۴",
+                  "en": "The number 5551234"
+                }
+              ],
+              [
+                {
+                  "text": "nima.rezaei at example dot com"
+                },
+                {
+                  "text": "username + @ + domain + . + suffix"
+                },
+                {
+                  "fa": "نام کاربری، دامنه و پسوند به ترتیب",
+                  "en": "The username, domain and suffix in order"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "excuse-me",
+        "text": "Excuse me",
+        "pronunciation": {
+          "faReading": "ایکسکیوز می",
+          "ipa": "/ɪkˈskjuz mi/"
+        },
+        "meaning": {
+          "fa": "ببخشید",
+          "en": "Excuse me"
+        },
+        "context": {
+          "fa": "برای جلب توجه پیش از درخواست شماره؛ فعل excuse در این عبارت با /z/ پایان می‌یابد.",
+          "en": "Gets attention before the number request; the verb excuse ends in /z/ in this phrase."
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "may-number",
+        "text": "may I have your phone number?",
+        "pronunciation": {
+          "faReading": "مِی آی هَو یور فُون نَمبِر",
+          "ipa": "/meɪ aɪ hæv jʊr foʊn ˈnʌmbɚ/"
+        },
+        "meaning": {
+          "fa": "می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+          "en": "May I have your phone number?"
+        },
+        "context": {
+          "fa": "May I درخواست را رسمی‌تر و مؤدبانه‌تر از یک دستور مستقیم می‌کند؛ دریافت شماره همچنان به موافقت مخاطب نیاز دارد.",
+          "en": "May I is more formal and polite than a direct instruction; sharing the number still depends on the listener’s agreement."
+        },
+        "example": {
+          "text": "Excuse me, may I have your phone number?",
+          "translation": {
+            "fa": "ببخشید، می‌توانم شمارهٔ تلفنتان را داشته باشم؟",
+            "en": "Excuse me, may I have your phone number?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "Yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "Yes"
+        },
+        "context": {
+          "fa": "پاسخ مثبت پریسا به درخواست شماره و سپس مقدمهٔ گفتن رقم‌ها.",
+          "en": "Parisa agrees to the request and then gives the digits."
+        },
+        "example": {
+          "text": "Yes, it is five five five, one two three four.",
+          "translation": {
+            "fa": "بله، پنج پنج پنج، یک دو سه چهار است.",
+            "en": "Yes, it is five five five, one two three four."
+          }
+        }
+      },
+      {
+        "id": "let-write",
+        "text": "Let me write it down",
+        "pronunciation": {
+          "faReading": "لِت می رایت ایت داون",
+          "ipa": "/lɛt mi raɪt ɪt daʊn/"
+        },
+        "meaning": {
+          "fa": "بگذارید یادداشتش کنم",
+          "en": "Let me write it down"
+        },
+        "context": {
+          "fa": "برای مکث کوتاه هنگام ثبت اطلاعات؛ نیما خودش یادداشت می‌کند و از طرف مقابل نمی‌خواهد بنویسد.",
+          "en": "Requests a brief pause to record information; Nima offers to write it himself rather than asking the other person to write."
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "thank-you",
+        "text": "thank you",
+        "pronunciation": {
+          "faReading": "ثَنک یو",
+          "ipa": "/θæŋk ju/"
+        },
+        "meaning": {
+          "fa": "ممنونم",
+          "en": "Thank you"
+        },
+        "context": {
+          "fa": "تشکر نیما از به اشتراک گذاشتن شماره، با لحن خنثی و مؤدبانه.",
+          "en": "Nima politely thanks Parisa for sharing her number."
+        },
+        "example": {
+          "text": "Let me write it down, thank you.",
+          "translation": {
+            "fa": "بگذارید یادداشتش کنم، ممنونم.",
+            "en": "Let me write it down, thank you."
+          }
+        }
+      },
+      {
+        "id": "you-welcome",
+        "text": "You are welcome",
+        "pronunciation": {
+          "faReading": "یو آر وِلکَم",
+          "ipa": "/ju ɑr ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خواهش می‌کنم",
+          "en": "You are welcome"
+        },
+        "context": {
+          "fa": "پاسخ به تشکر است؛ اینجا خوشامدگویی به ورود کسی نیست.",
+          "en": "A response to thanks, not a greeting for someone’s arrival."
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "email-address",
+        "text": "what is your email address?",
+        "pronunciation": {
+          "faReading": "وات ایز یور ای‌مِیل اَدرِس",
+          "ipa": "/wʌt ɪz jʊr ˈiˌmeɪl ˈædrɛs/"
+        },
+        "meaning": {
+          "fa": "نشانی ایمیل شما چیست؟",
+          "en": "What is your email address?"
+        },
+        "context": {
+          "fa": "سؤال پیگیری برای راه دوم ارتباط پس از تبادل شماره.",
+          "en": "A follow-up asking for a second way to keep in contact."
+        },
+        "example": {
+          "text": "You are welcome, and what is your email address?",
+          "translation": {
+            "fa": "خواهش می‌کنم؛ نشانی ایمیل شما چیست؟",
+            "en": "You are welcome, and what is your email address?"
+          }
+        }
+      },
+      {
+        "id": "right-now",
+        "text": "right now",
+        "pronunciation": {
+          "faReading": "رایت ناو",
+          "ipa": "/raɪt naʊ/"
+        },
+        "meaning": {
+          "fa": "همین الان",
+          "en": "Right now; immediately"
+        },
+        "context": {
+          "fa": "بر فوریت ذخیره کردن ایمیل تأکید می‌کند؛ right اینجا معنی راست یا درست ندارد.",
+          "en": "Emphasizes immediate saving; right here does not mean a direction or correctness."
+        },
+        "example": {
+          "text": "I will save it in my phone right now.",
+          "translation": {
+            "fa": "همین الان آن را در تلفنم ذخیره می‌کنم.",
+            "en": "I will save it in my phone right now."
+          }
+        }
+      },
+      {
+        "id": "call-home",
+        "text": "Please call me when you get home safely",
+        "pronunciation": {
+          "faReading": "پْلیز کال می وِن یو گِت هُوم سِیفلی",
+          "ipa": "/pliz kɔl mi wɛn ju ɡɛt hoʊm ˈseɪfli/"
+        },
+        "meaning": {
+          "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید",
+          "en": "Please call me when you get home safely"
+        },
+        "context": {
+          "fa": "درخواست اطلاع دادن از رسیدن به‌سلامت؛ please لحن را نرم می‌کند و safely توجه به سلامت مخاطب را می‌رساند.",
+          "en": "A request for an arrival check-in; please softens it and safely expresses concern for the listener’s wellbeing."
+        },
+        "example": {
+          "text": "Please call me when you get home safely.",
+          "translation": {
+            "fa": "لطفاً وقتی سالم به خانه رسیدید با من تماس بگیرید.",
+            "en": "Please call me when you get home safely."
+          }
+        }
+      },
+      {
+        "id": "i-will",
+        "text": "I will",
+        "pronunciation": {
+          "faReading": "آی ویل",
+          "ipa": "/aɪ wɪl/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ این کار را می‌کنم",
+          "en": "I will; I agree to do that"
+        },
+        "context": {
+          "fa": "پاسخ کوتاه به درخواست تماس؛ فعل call از گفتهٔ قبل فهمیده می‌شود.",
+          "en": "A short agreement to the request to call; call is understood from the previous turn."
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      },
+      {
+        "id": "send-message",
+        "text": "send you a message",
+        "pronunciation": {
+          "faReading": "سِند یو اِ مِسیج",
+          "ipa": "/sɛnd ju ə ˈmɛsɪdʒ/"
+        },
+        "meaning": {
+          "fa": "برای شما پیام فرستادن",
+          "en": "Send you a message"
+        },
+        "context": {
+          "fa": "یک راه تماس دیگر؛ در متن، too روشن می‌کند پیام علاوه بر تماس خواهد بود.",
+          "en": "Another way to contact someone; too in the dialogue makes the message additional to the call."
+        },
+        "example": {
+          "text": "I will, and I will send you a message too.",
+          "translation": {
+            "fa": "حتماً، و یک پیام هم برایتان می‌فرستم.",
+            "en": "I will, and I will send you a message too."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی دو نفر چیست؟",
+          "en": "What is the speakers’ main purpose?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هماهنگ کردن زمان یک جلسه",
+              "en": "Arranging a meeting time"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تبادل راه‌های تماس با یکدیگر",
+              "en": "Exchanging contact details"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حل مشکل خرابی تلفن",
+              "en": "Solving a broken-phone problem"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "نیما شماره می‌خواهد و پریسا نشانی ایمیل می‌پرسد؛ هر دو راه ارتباطی ردوبدل می‌کنند.",
+          "en": "Nima asks for a phone number and Parisa asks for an email address, so they exchange contact details."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04"
+        ]
+      },
+      {
+        "id": "phone-number",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پریسا چه شماره‌ای می‌گوید؟",
+          "en": "Which phone number does Parisa give?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "۵۵۵۱۲۳۴",
+              "en": "5551234"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "۵۵۵۱۳۲۴",
+              "en": "5551324"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "۵۵۵۱۲۴۳",
+              "en": "5551243"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پریسا رقم‌ها را به ترتیب five five five, one two three four می‌گوید.",
+          "en": "Parisa says the digits five five five, one two three four in that order."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "email",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "ترتیب اجزای ایمیل نیما کدام است؟",
+          "en": "Which sequence gives Nima’s email address?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "nima.rezaei at example dot net",
+              "en": "nima.rezaei at example dot net"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "nima.rezaei at sample dot com",
+              "en": "nima.rezaei at sample dot com"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "nima.rezaei at example dot com",
+              "en": "nima.rezaei at example dot com"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "نیما دقیقاً nima.rezaei at example dot com می‌گوید؛ دامنه example و پسوند com است.",
+          "en": "Nima says nima.rezaei at example dot com; the domain is example and the suffix is com."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "arrival-call",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نیما چه زمانی درخواست تماس می‌کند؟",
+          "en": "When does Nima ask Parisa to call?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "وقتی سالم به خانه رسید",
+              "en": "When she gets home safely"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "وقتی به محل کار رسید",
+              "en": "When she gets to work"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "وقتی از خانه بیرون رفت",
+              "en": "When she leaves home"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نیما می‌گوید when you get home safely و پریسا با I will آن را می‌پذیرد.",
+          "en": "Nima says when you get home safely, and Parisa agrees with I will."
+        },
+        "evidenceTurnIds": [
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "extra-message",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پریسا علاوه بر تماس، چه کاری را می‌پذیرد؟",
+          "en": "What else does Parisa agree to do besides calling?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک ایمیل بفرستد.",
+              "en": "Send an email."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "یک پیام بفرستد.",
+              "en": "Send a message."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "یک نامه بفرستد.",
+              "en": "Send a letter."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پریسا می‌گوید I will send you a message too؛ too یعنی این کار علاوه بر تماس است.",
+          "en": "Parisa says I will send you a message too, making the message additional to the call."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

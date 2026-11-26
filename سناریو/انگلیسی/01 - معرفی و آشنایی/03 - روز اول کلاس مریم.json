@@ -1,0 +1,2308 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s03",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "روز اول کلاس مریم",
+    "en": "Maryam’s first day in class"
+  },
+  "objective": {
+    "fa": "تشخیص بده مریم اهل کجاست، این چندمین درس اوست و از چه دو فعالیتی لذت می‌برد.",
+    "en": "Identify Maryam’s home city, whether this is her first lesson, and her two hobbies."
+  },
+  "speakers": [
+    {
+      "id": "maryam",
+      "name": "Maryam",
+      "gender": "woman"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "maryam",
+      "text": "Good morning, everyone.",
+      "translation": {
+        "fa": "صبح به‌خیر، همگی.",
+        "en": "Good morning, everyone."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ جزء سلام صبحگاهی",
+            "en": "good"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح؛ جزء سلام صبحگاهی،",
+            "en": "morning"
+          }
+        },
+        {
+          "surface": "everyone.",
+          "gloss": {
+            "fa": "همگی.",
+            "en": "everyone"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "teacher",
+      "text": "Good morning, Maryam, welcome to the class.",
+      "translation": {
+        "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+        "en": "Good morning, Maryam, welcome to the class."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ جزء سلام صبحگاهی",
+            "en": "good"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح؛ جزء سلام صبحگاهی،",
+            "en": "morning"
+          }
+        },
+        {
+          "surface": "Maryam,",
+          "gloss": {
+            "fa": "مریم،",
+            "en": "Maryam (personal name)"
+          }
+        },
+        {
+          "surface": "welcome",
+          "gloss": {
+            "fa": "خوش آمدی",
+            "en": "welcome"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "حرف تعریفِ کلاس مشخص",
+            "en": "the: specific referent"
+          }
+        },
+        {
+          "surface": "class.",
+          "gloss": {
+            "fa": "کلاس.",
+            "en": "class"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "maryam",
+      "text": "My name is Maryam and I am a student.",
+      "translation": {
+        "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+        "en": "My name is Maryam and I am a student."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my"
+          }
+        },
+        {
+          "surface": "name",
+          "gloss": {
+            "fa": "نام",
+            "en": "name"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "Maryam",
+          "gloss": {
+            "fa": "مریم",
+            "en": "Maryam (personal name)"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a: one, not yet identified"
+          }
+        },
+        {
+          "surface": "student.",
+          "gloss": {
+            "fa": "دانش‌آموز.",
+            "en": "student"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "teacher",
+      "text": "Nice to meet you, Maryam, where are you from?",
+      "translation": {
+        "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+        "en": "Nice to meet you, Maryam, where are you from?"
+      },
+      "tokens": [
+        {
+          "surface": "Nice",
+          "gloss": {
+            "fa": "خوشایند",
+            "en": "pleasant"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از شکل سادهٔ فعل",
+            "en": "infinitive marker before the base verb"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو،",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "Maryam,",
+          "gloss": {
+            "fa": "مریم،",
+            "en": "Maryam (personal name)"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "کجا",
+            "en": "where"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی",
+            "en": "be: present with you/we"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "from?",
+          "gloss": {
+            "fa": "از؛ اهل؟",
+            "en": "from: origin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "maryam",
+      "text": "I am from Tabriz, and this is my first lesson.",
+      "translation": {
+        "fa": "من اهل تبریزم و این اولین درس من است.",
+        "en": "I am from Tabriz, and this is my first lesson."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "اهلِ",
+            "en": "from: origin"
+          }
+        },
+        {
+          "surface": "Tabriz,",
+          "gloss": {
+            "fa": "تبریز،",
+            "en": "Tabriz; city name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my"
+          }
+        },
+        {
+          "surface": "first",
+          "gloss": {
+            "fa": "اولین",
+            "en": "first"
+          }
+        },
+        {
+          "surface": "lesson.",
+          "gloss": {
+            "fa": "درس.",
+            "en": "lesson"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "teacher",
+      "text": "Great, please tell us about your hobbies.",
+      "translation": {
+        "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+        "en": "Great, please tell us about your hobbies."
+      },
+      "tokens": [
+        {
+          "surface": "Great,",
+          "gloss": {
+            "fa": "عالی،",
+            "en": "great"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please"
+          }
+        },
+        {
+          "surface": "tell",
+          "gloss": {
+            "fa": "بگو",
+            "en": "tell"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "به ما",
+            "en": "us"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال تو",
+            "en": "your"
+          }
+        },
+        {
+          "surface": "hobbies.",
+          "gloss": {
+            "fa": "سرگرمی‌ها.",
+            "en": "hobbies"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "maryam",
+      "text": "I like reading books and listening to music.",
+      "translation": {
+        "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+        "en": "I like reading books and listening to music."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست دارم",
+            "en": "enjoy"
+          }
+        },
+        {
+          "surface": "reading",
+          "gloss": {
+            "fa": "خواندن",
+            "en": "reading"
+          }
+        },
+        {
+          "surface": "books",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "listening",
+          "gloss": {
+            "fa": "گوش دادن",
+            "en": "listening"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "حرف اضافهٔ لازم پس از listen",
+            "en": "preposition introducing what is listened to"
+          }
+        },
+        {
+          "surface": "music.",
+          "gloss": {
+            "fa": "موسیقی.",
+            "en": "music"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "teacher",
+      "text": "Excellent, we are happy to have you here.",
+      "translation": {
+        "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+        "en": "Excellent, we are happy to have you here."
+      },
+      "tokens": [
+        {
+          "surface": "Excellent,",
+          "gloss": {
+            "fa": "عالی،",
+            "en": "excellent"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستیم",
+            "en": "be: present with you/we"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از شکل سادهٔ فعل",
+            "en": "infinitive marker before the base verb"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتن؛ اینجا حضور داشتنِ",
+            "en": "have: have someone present"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو را؛ مخاطب خوشامدگویی",
+            "en": "you; the person being welcomed"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا.",
+            "en": "in this place"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب؛ در سلام صبحگاهی جزئی از صبح به‌خیر",
+          "en": "good; part of the greeting good morning"
+        },
+        "example": {
+          "text": "Good morning, everyone.",
+          "translation": {
+            "fa": "صبح به‌خیر، همگی.",
+            "en": "Good morning, everyone."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the first part of the day"
+        },
+        "example": {
+          "text": "Good morning, everyone.",
+          "translation": {
+            "fa": "صبح به‌خیر، همگی.",
+            "en": "Good morning, everyone."
+          }
+        }
+      },
+      {
+        "id": "everyone",
+        "text": "everyone",
+        "pronunciation": {
+          "faReading": "اِوری‌وان",
+          "ipa": "/ˈɛvriwʌn/"
+        },
+        "meaning": {
+          "fa": "همه؛ همگی",
+          "en": "everyone; all the people"
+        },
+        "example": {
+          "text": "Good morning, everyone.",
+          "translation": {
+            "fa": "صبح به‌خیر، همگی.",
+            "en": "Good morning, everyone."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی؛ در welcome to the class",
+          "en": "welcome; greeting someone on arrival"
+        },
+        "example": {
+          "text": "Good morning, Maryam, welcome to the class.",
+          "translation": {
+            "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+            "en": "Good morning, Maryam, welcome to the class."
+          }
+        }
+      },
+      {
+        "id": "to-infinitive",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "نشانۀ مصدر پیش از meet و have",
+          "en": "to; infinitive marker before meet and have"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "حرف تعریف برای مرجع مشخص",
+          "en": "the; marks a specific referent"
+        },
+        "example": {
+          "text": "Good morning, Maryam, welcome to the class.",
+          "translation": {
+            "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+            "en": "Good morning, Maryam, welcome to the class."
+          }
+        }
+      },
+      {
+        "id": "class",
+        "text": "class",
+        "pronunciation": {
+          "faReading": "کْلَس",
+          "ipa": "/klæs/"
+        },
+        "meaning": {
+          "fa": "کلاس",
+          "en": "class; a group or session for learning"
+        },
+        "example": {
+          "text": "Good morning, Maryam, welcome to the class.",
+          "translation": {
+            "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+            "en": "Good morning, Maryam, welcome to the class."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من؛ ـَم پیش از اسم",
+          "en": "my; belonging to the speaker"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "name",
+        "text": "name",
+        "pronunciation": {
+          "faReading": "نِیم",
+          "ipa": "/neɪm/"
+        },
+        "meaning": {
+          "fa": "نام؛ اسم",
+          "en": "name; what a person is called"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; present singular form of be"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم؛ شکل be با I",
+          "en": "am; present form of be with I"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک؛ حرف تعریف نامعین",
+          "en": "a; indefinite article before a consonant sound"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "student",
+        "text": "student",
+        "pronunciation": {
+          "faReading": "سْتودِنت",
+          "ipa": "/ˈstudənt/"
+        },
+        "meaning": {
+          "fa": "دانش‌آموز؛ دانشجو",
+          "en": "student; a person who studies"
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "ملاقات کردن؛ آشنا شدن با",
+          "en": "meet; encounter or become acquainted with"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person or people addressed"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "کجا",
+          "en": "where; asking about place"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم، بسته به فاعل",
+          "en": "present form of be with you/we/they"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ، برای بیان مبدأ",
+          "en": "from; origin in be from"
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "I am from Tabriz, and this is my first lesson.",
+          "translation": {
+            "fa": "من اهل تبریزم و این اولین درس من است.",
+            "en": "I am from Tabriz, and this is my first lesson."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اولین؛ نخستین",
+          "en": "first; number one in an order"
+        },
+        "example": {
+          "text": "I am from Tabriz, and this is my first lesson.",
+          "translation": {
+            "fa": "من اهل تبریزم و این اولین درس من است.",
+            "en": "I am from Tabriz, and this is my first lesson."
+          }
+        }
+      },
+      {
+        "id": "lesson",
+        "text": "lesson",
+        "pronunciation": {
+          "faReading": "لِسِن",
+          "ipa": "/ˈlɛsən/"
+        },
+        "meaning": {
+          "fa": "درس؛ جلسهٔ آموزش",
+          "en": "lesson; a period or unit of learning"
+        },
+        "example": {
+          "text": "I am from Tabriz, and this is my first lesson.",
+          "translation": {
+            "fa": "من اهل تبریزم و این اولین درس من است.",
+            "en": "I am from Tabriz, and this is my first lesson."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "tell",
+        "text": "tell",
+        "pronunciation": {
+          "faReading": "تِل",
+          "ipa": "/tɛl/"
+        },
+        "meaning": {
+          "fa": "گفتن؛ تعریف کردن برای کسی",
+          "en": "tell; give someone information"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; object form of we"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو؛ مال شما",
+          "en": "your; belonging to the addressee"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "hobbies",
+        "text": "hobbies",
+        "pronunciation": {
+          "faReading": "ها‌بیز",
+          "ipa": "/ˈhɑbiz/"
+        },
+        "meaning": {
+          "fa": "سرگرمی‌ها؛ جمع hobby",
+          "en": "hobbies; activities done for pleasure"
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن",
+          "en": "like; enjoy"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      },
+      {
+        "id": "reading",
+        "text": "reading",
+        "pronunciation": {
+          "faReading": "ریدینگ",
+          "ipa": "/ˈridɪŋ/"
+        },
+        "meaning": {
+          "fa": "خواندن؛ شکل ing فعل read",
+          "en": "reading; the activity of reading"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      },
+      {
+        "id": "books",
+        "text": "books",
+        "pronunciation": {
+          "faReading": "بوکس",
+          "ipa": "/bʊks/"
+        },
+        "meaning": {
+          "fa": "کتاب‌ها",
+          "en": "books; plural of book"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      },
+      {
+        "id": "listening",
+        "text": "listening",
+        "pronunciation": {
+          "faReading": "لیسِنینگ",
+          "ipa": "/ˈlɪsənɪŋ/"
+        },
+        "meaning": {
+          "fa": "گوش دادن؛ شکل ing فعل listen",
+          "en": "listening; paying attention to sound"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      },
+      {
+        "id": "music",
+        "text": "music",
+        "pronunciation": {
+          "faReading": "میوزیک",
+          "ipa": "/ˈmjuzɪk/"
+        },
+        "meaning": {
+          "fa": "موسیقی",
+          "en": "music; organized musical sound"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      },
+      {
+        "id": "excellent",
+        "text": "excellent",
+        "pronunciation": {
+          "faReading": "اِکسِلِنت",
+          "ipa": "/ˈɛksələnt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ بسیار خوب",
+          "en": "excellent; extremely good"
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتنِ کسی در جمع؛ در اینجا حضور داشتنِ شما",
+          "en": "have; have someone present with the group"
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "to-preposition",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "حرف اضافه در welcome to و listen to؛ برای ورود به جمع یا متمم گوش دادن",
+          "en": "to; preposition introducing the group in welcome to or the object of listening"
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "be-introduction",
+        "title": {
+          "fa": "معرفی با be و تطابق فاعل",
+          "en": "Introducing people with be"
+        },
+        "explanation": {
+          "fa": "با I از am، با you و we از are و با my name یا this از is استفاده کن. پس از be می‌توان اسم، صفت یا گروهی با from آورد. در My name is Maryam، فاعل name مفرد است؛ وجود my آن را به I تبدیل نمی‌کند.",
+          "en": "Use am with I, are with you/we and is with my name or this. Be can be followed by a noun, adjective or from-phrase. In My name is Maryam, the subject name is singular; my does not change the subject to I."
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        },
+        "takeaway": {
+          "fa": "فاعل جمله شکل be را تعیین می‌کند.",
+          "en": "The subject determines the form of be."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "معرفی با be و تطابق فاعل",
+              "en": "Introducing people with be"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "My name is Maryam"
+                },
+                {
+                  "text": "my name + is + name"
+                },
+                {
+                  "fa": "اسم من مریم است",
+                  "en": "Stating a name"
+                }
+              ],
+              [
+                {
+                  "text": "I am a student"
+                },
+                {
+                  "text": "I + am + a + role"
+                },
+                {
+                  "fa": "من دانش‌آموز هستم",
+                  "en": "Stating a role"
+                }
+              ],
+              [
+                {
+                  "text": "we are happy"
+                },
+                {
+                  "text": "we + are + adjective"
+                },
+                {
+                  "fa": "ما خوشحالیم",
+                  "en": "Describing a shared feeling"
+                }
+              ],
+              [
+                {
+                  "text": "this is my first lesson"
+                },
+                {
+                  "text": "this + is + noun phrase"
+                },
+                {
+                  "fa": "این اولین درس من است",
+                  "en": "Identifying the current lesson"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "where-from",
+        "title": {
+          "fa": "سؤال مبدأ با where و from",
+          "en": "Origin questions with where and from"
+        },
+        "explanation": {
+          "fa": "برای سؤال دربارهٔ مبدأ، where را اول بیاور و جای فاعل و be را عوض کن: where + are + you + from؟ from در انتها می‌ماند. پاسخ I am from + نام شهر است.",
+          "en": "To ask origin, put where first and invert be and the subject: where + are + you + from? From remains at the end. Answer with I am from + city name."
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        },
+        "takeaway": {
+          "fa": "Where are you from? را با نام شهر می‌توان پاسخ داد.",
+          "en": "A city name can answer Where are you from?"
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "سؤال مبدأ با where و from",
+              "en": "Origin questions with where and from"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "where are you from?"
+                },
+                {
+                  "text": "where + are + you + from?"
+                },
+                {
+                  "fa": "اهل کجا هستی؟",
+                  "en": "Asking about origin"
+                }
+              ],
+              [
+                {
+                  "text": "I am from Tabriz"
+                },
+                {
+                  "text": "I + am + from + city"
+                },
+                {
+                  "fa": "اهل تبریز هستم",
+                  "en": "Giving a home city"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "articles-possessives",
+        "title": {
+          "fa": "a، the و واژه‌های مالکیت",
+          "en": "Articles and possessive determiners"
+        },
+        "explanation": {
+          "fa": "پیش از شغل مفرد student از a استفاده شده است. the class به کلاس مشخص حاضر اشاره دارد. my و your پیش از اسم مالکیت را نشان می‌دهند و با a یا the در همان جایگاه جمع نمی‌شوند. در my first lesson، first ترتیب درس را بیان می‌کند. books و hobbies جمع‌اند؛ music در این کاربرد غیرقابل‌شمارش است و a نمی‌گیرد.",
+          "en": "A precedes the singular role student. The class refers to the specific class being attended. My and your precede nouns to mark possession and do not share that determiner slot with a or the. In my first lesson, first marks order. Books and hobbies are plural; music is uncountable here and takes no a."
+        },
+        "example": {
+          "text": "I am from Tabriz, and this is my first lesson.",
+          "translation": {
+            "fa": "من اهل تبریزم و این اولین درس من است.",
+            "en": "I am from Tabriz, and this is my first lesson."
+          }
+        },
+        "takeaway": {
+          "fa": "به حرف تعریف، مالک و مفرد یا جمع بودن اسم دقت کن.",
+          "en": "Notice the article or possessive and whether the noun is singular or plural."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "a، the و واژه‌های مالکیت",
+              "en": "Articles and possessive determiners"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a student"
+                },
+                {
+                  "text": "a + singular count noun"
+                },
+                {
+                  "fa": "یک دانش‌آموز؛ معرفی نقش",
+                  "en": "Introducing a role"
+                }
+              ],
+              [
+                {
+                  "text": "the class"
+                },
+                {
+                  "text": "the + specific noun"
+                },
+                {
+                  "fa": "کلاس مشخص حاضر",
+                  "en": "The specific class"
+                }
+              ],
+              [
+                {
+                  "text": "my first lesson"
+                },
+                {
+                  "text": "my + ordinal + singular noun"
+                },
+                {
+                  "fa": "اولین درس من",
+                  "en": "Possession and order"
+                }
+              ],
+              [
+                {
+                  "text": "your hobbies"
+                },
+                {
+                  "text": "your + plural noun"
+                },
+                {
+                  "fa": "سرگرمی‌های تو",
+                  "en": "Plural possessed items"
+                }
+              ],
+              [
+                {
+                  "text": "music"
+                },
+                {
+                  "text": "uncountable noun; no article here"
+                },
+                {
+                  "fa": "موسیقی به‌طور کلی",
+                  "en": "Music in general"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "imperative-tell",
+        "title": {
+          "fa": "درخواست و ترتیب مفعول با tell",
+          "en": "Imperative requests and tell"
+        },
+        "explanation": {
+          "fa": "Please tell us about your hobbies با شکل سادهٔ tell شروع می‌شود و فاعل you در آن گفته نشده است. please درخواست را نرم می‌کند. tell اول گیرندهٔ اطلاعات، us، را می‌گیرد و about موضوع را معرفی می‌کند. everyone در سلام، خطاب به همهٔ کلاس است، نه فاعل جملهٔ tell.",
+          "en": "Please tell us about your hobbies uses base-form tell with an understood you. Please softens the request. Tell is followed by the recipient us, while about introduces the topic. Everyone in the greeting addresses the whole class; it is not the subject of tell."
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        },
+        "takeaway": {
+          "fa": "tell us about یعنی دربارهٔ چیزی به ما بگو.",
+          "en": "Tell us about means give us information on a topic."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست و ترتیب مفعول با tell",
+              "en": "Imperative requests and tell"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "please tell us about your hobbies"
+                },
+                {
+                  "text": "please + tell + recipient + about + topic"
+                },
+                {
+                  "fa": "درخواست توضیح دربارهٔ سرگرمی‌ها",
+                  "en": "A request to describe hobbies"
+                }
+              ],
+              [
+                {
+                  "text": "us"
+                },
+                {
+                  "text": "object form of we"
+                },
+                {
+                  "fa": "به ما؛ گیرندهٔ اطلاعات",
+                  "en": "The people receiving the information"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "like-ing",
+        "title": {
+          "fa": "فعالیت‌ها پس از like",
+          "en": "Activities after like"
+        },
+        "explanation": {
+          "fa": "برای نام بردن فعالیتی که دوست داری می‌توانی پس از like شکل ing فعل را بیاوری. در این متن reading books و listening to music دو فعالیت موازی‌اند و با and پیوند خورده‌اند. listen در این معنا برای مفعول خود به to نیاز دارد؛ read بدون to مستقیماً books را می‌گیرد.",
+          "en": "To name an activity you enjoy, like can be followed by an -ing form. Here reading books and listening to music are parallel activities joined by and. Listen takes to before its object in this meaning, while read takes books directly."
+        },
+        "example": {
+          "text": "I like reading books and listening to music.",
+          "translation": {
+            "fa": "من کتاب خواندن و موسیقی گوش دادن را دوست دارم.",
+            "en": "I like reading books and listening to music."
+          }
+        },
+        "takeaway": {
+          "fa": "بگو reading books اما listening to music.",
+          "en": "Use reading books but listening to music."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فعالیت‌ها پس از like",
+              "en": "Activities after like"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I like reading books"
+                },
+                {
+                  "text": "I + like + reading + object"
+                },
+                {
+                  "fa": "کتاب خواندن را دوست دارم",
+                  "en": "Enjoying reading"
+                }
+              ],
+              [
+                {
+                  "text": "listening to music"
+                },
+                {
+                  "text": "listening + to + object"
+                },
+                {
+                  "fa": "موسیقی گوش دادن",
+                  "en": "Listening requires to before music"
+                }
+              ],
+              [
+                {
+                  "text": "reading books and listening to music"
+                },
+                {
+                  "text": "-ing phrase + and + -ing phrase"
+                },
+                {
+                  "fa": "دو سرگرمی با ساخت موازی",
+                  "en": "Two coordinated activities"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adjective-to",
+        "title": {
+          "fa": "مصدر پس از nice و happy",
+          "en": "To-infinitives after nice and happy"
+        },
+        "explanation": {
+          "fa": "در Nice to meet you، It is برای کوتاه شدن احوالپرسی حذف شده است. پس از nice و happy، to + شکل سادهٔ فعل فعالیت مرتبط با احساس را بیان می‌کند. have you here یعنی شما را اینجا در جمع خود داشتن؛ مالکیت شخص منظور نیست.",
+          "en": "Nice to meet you omits It is as a conversational greeting. After nice and happy, to + base verb gives the action linked to the feeling. Have you here means have you present with the group, not own you."
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        },
+        "takeaway": {
+          "fa": "to meet و to have مصدرند؛ to music حرف اضافه است.",
+          "en": "To meet and to have are infinitives; to in to music is a preposition."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مصدر پس از nice و happy",
+              "en": "To-infinitives after nice and happy"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Nice to meet you"
+                },
+                {
+                  "text": "[It is] + nice + to + meet + you"
+                },
+                {
+                  "fa": "از آشنایی خوشوقتم",
+                  "en": "A shortened first-meeting greeting"
+                }
+              ],
+              [
+                {
+                  "text": "we are happy to have you here"
+                },
+                {
+                  "text": "we + are + happy + to + have + you + here"
+                },
+                {
+                  "fa": "از حضور تو در جمع خوشحالیم",
+                  "en": "Welcoming someone’s presence"
+                }
+              ],
+              [
+                {
+                  "text": "listening to music"
+                },
+                {
+                  "text": "listening + preposition to + music"
+                },
+                {
+                  "fa": "to پیش از اسم، نه فعل",
+                  "en": "To introduces a noun, not an infinitive"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "welcome-to",
+        "title": {
+          "fa": "خوشامدگویی و اشاره به مکان",
+          "en": "Welcoming and place reference"
+        },
+        "explanation": {
+          "fa": "در welcome to the class، to ورود به یک جمع را معرفی می‌کند. here قید مکان است و به کلاس فعلی اشاره دارد، پس پیش از آن to اضافه نمی‌شود. and در معرفی مریم دو گزاره را وصل می‌کند؛ در بیان سرگرمی‌ها دو گروه فعلی را.",
+          "en": "In welcome to the class, to introduces the group being joined. Here is a place adverb referring to the current class, so no to is added before it. And connects two clauses in Maryam’s introduction and two activity phrases in her hobbies."
+        },
+        "example": {
+          "text": "Good morning, Maryam, welcome to the class.",
+          "translation": {
+            "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+            "en": "Good morning, Maryam, welcome to the class."
+          }
+        },
+        "takeaway": {
+          "fa": "welcome to + اسم؛ have you here بدون to پیش از here.",
+          "en": "Use welcome to + noun, but have you here without to before here."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "خوشامدگویی و اشاره به مکان",
+              "en": "Welcoming and place reference"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "welcome to the class"
+                },
+                {
+                  "text": "welcome + to + group"
+                },
+                {
+                  "fa": "خوشامد به کلاس",
+                  "en": "Welcoming someone into a group"
+                }
+              ],
+              [
+                {
+                  "text": "have you here"
+                },
+                {
+                  "text": "have + you + place adverb"
+                },
+                {
+                  "fa": "حضور تو در اینجا",
+                  "en": "Having someone present"
+                }
+              ],
+              [
+                {
+                  "text": "My name is Maryam and I am a student"
+                },
+                {
+                  "text": "clause + and + clause"
+                },
+                {
+                  "fa": "پیوند دو بخش معرفی",
+                  "en": "Joining two parts of an introduction"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "good-morning",
+        "text": "Good morning",
+        "pronunciation": {
+          "faReading": "گود مورنینگ",
+          "ipa": "/ɡʊd ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح به‌خیر",
+          "en": "Good morning"
+        },
+        "context": {
+          "fa": "سلام مخصوص صبح؛ everyone در ادامه، کل جمع را مخاطب می‌کند.",
+          "en": "A morning greeting; everyone after it addresses the whole group."
+        },
+        "example": {
+          "text": "Good morning, everyone.",
+          "translation": {
+            "fa": "صبح به‌خیر، همگی.",
+            "en": "Good morning, everyone."
+          }
+        }
+      },
+      {
+        "id": "welcome-class",
+        "text": "welcome to the class",
+        "pronunciation": {
+          "faReading": "وِلکَم تو ذِ کْلَس",
+          "ipa": "/ˈwɛlkəm tə ðə klæs/"
+        },
+        "meaning": {
+          "fa": "به کلاس خوش آمدی",
+          "en": "Welcome to the class"
+        },
+        "context": {
+          "fa": "معلم ورود مریم را به جمع به‌گرمی می‌پذیرد؛ این welcome با پاسخ به تشکر فرق دارد.",
+          "en": "The teacher warmly receives Maryam into the group; welcome here is not a response to thanks."
+        },
+        "example": {
+          "text": "Good morning, Maryam, welcome to the class.",
+          "translation": {
+            "fa": "صبح به‌خیر، مریم؛ به کلاس خوش آمدی.",
+            "en": "Good morning, Maryam, welcome to the class."
+          }
+        }
+      },
+      {
+        "id": "my-name",
+        "text": "My name is Maryam",
+        "pronunciation": {
+          "faReading": "مای نِیم ایز مَریِم",
+          "ipa": "/maɪ neɪm ɪz ˈmærjəm/"
+        },
+        "meaning": {
+          "fa": "اسم من مریم است",
+          "en": "My name is Maryam"
+        },
+        "context": {
+          "fa": "یک الگوی روشن برای معرفی در کلاس؛ نام پس از is می‌آید.",
+          "en": "A clear classroom introduction pattern, with the name after is."
+        },
+        "example": {
+          "text": "My name is Maryam and I am a student.",
+          "translation": {
+            "fa": "اسم من مریم است و من دانش‌آموز هستم.",
+            "en": "My name is Maryam and I am a student."
+          }
+        }
+      },
+      {
+        "id": "nice-meet",
+        "text": "Nice to meet you",
+        "pronunciation": {
+          "faReading": "نایس تو میت یو",
+          "ipa": "/naɪs tə mit ju/"
+        },
+        "meaning": {
+          "fa": "از آشنایی با تو خوشوقتم",
+          "en": "Nice to meet you"
+        },
+        "context": {
+          "fa": "شکل کوتاه It is nice to meet you برای اولین آشنایی؛ در کلاس لحنی دوستانه و مؤدبانه دارد.",
+          "en": "Short for It is nice to meet you; a friendly, polite first-meeting response in class."
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "where-from",
+        "text": "where are you from?",
+        "pronunciation": {
+          "faReading": "وِر آر یو فْرام",
+          "ipa": "/wɛr ɑr ju frʌm/"
+        },
+        "meaning": {
+          "fa": "اهل کجا هستی؟",
+          "en": "Where are you from?"
+        },
+        "context": {
+          "fa": "سؤال رایج آشنایی؛ مریم با نام شهر جواب می‌دهد.",
+          "en": "A common introductory question, answered here with a city name."
+        },
+        "example": {
+          "text": "Nice to meet you, Maryam, where are you from?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مریم؛ اهل کجا هستی؟",
+            "en": "Nice to meet you, Maryam, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "Great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی است",
+          "en": "Great"
+        },
+        "context": {
+          "fa": "واکنش تشویقی معلم به معرفی مریم و پلی به درخواست بعدی.",
+          "en": "An encouraging response to Maryam’s introduction before a follow-up request."
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "tell-about",
+        "text": "please tell us about your hobbies",
+        "pronunciation": {
+          "faReading": "پْلیز تِل اَس اِباوت یور ها‌بیز",
+          "ipa": "/pliz tɛl ʌs əˈbaʊt jʊr ˈhɑbiz/"
+        },
+        "meaning": {
+          "fa": "لطفاً دربارهٔ سرگرمی‌هایت به ما بگو",
+          "en": "Please tell us about your hobbies"
+        },
+        "context": {
+          "fa": "دعوت مؤدبانه به صحبت در جمع؛ please اثر دستوری tell را ملایم می‌کند.",
+          "en": "A polite invitation to speak to the group; please softens imperative tell."
+        },
+        "example": {
+          "text": "Great, please tell us about your hobbies.",
+          "translation": {
+            "fa": "عالی است؛ لطفاً دربارهٔ سرگرمی‌هایت به ما بگو.",
+            "en": "Great, please tell us about your hobbies."
+          }
+        }
+      },
+      {
+        "id": "excellent",
+        "text": "Excellent",
+        "pronunciation": {
+          "faReading": "اِکسِلِنت",
+          "ipa": "/ˈɛksələnt/"
+        },
+        "meaning": {
+          "fa": "عالی است",
+          "en": "Excellent"
+        },
+        "context": {
+          "fa": "واکنش تحسین‌آمیز معلم پس از پاسخ مریم؛ بیان ارزیابی مثبت است، نه سؤال.",
+          "en": "The teacher’s approving response after Maryam answers, expressing positive evaluation rather than asking a question."
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      },
+      {
+        "id": "happy-here",
+        "text": "we are happy to have you here",
+        "pronunciation": {
+          "faReading": "وی آر هَپی تو هَو یو هیر",
+          "ipa": "/wi ɑr ˈhæpi tə hæv ju hɪr/"
+        },
+        "meaning": {
+          "fa": "خوشحالیم که اینجا پیش ما هستی",
+          "en": "We are happy to have you here"
+        },
+        "context": {
+          "fa": "خوشامدگویی گرم از طرف جمع کلاس؛ have you here دربارهٔ حضور فرد است، نه مالکیت.",
+          "en": "A warm welcome on behalf of the class; have you here refers to the person’s presence, not possession."
+        },
+        "example": {
+          "text": "Excellent, we are happy to have you here.",
+          "translation": {
+            "fa": "عالی است؛ خوشحالیم که اینجا پیش ما هستی.",
+            "en": "Excellent, we are happy to have you here."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موقعیت اصلی این گفت‌وگو چیست؟",
+          "en": "What is the main situation in this conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "مریم سرگرمی‌هایش را به یک دوست قدیمی توضیح می‌دهد.",
+              "en": "Maryam explains her hobbies to an old friend."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مریم در اولین جلسهٔ کلاس خودش را معرفی می‌کند.",
+              "en": "Maryam introduces herself at her first class."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مریم دربارهٔ شغلش در مدرسه صحبت می‌کند.",
+              "en": "Maryam talks about her job at a school."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "معلم به مریم در کلاس خوشامد می‌گوید و مریم می‌گوید این اولین درس اوست.",
+          "en": "The teacher welcomes Maryam to class, and Maryam says this is her first lesson."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t05"
+        ]
+      },
+      {
+        "id": "origin",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم اهل کدام شهر است؟",
+          "en": "Which city is Maryam from?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تبریز",
+              "en": "Tabriz"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شیراز",
+              "en": "Shiraz"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اصفهان",
+              "en": "Isfahan"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مریم می‌گوید I am from Tabriz.",
+          "en": "Maryam says I am from Tabriz."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "lesson-order",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم دربارهٔ جلسهٔ فعلی چه می‌گوید؟",
+          "en": "What does Maryam say about the current lesson?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دومین درس اوست.",
+              "en": "It is her second lesson."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آخرین درس اوست.",
+              "en": "It is her final lesson."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اولین درس اوست.",
+              "en": "It is her first lesson."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "مریم می‌گوید this is my first lesson؛ first یعنی اولین.",
+          "en": "Maryam says this is my first lesson; first indicates lesson number one."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "hobbies",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مریم کدام دو فعالیت را دوست دارد؟",
+          "en": "Which two activities does Maryam enjoy?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کتاب خواندن و موسیقی نواختن",
+              "en": "Reading books and playing music"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "کتاب خواندن و موسیقی گوش دادن",
+              "en": "Reading books and listening to music"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کتاب نوشتن و موسیقی گوش دادن",
+              "en": "Writing books and listening to music"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "مریم دقیقاً reading books و listening to music را نام می‌برد، نه نوشتن یا نواختن.",
+          "en": "Maryam names reading books and listening to music, not writing or playing."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

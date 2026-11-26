@@ -1,0 +1,1525 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s01",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "اولین سلام سارا و امیر",
+    "en": "Sara and Amir say hello"
+  },
+  "objective": {
+    "fa": "تشخیص بده امیر حالش چطور است و دو نفر دربارهٔ آشنایی با هم چه احساسی دارند.",
+    "en": "Identify how Amir feels today and how the speakers feel about meeting each other."
+  },
+  "speakers": [
+    {
+      "id": "sara",
+      "name": "Sara",
+      "gender": "woman"
+    },
+    {
+      "id": "amir",
+      "name": "Amir",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sara",
+      "text": "Hello!",
+      "translation": {
+        "fa": "سلام!",
+        "en": "Hello!"
+      },
+      "tokens": [
+        {
+          "surface": "Hello!",
+          "gloss": {
+            "fa": "سلام!",
+            "en": "hello"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "amir",
+      "text": "Hi, Sara!",
+      "translation": {
+        "fa": "سلام، سارا!",
+        "en": "Hi, Sara!"
+      },
+      "tokens": [
+        {
+          "surface": "Hi,",
+          "gloss": {
+            "fa": "سلام،",
+            "en": "hi"
+          }
+        },
+        {
+          "surface": "Sara!",
+          "gloss": {
+            "fa": "سارا!",
+            "en": "Sara (personal name)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sara",
+      "text": "How are you today?",
+      "translation": {
+        "fa": "امروز حالت چطور است؟",
+        "en": "How are you today?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "چطور",
+            "en": "how"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی",
+            "en": "be: present with you/we"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "today?",
+          "gloss": {
+            "fa": "امروز؟",
+            "en": "today"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "amir",
+      "text": "I am fine, thank you.",
+      "translation": {
+        "fa": "خوبم، ممنونم.",
+        "en": "I am fine, thank you."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "fine,",
+          "gloss": {
+            "fa": "خوب،",
+            "en": "well"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو.",
+            "en": "you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sara",
+      "text": "It is very nice to meet you.",
+      "translation": {
+        "fa": "از آشنایی با تو خیلی خوشوقتم.",
+        "en": "It is very nice to meet you."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "فاعل صوری؛ ترجمهٔ مستقل ندارد",
+            "en": "dummy subject introducing an evaluation"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very"
+          }
+        },
+        {
+          "surface": "nice",
+          "gloss": {
+            "fa": "خوشایند",
+            "en": "pleasant"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از شکل سادهٔ فعل",
+            "en": "infinitive marker before the base verb"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو.",
+            "en": "you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "amir",
+      "text": "I am Amir, and I am happy to meet you too.",
+      "translation": {
+        "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+        "en": "I am Amir, and I am happy to meet you too."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "Amir,",
+          "gloss": {
+            "fa": "امیر،",
+            "en": "Amir (personal name)"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "happy",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "happy"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از شکل سادهٔ فعل",
+            "en": "infinitive marker before the base verb"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "too.",
+          "gloss": {
+            "fa": "هم.",
+            "en": "also"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sara",
+      "text": "I am glad to hear that.",
+      "translation": {
+        "fa": "از شنیدن این حرف خوشحالم.",
+        "en": "I am glad to hear that."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از شکل سادهٔ فعل",
+            "en": "infinitive marker before the base verb"
+          }
+        },
+        {
+          "surface": "hear",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear"
+          }
+        },
+        {
+          "surface": "that.",
+          "gloss": {
+            "fa": "آن حرف.",
+            "en": "that"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "amir",
+      "text": "Thank you, Sara.",
+      "translation": {
+        "fa": "ممنونم، سارا.",
+        "en": "Thank you, Sara."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو،",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "Sara.",
+          "gloss": {
+            "fa": "سارا.",
+            "en": "Sara (personal name)"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello!",
+          "translation": {
+            "fa": "سلام!",
+            "en": "Hello!"
+          }
+        }
+      },
+      {
+        "id": "hi",
+        "text": "hi",
+        "pronunciation": {
+          "faReading": "های",
+          "ipa": "/haɪ/"
+        },
+        "meaning": {
+          "fa": "سلام؛ دوستانه",
+          "en": "hi; an informal greeting"
+        },
+        "example": {
+          "text": "Hi, Sara!",
+          "translation": {
+            "fa": "سلام، سارا!",
+            "en": "Hi, Sara!"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم، بسته به فاعل",
+          "en": "present form of be with you/we/they"
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ تو",
+          "en": "you; the person or people addressed"
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم؛ شکل be با I",
+          "en": "am; present form of be with I"
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        }
+      },
+      {
+        "id": "fine",
+        "text": "fine",
+        "pronunciation": {
+          "faReading": "فاین",
+          "ipa": "/faɪn/"
+        },
+        "meaning": {
+          "fa": "خوب؛ در جواب احوالپرسی",
+          "en": "fine; well"
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "فاعل صوری در ارزیابیِ It is nice؛ در فارسی ترجمهٔ مستقل ندارد",
+          "en": "it; dummy subject in It is nice to meet you"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; present singular form of be"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "نشانۀ مصدر پیش از meet و hear",
+          "en": "to; infinitive marker before meet and hear"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "ملاقات کردن؛ آشنا شدن با",
+          "en": "meet; encounter or become acquainted with"
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        }
+      },
+      {
+        "id": "happy",
+        "text": "happy",
+        "pronunciation": {
+          "faReading": "هَپی",
+          "ipa": "/ˈhæpi/"
+        },
+        "meaning": {
+          "fa": "خوشحال",
+          "en": "happy; pleased"
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "I am glad to hear that.",
+          "translation": {
+            "fa": "از شنیدن این حرف خوشحالم.",
+            "en": "I am glad to hear that."
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; perceive sound or receive news"
+        },
+        "example": {
+          "text": "I am glad to hear that.",
+          "translation": {
+            "fa": "از شنیدن این حرف خوشحالم.",
+            "en": "I am glad to hear that."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; something already mentioned"
+        },
+        "example": {
+          "text": "I am glad to hear that.",
+          "translation": {
+            "fa": "از شنیدن این حرف خوشحالم.",
+            "en": "I am glad to hear that."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "present-be",
+        "title": {
+          "fa": "am، are و is برای حال",
+          "en": "Present forms of be"
+        },
+        "explanation": {
+          "fa": "برای معرفی خود یا بیان حال، فاعل + شکل مناسب be + اسم یا صفت می‌آید: I با am، you با are و it با is. برخلاف فارسی، فعل را حذف نکن.",
+          "en": "To introduce yourself or describe a state, use subject + the appropriate form of be + a noun or adjective: I am, you are, it is. English needs the verb even where another language might omit it."
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        },
+        "takeaway": {
+          "fa": "شکل be را با فاعل هماهنگ کن.",
+          "en": "Match be to its subject."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "am، are و is برای حال",
+              "en": "Present forms of be"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am fine"
+                },
+                {
+                  "text": "I + am + adjective"
+                },
+                {
+                  "fa": "من خوبم؛ بیان حال",
+                  "en": "I feel well; a present state"
+                }
+              ],
+              [
+                {
+                  "text": "I am Amir"
+                },
+                {
+                  "text": "I + am + name"
+                },
+                {
+                  "fa": "من امیرم؛ معرفی",
+                  "en": "I am Amir; identification"
+                }
+              ],
+              [
+                {
+                  "text": "you are"
+                },
+                {
+                  "text": "you + are"
+                },
+                {
+                  "fa": "تو هستی؛ شکل آمده در سؤال",
+                  "en": "you are; the forms used in the question"
+                }
+              ],
+              [
+                {
+                  "text": "It is very nice"
+                },
+                {
+                  "text": "it + is + adjective phrase"
+                },
+                {
+                  "fa": "خوشایند است؛ ارزیابی",
+                  "en": "It is pleasant; an evaluation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-question",
+        "title": {
+          "fa": "پرسیدن حال با How و be",
+          "en": "How questions with be"
+        },
+        "explanation": {
+          "fa": "برای پرسیدن حال بگو How + be + فاعل؟ در How are you today? فعل are پیش از you قرار دارد و today زمان را مشخص می‌کند. برای این سؤال do اضافه نمی‌شود.",
+          "en": "Ask about a condition with How + be + subject? In How are you today?, are comes before you, and today specifies the time. Do not add do to a question whose main verb is be."
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        },
+        "takeaway": {
+          "fa": "How are you? دربارهٔ حال مخاطب است.",
+          "en": "How are you? asks about the listener’s condition."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن حال با How و be",
+              "en": "How questions with be"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "How are you today?"
+                },
+                {
+                  "text": "How + are + you + today?"
+                },
+                {
+                  "fa": "امروز حالت چطور است؟",
+                  "en": "How do you feel today?"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adjective-infinitive",
+        "title": {
+          "fa": "صفت + to و شکل سادهٔ فعل",
+          "en": "Adjective + to-infinitive"
+        },
+        "explanation": {
+          "fa": "پس از happy، glad و nice، ساخت to + شکل سادهٔ فعل علت یا محتوای احساس را روشن می‌کند. در happy to meet you، فاعل meet همان I است. در It is nice to meet you، it فاعل صوری است و ارزیابی به آشنا شدن مربوط است. that در hear that به حرف قبلی اشاره می‌کند.",
+          "en": "After happy, glad and nice, to + base verb specifies the action associated with the feeling or evaluation. In happy to meet you, I also does the meeting. In It is nice to meet you, it is a dummy subject: the evaluation concerns meeting. That in hear that refers back to the previous statement."
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        },
+        "takeaway": {
+          "fa": "to پیش از meet و hear نشانۀ مصدر است، نه مقصد.",
+          "en": "Before meet and hear, to marks an infinitive, not a destination."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "صفت + to و شکل سادهٔ فعل",
+              "en": "Adjective + to-infinitive"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "It is very nice to meet you"
+                },
+                {
+                  "text": "dummy it + is + adjective + to + meet + object"
+                },
+                {
+                  "fa": "از آشنایی خوشوقتم؛ ارزیابی دیدار",
+                  "en": "A positive evaluation of meeting"
+                }
+              ],
+              [
+                {
+                  "text": "I am happy to meet you too"
+                },
+                {
+                  "text": "I + am + happy + to + meet + you + too"
+                },
+                {
+                  "fa": "من هم از آشنایی خوشحالم",
+                  "en": "I also feel pleased about meeting"
+                }
+              ],
+              [
+                {
+                  "text": "I am glad to hear that"
+                },
+                {
+                  "text": "I + am + glad + to + hear + that"
+                },
+                {
+                  "fa": "از شنیدن آن حرف خوشحالم",
+                  "en": "I am pleased to hear that news"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "subject-object",
+        "title": {
+          "fa": "ضمیر فاعلی و مفعولی",
+          "en": "Subject and object pronouns"
+        },
+        "explanation": {
+          "fa": "I انجام‌دهنده یا صاحب حال است و پیش از فعل می‌آید. you می‌تواند فاعل یا مفعول باشد و شکلش عوض نمی‌شود. در meet you و thank you، you مفعول است؛ در How are you? فاعل است. that در hear that مفعول اشاره‌ای برای گفتهٔ قبلی است.",
+          "en": "I is a subject placed before the verb. You has the same form as subject and object. It is an object in meet you and thank you but the subject in How are you? That in hear that is a demonstrative object referring to the previous statement."
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        },
+        "takeaway": {
+          "fa": "نقش you را از جای آن در ساخت جمله تشخیص بده.",
+          "en": "Identify the role of you from the sentence structure."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ضمیر فاعلی و مفعولی",
+              "en": "Subject and object pronouns"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am fine"
+                },
+                {
+                  "text": "I = subject"
+                },
+                {
+                  "fa": "من؛ صاحب حال",
+                  "en": "I is the person whose state is described"
+                }
+              ],
+              [
+                {
+                  "text": "meet you"
+                },
+                {
+                  "text": "meet + object you"
+                },
+                {
+                  "fa": "ملاقات کردن تو یا تو",
+                  "en": "You is the person being met"
+                }
+              ],
+              [
+                {
+                  "text": "hear that"
+                },
+                {
+                  "text": "hear + demonstrative object"
+                },
+                {
+                  "fa": "شنیدن آن گفته",
+                  "en": "That refers to what was just said"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "very-too-and",
+        "title": {
+          "fa": "تأکید، افزودن و پیوند",
+          "en": "Degree, addition and coordination"
+        },
+        "explanation": {
+          "fa": "very پیش از صفت شدت آن را بیشتر می‌کند. too در پایان جمله یعنی «هم» و با very به معنی «خیلی» فرق دارد. and دو گزاره را پیوند می‌دهد؛ در این متن هر دو گزارهٔ پیوندخورده فاعل و فعل دارند.",
+          "en": "Very before an adjective increases its degree. Too at the end means also, not very. And joins clauses; here each joined clause has its own subject and verb."
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        },
+        "takeaway": {
+          "fa": "very شدت می‌دهد؛ too یک احساس مشترک را اضافه می‌کند.",
+          "en": "Very increases degree; too adds a shared feeling."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تأکید، افزودن و پیوند",
+              "en": "Degree, addition and coordination"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "very nice"
+                },
+                {
+                  "text": "very + adjective"
+                },
+                {
+                  "fa": "خیلی خوشایند",
+                  "en": "Very pleasant"
+                }
+              ],
+              [
+                {
+                  "text": "meet you too"
+                },
+                {
+                  "text": "verb phrase + too"
+                },
+                {
+                  "fa": "من هم از آشنایی خوشحالم",
+                  "en": "I share the feeling"
+                }
+              ],
+              [
+                {
+                  "text": "I am Amir, and I am happy"
+                },
+                {
+                  "text": "clause + and + clause"
+                },
+                {
+                  "fa": "پیوند معرفی و بیان احساس",
+                  "en": "Links an introduction to a statement of feeling"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hello",
+        "text": "Hello!",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام!",
+          "en": "Hello!"
+        },
+        "context": {
+          "fa": "سلامی خنثی و رایج برای آغاز گفت‌وگو؛ با آشنا یا فرد تازه‌آشنا کاربرد دارد.",
+          "en": "A neutral, common greeting for opening a conversation with someone familiar or new."
+        },
+        "example": {
+          "text": "Hello!",
+          "translation": {
+            "fa": "سلام!",
+            "en": "Hello!"
+          }
+        }
+      },
+      {
+        "id": "hi",
+        "text": "Hi, Sara!",
+        "pronunciation": {
+          "faReading": "های، سارا",
+          "ipa": "/haɪ ˈsɑrə/"
+        },
+        "meaning": {
+          "fa": "سلام، سارا!",
+          "en": "Hi, Sara!"
+        },
+        "context": {
+          "fa": "Hi از Hello دوستانه‌تر است؛ آوردن نام نشان می‌دهد خطاب به چه کسی است.",
+          "en": "Hi is more informal than hello; the name identifies the person addressed."
+        },
+        "example": {
+          "text": "Hi, Sara!",
+          "translation": {
+            "fa": "سلام، سارا!",
+            "en": "Hi, Sara!"
+          }
+        }
+      },
+      {
+        "id": "how-are-you",
+        "text": "How are you today?",
+        "pronunciation": {
+          "faReading": "هاو آر یو تودِی",
+          "ipa": "/haʊ ɑr ju təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز حالت چطور است؟",
+          "en": "How are you today?"
+        },
+        "context": {
+          "fa": "برای احوالپرسی است، نه پرسیدن نام یا شغل؛ today سؤال را به امروز محدود می‌کند.",
+          "en": "A greeting question about wellbeing, not name or occupation; today limits it to the current day."
+        },
+        "example": {
+          "text": "How are you today?",
+          "translation": {
+            "fa": "امروز حالت چطور است؟",
+            "en": "How are you today?"
+          }
+        }
+      },
+      {
+        "id": "fine-thanks",
+        "text": "I am fine, thank you.",
+        "pronunciation": {
+          "faReading": "آی اَم فاین، ثَنک یو",
+          "ipa": "/aɪ æm faɪn θæŋk ju/"
+        },
+        "meaning": {
+          "fa": "خوبم، ممنونم.",
+          "en": "I am well, thank you."
+        },
+        "context": {
+          "fa": "پاسخی مؤدبانه و کوتاه به احوالپرسی؛ thank you تشکر از توجه مخاطب است.",
+          "en": "A short, polite response about wellbeing; thank you acknowledges the listener’s concern."
+        },
+        "example": {
+          "text": "I am fine, thank you.",
+          "translation": {
+            "fa": "خوبم، ممنونم.",
+            "en": "I am fine, thank you."
+          }
+        }
+      },
+      {
+        "id": "nice-to-meet",
+        "text": "It is very nice to meet you.",
+        "pronunciation": {
+          "faReading": "ایت ایز وِری نایس تو میت یو",
+          "ipa": "/ɪt ɪz ˈvɛri naɪs tə mit ju/"
+        },
+        "meaning": {
+          "fa": "از آشنایی با تو خیلی خوشوقتم.",
+          "en": "It is very nice to meet you."
+        },
+        "context": {
+          "fa": "برای دیدار و آشنایی اولیه؛ very گرمی پاسخ را بیشتر می‌کند و جمله رسمی‌تر از Hi است.",
+          "en": "Used on first meeting; very adds warmth, and the full sentence is more formal than hi."
+        },
+        "example": {
+          "text": "It is very nice to meet you.",
+          "translation": {
+            "fa": "از آشنایی با تو خیلی خوشوقتم.",
+            "en": "It is very nice to meet you."
+          }
+        }
+      },
+      {
+        "id": "happy-to-meet",
+        "text": "I am happy to meet you too.",
+        "pronunciation": {
+          "faReading": "آی اَم هَپی تو میت یو تو",
+          "ipa": "/aɪ æm ˈhæpi tə mit ju tu/"
+        },
+        "meaning": {
+          "fa": "من هم از آشنایی با تو خوشحالم.",
+          "en": "I am happy to meet you too."
+        },
+        "context": {
+          "fa": "پاسخ متقابل به خوشوقتی از آشنایی؛ too احساس مشابه گویندهٔ دوم را نشان می‌دهد.",
+          "en": "A reciprocal response to a positive introduction; too signals the second speaker shares the feeling."
+        },
+        "example": {
+          "text": "I am Amir, and I am happy to meet you too.",
+          "translation": {
+            "fa": "من امیر هستم و من هم از آشنایی با تو خوشحالم.",
+            "en": "I am Amir, and I am happy to meet you too."
+          }
+        }
+      },
+      {
+        "id": "glad-to-hear",
+        "text": "I am glad to hear that.",
+        "pronunciation": {
+          "faReading": "آی اَم گْلَد تو هیر ذَت",
+          "ipa": "/aɪ æm ɡlæd tə hɪr ðæt/"
+        },
+        "meaning": {
+          "fa": "از شنیدن این حرف خوشحالم.",
+          "en": "I am glad to hear that."
+        },
+        "context": {
+          "fa": "واکنش مثبت به گفتهٔ قبلی؛ that اینجا به خوشحالی امیر از آشنایی اشاره می‌کند، نه یک شیء دور.",
+          "en": "A positive response to the previous statement; that refers to Amir’s pleasure at meeting, not a distant object."
+        },
+        "example": {
+          "text": "I am glad to hear that.",
+          "translation": {
+            "fa": "از شنیدن این حرف خوشحالم.",
+            "en": "I am glad to hear that."
+          }
+        }
+      },
+      {
+        "id": "thank-you",
+        "text": "Thank you, Sara.",
+        "pronunciation": {
+          "faReading": "ثَنک یو، سارا",
+          "ipa": "/θæŋk ju ˈsɑrə/"
+        },
+        "meaning": {
+          "fa": "ممنونم، سارا.",
+          "en": "Thank you, Sara."
+        },
+        "context": {
+          "fa": "برای تشکر مستقیم؛ اضافه کردن نام، خطاب را شخصی‌تر می‌کند.",
+          "en": "Direct thanks; adding the name makes the response more personal."
+        },
+        "example": {
+          "text": "Thank you, Sara.",
+          "translation": {
+            "fa": "ممنونم، سارا.",
+            "en": "Thank you, Sara."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی این گفت‌وگو چیست؟",
+          "en": "What is the main purpose of this conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سلام و آشنایی با یکدیگر",
+              "en": "Greeting and getting acquainted"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خداحافظی پس از یک مهمانی",
+              "en": "Saying goodbye after a party"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دعوت به دیدار در روزی دیگر",
+              "en": "Inviting someone to meet another day"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سارا سلام می‌کند و می‌گوید از آشنایی خوشوقت است؛ امیر هم خودش را معرفی می‌کند و همان احساس را دارد.",
+          "en": "Sara says hello and expresses pleasure at meeting; Amir introduces himself and shares the feeling."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t05",
+          "t06"
+        ]
+      },
+      {
+        "id": "amir-condition",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "امیر حالش را چگونه توصیف می‌کند؟",
+          "en": "How does Amir describe his condition?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خسته است.",
+              "en": "He is tired."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خوب است.",
+              "en": "He is well."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بیمار است.",
+              "en": "He is ill."
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "امیر در پاسخ به احوالپرسی می‌گوید I am fine؛ یعنی حالش خوب است.",
+          "en": "Amir replies I am fine to the greeting question, saying he is well."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "meeting-feelings",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر دربارهٔ آشنا شدن با هم چه احساسی بیان می‌کنند؟",
+          "en": "What feelings do the speakers express about meeting each other?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "سارا خوشحال است، ولی امیر ناراضی است.",
+              "en": "Sara is pleased, but Amir is unhappy."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "امیر خوشحال است، ولی سارا ناراضی است.",
+              "en": "Amir is pleased, but Sara is unhappy."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هر دو از آشنایی خوشحال‌اند.",
+              "en": "Both are pleased to meet."
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "سارا می‌گوید آشنایی بسیار خوشایند است و امیر می‌گوید او هم خوشحال است.",
+          "en": "Sara says meeting is very nice, and Amir says he is happy to meet her too."
+        },
+        "evidenceTurnIds": [
+          "t05",
+          "t06"
+        ]
+      }
+    ]
+  }
+}

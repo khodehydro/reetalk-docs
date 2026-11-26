@@ -1,0 +1,2228 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s02",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A1",
+  "title": {
+    "fa": "علی اهل کجاست؟",
+    "en": "Where are you from?"
+  },
+  "objective": {
+    "fa": "تشخیص بده لیلا و امید اهل کدام شهرند و امید چند سال پیش و به چه دلیلی به شهر فعلی آمده است.",
+    "en": "Identify Leila’s and Omid’s home cities, how many years ago Omid moved, and why he moved."
+  },
+  "speakers": [
+    {
+      "id": "leila",
+      "name": "Leila",
+      "gender": "woman"
+    },
+    {
+      "id": "omid",
+      "name": "Omid",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "leila",
+      "text": "Hello, may I sit here?",
+      "translation": {
+        "fa": "سلام، اجازه هست اینجا بنشینم؟",
+        "en": "Hello, may I sit here?"
+      },
+      "tokens": [
+        {
+          "surface": "Hello,",
+          "gloss": {
+            "fa": "سلام،",
+            "en": "hello"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "آیا اجازه دارم",
+            "en": "may: asking permission"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "sit",
+          "gloss": {
+            "fa": "بنشینم",
+            "en": "sit"
+          }
+        },
+        {
+          "surface": "here?",
+          "gloss": {
+            "fa": "اینجا؟",
+            "en": "in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "omid",
+      "text": "Of course, please sit down.",
+      "translation": {
+        "fa": "البته، لطفاً بنشینید.",
+        "en": "Of course, please sit down."
+      },
+      "tokens": [
+        {
+          "surface": "Of",
+          "gloss": {
+            "fa": "جزء عبارت «البته»",
+            "en": "part of “of course”: certainly"
+          }
+        },
+        {
+          "surface": "course,",
+          "gloss": {
+            "fa": "جزء عبارت «البته»",
+            "en": "part of “of course”: certainly"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please"
+          }
+        },
+        {
+          "surface": "sit",
+          "gloss": {
+            "fa": "بنشینید",
+            "en": "sit"
+          }
+        },
+        {
+          "surface": "down.",
+          "gloss": {
+            "fa": "جزء فعل sit down به معنی نشستن",
+            "en": "particle in sit down: take a seat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "leila",
+      "text": "Thank you, I am Leila.",
+      "translation": {
+        "fa": "ممنونم، من لیلا هستم.",
+        "en": "Thank you, I am Leila."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "شما،",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "Leila.",
+          "gloss": {
+            "fa": "لیلا.",
+            "en": "Leila (personal name)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "omid",
+      "text": "I am Omid, where are you from?",
+      "translation": {
+        "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+        "en": "I am Omid, where are you from?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "Omid,",
+          "gloss": {
+            "fa": "امید،",
+            "en": "Omid (personal name)"
+          }
+        },
+        {
+          "surface": "where",
+          "gloss": {
+            "fa": "کجا",
+            "en": "where"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستید",
+            "en": "be: present with you/we"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "from?",
+          "gloss": {
+            "fa": "از؛ اهل؟",
+            "en": "from: origin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "leila",
+      "text": "I am from Shiraz, and I live here now.",
+      "translation": {
+        "fa": "من اهل شیرازم و الان اینجا زندگی می‌کنم.",
+        "en": "I am from Shiraz, and I live here now."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "اهلِ",
+            "en": "from: origin"
+          }
+        },
+        {
+          "surface": "Shiraz,",
+          "gloss": {
+            "fa": "شیراز،",
+            "en": "Shiraz; city name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "live",
+          "gloss": {
+            "fa": "زندگی می‌کنم",
+            "en": "live: reside"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "in this place"
+          }
+        },
+        {
+          "surface": "now.",
+          "gloss": {
+            "fa": "الان.",
+            "en": "now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "omid",
+      "text": "I am from Isfahan, but I work in this city.",
+      "translation": {
+        "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+        "en": "I am from Isfahan, but I work in this city."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "be: present with I"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "اهلِ",
+            "en": "from: origin"
+          }
+        },
+        {
+          "surface": "Isfahan,",
+          "gloss": {
+            "fa": "اصفهان،",
+            "en": "Isfahan; city name"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنم",
+            "en": "work"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this"
+          }
+        },
+        {
+          "surface": "city.",
+          "gloss": {
+            "fa": "شهر.",
+            "en": "city"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "leila",
+      "text": "That is interesting, how long have you lived here?",
+      "translation": {
+        "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+        "en": "That is interesting, how long have you lived here?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن حرف",
+            "en": "that"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "be: present singular"
+          }
+        },
+        {
+          "surface": "interesting,",
+          "gloss": {
+            "fa": "جالب،",
+            "en": "interesting"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چه‌قدر؛ همراه long",
+            "en": "how"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "طولانی؛ همراه how",
+            "en": "long: duration"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "فعل کمکی حال کامل",
+            "en": "present-perfect auxiliary"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you"
+          }
+        },
+        {
+          "surface": "lived",
+          "gloss": {
+            "fa": "زندگی کرده‌اید",
+            "en": "lived: resided"
+          }
+        },
+        {
+          "surface": "here?",
+          "gloss": {
+            "fa": "اینجا؟",
+            "en": "in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "omid",
+      "text": "I moved here three years ago for my job.",
+      "translation": {
+        "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+        "en": "I moved here three years ago for my job."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I"
+          }
+        },
+        {
+          "surface": "moved",
+          "gloss": {
+            "fa": "نقل مکان کردم",
+            "en": "moved: changed residence"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "in this place"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "سه",
+            "en": "three"
+          }
+        },
+        {
+          "surface": "years",
+          "gloss": {
+            "fa": "سال",
+            "en": "years"
+          }
+        },
+        {
+          "surface": "ago",
+          "gloss": {
+            "fa": "پیش",
+            "en": "ago"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "به‌خاطرِ",
+            "en": "for: reason"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my"
+          }
+        },
+        {
+          "surface": "job.",
+          "gloss": {
+            "fa": "شغل.",
+            "en": "job"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "اجازه داشتن؛ در درخواست مؤدبانه",
+          "en": "may; used to ask permission"
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "sit",
+        "text": "sit",
+        "pronunciation": {
+          "faReading": "سیت",
+          "ipa": "/sɪt/"
+        },
+        "meaning": {
+          "fa": "نشستن",
+          "en": "sit; take a seated position"
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "جزئی از عبارت ثابت of course",
+          "en": "of; part of the fixed phrase of course"
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "course",
+        "text": "course",
+        "pronunciation": {
+          "faReading": "کورس",
+          "ipa": "/kɔrs/"
+        },
+        "meaning": {
+          "fa": "جزئی از of course به معنی البته",
+          "en": "course; in of course, meaning certainly"
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "down",
+        "text": "down",
+        "pronunciation": {
+          "faReading": "داون",
+          "ipa": "/daʊn/"
+        },
+        "meaning": {
+          "fa": "نشستن؛ در ترکیب sit down حالت نشسته گرفتن را می‌رساند",
+          "en": "down; particle completing sit down"
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, I am Leila.",
+          "translation": {
+            "fa": "ممنونم، من لیلا هستم.",
+            "en": "Thank you, I am Leila."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person or people addressed"
+        },
+        "example": {
+          "text": "Thank you, I am Leila.",
+          "translation": {
+            "fa": "ممنونم، من لیلا هستم.",
+            "en": "Thank you, I am Leila."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم؛ شکل be با I",
+          "en": "am; present form of be with I"
+        },
+        "example": {
+          "text": "Thank you, I am Leila.",
+          "translation": {
+            "fa": "ممنونم، من لیلا هستم.",
+            "en": "Thank you, I am Leila."
+          }
+        }
+      },
+      {
+        "id": "where",
+        "text": "where",
+        "pronunciation": {
+          "faReading": "وِر",
+          "ipa": "/wɛr/"
+        },
+        "meaning": {
+          "fa": "کجا",
+          "en": "where; asking about place"
+        },
+        "example": {
+          "text": "I am Omid, where are you from?",
+          "translation": {
+            "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+            "en": "I am Omid, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم، بسته به فاعل",
+          "en": "present form of be with you/we/they"
+        },
+        "example": {
+          "text": "I am Omid, where are you from?",
+          "translation": {
+            "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+            "en": "I am Omid, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ، برای بیان مبدأ",
+          "en": "from; origin in be from"
+        },
+        "example": {
+          "text": "I am Omid, where are you from?",
+          "translation": {
+            "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+            "en": "I am Omid, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I am from Shiraz, and I live here now.",
+          "translation": {
+            "fa": "من اهل شیرازم و الان اینجا زندگی می‌کنم.",
+            "en": "I am from Shiraz, and I live here now."
+          }
+        }
+      },
+      {
+        "id": "live",
+        "text": "live",
+        "pronunciation": {
+          "faReading": "لیو",
+          "ipa": "/lɪv/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن؛ سکونت داشتن",
+          "en": "live; reside"
+        },
+        "example": {
+          "text": "I am from Shiraz, and I live here now.",
+          "translation": {
+            "fa": "من اهل شیرازم و الان اینجا زندگی می‌کنم.",
+            "en": "I am from Shiraz, and I live here now."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "I am from Shiraz, and I live here now.",
+          "translation": {
+            "fa": "من اهل شیرازم و الان اینجا زندگی می‌کنم.",
+            "en": "I am from Shiraz, and I live here now."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "اما؛ ولی",
+          "en": "but; introduces contrast"
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "work; do a job"
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        }
+      },
+      {
+        "id": "city",
+        "text": "city",
+        "pronunciation": {
+          "faReading": "سیتی",
+          "ipa": "/ˈsɪti/"
+        },
+        "meaning": {
+          "fa": "شهر",
+          "en": "city; a large town"
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; something already mentioned"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; present singular form of be"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "interesting",
+        "text": "interesting",
+        "pronunciation": {
+          "faReading": "اینتِرِستینگ",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        },
+        "meaning": {
+          "fa": "جالب",
+          "en": "interesting; holding your attention"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "طولانی؛ در how long برای مدت",
+          "en": "long; duration in how long"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "فعل کمکی حال کامل، پیش از lived",
+          "en": "have; present-perfect auxiliary before lived"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "lived",
+        "text": "lived",
+        "pronunciation": {
+          "faReading": "لیود",
+          "ipa": "/lɪvd/"
+        },
+        "meaning": {
+          "fa": "زندگی کرده؛ صورت گذشته و سوم live",
+          "en": "lived; past and past participle of live"
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "moved",
+        "text": "moved",
+        "pronunciation": {
+          "faReading": "موود",
+          "ipa": "/muvd/"
+        },
+        "meaning": {
+          "fa": "نقل مکان کردم؛ صورت گذشتهٔ move",
+          "en": "moved; changed residence"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها؛ جمع year",
+          "en": "years; plural of year"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "ago",
+        "text": "ago",
+        "pronunciation": {
+          "faReading": "اِگُو",
+          "ipa": "/əˈɡoʊ/"
+        },
+        "meaning": {
+          "fa": "پیش؛ قبل از اکنون",
+          "en": "ago; before now"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; giving a purpose or reason"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من؛ ـَم پیش از اسم",
+          "en": "my; belonging to the speaker"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      },
+      {
+        "id": "job",
+        "text": "job",
+        "pronunciation": {
+          "faReading": "جاب",
+          "ipa": "/dʒɑb/"
+        },
+        "meaning": {
+          "fa": "شغل",
+          "en": "job; paid work"
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "be-origin",
+        "title": {
+          "fa": "معرفی و گفتن مبدأ با be",
+          "en": "Be for identity and origin"
+        },
+        "explanation": {
+          "fa": "در معرفی، I am + نام به کار می‌رود. برای مبدأ، I am from + شهر می‌آید. از جابه‌جایی are و you در where are you from سؤال ساخته می‌شود؛ from در پایان سؤال باقی می‌ماند. That is interesting ارزیابی حرف قبلی با that + is + صفت است.",
+          "en": "Use I am + name for identity and I am from + city for origin. Make the question by placing are before you in where are you from; from stays at the end. That is interesting evaluates the previous statement with that + is + adjective."
+        },
+        "example": {
+          "text": "I am Omid, where are you from?",
+          "translation": {
+            "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+            "en": "I am Omid, where are you from?"
+          }
+        },
+        "takeaway": {
+          "fa": "اهل بودن با be from گفته می‌شود، نه با live.",
+          "en": "Be from gives origin, whereas live gives residence."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "معرفی و گفتن مبدأ با be",
+              "en": "Be for identity and origin"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am Leila"
+                },
+                {
+                  "text": "I + am + name"
+                },
+                {
+                  "fa": "معرفی نام",
+                  "en": "Introducing a name"
+                }
+              ],
+              [
+                {
+                  "text": "I am from Shiraz"
+                },
+                {
+                  "text": "I + am + from + city"
+                },
+                {
+                  "fa": "اهل شیراز بودن",
+                  "en": "Being originally from Shiraz"
+                }
+              ],
+              [
+                {
+                  "text": "where are you from?"
+                },
+                {
+                  "text": "where + are + you + from?"
+                },
+                {
+                  "fa": "پرسیدن مبدأ",
+                  "en": "Asking about origin"
+                }
+              ],
+              [
+                {
+                  "text": "That is interesting"
+                },
+                {
+                  "text": "that + is + adjective"
+                },
+                {
+                  "fa": "جالب بودن گفتهٔ قبلی",
+                  "en": "Evaluating the previous statement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "permission-may",
+        "title": {
+          "fa": "اجازه خواستن با may",
+          "en": "Permission with may"
+        },
+        "explanation": {
+          "fa": "برای اجازهٔ مؤدبانه بگو May + I + شکل سادهٔ فعل؟ بعد از may نه to می‌آید و نه فعل صرف می‌شود. here محل انجام کار است. این درخواست از یک دستور مستقیم نرم‌تر است.",
+          "en": "Ask permission politely with May + I + base verb? Do not add to or inflect the verb after may. Here gives the location. This is less direct than issuing an instruction."
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        },
+        "takeaway": {
+          "fa": "May I sit here? اجازهٔ نشستن می‌خواهد.",
+          "en": "May I sit here? asks for permission to sit."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اجازه خواستن با may",
+              "en": "Permission with may"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "may I sit here?"
+                },
+                {
+                  "text": "may + I + sit + here?"
+                },
+                {
+                  "fa": "اجازه هست اینجا بنشینم؟",
+                  "en": "A polite request for permission"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "polite-imperative",
+        "title": {
+          "fa": "درخواست با please و فعل امری",
+          "en": "Please and the imperative"
+        },
+        "explanation": {
+          "fa": "دستور یا دعوت مستقیم با شکل سادهٔ فعل آغاز می‌شود و فاعل you معمولاً گفته نمی‌شود. please درخواست را مؤدبانه می‌کند. در sit down، down جزء فعل ترکیبی است و معنی حالت نشسته گرفتن را کامل می‌کند.",
+          "en": "An imperative starts with the base verb and normally omits the understood subject you. Please softens it. In sit down, down is a particle completing the meaning of taking a seat."
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        },
+        "takeaway": {
+          "fa": "Please sit down یک دعوت مؤدبانه است، نه سؤال.",
+          "en": "Please sit down is a polite invitation, not a question."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست با please و فعل امری",
+              "en": "Please and the imperative"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "please sit down"
+                },
+                {
+                  "text": "please + sit + particle down"
+                },
+                {
+                  "fa": "لطفاً بنشینید",
+                  "en": "An invitation to take a seat"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "present-simple",
+        "title": {
+          "fa": "حال ساده برای سکونت و کار",
+          "en": "Present simple for residence and work"
+        },
+        "explanation": {
+          "fa": "برای وضعیت معمول یا نسبتاً پایدار با I، شکل سادهٔ live و work را می‌آوریم. live here now دربارهٔ محل زندگی فعلی است؛ work in this city محل کار را می‌گوید، نه لزوماً محل تولد را.",
+          "en": "Use the base forms live and work with I for current habits or relatively stable situations. Live here now gives current residence; work in this city gives the workplace, not necessarily the birthplace."
+        },
+        "example": {
+          "text": "I am from Shiraz, and I live here now.",
+          "translation": {
+            "fa": "من اهل شیرازم و الان اینجا زندگی می‌کنم.",
+            "en": "I am from Shiraz, and I live here now."
+          }
+        },
+        "takeaway": {
+          "fa": "با I در حال ساده به live و work پسوند s نده.",
+          "en": "With I, present-simple live and work have no -s."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حال ساده برای سکونت و کار",
+              "en": "Present simple for residence and work"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I live here now"
+                },
+                {
+                  "text": "I + live + place + time"
+                },
+                {
+                  "fa": "الان اینجا زندگی می‌کنم",
+                  "en": "Current residence"
+                }
+              ],
+              [
+                {
+                  "text": "I work in this city"
+                },
+                {
+                  "text": "I + work + in + noun phrase"
+                },
+                {
+                  "fa": "در این شهر کار می‌کنم",
+                  "en": "Current workplace"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "place-determiners",
+        "title": {
+          "fa": "اشاره به مکان و مالکیت",
+          "en": "Place reference and possession"
+        },
+        "explanation": {
+          "fa": "here قید مکان است و بدون in به کار می‌رود. in پیش از this city محل کار را مشخص می‌کند. this پیش از اسم مفرد city به شهر فعلی اشاره دارد؛ my پیش از job تعلق شغل به گوینده را نشان می‌دهد.",
+          "en": "Here is a place adverb and does not need in. In before this city locates the work. This determines singular city and points to the current city; my before job marks the job as the speaker’s."
+        },
+        "example": {
+          "text": "I am from Isfahan, but I work in this city.",
+          "translation": {
+            "fa": "من اهل اصفهانم، ولی در این شهر کار می‌کنم.",
+            "en": "I am from Isfahan, but I work in this city."
+          }
+        },
+        "takeaway": {
+          "fa": "here به‌تنهایی می‌آید؛ in this city یک گروه حرف‌اضافه‌ای است.",
+          "en": "Here stands alone; in this city is a prepositional phrase."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اشاره به مکان و مالکیت",
+              "en": "Place reference and possession"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "here now"
+                },
+                {
+                  "text": "place adverb + time adverb"
+                },
+                {
+                  "fa": "اینجا، اکنون",
+                  "en": "The current place and time"
+                }
+              ],
+              [
+                {
+                  "text": "in this city"
+                },
+                {
+                  "text": "in + this + singular noun"
+                },
+                {
+                  "fa": "در این شهر",
+                  "en": "Location in a specific city"
+                }
+              ],
+              [
+                {
+                  "text": "my job"
+                },
+                {
+                  "text": "my + noun"
+                },
+                {
+                  "fa": "شغل من",
+                  "en": "Possession before a noun"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "present-perfect-duration",
+        "title": {
+          "fa": "مدت تا اکنون با حال کامل",
+          "en": "Present perfect for duration up to now"
+        },
+        "explanation": {
+          "fa": "برای پرسیدن مدت سکونتی که تا اکنون ادامه دارد، How long + have + you + شکل سوم فعل می‌آید. lived شکل سوم live است. این ساخت از حال ساده دشوارتر است اما در متن اصلی وجود دارد. پاسخ امید به‌جای گفتن مدت با for، زمان شروع را با گذشتهٔ ساده و ago بیان می‌کند.",
+          "en": "To ask the duration of residence continuing up to now, use How long + have + you + past participle. Lived is the past participle of live. This is more advanced than a basic A1 pattern but occurs in the source. Omid answers with a past-simple starting point and ago rather than a for-duration."
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        },
+        "takeaway": {
+          "fa": "How long مدت می‌پرسد؛ have lived گذشته را به حال وصل می‌کند.",
+          "en": "How long asks for duration; have lived links the past to now."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مدت تا اکنون با حال کامل",
+              "en": "Present perfect for duration up to now"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how long have you lived here?"
+                },
+                {
+                  "text": "how long + have + you + lived + here?"
+                },
+                {
+                  "fa": "چه مدت است اینجا زندگی می‌کنید؟",
+                  "en": "Asks how long residence has continued"
+                }
+              ],
+              [
+                {
+                  "text": "lived"
+                },
+                {
+                  "text": "live + d → lived"
+                },
+                {
+                  "fa": "شکل سوم فعل باقاعدهٔ live",
+                  "en": "Regular past participle of live"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-ago",
+        "title": {
+          "fa": "گذشتهٔ ساده و ago",
+          "en": "Past simple with ago"
+        },
+        "explanation": {
+          "fa": "برای جابه‌جایی تمام‌شده در گذشته از I + moved استفاده شده است. moved گذشتهٔ باقاعدهٔ move است و d پایانی آن در این واژه /d/ تلفظ می‌شود. three years ago یعنی سه سال پیش از اکنون؛ ago پس از مقدار زمان می‌آید. years با s جمع شده است.",
+          "en": "I + moved describes a completed relocation in the past. Moved is the regular past of move, with the ending pronounced /d/ here. Three years ago means three years before now; ago follows the time amount. Years has plural -s."
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        },
+        "takeaway": {
+          "fa": "عدد + years + ago زمان گذشته را مشخص می‌کند.",
+          "en": "Number + years + ago locates an event before now."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گذشتهٔ ساده و ago",
+              "en": "Past simple with ago"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I moved here"
+                },
+                {
+                  "text": "I + past verb + place"
+                },
+                {
+                  "fa": "به اینجا نقل مکان کردم",
+                  "en": "A completed move"
+                }
+              ],
+              [
+                {
+                  "text": "three years ago"
+                },
+                {
+                  "text": "number + plural time unit + ago"
+                },
+                {
+                  "fa": "سه سال پیش",
+                  "en": "A time three years before now"
+                }
+              ],
+              [
+                {
+                  "text": "moved / lived"
+                },
+                {
+                  "text": "move + d / live + d"
+                },
+                {
+                  "fa": "پایان هر دو در این متن /d/ است",
+                  "en": "Both endings are pronounced /d/ here"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "coordination-reason",
+        "title": {
+          "fa": "پیوند، تضاد و دلیل",
+          "en": "Addition, contrast and reason"
+        },
+        "explanation": {
+          "fa": "and دو واقعیت سازگار را وصل می‌کند؛ but تفاوت یا تضاد را برجسته می‌کند. for my job در جملهٔ گذشته علت نقل مکان را می‌گوید، نه مدت زمان آن را. در این گروه my مالک و job اسم مفرد است.",
+          "en": "And links compatible facts; but highlights contrast. For my job in the past sentence gives the reason for moving, not its duration. My is the possessive determiner and job is singular."
+        },
+        "example": {
+          "text": "I moved here three years ago for my job.",
+          "translation": {
+            "fa": "سه سال پیش به‌خاطر شغلم به اینجا نقل مکان کردم.",
+            "en": "I moved here three years ago for my job."
+          }
+        },
+        "takeaway": {
+          "fa": "for my job دلیل است؛ three years ago زمان است.",
+          "en": "For my job gives a reason; three years ago gives a time."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیوند، تضاد و دلیل",
+              "en": "Addition, contrast and reason"
+            },
+            "columns": [
+              {
+                "fa": "شکل موجود",
+                "en": "Form in the dialogue"
+              },
+              {
+                "fa": "ساخت",
+                "en": "Structure"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "from Shiraz, and I live here"
+                },
+                {
+                  "text": "clause + and + clause"
+                },
+                {
+                  "fa": "مبدأ و محل زندگی فعلی",
+                  "en": "Origin plus current residence"
+                }
+              ],
+              [
+                {
+                  "text": "from Isfahan, but I work in this city"
+                },
+                {
+                  "text": "clause + but + clause"
+                },
+                {
+                  "fa": "تفاوت مبدأ و محل کار",
+                  "en": "Contrast between origin and workplace"
+                }
+              ],
+              [
+                {
+                  "text": "for my job"
+                },
+                {
+                  "text": "for + my + job"
+                },
+                {
+                  "fa": "به‌خاطر شغلم",
+                  "en": "Reason for moving"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hello"
+        },
+        "context": {
+          "fa": "آغاز خنثی گفت‌وگو با فردی که گوینده می‌خواهد از او اجازه بگیرد.",
+          "en": "A neutral opening before asking someone for permission."
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "may-sit",
+        "text": "may I sit here?",
+        "pronunciation": {
+          "faReading": "مِی آی سیت هیر",
+          "ipa": "/meɪ aɪ sɪt hɪr/"
+        },
+        "meaning": {
+          "fa": "اجازه هست اینجا بنشینم؟",
+          "en": "May I sit here?"
+        },
+        "context": {
+          "fa": "may درخواست اجازه را مؤدبانه می‌کند؛ مناسب وقتی جای کنار کسی را می‌خواهیم.",
+          "en": "May makes this a polite permission request, useful when asking to sit near someone."
+        },
+        "example": {
+          "text": "Hello, may I sit here?",
+          "translation": {
+            "fa": "سلام، اجازه هست اینجا بنشینم؟",
+            "en": "Hello, may I sit here?"
+          }
+        }
+      },
+      {
+        "id": "of-course",
+        "text": "Of course",
+        "pronunciation": {
+          "faReading": "اَو کورس",
+          "ipa": "/əv kɔrs/"
+        },
+        "meaning": {
+          "fa": "البته؛ حتماً",
+          "en": "Of course; certainly"
+        },
+        "context": {
+          "fa": "پاسخ مثبت و راحت به درخواست اجازه؛ اینجا موافقت دوستانه است، نه سرزنش بابت بدیهی بودن سؤال.",
+          "en": "An easy affirmative response to permission; here it is friendly agreement, not a rebuke that the answer is obvious."
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "sit-down",
+        "text": "please sit down",
+        "pronunciation": {
+          "faReading": "پْلیز سیت داون",
+          "ipa": "/pliz sɪt daʊn/"
+        },
+        "meaning": {
+          "fa": "لطفاً بنشینید",
+          "en": "Please take a seat"
+        },
+        "context": {
+          "fa": "دعوت به نشستن؛ please لحن فعل امری را نرم می‌کند.",
+          "en": "An invitation to sit; please softens the imperative."
+        },
+        "example": {
+          "text": "Of course, please sit down.",
+          "translation": {
+            "fa": "البته، لطفاً بنشینید.",
+            "en": "Of course, please sit down."
+          }
+        }
+      },
+      {
+        "id": "thank-you",
+        "text": "Thank you",
+        "pronunciation": {
+          "faReading": "ثَنک یو",
+          "ipa": "/θæŋk ju/"
+        },
+        "meaning": {
+          "fa": "ممنونم",
+          "en": "Thank you"
+        },
+        "context": {
+          "fa": "لیلا از اجازه و دعوت به نشستن تشکر می‌کند.",
+          "en": "Leila thanks Omid for permission and the invitation to sit."
+        },
+        "example": {
+          "text": "Thank you, I am Leila.",
+          "translation": {
+            "fa": "ممنونم، من لیلا هستم.",
+            "en": "Thank you, I am Leila."
+          }
+        }
+      },
+      {
+        "id": "where-from",
+        "text": "where are you from?",
+        "pronunciation": {
+          "faReading": "وِر آر یو فْرام",
+          "ipa": "/wɛr ɑr ju frʌm/"
+        },
+        "meaning": {
+          "fa": "اهل کجا هستید؟",
+          "en": "Where are you from?"
+        },
+        "context": {
+          "fa": "در آشنایی اولیه برای مبدأ است؛ پاسخ این مکالمه نام شهر است، نه لزوماً ملیت.",
+          "en": "Used in introductions to ask origin; here the answer is a city, not necessarily a nationality."
+        },
+        "example": {
+          "text": "I am Omid, where are you from?",
+          "translation": {
+            "fa": "من امید هستم؛ شما اهل کجا هستید؟",
+            "en": "I am Omid, where are you from?"
+          }
+        }
+      },
+      {
+        "id": "interesting",
+        "text": "That is interesting",
+        "pronunciation": {
+          "faReading": "ذَت ایز اینتِرِستینگ",
+          "ipa": "/ðæt ɪz ˈɪntrəstɪŋ/"
+        },
+        "meaning": {
+          "fa": "جالب است",
+          "en": "That is interesting"
+        },
+        "context": {
+          "fa": "واکنشی برای نشان دادن توجه و ادامه دادن گفت‌وگو، پیش از سؤال بعدی.",
+          "en": "A response showing interest and keeping the conversation going before a follow-up question."
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      },
+      {
+        "id": "how-long",
+        "text": "how long have you lived here?",
+        "pronunciation": {
+          "faReading": "هاو لانگ هَو یو لیود هیر",
+          "ipa": "/haʊ lɔŋ hæv ju lɪvd hɪr/"
+        },
+        "meaning": {
+          "fa": "چه مدت است اینجا زندگی می‌کنید؟",
+          "en": "How long have you lived here?"
+        },
+        "context": {
+          "fa": "سؤال پیگیری پس از صحبت دربارهٔ مبدأ؛ مدت سکونت فعلی را می‌پرسد.",
+          "en": "A follow-up after discussing origin, asking about the duration of the current residence."
+        },
+        "example": {
+          "text": "That is interesting, how long have you lived here?",
+          "translation": {
+            "fa": "جالب است؛ چه مدت است اینجا زندگی می‌کنید؟",
+            "en": "That is interesting, how long have you lived here?"
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر عمدتاً دربارهٔ چه صحبت می‌کنند؟",
+          "en": "What are the speakers mainly discussing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شهر مبدأ و زندگی در شهر فعلی",
+              "en": "Their home cities and life in the current city"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قیمت بلیت و زمان سفر به شهر دیگر",
+              "en": "Ticket prices and travel times to another city"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "برنامهٔ بازدید از چند شهر تاریخی",
+              "en": "Plans to visit several historic cities"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "پس از معرفی نام‌ها، دو نفر از شهر مبدأ، محل زندگی و علت نقل مکان می‌گویند.",
+          "en": "After introducing themselves, they discuss origin, residence and the reason for moving."
+        },
+        "evidenceTurnIds": [
+          "t04",
+          "t05",
+          "t06",
+          "t08"
+        ]
+      },
+      {
+        "id": "leila-origin",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "لیلا اهل کدام شهر است؟",
+          "en": "Which city is Leila from?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "اصفهان",
+              "en": "Isfahan"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شیراز",
+              "en": "Shiraz"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تبریز",
+              "en": "Tabriz"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "لیلا صریحاً می‌گوید I am from Shiraz.",
+          "en": "Leila explicitly says I am from Shiraz."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "omid-origin",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "امید اهل کدام شهر است؟",
+          "en": "Which city is Omid from?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تبریز",
+              "en": "Tabriz"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شیراز",
+              "en": "Shiraz"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "اصفهان",
+              "en": "Isfahan"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "امید می‌گوید I am from Isfahan، هرچند در شهر فعلی کار می‌کند.",
+          "en": "Omid says I am from Isfahan, though he works in the current city."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "move-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "امید چند سال پیش نقل مکان کرد؟",
+          "en": "How many years ago did Omid move?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دو سال پیش",
+              "en": "Two years ago"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سه سال پیش",
+              "en": "Three years ago"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چهار سال پیش",
+              "en": "Four years ago"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "امید می‌گوید three years ago؛ یعنی سه سال پیش.",
+          "en": "Omid says three years ago."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "move-reason",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دلیل نقل مکان امید چه بود؟",
+          "en": "Why did Omid move?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "شغلش",
+              "en": "His job"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تحصیلش",
+              "en": "His studies"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خانواده‌اش",
+              "en": "His family"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "امید عبارت for my job را برای دلیل نقل مکان به کار می‌برد.",
+          "en": "Omid gives for my job as his reason for moving."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}
