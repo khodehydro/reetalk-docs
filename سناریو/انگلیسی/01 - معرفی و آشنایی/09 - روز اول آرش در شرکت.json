@@ -1,0 +1,4038 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s09",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "روز اول آرش در شرکت",
+    "en": "Arash’s first day at work"
+  },
+  "objective": {
+    "fa": "پروژه و گروه آرش، ساعت جلسهٔ روزانه و محل آشپزخانه و زمان ناهار را تشخیص بده.",
+    "en": "Identify Arash’s project and group, the daily meeting time, the kitchen location, and lunchtime."
+  },
+  "speakers": [
+    {
+      "id": "arash",
+      "name": "Arash",
+      "gender": "man"
+    },
+    {
+      "id": "milad",
+      "name": "Milad",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "arash",
+      "text": "Good morning, I am Arash, the new designer in the team.",
+      "translation": {
+        "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+        "en": "Good morning, I am Arash, the new designer in the team."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ در صبح به‌خیر",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح،",
+            "en": "morning; the first part of the day"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Arash,",
+          "gloss": {
+            "fa": "آرش،",
+            "en": "Arash; a name"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "designer",
+          "gloss": {
+            "fa": "طراح",
+            "en": "designer; someone who plans how things look"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "team.",
+          "gloss": {
+            "fa": "تیم.",
+            "en": "team; people working or playing together"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "milad",
+      "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+      "translation": {
+        "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+        "en": "Welcome Arash, I am Milad, I manage the design projects here."
+      },
+      "tokens": [
+        {
+          "surface": "Welcome",
+          "gloss": {
+            "fa": "خوش آمدی",
+            "en": "welcome; a greeting or reply to thanks"
+          }
+        },
+        {
+          "surface": "Arash,",
+          "gloss": {
+            "fa": "آرش،",
+            "en": "Arash; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Milad,",
+          "gloss": {
+            "fa": "میلاد،",
+            "en": "Milad; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "manage",
+          "gloss": {
+            "fa": "مدیریت می‌کنم",
+            "en": "manage; organize and be responsible for"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "design",
+          "gloss": {
+            "fa": "طراحی",
+            "en": "design; planning how something looks"
+          }
+        },
+        {
+          "surface": "projects",
+          "gloss": {
+            "fa": "پروژه‌ها",
+            "en": "projects; planned pieces of work"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا.",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "arash",
+      "text": "It is great to be here, may I ask what the main tasks are this week?",
+      "translation": {
+        "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+        "en": "It is great to be here, may I ask what the main tasks are this week?"
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "در این جمله جدا ترجمه نمی‌شود",
+            "en": "it; no separate meaning here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "here,",
+          "gloss": {
+            "fa": "اینجا،",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "may",
+          "gloss": {
+            "fa": "اجازه دارم",
+            "en": "may; asking permission"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "بپرسم",
+            "en": "ask; request information or an action"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "tasks",
+          "gloss": {
+            "fa": "کارها",
+            "en": "tasks; pieces of work to do"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; a nearby or current referent"
+          }
+        },
+        {
+          "surface": "week?",
+          "gloss": {
+            "fa": "هفته؟",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "milad",
+      "text": "We are working on the website redesign, and you will join the layout group.",
+      "translation": {
+        "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+        "en": "We are working on the website redesign, and you will join the layout group."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "بخشی از فعل بعدی",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "working",
+          "gloss": {
+            "fa": "کار می‌کنیم",
+            "en": "working; doing work"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "website",
+          "gloss": {
+            "fa": "وب‌سایت",
+            "en": "website; a set of internet pages"
+          }
+        },
+        {
+          "surface": "redesign,",
+          "gloss": {
+            "fa": "طراحی دوباره،",
+            "en": "redesign; a new design for something"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهی",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "join",
+          "gloss": {
+            "fa": "پیوست؛ همراه خواهی",
+            "en": "join; become a member of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "layout",
+          "gloss": {
+            "fa": "چیدمان",
+            "en": "layout; the arrangement of a page"
+          }
+        },
+        {
+          "surface": "group.",
+          "gloss": {
+            "fa": "گروه.",
+            "en": "group; a set of people"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "arash",
+      "text": "I have experience with layout design, so I can start right away.",
+      "translation": {
+        "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+        "en": "I have experience with layout design, so I can start right away."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "دارم",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "experience",
+          "gloss": {
+            "fa": "تجربه",
+            "en": "experience; knowledge gained by doing"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "در",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "layout",
+          "gloss": {
+            "fa": "چیدمان",
+            "en": "layout; the arrangement of a page"
+          }
+        },
+        {
+          "surface": "design,",
+          "gloss": {
+            "fa": "طراحی،",
+            "en": "design; planning how something looks"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "start",
+          "gloss": {
+            "fa": "شروع کنم",
+            "en": "start; begin"
+          }
+        },
+        {
+          "surface": "right",
+          "gloss": {
+            "fa": "فوری؛ همراه away",
+            "en": "right; exact or correct"
+          }
+        },
+        {
+          "surface": "away.",
+          "gloss": {
+            "fa": "فوری؛ همراه right.",
+            "en": "away; part of right away"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "milad",
+      "text": "That is perfect, the team meets every morning at nine for planning.",
+      "translation": {
+        "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+        "en": "That is perfect, the team meets every morning at nine for planning."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "perfect,",
+          "gloss": {
+            "fa": "عالی،",
+            "en": "perfect; exactly right"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "team",
+          "gloss": {
+            "fa": "تیم",
+            "en": "team; people working or playing together"
+          }
+        },
+        {
+          "surface": "meets",
+          "gloss": {
+            "fa": "جمع می‌شود",
+            "en": "meets; comes together"
+          }
+        },
+        {
+          "surface": "every",
+          "gloss": {
+            "fa": "هر",
+            "en": "every; each one"
+          }
+        },
+        {
+          "surface": "morning",
+          "gloss": {
+            "fa": "صبح",
+            "en": "morning; the first part of the day"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعت",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "nine",
+          "gloss": {
+            "fa": "نه",
+            "en": "nine; 9"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "planning.",
+          "gloss": {
+            "fa": "برنامه‌ریزی.",
+            "en": "planning; deciding what to do"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "arash",
+      "text": "I will be there on time, is there anything else I should know about the office?",
+      "translation": {
+        "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+        "en": "I will be there on time, is there anything else I should know about the office?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بود",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا",
+            "en": "there; that place, or introduces existence"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "سرِ وقت؛ با time",
+            "en": "on; in on time, not late"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "وقت،",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "آیا هست",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "وجود؛ همراه is",
+            "en": "there; that place, or introduces existence"
+          }
+        },
+        {
+          "surface": "anything",
+          "gloss": {
+            "fa": "چیزی",
+            "en": "anything; any thing"
+          }
+        },
+        {
+          "surface": "else",
+          "gloss": {
+            "fa": "دیگر",
+            "en": "else; additional"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "should",
+          "gloss": {
+            "fa": "لازم است",
+            "en": "should; advice or expected action"
+          }
+        },
+        {
+          "surface": "know",
+          "gloss": {
+            "fa": "بدانم",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "دربارهٔ",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "office?",
+          "gloss": {
+            "fa": "دفتر؟",
+            "en": "office; a workplace for desk work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "milad",
+      "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+      "translation": {
+        "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+        "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "kitchen",
+          "gloss": {
+            "fa": "آشپزخانه",
+            "en": "kitchen; a room for preparing food"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "در",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "second",
+          "gloss": {
+            "fa": "دوم",
+            "en": "second; after the first"
+          }
+        },
+        {
+          "surface": "floor,",
+          "gloss": {
+            "fa": "طبقه،",
+            "en": "floor; a level of a building here"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "everyone",
+          "gloss": {
+            "fa": "همه",
+            "en": "everyone; all the people"
+          }
+        },
+        {
+          "surface": "takes",
+          "gloss": {
+            "fa": "می‌خورند",
+            "en": "takes; uses time or has a meal here"
+          }
+        },
+        {
+          "surface": "lunch",
+          "gloss": {
+            "fa": "ناهار",
+            "en": "lunch; a midday meal"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در ساعت",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "noon.",
+          "gloss": {
+            "fa": "ظهر.",
+            "en": "noon; twelve o'clock in the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "arash",
+      "text": "Thank you, that is very helpful for my first week.",
+      "translation": {
+        "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+        "en": "Thank you, that is very helpful for my first week."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو،",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "helpful",
+          "gloss": {
+            "fa": "مفید",
+            "en": "helpful; useful or helping others"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "first",
+          "gloss": {
+            "fa": "اولین",
+            "en": "first; before all the others"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته.",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "milad",
+      "text": "If you have any questions, feel free to ask me or the team.",
+      "translation": {
+        "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+        "en": "If you have any questions, feel free to ask me or the team."
+      },
+      "tokens": [
+        {
+          "surface": "If",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتی",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "any",
+          "gloss": {
+            "fa": "هر",
+            "en": "any; an unspecified amount"
+          }
+        },
+        {
+          "surface": "questions,",
+          "gloss": {
+            "fa": "پرسشی،",
+            "en": "questions; things people ask"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "احساس کن؛ در feel free",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "free",
+          "gloss": {
+            "fa": "راحت باش؛ همراه free",
+            "en": "feel; part of feel free, do not hesitate"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "پرسیدن از",
+            "en": "ask; request information or an action"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "team.",
+          "gloss": {
+            "fa": "تیم.",
+            "en": "team; people working or playing together"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "arash",
+      "text": "I appreciate that, I am sure I will enjoy working here.",
+      "translation": {
+        "fa": "از این لطف ممنونم؛ مطمئنم از کار کردن اینجا لذت می‌برم.",
+        "en": "I appreciate that, I am sure I will enjoy working here."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی می‌کنم از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن،",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "مطمئن",
+            "en": "sure; certain"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت برد از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "working",
+          "gloss": {
+            "fa": "کار کردن",
+            "en": "working; doing work"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا.",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "milad",
+      "text": "We are glad to have you on board, let us get started.",
+      "translation": {
+        "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+        "en": "We are glad to have you on board, let us get started."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستیم",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتنِ حضور شما",
+            "en": "have; welcome you here"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو را",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بخشی از «عضو گروه بودن»",
+            "en": "part of on board; in the team"
+          }
+        },
+        {
+          "surface": "board,",
+          "gloss": {
+            "fa": "بخشی از «عضو گروه بودن»",
+            "en": "part of on board; in the team"
+          }
+        },
+        {
+          "surface": "let",
+          "gloss": {
+            "fa": "بگذار",
+            "en": "let; allow someone to do something"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "وارد شویم؛ در شروع کنیم",
+            "en": "get; arrive"
+          }
+        },
+        {
+          "surface": "started.",
+          "gloss": {
+            "fa": "شروع؛ همراه get.",
+            "en": "started; part of get started"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the first part of the day"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "designer",
+        "text": "designer",
+        "pronunciation": {
+          "faReading": "دیزاینِر",
+          "ipa": "/dɪˈzaɪnɚ/"
+        },
+        "meaning": {
+          "fa": "طراح",
+          "en": "designer; someone who plans how things look"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "team",
+        "text": "team",
+        "pronunciation": {
+          "faReading": "تیم",
+          "ipa": "/tim/"
+        },
+        "meaning": {
+          "fa": "تیم؛ گروه",
+          "en": "team; people working or playing together"
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی؛ خواهش می‌کنم",
+          "en": "welcome; a greeting or reply to thanks"
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "manage",
+        "text": "manage",
+        "pronunciation": {
+          "faReading": "مَنِج",
+          "ipa": "/ˈmænɪdʒ/"
+        },
+        "meaning": {
+          "fa": "مدیریت کردن",
+          "en": "manage; organize and be responsible for"
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "design",
+        "text": "design",
+        "pronunciation": {
+          "faReading": "دیزاین",
+          "ipa": "/dɪˈzaɪn/"
+        },
+        "meaning": {
+          "fa": "طراحی",
+          "en": "design; planning how something looks"
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "projects",
+        "text": "projects",
+        "pronunciation": {
+          "faReading": "پْراجِکتس",
+          "ipa": "/ˈprɑdʒɛkts/"
+        },
+        "meaning": {
+          "fa": "پروژه‌ها",
+          "en": "projects; planned pieces of work"
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این جمله جدا ترجمه نمی‌شود",
+          "en": "it; no separate meaning here"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ قبل از انجام کار",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "may",
+        "text": "may",
+        "pronunciation": {
+          "faReading": "مِی",
+          "ipa": "/meɪ/"
+        },
+        "meaning": {
+          "fa": "اجازه داشتن",
+          "en": "may; asking permission"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "ask",
+        "text": "ask",
+        "pronunciation": {
+          "faReading": "اَسک",
+          "ipa": "/æsk/"
+        },
+        "meaning": {
+          "fa": "پرسیدن؛ درخواست کردن",
+          "en": "ask; request information or an action"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "tasks",
+        "text": "tasks",
+        "pronunciation": {
+          "faReading": "تَسکس",
+          "ipa": "/tæsks/"
+        },
+        "meaning": {
+          "fa": "کارها؛ وظیفه‌ها",
+          "en": "tasks; pieces of work to do"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "working",
+        "text": "working",
+        "pronunciation": {
+          "faReading": "وِرکینگ",
+          "ipa": "/ˈwɝkɪŋ/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "working; doing work"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "website",
+        "text": "website",
+        "pronunciation": {
+          "faReading": "وِب‌سایت",
+          "ipa": "/ˈwɛbˌsaɪt/"
+        },
+        "meaning": {
+          "fa": "وب‌سایت",
+          "en": "website; a set of internet pages"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "redesign",
+        "text": "redesign",
+        "pronunciation": {
+          "faReading": "ری‌دیزاین",
+          "ipa": "/ˌridɪˈzaɪn/"
+        },
+        "meaning": {
+          "fa": "طراحی دوباره",
+          "en": "redesign; a new design for something"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "join",
+        "text": "join",
+        "pronunciation": {
+          "faReading": "جوین",
+          "ipa": "/dʒɔɪn/"
+        },
+        "meaning": {
+          "fa": "پیوستن به؛ عضو شدن",
+          "en": "join; become part of a group"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "layout",
+        "text": "layout",
+        "pronunciation": {
+          "faReading": "لِی‌آوت",
+          "ipa": "/ˈleɪˌaʊt/"
+        },
+        "meaning": {
+          "fa": "چیدمان صفحه",
+          "en": "layout; the arrangement of a page"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "group",
+        "text": "group",
+        "pronunciation": {
+          "faReading": "گْروپ",
+          "ipa": "/ɡrup/"
+        },
+        "meaning": {
+          "fa": "گروه",
+          "en": "group; a set of people"
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; own or experience"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "experience",
+        "text": "experience",
+        "pronunciation": {
+          "faReading": "ایکس‌پیری‌اِنس",
+          "ipa": "/ɪkˈspɪriəns/"
+        },
+        "meaning": {
+          "fa": "تجربه",
+          "en": "experience; knowledge gained by doing"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "start",
+        "text": "start",
+        "pronunciation": {
+          "faReading": "سْتارت",
+          "ipa": "/stɑrt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن",
+          "en": "start; begin"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "همین حالا؛ همراه away",
+          "en": "right; with away, immediately"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "away",
+        "text": "away",
+        "pronunciation": {
+          "faReading": "اِوِی",
+          "ipa": "/əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "در right away یعنی فوری",
+          "en": "away; part of right away"
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly right"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "meets",
+        "text": "meets",
+        "pronunciation": {
+          "faReading": "میتس",
+          "ipa": "/mits/"
+        },
+        "meaning": {
+          "fa": "دور هم جمع می‌شود",
+          "en": "meets; comes together"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "every",
+        "text": "every",
+        "pronunciation": {
+          "faReading": "اِوری",
+          "ipa": "/ˈɛvri/"
+        },
+        "meaning": {
+          "fa": "هر",
+          "en": "every; each one"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ در ساعت",
+          "en": "at; a place or exact time"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "nine",
+        "text": "nine",
+        "pronunciation": {
+          "faReading": "ناین",
+          "ipa": "/naɪn/"
+        },
+        "meaning": {
+          "fa": "نه",
+          "en": "nine; 9"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "planning",
+        "text": "planning",
+        "pronunciation": {
+          "faReading": "پْلَنینگ",
+          "ipa": "/ˈplænɪŋ/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ریزی",
+          "en": "planning; deciding what to do"
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا؛ در is there یعنی وجود دارد",
+          "en": "there; that place, or introduces existence"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "on-time",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "سرِ وقت؛ با time",
+          "en": "on; in on time, not late"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "anything",
+        "text": "anything",
+        "pronunciation": {
+          "faReading": "اِنی‌ثینگ",
+          "ipa": "/ˈɛniˌθɪŋ/"
+        },
+        "meaning": {
+          "fa": "چیزی؛ هر چیزی",
+          "en": "anything; any thing"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "else",
+        "text": "else",
+        "pronunciation": {
+          "faReading": "اِلس",
+          "ipa": "/ɛls/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ علاوه بر این",
+          "en": "else; additional"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "should",
+        "text": "should",
+        "pronunciation": {
+          "faReading": "شود",
+          "ipa": "/ʃʊd/"
+        },
+        "meaning": {
+          "fa": "بهتر است؛ لازم است",
+          "en": "should; advice or expected action"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "office",
+        "text": "office",
+        "pronunciation": {
+          "faReading": "آفیس",
+          "ipa": "/ˈɔfɪs/"
+        },
+        "meaning": {
+          "fa": "اداره؛ دفتر کار",
+          "en": "office; a workplace for desk work"
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "kitchen",
+        "text": "kitchen",
+        "pronunciation": {
+          "faReading": "کیچِن",
+          "ipa": "/ˈkɪtʃən/"
+        },
+        "meaning": {
+          "fa": "آشپزخانه",
+          "en": "kitchen; a room for preparing food"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "second",
+        "text": "second",
+        "pronunciation": {
+          "faReading": "سِکِند",
+          "ipa": "/ˈsɛkənd/"
+        },
+        "meaning": {
+          "fa": "دوم",
+          "en": "second; after the first"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "floor",
+        "text": "floor",
+        "pronunciation": {
+          "faReading": "فْلور",
+          "ipa": "/flɔr/"
+        },
+        "meaning": {
+          "fa": "طبقهٔ ساختمان",
+          "en": "floor; a level in a building"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "everyone",
+        "text": "everyone",
+        "pronunciation": {
+          "faReading": "اِوری‌وان",
+          "ipa": "/ˈɛvriwʌn/"
+        },
+        "meaning": {
+          "fa": "همه؛ همگی",
+          "en": "everyone; all the people"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "takes",
+        "text": "takes",
+        "pronunciation": {
+          "faReading": "تِیکس",
+          "ipa": "/teɪks/"
+        },
+        "meaning": {
+          "fa": "می‌خورد؛ در takes lunch",
+          "en": "takes; has a meal in takes lunch"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "lunch",
+        "text": "lunch",
+        "pronunciation": {
+          "faReading": "لَنچ",
+          "ipa": "/lʌntʃ/"
+        },
+        "meaning": {
+          "fa": "ناهار",
+          "en": "lunch; a midday meal"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "noon",
+        "text": "noon",
+        "pronunciation": {
+          "faReading": "نون",
+          "ipa": "/nun/"
+        },
+        "meaning": {
+          "fa": "ظهر؛ ساعت دوازده روز",
+          "en": "noon; twelve o'clock in the day"
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, that is very helpful for my first week.",
+          "translation": {
+            "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+            "en": "Thank you, that is very helpful for my first week."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Thank you, that is very helpful for my first week.",
+          "translation": {
+            "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+            "en": "Thank you, that is very helpful for my first week."
+          }
+        }
+      },
+      {
+        "id": "helpful",
+        "text": "helpful",
+        "pronunciation": {
+          "faReading": "هِلپ‌فُل",
+          "ipa": "/ˈhɛlpfəl/"
+        },
+        "meaning": {
+          "fa": "مفید؛ کمک‌کننده",
+          "en": "helpful; useful or helping others"
+        },
+        "example": {
+          "text": "Thank you, that is very helpful for my first week.",
+          "translation": {
+            "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+            "en": "Thank you, that is very helpful for my first week."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Thank you, that is very helpful for my first week.",
+          "translation": {
+            "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+            "en": "Thank you, that is very helpful for my first week."
+          }
+        }
+      },
+      {
+        "id": "first",
+        "text": "first",
+        "pronunciation": {
+          "faReading": "فِرست",
+          "ipa": "/fɝst/"
+        },
+        "meaning": {
+          "fa": "اولین",
+          "en": "first; before all the others"
+        },
+        "example": {
+          "text": "Thank you, that is very helpful for my first week.",
+          "translation": {
+            "fa": "ممنون، این برای هفتهٔ اولم خیلی مفید است.",
+            "en": "Thank you, that is very helpful for my first week."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "any",
+        "text": "any",
+        "pronunciation": {
+          "faReading": "اِنی",
+          "ipa": "/ˈɛni/"
+        },
+        "meaning": {
+          "fa": "هیچ؛ هر؛ مقداری",
+          "en": "any; an unspecified amount"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "questions",
+        "text": "questions",
+        "pronunciation": {
+          "faReading": "کْوِسچِنز",
+          "ipa": "/ˈkwɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پرسش‌ها",
+          "en": "questions; things people ask"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "راحت باش؛ همراه free",
+          "en": "feel; with free, do not hesitate"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "free",
+        "text": "free",
+        "pronunciation": {
+          "faReading": "فْری",
+          "ipa": "/fri/"
+        },
+        "meaning": {
+          "fa": "راحت؛ با feel",
+          "en": "free; in feel free, do not hesitate"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "I appreciate that, I am sure I will enjoy working here.",
+          "translation": {
+            "fa": "از این لطف ممنونم؛ مطمئنم از کار کردن اینجا لذت می‌برم.",
+            "en": "I appreciate that, I am sure I will enjoy working here."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "مطمئن",
+          "en": "sure; certain"
+        },
+        "example": {
+          "text": "I appreciate that, I am sure I will enjoy working here.",
+          "translation": {
+            "fa": "از این لطف ممنونم؛ مطمئنم از کار کردن اینجا لذت می‌برم.",
+            "en": "I appreciate that, I am sure I will enjoy working here."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "I appreciate that, I am sure I will enjoy working here.",
+          "translation": {
+            "fa": "از این لطف ممنونم؛ مطمئنم از کار کردن اینجا لذت می‌برم.",
+            "en": "I appreciate that, I am sure I will enjoy working here."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "have-presence",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتنِ حضور شما",
+          "en": "have; welcome you here"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "board",
+        "text": "board",
+        "pronunciation": {
+          "faReading": "بورد",
+          "ipa": "/bɔrd/"
+        },
+        "meaning": {
+          "fa": "در on board یعنی عضو تیم",
+          "en": "board; in on board, part of the team"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "let",
+        "text": "let",
+        "pronunciation": {
+          "faReading": "لِت",
+          "ipa": "/lɛt/"
+        },
+        "meaning": {
+          "fa": "اجازه دادن؛ گذاشتن",
+          "en": "let; allow someone to do something"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "شروع کردن؛ همراه started",
+          "en": "get; with started, begin"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "started",
+        "text": "started",
+        "pronunciation": {
+          "faReading": "سْتارتِد",
+          "ipa": "/ˈstɑrtɪd/"
+        },
+        "meaning": {
+          "fa": "شروع کرده؛ در get started یعنی شروع کردن",
+          "en": "started; part of get started"
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "embedded-questions",
+        "title": {
+          "fa": "سؤال مؤدبانه داخل سؤال",
+          "en": "Polite embedded questions"
+        },
+        "explanation": {
+          "fa": "در may I ask what the main tasks are، سؤال اصلی may I ask است. بخش بعدی ترتیب جملهٔ معمولی دارد: tasks are، نه are tasks. این انتخاب پرسش را مؤدبانه‌تر می‌کند.",
+          "en": "In may I ask what the main tasks are, the outer question is may I ask. Inside it, keep statement order: tasks are, not are tasks. This makes the request less direct."
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        },
+        "takeaway": {
+          "fa": "داخل سؤال غیرمستقیم، جای معمول فعل و نام را حفظ کن.",
+          "en": "Keep statement order inside an embedded question."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "سؤال مؤدبانه داخل سؤال",
+              "en": "Polite embedded questions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "may I ask what the main tasks are this week?"
+                },
+                {
+                  "text": "may I ask + what + subject + verb"
+                },
+                {
+                  "fa": "می‌توانم بپرسم کارهای این هفته چیست؟",
+                  "en": "A less direct question"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "current-project-and-routine",
+        "title": {
+          "fa": "کار فعلی در برابر برنامهٔ همیشگی",
+          "en": "Current work versus routine"
+        },
+        "explanation": {
+          "fa": "are working پروژهٔ در جریان این هفته را نشان می‌دهد؛ meets و takes برنامه‌های معمول‌اند. team و everyone با فعل دارای s آمده‌اند؛ everyone از نظر معنی چند نفر را دربرمی‌گیرد ولی فعلش مفرد است.",
+          "en": "Are working describes the current project. Meets and takes describe routines. Team and everyone take singular verbs here: everyone refers to people individually, so takes has s."
+        },
+        "example": {
+          "text": "We are working on the website redesign, and you will join the layout group.",
+          "translation": {
+            "fa": "داریم روی طراحی دوبارهٔ وب‌سایت کار می‌کنیم و تو به گروه چیدمان صفحه می‌پیوندی.",
+            "en": "We are working on the website redesign, and you will join the layout group."
+          }
+        },
+        "takeaway": {
+          "fa": "برای کار در جریان are working؛ برای عادت meets.",
+          "en": "Use are working for current work and meets for a routine."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "کار فعلی در برابر برنامهٔ همیشگی",
+              "en": "Current work versus routine"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We are working on the website redesign"
+                },
+                {
+                  "text": "are + working + on + project"
+                },
+                {
+                  "fa": "داریم روی بازطراحی کار می‌کنیم",
+                  "en": "A current project"
+                }
+              ],
+              [
+                {
+                  "text": "the team meets every morning"
+                },
+                {
+                  "text": "team + meets + repeated time"
+                },
+                {
+                  "fa": "تیم هر صبح جلسه دارد",
+                  "en": "A routine"
+                }
+              ],
+              [
+                {
+                  "text": "everyone takes lunch together"
+                },
+                {
+                  "text": "everyone + takes + lunch"
+                },
+                {
+                  "fa": "همه با هم ناهار می‌خورند",
+                  "en": "A singular verb with everyone"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "modal-and-future",
+        "title": {
+          "fa": "توانایی، انتظار و آینده",
+          "en": "Ability, expectation and future"
+        },
+        "explanation": {
+          "fa": "can start توانایی شروع کار را بیان می‌کند؛ should know چیزی را می‌پرسد که دانستنش لازم یا مفید است. will join و will be there برنامه و تعهد آرش را می‌گویند. پس از هرکدام شکل سادهٔ فعل می‌آید.",
+          "en": "Can start expresses ability; should know asks about useful or expected knowledge. Will join and will be there express a plan and a commitment. Each modal is followed by a base verb."
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        },
+        "takeaway": {
+          "fa": "can، should و will به فعل بعدی s یا to نمی‌دهند.",
+          "en": "Do not add s or to to the verb after can, should or will."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "توانایی، انتظار و آینده",
+              "en": "Ability, expectation and future"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I can start right away"
+                },
+                {
+                  "text": "can + start"
+                },
+                {
+                  "fa": "می‌توانم فوری شروع کنم",
+                  "en": "Ability"
+                }
+              ],
+              [
+                {
+                  "text": "I should know"
+                },
+                {
+                  "text": "should + know"
+                },
+                {
+                  "fa": "لازم است بدانم",
+                  "en": "Useful or expected knowledge"
+                }
+              ],
+              [
+                {
+                  "text": "you will join the layout group"
+                },
+                {
+                  "text": "will + join"
+                },
+                {
+                  "fa": "به گروه چیدمان می‌پیوندی",
+                  "en": "A plan"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "there-and-else",
+        "title": {
+          "fa": "پرسیدن دربارهٔ چیزهای دیگر",
+          "en": "Asking if anything else exists"
+        },
+        "explanation": {
+          "fa": "Is there anything else ...? دربارهٔ وجود چیز دیگری می‌پرسد. there در این ساخت مکان نیست؛ اما در I will be there on time یعنی «آنجا». else پس از anything یعنی چیز دیگری علاوه بر گفته‌های قبلی.",
+          "en": "Is there anything else ...? asks whether an additional thing exists. There is not a location in this pattern, but it is a location in I will be there on time. Else means additional."
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        },
+        "takeaway": {
+          "fa": "there همیشه معنی مکانی «آنجا» ندارد.",
+          "en": "There does not always mean a place."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن دربارهٔ چیزهای دیگر",
+              "en": "Asking if anything else exists"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "is there anything else"
+                },
+                {
+                  "text": "is there + anything else?"
+                },
+                {
+                  "fa": "چیز دیگری هست؟",
+                  "en": "Asking about existence"
+                }
+              ],
+              [
+                {
+                  "text": "I will be there on time"
+                },
+                {
+                  "text": "be + there + on time"
+                },
+                {
+                  "fa": "سر وقت آنجا خواهم بود",
+                  "en": "A place and punctuality"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "time-and-location",
+        "title": {
+          "fa": "حرف‌های کوچک برای زمان و مکان",
+          "en": "Time and place phrases"
+        },
+        "explanation": {
+          "fa": "at برای ساعت دقیق آمده: at nine و at noon. on the second floor یعنی در طبقهٔ دوم. for planning هدف جلسه را با ing می‌گوید؛ enjoy working هم نشان می‌دهد پس از enjoy نام فعالیت با ing می‌آید.",
+          "en": "At marks exact times: at nine and at noon. On the second floor gives a level in the building. For planning gives a purpose using ing; enjoy working also uses an ing activity after enjoy."
+        },
+        "example": {
+          "text": "The kitchen is on the second floor, and everyone takes lunch together at noon.",
+          "translation": {
+            "fa": "آشپزخانه طبقهٔ دوم است و همه ظهر با هم ناهار می‌خورند.",
+            "en": "The kitchen is on the second floor, and everyone takes lunch together at noon."
+          }
+        },
+        "takeaway": {
+          "fa": "at nine، on the second floor و enjoy working را جدا تمرین کن.",
+          "en": "Practice at nine, on the second floor and enjoy working."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حرف‌های کوچک برای زمان و مکان",
+              "en": "Time and place phrases"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "at nine / at noon"
+                },
+                {
+                  "text": "at + exact time"
+                },
+                {
+                  "fa": "ساعت نه / ظهر",
+                  "en": "Meeting and lunch times"
+                }
+              ],
+              [
+                {
+                  "text": "on the second floor"
+                },
+                {
+                  "text": "on + ordinal + floor"
+                },
+                {
+                  "fa": "در طبقهٔ دوم",
+                  "en": "A building level"
+                }
+              ],
+              [
+                {
+                  "text": "for planning"
+                },
+                {
+                  "text": "for + planning"
+                },
+                {
+                  "fa": "برای برنامه‌ریزی",
+                  "en": "Purpose"
+                }
+              ],
+              [
+                {
+                  "text": "enjoy working here"
+                },
+                {
+                  "text": "enjoy + working + here"
+                },
+                {
+                  "fa": "از کار اینجا لذت بردن",
+                  "en": "Enjoy followed by an ing activity"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "if-help",
+        "title": {
+          "fa": "پیشنهاد کمک با if",
+          "en": "Offering help with if"
+        },
+        "explanation": {
+          "fa": "If you have any questions شرط دریافت کمک را معرفی می‌کند. پس از آن feel free to ask یعنی بدون تردید بپرس. free اینجا به معنی رایگان نیست. ask me or the team دو راه درخواست کمک می‌دهد.",
+          "en": "If you have any questions introduces a possible situation. Feel free to ask invites action without hesitation; free does not mean without cost here. Me or the team gives two possible sources of help."
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        },
+        "takeaway": {
+          "fa": "پس از feel free to، خودِ کار می‌آید.",
+          "en": "Use a base action after feel free to."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد کمک با if",
+              "en": "Offering help with if"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "If you have any questions"
+                },
+                {
+                  "text": "if + subject + present verb"
+                },
+                {
+                  "fa": "اگر پرسشی داشتی",
+                  "en": "A possible situation"
+                }
+              ],
+              [
+                {
+                  "text": "feel free to ask me or the team"
+                },
+                {
+                  "text": "feel free to + ask + person"
+                },
+                {
+                  "fa": "راحت از من یا تیم بپرس",
+                  "en": "An open invitation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "starting-and-linking",
+        "title": {
+          "fa": "خوشامد و شروع کار",
+          "en": "Welcoming and getting started"
+        },
+        "explanation": {
+          "fa": "Let us get started پیشنهاد شروع مشترک است؛ started در get started با get یک عبارت می‌سازد. glad to have you on board از پیوستن فرد به تیم استقبال می‌کند. so نیز تجربهٔ آرش را به توانایی شروع فوری وصل می‌کند.",
+          "en": "Let us get started invites joint action. Get started is a fixed expression for begin. Glad to have you on board welcomes a new team member. So links Arash’s experience to his ability to start immediately."
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        },
+        "takeaway": {
+          "fa": "on board در این دفتر یعنی عضو تیم، نه روی وسیلهٔ نقلیه.",
+          "en": "On board here means part of the team, not on a vehicle."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "خوشامد و شروع کار",
+              "en": "Welcoming and getting started"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "let us get started"
+                },
+                {
+                  "text": "let + us + get started"
+                },
+                {
+                  "fa": "بیایید شروع کنیم",
+                  "en": "Joint action"
+                }
+              ],
+              [
+                {
+                  "text": "glad to have you on board"
+                },
+                {
+                  "text": "glad + to have + person + on board"
+                },
+                {
+                  "fa": "از پیوستنت خوشحالیم",
+                  "en": "Welcoming a team member"
+                }
+              ],
+              [
+                {
+                  "text": "I have experience, so I can start"
+                },
+                {
+                  "text": "reason + so + result"
+                },
+                {
+                  "fa": "تجربه دارم، پس می‌توانم شروع کنم",
+                  "en": "Linking a reason and result"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "good-morning",
+        "text": "Good morning",
+        "pronunciation": {
+          "faReading": "گود مورنینگ",
+          "ipa": "/ɡʊd ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح به‌خیر",
+          "en": "Good morning"
+        },
+        "context": {
+          "fa": "سلام مناسب شروع روز کاری.",
+          "en": "A greeting appropriate at the start of the workday."
+        },
+        "example": {
+          "text": "Good morning, I am Arash, the new designer in the team.",
+          "translation": {
+            "fa": "صبح به‌خیر، من آرش هستم، طراح جدید تیم.",
+            "en": "Good morning, I am Arash, the new designer in the team."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "Welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی",
+          "en": "Welcome"
+        },
+        "context": {
+          "fa": "میلاد ورود آرش را به تیم می‌پذیرد.",
+          "en": "Milad welcomes Arash into the team."
+        },
+        "example": {
+          "text": "Welcome Arash, I am Milad, I manage the design projects here.",
+          "translation": {
+            "fa": "خوش آمدی آرش؛ من میلادم و پروژه‌های طراحی اینجا را مدیریت می‌کنم.",
+            "en": "Welcome Arash, I am Milad, I manage the design projects here."
+          }
+        }
+      },
+      {
+        "id": "great-here",
+        "text": "It is great to be here",
+        "pronunciation": {
+          "faReading": "ایت ایز گْرِیت تو بی هیر",
+          "ipa": "/ɪt ɪz ɡreɪt tə bi hɪr/"
+        },
+        "meaning": {
+          "fa": "از بودن اینجا خوشحالم",
+          "en": "It is great to be here"
+        },
+        "context": {
+          "fa": "واکنش گرم فرد تازه‌وارد به خوشامدگویی.",
+          "en": "A newcomer’s warm response to being welcomed."
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "may-ask",
+        "text": "may I ask",
+        "pronunciation": {
+          "faReading": "مِی آی اَسک",
+          "ipa": "/meɪ aɪ æsk/"
+        },
+        "meaning": {
+          "fa": "می‌توانم بپرسم",
+          "en": "May I ask"
+        },
+        "context": {
+          "fa": "آغاز مؤدبانهٔ یک سؤال؛ پس از آن موضوع پرسش می‌آید.",
+          "en": "A polite lead-in before stating the question."
+        },
+        "example": {
+          "text": "It is great to be here, may I ask what the main tasks are this week?",
+          "translation": {
+            "fa": "از بودن اینجا خوشحالم؛ می‌توانم بپرسم کارهای اصلی این هفته چیست؟",
+            "en": "It is great to be here, may I ask what the main tasks are this week?"
+          }
+        }
+      },
+      {
+        "id": "right-away",
+        "text": "right away",
+        "pronunciation": {
+          "faReading": "رایت اِوِی",
+          "ipa": "/raɪt əˈweɪ/"
+        },
+        "meaning": {
+          "fa": "فوری؛ بی‌درنگ",
+          "en": "Immediately"
+        },
+        "context": {
+          "fa": "روی آمادگی برای شروع بدون تأخیر تأکید دارد.",
+          "en": "Emphasizes readiness to begin without delay."
+        },
+        "example": {
+          "text": "I have experience with layout design, so I can start right away.",
+          "translation": {
+            "fa": "در طراحی چیدمان صفحه تجربه دارم، پس می‌توانم فوری شروع کنم.",
+            "en": "I have experience with layout design, so I can start right away."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "That is perfect",
+        "pronunciation": {
+          "faReading": "ذَت ایز پِرفِکت",
+          "ipa": "/ðæt ɪz ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی است؛ کاملاً مناسب است",
+          "en": "That is perfect"
+        },
+        "context": {
+          "fa": "تأیید مناسب بودن تجربهٔ آرش برای کار تیم.",
+          "en": "Approves the fit between Arash’s experience and the work."
+        },
+        "example": {
+          "text": "That is perfect, the team meets every morning at nine for planning.",
+          "translation": {
+            "fa": "عالی است؛ تیم هر روز صبح ساعت نه برای برنامه‌ریزی جلسه دارد.",
+            "en": "That is perfect, the team meets every morning at nine for planning."
+          }
+        }
+      },
+      {
+        "id": "on-time",
+        "text": "on time",
+        "pronunciation": {
+          "faReading": "آن تایم",
+          "ipa": "/ɑn taɪm/"
+        },
+        "meaning": {
+          "fa": "سر وقت",
+          "en": "Punctually"
+        },
+        "context": {
+          "fa": "یعنی در زمان مقرر، نه فقط در یک زمان نامشخص.",
+          "en": "Means at the scheduled time, not simply at some time."
+        },
+        "example": {
+          "text": "I will be there on time, is there anything else I should know about the office?",
+          "translation": {
+            "fa": "سر وقت آنجا خواهم بود؛ چیز دیگری هست که لازم باشد دربارهٔ دفتر بدانم؟",
+            "en": "I will be there on time, is there anything else I should know about the office?"
+          }
+        }
+      },
+      {
+        "id": "feel-free",
+        "text": "feel free to ask me or the team",
+        "pronunciation": {
+          "faReading": "فیل فْری تو اَسک می اور ذِ تیم",
+          "ipa": "/fil fri tə æsk mi ɔr ðə tim/"
+        },
+        "meaning": {
+          "fa": "راحت از من یا تیم بپرس",
+          "en": "Feel free to ask me or the team"
+        },
+        "context": {
+          "fa": "ترس از سؤال پرسیدن را کم می‌کند؛ free دربارهٔ هزینه نیست.",
+          "en": "Reduces hesitation about asking; free is not about cost."
+        },
+        "example": {
+          "text": "If you have any questions, feel free to ask me or the team.",
+          "translation": {
+            "fa": "اگر پرسشی داشتی، راحت از من یا تیم بپرس.",
+            "en": "If you have any questions, feel free to ask me or the team."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "I appreciate that",
+        "pronunciation": {
+          "faReading": "آی اِپریشی‌اِیت ذَت",
+          "ipa": "/aɪ əˈpriʃiˌeɪt ðæt/"
+        },
+        "meaning": {
+          "fa": "از این لطف ممنونم",
+          "en": "I appreciate that"
+        },
+        "context": {
+          "fa": "تشکر از پیشنهاد کمک؛ that به گفتهٔ میلاد برمی‌گردد.",
+          "en": "Thanks Milad for the offer of help; that refers back to it."
+        },
+        "example": {
+          "text": "I appreciate that, I am sure I will enjoy working here.",
+          "translation": {
+            "fa": "از این لطف ممنونم؛ مطمئنم از کار کردن اینجا لذت می‌برم.",
+            "en": "I appreciate that, I am sure I will enjoy working here."
+          }
+        }
+      },
+      {
+        "id": "on-board",
+        "text": "glad to have you on board",
+        "pronunciation": {
+          "faReading": "گْلَد تو هَو یو آن بورد",
+          "ipa": "/ɡlæd tə hæv ju ɑn bɔrd/"
+        },
+        "meaning": {
+          "fa": "خوشحالیم که به جمع ما پیوستی",
+          "en": "Glad to have you on board"
+        },
+        "context": {
+          "fa": "اصطلاح خوشامد به عضو جدید تیم؛ اشاره به سوارشدن ندارد.",
+          "en": "A welcome to a new team member, not a literal reference to boarding."
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      },
+      {
+        "id": "get-started",
+        "text": "let us get started",
+        "pronunciation": {
+          "faReading": "لِت اَس گِت سْتارتِد",
+          "ipa": "/lɛt ʌs ɡɛt ˈstɑrtɪd/"
+        },
+        "meaning": {
+          "fa": "بیایید شروع کنیم",
+          "en": "Let us get started"
+        },
+        "context": {
+          "fa": "دعوت به آغاز کار مشترک، نه دستور فقط به آرش.",
+          "en": "Invites joint action rather than ordering only Arash."
+        },
+        "example": {
+          "text": "We are glad to have you on board, let us get started.",
+          "translation": {
+            "fa": "خوشحالیم که به جمع ما پیوستی؛ بیایید شروع کنیم.",
+            "en": "We are glad to have you on board, let us get started."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کارکرد اصلی گفت‌وگو چیست؟",
+          "en": "What is the main function of the conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گزارش یک مشکل طراحی",
+              "en": "Reporting a design problem"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "مصاحبه برای استخدام طراح",
+              "en": "Interviewing a designer for a job"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آشناکردن همکار تازه با تیم و برنامه‌ها",
+              "en": "Orienting a new colleague to the team and routines"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "آرش خود را طراح جدید معرفی می‌کند و میلاد پروژه و برنامه‌های دفتر را توضیح می‌دهد.",
+          "en": "Arash introduces himself as the new designer, and Milad explains the project and office routines."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t06",
+          "t08"
+        ]
+      },
+      {
+        "id": "project",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "تیم در حال کار روی کدام پروژه است؟",
+          "en": "Which project is the team working on?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بازطراحی وب‌سایت",
+              "en": "Website redesign"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "طراحی جلد کتاب",
+              "en": "Book-cover design"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بازسازی دفتر",
+              "en": "Office renovation"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "میلاد می‌گوید We are working on the website redesign.",
+          "en": "Milad says We are working on the website redesign."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "group",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرش به کدام گروه می‌پیوندد؟",
+          "en": "Which group will Arash join?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گروه پژوهش",
+              "en": "The research group"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "گروه چیدمان صفحه",
+              "en": "The layout group"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "گروه پشتیبانی",
+              "en": "The support group"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "میلاد مستقیماً از layout group نام می‌برد.",
+          "en": "Milad explicitly names the layout group."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "meeting-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "جلسهٔ برنامه‌ریزی روزانه چه زمانی است؟",
+          "en": "When is the daily planning meeting?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هشت صبح",
+              "en": "Eight in the morning"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ده صبح",
+              "en": "Ten in the morning"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "نه صبح",
+              "en": "Nine in the morning"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "میلاد می‌گوید تیم هر صبح ساعت نه جلسه دارد.",
+          "en": "Milad says the team meets every morning at nine."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "kitchen",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آشپزخانه در کدام طبقه است؟",
+          "en": "Which floor is the kitchen on?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "طبقهٔ دوم",
+              "en": "The second floor"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "طبقهٔ اول",
+              "en": "The first floor"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "طبقهٔ سوم",
+              "en": "The third floor"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "میلاد می‌گوید The kitchen is on the second floor.",
+          "en": "Milad says The kitchen is on the second floor."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "lunch",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "همکاران چه زمانی با هم ناهار می‌خورند؟",
+          "en": "When do colleagues have lunch together?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ساعت یک",
+              "en": "At one"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ظهر",
+              "en": "At noon"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ساعت یازده",
+              "en": "At eleven"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "میلاد زمان ناهار را at noon می‌گوید.",
+          "en": "Milad gives lunchtime as at noon."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

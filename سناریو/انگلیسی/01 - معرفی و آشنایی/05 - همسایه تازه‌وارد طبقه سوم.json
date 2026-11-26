@@ -1,0 +1,3343 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s05",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "همسایه تازه‌وارد طبقه سوم",
+    "en": "A welcome from a new neighbor"
+  },
+  "objective": {
+    "fa": "تشخیص بده فرهاد چه زمانی آمده، چه نوشیدنی می‌خواهد و نادیا چه کمکی پیشنهاد می‌دهد.",
+    "en": "Identify when Farhad moved in, which drink he wants, and what help Nadia offers."
+  },
+  "speakers": [
+    {
+      "id": "nadia",
+      "name": "Nadia",
+      "gender": "woman"
+    },
+    {
+      "id": "farhad",
+      "name": "Farhad",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nadia",
+      "text": "Hello, I think you are our new neighbor.",
+      "translation": {
+        "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+        "en": "Hello, I think you are our new neighbor."
+      },
+      "tokens": [
+        {
+          "surface": "Hello,",
+          "gloss": {
+            "fa": "سلام،",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر می‌کنم",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستید",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "neighbor.",
+          "gloss": {
+            "fa": "همسایه.",
+            "en": "neighbor; someone living nearby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "farhad",
+      "text": "Yes, I moved in yesterday, my name is Farhad.",
+      "translation": {
+        "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+        "en": "Yes, I moved in yesterday, my name is Farhad."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله،",
+            "en": "yes; an affirmative answer"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "moved",
+          "gloss": {
+            "fa": "نقل مکان کردم",
+            "en": "moved; changed home"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "بخشی از «اسباب‌کشی کردم»",
+            "en": "in; completes moved in"
+          }
+        },
+        {
+          "surface": "yesterday,",
+          "gloss": {
+            "fa": "دیروز،",
+            "en": "yesterday; the day before today"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "name",
+          "gloss": {
+            "fa": "نام",
+            "en": "name; what a person is called"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "Farhad.",
+          "gloss": {
+            "fa": "فرهاد.",
+            "en": "Farhad; a name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nadia",
+      "text": "I am Nadia, welcome to the building, how do you like it so far?",
+      "translation": {
+        "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+        "en": "I am Nadia, welcome to the building, how do you like it so far?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Nadia,",
+          "gloss": {
+            "fa": "نادیا،",
+            "en": "Nadia; a name"
+          }
+        },
+        {
+          "surface": "welcome",
+          "gloss": {
+            "fa": "خوش آمدید",
+            "en": "welcome; a greeting or reply to thanks"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "building,",
+          "gloss": {
+            "fa": "ساختمان،",
+            "en": "building; a structure with rooms"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور",
+            "en": "how; asking about manner or condition"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست دارید",
+            "en": "like; enjoy"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن را",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "تا اینجا؛ همراه far",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "far?",
+          "gloss": {
+            "fa": "تا اینجا؛ همراه so؟",
+            "en": "far; in so far, until now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "farhad",
+      "text": "The apartment is nice, but the boxes are still everywhere.",
+      "translation": {
+        "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+        "en": "The apartment is nice, but the boxes are still everywhere."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "apartment",
+          "gloss": {
+            "fa": "آپارتمان",
+            "en": "apartment; a home in a building"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "nice,",
+          "gloss": {
+            "fa": "خوب،",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; introduces contrast"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "boxes",
+          "gloss": {
+            "fa": "جعبه‌ها",
+            "en": "boxes; containers for things"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "still",
+          "gloss": {
+            "fa": "هنوز",
+            "en": "still; continuing until now"
+          }
+        },
+        {
+          "surface": "everywhere.",
+          "gloss": {
+            "fa": "همه‌جا.",
+            "en": "everywhere; in all places"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nadia",
+      "text": "Do you need help with your things, I can lend you a hand.",
+      "translation": {
+        "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+        "en": "Do you need help with your things, I can lend you a hand."
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "need",
+          "gloss": {
+            "fa": "نیاز دارید",
+            "en": "need; require"
+          }
+        },
+        {
+          "surface": "help",
+          "gloss": {
+            "fa": "کمک",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "برای",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "things,",
+          "gloss": {
+            "fa": "وسایل،",
+            "en": "things; objects or belongings"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "lend",
+          "gloss": {
+            "fa": "بخشی از «کمک کردن»",
+            "en": "part of lend a hand; help"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "به شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "کمک؛ همراه lend",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "hand.",
+          "gloss": {
+            "fa": "بخشی از «کمک کردن»",
+            "en": "part of lend a hand; help"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "farhad",
+      "text": "That would be great, thank you for being so kind.",
+      "translation": {
+        "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+        "en": "That would be great, thank you for being so kind."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "می‌شد",
+            "en": "would; makes an offer or idea gentler"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "باشد",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "great,",
+          "gloss": {
+            "fa": "عالی،",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "being",
+          "gloss": {
+            "fa": "بودن",
+            "en": "being; showing a quality"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "این‌قدر",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "kind.",
+          "gloss": {
+            "fa": "مهربان.",
+            "en": "kind; caring, or a type"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nadia",
+      "text": "No problem at all, do you want some tea or coffee?",
+      "translation": {
+        "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+        "en": "No problem at all, do you want some tea or coffee?"
+      },
+      "tokens": [
+        {
+          "surface": "No",
+          "gloss": {
+            "fa": "هیچ",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "problem",
+          "gloss": {
+            "fa": "مشکل",
+            "en": "problem; something difficult"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "اصلاً؛ همراه all",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "all,",
+          "gloss": {
+            "fa": "اصلاً؛ همراه at،",
+            "en": "all; every part"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "برای سؤال",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "می‌خواهید",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "مقداری",
+            "en": "some; an amount or number"
+          }
+        },
+        {
+          "surface": "tea",
+          "gloss": {
+            "fa": "چای",
+            "en": "tea; a drink made from tea leaves"
+          }
+        },
+        {
+          "surface": "or",
+          "gloss": {
+            "fa": "یا",
+            "en": "or; gives a choice"
+          }
+        },
+        {
+          "surface": "coffee?",
+          "gloss": {
+            "fa": "قهوه؟",
+            "en": "coffee; a hot drink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "farhad",
+      "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+      "translation": {
+        "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+        "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+      },
+      "tokens": [
+        {
+          "surface": "A",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "cup",
+          "gloss": {
+            "fa": "فنجان",
+            "en": "cup; a small drinking container"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "tea",
+          "gloss": {
+            "fa": "چای",
+            "en": "tea; a drink made from tea leaves"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "می‌شد",
+            "en": "would; makes an offer or idea gentler"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "باشد",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "lovely,",
+          "gloss": {
+            "fa": "دلپذیر،",
+            "en": "lovely; very pleasant"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "به بخش بعدی فعل کمک می‌کند",
+            "en": "have; links the past to now"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "had",
+          "gloss": {
+            "fa": "داشته‌ام",
+            "en": "had; past form of have"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "unpack",
+          "gloss": {
+            "fa": "باز کردن وسایل",
+            "en": "unpack; take belongings out"
+          }
+        },
+        {
+          "surface": "yet.",
+          "gloss": {
+            "fa": "هنوز.",
+            "en": "yet; until now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "nadia",
+      "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+      "translation": {
+        "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+        "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "bring",
+          "gloss": {
+            "fa": "بیاورم",
+            "en": "bring; carry something here"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن را",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "تا؛ در زمانِ",
+            "en": "in; after a short time"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "minute,",
+          "gloss": {
+            "fa": "دقیقه،",
+            "en": "minute; sixty seconds"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "help",
+          "gloss": {
+            "fa": "کمک کنم",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "به شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "برای",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "heavy",
+          "gloss": {
+            "fa": "سنگین",
+            "en": "heavy; hard to lift"
+          }
+        },
+        {
+          "surface": "boxes.",
+          "gloss": {
+            "fa": "جعبه‌ها.",
+            "en": "boxes; containers for things"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "farhad",
+      "text": "I really appreciate your help, you are a wonderful neighbor.",
+      "translation": {
+        "fa": "واقعاً از کمکتان ممنونم؛ همسایهٔ فوق‌العاده‌ای هستید.",
+        "en": "I really appreciate your help, you are a wonderful neighbor."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی می‌کنم از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "help,",
+          "gloss": {
+            "fa": "کمک،",
+            "en": "help; make a task easier"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستید",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "wonderful",
+          "gloss": {
+            "fa": "فوق‌العاده",
+            "en": "wonderful; very good"
+          }
+        },
+        {
+          "surface": "neighbor.",
+          "gloss": {
+            "fa": "همسایه.",
+            "en": "neighbor; someone living nearby"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "neighbor",
+        "text": "neighbor",
+        "pronunciation": {
+          "faReading": "نِیبِر",
+          "ipa": "/ˈneɪbɚ/"
+        },
+        "meaning": {
+          "fa": "همسایه",
+          "en": "neighbor; someone living nearby"
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; an affirmative answer"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "moved",
+        "text": "moved",
+        "pronunciation": {
+          "faReading": "موود",
+          "ipa": "/muvd/"
+        },
+        "meaning": {
+          "fa": "نقل مکان کرد",
+          "en": "moved; changed home"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "بخشی از «اسباب‌کشی کردم»",
+          "en": "in; completes moved in"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "yesterday",
+        "text": "yesterday",
+        "pronunciation": {
+          "faReading": "یِستِردِی",
+          "ipa": "/ˈjɛstɚdeɪ/"
+        },
+        "meaning": {
+          "fa": "دیروز",
+          "en": "yesterday; the day before today"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "name",
+        "text": "name",
+        "pronunciation": {
+          "faReading": "نِیم",
+          "ipa": "/neɪm/"
+        },
+        "meaning": {
+          "fa": "نام؛ اسم",
+          "en": "name; what a person is called"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی؛ خواهش می‌کنم",
+          "en": "welcome; a greeting or reply to thanks"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به",
+          "en": "to; toward a person or place"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "building",
+        "text": "building",
+        "pronunciation": {
+          "faReading": "بیلدینگ",
+          "ipa": "/ˈbɪldɪŋ/"
+        },
+        "meaning": {
+          "fa": "ساختمان",
+          "en": "building; a structure with rooms"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن",
+          "en": "like; enjoy"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; the thing mentioned"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "far",
+        "text": "far",
+        "pronunciation": {
+          "faReading": "فار",
+          "ipa": "/fɑr/"
+        },
+        "meaning": {
+          "fa": "دور؛ در so far یعنی تا الان",
+          "en": "far; in so far, until now"
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "apartment",
+        "text": "apartment",
+        "pronunciation": {
+          "faReading": "اِپارتْمِنت",
+          "ipa": "/əˈpɑrtmənt/"
+        },
+        "meaning": {
+          "fa": "آپارتمان",
+          "en": "apartment; a home in a building"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "اما؛ ولی",
+          "en": "but; introduces contrast"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "boxes",
+        "text": "boxes",
+        "pronunciation": {
+          "faReading": "باکسِز",
+          "ipa": "/ˈbɑksɪz/"
+        },
+        "meaning": {
+          "fa": "جعبه‌ها",
+          "en": "boxes; containers for things"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "still",
+        "text": "still",
+        "pronunciation": {
+          "faReading": "سْتیل",
+          "ipa": "/stɪl/"
+        },
+        "meaning": {
+          "fa": "هنوز",
+          "en": "still; continuing until now"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "everywhere",
+        "text": "everywhere",
+        "pronunciation": {
+          "faReading": "اِوری‌وِر",
+          "ipa": "/ˈɛvriˌwɛr/"
+        },
+        "meaning": {
+          "fa": "همه‌جا",
+          "en": "everywhere; in all places"
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        }
+      },
+      {
+        "id": "need",
+        "text": "need",
+        "pronunciation": {
+          "faReading": "نید",
+          "ipa": "/nid/"
+        },
+        "meaning": {
+          "fa": "نیاز داشتن",
+          "en": "need; require"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "help",
+        "text": "help",
+        "pronunciation": {
+          "faReading": "هِلپ",
+          "ipa": "/hɛlp/"
+        },
+        "meaning": {
+          "fa": "کمک؛ کمک کردن",
+          "en": "help; make a task easier"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "things",
+        "text": "things",
+        "pronunciation": {
+          "faReading": "ثینگْز",
+          "ipa": "/θɪŋz/"
+        },
+        "meaning": {
+          "fa": "چیزها؛ وسایل",
+          "en": "things; objects or belongings"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "lend",
+        "text": "lend",
+        "pronunciation": {
+          "faReading": "لِند",
+          "ipa": "/lɛnd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کمک کردن»",
+          "en": "part of lend a hand; help"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "hand",
+        "text": "hand",
+        "pronunciation": {
+          "faReading": "هَند",
+          "ipa": "/hænd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «کمک کردن»",
+          "en": "part of lend a hand; help"
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "می‌شد؛ در پیشنهاد مؤدبانه",
+          "en": "would; makes an offer or idea gentler"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "being",
+        "text": "being",
+        "pronunciation": {
+          "faReading": "بی‌اینگ",
+          "ipa": "/ˈbiɪŋ/"
+        },
+        "meaning": {
+          "fa": "بودن؛ رفتار کردن",
+          "en": "being; showing a quality"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "مهربان",
+          "en": "kind; caring and helpful"
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "problem",
+        "text": "problem",
+        "pronunciation": {
+          "faReading": "پْرابلِم",
+          "ipa": "/ˈprɑbləm/"
+        },
+        "meaning": {
+          "fa": "مشکل",
+          "en": "problem; something difficult"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "بخشی از at all؛ یعنی اصلاً",
+          "en": "at; part of at all, in any way"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ اصلاً",
+          "en": "all; every part"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an amount or number"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "tea",
+        "text": "tea",
+        "pronunciation": {
+          "faReading": "تی",
+          "ipa": "/ti/"
+        },
+        "meaning": {
+          "fa": "چای",
+          "en": "tea; a drink made from tea leaves"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "or",
+        "text": "or",
+        "pronunciation": {
+          "faReading": "اور",
+          "ipa": "/ɔr/"
+        },
+        "meaning": {
+          "fa": "یا",
+          "en": "or; gives a choice"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "coffee",
+        "text": "coffee",
+        "pronunciation": {
+          "faReading": "کافی",
+          "ipa": "/ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "قهوه",
+          "en": "coffee; a hot drink"
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "cup",
+        "text": "cup",
+        "pronunciation": {
+          "faReading": "کَپ",
+          "ipa": "/kʌp/"
+        },
+        "meaning": {
+          "fa": "فنجان",
+          "en": "cup; a small drinking container"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "lovely",
+        "text": "lovely",
+        "pronunciation": {
+          "faReading": "لاولی",
+          "ipa": "/ˈlʌvli/"
+        },
+        "meaning": {
+          "fa": "دلپذیر؛ خیلی خوب",
+          "en": "lovely; very pleasant"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "به بخش بعدی فعل کمک می‌کند",
+          "en": "have; links the past to now"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "had",
+        "text": "had",
+        "pronunciation": {
+          "faReading": "هَد",
+          "ipa": "/hæd/"
+        },
+        "meaning": {
+          "fa": "داشته؛ شکل گذشتهٔ have",
+          "en": "had; past form of have"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ قبل از انجام کار",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "unpack",
+        "text": "unpack",
+        "pronunciation": {
+          "faReading": "اَن‌پَک",
+          "ipa": "/ʌnˈpæk/"
+        },
+        "meaning": {
+          "fa": "باز کردن وسایل از جعبه یا چمدان",
+          "en": "unpack; take belongings out"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "yet",
+        "text": "yet",
+        "pronunciation": {
+          "faReading": "یِت",
+          "ipa": "/jɛt/"
+        },
+        "meaning": {
+          "fa": "هنوز؛ تا الان",
+          "en": "yet; until now"
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "bring",
+        "text": "bring",
+        "pronunciation": {
+          "faReading": "بْرینگ",
+          "ipa": "/brɪŋ/"
+        },
+        "meaning": {
+          "fa": "آوردن",
+          "en": "bring; carry something here"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "in-time",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "تا؛ در زمانِ",
+          "en": "in; after a short time"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "minute",
+        "text": "minute",
+        "pronunciation": {
+          "faReading": "مینِت",
+          "ipa": "/ˈmɪnɪt/"
+        },
+        "meaning": {
+          "fa": "دقیقه",
+          "en": "minute; sixty seconds"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "heavy",
+        "text": "heavy",
+        "pronunciation": {
+          "faReading": "هِوی",
+          "ipa": "/ˈhɛvi/"
+        },
+        "meaning": {
+          "fa": "سنگین",
+          "en": "heavy; hard to lift"
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "I really appreciate your help, you are a wonderful neighbor.",
+          "translation": {
+            "fa": "واقعاً از کمکتان ممنونم؛ همسایهٔ فوق‌العاده‌ای هستید.",
+            "en": "I really appreciate your help, you are a wonderful neighbor."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "I really appreciate your help, you are a wonderful neighbor.",
+          "translation": {
+            "fa": "واقعاً از کمکتان ممنونم؛ همسایهٔ فوق‌العاده‌ای هستید.",
+            "en": "I really appreciate your help, you are a wonderful neighbor."
+          }
+        }
+      },
+      {
+        "id": "wonderful",
+        "text": "wonderful",
+        "pronunciation": {
+          "faReading": "واندِرفُل",
+          "ipa": "/ˈwʌndɚfəl/"
+        },
+        "meaning": {
+          "fa": "فوق‌العاده؛ بسیار خوب",
+          "en": "wonderful; very good"
+        },
+        "example": {
+          "text": "I really appreciate your help, you are a wonderful neighbor.",
+          "translation": {
+            "fa": "واقعاً از کمکتان ممنونم؛ همسایهٔ فوق‌العاده‌ای هستید.",
+            "en": "I really appreciate your help, you are a wonderful neighbor."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "present-description",
+        "title": {
+          "fa": "معرفی و توصیف چیزها",
+          "en": "Introducing and describing"
+        },
+        "explanation": {
+          "fa": "برای معرفی بگو I am Nadia. برای توصیف یک چیز از is و برای چند چیز از are استفاده کن. our یعنی مال ما و your یعنی مال شما.",
+          "en": "Say I am Nadia to introduce yourself. Use is for one thing and are for more than one. Our means belonging to us; your means belonging to you."
+        },
+        "example": {
+          "text": "The apartment is nice, but the boxes are still everywhere.",
+          "translation": {
+            "fa": "آپارتمان خوب است، ولی جعبه‌ها هنوز همه‌جا هستند.",
+            "en": "The apartment is nice, but the boxes are still everywhere."
+          }
+        },
+        "takeaway": {
+          "fa": "The boxes are یعنی جعبه‌ها هستند.",
+          "en": "The boxes are describes more than one box."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "معرفی و توصیف چیزها",
+              "en": "Introducing and describing"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "The apartment is nice"
+                },
+                {
+                  "text": "one thing + is + description"
+                },
+                {
+                  "fa": "آپارتمان خوب است",
+                  "en": "Describing one thing"
+                }
+              ],
+              [
+                {
+                  "text": "the boxes are still everywhere"
+                },
+                {
+                  "text": "boxes + are + place"
+                },
+                {
+                  "fa": "جعبه‌ها هنوز همه‌جا هستند",
+                  "en": "Describing several things"
+                }
+              ],
+              [
+                {
+                  "text": "our new neighbor"
+                },
+                {
+                  "text": "our + new + neighbor"
+                },
+                {
+                  "fa": "همسایهٔ جدید ما",
+                  "en": "Whose neighbor"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "moved-in",
+        "title": {
+          "fa": "اسباب‌کشی در گذشته",
+          "en": "Moving in yesterday"
+        },
+        "explanation": {
+          "fa": "moved in یعنی به خانهٔ جدید اسباب‌کشی کردم. yesterday نشان می‌دهد این اتفاق دیروز رخ داده و تمام شده است. در move، برای گذشته فقط d اضافه می‌شود.",
+          "en": "Moved in means started living in a new home. Yesterday shows the move happened the day before today. Add d to move for this past form."
+        },
+        "example": {
+          "text": "Yes, I moved in yesterday, my name is Farhad.",
+          "translation": {
+            "fa": "بله، دیروز اسباب‌کشی کردم؛ اسم من فرهاد است.",
+            "en": "Yes, I moved in yesterday, my name is Farhad."
+          }
+        },
+        "takeaway": {
+          "fa": "moved in را با هم یاد بگیر.",
+          "en": "Learn moved in together."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "اسباب‌کشی در گذشته",
+              "en": "Moving in yesterday"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I moved in yesterday"
+                },
+                {
+                  "text": "I + moved in + yesterday"
+                },
+                {
+                  "fa": "دیروز اسباب‌کشی کردم",
+                  "en": "A finished move"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "everyday-questions",
+        "title": {
+          "fa": "پرسیدن نظر و نیاز",
+          "en": "Asking about opinions and needs"
+        },
+        "explanation": {
+          "fa": "برای سؤال‌های این متن، از Do you و بعد کار استفاده شده: Do you need help? در How do you like it so far?، منظور «تا اینجا نظرت چیست؟» است؛ like اینجا دربارهٔ نظر طرف مقابل است.",
+          "en": "Use Do you followed by an action: Do you need help? How do you like it so far? asks for an opinion about the experience until now."
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        },
+        "takeaway": {
+          "fa": "Do you want tea or coffee? دو انتخاب می‌دهد.",
+          "en": "Do you want tea or coffee? offers two choices."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن نظر و نیاز",
+              "en": "Asking about opinions and needs"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Do you need help"
+                },
+                {
+                  "text": "Do you + need + help?"
+                },
+                {
+                  "fa": "کمک لازم دارید؟",
+                  "en": "Asking about a need"
+                }
+              ],
+              [
+                {
+                  "text": "how do you like it so far?"
+                },
+                {
+                  "text": "How do you like + it + so far?"
+                },
+                {
+                  "fa": "تا اینجا نظرت چیست؟",
+                  "en": "Asking for an opinion"
+                }
+              ],
+              [
+                {
+                  "text": "do you want some tea or coffee?"
+                },
+                {
+                  "text": "Do you want + tea or coffee?"
+                },
+                {
+                  "fa": "چای یا قهوه می‌خواهی؟",
+                  "en": "Giving a choice"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "can-would-will",
+        "title": {
+          "fa": "پیشنهاد کمک و قبول آن",
+          "en": "Offering and accepting help"
+        },
+        "explanation": {
+          "fa": "I can help یعنی می‌توانم کمک کنم. That would be great راه مؤدبانهٔ قبول پیشنهاد است. I will bring it یعنی گوینده تصمیم می‌گیرد آن را بیاورد. پس از can، would و will، کار را به شکل ساده بیاور.",
+          "en": "I can help offers help. That would be great politely accepts. I will bring it gives a decision to bring something. Use the plain action after can, would or will."
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        },
+        "takeaway": {
+          "fa": "can help، would be و will bring را تمرین کن.",
+          "en": "Practice can help, would be and will bring."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد کمک و قبول آن",
+              "en": "Offering and accepting help"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I can help you"
+                },
+                {
+                  "text": "can + help + you"
+                },
+                {
+                  "fa": "می‌توانم کمکت کنم",
+                  "en": "Offering help"
+                }
+              ],
+              [
+                {
+                  "text": "That would be great"
+                },
+                {
+                  "text": "would + be + great"
+                },
+                {
+                  "fa": "خیلی خوب می‌شود",
+                  "en": "Accepting politely"
+                }
+              ],
+              [
+                {
+                  "text": "I will bring it"
+                },
+                {
+                  "text": "will + bring + it"
+                },
+                {
+                  "fa": "آن را می‌آورم",
+                  "en": "A decision"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "not-yet",
+        "title": {
+          "fa": "هنوز وقت نکرده‌ام",
+          "en": "Not having had time yet"
+        },
+        "explanation": {
+          "fa": "I have not had time to unpack yet یعنی «هنوز وقت نکرده‌ام وسایلم را باز کنم». not جمله را منفی و yet معنی «تا الان» را اضافه می‌کند. اینجا have not had را به‌عنوان یک الگوی آماده برای «هنوز وقت نداشته‌ام» یاد بگیر.",
+          "en": "I have not had time to unpack yet means there has been no time for unpacking until now. Not makes it negative; yet means until now. Learn have not had time as a useful whole."
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        },
+        "takeaway": {
+          "fa": "not ... yet یعنی هنوز نه.",
+          "en": "Not ... yet means not until now."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هنوز وقت نکرده‌ام",
+              "en": "Not having had time yet"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I have not had time to unpack yet"
+                },
+                {
+                  "text": "have not had time + to unpack + yet"
+                },
+                {
+                  "fa": "هنوز برای بازکردن وسایل وقت نداشته‌ام",
+                  "en": "A situation continuing up to now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "thanks-for",
+        "title": {
+          "fa": "تشکر برای یک کار",
+          "en": "Thanking someone for an action"
+        },
+        "explanation": {
+          "fa": "پس از Thank you for می‌توانی یک کار را با ing بگویی: being so kind یعنی این‌قدر مهربان بودن. for اینجا دلیل تشکر را نشان می‌دهد. I appreciate your help هم تشکر از کمک طرف مقابل است.",
+          "en": "After Thank you for, an action can end in ing. Being so kind gives the reason for thanks. I appreciate your help is another way to thank someone."
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        },
+        "takeaway": {
+          "fa": "Thank you for + کار با ing.",
+          "en": "Thank you for + an ing action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تشکر برای یک کار",
+              "en": "Thanking someone for an action"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "thank you for being so kind"
+                },
+                {
+                  "text": "thank you for + being kind"
+                },
+                {
+                  "fa": "ممنون که این‌قدر مهربانی",
+                  "en": "Giving a reason for thanks"
+                }
+              ],
+              [
+                {
+                  "text": "I really appreciate your help"
+                },
+                {
+                  "text": "appreciate + your help"
+                },
+                {
+                  "fa": "واقعاً از کمکت ممنونم",
+                  "en": "Direct gratitude"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "small-words",
+        "title": {
+          "fa": "زمان کوتاه، مقدار و تفاوت",
+          "en": "Time, amounts and contrast"
+        },
+        "explanation": {
+          "fa": "in a minute یعنی تا یک دقیقهٔ دیگر. a cup of tea یعنی یک فنجان چای و some tea یعنی مقداری چای. but یعنی «ولی»؛ آپارتمان خوب است ولی جعبه‌ها هنوز همه‌جا هستند.",
+          "en": "In a minute means after a very short time. A cup of tea is one cup; some tea is an amount of tea. But contrasts the nice apartment with the unpacked boxes."
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        },
+        "takeaway": {
+          "fa": "of فنجان را به محتویاتش وصل می‌کند.",
+          "en": "Of links the cup to what it contains."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان کوتاه، مقدار و تفاوت",
+              "en": "Time, amounts and contrast"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "a cup of tea"
+                },
+                {
+                  "text": "a cup + of + tea"
+                },
+                {
+                  "fa": "یک فنجان چای",
+                  "en": "A drink amount"
+                }
+              ],
+              [
+                {
+                  "text": "some tea or coffee"
+                },
+                {
+                  "text": "some + tea or coffee"
+                },
+                {
+                  "fa": "مقداری چای یا قهوه",
+                  "en": "Offering drinks"
+                }
+              ],
+              [
+                {
+                  "text": "in a minute"
+                },
+                {
+                  "text": "in + a minute"
+                },
+                {
+                  "fa": "تا یک دقیقهٔ دیگر",
+                  "en": "A near-future time"
+                }
+              ],
+              [
+                {
+                  "text": "nice, but the boxes are still everywhere"
+                },
+                {
+                  "text": "point + but + different point"
+                },
+                {
+                  "fa": "خوب است ولی جعبه‌ها مانده‌اند",
+                  "en": "A contrast"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hello"
+        },
+        "context": {
+          "fa": "برای شروع صحبت با همسایهٔ جدید.",
+          "en": "Opens a conversation with a new neighbor."
+        },
+        "example": {
+          "text": "Hello, I think you are our new neighbor.",
+          "translation": {
+            "fa": "سلام، فکر می‌کنم شما همسایهٔ جدید ما هستید.",
+            "en": "Hello, I think you are our new neighbor."
+          }
+        }
+      },
+      {
+        "id": "welcome-building",
+        "text": "welcome to the building",
+        "pronunciation": {
+          "faReading": "وِلکَم تو ذِ بیلدینگ",
+          "ipa": "/ˈwɛlkəm tə ðə ˈbɪldɪŋ/"
+        },
+        "meaning": {
+          "fa": "به ساختمان خوش آمدید",
+          "en": "Welcome to the building"
+        },
+        "context": {
+          "fa": "نادیا به فرهاد خوشامد می‌گوید؛ نه پاسخ به تشکر.",
+          "en": "Nadia welcomes Farhad on arrival; this is not a reply to thanks."
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "so-far",
+        "text": "how do you like it so far?",
+        "pronunciation": {
+          "faReading": "هاو دو یو لایک ایت سُو فار",
+          "ipa": "/haʊ du ju laɪk ɪt soʊ fɑr/"
+        },
+        "meaning": {
+          "fa": "تا اینجا نظرتان چیست؟",
+          "en": "How do you like it so far?"
+        },
+        "context": {
+          "fa": "از تجربهٔ او تا همین حالا می‌پرسد.",
+          "en": "Asks for an opinion about the experience until now."
+        },
+        "example": {
+          "text": "I am Nadia, welcome to the building, how do you like it so far?",
+          "translation": {
+            "fa": "من نادیا هستم؛ به ساختمان خوش آمدید. تا اینجا نظرتان درباره‌اش چیست؟",
+            "en": "I am Nadia, welcome to the building, how do you like it so far?"
+          }
+        }
+      },
+      {
+        "id": "lend-hand",
+        "text": "lend you a hand",
+        "pronunciation": {
+          "faReading": "لِند یو اِ هَند",
+          "ipa": "/lɛnd ju ə hænd/"
+        },
+        "meaning": {
+          "fa": "کمکتان کنم",
+          "en": "Help you"
+        },
+        "context": {
+          "fa": "اصطلاحی برای کمک است، نه قرض دادن دست.",
+          "en": "An expression for helping, not lending a body part."
+        },
+        "example": {
+          "text": "Do you need help with your things, I can lend you a hand.",
+          "translation": {
+            "fa": "برای وسایلتان کمک لازم دارید؟ می‌توانم کمکتان کنم.",
+            "en": "Do you need help with your things, I can lend you a hand."
+          }
+        }
+      },
+      {
+        "id": "would-great",
+        "text": "That would be great",
+        "pronunciation": {
+          "faReading": "ذَت وود بی گْرِیت",
+          "ipa": "/ðæt wʊd bi ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "خیلی خوب می‌شود",
+          "en": "That would be great"
+        },
+        "context": {
+          "fa": "با این جمله پیشنهاد کمک را با خوشحالی می‌پذیرد.",
+          "en": "Warmly accepts the offer of help."
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "thanks-kind",
+        "text": "thank you for being so kind",
+        "pronunciation": {
+          "faReading": "ثَنک یو فور بی‌اینگ سُو کایند",
+          "ipa": "/θæŋk ju fɔr ˈbiɪŋ soʊ kaɪnd/"
+        },
+        "meaning": {
+          "fa": "ممنون که این‌قدر مهربان هستید",
+          "en": "Thank you for being so kind"
+        },
+        "context": {
+          "fa": "برای تشکر از رفتار مهربانانهٔ طرف مقابل است.",
+          "en": "Thanks someone for their kindness."
+        },
+        "example": {
+          "text": "That would be great, thank you for being so kind.",
+          "translation": {
+            "fa": "خیلی خوب می‌شود؛ ممنون که این‌قدر مهربان هستید.",
+            "en": "That would be great, thank you for being so kind."
+          }
+        }
+      },
+      {
+        "id": "no-problem",
+        "text": "No problem at all",
+        "pronunciation": {
+          "faReading": "نُو پْرابلِم اَت آل",
+          "ipa": "/noʊ ˈprɑbləm æt ɔl/"
+        },
+        "meaning": {
+          "fa": "اصلاً مشکلی نیست",
+          "en": "No problem at all"
+        },
+        "context": {
+          "fa": "نشان می‌دهد کمک کردن زحمتی ندارد؛ at all روی اصلاً تأکید می‌کند.",
+          "en": "Reassures the listener that helping is no trouble; at all adds emphasis."
+        },
+        "example": {
+          "text": "No problem at all, do you want some tea or coffee?",
+          "translation": {
+            "fa": "اصلاً مشکلی نیست؛ چای یا قهوه میل دارید؟",
+            "en": "No problem at all, do you want some tea or coffee?"
+          }
+        }
+      },
+      {
+        "id": "tea-lovely",
+        "text": "A cup of tea would be lovely",
+        "pronunciation": {
+          "faReading": "اِ کَپ اَو تی وود بی لاولی",
+          "ipa": "/ə kʌp əv ti wʊd bi ˈlʌvli/"
+        },
+        "meaning": {
+          "fa": "یک فنجان چای خیلی خوب می‌شود",
+          "en": "A cup of tea would be lovely"
+        },
+        "context": {
+          "fa": "انتخاب چای با لحنی نرم و مؤدبانه، نه یک دستور.",
+          "en": "A gentle, polite choice of tea rather than a demand."
+        },
+        "example": {
+          "text": "A cup of tea would be lovely, I have not had time to unpack yet.",
+          "translation": {
+            "fa": "یک فنجان چای خیلی خوب می‌شود؛ هنوز وقت نکرده‌ام وسایلم را باز کنم.",
+            "en": "A cup of tea would be lovely, I have not had time to unpack yet."
+          }
+        }
+      },
+      {
+        "id": "in-minute",
+        "text": "in a minute",
+        "pronunciation": {
+          "faReading": "این اِ مینِت",
+          "ipa": "/ɪn ə ˈmɪnɪt/"
+        },
+        "meaning": {
+          "fa": "تا یک دقیقهٔ دیگر؛ خیلی زود",
+          "en": "In a minute; very soon"
+        },
+        "context": {
+          "fa": "قول می‌دهد نوشیدنی را خیلی زود بیاورد.",
+          "en": "Promises to bring the drink very soon."
+        },
+        "example": {
+          "text": "I will bring it in a minute, and I can help you with the heavy boxes.",
+          "translation": {
+            "fa": "تا یک دقیقهٔ دیگر می‌آورمش و می‌توانم برای جعبه‌های سنگین کمکتان کنم.",
+            "en": "I will bring it in a minute, and I can help you with the heavy boxes."
+          }
+        }
+      },
+      {
+        "id": "appreciate-help",
+        "text": "I really appreciate your help",
+        "pronunciation": {
+          "faReading": "آی ریلی اِپریشی‌اِیت یور هِلپ",
+          "ipa": "/aɪ ˈrili əˈpriʃiˌeɪt jʊr hɛlp/"
+        },
+        "meaning": {
+          "fa": "واقعاً از کمکتان ممنونم",
+          "en": "I really appreciate your help"
+        },
+        "context": {
+          "fa": "تشکری گرم و روشن برای کمک همسایه.",
+          "en": "Warm, direct thanks for the neighbor’s help."
+        },
+        "example": {
+          "text": "I really appreciate your help, you are a wonderful neighbor.",
+          "translation": {
+            "fa": "واقعاً از کمکتان ممنونم؛ همسایهٔ فوق‌العاده‌ای هستید.",
+            "en": "I really appreciate your help, you are a wonderful neighbor."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف اصلی این صحبت چیست؟",
+          "en": "What is the main purpose of the conversation?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خوشامدگویی به همسایه و پیشنهاد کمک",
+              "en": "Welcoming a neighbor and offering help"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خرید آپارتمان و پرسیدن قیمت",
+              "en": "Buying an apartment and asking its price"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "تحویل بسته و گرفتن امضا",
+              "en": "Delivering a parcel and getting a signature"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نادیا از همسایهٔ جدید می‌گوید و کمک با وسایل را پیشنهاد می‌دهد.",
+          "en": "Nadia mentions the new neighbor and offers help with his belongings."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t05"
+        ]
+      },
+      {
+        "id": "move",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "فرهاد چه زمانی اسباب‌کشی کرده است؟",
+          "en": "When did Farhad move in?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "امروز",
+              "en": "Today"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دیروز",
+              "en": "Yesterday"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "هفتهٔ پیش",
+              "en": "Last week"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "فرهاد می‌گوید I moved in yesterday؛ یعنی دیروز.",
+          "en": "Farhad says I moved in yesterday."
+        },
+        "evidenceTurnIds": [
+          "t02"
+        ]
+      },
+      {
+        "id": "drink",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "فرهاد کدام نوشیدنی را انتخاب می‌کند؟",
+          "en": "Which drink does Farhad choose?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "قهوه",
+              "en": "Coffee"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آب",
+              "en": "Water"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "چای",
+              "en": "Tea"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "فرهاد می‌گوید یک فنجان چای خوب می‌شود.",
+          "en": "Farhad says a cup of tea would be lovely."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "help",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "نادیا برای چه کاری کمک پیشنهاد می‌دهد؟",
+          "en": "What does Nadia offer to help with?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "جعبه‌های سنگین",
+              "en": "The heavy boxes"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "تمیز کردن پنجره‌ها",
+              "en": "Cleaning the windows"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خرید مواد غذایی",
+              "en": "Buying groceries"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "نادیا می‌گوید می‌تواند برای جعبه‌های سنگین کمک کند.",
+          "en": "Nadia says she can help with the heavy boxes."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      }
+    ]
+  }
+}

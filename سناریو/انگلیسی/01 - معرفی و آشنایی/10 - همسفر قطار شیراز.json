@@ -1,0 +1,3767 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s10",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B1",
+  "title": {
+    "fa": "همسفر قطار شیراز",
+    "en": "Fellow travelers to Shiraz"
+  },
+  "objective": {
+    "fa": "دلیل سفر هر نفر، مدت مسیر و نوع کتاب پیشنهادی را تشخیص بده.",
+    "en": "Identify each traveler’s reason for traveling, the journey duration, and the type of book offered."
+  },
+  "speakers": [
+    {
+      "id": "sorayya",
+      "name": "Sorayya",
+      "gender": "woman"
+    },
+    {
+      "id": "behnam",
+      "name": "Behnam",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "sorayya",
+      "text": "Excuse me, is this seat taken on the train to Shiraz?",
+      "translation": {
+        "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+        "en": "Excuse me, is this seat taken on the train to Shiraz?"
+      },
+      "tokens": [
+        {
+          "surface": "Excuse",
+          "gloss": {
+            "fa": "ببخشید",
+            "en": "excuse; in excuse me"
+          }
+        },
+        {
+          "surface": "me,",
+          "gloss": {
+            "fa": "من را،",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "آیا هست",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; a nearby or current referent"
+          }
+        },
+        {
+          "surface": "seat",
+          "gloss": {
+            "fa": "صندلی",
+            "en": "seat; a place to sit"
+          }
+        },
+        {
+          "surface": "taken",
+          "gloss": {
+            "fa": "گرفته‌شده",
+            "en": "taken; already occupied here"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "در",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "train",
+          "gloss": {
+            "fa": "قطار",
+            "en": "train; connected railway carriages"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "Shiraz?",
+          "gloss": {
+            "fa": "شیراز؟",
+            "en": "Shiraz; a name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "behnam",
+      "text": "No, it is free, please take it.",
+      "translation": {
+        "fa": "نه، خالی است؛ لطفاً بنشینید.",
+        "en": "No, it is free, please take it."
+      },
+      "tokens": [
+        {
+          "surface": "No,",
+          "gloss": {
+            "fa": "نه،",
+            "en": "no; a negative answer"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "free,",
+          "gloss": {
+            "fa": "خالی،",
+            "en": "free; available or not occupied"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; softens a request"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "بگیرید",
+            "en": "take; use time or accept something"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن را.",
+            "en": "it; the thing mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "sorayya",
+      "text": "Thank you very much, I am going to Shiraz for a family visit.",
+      "translation": {
+        "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+        "en": "Thank you very much, I am going to Shiraz for a family visit."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "much,",
+          "gloss": {
+            "fa": "زیاد،",
+            "en": "much; a large amount"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "بخشی از فعل بعدی",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "going",
+          "gloss": {
+            "fa": "می‌روم",
+            "en": "going; traveling or moving"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "Shiraz",
+          "gloss": {
+            "fa": "شیراز",
+            "en": "Shiraz; a name"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "family",
+          "gloss": {
+            "fa": "خانوادگی",
+            "en": "family; close relatives"
+          }
+        },
+        {
+          "surface": "visit.",
+          "gloss": {
+            "fa": "دیدار.",
+            "en": "visit; time spent seeing a person or place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "behnam",
+      "text": "I am going there too, I have a business meeting tomorrow morning.",
+      "translation": {
+        "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+        "en": "I am going there too, I have a business meeting tomorrow morning."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "بخشی از فعل بعدی",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "going",
+          "gloss": {
+            "fa": "می‌روم",
+            "en": "going; traveling or moving"
+          }
+        },
+        {
+          "surface": "there",
+          "gloss": {
+            "fa": "آنجا",
+            "en": "there; that place, or introduces existence"
+          }
+        },
+        {
+          "surface": "too,",
+          "gloss": {
+            "fa": "هم،",
+            "en": "too; also"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "دارم",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "business",
+          "gloss": {
+            "fa": "کاری",
+            "en": "business; connected with work or trade"
+          }
+        },
+        {
+          "surface": "meeting",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        },
+        {
+          "surface": "tomorrow",
+          "gloss": {
+            "fa": "فردا",
+            "en": "tomorrow; the day after today"
+          }
+        },
+        {
+          "surface": "morning.",
+          "gloss": {
+            "fa": "صبح.",
+            "en": "morning; the first part of the day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "sorayya",
+      "text": "How long does the journey take from Tehran to Shiraz?",
+      "translation": {
+        "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+        "en": "How long does the journey take from Tehran to Shiraz?"
+      },
+      "tokens": [
+        {
+          "surface": "How",
+          "gloss": {
+            "fa": "چه‌قدر",
+            "en": "how; asking about manner or condition"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "مدت",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "does",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "does; helps ask a question"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "journey",
+          "gloss": {
+            "fa": "سفر",
+            "en": "journey; travel from one place to another"
+          }
+        },
+        {
+          "surface": "take",
+          "gloss": {
+            "fa": "طول می‌کشد",
+            "en": "take; use time or accept something"
+          }
+        },
+        {
+          "surface": "from",
+          "gloss": {
+            "fa": "از",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "Tehran",
+          "gloss": {
+            "fa": "تهران",
+            "en": "Tehran; a name"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "Shiraz?",
+          "gloss": {
+            "fa": "شیراز؟",
+            "en": "Shiraz; a name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "behnam",
+      "text": "It is about six hours by this express train.",
+      "translation": {
+        "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+        "en": "It is about six hours by this express train."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "about",
+          "gloss": {
+            "fa": "حدود",
+            "en": "about; on the subject of"
+          }
+        },
+        {
+          "surface": "six",
+          "gloss": {
+            "fa": "شش",
+            "en": "six; 6"
+          }
+        },
+        {
+          "surface": "hours",
+          "gloss": {
+            "fa": "ساعت",
+            "en": "hours; periods of sixty minutes"
+          }
+        },
+        {
+          "surface": "by",
+          "gloss": {
+            "fa": "با",
+            "en": "by; using a means of transport here"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; a nearby or current referent"
+          }
+        },
+        {
+          "surface": "express",
+          "gloss": {
+            "fa": "سریع‌السیر",
+            "en": "express; making fewer stops"
+          }
+        },
+        {
+          "surface": "train.",
+          "gloss": {
+            "fa": "قطار.",
+            "en": "train; connected railway carriages"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "sorayya",
+      "text": "That is not too long, I usually read books during the trip.",
+      "translation": {
+        "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+        "en": "That is not too long, I usually read books during the trip."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "too",
+          "gloss": {
+            "fa": "زیادی",
+            "en": "too; more than needed"
+          }
+        },
+        {
+          "surface": "long,",
+          "gloss": {
+            "fa": "طولانی،",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "usually",
+          "gloss": {
+            "fa": "معمولاً",
+            "en": "usually; most of the time"
+          }
+        },
+        {
+          "surface": "read",
+          "gloss": {
+            "fa": "می‌خوانم",
+            "en": "read; understand written words"
+          }
+        },
+        {
+          "surface": "books",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "during",
+          "gloss": {
+            "fa": "در طول",
+            "en": "during; throughout a period"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "trip.",
+          "gloss": {
+            "fa": "سفر.",
+            "en": "trip; a journey to a place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "behnam",
+      "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+      "translation": {
+        "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+        "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "usually",
+          "gloss": {
+            "fa": "معمولاً",
+            "en": "usually; most of the time"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنم",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "با",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "laptop,",
+          "gloss": {
+            "fa": "لپ‌تاپ،",
+            "en": "laptop; a portable computer"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; introduces contrast"
+          }
+        },
+        {
+          "surface": "today",
+          "gloss": {
+            "fa": "امروز",
+            "en": "today; on this day"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "relax",
+          "gloss": {
+            "fa": "استراحت کرد",
+            "en": "relax; rest and feel less tense"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "enjoy",
+          "gloss": {
+            "fa": "لذت برد از",
+            "en": "enjoy; like an activity"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "view.",
+          "gloss": {
+            "fa": "منظره.",
+            "en": "view; the scene you can see"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "sorayya",
+      "text": "What kind of books do you read when you travel?",
+      "translation": {
+        "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+        "en": "What kind of books do you read when you travel?"
+      },
+      "tokens": [
+        {
+          "surface": "What",
+          "gloss": {
+            "fa": "چه",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "kind",
+          "gloss": {
+            "fa": "نوع",
+            "en": "kind; type"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "books",
+          "gloss": {
+            "fa": "کتاب‌ها",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "برای سؤال",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "read",
+          "gloss": {
+            "fa": "می‌خوانید",
+            "en": "read; understand written words"
+          }
+        },
+        {
+          "surface": "when",
+          "gloss": {
+            "fa": "وقتی",
+            "en": "when; at the time that"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "travel?",
+          "gloss": {
+            "fa": "سفر می‌کنید؟",
+            "en": "travel; go from place to place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "behnam",
+      "text": "I read history books, they make the long journey feel shorter.",
+      "translation": {
+        "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+        "en": "I read history books, they make the long journey feel shorter."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "read",
+          "gloss": {
+            "fa": "می‌خوانم",
+            "en": "read; understand written words"
+          }
+        },
+        {
+          "surface": "history",
+          "gloss": {
+            "fa": "تاریخ",
+            "en": "history; events of the past"
+          }
+        },
+        {
+          "surface": "books,",
+          "gloss": {
+            "fa": "کتاب‌ها،",
+            "en": "books; things to read"
+          }
+        },
+        {
+          "surface": "they",
+          "gloss": {
+            "fa": "آن‌ها",
+            "en": "they; the people or things mentioned"
+          }
+        },
+        {
+          "surface": "make",
+          "gloss": {
+            "fa": "باعث می‌شوند",
+            "en": "make; cause something here"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "طولانی",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "journey",
+          "gloss": {
+            "fa": "سفر",
+            "en": "journey; travel from one place to another"
+          }
+        },
+        {
+          "surface": "feel",
+          "gloss": {
+            "fa": "حس شود",
+            "en": "feel; experience a feeling"
+          }
+        },
+        {
+          "surface": "shorter.",
+          "gloss": {
+            "fa": "کوتاه‌تر.",
+            "en": "shorter; less long"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "sorayya",
+      "text": "That is a good idea, maybe I will try a history book next time.",
+      "translation": {
+        "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+        "en": "That is a good idea, maybe I will try a history book next time."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "فکر،",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "try",
+          "gloss": {
+            "fa": "امتحان کرد",
+            "en": "try; do something to see what it is like"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "history",
+          "gloss": {
+            "fa": "تاریخی",
+            "en": "history; events of the past"
+          }
+        },
+        {
+          "surface": "book",
+          "gloss": {
+            "fa": "کتاب",
+            "en": "book; a written work"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "time.",
+          "gloss": {
+            "fa": "دفعه.",
+            "en": "time; a period or moment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "behnam",
+      "text": "I can lend you one if you like, I have a good one in my bag.",
+      "translation": {
+        "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+        "en": "I can lend you one if you like, I have a good one in my bag."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "lend",
+          "gloss": {
+            "fa": "قرض بدهم",
+            "en": "lend; let someone use something briefly"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "به شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "if",
+          "gloss": {
+            "fa": "اگر",
+            "en": "if; introduces a condition"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "like,",
+          "gloss": {
+            "fa": "بخواهید،",
+            "en": "like; enjoy"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "دارم",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "good",
+          "gloss": {
+            "fa": "خوب",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "bag.",
+          "gloss": {
+            "fa": "کیف.",
+            "en": "bag; a container for carrying things"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "excuse",
+        "text": "excuse",
+        "pronunciation": {
+          "faReading": "ایکسکیوز",
+          "ipa": "/ɪkˈskjuz/"
+        },
+        "meaning": {
+          "fa": "ببخشید",
+          "en": "excuse; in excuse me"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "seat",
+        "text": "seat",
+        "pronunciation": {
+          "faReading": "سیت",
+          "ipa": "/sit/"
+        },
+        "meaning": {
+          "fa": "صندلی؛ جای نشستن",
+          "en": "seat; a place to sit"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "taken",
+        "text": "taken",
+        "pronunciation": {
+          "faReading": "تِیکِن",
+          "ipa": "/ˈteɪkən/"
+        },
+        "meaning": {
+          "fa": "گرفته‌شده؛ اشغال",
+          "en": "taken; already occupied here"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "train",
+        "text": "train",
+        "pronunciation": {
+          "faReading": "تْرِین",
+          "ipa": "/treɪn/"
+        },
+        "meaning": {
+          "fa": "قطار",
+          "en": "train; connected railway carriages"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به",
+          "en": "to; toward a person or place"
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "no",
+        "text": "no",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "نه؛ هیچ",
+          "en": "no; a negative answer"
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; the thing mentioned"
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "free",
+        "text": "free",
+        "pronunciation": {
+          "faReading": "فْری",
+          "ipa": "/fri/"
+        },
+        "meaning": {
+          "fa": "آزاد؛ خالی",
+          "en": "free; available or not occupied"
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "take",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "گرفتنِ جای نشستن؛ در take it",
+          "en": "take; use or occupy the offered seat"
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ مقدار زیاد",
+          "en": "much; a large amount"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "going",
+        "text": "going",
+        "pronunciation": {
+          "faReading": "گُوینگ",
+          "ipa": "/ˈɡoʊɪŋ/"
+        },
+        "meaning": {
+          "fa": "رفتن؛ در حال رفتن",
+          "en": "going; traveling or moving"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "family",
+        "text": "family",
+        "pronunciation": {
+          "faReading": "فَمِلی",
+          "ipa": "/ˈfæməli/"
+        },
+        "meaning": {
+          "fa": "خانواده",
+          "en": "family; close relatives"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "visit",
+        "text": "visit",
+        "pronunciation": {
+          "faReading": "ویزیت",
+          "ipa": "/ˈvɪzɪt/"
+        },
+        "meaning": {
+          "fa": "دیدار؛ دیدن کسی یا جایی",
+          "en": "visit; time spent seeing a person or place"
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "there",
+        "text": "there",
+        "pronunciation": {
+          "faReading": "ذِر",
+          "ipa": "/ðɛr/"
+        },
+        "meaning": {
+          "fa": "آنجا؛ در is there یعنی وجود دارد",
+          "en": "there; that place, or introduces existence"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "too",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "هم؛ نیز",
+          "en": "too; also"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن",
+          "en": "have; own or experience"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "business",
+        "text": "business",
+        "pronunciation": {
+          "faReading": "بیزنِس",
+          "ipa": "/ˈbɪznəs/"
+        },
+        "meaning": {
+          "fa": "کاری؛ کسب‌وکار",
+          "en": "business; connected with work or trade"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "meeting",
+        "text": "meeting",
+        "pronunciation": {
+          "faReading": "میتینگ",
+          "ipa": "/ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "جلسه",
+          "en": "meeting; people coming together to discuss work"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "tomorrow",
+        "text": "tomorrow",
+        "pronunciation": {
+          "faReading": "تُمارُو",
+          "ipa": "/təˈmɑroʊ/"
+        },
+        "meaning": {
+          "fa": "فردا",
+          "en": "tomorrow; the day after today"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the first part of the day"
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "طولانی؛ مدت",
+          "en": "long; lasting much time"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "does; helps ask a question"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "journey",
+        "text": "journey",
+        "pronunciation": {
+          "faReading": "جِرنی",
+          "ipa": "/ˈdʒɝni/"
+        },
+        "meaning": {
+          "fa": "سفر؛ مسیر طی‌شده",
+          "en": "journey; travel from one place to another"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "about",
+        "text": "about",
+        "pronunciation": {
+          "faReading": "اِباوت",
+          "ipa": "/əˈbaʊt/"
+        },
+        "meaning": {
+          "fa": "دربارهٔ",
+          "en": "about; on the subject of"
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        }
+      },
+      {
+        "id": "six",
+        "text": "six",
+        "pronunciation": {
+          "faReading": "سیکس",
+          "ipa": "/sɪks/"
+        },
+        "meaning": {
+          "fa": "شش",
+          "en": "six; 6"
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        }
+      },
+      {
+        "id": "hours",
+        "text": "hours",
+        "pronunciation": {
+          "faReading": "آوِرز",
+          "ipa": "/aʊrz/"
+        },
+        "meaning": {
+          "fa": "ساعت‌ها",
+          "en": "hours; periods of sixty minutes"
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        }
+      },
+      {
+        "id": "by",
+        "text": "by",
+        "pronunciation": {
+          "faReading": "بای",
+          "ipa": "/baɪ/"
+        },
+        "meaning": {
+          "fa": "با؛ از راهِ",
+          "en": "by; using a means of transport here"
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        }
+      },
+      {
+        "id": "express",
+        "text": "express",
+        "pronunciation": {
+          "faReading": "ایکس‌پْرِس",
+          "ipa": "/ɪkˈsprɛs/"
+        },
+        "meaning": {
+          "fa": "سریع‌السیر",
+          "en": "express; making fewer stops"
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "too-degree",
+        "text": "too",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "زیادی",
+          "en": "too; more than needed"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "usually",
+        "text": "usually",
+        "pronunciation": {
+          "faReading": "یوژوئِلی",
+          "ipa": "/ˈjuʒuəli/"
+        },
+        "meaning": {
+          "fa": "معمولاً",
+          "en": "usually; most of the time"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "read",
+        "text": "read",
+        "pronunciation": {
+          "faReading": "رید",
+          "ipa": "/rid/"
+        },
+        "meaning": {
+          "fa": "خواندن",
+          "en": "read; understand written words"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "books",
+        "text": "books",
+        "pronunciation": {
+          "faReading": "بوکس",
+          "ipa": "/bʊks/"
+        },
+        "meaning": {
+          "fa": "کتاب‌ها",
+          "en": "books; things to read"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "during",
+        "text": "during",
+        "pronunciation": {
+          "faReading": "دورینگ",
+          "ipa": "/ˈdʊrɪŋ/"
+        },
+        "meaning": {
+          "fa": "در طولِ",
+          "en": "during; throughout a period"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "trip",
+        "text": "trip",
+        "pronunciation": {
+          "faReading": "تْریپ",
+          "ipa": "/trɪp/"
+        },
+        "meaning": {
+          "fa": "سفر",
+          "en": "trip; a journey to a place"
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "work; do a job"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "laptop",
+        "text": "laptop",
+        "pronunciation": {
+          "faReading": "لَپ‌تاپ",
+          "ipa": "/ˈlæpˌtɑp/"
+        },
+        "meaning": {
+          "fa": "لپ‌تاپ",
+          "en": "laptop; a portable computer"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "اما؛ ولی",
+          "en": "but; introduces contrast"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "relax",
+        "text": "relax",
+        "pronunciation": {
+          "faReading": "ری‌لَکس",
+          "ipa": "/rɪˈlæks/"
+        },
+        "meaning": {
+          "fa": "استراحت کردن",
+          "en": "relax; rest and feel less tense"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "enjoy",
+        "text": "enjoy",
+        "pronunciation": {
+          "faReading": "اِن‌جوی",
+          "ipa": "/ɪnˈdʒɔɪ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن از",
+          "en": "enjoy; like an activity"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "view",
+        "text": "view",
+        "pronunciation": {
+          "faReading": "ویو",
+          "ipa": "/vju/"
+        },
+        "meaning": {
+          "fa": "منظره",
+          "en": "view; the scene you can see"
+        },
+        "example": {
+          "text": "I usually work on my laptop, but today I will relax and enjoy the view.",
+          "translation": {
+            "fa": "معمولاً با لپ‌تاپم کار می‌کنم، اما امروز استراحت می‌کنم و از منظره لذت می‌برم.",
+            "en": "I usually work on my laptop, but today I will relax and enjoy the view."
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "kind",
+        "text": "kind",
+        "pronunciation": {
+          "faReading": "کایند",
+          "ipa": "/kaɪnd/"
+        },
+        "meaning": {
+          "fa": "نوع",
+          "en": "kind; type"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن؛ در do you read",
+          "en": "do; forms the present-simple question do you read"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "when",
+        "text": "when",
+        "pronunciation": {
+          "faReading": "وِن",
+          "ipa": "/wɛn/"
+        },
+        "meaning": {
+          "fa": "وقتی؛ زمانی که",
+          "en": "when; at the time that"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "travel",
+        "text": "travel",
+        "pronunciation": {
+          "faReading": "تْرَوِل",
+          "ipa": "/ˈtrævəl/"
+        },
+        "meaning": {
+          "fa": "سفر کردن",
+          "en": "travel; go from place to place"
+        },
+        "example": {
+          "text": "What kind of books do you read when you travel?",
+          "translation": {
+            "fa": "وقتی سفر می‌کنید چه نوع کتاب‌هایی می‌خوانید؟",
+            "en": "What kind of books do you read when you travel?"
+          }
+        }
+      },
+      {
+        "id": "history",
+        "text": "history",
+        "pronunciation": {
+          "faReading": "هیستِری",
+          "ipa": "/ˈhɪstəri/"
+        },
+        "meaning": {
+          "fa": "تاریخ",
+          "en": "history; events of the past"
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        }
+      },
+      {
+        "id": "they",
+        "text": "they",
+        "pronunciation": {
+          "faReading": "ذِی",
+          "ipa": "/ðeɪ/"
+        },
+        "meaning": {
+          "fa": "آن‌ها",
+          "en": "they; the people or things mentioned"
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        }
+      },
+      {
+        "id": "make",
+        "text": "make",
+        "pronunciation": {
+          "faReading": "مِیک",
+          "ipa": "/meɪk/"
+        },
+        "meaning": {
+          "fa": "باعث شدن؛ ساختن",
+          "en": "make; cause something here"
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        }
+      },
+      {
+        "id": "feel",
+        "text": "feel",
+        "pronunciation": {
+          "faReading": "فیل",
+          "ipa": "/fil/"
+        },
+        "meaning": {
+          "fa": "احساس کردن",
+          "en": "feel; experience a feeling"
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        }
+      },
+      {
+        "id": "shorter",
+        "text": "shorter",
+        "pronunciation": {
+          "faReading": "شورتِر",
+          "ipa": "/ˈʃɔrtɚ/"
+        },
+        "meaning": {
+          "fa": "کوتاه‌تر",
+          "en": "shorter; less long"
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        }
+      },
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "try",
+        "text": "try",
+        "pronunciation": {
+          "faReading": "تْرای",
+          "ipa": "/traɪ/"
+        },
+        "meaning": {
+          "fa": "امتحان کردن",
+          "en": "try; do something to see what it is like"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "book",
+        "text": "book",
+        "pronunciation": {
+          "faReading": "بوک",
+          "ipa": "/bʊk/"
+        },
+        "meaning": {
+          "fa": "کتاب",
+          "en": "book; a written work"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "lend",
+        "text": "lend",
+        "pronunciation": {
+          "faReading": "لِند",
+          "ipa": "/lɛnd/"
+        },
+        "meaning": {
+          "fa": "قرض دادن؛ در lend a hand کمک کردن",
+          "en": "lend; let someone use something briefly"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یکی؛ اینجا یک کتاب",
+          "en": "one; a book here"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "if",
+        "text": "if",
+        "pronunciation": {
+          "faReading": "ایف",
+          "ipa": "/ɪf/"
+        },
+        "meaning": {
+          "fa": "اگر",
+          "en": "if; introduces a condition"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "خواستن؛ در if you like",
+          "en": "like; want or wish, in if you like"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "bag",
+        "text": "bag",
+        "pronunciation": {
+          "faReading": "بَگ",
+          "ipa": "/bæɡ/"
+        },
+        "meaning": {
+          "fa": "کیف",
+          "en": "bag; a container for carrying things"
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      },
+      {
+        "id": "take-duration",
+        "text": "take",
+        "pronunciation": {
+          "faReading": "تِیک",
+          "ipa": "/teɪk/"
+        },
+        "meaning": {
+          "fa": "طول کشیدن؛ دربارهٔ زمان سفر",
+          "en": "take; require an amount of time"
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "seat-taken",
+        "title": {
+          "fa": "پرسیدن دربارهٔ صندلی اشغال",
+          "en": "Asking whether a seat is taken"
+        },
+        "explanation": {
+          "fa": "Is this seat taken? وضعیت صندلی را می‌پرسد؛ فردی که آن را گرفته مهم نیست. taken شکل سوم take است و پس از is آمده. در جواب، free یعنی خالی؛ Please take it دعوت به استفاده از صندلی است.",
+          "en": "Is this seat taken? asks about the seat’s occupied state, without naming who took it. Taken is the past participle of take after is. Free means unoccupied; Please take it invites the listener to use it."
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        },
+        "takeaway": {
+          "fa": "taken اینجا یعنی اشغال، نه حمل‌شده.",
+          "en": "Taken here means occupied, not carried."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن دربارهٔ صندلی اشغال",
+              "en": "Asking whether a seat is taken"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "is this seat taken?"
+                },
+                {
+                  "text": "is + this seat + taken?"
+                },
+                {
+                  "fa": "این صندلی گرفته شده؟",
+                  "en": "A passive/state question"
+                }
+              ],
+              [
+                {
+                  "text": "it is free, please take it"
+                },
+                {
+                  "text": "be + free; please + base verb"
+                },
+                {
+                  "fa": "خالی است؛ بفرمایید بنشینید",
+                  "en": "Reassurance and invitation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "going-and-future",
+        "title": {
+          "fa": "مقصد در برابر تصمیم آینده",
+          "en": "Destination versus a future decision"
+        },
+        "explanation": {
+          "fa": "am going to Shiraz دربارهٔ رفتن به یک مقصد است؛ to بعدش نام شهر دارد، نه فعل. در will relax و will try، will یک تصمیم یا احتمال آینده را می‌رساند. maybe میزان قطعیت تصمیم را کمتر می‌کند.",
+          "en": "Am going to Shiraz describes travel toward a destination: to is followed by a city, not a verb. Will relax and will try express a future decision or possibility. Maybe makes the intention less certain."
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        },
+        "takeaway": {
+          "fa": "to Shiraz مقصد است؛ will relax یک تصمیم.",
+          "en": "To Shiraz is a destination; will relax is a decision."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مقصد در برابر تصمیم آینده",
+              "en": "Destination versus a future decision"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am going to Shiraz"
+                },
+                {
+                  "text": "am + going + to + city"
+                },
+                {
+                  "fa": "دارم به شیراز می‌روم",
+                  "en": "Current travel/destination"
+                }
+              ],
+              [
+                {
+                  "text": "today I will relax"
+                },
+                {
+                  "text": "time + will + relax"
+                },
+                {
+                  "fa": "امروز استراحت می‌کنم",
+                  "en": "A decision"
+                }
+              ],
+              [
+                {
+                  "text": "maybe I will try a history book"
+                },
+                {
+                  "text": "maybe + will + try"
+                },
+                {
+                  "fa": "شاید کتاب تاریخی امتحان کنم",
+                  "en": "A tentative intention"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "habit-and-question",
+        "title": {
+          "fa": "عادت‌ها و سؤال دربارهٔ سفر",
+          "en": "Habits and travel questions"
+        },
+        "explanation": {
+          "fa": "usually با حال ساده عادت را نشان می‌دهد. در سؤال How long does the journey take?، does برای journey مفرد آمده و take بدون s است. What kind of books ...? نوع کتاب را می‌پرسد؛ when you travel هم زمان یک عادت تکرارشونده را مشخص می‌کند.",
+          "en": "Usually with the present simple marks a habit. How long does the journey take? uses does for singular journey, leaving take without s. What kind of books asks about type; when you travel gives the recurring situation."
+        },
+        "example": {
+          "text": "How long does the journey take from Tehran to Shiraz?",
+          "translation": {
+            "fa": "سفر تهران تا شیراز چقدر طول می‌کشد؟",
+            "en": "How long does the journey take from Tehran to Shiraz?"
+          }
+        },
+        "takeaway": {
+          "fa": "پس از does، take می‌آید، نه takes.",
+          "en": "After does, use take rather than takes."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عادت‌ها و سؤال دربارهٔ سفر",
+              "en": "Habits and travel questions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I usually read books"
+                },
+                {
+                  "text": "usually + present verb"
+                },
+                {
+                  "fa": "معمولاً کتاب می‌خوانم",
+                  "en": "A habit"
+                }
+              ],
+              [
+                {
+                  "text": "How long does the journey take?"
+                },
+                {
+                  "text": "How long + does + subject + take?"
+                },
+                {
+                  "fa": "سفر چقدر طول می‌کشد؟",
+                  "en": "Duration"
+                }
+              ],
+              [
+                {
+                  "text": "What kind of books do you read when you travel?"
+                },
+                {
+                  "text": "What kind of + noun + do you + verb?"
+                },
+                {
+                  "fa": "در سفر چه نوع کتابی می‌خوانی؟",
+                  "en": "Type and recurring time"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "time-place-reason",
+        "title": {
+          "fa": "مبدأ، مقصد، وسیله و دلیل سفر",
+          "en": "Origin, destination, transport and reason"
+        },
+        "explanation": {
+          "fa": "from ... to ... ابتدا و انتهای مسیر را نشان می‌دهد. by this express train وسیله را می‌گوید و during the trip بازهٔ زمانی را. for a family visit دلیل سفر است. about six hours مقدار تقریبی است، نه دقیق.",
+          "en": "From ... to ... gives the route’s endpoints. By this express train gives transport; during the trip gives a time period. For a family visit gives purpose. About six hours is approximate rather than exact."
+        },
+        "example": {
+          "text": "It is about six hours by this express train.",
+          "translation": {
+            "fa": "با این قطار سریع‌السیر حدود شش ساعت است.",
+            "en": "It is about six hours by this express train."
+          }
+        },
+        "takeaway": {
+          "fa": "about یعنی حدود؛ during یعنی در طول.",
+          "en": "About means approximately; during means throughout a period."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مبدأ، مقصد، وسیله و دلیل سفر",
+              "en": "Origin, destination, transport and reason"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "from Tehran to Shiraz"
+                },
+                {
+                  "text": "from + origin + to + destination"
+                },
+                {
+                  "fa": "از تهران به شیراز",
+                  "en": "Route"
+                }
+              ],
+              [
+                {
+                  "text": "about six hours by this express train"
+                },
+                {
+                  "text": "about + duration + by + transport"
+                },
+                {
+                  "fa": "با این قطار حدود شش ساعت",
+                  "en": "Duration and transport"
+                }
+              ],
+              [
+                {
+                  "text": "for a family visit / during the trip"
+                },
+                {
+                  "text": "for + purpose / during + period"
+                },
+                {
+                  "fa": "برای دیدار خانواده / در طول سفر",
+                  "en": "Different uses of prepositions"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "two-meanings-too",
+        "title": {
+          "fa": "فرق «هم» و «زیادی»",
+          "en": "Two meanings of too"
+        },
+        "explanation": {
+          "fa": "too در I am going there too یعنی «هم». اما در not too long، پیش از long آمده و یعنی «زیادی». not کل این ارزیابی را منفی می‌کند: سفر بیش از حد طولانی نیست.",
+          "en": "Too at the end of I am going there too means also. Before long in not too long, it means excessively. Not makes the evaluation negative: the journey is not excessively long."
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        },
+        "takeaway": {
+          "fa": "جای too به فهم معنی کمک می‌کند.",
+          "en": "The position of too helps identify its meaning."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فرق «هم» و «زیادی»",
+              "en": "Two meanings of too"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am going there too"
+                },
+                {
+                  "text": "statement + too"
+                },
+                {
+                  "fa": "من هم آنجا می‌روم",
+                  "en": "Addition"
+                }
+              ],
+              [
+                {
+                  "text": "not too long"
+                },
+                {
+                  "text": "not + too + adjective"
+                },
+                {
+                  "fa": "نه زیادی طولانی",
+                  "en": "Degree"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "make-feel-shorter",
+        "title": {
+          "fa": "باعث شدن چیزی طور دیگری حس شود",
+          "en": "Making something feel different"
+        },
+        "explanation": {
+          "fa": "در they make the long journey feel shorter، they به کتاب‌های تاریخی اشاره دارد. ساخت make + چیز + feel + ویژگی است؛ پس از make از feel بدون to استفاده می‌شود. shorter شکل مقایسه‌ای short است.",
+          "en": "In they make the long journey feel shorter, they refers to history books. Use make + thing + feel + description, without to before feel. Shorter is the comparative of short."
+        },
+        "example": {
+          "text": "I read history books, they make the long journey feel shorter.",
+          "translation": {
+            "fa": "کتاب‌های تاریخی می‌خوانم؛ باعث می‌شوند سفر طولانی کوتاه‌تر به نظر برسد.",
+            "en": "I read history books, they make the long journey feel shorter."
+          }
+        },
+        "takeaway": {
+          "fa": "make + چیز + feel + ویژگی.",
+          "en": "Make + thing + feel + description."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "باعث شدن چیزی طور دیگری حس شود",
+              "en": "Making something feel different"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "they make the long journey feel shorter"
+                },
+                {
+                  "text": "make + the journey + feel + shorter"
+                },
+                {
+                  "fa": "باعث می‌شوند سفر کوتاه‌تر حس شود",
+                  "en": "An effect on experience"
+                }
+              ],
+              [
+                {
+                  "text": "shorter"
+                },
+                {
+                  "text": "short + er"
+                },
+                {
+                  "fa": "کوتاه‌تر",
+                  "en": "A comparison"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "offer-and-one",
+        "title": {
+          "fa": "قرض دادن و جلوگیری از تکرار",
+          "en": "Offering a loan and avoiding repetition"
+        },
+        "explanation": {
+          "fa": "I can lend you one if you like پیشنهاد کمک با یک شرط دوستانه است. پس از lend، دریافت‌کننده یعنی you و بعد شیء می‌آید. one به جای book آمده؛ در a good one هم همان کتاب را با ویژگی خوب توصیف می‌کند.",
+          "en": "I can lend you one if you like is an offer with a friendly condition. Lend is followed by recipient you and then the item. One replaces book; a good one describes a book without repeating the noun."
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        },
+        "takeaway": {
+          "fa": "one اینجا یعنی یک کتاب، نه فقط عدد یک.",
+          "en": "One here means a book, not merely the number."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "قرض دادن و جلوگیری از تکرار",
+              "en": "Offering a loan and avoiding repetition"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I can lend you one if you like"
+                },
+                {
+                  "text": "can lend + you + one + if you like"
+                },
+                {
+                  "fa": "اگر بخواهید یکی قرض می‌دهم",
+                  "en": "An offer with a condition"
+                }
+              ],
+              [
+                {
+                  "text": "I have a good one in my bag"
+                },
+                {
+                  "text": "a good one = a good book"
+                },
+                {
+                  "fa": "یک کتاب خوب در کیفم دارم",
+                  "en": "Replacing a repeated noun"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "noun-groups",
+        "title": {
+          "fa": "واژه‌هایی که نوع اسم را می‌گویند",
+          "en": "Words that specify a noun’s type"
+        },
+        "explanation": {
+          "fa": "در history books، واژهٔ history نوع کتاب را مشخص می‌کند. business meeting و family visit هم همین کار را دارند. با long journey و express train، ویژگی سفر و قطار مشخص می‌شود؛ واژهٔ توضیحی پیش از اسم اصلی است.",
+          "en": "History in history books specifies the type of book. Business meeting and family visit work similarly. Long journey and express train describe the journey and train. The specifying word comes before the head noun."
+        },
+        "example": {
+          "text": "I am going there too, I have a business meeting tomorrow morning.",
+          "translation": {
+            "fa": "من هم به آنجا می‌روم؛ فردا صبح جلسهٔ کاری دارم.",
+            "en": "I am going there too, I have a business meeting tomorrow morning."
+          }
+        },
+        "takeaway": {
+          "fa": "اسم اصلی در این گروه‌ها آخر می‌آید.",
+          "en": "The head noun comes last in these groups."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "واژه‌هایی که نوع اسم را می‌گویند",
+              "en": "Words that specify a noun’s type"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "history books / business meeting"
+                },
+                {
+                  "text": "type + noun"
+                },
+                {
+                  "fa": "کتاب تاریخی / جلسهٔ کاری",
+                  "en": "Specifying type"
+                }
+              ],
+              [
+                {
+                  "text": "family visit / express train"
+                },
+                {
+                  "text": "specifier + noun"
+                },
+                {
+                  "fa": "دیدار خانوادگی / قطار سریع‌السیر",
+                  "en": "Purpose or quality"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "excuse-me",
+        "text": "Excuse me",
+        "pronunciation": {
+          "faReading": "ایکسکیوز می",
+          "ipa": "/ɪkˈskjuz mi/"
+        },
+        "meaning": {
+          "fa": "ببخشید",
+          "en": "Excuse me"
+        },
+        "context": {
+          "fa": "جلب توجه مؤدبانهٔ همسفر پیش از پرسیدن دربارهٔ صندلی.",
+          "en": "Politely gets a fellow traveler’s attention before asking about the seat."
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "seat-taken",
+        "text": "is this seat taken",
+        "pronunciation": {
+          "faReading": "ایز ذیس سیت تِیکِن",
+          "ipa": "/ɪz ðɪs sit ˈteɪkən/"
+        },
+        "meaning": {
+          "fa": "این صندلی گرفته شده است؟",
+          "en": "Is this seat taken?"
+        },
+        "context": {
+          "fa": "سؤال رایج دربارهٔ خالی بودن جای نشستن؛ taken یعنی اشغال.",
+          "en": "A common question about seat availability; taken means occupied."
+        },
+        "example": {
+          "text": "Excuse me, is this seat taken on the train to Shiraz?",
+          "translation": {
+            "fa": "ببخشید، این صندلی در قطار شیراز گرفته شده است؟",
+            "en": "Excuse me, is this seat taken on the train to Shiraz?"
+          }
+        }
+      },
+      {
+        "id": "please-take",
+        "text": "please take it",
+        "pronunciation": {
+          "faReading": "پْلیز تِیک ایت",
+          "ipa": "/pliz teɪk ɪt/"
+        },
+        "meaning": {
+          "fa": "بفرمایید بنشینید",
+          "en": "Please take the seat"
+        },
+        "context": {
+          "fa": "در این بافت دعوت به نشستن است، نه برداشتن و بردن صندلی.",
+          "en": "Here it invites someone to sit, not carry the seat away."
+        },
+        "example": {
+          "text": "No, it is free, please take it.",
+          "translation": {
+            "fa": "نه، خالی است؛ لطفاً بنشینید.",
+            "en": "No, it is free, please take it."
+          }
+        }
+      },
+      {
+        "id": "thank-much",
+        "text": "Thank you very much",
+        "pronunciation": {
+          "faReading": "ثَنک یو وِری مَچ",
+          "ipa": "/θæŋk ju ˈvɛri mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی ممنونم",
+          "en": "Thank you very much"
+        },
+        "context": {
+          "fa": "تشکر گرم‌تر از Thank you ساده.",
+          "en": "Stronger, warmer thanks than thank you alone."
+        },
+        "example": {
+          "text": "Thank you very much, I am going to Shiraz for a family visit.",
+          "translation": {
+            "fa": "خیلی ممنون، برای دیدار خانواده به شیراز می‌روم.",
+            "en": "Thank you very much, I am going to Shiraz for a family visit."
+          }
+        }
+      },
+      {
+        "id": "not-too-long",
+        "text": "not too long",
+        "pronunciation": {
+          "faReading": "نات تو لانگ",
+          "ipa": "/nɑt tu lɔŋ/"
+        },
+        "meaning": {
+          "fa": "نه خیلی طولانی",
+          "en": "Not excessively long"
+        },
+        "context": {
+          "fa": "ارزیابی آرامش‌بخش مدت سفر؛ طولانی بودن را مطلقاً انکار نمی‌کند.",
+          "en": "A reassuring evaluation of duration, not a claim that the journey is objectively short."
+        },
+        "example": {
+          "text": "That is not too long, I usually read books during the trip.",
+          "translation": {
+            "fa": "خیلی طولانی نیست؛ معمولاً در طول سفر کتاب می‌خوانم.",
+            "en": "That is not too long, I usually read books during the trip."
+          }
+        }
+      },
+      {
+        "id": "good-idea",
+        "text": "That is a good idea",
+        "pronunciation": {
+          "faReading": "ذَت ایز اِ گود آی‌دی‌اِ",
+          "ipa": "/ðæt ɪz ə ɡʊd aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "فکر خوبی است",
+          "en": "That is a good idea"
+        },
+        "context": {
+          "fa": "پذیرش پیشنهاد ضمنی کتاب تاریخی برای لذت از سفر.",
+          "en": "Accepts the idea of trying history books during travel."
+        },
+        "example": {
+          "text": "That is a good idea, maybe I will try a history book next time.",
+          "translation": {
+            "fa": "فکر خوبی است؛ شاید دفعهٔ بعد یک کتاب تاریخی امتحان کنم.",
+            "en": "That is a good idea, maybe I will try a history book next time."
+          }
+        }
+      },
+      {
+        "id": "if-like",
+        "text": "if you like",
+        "pronunciation": {
+          "faReading": "ایف یو لایک",
+          "ipa": "/ɪf ju laɪk/"
+        },
+        "meaning": {
+          "fa": "اگر بخواهید",
+          "en": "If you like"
+        },
+        "context": {
+          "fa": "پیشنهاد قرض دادن کتاب را اختیاری و بدون فشار می‌کند.",
+          "en": "Keeps the offer of a loan optional and unpressured."
+        },
+        "example": {
+          "text": "I can lend you one if you like, I have a good one in my bag.",
+          "translation": {
+            "fa": "اگر بخواهید می‌توانم یکی به شما قرض بدهم؛ یک کتاب خوب در کیفم دارم.",
+            "en": "I can lend you one if you like, I have a good one in my bag."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "این دو نفر بیشتر در حال چه کاری‌اند؟",
+          "en": "What are the two people mainly doing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "خرید بلیت از کارمند ایستگاه",
+              "en": "Buying tickets from station staff"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "هماهنگی یک جلسهٔ کاری",
+              "en": "Arranging a business meeting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "گفت‌وگوی دوستانه به‌عنوان همسفر",
+              "en": "Having a friendly conversation as fellow travelers"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "صحبت با پرسیدن دربارهٔ صندلی شروع می‌شود و به دلیل سفر و کتاب‌خواندن می‌رسد.",
+          "en": "The exchange starts with a seat question and moves to reasons for travel and reading."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03",
+          "t04",
+          "t09"
+        ]
+      },
+      {
+        "id": "sorayya-reason",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دلیل سفر ثریا چیست؟",
+          "en": "Why is Sorayya traveling?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دیدار خانواده",
+              "en": "A family visit"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جلسهٔ کاری",
+              "en": "A business meeting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "شرکت در کلاس",
+              "en": "Attending a class"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "ثریا می‌گوید for a family visit.",
+          "en": "Sorayya says for a family visit."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "behnam-reason",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بهنام به چه دلیل سفر می‌کند؟",
+          "en": "Why is Behnam traveling?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بازدید از موزه",
+              "en": "Visiting a museum"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "جلسهٔ کاری",
+              "en": "A business meeting"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "دیدار خانواده",
+              "en": "A family visit"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "بهنام می‌گوید فردا صبح جلسهٔ کاری دارد.",
+          "en": "Behnam says he has a business meeting tomorrow morning."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "duration",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مدت سفر با این قطار چقدر گفته می‌شود؟",
+          "en": "How long is the journey said to take on this train?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حدود چهار ساعت",
+              "en": "About four hours"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "حدود هشت ساعت",
+              "en": "About eight hours"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "حدود شش ساعت",
+              "en": "About six hours"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "بهنام دربارهٔ همین قطار می‌گوید about six hours.",
+          "en": "Behnam says about six hours for this train."
+        },
+        "evidenceTurnIds": [
+          "t06"
+        ]
+      },
+      {
+        "id": "book",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "کتابی که بهنام می‌تواند قرض بدهد از چه نوعی است؟",
+          "en": "What type of book can Behnam lend?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تاریخی",
+              "en": "History"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آشپزی",
+              "en": "Cooking"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "علمی‌تخیلی",
+              "en": "Science fiction"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "بهنام از کتاب‌های تاریخی می‌گوید و سپس پیشنهاد می‌دهد یکی قرض بدهد.",
+          "en": "Behnam mentions history books and then offers to lend one."
+        },
+        "evidenceTurnIds": [
+          "t10",
+          "t12"
+        ]
+      }
+    ]
+  }
+}

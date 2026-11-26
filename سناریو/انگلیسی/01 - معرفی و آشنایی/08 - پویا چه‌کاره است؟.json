@@ -1,0 +1,3295 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s08",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "پویا چه‌کاره است؟",
+    "en": "A new neighbor’s work and hobbies"
+  },
+  "objective": {
+    "fa": "شغل مینا، محل کارش، سرگرمی پویا و زمان پیوستن مینا به بازی را تشخیص بده.",
+    "en": "Identify Mina’s job and workplace, Poya’s hobby, and when Mina plans to join the game."
+  },
+  "speakers": [
+    {
+      "id": "poya",
+      "name": "Poya",
+      "gender": "man"
+    },
+    {
+      "id": "mina",
+      "name": "Mina",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "poya",
+      "text": "Hello, I am Poya, and you must be the new neighbor.",
+      "translation": {
+        "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+        "en": "Hello, I am Poya, and you must be the new neighbor."
+      },
+      "tokens": [
+        {
+          "surface": "Hello,",
+          "gloss": {
+            "fa": "سلام،",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Poya,",
+          "gloss": {
+            "fa": "پویا،",
+            "en": "Poya; a name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "must",
+          "gloss": {
+            "fa": "حتماً؛ حدس مطمئن",
+            "en": "must; a strong guess"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "هستی",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "neighbor.",
+          "gloss": {
+            "fa": "همسایه.",
+            "en": "neighbor; someone living nearby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "mina",
+      "text": "Yes, I am Mina, I moved here last week for my job.",
+      "translation": {
+        "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+        "en": "Yes, I am Mina, I moved here last week for my job."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله،",
+            "en": "yes; an affirmative answer"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Mina,",
+          "gloss": {
+            "fa": "مینا،",
+            "en": "Mina; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "moved",
+          "gloss": {
+            "fa": "نقل مکان کردم",
+            "en": "moved; changed home"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "last",
+          "gloss": {
+            "fa": "گذشته",
+            "en": "last; the previous one"
+          }
+        },
+        {
+          "surface": "week",
+          "gloss": {
+            "fa": "هفته",
+            "en": "week; seven days"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "به‌خاطر",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "job.",
+          "gloss": {
+            "fa": "شغل.",
+            "en": "job; paid work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "poya",
+      "text": "It is nice to meet you, Mina, what do you do for work?",
+      "translation": {
+        "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+        "en": "It is nice to meet you, Mina, what do you do for work?"
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "در این جمله جدا ترجمه نمی‌شود",
+            "en": "it; no separate meaning here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "nice",
+          "gloss": {
+            "fa": "خوب",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet; encounter or become acquainted with"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "تو،",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "Mina,",
+          "gloss": {
+            "fa": "مینا،",
+            "en": "Mina; a name"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چه",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "انجام می‌دهی",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "work?",
+          "gloss": {
+            "fa": "کار؟",
+            "en": "work; do a job"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "mina",
+      "text": "I am a nurse, and I work at the hospital near the park.",
+      "translation": {
+        "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+        "en": "I am a nurse, and I work at the hospital near the park."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "nurse,",
+          "gloss": {
+            "fa": "پرستار،",
+            "en": "nurse; someone who cares for patients"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنم",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "hospital",
+          "gloss": {
+            "fa": "بیمارستان",
+            "en": "hospital; a place for medical care"
+          }
+        },
+        {
+          "surface": "near",
+          "gloss": {
+            "fa": "نزدیکِ",
+            "en": "near; not far from"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "park.",
+          "gloss": {
+            "fa": "پارک.",
+            "en": "park; a public green area"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "poya",
+      "text": "That is a very helpful job, do you like living in this neighborhood?",
+      "translation": {
+        "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+        "en": "That is a very helpful job, do you like living in this neighborhood?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "helpful",
+          "gloss": {
+            "fa": "مفید",
+            "en": "helpful; useful or helping others"
+          }
+        },
+        {
+          "surface": "job,",
+          "gloss": {
+            "fa": "شغل،",
+            "en": "job; paid work"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "برای سؤال",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داری",
+            "en": "like; enjoy"
+          }
+        },
+        {
+          "surface": "living",
+          "gloss": {
+            "fa": "زندگی کردن",
+            "en": "living; having a home somewhere"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; a nearby or current referent"
+          }
+        },
+        {
+          "surface": "neighborhood?",
+          "gloss": {
+            "fa": "محله؟",
+            "en": "neighborhood; an area where people live"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "mina",
+      "text": "I do, the streets are quiet and the market is very close.",
+      "translation": {
+        "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+        "en": "I do, the streets are quiet and the market is very close."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "دوست دارم",
+            "en": "do; stands for like living here"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "streets",
+          "gloss": {
+            "fa": "خیابان‌ها",
+            "en": "streets; roads in a town"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "quiet",
+          "gloss": {
+            "fa": "آرام",
+            "en": "quiet; with little noise"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "market",
+          "gloss": {
+            "fa": "بازار",
+            "en": "market; a place to buy things"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "close.",
+          "gloss": {
+            "fa": "نزدیک.",
+            "en": "close; not far away"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "poya",
+      "text": "In my free time I play football with friends at the sports center.",
+      "translation": {
+        "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+        "en": "In my free time I play football with friends at the sports center."
+      },
+      "tokens": [
+        {
+          "surface": "In",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "free",
+          "gloss": {
+            "fa": "آزاد",
+            "en": "free; available or not occupied"
+          }
+        },
+        {
+          "surface": "time",
+          "gloss": {
+            "fa": "وقت",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "play",
+          "gloss": {
+            "fa": "بازی می‌کنم",
+            "en": "play; take part in a game"
+          }
+        },
+        {
+          "surface": "football",
+          "gloss": {
+            "fa": "فوتبال",
+            "en": "football; soccer in this dialogue"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "friends",
+          "gloss": {
+            "fa": "دوستان",
+            "en": "friends; people you like and know"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "sports",
+          "gloss": {
+            "fa": "ورزشی",
+            "en": "sports; physical games or activities"
+          }
+        },
+        {
+          "surface": "center.",
+          "gloss": {
+            "fa": "مرکز.",
+            "en": "center; a place for an activity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "mina",
+      "text": "That sounds fun, maybe I can join you one day.",
+      "translation": {
+        "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+        "en": "That sounds fun, maybe I can join you one day."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "fun,",
+          "gloss": {
+            "fa": "سرگرم‌کننده،",
+            "en": "fun; enjoyable"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "بتوانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "join",
+          "gloss": {
+            "fa": "بپیوندم به",
+            "en": "join; become part of a group"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یک",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "day.",
+          "gloss": {
+            "fa": "روز.",
+            "en": "day; a period of twenty-four hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "poya",
+      "text": "You are very welcome, the team always needs new players.",
+      "translation": {
+        "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+        "en": "You are very welcome, the team always needs new players."
+      },
+      "tokens": [
+        {
+          "surface": "You",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستی",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "welcome,",
+          "gloss": {
+            "fa": "از پیوستنت خوشحال می‌شویم",
+            "en": "welcome; invited to join the activity"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "team",
+          "gloss": {
+            "fa": "تیم",
+            "en": "team; people working or playing together"
+          }
+        },
+        {
+          "surface": "always",
+          "gloss": {
+            "fa": "همیشه",
+            "en": "always; every time"
+          }
+        },
+        {
+          "surface": "needs",
+          "gloss": {
+            "fa": "نیاز دارد",
+            "en": "needs; requires"
+          }
+        },
+        {
+          "surface": "new",
+          "gloss": {
+            "fa": "جدید",
+            "en": "new; recent or not used before"
+          }
+        },
+        {
+          "surface": "players.",
+          "gloss": {
+            "fa": "بازیکنان.",
+            "en": "players; people taking part in a game"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "mina",
+      "text": "Then I will come next weekend, thank you for the invitation.",
+      "translation": {
+        "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+        "en": "Then I will come next weekend, thank you for the invitation."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "come",
+          "gloss": {
+            "fa": "آمد",
+            "en": "come; move toward this place"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "weekend,",
+          "gloss": {
+            "fa": "آخر هفته،",
+            "en": "weekend; the end of the working week"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "invitation.",
+          "gloss": {
+            "fa": "دعوت.",
+            "en": "invitation; a request to join an activity"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "must",
+        "text": "must",
+        "pronunciation": {
+          "faReading": "ماست",
+          "ipa": "/mʌst/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ در اینجا حدس مطمئن",
+          "en": "must; used for a strong guess here"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "new",
+        "text": "new",
+        "pronunciation": {
+          "faReading": "نو",
+          "ipa": "/nu/"
+        },
+        "meaning": {
+          "fa": "جدید؛ تازه",
+          "en": "new; recent or not used before"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "neighbor",
+        "text": "neighbor",
+        "pronunciation": {
+          "faReading": "نِیبِر",
+          "ipa": "/ˈneɪbɚ/"
+        },
+        "meaning": {
+          "fa": "همسایه",
+          "en": "neighbor; someone living nearby"
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; an affirmative answer"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "moved",
+        "text": "moved",
+        "pronunciation": {
+          "faReading": "موود",
+          "ipa": "/muvd/"
+        },
+        "meaning": {
+          "fa": "نقل مکان کرد",
+          "en": "moved; changed home"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "last",
+        "text": "last",
+        "pronunciation": {
+          "faReading": "لَست",
+          "ipa": "/læst/"
+        },
+        "meaning": {
+          "fa": "گذشته؛ قبلی",
+          "en": "last; the previous one"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "job",
+        "text": "job",
+        "pronunciation": {
+          "faReading": "جاب",
+          "ipa": "/dʒɑb/"
+        },
+        "meaning": {
+          "fa": "شغل",
+          "en": "job; paid work"
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این جمله جدا ترجمه نمی‌شود",
+          "en": "it; no separate meaning here"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ قبل از انجام کار",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "ملاقات کردن؛ آشنا شدن با",
+          "en": "meet; encounter or become acquainted with"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "do-base",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "انجام دادن؛ در پرسش دربارهٔ شغل",
+          "en": "do; perform an activity, here work"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "work; do a job"
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "nurse",
+        "text": "nurse",
+        "pronunciation": {
+          "faReading": "نِرس",
+          "ipa": "/nɝs/"
+        },
+        "meaning": {
+          "fa": "پرستار",
+          "en": "nurse; someone who cares for patients"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ در ساعت",
+          "en": "at; a place or exact time"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "hospital",
+        "text": "hospital",
+        "pronunciation": {
+          "faReading": "هاسْپیتِل",
+          "ipa": "/ˈhɑspɪtəl/"
+        },
+        "meaning": {
+          "fa": "بیمارستان",
+          "en": "hospital; a place for medical care"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "near",
+        "text": "near",
+        "pronunciation": {
+          "faReading": "نیر",
+          "ipa": "/nɪr/"
+        },
+        "meaning": {
+          "fa": "نزدیکِ",
+          "en": "near; not far from"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "park",
+        "text": "park",
+        "pronunciation": {
+          "faReading": "پارک",
+          "ipa": "/pɑrk/"
+        },
+        "meaning": {
+          "fa": "پارک",
+          "en": "park; a public green area"
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "helpful",
+        "text": "helpful",
+        "pronunciation": {
+          "faReading": "هِلپ‌فُل",
+          "ipa": "/ˈhɛlpfəl/"
+        },
+        "meaning": {
+          "fa": "مفید؛ کمک‌کننده",
+          "en": "helpful; useful or helping others"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "دوست داشتن",
+          "en": "like; enjoy"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "living",
+        "text": "living",
+        "pronunciation": {
+          "faReading": "لیوینگ",
+          "ipa": "/ˈlɪvɪŋ/"
+        },
+        "meaning": {
+          "fa": "زندگی کردن",
+          "en": "living; having a home somewhere"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "neighborhood",
+        "text": "neighborhood",
+        "pronunciation": {
+          "faReading": "نِیبِرهود",
+          "ipa": "/ˈneɪbɚˌhʊd/"
+        },
+        "meaning": {
+          "fa": "محله",
+          "en": "neighborhood; an area where people live"
+        },
+        "example": {
+          "text": "That is a very helpful job, do you like living in this neighborhood?",
+          "translation": {
+            "fa": "شغل خیلی مفیدی است؛ زندگی در این محله را دوست داری؟",
+            "en": "That is a very helpful job, do you like living in this neighborhood?"
+          }
+        }
+      },
+      {
+        "id": "do-reply",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "دوست دارم",
+          "en": "do; stands for like living here"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "streets",
+        "text": "streets",
+        "pronunciation": {
+          "faReading": "سْتریتس",
+          "ipa": "/strits/"
+        },
+        "meaning": {
+          "fa": "خیابان‌ها",
+          "en": "streets; roads in a town"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "quiet",
+        "text": "quiet",
+        "pronunciation": {
+          "faReading": "کوایِت",
+          "ipa": "/ˈkwaɪət/"
+        },
+        "meaning": {
+          "fa": "ساکت؛ آرام",
+          "en": "quiet; with little noise"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "market",
+        "text": "market",
+        "pronunciation": {
+          "faReading": "مارکِت",
+          "ipa": "/ˈmɑrkɪt/"
+        },
+        "meaning": {
+          "fa": "بازار",
+          "en": "market; a place to buy things"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "close",
+        "text": "close",
+        "pronunciation": {
+          "faReading": "کْلُوس",
+          "ipa": "/kloʊs/"
+        },
+        "meaning": {
+          "fa": "نزدیک",
+          "en": "close; not far away"
+        },
+        "example": {
+          "text": "I do, the streets are quiet and the market is very close.",
+          "translation": {
+            "fa": "بله، دوست دارم؛ خیابان‌ها آرام‌اند و بازار خیلی نزدیک است.",
+            "en": "I do, the streets are quiet and the market is very close."
+          }
+        }
+      },
+      {
+        "id": "free",
+        "text": "free",
+        "pronunciation": {
+          "faReading": "فْری",
+          "ipa": "/fri/"
+        },
+        "meaning": {
+          "fa": "آزاد؛ در free time یعنی وقت آزاد",
+          "en": "free; time without work"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "play",
+        "text": "play",
+        "pronunciation": {
+          "faReading": "پْلِی",
+          "ipa": "/pleɪ/"
+        },
+        "meaning": {
+          "fa": "بازی کردن",
+          "en": "play; take part in a game"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "football",
+        "text": "football",
+        "pronunciation": {
+          "faReading": "فوتبال",
+          "ipa": "/ˈfʊtˌbɔl/"
+        },
+        "meaning": {
+          "fa": "فوتبال؛ در این متن فوتبال با توپ گرد",
+          "en": "football; soccer in this dialogue"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "sports",
+        "text": "sports",
+        "pronunciation": {
+          "faReading": "سْپورتس",
+          "ipa": "/spɔrts/"
+        },
+        "meaning": {
+          "fa": "ورزش‌ها؛ ورزشی",
+          "en": "sports; physical games or activities"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "center",
+        "text": "center",
+        "pronunciation": {
+          "faReading": "سِنتِر",
+          "ipa": "/ˈsɛntɚ/"
+        },
+        "meaning": {
+          "fa": "مرکز",
+          "en": "center; a place for an activity"
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "fun",
+        "text": "fun",
+        "pronunciation": {
+          "faReading": "فَن",
+          "ipa": "/fʌn/"
+        },
+        "meaning": {
+          "fa": "سرگرم‌کننده؛ خوشی",
+          "en": "fun; enjoyable"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "join",
+        "text": "join",
+        "pronunciation": {
+          "faReading": "جوین",
+          "ipa": "/dʒɔɪn/"
+        },
+        "meaning": {
+          "fa": "پیوستن؛ همراه شدن",
+          "en": "join; become part of a group"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "day",
+        "text": "day",
+        "pronunciation": {
+          "faReading": "دِی",
+          "ipa": "/deɪ/"
+        },
+        "meaning": {
+          "fa": "روز",
+          "en": "day; a period of twenty-four hours"
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "welcome",
+        "text": "welcome",
+        "pronunciation": {
+          "faReading": "وِلکَم",
+          "ipa": "/ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خوش آمدی؛ خواهش می‌کنم",
+          "en": "welcome; a greeting or reply to thanks"
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "team",
+        "text": "team",
+        "pronunciation": {
+          "faReading": "تیم",
+          "ipa": "/tim/"
+        },
+        "meaning": {
+          "fa": "تیم؛ گروه",
+          "en": "team; people working or playing together"
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "always",
+        "text": "always",
+        "pronunciation": {
+          "faReading": "آل‌وِیز",
+          "ipa": "/ˈɔlweɪz/"
+        },
+        "meaning": {
+          "fa": "همیشه",
+          "en": "always; every time"
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "needs",
+        "text": "needs",
+        "pronunciation": {
+          "faReading": "نیدز",
+          "ipa": "/nidz/"
+        },
+        "meaning": {
+          "fa": "نیاز دارد",
+          "en": "needs; requires"
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "players",
+        "text": "players",
+        "pronunciation": {
+          "faReading": "پْلِیِرز",
+          "ipa": "/ˈpleɪɚz/"
+        },
+        "meaning": {
+          "fa": "بازیکنان",
+          "en": "players; people taking part in a game"
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "come",
+        "text": "come",
+        "pronunciation": {
+          "faReading": "کَم",
+          "ipa": "/kʌm/"
+        },
+        "meaning": {
+          "fa": "آمدن",
+          "en": "come; move toward this place"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "weekend",
+        "text": "weekend",
+        "pronunciation": {
+          "faReading": "ویک‌اِند",
+          "ipa": "/ˈwikˌɛnd/"
+        },
+        "meaning": {
+          "fa": "آخر هفته",
+          "en": "weekend; the end of the working week"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      },
+      {
+        "id": "invitation",
+        "text": "invitation",
+        "pronunciation": {
+          "faReading": "این‌وِتِیشن",
+          "ipa": "/ˌɪnvɪˈteɪʃən/"
+        },
+        "meaning": {
+          "fa": "دعوت",
+          "en": "invitation; a request to join an activity"
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "must-guess",
+        "title": {
+          "fa": "حدس مطمئن با must be",
+          "en": "A strong guess with must be"
+        },
+        "explanation": {
+          "fa": "You must be the new neighbor یعنی «تو حتماً همسایهٔ جدید هستی». must اینجا دستور یا اجبار نیست؛ پویا از روی موقعیت حدس مطمئن می‌زند. پس از must، be می‌آید.",
+          "en": "You must be the new neighbor makes a strong guess. Must here is not an order. Poya thinks this is very likely; use be after must."
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        },
+        "takeaway": {
+          "fa": "must be اینجا یعنی حتماً هستی.",
+          "en": "Must be here means very likely to be."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حدس مطمئن با must be",
+              "en": "A strong guess with must be"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "you must be the new neighbor"
+                },
+                {
+                  "text": "must + be + a description"
+                },
+                {
+                  "fa": "حتماً همسایهٔ جدید هستی",
+                  "en": "A strong guess"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "job-and-place",
+        "title": {
+          "fa": "گفتن شغل و جای آن",
+          "en": "Saying a job and its location"
+        },
+        "explanation": {
+          "fa": "I am a nurse شغل مینا را می‌گوید؛ a پیش از nurse است. at the hospital محل کار و near the park جای بیمارستان را مشخص می‌کند. It is nice to meet you هم یک جملهٔ آماده برای آشنایی است.",
+          "en": "I am a nurse gives Mina’s job, with a before nurse. At the hospital gives the workplace; near the park locates the hospital. It is nice to meet you is a first-meeting expression."
+        },
+        "example": {
+          "text": "I am a nurse, and I work at the hospital near the park.",
+          "translation": {
+            "fa": "من پرستارم و در بیمارستان نزدیک پارک کار می‌کنم.",
+            "en": "I am a nurse, and I work at the hospital near the park."
+          }
+        },
+        "takeaway": {
+          "fa": "near the park دربارهٔ بیمارستان است.",
+          "en": "Near the park describes the hospital’s location."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن شغل و جای آن",
+              "en": "Saying a job and its location"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am a nurse"
+                },
+                {
+                  "text": "I am + a + job"
+                },
+                {
+                  "fa": "من پرستار هستم",
+                  "en": "A job"
+                }
+              ],
+              [
+                {
+                  "text": "at the hospital near the park"
+                },
+                {
+                  "text": "at + hospital + near the park"
+                },
+                {
+                  "fa": "در بیمارستان نزدیک پارک",
+                  "en": "A workplace and its location"
+                }
+              ],
+              [
+                {
+                  "text": "It is nice to meet you"
+                },
+                {
+                  "text": "It is nice + to meet you"
+                },
+                {
+                  "fa": "از آشنایی خوشوقتم",
+                  "en": "A greeting"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "job-questions",
+        "title": {
+          "fa": "پرسیدن شغل و پاسخ کوتاه",
+          "en": "Asking about work and giving short answers"
+        },
+        "explanation": {
+          "fa": "What do you do for work? یعنی «شغلت چیست؟». do اول برای سؤال است و do دوم دربارهٔ کار کردن است. در Do you like living ...?، پاسخ I do یعنی «بله، دوست دارم»؛ لازم نیست کل جمله تکرار شود.",
+          "en": "What do you do for work? asks about a job. The first do helps the question; the second asks about work. After Do you like living ...?, I do means yes, I like it."
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        },
+        "takeaway": {
+          "fa": "I do می‌تواند پاسخ کوتاه به Do you ...? باشد.",
+          "en": "I do can answer Do you ...? briefly."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن شغل و پاسخ کوتاه",
+              "en": "Asking about work and giving short answers"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "what do you do for work?"
+                },
+                {
+                  "text": "What + do you + do for work?"
+                },
+                {
+                  "fa": "شغلت چیست؟",
+                  "en": "Asking about work"
+                }
+              ],
+              [
+                {
+                  "text": "do you like living in this neighborhood?"
+                },
+                {
+                  "text": "Do you like + living + place?"
+                },
+                {
+                  "fa": "زندگی در این محله را دوست داری؟",
+                  "en": "Asking about an activity"
+                }
+              ],
+              [
+                {
+                  "text": "I do"
+                },
+                {
+                  "text": "I do = I like living here"
+                },
+                {
+                  "fa": "بله، دوست دارم",
+                  "en": "A short answer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "routines-and-s",
+        "title": {
+          "fa": "عادت‌ها و s در فعل",
+          "en": "Habits and verbs ending in s"
+        },
+        "explanation": {
+          "fa": "برای عادت پویا می‌گوییم I play football. با the team که یک گروه را یک واحد می‌بیند، needs با s می‌آید. always یعنی همیشه. streets چند خیابان است، پس می‌گوییم are quiet.",
+          "en": "For Poya’s habit, say I play football. The team is treated as one unit, so use needs with s. Always means every time. Streets means several streets, so use are quiet."
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        },
+        "takeaway": {
+          "fa": "I play اما the team needs.",
+          "en": "I play, but the team needs."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "عادت‌ها و s در فعل",
+              "en": "Habits and verbs ending in s"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I play football"
+                },
+                {
+                  "text": "I + play + sport"
+                },
+                {
+                  "fa": "فوتبال بازی می‌کنم",
+                  "en": "A habit"
+                }
+              ],
+              [
+                {
+                  "text": "the team always needs new players"
+                },
+                {
+                  "text": "team + always + needs"
+                },
+                {
+                  "fa": "تیم همیشه بازیکن جدید لازم دارد",
+                  "en": "One team, verb with s"
+                }
+              ],
+              [
+                {
+                  "text": "the streets are quiet"
+                },
+                {
+                  "text": "plural streets + are"
+                },
+                {
+                  "fa": "خیابان‌ها آرام‌اند",
+                  "en": "More than one street"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-and-reason",
+        "title": {
+          "fa": "زمان و دلیل آمدن",
+          "en": "When and why someone moved"
+        },
+        "explanation": {
+          "fa": "I moved here last week یعنی هفتهٔ گذشته به اینجا نقل مکان کردم. last week زمان و for my job دلیل آن را می‌گوید. پیش از last week، in یا on اضافه نمی‌کنیم.",
+          "en": "I moved here last week describes a finished move. Last week gives the time; for my job gives the reason. Do not add in or on before last week."
+        },
+        "example": {
+          "text": "Yes, I am Mina, I moved here last week for my job.",
+          "translation": {
+            "fa": "بله، من مینا هستم؛ هفتهٔ گذشته به‌خاطر شغلم به اینجا آمدم.",
+            "en": "Yes, I am Mina, I moved here last week for my job."
+          }
+        },
+        "takeaway": {
+          "fa": "last week یعنی هفتهٔ گذشته.",
+          "en": "Last week means the week before this one."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان و دلیل آمدن",
+              "en": "When and why someone moved"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I moved here last week for my job"
+                },
+                {
+                  "text": "moved + here + last week + for my job"
+                },
+                {
+                  "fa": "هفتهٔ گذشته به‌خاطر کارم آمدم",
+                  "en": "Place, time and reason"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "free-time-and-invitation",
+        "title": {
+          "fa": "وقت آزاد و برنامهٔ بعدی",
+          "en": "Free time and a future plan"
+        },
+        "explanation": {
+          "fa": "In my free time یعنی در وقت آزادم. can join پیشنهاد همراه‌شدن را می‌گوید؛ I will come تصمیم میناست. maybe one day یعنی شاید یک روز، اما next weekend زمان مشخص‌تری برای آمدن است.",
+          "en": "In my free time introduces a hobby. Can join suggests joining; I will come gives Mina’s decision. Maybe one day is less exact than next weekend."
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        },
+        "takeaway": {
+          "fa": "پس از can و will، join و come را ساده بیاور.",
+          "en": "Use join and come in their plain forms after can and will."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "وقت آزاد و برنامهٔ بعدی",
+              "en": "Free time and a future plan"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "In my free time I play football"
+                },
+                {
+                  "text": "In my free time + a habit"
+                },
+                {
+                  "fa": "در وقت آزادم فوتبال بازی می‌کنم",
+                  "en": "A hobby"
+                }
+              ],
+              [
+                {
+                  "text": "I can join you one day"
+                },
+                {
+                  "text": "can + join + you"
+                },
+                {
+                  "fa": "شاید یک روز همراهتان شوم",
+                  "en": "A possibility"
+                }
+              ],
+              [
+                {
+                  "text": "I will come next weekend"
+                },
+                {
+                  "text": "will + come + next weekend"
+                },
+                {
+                  "fa": "آخر هفتهٔ آینده می‌آیم",
+                  "en": "A plan"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sounds-and-thanks",
+        "title": {
+          "fa": "واکنش به پیشنهاد",
+          "en": "Reacting to an invitation"
+        },
+        "explanation": {
+          "fa": "That sounds fun یعنی از چیزی که شنیدم، سرگرم‌کننده به نظر می‌رسد. You are very welcome اینجا یعنی با خوشحالی می‌توانی به ما بپیوندی؛ فقط جواب تشکر نیست. Thank you for the invitation هم دلیل تشکر را می‌گوید.",
+          "en": "That sounds fun reacts to the idea just heard. You are very welcome here warmly invites Mina to join; it is not just a reply to thanks. Thank you for the invitation gives the reason for thanks."
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        },
+        "takeaway": {
+          "fa": "معنی welcome را از موقعیت بفهم.",
+          "en": "Understand welcome from the situation."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "واکنش به پیشنهاد",
+              "en": "Reacting to an invitation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "That sounds fun"
+                },
+                {
+                  "text": "sounds + description"
+                },
+                {
+                  "fa": "سرگرم‌کننده به نظر می‌رسد",
+                  "en": "A positive reaction"
+                }
+              ],
+              [
+                {
+                  "text": "You are very welcome"
+                },
+                {
+                  "text": "welcome to join us"
+                },
+                {
+                  "fa": "خوشحال می‌شویم همراه شوی",
+                  "en": "A warm invitation"
+                }
+              ],
+              [
+                {
+                  "text": "thank you for the invitation"
+                },
+                {
+                  "text": "thank you for + invitation"
+                },
+                {
+                  "fa": "ممنون بابت دعوت",
+                  "en": "Giving a reason for thanks"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hello"
+        },
+        "context": {
+          "fa": "شروع دوستانهٔ صحبت با همسایهٔ تازه.",
+          "en": "A friendly opening with a new neighbor."
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "must-neighbor",
+        "text": "you must be the new neighbor",
+        "pronunciation": {
+          "faReading": "یو ماست بی ذِ نو نِیبِر",
+          "ipa": "/ju mʌst bi ðə nu ˈneɪbɚ/"
+        },
+        "meaning": {
+          "fa": "تو حتماً همسایهٔ جدید هستی",
+          "en": "You must be the new neighbor"
+        },
+        "context": {
+          "fa": "حدس مطمئن برای شروع آشنایی؛ اجبار نیست.",
+          "en": "A confident guess to start a conversation, not an obligation."
+        },
+        "example": {
+          "text": "Hello, I am Poya, and you must be the new neighbor.",
+          "translation": {
+            "fa": "سلام، من پویا هستم و تو حتماً همسایهٔ جدید هستی.",
+            "en": "Hello, I am Poya, and you must be the new neighbor."
+          }
+        }
+      },
+      {
+        "id": "nice-meet",
+        "text": "It is nice to meet you",
+        "pronunciation": {
+          "faReading": "ایت ایز نایس تو میت یو",
+          "ipa": "/ɪt ɪz naɪs tə mit ju/"
+        },
+        "meaning": {
+          "fa": "از آشنایی با تو خوشوقتم",
+          "en": "It is nice to meet you"
+        },
+        "context": {
+          "fa": "برای اولین آشنایی، با لحنی دوستانه و مؤدبانه.",
+          "en": "A friendly, polite first-meeting expression."
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "what-work",
+        "text": "what do you do for work?",
+        "pronunciation": {
+          "faReading": "وات دو یو دو فور وِرک",
+          "ipa": "/wʌt du ju du fɔr wɝk/"
+        },
+        "meaning": {
+          "fa": "شغلت چیست؟",
+          "en": "What do you do for work?"
+        },
+        "context": {
+          "fa": "دربارهٔ شغل است، نه کاری که همین لحظه انجام می‌دهی.",
+          "en": "Asks about a job, not the action happening this second."
+        },
+        "example": {
+          "text": "It is nice to meet you, Mina, what do you do for work?",
+          "translation": {
+            "fa": "از آشنایی با تو خوشوقتم، مینا؛ شغلت چیست؟",
+            "en": "It is nice to meet you, Mina, what do you do for work?"
+          }
+        }
+      },
+      {
+        "id": "free-time",
+        "text": "In my free time",
+        "pronunciation": {
+          "faReading": "این مای فْری تایم",
+          "ipa": "/ɪn maɪ fri taɪm/"
+        },
+        "meaning": {
+          "fa": "در وقت آزادم",
+          "en": "In my free time"
+        },
+        "context": {
+          "fa": "مقدمه‌ای برای گفتن سرگرمی‌ها.",
+          "en": "Introduces hobbies or leisure activities."
+        },
+        "example": {
+          "text": "In my free time I play football with friends at the sports center.",
+          "translation": {
+            "fa": "در وقت آزادم با دوستان در مرکز ورزشی فوتبال بازی می‌کنم.",
+            "en": "In my free time I play football with friends at the sports center."
+          }
+        }
+      },
+      {
+        "id": "sounds-fun",
+        "text": "That sounds fun",
+        "pronunciation": {
+          "faReading": "ذَت ساوندز فَن",
+          "ipa": "/ðæt saʊndz fʌn/"
+        },
+        "meaning": {
+          "fa": "سرگرم‌کننده به نظر می‌رسد",
+          "en": "That sounds fun"
+        },
+        "context": {
+          "fa": "واکنش مثبت به پیشنهاد یا فعالیتی که می‌شنویم.",
+          "en": "A positive reaction to an activity someone describes."
+        },
+        "example": {
+          "text": "That sounds fun, maybe I can join you one day.",
+          "translation": {
+            "fa": "سرگرم‌کننده به نظر می‌رسد؛ شاید یک روز به شما بپیوندم.",
+            "en": "That sounds fun, maybe I can join you one day."
+          }
+        }
+      },
+      {
+        "id": "very-welcome",
+        "text": "You are very welcome",
+        "pronunciation": {
+          "faReading": "یو آر وِری وِلکَم",
+          "ipa": "/ju ɑr ˈvɛri ˈwɛlkəm/"
+        },
+        "meaning": {
+          "fa": "خیلی خوشحال می‌شویم همراه شوی",
+          "en": "You are very welcome to join"
+        },
+        "context": {
+          "fa": "اینجا استقبال از پیوستن میناست، نه صرفاً جواب تشکر.",
+          "en": "Here it welcomes Mina to join, rather than simply replying to thanks."
+        },
+        "example": {
+          "text": "You are very welcome, the team always needs new players.",
+          "translation": {
+            "fa": "خیلی هم خوشحال می‌شویم؛ تیم همیشه به بازیکنان جدید نیاز دارد.",
+            "en": "You are very welcome, the team always needs new players."
+          }
+        }
+      },
+      {
+        "id": "thanks-invitation",
+        "text": "thank you for the invitation",
+        "pronunciation": {
+          "faReading": "ثَنک یو فور ذی این‌وِتِیشن",
+          "ipa": "/θæŋk ju fɔr ði ˌɪnvɪˈteɪʃən/"
+        },
+        "meaning": {
+          "fa": "ممنون بابت دعوت",
+          "en": "Thank you for the invitation"
+        },
+        "context": {
+          "fa": "برای تشکر پس از دعوت به بازی فوتبال.",
+          "en": "Thanks someone for inviting you to play football."
+        },
+        "example": {
+          "text": "Then I will come next weekend, thank you for the invitation.",
+          "translation": {
+            "fa": "پس آخر هفتهٔ آینده می‌آیم؛ ممنون بابت دعوت.",
+            "en": "Then I will come next weekend, thank you for the invitation."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "این گفت‌وگو بیشتر دربارهٔ چیست؟",
+          "en": "What is this conversation mainly about?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انتخاب یک بیمارستان",
+              "en": "Choosing a hospital"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "آشنایی دو همسایه و علایقشان",
+              "en": "Two neighbors getting acquainted and sharing interests"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خرید وسایل ورزشی",
+              "en": "Buying sports equipment"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پویا از همسایهٔ جدید می‌گوید و صحبت به شغل و فوتبال می‌رسد.",
+          "en": "Poya mentions the new neighbor, and the conversation moves to work and football."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t04",
+          "t07"
+        ]
+      },
+      {
+        "id": "job",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شغل مینا چیست؟",
+          "en": "What is Mina’s job?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پرستار",
+              "en": "Nurse"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "معلم",
+              "en": "Teacher"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "طراح",
+              "en": "Designer"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مینا می‌گوید I am a nurse.",
+          "en": "Mina says I am a nurse."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "workplace",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مینا کجا کار می‌کند؟",
+          "en": "Where does Mina work?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "در مدرسهٔ نزدیک پارک",
+              "en": "At the school near the park"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "در بیمارستان نزدیک بازار",
+              "en": "At the hospital near the market"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در بیمارستان نزدیک پارک",
+              "en": "At the hospital near the park"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "مینا مشخصاً از hospital near the park نام می‌برد.",
+          "en": "Mina specifically names the hospital near the park."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "hobby",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "پویا در وقت آزادش چه ورزشی می‌کند؟",
+          "en": "Which sport does Poya play in his free time?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تنیس",
+              "en": "Tennis"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فوتبال",
+              "en": "Football"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بسکتبال",
+              "en": "Basketball"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "پویا می‌گوید با دوستانش فوتبال بازی می‌کند.",
+          "en": "Poya says he plays football with friends."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      },
+      {
+        "id": "joining",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مینا برای چه زمانی قول آمدن می‌دهد؟",
+          "en": "When does Mina say she will come?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "آخر هفتهٔ آینده",
+              "en": "Next weekend"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فردا عصر",
+              "en": "Tomorrow evening"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "مینا در پایان می‌گوید I will come next weekend.",
+          "en": "Mina says I will come next weekend at the end."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      }
+    ]
+  }
+}

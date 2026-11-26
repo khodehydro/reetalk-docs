@@ -27,6 +27,42 @@ class DraftValidationTests(unittest.TestCase):
         with self.assertRaises(InvalidDraft):
             validate(self.draft(), studio=True)
 
+    def test_first_category_is_complete_at_source_levels(self):
+        paths = sorted((ENGLISH / "01 - معرفی و آشنایی").glob("*.txt"))
+        self.assertEqual(len(paths), 12)
+        levels = ["A1"] * 4 + ["A2"] * 4 + ["B1"] * 2 + ["B2", "C1"]
+        for index, (path, level) in enumerate(zip(paths, levels), 1):
+            with self.subTest(path=path.name):
+                d = load(path.with_suffix(".json"))
+                self.assertEqual(d["level"], level)
+                self.assertEqual(d["dialogueId"], f"en-t01-s{index:02}")
+                validate(d, path.read_text(encoding="utf-8"), studio=index > 4)
+
+    def test_word_example_must_be_a_real_turn(self):
+        d = self.draft()
+        d["learning"]["words"][0]["example"]["text"] = "A made-up example."
+        d["learning"]["words"][0]["example"]["translation"]["en"] = "A made-up example."
+        with self.assertRaisesRegex(InvalidDraft, "word example absent"):
+            validate(d)
+
+    def test_word_must_occur_in_its_own_example(self):
+        d = self.draft()
+        d["learning"]["words"][0]["example"] = {
+            "text": d["turns"][-1]["text"],
+            "translation": d["turns"][-1]["translation"].copy(),
+        }
+        with self.assertRaisesRegex(InvalidDraft, "word absent from its example"):
+            validate(d)
+
+    def test_phrase_must_occur_in_its_own_example(self):
+        d = self.draft()
+        d["learning"]["phrases"][0]["example"] = {
+            "text": d["turns"][-1]["text"],
+            "translation": d["turns"][-1]["translation"].copy(),
+        }
+        with self.assertRaisesRegex(InvalidDraft, "phrase absent from its example"):
+            validate(d)
+
     def test_unknown_speaker(self):
         d = self.draft()
         d["turns"][0]["speakerId"] = "missing"

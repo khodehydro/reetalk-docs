@@ -1,0 +1,4346 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s11",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "B2",
+  "title": {
+    "fa": "کارت ویزیت الهام",
+    "en": "Elham’s business card"
+  },
+  "objective": {
+    "fa": "حوزهٔ اصلی الهام، مدرکی که می‌فرستد و زمان‌های پیگیری و دیدار پیشنهادی را تشخیص بده.",
+    "en": "Identify Elham’s main research field, what she will send, and the proposed follow-up and meeting times."
+  },
+  "speakers": [
+    {
+      "id": "elham",
+      "name": "Elham",
+      "gender": "woman"
+    },
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "elham",
+      "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+      "translation": {
+        "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+        "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ در بعدازظهر به‌خیر",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "afternoon,",
+          "gloss": {
+            "fa": "بعدازظهر،",
+            "en": "afternoon; the period after midday"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Elham,",
+          "gloss": {
+            "fa": "الهام،",
+            "en": "Elham; a name"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "researcher",
+          "gloss": {
+            "fa": "پژوهشگر",
+            "en": "researcher; someone who conducts systematic study"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "renewable",
+          "gloss": {
+            "fa": "تجدیدپذیر",
+            "en": "renewable; naturally replenished rather than exhausted"
+          }
+        },
+        {
+          "surface": "energy.",
+          "gloss": {
+            "fa": "انرژی.",
+            "en": "energy; power used to do work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "arman",
+      "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+      "translation": {
+        "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+        "en": "It is a pleasure, I am Arman, I work for an engineering company."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "در این جمله جدا ترجمه نمی‌شود",
+            "en": "it; no separate meaning here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "pleasure,",
+          "gloss": {
+            "fa": "خوشوقتی،",
+            "en": "pleasure; something enjoyable"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Arman,",
+          "gloss": {
+            "fa": "آرمان،",
+            "en": "Arman; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنم",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "an",
+          "gloss": {
+            "fa": "یک",
+            "en": "an; a before a vowel sound"
+          }
+        },
+        {
+          "surface": "engineering",
+          "gloss": {
+            "fa": "مهندسی",
+            "en": "engineering; applying science to practical design"
+          }
+        },
+        {
+          "surface": "company.",
+          "gloss": {
+            "fa": "شرکت.",
+            "en": "company; a business organization"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "elham",
+      "text": "Our fields are related, we have been studying solar power systems lately.",
+      "translation": {
+        "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+        "en": "Our fields are related, we have been studying solar power systems lately."
+      },
+      "tokens": [
+        {
+          "surface": "Our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "fields",
+          "gloss": {
+            "fa": "حوزه‌ها",
+            "en": "fields; areas of study or work"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "related,",
+          "gloss": {
+            "fa": "مرتبط،",
+            "en": "related; connected in some way"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "به بخش بعدی فعل کمک می‌کند",
+            "en": "have; links the past to now"
+          }
+        },
+        {
+          "surface": "been",
+          "gloss": {
+            "fa": "بوده‌ایم",
+            "en": "been; past participle of be"
+          }
+        },
+        {
+          "surface": "studying",
+          "gloss": {
+            "fa": "در حال مطالعه",
+            "en": "studying; examining to learn or understand"
+          }
+        },
+        {
+          "surface": "solar",
+          "gloss": {
+            "fa": "خورشیدی",
+            "en": "solar; relating to the sun"
+          }
+        },
+        {
+          "surface": "power",
+          "gloss": {
+            "fa": "انرژی",
+            "en": "power; usable energy"
+          }
+        },
+        {
+          "surface": "systems",
+          "gloss": {
+            "fa": "سامانه‌ها",
+            "en": "systems; sets of connected parts"
+          }
+        },
+        {
+          "surface": "lately.",
+          "gloss": {
+            "fa": "اخیراً.",
+            "en": "lately; in the recent period"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "arman",
+      "text": "That is exactly what my company needs, could you share your findings?",
+      "translation": {
+        "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+        "en": "That is exactly what my company needs, could you share your findings?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "exactly",
+          "gloss": {
+            "fa": "دقیقاً",
+            "en": "exactly; precisely"
+          }
+        },
+        {
+          "surface": "what",
+          "gloss": {
+            "fa": "چیزی که",
+            "en": "what; asks for information"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "company",
+          "gloss": {
+            "fa": "شرکت",
+            "en": "company; a business organization"
+          }
+        },
+        {
+          "surface": "needs,",
+          "gloss": {
+            "fa": "نیاز دارد،",
+            "en": "needs; requires"
+          }
+        },
+        {
+          "surface": "could",
+          "gloss": {
+            "fa": "می‌توانید",
+            "en": "could; makes a request less direct"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "share",
+          "gloss": {
+            "fa": "به اشتراک بگذارید",
+            "en": "share; give others access to something"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "findings?",
+          "gloss": {
+            "fa": "یافته‌ها؟",
+            "en": "findings; results established through research"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "elham",
+      "text": "I can send you a summary of our recent paper after the conference.",
+      "translation": {
+        "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+        "en": "I can send you a summary of our recent paper after the conference."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "send",
+          "gloss": {
+            "fa": "بفرستم",
+            "en": "send; cause something to reach someone"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "برای شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "summary",
+          "gloss": {
+            "fa": "خلاصه",
+            "en": "summary; a brief account of the main points"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "recent",
+          "gloss": {
+            "fa": "اخیر",
+            "en": "recent; from a short time ago"
+          }
+        },
+        {
+          "surface": "paper",
+          "gloss": {
+            "fa": "مقاله",
+            "en": "paper; a research article"
+          }
+        },
+        {
+          "surface": "after",
+          "gloss": {
+            "fa": "پس از",
+            "en": "after; later than"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "conference.",
+          "gloss": {
+            "fa": "همایش.",
+            "en": "conference; a formal professional gathering"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "arman",
+      "text": "I would be very grateful, here is my business card with my email.",
+      "translation": {
+        "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+        "en": "I would be very grateful, here is my business card with my email."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "می‌شوم",
+            "en": "would; makes an offer or idea gentler"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "باشم",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "grateful,",
+          "gloss": {
+            "fa": "سپاسگزار،",
+            "en": "grateful; appreciative of help"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "این",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "business",
+          "gloss": {
+            "fa": "کاری",
+            "en": "business; connected with work or trade"
+          }
+        },
+        {
+          "surface": "card",
+          "gloss": {
+            "fa": "کارت",
+            "en": "card; a card with contact information"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "email.",
+          "gloss": {
+            "fa": "ایمیل.",
+            "en": "email; electronic mail"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "elham",
+      "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+      "translation": {
+        "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+        "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "شما،",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "this",
+          "gloss": {
+            "fa": "این",
+            "en": "this; a nearby or current referent"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "card,",
+          "gloss": {
+            "fa": "کارت،",
+            "en": "card; a card with contact information"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "بتوانیم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "set",
+          "gloss": {
+            "fa": "ترتیب بدهیم؛ همراه up",
+            "en": "set; part of set up"
+          }
+        },
+        {
+          "surface": "up",
+          "gloss": {
+            "fa": "ترتیب بدهیم؛ همراه set",
+            "en": "up; completes set up"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "meeting",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "month.",
+          "gloss": {
+            "fa": "ماه.",
+            "en": "month; one of twelve calendar periods"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "arman",
+      "text": "That sounds like a great idea, I will write to you next week.",
+      "translation": {
+        "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+        "en": "That sounds like a great idea, I will write to you next week."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "مثل",
+            "en": "like; similar to"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده،",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "نوشت",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته.",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "elham",
+      "text": "Perfect, I look forward to our collaboration.",
+      "translation": {
+        "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+        "en": "Perfect, I look forward to our collaboration."
+      },
+      "tokens": [
+        {
+          "surface": "Perfect,",
+          "gloss": {
+            "fa": "عالی،",
+            "en": "perfect; exactly right"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "look",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of look forward to"
+          }
+        },
+        {
+          "surface": "forward",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of look forward to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "collaboration.",
+          "gloss": {
+            "fa": "همکاری.",
+            "en": "collaboration; working jointly toward a goal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "arman",
+      "text": "Do you also work on wind energy projects?",
+      "translation": {
+        "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+        "en": "Do you also work on wind energy projects?"
+      },
+      "tokens": [
+        {
+          "surface": "Do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "also",
+          "gloss": {
+            "fa": "هم",
+            "en": "also; in addition"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنید",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "wind",
+          "gloss": {
+            "fa": "بادی",
+            "en": "wind; moving air used as an energy source"
+          }
+        },
+        {
+          "surface": "energy",
+          "gloss": {
+            "fa": "انرژی",
+            "en": "energy; power used to do work"
+          }
+        },
+        {
+          "surface": "projects?",
+          "gloss": {
+            "fa": "پروژه‌ها؟",
+            "en": "projects; planned pieces of work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "elham",
+      "text": "Yes, but solar energy is my main field of research.",
+      "translation": {
+        "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+        "en": "Yes, but solar energy is my main field of research."
+      },
+      "tokens": [
+        {
+          "surface": "Yes,",
+          "gloss": {
+            "fa": "بله،",
+            "en": "yes; an affirmative answer"
+          }
+        },
+        {
+          "surface": "but",
+          "gloss": {
+            "fa": "ولی",
+            "en": "but; introduces contrast"
+          }
+        },
+        {
+          "surface": "solar",
+          "gloss": {
+            "fa": "خورشیدی",
+            "en": "solar; relating to the sun"
+          }
+        },
+        {
+          "surface": "energy",
+          "gloss": {
+            "fa": "انرژی",
+            "en": "energy; power used to do work"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "main",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "main; most important"
+          }
+        },
+        {
+          "surface": "field",
+          "gloss": {
+            "fa": "حوزه",
+            "en": "field; an area of study or work"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "research.",
+          "gloss": {
+            "fa": "پژوهش.",
+            "en": "research; systematic study to establish knowledge"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "arman",
+      "text": "Then our meeting will be very productive for both of us.",
+      "translation": {
+        "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+        "en": "Then our meeting will be very productive for both of us."
+      },
+      "tokens": [
+        {
+          "surface": "Then",
+          "gloss": {
+            "fa": "پس",
+            "en": "then; in that case"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "meeting",
+          "gloss": {
+            "fa": "جلسه",
+            "en": "meeting; people coming together to discuss work"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهد",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بود",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "productive",
+          "gloss": {
+            "fa": "پربار",
+            "en": "productive; producing useful results"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "us.",
+          "gloss": {
+            "fa": "ما.",
+            "en": "us; the speaker and others"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "elham",
+      "text": "I believe it will be, we have a lot of common ground.",
+      "translation": {
+        "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+        "en": "I believe it will be, we have a lot of common ground."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "believe",
+          "gloss": {
+            "fa": "فکر می‌کنم",
+            "en": "believe; think something is true"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "آن",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهد",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "be,",
+          "gloss": {
+            "fa": "بود،",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داریم",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک؛ در مقدار زیاد",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "lot",
+          "gloss": {
+            "fa": "مقدار زیاد",
+            "en": "lot; a large amount"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "common",
+          "gloss": {
+            "fa": "مشترک",
+            "en": "common; shared by people"
+          }
+        },
+        {
+          "surface": "ground.",
+          "gloss": {
+            "fa": "زمینه.",
+            "en": "ground; shared interests in common ground"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "arman",
+      "text": "I will prepare our questions in advance, and we can discuss the details.",
+      "translation": {
+        "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+        "en": "I will prepare our questions in advance, and we can discuss the details."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "prepare",
+          "gloss": {
+            "fa": "آماده کرد",
+            "en": "prepare; make ready"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "questions",
+          "gloss": {
+            "fa": "پرسش‌ها",
+            "en": "questions; things people ask"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "از پیش؛ همراه advance",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "advance,",
+          "gloss": {
+            "fa": "از پیش؛ همراه in،",
+            "en": "advance; part of in advance"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "می‌توانیم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "discuss",
+          "gloss": {
+            "fa": "گفت‌وگو کنیم دربارهٔ",
+            "en": "discuss; examine a topic in conversation"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "details.",
+          "gloss": {
+            "fa": "جزئیات.",
+            "en": "details; specific pieces of information"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "afternoon",
+        "text": "afternoon",
+        "pronunciation": {
+          "faReading": "اَفتِرنون",
+          "ipa": "/ˌæftɚˈnun/"
+        },
+        "meaning": {
+          "fa": "بعدازظهر",
+          "en": "afternoon; the period after midday"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "researcher",
+        "text": "researcher",
+        "pronunciation": {
+          "faReading": "ریسِرچِر",
+          "ipa": "/ˈrisɝtʃɚ/"
+        },
+        "meaning": {
+          "fa": "پژوهشگر",
+          "en": "researcher; someone who conducts systematic study"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "renewable",
+        "text": "renewable",
+        "pronunciation": {
+          "faReading": "ری‌نوئِبِل",
+          "ipa": "/rɪˈnuəbəl/"
+        },
+        "meaning": {
+          "fa": "تجدیدپذیر",
+          "en": "renewable; naturally replenished rather than exhausted"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "energy",
+        "text": "energy",
+        "pronunciation": {
+          "faReading": "اِنِرجی",
+          "ipa": "/ˈɛnɚdʒi/"
+        },
+        "meaning": {
+          "fa": "انرژی",
+          "en": "energy; power used to do work"
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این جمله جدا ترجمه نمی‌شود",
+          "en": "it; no separate meaning here"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "pleasure",
+        "text": "pleasure",
+        "pronunciation": {
+          "faReading": "پْلِژِر",
+          "ipa": "/ˈplɛʒɚ/"
+        },
+        "meaning": {
+          "fa": "مایهٔ خوشوقتی",
+          "en": "pleasure; something enjoyable"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "work; do a job"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "an",
+        "text": "an",
+        "pronunciation": {
+          "faReading": "اَن",
+          "ipa": "/ən/"
+        },
+        "meaning": {
+          "fa": "یک؛ پیش از صدای واکه",
+          "en": "an; a before a vowel sound"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "engineering",
+        "text": "engineering",
+        "pronunciation": {
+          "faReading": "اِنجِنی‌رینگ",
+          "ipa": "/ˌɛndʒəˈnɪrɪŋ/"
+        },
+        "meaning": {
+          "fa": "مهندسی",
+          "en": "engineering; applying science to practical design"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "company",
+        "text": "company",
+        "pronunciation": {
+          "faReading": "کامپِنی",
+          "ipa": "/ˈkʌmpəni/"
+        },
+        "meaning": {
+          "fa": "شرکت",
+          "en": "company; a business organization"
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "fields",
+        "text": "fields",
+        "pronunciation": {
+          "faReading": "فیلدز",
+          "ipa": "/fildz/"
+        },
+        "meaning": {
+          "fa": "حوزه‌ها",
+          "en": "fields; areas of study or work"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "related",
+        "text": "related",
+        "pronunciation": {
+          "faReading": "ری‌لِیتِد",
+          "ipa": "/rɪˈleɪtɪd/"
+        },
+        "meaning": {
+          "fa": "مرتبط",
+          "en": "related; connected in some way"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "جزء ساخت have been studying؛ فعالیت تا دورهٔ اخیر",
+          "en": "have; perfect auxiliary in have been studying, linking earlier activity to the recent period"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "been",
+        "text": "been",
+        "pronunciation": {
+          "faReading": "بین",
+          "ipa": "/bɪn/"
+        },
+        "meaning": {
+          "fa": "بوده؛ شکل سوم be",
+          "en": "been; past participle of be"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "studying",
+        "text": "studying",
+        "pronunciation": {
+          "faReading": "سْتادی‌اینگ",
+          "ipa": "/ˈstʌdiɪŋ/"
+        },
+        "meaning": {
+          "fa": "در حال مطالعه یا بررسی",
+          "en": "studying; examining to learn or understand"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "solar",
+        "text": "solar",
+        "pronunciation": {
+          "faReading": "سُولِر",
+          "ipa": "/ˈsoʊlɚ/"
+        },
+        "meaning": {
+          "fa": "خورشیدی",
+          "en": "solar; relating to the sun"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "power",
+        "text": "power",
+        "pronunciation": {
+          "faReading": "پاوِر",
+          "ipa": "/ˈpaʊɚ/"
+        },
+        "meaning": {
+          "fa": "توان؛ انرژی قابل‌استفاده",
+          "en": "power; usable energy"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "systems",
+        "text": "systems",
+        "pronunciation": {
+          "faReading": "سیستِمز",
+          "ipa": "/ˈsɪstəmz/"
+        },
+        "meaning": {
+          "fa": "سامانه‌ها",
+          "en": "systems; sets of connected parts"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "lately",
+        "text": "lately",
+        "pronunciation": {
+          "faReading": "لِیتلی",
+          "ipa": "/ˈleɪtli/"
+        },
+        "meaning": {
+          "fa": "اخیراً؛ این اواخر",
+          "en": "lately; in the recent period"
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "exactly",
+        "text": "exactly",
+        "pronunciation": {
+          "faReading": "ایگْزَکتلی",
+          "ipa": "/ɪɡˈzæktli/"
+        },
+        "meaning": {
+          "fa": "دقیقاً",
+          "en": "exactly; precisely"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "what",
+        "text": "what",
+        "pronunciation": {
+          "faReading": "وات",
+          "ipa": "/wʌt/"
+        },
+        "meaning": {
+          "fa": "چه؛ چی",
+          "en": "what; asks for information"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "needs",
+        "text": "needs",
+        "pronunciation": {
+          "faReading": "نیدز",
+          "ipa": "/nidz/"
+        },
+        "meaning": {
+          "fa": "نیاز دارد",
+          "en": "needs; requires"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "می‌توانید؛ در درخواست مؤدبانه",
+          "en": "could; makes a request less direct"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "share",
+        "text": "share",
+        "pronunciation": {
+          "faReading": "شِر",
+          "ipa": "/ʃɛr/"
+        },
+        "meaning": {
+          "fa": "به اشتراک گذاشتن",
+          "en": "share; give others access to something"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "findings",
+        "text": "findings",
+        "pronunciation": {
+          "faReading": "فایندینگْز",
+          "ipa": "/ˈfaɪndɪŋz/"
+        },
+        "meaning": {
+          "fa": "یافته‌های پژوهش",
+          "en": "findings; results established through research"
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "send",
+        "text": "send",
+        "pronunciation": {
+          "faReading": "سِند",
+          "ipa": "/sɛnd/"
+        },
+        "meaning": {
+          "fa": "فرستادن",
+          "en": "send; cause something to reach someone"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "summary",
+        "text": "summary",
+        "pronunciation": {
+          "faReading": "سامِری",
+          "ipa": "/ˈsʌməri/"
+        },
+        "meaning": {
+          "fa": "خلاصه",
+          "en": "summary; a brief account of the main points"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "recent",
+        "text": "recent",
+        "pronunciation": {
+          "faReading": "ریسِنت",
+          "ipa": "/ˈrisənt/"
+        },
+        "meaning": {
+          "fa": "اخیر",
+          "en": "recent; from a short time ago"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "paper",
+        "text": "paper",
+        "pronunciation": {
+          "faReading": "پِیپِر",
+          "ipa": "/ˈpeɪpɚ/"
+        },
+        "meaning": {
+          "fa": "مقالهٔ پژوهشی",
+          "en": "paper; a research article"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "after",
+        "text": "after",
+        "pronunciation": {
+          "faReading": "اَفتِر",
+          "ipa": "/ˈæftɚ/"
+        },
+        "meaning": {
+          "fa": "پس از",
+          "en": "after; later than"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "conference",
+        "text": "conference",
+        "pronunciation": {
+          "faReading": "کانفِرِنس",
+          "ipa": "/ˈkɑnfərəns/"
+        },
+        "meaning": {
+          "fa": "همایش",
+          "en": "conference; a formal professional gathering"
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "می‌شد؛ در پیشنهاد مؤدبانه",
+          "en": "would; makes an offer or idea gentler"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "grateful",
+        "text": "grateful",
+        "pronunciation": {
+          "faReading": "گْرِیت‌فُل",
+          "ipa": "/ˈɡreɪtfəl/"
+        },
+        "meaning": {
+          "fa": "سپاسگزار",
+          "en": "grateful; appreciative of help"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "business",
+        "text": "business",
+        "pronunciation": {
+          "faReading": "بیزنِس",
+          "ipa": "/ˈbɪznəs/"
+        },
+        "meaning": {
+          "fa": "کاری؛ کسب‌وکار",
+          "en": "business; connected with work or trade"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "card",
+        "text": "card",
+        "pronunciation": {
+          "faReading": "کارد",
+          "ipa": "/kɑrd/"
+        },
+        "meaning": {
+          "fa": "کارت؛ اینجا کارت تماس",
+          "en": "card; a card with contact information"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "email",
+        "text": "email",
+        "pronunciation": {
+          "faReading": "ای‌مِیل",
+          "ipa": "/ˈiˌmeɪl/"
+        },
+        "meaning": {
+          "fa": "ایمیل؛ پست الکترونیکی",
+          "en": "email; electronic mail"
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "this",
+        "text": "this",
+        "pronunciation": {
+          "faReading": "ذیس",
+          "ipa": "/ðɪs/"
+        },
+        "meaning": {
+          "fa": "این",
+          "en": "this; a nearby or current referent"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "set",
+        "text": "set",
+        "pronunciation": {
+          "faReading": "سِت",
+          "ipa": "/sɛt/"
+        },
+        "meaning": {
+          "fa": "در set up یعنی ترتیب دادن",
+          "en": "set; part of set up"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "up",
+        "text": "up",
+        "pronunciation": {
+          "faReading": "اَپ",
+          "ipa": "/ʌp/"
+        },
+        "meaning": {
+          "fa": "در set up یعنی ترتیب دادن",
+          "en": "up; completes set up"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "meeting",
+        "text": "meeting",
+        "pronunciation": {
+          "faReading": "میتینگ",
+          "ipa": "/ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "جلسه",
+          "en": "meeting; people coming together to discuss work"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "month",
+        "text": "month",
+        "pronunciation": {
+          "faReading": "مَنث",
+          "ipa": "/mʌnθ/"
+        },
+        "meaning": {
+          "fa": "ماه",
+          "en": "month; one of twelve calendar periods"
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "مثل؛ شبیه",
+          "en": "like; similar to"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بخشی از look forward to؛ پیش از اسم همکاری",
+          "en": "to; preposition in look forward to our collaboration"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ کاملاً مناسب",
+          "en": "perfect; exactly right"
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "look",
+        "text": "look",
+        "pronunciation": {
+          "faReading": "لوک",
+          "ipa": "/lʊk/"
+        },
+        "meaning": {
+          "fa": "در look forward to یعنی مشتاق بودن",
+          "en": "look; part of look forward to"
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "forward",
+        "text": "forward",
+        "pronunciation": {
+          "faReading": "فوروِرد",
+          "ipa": "/ˈfɔrwɚd/"
+        },
+        "meaning": {
+          "fa": "در look forward to یعنی مشتاق بودن",
+          "en": "forward; part of look forward to"
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "collaboration",
+        "text": "collaboration",
+        "pronunciation": {
+          "faReading": "کِلَبِرِیشن",
+          "ipa": "/kəˌlæbəˈreɪʃən/"
+        },
+        "meaning": {
+          "fa": "همکاری",
+          "en": "collaboration; working jointly toward a goal"
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "Do you also work on wind energy projects?",
+          "translation": {
+            "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+            "en": "Do you also work on wind energy projects?"
+          }
+        }
+      },
+      {
+        "id": "also",
+        "text": "also",
+        "pronunciation": {
+          "faReading": "آل‌سُو",
+          "ipa": "/ˈɔlsoʊ/"
+        },
+        "meaning": {
+          "fa": "هم؛ همچنین",
+          "en": "also; in addition"
+        },
+        "example": {
+          "text": "Do you also work on wind energy projects?",
+          "translation": {
+            "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+            "en": "Do you also work on wind energy projects?"
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "Do you also work on wind energy projects?",
+          "translation": {
+            "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+            "en": "Do you also work on wind energy projects?"
+          }
+        }
+      },
+      {
+        "id": "wind",
+        "text": "wind",
+        "pronunciation": {
+          "faReading": "ویند",
+          "ipa": "/wɪnd/"
+        },
+        "meaning": {
+          "fa": "باد؛ بادی",
+          "en": "wind; moving air used as an energy source"
+        },
+        "example": {
+          "text": "Do you also work on wind energy projects?",
+          "translation": {
+            "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+            "en": "Do you also work on wind energy projects?"
+          }
+        }
+      },
+      {
+        "id": "projects",
+        "text": "projects",
+        "pronunciation": {
+          "faReading": "پْراجِکتس",
+          "ipa": "/ˈprɑdʒɛkts/"
+        },
+        "meaning": {
+          "fa": "پروژه‌ها",
+          "en": "projects; planned pieces of work"
+        },
+        "example": {
+          "text": "Do you also work on wind energy projects?",
+          "translation": {
+            "fa": "روی پروژه‌های انرژی بادی هم کار می‌کنید؟",
+            "en": "Do you also work on wind energy projects?"
+          }
+        }
+      },
+      {
+        "id": "yes",
+        "text": "yes",
+        "pronunciation": {
+          "faReading": "یِس",
+          "ipa": "/jɛs/"
+        },
+        "meaning": {
+          "fa": "بله",
+          "en": "yes; an affirmative answer"
+        },
+        "example": {
+          "text": "Yes, but solar energy is my main field of research.",
+          "translation": {
+            "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+            "en": "Yes, but solar energy is my main field of research."
+          }
+        }
+      },
+      {
+        "id": "but",
+        "text": "but",
+        "pronunciation": {
+          "faReading": "بَت",
+          "ipa": "/bʌt/"
+        },
+        "meaning": {
+          "fa": "اما؛ ولی",
+          "en": "but; introduces contrast"
+        },
+        "example": {
+          "text": "Yes, but solar energy is my main field of research.",
+          "translation": {
+            "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+            "en": "Yes, but solar energy is my main field of research."
+          }
+        }
+      },
+      {
+        "id": "main",
+        "text": "main",
+        "pronunciation": {
+          "faReading": "مِین",
+          "ipa": "/meɪn/"
+        },
+        "meaning": {
+          "fa": "اصلی",
+          "en": "main; most important"
+        },
+        "example": {
+          "text": "Yes, but solar energy is my main field of research.",
+          "translation": {
+            "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+            "en": "Yes, but solar energy is my main field of research."
+          }
+        }
+      },
+      {
+        "id": "field",
+        "text": "field",
+        "pronunciation": {
+          "faReading": "فیلد",
+          "ipa": "/fild/"
+        },
+        "meaning": {
+          "fa": "حوزه؛ زمینهٔ تخصص",
+          "en": "field; an area of study or work"
+        },
+        "example": {
+          "text": "Yes, but solar energy is my main field of research.",
+          "translation": {
+            "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+            "en": "Yes, but solar energy is my main field of research."
+          }
+        }
+      },
+      {
+        "id": "research",
+        "text": "research",
+        "pronunciation": {
+          "faReading": "ریسِرچ",
+          "ipa": "/ˈrisɝtʃ/"
+        },
+        "meaning": {
+          "fa": "پژوهش",
+          "en": "research; systematic study to establish knowledge"
+        },
+        "example": {
+          "text": "Yes, but solar energy is my main field of research.",
+          "translation": {
+            "fa": "بله، اما انرژی خورشیدی حوزهٔ اصلی پژوهش من است.",
+            "en": "Yes, but solar energy is my main field of research."
+          }
+        }
+      },
+      {
+        "id": "then",
+        "text": "then",
+        "pronunciation": {
+          "faReading": "ذِن",
+          "ipa": "/ðɛn/"
+        },
+        "meaning": {
+          "fa": "پس؛ آن‌وقت",
+          "en": "then; in that case"
+        },
+        "example": {
+          "text": "Then our meeting will be very productive for both of us.",
+          "translation": {
+            "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+            "en": "Then our meeting will be very productive for both of us."
+          }
+        }
+      },
+      {
+        "id": "productive",
+        "text": "productive",
+        "pronunciation": {
+          "faReading": "پْرِداکتیو",
+          "ipa": "/prəˈdʌktɪv/"
+        },
+        "meaning": {
+          "fa": "پربار؛ نتیجه‌بخش",
+          "en": "productive; producing useful results"
+        },
+        "example": {
+          "text": "Then our meeting will be very productive for both of us.",
+          "translation": {
+            "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+            "en": "Then our meeting will be very productive for both of us."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two together"
+        },
+        "example": {
+          "text": "Then our meeting will be very productive for both of us.",
+          "translation": {
+            "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+            "en": "Then our meeting will be very productive for both of us."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "Then our meeting will be very productive for both of us.",
+          "translation": {
+            "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+            "en": "Then our meeting will be very productive for both of us."
+          }
+        }
+      },
+      {
+        "id": "believe",
+        "text": "believe",
+        "pronunciation": {
+          "faReading": "بی‌لیو",
+          "ipa": "/bɪˈliv/"
+        },
+        "meaning": {
+          "fa": "باور داشتن؛ فکر کردن",
+          "en": "believe; think something is true"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "it-base",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; the thing mentioned"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "have-base",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "داشتن؛ در have common ground یعنی مشترک بودن زمینه‌ها",
+          "en": "have; possess or share, here shared interests"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "lot",
+        "text": "lot",
+        "pronunciation": {
+          "faReading": "لات",
+          "ipa": "/lɑt/"
+        },
+        "meaning": {
+          "fa": "مقدار زیاد",
+          "en": "lot; a large amount"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "common",
+        "text": "common",
+        "pronunciation": {
+          "faReading": "کامِن",
+          "ipa": "/ˈkɑmən/"
+        },
+        "meaning": {
+          "fa": "مشترک",
+          "en": "common; shared by people"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "ground",
+        "text": "ground",
+        "pronunciation": {
+          "faReading": "گْراوند",
+          "ipa": "/ɡraʊnd/"
+        },
+        "meaning": {
+          "fa": "زمینه؛ در common ground یعنی وجه مشترک",
+          "en": "ground; shared interests in common ground"
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "prepare",
+        "text": "prepare",
+        "pronunciation": {
+          "faReading": "پْری‌پِر",
+          "ipa": "/prɪˈpɛr/"
+        },
+        "meaning": {
+          "fa": "آماده کردن",
+          "en": "prepare; make ready"
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      },
+      {
+        "id": "questions",
+        "text": "questions",
+        "pronunciation": {
+          "faReading": "کْوِسچِنز",
+          "ipa": "/ˈkwɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پرسش‌ها",
+          "en": "questions; things people ask"
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      },
+      {
+        "id": "advance",
+        "text": "advance",
+        "pronunciation": {
+          "faReading": "اَدْوَنس",
+          "ipa": "/ədˈvæns/"
+        },
+        "meaning": {
+          "fa": "در in advance یعنی از پیش",
+          "en": "advance; part of in advance"
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      },
+      {
+        "id": "discuss",
+        "text": "discuss",
+        "pronunciation": {
+          "faReading": "دیس‌کَس",
+          "ipa": "/dɪˈskʌs/"
+        },
+        "meaning": {
+          "fa": "گفت‌وگو کردن دربارهٔ",
+          "en": "discuss; examine a topic in conversation"
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      },
+      {
+        "id": "details",
+        "text": "details",
+        "pronunciation": {
+          "faReading": "دی‌تِیلز",
+          "ipa": "/dɪˈteɪlz/"
+        },
+        "meaning": {
+          "fa": "جزئیات",
+          "en": "details; specific pieces of information"
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      },
+      {
+        "id": "to-recipient",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ نشان‌دهندهٔ گیرندهٔ نوشته",
+          "en": "to; marks the recipient in write to you"
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "ongoing-research",
+        "title": {
+          "fa": "حال کامل استمراری و فعالیت پژوهشی",
+          "en": "Present perfect continuous for research"
+        },
+        "explanation": {
+          "fa": "have been studying فعالیتی را نشان می‌دهد که در دوره‌ای پیش از حال شروع شده و تا این اواخر جریان داشته است. lately این بازهٔ اخیر را برجسته می‌کند. ساخت، have + been + فعل ing است؛ تمرکز بر روند پژوهش است، نه الزاماً پایان آن.",
+          "en": "Have been studying presents an activity extending from before now into the recent period. Lately reinforces that recent time frame. The form is have + been + ing; the focus is on the research process, not necessarily its completion."
+        },
+        "example": {
+          "text": "Our fields are related, we have been studying solar power systems lately.",
+          "translation": {
+            "fa": "حوزه‌های ما مرتبط‌اند؛ اخیراً مشغول مطالعهٔ سامانه‌های انرژی خورشیدی بوده‌ایم.",
+            "en": "Our fields are related, we have been studying solar power systems lately."
+          }
+        },
+        "takeaway": {
+          "fa": "از این جمله به‌تنهایی نمی‌توان پایان پژوهش را نتیجه گرفت.",
+          "en": "The sentence alone does not establish that the research is finished."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "حال کامل استمراری و فعالیت پژوهشی",
+              "en": "Present perfect continuous for research"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we have been studying solar power systems lately"
+                },
+                {
+                  "text": "have + been + studying + object + lately"
+                },
+                {
+                  "fa": "اخیراً مشغول بررسی سامانه‌های خورشیدی بوده‌ایم",
+                  "en": "An ongoing/recent research process"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "professional-requests",
+        "title": {
+          "fa": "فاصلهٔ مؤدبانه در درخواست و تشکر",
+          "en": "Polite distance in requests and thanks"
+        },
+        "explanation": {
+          "fa": "Could you share ...? درخواست را غیرمستقیم‌تر از یک دستور می‌کند؛ could اینجا گذشتهٔ واقعی نیست. I would be very grateful واکنش فرضی به کمک احتمالی است. can send در مقابل، پیشنهاد عملی گوینده را بیان می‌کند.",
+          "en": "Could you share ...? softens the request rather than locating it in past time. I would be very grateful presents gratitude conditionally for possible help. Can send, by contrast, offers practical assistance."
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        },
+        "takeaway": {
+          "fa": "could و would را اینجا با نقش مؤدبانه‌شان بخوان.",
+          "en": "Read could and would here as interpersonal softeners."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "فاصلهٔ مؤدبانه در درخواست و تشکر",
+              "en": "Polite distance in requests and thanks"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "could you share your findings?"
+                },
+                {
+                  "text": "could + subject + base verb"
+                },
+                {
+                  "fa": "می‌توانید یافته‌ها را به اشتراک بگذارید؟",
+                  "en": "A softened request"
+                }
+              ],
+              [
+                {
+                  "text": "I would be very grateful"
+                },
+                {
+                  "text": "would + be + evaluation"
+                },
+                {
+                  "fa": "بسیار سپاسگزار می‌شوم",
+                  "en": "Anticipated gratitude"
+                }
+              ],
+              [
+                {
+                  "text": "I can send you a summary"
+                },
+                {
+                  "text": "can + send + recipient + item"
+                },
+                {
+                  "fa": "می‌توانم خلاصه‌ای بفرستم",
+                  "en": "A concrete offer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-and-believe",
+        "title": {
+          "fa": "بندهای درون جمله و ارجاع",
+          "en": "Embedded clauses and reference"
+        },
+        "explanation": {
+          "fa": "what my company needs یک چیز را نام می‌برد: «آنچه شرکت من نیاز دارد»؛ ترتیبش my company needs است، نه ترتیب پرسشی. در I believe it will be، that پس از believe گفته نشده و productive از حرف قبلی فهمیده می‌شود؛ it به جلسه اشاره دارد.",
+          "en": "What my company needs is a fused relative meaning the thing that the company needs, with statement order. In I believe it will be, that is omitted after believe and productive is understood from the previous turn; it refers to the meeting."
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        },
+        "takeaway": {
+          "fa": "ارجاع it و بخش حذف‌شده را از نوبت قبلی پیدا کن.",
+          "en": "Resolve it and the omitted complement through the previous turn."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بندهای درون جمله و ارجاع",
+              "en": "Embedded clauses and reference"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "That is exactly what my company needs"
+                },
+                {
+                  "text": "what + subject + verb"
+                },
+                {
+                  "fa": "این دقیقاً نیاز شرکت من است",
+                  "en": "Identifying the required thing"
+                }
+              ],
+              [
+                {
+                  "text": "I believe it will be"
+                },
+                {
+                  "text": "believe + [that] + it will be [productive]"
+                },
+                {
+                  "fa": "فکر می‌کنم جلسه پربار خواهد بود",
+                  "en": "An embedded prediction with omission"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "professional-noun-groups",
+        "title": {
+          "fa": "گروه‌های اسمی تخصصی",
+          "en": "Professional noun groups"
+        },
+        "explanation": {
+          "fa": "در renewable energy و solar power systems، واژه‌های پیشین نوع یا منبع را محدود می‌کنند؛ systems اسم اصلی جمع است. a summary of our recent paper ساخت دیگری است: summary هسته است و of رابطه با مقاله را روشن می‌کند. findings هم اینجا نتایج پژوهش است، نه هر چیزی که پیدا شده باشد.",
+          "en": "In renewable energy and solar power systems, premodifiers narrow the type or source; systems is the plural head. In a summary of our recent paper, summary is the head and of introduces the source article. Findings specifically denotes research results here."
+        },
+        "example": {
+          "text": "I can send you a summary of our recent paper after the conference.",
+          "translation": {
+            "fa": "می‌توانم پس از همایش خلاصه‌ای از مقالهٔ اخیرمان را برایتان بفرستم.",
+            "en": "I can send you a summary of our recent paper after the conference."
+          }
+        },
+        "takeaway": {
+          "fa": "برای فهم گروه اسمی، اسم اصلی و توضیح‌هایش را جدا کن.",
+          "en": "Identify the head noun and its modifiers."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گروه‌های اسمی تخصصی",
+              "en": "Professional noun groups"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "solar power systems"
+                },
+                {
+                  "text": "solar + power + systems"
+                },
+                {
+                  "fa": "سامانه‌های انرژی خورشیدی",
+                  "en": "A layered technical noun group"
+                }
+              ],
+              [
+                {
+                  "text": "a summary of our recent paper"
+                },
+                {
+                  "text": "summary + of + our recent paper"
+                },
+                {
+                  "fa": "خلاصه‌ای از مقالهٔ اخیر ما",
+                  "en": "A head followed by its source"
+                }
+              ],
+              [
+                {
+                  "text": "an engineering company"
+                },
+                {
+                  "text": "an + engineering + company"
+                },
+                {
+                  "fa": "یک شرکت مهندسی",
+                  "en": "An before a vowel sound"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "future-follow-up",
+        "title": {
+          "fa": "زمان‌بندی تعهدهای بعدی",
+          "en": "Timing follow-up commitments"
+        },
+        "explanation": {
+          "fa": "will write و will prepare تصمیم یا تعهد آینده‌اند؛ can set up امکان ترتیب جلسه را می‌گوید و maybe قطعیت آن را کمتر می‌کند. after the conference، next week و next month سه زمان متفاوت‌اند؛ نباید زمان ارسال خلاصه را با زمان جلسه یکی گرفت.",
+          "en": "Will write and will prepare signal future commitments; can set up expresses possibility, further weakened by maybe. After the conference, next week and next month are distinct time references: sending the summary and holding the meeting are not assigned the same time."
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        },
+        "takeaway": {
+          "fa": "در شنیدن، هر زمان را به عمل خودش وصل کن.",
+          "en": "Attach each time expression to its own action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان‌بندی تعهدهای بعدی",
+              "en": "Timing follow-up commitments"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "after the conference"
+                },
+                {
+                  "text": "after + event"
+                },
+                {
+                  "fa": "پس از همایش؛ زمان ارسال خلاصه",
+                  "en": "Time for sending the summary"
+                }
+              ],
+              [
+                {
+                  "text": "I will write to you next week"
+                },
+                {
+                  "text": "will write + next week"
+                },
+                {
+                  "fa": "هفتهٔ آینده پیگیری می‌کنم",
+                  "en": "Follow-up commitment"
+                }
+              ],
+              [
+                {
+                  "text": "set up a meeting next month"
+                },
+                {
+                  "text": "set up + meeting + next month"
+                },
+                {
+                  "fa": "ترتیب جلسه در ماه آینده",
+                  "en": "A tentative meeting plan"
+                }
+              ],
+              [
+                {
+                  "text": "in advance"
+                },
+                {
+                  "text": "in + advance"
+                },
+                {
+                  "fa": "از پیش؛ قبل از جلسه",
+                  "en": "Preparation before an event"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "look-forward-and-set-up",
+        "title": {
+          "fa": "ساخت عبارت‌های look forward to و set up",
+          "en": "Patterns with look forward to and set up"
+        },
+        "explanation": {
+          "fa": "در look forward to our collaboration، to حرف اضافه است و پس از آن اسم collaboration آمده؛ این to با نشانۀ قبل از فعل یکی نیست. set up یک فعل عبارتی به معنی ترتیب‌دادن است؛ up به‌تنهایی جهت فیزیکی «بالا» نمی‌دهد.",
+          "en": "In look forward to our collaboration, to is a preposition followed by the noun collaboration, not an infinitive marker. Set up is a phrasal verb meaning arrange; up does not express a literal upward direction here."
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        },
+        "takeaway": {
+          "fa": "در این دو عبارت، معنی را از کل ترکیب بگیر.",
+          "en": "Interpret these expressions as complete units."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "ساخت عبارت‌های look forward to و set up",
+              "en": "Patterns with look forward to and set up"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "look forward to our collaboration"
+                },
+                {
+                  "text": "look forward to + noun group"
+                },
+                {
+                  "fa": "مشتاق همکاری‌مان بودن",
+                  "en": "Positive anticipation"
+                }
+              ],
+              [
+                {
+                  "text": "set up a meeting"
+                },
+                {
+                  "text": "set up + object"
+                },
+                {
+                  "fa": "ترتیب دادن جلسه",
+                  "en": "Organizing an event"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "related-and-possessive",
+        "title": {
+          "fa": "رابطه، مالکیت و تأکید بر دو طرف",
+          "en": "Connection, possession and both parties"
+        },
+        "explanation": {
+          "fa": "Our fields are related حوزه‌های دو نفر را مرتبط توصیف می‌کند؛ are related اینجا وضعیت را می‌گوید، نه یک رویداد با عامل مشخص. my company needs نیز با company مفرد فعل needs دارد. both of us صریحاً هر دو طرف را شامل می‌شود.",
+          "en": "Our fields are related describes a state of connection, not an event with a specified agent. My company needs has singular company and the s-form needs. Both of us explicitly includes the two participants."
+        },
+        "example": {
+          "text": "Then our meeting will be very productive for both of us.",
+          "translation": {
+            "fa": "پس جلسهٔ ما برای هر دویمان بسیار پربار خواهد بود.",
+            "en": "Then our meeting will be very productive for both of us."
+          }
+        },
+        "takeaway": {
+          "fa": "both of us ادعای سودمندی را متقابل می‌کند.",
+          "en": "Both of us makes the predicted benefit mutual."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "رابطه، مالکیت و تأکید بر دو طرف",
+              "en": "Connection, possession and both parties"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Our fields are related"
+                },
+                {
+                  "text": "plural fields + are + related"
+                },
+                {
+                  "fa": "حوزه‌هایمان مرتبط‌اند",
+                  "en": "A relational state"
+                }
+              ],
+              [
+                {
+                  "text": "my company needs"
+                },
+                {
+                  "text": "singular company + needs"
+                },
+                {
+                  "fa": "شرکت من نیاز دارد",
+                  "en": "Subject–verb agreement"
+                }
+              ],
+              [
+                {
+                  "text": "productive for both of us"
+                },
+                {
+                  "text": "for + both of + us"
+                },
+                {
+                  "fa": "برای هر دو ما پربار",
+                  "en": "Mutual benefit"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "good-afternoon",
+        "text": "Good afternoon",
+        "pronunciation": {
+          "faReading": "گود اَفتِرنون",
+          "ipa": "/ɡʊd ˌæftɚˈnun/"
+        },
+        "meaning": {
+          "fa": "بعدازظهر به‌خیر",
+          "en": "Good afternoon"
+        },
+        "context": {
+          "fa": "سلام مناسب دیدار حرفه‌ای در بعدازظهر.",
+          "en": "A greeting appropriate for a professional afternoon meeting."
+        },
+        "example": {
+          "text": "Good afternoon, I am Elham, a researcher in renewable energy.",
+          "translation": {
+            "fa": "بعدازظهر به‌خیر، من الهام هستم، پژوهشگر انرژی‌های تجدیدپذیر.",
+            "en": "Good afternoon, I am Elham, a researcher in renewable energy."
+          }
+        }
+      },
+      {
+        "id": "pleasure",
+        "text": "It is a pleasure",
+        "pronunciation": {
+          "faReading": "ایت ایز اِ پْلِژِر",
+          "ipa": "/ɪt ɪz ə ˈplɛʒɚ/"
+        },
+        "meaning": {
+          "fa": "باعث خوشوقتی است",
+          "en": "It is a pleasure"
+        },
+        "context": {
+          "fa": "پاسخ رسمی‌تر به معرفی؛ موضوعِ خوشوقتی از بافت آشنایی فهمیده می‌شود.",
+          "en": "A relatively formal response to an introduction, with the meeting understood as the source of pleasure."
+        },
+        "example": {
+          "text": "It is a pleasure, I am Arman, I work for an engineering company.",
+          "translation": {
+            "fa": "باعث خوشوقتی است؛ من آرمان هستم و برای یک شرکت مهندسی کار می‌کنم.",
+            "en": "It is a pleasure, I am Arman, I work for an engineering company."
+          }
+        }
+      },
+      {
+        "id": "share-findings",
+        "text": "could you share your findings?",
+        "pronunciation": {
+          "faReading": "کود یو شِر یور فایندینگْز",
+          "ipa": "/kʊd ju ʃɛr jʊr ˈfaɪndɪŋz/"
+        },
+        "meaning": {
+          "fa": "می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+          "en": "Could you share your findings?"
+        },
+        "context": {
+          "fa": "درخواست حرفه‌ای برای نتایج پژوهش؛ could از لحن دستوری فاصله می‌گیرد.",
+          "en": "A professional request for research results; could avoids a directive tone."
+        },
+        "example": {
+          "text": "That is exactly what my company needs, could you share your findings?",
+          "translation": {
+            "fa": "این دقیقاً چیزی است که شرکت من نیاز دارد؛ می‌توانید یافته‌هایتان را به اشتراک بگذارید؟",
+            "en": "That is exactly what my company needs, could you share your findings?"
+          }
+        }
+      },
+      {
+        "id": "grateful",
+        "text": "I would be very grateful",
+        "pronunciation": {
+          "faReading": "آی وود بی وِری گْرِیت‌فُل",
+          "ipa": "/aɪ wʊd bi ˈvɛri ˈɡreɪtfəl/"
+        },
+        "meaning": {
+          "fa": "بسیار سپاسگزار می‌شوم",
+          "en": "I would be very grateful"
+        },
+        "context": {
+          "fa": "قدردانی پیشاپیش در برابر کمک پیشنهادی، بدون ادعای انجام‌شدن کمک.",
+          "en": "Anticipatory gratitude for proposed help, not a claim that the help has already occurred."
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "business-card",
+        "text": "here is my business card",
+        "pronunciation": {
+          "faReading": "هیر ایز مای بیزنِس کارد",
+          "ipa": "/hɪr ɪz maɪ ˈbɪznəs kɑrd/"
+        },
+        "meaning": {
+          "fa": "این کارت ویزیت من است",
+          "en": "Here is my business card"
+        },
+        "context": {
+          "fa": "ابزار ادامهٔ ارتباط حرفه‌ای؛ ایمیل روی کارت در گفت‌وگو ذکر می‌شود.",
+          "en": "Supports continuing professional contact; the dialogue specifies that the card carries an email."
+        },
+        "example": {
+          "text": "I would be very grateful, here is my business card with my email.",
+          "translation": {
+            "fa": "بسیار سپاسگزار می‌شوم؛ این کارت ویزیت من با ایمیلم است.",
+            "en": "I would be very grateful, here is my business card with my email."
+          }
+        }
+      },
+      {
+        "id": "set-up",
+        "text": "set up a meeting",
+        "pronunciation": {
+          "faReading": "سِت اَپ اِ میتینگ",
+          "ipa": "/sɛt ʌp ə ˈmitɪŋ/"
+        },
+        "meaning": {
+          "fa": "جلسه‌ای ترتیب دادن",
+          "en": "Arrange a meeting"
+        },
+        "context": {
+          "fa": "set up در این ترکیب یعنی هماهنگ‌کردن، نه قرار دادن فیزیکی چیزی در بالا.",
+          "en": "Set up means organize here, not physically position something upward."
+        },
+        "example": {
+          "text": "Thank you, and this is my card, maybe we can set up a meeting next month.",
+          "translation": {
+            "fa": "ممنون، و این هم کارت من؛ شاید بتوانیم ماه آینده جلسه‌ای ترتیب بدهیم.",
+            "en": "Thank you, and this is my card, maybe we can set up a meeting next month."
+          }
+        }
+      },
+      {
+        "id": "great-idea",
+        "text": "That sounds like a great idea",
+        "pronunciation": {
+          "faReading": "ذَت ساوندز لایک اِ گْرِیت آی‌دی‌اِ",
+          "ipa": "/ðæt saʊndz laɪk ə ɡreɪt aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "فکر خیلی خوبی به نظر می‌رسد",
+          "en": "That sounds like a great idea"
+        },
+        "context": {
+          "fa": "تأیید پیشنهاد جلسه بر اساس چیزی که طرف مقابل گفته است.",
+          "en": "Approves the proposed meeting on the basis of what was just suggested."
+        },
+        "example": {
+          "text": "That sounds like a great idea, I will write to you next week.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ هفتهٔ آینده برایتان می‌نویسم.",
+            "en": "That sounds like a great idea, I will write to you next week."
+          }
+        }
+      },
+      {
+        "id": "perfect",
+        "text": "Perfect",
+        "pronunciation": {
+          "faReading": "پِرفِکت",
+          "ipa": "/ˈpɝfɪkt/"
+        },
+        "meaning": {
+          "fa": "عالی است",
+          "en": "Perfect"
+        },
+        "context": {
+          "fa": "تأیید کوتاه برنامهٔ پیگیری، نه ارزیابی بی‌نقص بودن تمام همکاری آینده.",
+          "en": "A brief approval of follow-up arrangements, not a guarantee of flawless future collaboration."
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "look-forward",
+        "text": "I look forward to our collaboration",
+        "pronunciation": {
+          "faReading": "آی لوک فوروِرد تو آوِر کِلَبِرِیشن",
+          "ipa": "/aɪ lʊk ˈfɔrwɚd tə aʊr kəˌlæbəˈreɪʃən/"
+        },
+        "meaning": {
+          "fa": "مشتاق همکاری‌مان هستم",
+          "en": "I look forward to our collaboration"
+        },
+        "context": {
+          "fa": "عبارت مثبت و حرفه‌ای برای رابطه‌ای که قرار است ادامه پیدا کند.",
+          "en": "A positive professional formula anticipating continued cooperation."
+        },
+        "example": {
+          "text": "Perfect, I look forward to our collaboration.",
+          "translation": {
+            "fa": "عالی است؛ مشتاق همکاری‌مان هستم.",
+            "en": "Perfect, I look forward to our collaboration."
+          }
+        }
+      },
+      {
+        "id": "common-ground",
+        "text": "we have a lot of common ground",
+        "pronunciation": {
+          "faReading": "وی هَو اِ لات اَو کامِن گْراوند",
+          "ipa": "/wi hæv ə lɑt əv ˈkɑmən ɡraʊnd/"
+        },
+        "meaning": {
+          "fa": "زمینه‌های مشترک زیادی داریم",
+          "en": "We share many interests"
+        },
+        "context": {
+          "fa": "common ground استعاره از علایق و زمینه‌های مشترک است، نه زمین مشترک.",
+          "en": "Common ground refers metaphorically to shared interests, not shared land."
+        },
+        "example": {
+          "text": "I believe it will be, we have a lot of common ground.",
+          "translation": {
+            "fa": "فکر می‌کنم همین‌طور باشد؛ زمینه‌های مشترک زیادی داریم.",
+            "en": "I believe it will be, we have a lot of common ground."
+          }
+        }
+      },
+      {
+        "id": "in-advance",
+        "text": "in advance",
+        "pronunciation": {
+          "faReading": "این اَدْوَنس",
+          "ipa": "/ɪn ədˈvæns/"
+        },
+        "meaning": {
+          "fa": "از پیش",
+          "en": "In advance"
+        },
+        "context": {
+          "fa": "آماده‌سازی پرسش‌ها پیش از جلسه را نشان می‌دهد، بدون تعیین تاریخ دقیق.",
+          "en": "Places question preparation before the meeting without specifying an exact date."
+        },
+        "example": {
+          "text": "I will prepare our questions in advance, and we can discuss the details.",
+          "translation": {
+            "fa": "پرسش‌هایمان را از قبل آماده می‌کنم و می‌توانیم دربارهٔ جزئیات صحبت کنیم.",
+            "en": "I will prepare our questions in advance, and we can discuss the details."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "هدف کلی این تبادل حرفه‌ای چیست؟",
+          "en": "What is the overall purpose of this professional exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "بحث دربارهٔ تأمین مالی قطعی یک پروژه",
+              "en": "Discussing confirmed financing for a project"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "شناخت زمینه‌های همکاری و هماهنگی پیگیری",
+              "en": "Exploring shared interests and arranging follow-up"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ارزیابی نهایی یافته‌های منتشرنشده",
+              "en": "Conducting a final assessment of unpublished findings"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "دو نفر حوزه‌های مرتبط را مطرح می‌کنند، کارت می‌دهند و برای ارتباط و جلسهٔ بعدی برنامه می‌ریزند؛ توافق مالی یا ارزیابی نهایی ندارند.",
+          "en": "They identify related fields, exchange cards and plan follow-up and a meeting, rather than finalize financing or evaluate findings."
+        },
+        "evidenceTurnIds": [
+          "t03",
+          "t06",
+          "t07",
+          "t08"
+        ]
+      },
+      {
+        "id": "main-field",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "حوزهٔ اصلی پژوهش الهام کدام است؟",
+          "en": "What is Elham’s main research field?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "انرژی خورشیدی",
+              "en": "Solar energy"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "انرژی بادی",
+              "en": "Wind energy"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "انرژی زمین‌گرمایی",
+              "en": "Geothermal energy"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "الهام می‌گوید انرژی خورشیدی حوزهٔ اصلی پژوهش اوست؛ بادی را موضوع اصلی معرفی نمی‌کند.",
+          "en": "Elham explicitly identifies solar energy as her main field; wind is not presented as the main one."
+        },
+        "evidenceTurnIds": [
+          "t11"
+        ]
+      },
+      {
+        "id": "document",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "الهام پیشنهاد می‌کند چه چیزی بفرستد؟",
+          "en": "What does Elham offer to send?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "نسخهٔ کامل قرارداد",
+              "en": "A complete contract"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "فهرست هزینه‌های پروژه",
+              "en": "A project cost list"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "خلاصهٔ مقالهٔ اخیر تیم",
+              "en": "A summary of the team’s recent paper"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "الهام می‌گوید a summary of our recent paper، نه قرارداد یا بودجه.",
+          "en": "Elham offers a summary of our recent paper, not a contract or budget."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "send-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "برای ارسال آن، چه زمانی مشخص می‌شود؟",
+          "en": "What time is specified for sending it?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پیش از همایش",
+              "en": "Before the conference"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پس از همایش",
+              "en": "After the conference"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "در طول جلسهٔ بعدی",
+              "en": "During the next meeting"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "عبارت after the conference به فرستادن خلاصه وصل است.",
+          "en": "After the conference specifies when she can send the summary."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "follow-up",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان چه زمانی قول نوشتن می‌دهد؟",
+          "en": "When does Arman commit to writing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "همان شب",
+              "en": "That evening"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "آرمان می‌گوید I will write to you next week؛ این با زمان جلسه فرق دارد.",
+          "en": "Arman says I will write to you next week, distinct from the meeting time."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "meeting",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "جلسه برای چه زمانی پیشنهاد می‌شود؟",
+          "en": "When is the meeting tentatively proposed?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پس از یک سال",
+              "en": "In a year"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "الهام با maybe we can set up a meeting next month، پیشنهاد احتمالی ماه آینده را می‌دهد.",
+          "en": "Elham says maybe we can set up a meeting next month, making it a tentative plan."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

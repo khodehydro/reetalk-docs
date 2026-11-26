@@ -18,7 +18,12 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 ENGLISH = ROOT / "سناریو" / "انگلیسی"
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
-PROPER_NAMES = {"sara", "amir", "leila", "omid", "shiraz", "isfahan", "maryam", "tabriz", "nima.rezaei"}
+# Only names actually spoken in the first category; ordinary words still need cards.
+PROPER_NAMES = {
+    "sara", "amir", "leila", "omid", "shiraz", "isfahan", "maryam", "tabriz", "nima.rezaei",
+    "nadia", "farhad", "sam", "laila", "nigar", "arman", "poya", "mina", "arash", "milad",
+    "tehran", "elham", "dr", "kamrani",
+}
 
 
 class InvalidDraft(ValueError):
@@ -130,6 +135,9 @@ def validate(draft, source=None, studio=False):
         bilingual(w["meaning"], "word.meaning")
         example(w["example"], "word.example")
         need(w["text"].lower() in surface_words, f"unrelated word: {w['text']}")
+        need(w["example"]["text"] in {t["text"] for t in draft["turns"]}, "word example absent from dialogue")
+        example_words = {s.strip(".,!?").lower() for s in w["example"]["text"].split()}
+        need(w["text"].lower() in example_words, "word absent from its example")
     covered = {w["text"].lower() for w in learn["words"]}
     need(not (surface_words - covered - PROPER_NAMES), f"uncovered words: {sorted(surface_words - covered - PROPER_NAMES)}")
     for g in learn["grammar"]:
@@ -160,6 +168,8 @@ def validate(draft, source=None, studio=False):
             bilingual(p[key], f"phrase.{key}")
         example(p["example"], "phrase.example")
         need(any(p["text"] in t["text"] for t in draft["turns"]), f"phrase absent from dialogue: {p['id']}")
+        need(p["example"]["text"] in {t["text"] for t in draft["turns"]}, "phrase example absent from dialogue")
+        need(p["text"] in p["example"]["text"], "phrase absent from its example")
     stages = set()
     for q in learn["questions"]:
         keys(q, "id stage type prompt options correctOptionId explanation evidenceTurnIds", "question")

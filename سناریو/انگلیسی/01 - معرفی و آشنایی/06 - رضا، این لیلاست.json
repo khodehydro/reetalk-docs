@@ -1,0 +1,3336 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s06",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "رضا، این لیلاست",
+    "en": "Reza introduces Laila"
+  },
+  "objective": {
+    "fa": "شغل لیلا، محل آشنایی رضا با او و برنامهٔ دیدار بعدی را تشخیص بده.",
+    "en": "Identify Laila’s job, where Reza met her, and the plan for the next meeting."
+  },
+  "speakers": [
+    {
+      "id": "reza",
+      "name": "Reza",
+      "gender": "man"
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "reza",
+      "text": "Hi Sam, I want you to meet my friend Laila.",
+      "translation": {
+        "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+        "en": "Hi Sam, I want you to meet my friend Laila."
+      },
+      "tokens": [
+        {
+          "surface": "Hi",
+          "gloss": {
+            "fa": "سلام",
+            "en": "hi; an informal greeting"
+          }
+        },
+        {
+          "surface": "Sam,",
+          "gloss": {
+            "fa": "سَم،",
+            "en": "Sam; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "want",
+          "gloss": {
+            "fa": "می‌خواهم",
+            "en": "want; wish to have or do"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کنی",
+            "en": "meet; encounter or become acquainted with"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "friend",
+          "gloss": {
+            "fa": "دوست",
+            "en": "friend; someone you like and know"
+          }
+        },
+        {
+          "surface": "Laila.",
+          "gloss": {
+            "fa": "لیلا.",
+            "en": "Laila; a name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "sam",
+      "text": "Hello Laila, I am very pleased to meet you.",
+      "translation": {
+        "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+        "en": "Hello Laila, I am very pleased to meet you."
+      },
+      "tokens": [
+        {
+          "surface": "Hello",
+          "gloss": {
+            "fa": "سلام",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "Laila,",
+          "gloss": {
+            "fa": "لیلا،",
+            "en": "Laila; a name"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "pleased",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "pleased; happy or satisfied"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet; encounter or become acquainted with"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو.",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "reza",
+      "text": "Laila is a graphic designer and she just opened her own studio.",
+      "translation": {
+        "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+        "en": "Laila is a graphic designer and she just opened her own studio."
+      },
+      "tokens": [
+        {
+          "surface": "Laila",
+          "gloss": {
+            "fa": "لیلا",
+            "en": "Laila; a name"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "graphic",
+          "gloss": {
+            "fa": "گرافیک",
+            "en": "graphic; related to visual design"
+          }
+        },
+        {
+          "surface": "designer",
+          "gloss": {
+            "fa": "طراح",
+            "en": "designer; someone who plans how things look"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "she",
+          "gloss": {
+            "fa": "او",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "just",
+          "gloss": {
+            "fa": "تازه",
+            "en": "just; very recently"
+          }
+        },
+        {
+          "surface": "opened",
+          "gloss": {
+            "fa": "راه انداخت",
+            "en": "opened; started a business here"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "مال خودش",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "own",
+          "gloss": {
+            "fa": "شخصی",
+            "en": "own; belonging to that person"
+          }
+        },
+        {
+          "surface": "studio.",
+          "gloss": {
+            "fa": "استودیو.",
+            "en": "studio; a place for creative work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "sam",
+      "text": "That sounds impressive, how long have you known each other?",
+      "translation": {
+        "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+        "en": "That sounds impressive, how long have you known each other?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "sounds",
+          "gloss": {
+            "fa": "به نظر می‌رسد",
+            "en": "sounds; seems from what is said"
+          }
+        },
+        {
+          "surface": "impressive,",
+          "gloss": {
+            "fa": "تحسین‌برانگیز،",
+            "en": "impressive; making people admire something"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چه‌قدر",
+            "en": "how; asking about manner or condition"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "مدت",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "بخشی از «شناخته‌اید»",
+            "en": "have; used with known for a relationship continuing to now"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "known",
+          "gloss": {
+            "fa": "شناخته‌اید",
+            "en": "known; past participle of know"
+          }
+        },
+        {
+          "surface": "each",
+          "gloss": {
+            "fa": "یکدیگر؛ همراه other",
+            "en": "each; in each other, one another"
+          }
+        },
+        {
+          "surface": "other?",
+          "gloss": {
+            "fa": "یکدیگر؛ همراه each؟",
+            "en": "other; in each other, one another"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "reza",
+      "text": "We studied together at university, so we are old friends.",
+      "translation": {
+        "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+        "en": "We studied together at university, so we are old friends."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "studied",
+          "gloss": {
+            "fa": "درس خواندیم",
+            "en": "studied; learned at a school or university"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "at",
+          "gloss": {
+            "fa": "در",
+            "en": "at; a place or exact time"
+          }
+        },
+        {
+          "surface": "university,",
+          "gloss": {
+            "fa": "دانشگاه،",
+            "en": "university; a place for higher education"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "پس",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستیم",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "old",
+          "gloss": {
+            "fa": "قدیمی",
+            "en": "old; known for a long time here"
+          }
+        },
+        {
+          "surface": "friends.",
+          "gloss": {
+            "fa": "دوستان.",
+            "en": "friends; people you like and know"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "sam",
+      "text": "That is a strong friendship, and I am glad to meet her through you.",
+      "translation": {
+        "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+        "en": "That is a strong friendship, and I am glad to meet her through you."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "strong",
+          "gloss": {
+            "fa": "محکم",
+            "en": "strong; close and lasting here"
+          }
+        },
+        {
+          "surface": "friendship,",
+          "gloss": {
+            "fa": "دوستی،",
+            "en": "friendship; a relationship between friends"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "glad",
+          "gloss": {
+            "fa": "خوشحال",
+            "en": "glad; pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "meet",
+          "gloss": {
+            "fa": "ملاقات کردن",
+            "en": "meet; encounter or become acquainted with"
+          }
+        },
+        {
+          "surface": "her",
+          "gloss": {
+            "fa": "او را",
+            "en": "her; a female person's object or possession form"
+          }
+        },
+        {
+          "surface": "through",
+          "gloss": {
+            "fa": "از طریق",
+            "en": "through; by means of"
+          }
+        },
+        {
+          "surface": "you.",
+          "gloss": {
+            "fa": "تو.",
+            "en": "you; the person spoken to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "reza",
+      "text": "She is very friendly, and I think you two will get along well.",
+      "translation": {
+        "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+        "en": "She is very friendly, and I think you two will get along well."
+      },
+      "tokens": [
+        {
+          "surface": "She",
+          "gloss": {
+            "fa": "او",
+            "en": "she; a female person"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "friendly,",
+          "gloss": {
+            "fa": "خوش‌برخورد،",
+            "en": "friendly; kind and welcoming"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر می‌کنم",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "قرار است",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "get",
+          "gloss": {
+            "fa": "بخشی از «کنار آمدن»",
+            "en": "part of get along; have a good relationship"
+          }
+        },
+        {
+          "surface": "along",
+          "gloss": {
+            "fa": "بخشی از «کنار آمدن»",
+            "en": "part of get along; have a good relationship"
+          }
+        },
+        {
+          "surface": "well.",
+          "gloss": {
+            "fa": "خوب.",
+            "en": "well; in a good way"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "sam",
+      "text": "I am sure we will, maybe the three of us can have coffee next week.",
+      "translation": {
+        "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+        "en": "I am sure we will, maybe the three of us can have coffee next week."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "sure",
+          "gloss": {
+            "fa": "مطمئن",
+            "en": "sure; certain"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will,",
+          "gloss": {
+            "fa": "انجام می‌دهیم،",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "maybe",
+          "gloss": {
+            "fa": "شاید",
+            "en": "maybe; perhaps"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "three",
+          "gloss": {
+            "fa": "سه",
+            "en": "three; 3"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "us",
+          "gloss": {
+            "fa": "ما",
+            "en": "us; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "بتوانیم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "بخوریم",
+            "en": "have; own or experience"
+          }
+        },
+        {
+          "surface": "coffee",
+          "gloss": {
+            "fa": "قهوه",
+            "en": "coffee; a hot drink"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "آینده",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "week.",
+          "gloss": {
+            "fa": "هفته.",
+            "en": "week; seven days"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "reza",
+      "text": "That is a great idea, I will ask Laila and we will arrange it.",
+      "translation": {
+        "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+        "en": "That is a great idea, I will ask Laila and we will arrange it."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "great",
+          "gloss": {
+            "fa": "عالی",
+            "en": "great; very good"
+          }
+        },
+        {
+          "surface": "idea,",
+          "gloss": {
+            "fa": "ایده،",
+            "en": "idea; a thought or suggestion"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "ask",
+          "gloss": {
+            "fa": "بپرسم از",
+            "en": "ask; request information or an action"
+          }
+        },
+        {
+          "surface": "Laila",
+          "gloss": {
+            "fa": "لیلا",
+            "en": "Laila; a name"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهیم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "arrange",
+          "gloss": {
+            "fa": "هماهنگ کنیم",
+            "en": "arrange; make plans for"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن را.",
+            "en": "it; the thing mentioned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "sam",
+      "text": "Please do, I am really looking forward to it.",
+      "translation": {
+        "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+        "en": "Please do, I am really looking forward to it."
+      },
+      "tokens": [
+        {
+          "surface": "Please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; softens a request"
+          }
+        },
+        {
+          "surface": "do,",
+          "gloss": {
+            "fa": "انجام بده،",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "really",
+          "gloss": {
+            "fa": "واقعاً",
+            "en": "really; truly or very much"
+          }
+        },
+        {
+          "surface": "looking",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of looking forward to"
+          }
+        },
+        {
+          "surface": "forward",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of looking forward to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "it.",
+          "gloss": {
+            "fa": "آن.",
+            "en": "it; the thing mentioned"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hi",
+        "text": "hi",
+        "pronunciation": {
+          "faReading": "های",
+          "ipa": "/haɪ/"
+        },
+        "meaning": {
+          "fa": "سلام؛ دوستانه",
+          "en": "hi; an informal greeting"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "want",
+        "text": "want",
+        "pronunciation": {
+          "faReading": "وانت",
+          "ipa": "/wɑnt/"
+        },
+        "meaning": {
+          "fa": "خواستن",
+          "en": "want; wish to have or do"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ قبل از انجام کار",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "meet",
+        "text": "meet",
+        "pronunciation": {
+          "faReading": "میت",
+          "ipa": "/mit/"
+        },
+        "meaning": {
+          "fa": "ملاقات کردن؛ آشنا شدن با",
+          "en": "meet; encounter or become acquainted with"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "friend",
+        "text": "friend",
+        "pronunciation": {
+          "faReading": "فْرِند",
+          "ipa": "/frɛnd/"
+        },
+        "meaning": {
+          "fa": "دوست",
+          "en": "friend; someone you like and know"
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "pleased",
+        "text": "pleased",
+        "pronunciation": {
+          "faReading": "پْلیزد",
+          "ipa": "/plizd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "pleased; happy or satisfied"
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "graphic",
+        "text": "graphic",
+        "pronunciation": {
+          "faReading": "گْرَفیک",
+          "ipa": "/ˈɡræfɪk/"
+        },
+        "meaning": {
+          "fa": "گرافیک؛ مربوط به طراحی تصویری",
+          "en": "graphic; related to visual design"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "designer",
+        "text": "designer",
+        "pronunciation": {
+          "faReading": "دیزاینِر",
+          "ipa": "/dɪˈzaɪnɚ/"
+        },
+        "meaning": {
+          "fa": "طراح",
+          "en": "designer; someone who plans how things look"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "she",
+        "text": "she",
+        "pronunciation": {
+          "faReading": "شی",
+          "ipa": "/ʃi/"
+        },
+        "meaning": {
+          "fa": "او؛ برای زن یا دختر",
+          "en": "she; a female person"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "just",
+        "text": "just",
+        "pronunciation": {
+          "faReading": "جَست",
+          "ipa": "/dʒʌst/"
+        },
+        "meaning": {
+          "fa": "تازه؛ همین الان",
+          "en": "just; very recently"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "opened",
+        "text": "opened",
+        "pronunciation": {
+          "faReading": "اُوپِند",
+          "ipa": "/ˈoʊpənd/"
+        },
+        "meaning": {
+          "fa": "باز کرد؛ راه انداخت",
+          "en": "opened; started a business here"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "her",
+        "text": "her",
+        "pronunciation": {
+          "faReading": "هِر",
+          "ipa": "/hɝ/"
+        },
+        "meaning": {
+          "fa": "او را؛ مال او برای زن یا دختر",
+          "en": "her; a female person's object or possession form"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "own",
+        "text": "own",
+        "pronunciation": {
+          "faReading": "اُوْن",
+          "ipa": "/oʊn/"
+        },
+        "meaning": {
+          "fa": "شخصی؛ متعلق به خود",
+          "en": "own; belonging to that person"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "studio",
+        "text": "studio",
+        "pronunciation": {
+          "faReading": "سْتودی‌اُو",
+          "ipa": "/ˈstudioʊ/"
+        },
+        "meaning": {
+          "fa": "استودیو؛ محل کار هنری",
+          "en": "studio; a place for creative work"
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "sounds",
+        "text": "sounds",
+        "pronunciation": {
+          "faReading": "ساوندز",
+          "ipa": "/saʊndz/"
+        },
+        "meaning": {
+          "fa": "به نظر می‌رسد؛ از چیزی که شنیدیم",
+          "en": "sounds; seems from what is said"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "impressive",
+        "text": "impressive",
+        "pronunciation": {
+          "faReading": "ایم‌پْرِسیو",
+          "ipa": "/ɪmˈprɛsɪv/"
+        },
+        "meaning": {
+          "fa": "تحسین‌برانگیز",
+          "en": "impressive; making people admire something"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "طولانی؛ مدت",
+          "en": "long; lasting much time"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "بخشی از «شناخته‌اید»",
+          "en": "have; used in have known"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "known",
+        "text": "known",
+        "pronunciation": {
+          "faReading": "نُوْن",
+          "ipa": "/noʊn/"
+        },
+        "meaning": {
+          "fa": "شناخته؛ در have known",
+          "en": "known; know in have known"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "each",
+        "text": "each",
+        "pronunciation": {
+          "faReading": "ایچ",
+          "ipa": "/itʃ/"
+        },
+        "meaning": {
+          "fa": "هر؛ در each other یعنی یکدیگر",
+          "en": "each; in each other, one another"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "other",
+        "text": "other",
+        "pronunciation": {
+          "faReading": "اَذِر",
+          "ipa": "/ˈʌðɚ/"
+        },
+        "meaning": {
+          "fa": "دیگر؛ در each other یعنی یکدیگر",
+          "en": "other; in each other, one another"
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "studied",
+        "text": "studied",
+        "pronunciation": {
+          "faReading": "سْتادید",
+          "ipa": "/ˈstʌdid/"
+        },
+        "meaning": {
+          "fa": "درس خواندیم؛ درس خواند",
+          "en": "studied; learned at a school or university"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "at",
+        "text": "at",
+        "pronunciation": {
+          "faReading": "اَت",
+          "ipa": "/æt/"
+        },
+        "meaning": {
+          "fa": "در؛ در ساعت",
+          "en": "at; a place or exact time"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "university",
+        "text": "university",
+        "pronunciation": {
+          "faReading": "یونی‌وِرسِتی",
+          "ipa": "/ˌjunɪˈvɝsəti/"
+        },
+        "meaning": {
+          "fa": "دانشگاه",
+          "en": "university; a place for higher education"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "old",
+        "text": "old",
+        "pronunciation": {
+          "faReading": "اُولد",
+          "ipa": "/oʊld/"
+        },
+        "meaning": {
+          "fa": "قدیمی؛ با سابقهٔ طولانی",
+          "en": "old; known for a long time"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "friends",
+        "text": "friends",
+        "pronunciation": {
+          "faReading": "فْرِندز",
+          "ipa": "/frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان",
+          "en": "friends; people you like and know"
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "strong",
+        "text": "strong",
+        "pronunciation": {
+          "faReading": "سْترانگ",
+          "ipa": "/strɔŋ/"
+        },
+        "meaning": {
+          "fa": "محکم؛ دربارهٔ دوستی",
+          "en": "strong; close and lasting"
+        },
+        "example": {
+          "text": "That is a strong friendship, and I am glad to meet her through you.",
+          "translation": {
+            "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+            "en": "That is a strong friendship, and I am glad to meet her through you."
+          }
+        }
+      },
+      {
+        "id": "friendship",
+        "text": "friendship",
+        "pronunciation": {
+          "faReading": "فْرِندشیپ",
+          "ipa": "/ˈfrɛndʃɪp/"
+        },
+        "meaning": {
+          "fa": "دوستی",
+          "en": "friendship; a relationship between friends"
+        },
+        "example": {
+          "text": "That is a strong friendship, and I am glad to meet her through you.",
+          "translation": {
+            "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+            "en": "That is a strong friendship, and I am glad to meet her through you."
+          }
+        }
+      },
+      {
+        "id": "glad",
+        "text": "glad",
+        "pronunciation": {
+          "faReading": "گْلَد",
+          "ipa": "/ɡlæd/"
+        },
+        "meaning": {
+          "fa": "خوشحال؛ خرسند",
+          "en": "glad; pleased"
+        },
+        "example": {
+          "text": "That is a strong friendship, and I am glad to meet her through you.",
+          "translation": {
+            "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+            "en": "That is a strong friendship, and I am glad to meet her through you."
+          }
+        }
+      },
+      {
+        "id": "through",
+        "text": "through",
+        "pronunciation": {
+          "faReading": "ثْرو",
+          "ipa": "/θru/"
+        },
+        "meaning": {
+          "fa": "از طریق",
+          "en": "through; by means of"
+        },
+        "example": {
+          "text": "That is a strong friendship, and I am glad to meet her through you.",
+          "translation": {
+            "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+            "en": "That is a strong friendship, and I am glad to meet her through you."
+          }
+        }
+      },
+      {
+        "id": "friendly",
+        "text": "friendly",
+        "pronunciation": {
+          "faReading": "فْرِندلی",
+          "ipa": "/ˈfrɛndli/"
+        },
+        "meaning": {
+          "fa": "خوش‌برخورد؛ دوستانه",
+          "en": "friendly; kind and welcoming"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "get",
+        "text": "get",
+        "pronunciation": {
+          "faReading": "گِت",
+          "ipa": "/ɡɛt/"
+        },
+        "meaning": {
+          "fa": "بخشی از «خوب کنار آمدن»",
+          "en": "get; part of get along well"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "along",
+        "text": "along",
+        "pronunciation": {
+          "faReading": "اِلانگ",
+          "ipa": "/əˈlɔŋ/"
+        },
+        "meaning": {
+          "fa": "در get along یعنی با هم ساختن",
+          "en": "along; part of get along"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "well",
+        "text": "well",
+        "pronunciation": {
+          "faReading": "وِل",
+          "ipa": "/wɛl/"
+        },
+        "meaning": {
+          "fa": "خوب؛ به‌خوبی",
+          "en": "well; in a good way"
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "sure",
+        "text": "sure",
+        "pronunciation": {
+          "faReading": "شور",
+          "ipa": "/ʃʊr/"
+        },
+        "meaning": {
+          "fa": "مطمئن",
+          "en": "sure; certain"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "maybe",
+        "text": "maybe",
+        "pronunciation": {
+          "faReading": "مِی‌بی",
+          "ipa": "/ˈmeɪbi/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "maybe; perhaps"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "three",
+        "text": "three",
+        "pronunciation": {
+          "faReading": "ثْری",
+          "ipa": "/θri/"
+        },
+        "meaning": {
+          "fa": "سه",
+          "en": "three; 3"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "us",
+        "text": "us",
+        "pronunciation": {
+          "faReading": "اَس",
+          "ipa": "/ʌs/"
+        },
+        "meaning": {
+          "fa": "ما را؛ به ما",
+          "en": "us; the speaker and others"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "have-base",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "خوردن؛ در have coffee",
+          "en": "have; drink, in have coffee"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "coffee",
+        "text": "coffee",
+        "pronunciation": {
+          "faReading": "کافی",
+          "ipa": "/ˈkɔfi/"
+        },
+        "meaning": {
+          "fa": "قهوه",
+          "en": "coffee; a hot drink"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "week",
+        "text": "week",
+        "pronunciation": {
+          "faReading": "ویک",
+          "ipa": "/wik/"
+        },
+        "meaning": {
+          "fa": "هفته",
+          "en": "week; seven days"
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        }
+      },
+      {
+        "id": "great",
+        "text": "great",
+        "pronunciation": {
+          "faReading": "گْرِیت",
+          "ipa": "/ɡreɪt/"
+        },
+        "meaning": {
+          "fa": "عالی",
+          "en": "great; very good"
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "idea",
+        "text": "idea",
+        "pronunciation": {
+          "faReading": "آی‌دی‌اِ",
+          "ipa": "/aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "ایده؛ فکر",
+          "en": "idea; a thought or suggestion"
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "ask",
+        "text": "ask",
+        "pronunciation": {
+          "faReading": "اَسک",
+          "ipa": "/æsk/"
+        },
+        "meaning": {
+          "fa": "پرسیدن؛ درخواست کردن",
+          "en": "ask; request information or an action"
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "arrange",
+        "text": "arrange",
+        "pronunciation": {
+          "faReading": "اِرِینج",
+          "ipa": "/əˈreɪndʒ/"
+        },
+        "meaning": {
+          "fa": "هماهنگ کردن",
+          "en": "arrange; make plans for"
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; the thing mentioned"
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "همین کار را بکن؛ هماهنگ کن",
+          "en": "do; make the arrangements just offered"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "really",
+        "text": "really",
+        "pronunciation": {
+          "faReading": "ریلی",
+          "ipa": "/ˈrili/"
+        },
+        "meaning": {
+          "fa": "واقعاً",
+          "en": "really; truly or very much"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "looking",
+        "text": "looking",
+        "pronunciation": {
+          "faReading": "لوکینگ",
+          "ipa": "/ˈlʊkɪŋ/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مشتاق بودن»",
+          "en": "part of looking forward to"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "forward",
+        "text": "forward",
+        "pronunciation": {
+          "faReading": "فوروِرد",
+          "ipa": "/ˈfɔrwɚd/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مشتاق بودن»",
+          "en": "part of looking forward to"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "to-link",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "بخشی از «مشتاق بودن»",
+          "en": "to; part of looking forward to"
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "introducing-someone",
+        "title": {
+          "fa": "خواستنِ آشنایی دو نفر",
+          "en": "Introducing two people"
+        },
+        "explanation": {
+          "fa": "I want you to meet my friend یعنی «می‌خواهم با دوستم آشنا شوی». بعد از want، شخص موردنظر و بعد to و کار می‌آید. my friend Laila هم می‌گوید این دوست چه کسی است.",
+          "en": "I want you to meet my friend asks the listener to meet someone. After want, put the person and then to plus the action. My friend Laila identifies the friend."
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        },
+        "takeaway": {
+          "fa": "want + شخص + to + کار.",
+          "en": "Want + person + to + action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "خواستنِ آشنایی دو نفر",
+              "en": "Introducing two people"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I want you to meet my friend Laila"
+                },
+                {
+                  "text": "want + you + to meet + my friend"
+                },
+                {
+                  "fa": "می‌خواهم با دوستم لیلا آشنا شوی",
+                  "en": "Introducing a friend"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "describing-people",
+        "title": {
+          "fa": "گفتن شغل و ویژگی یک نفر",
+          "en": "Describing a person"
+        },
+        "explanation": {
+          "fa": "برای شغل لیلا می‌گوییم a graphic designer؛ a پیش از یک شغل می‌آید. She is friendly ویژگی او را می‌گوید. That sounds impressive یعنی از چیزی که شنیدیم، موضوع تحسین‌برانگیز به نظر می‌رسد.",
+          "en": "Say a graphic designer for Laila’s job, with a before the role. She is friendly describes her. That sounds impressive gives a reaction to what was heard."
+        },
+        "example": {
+          "text": "Laila is a graphic designer and she just opened her own studio.",
+          "translation": {
+            "fa": "لیلا طراح گرافیک است و تازه استودیوی خودش را راه انداخته است.",
+            "en": "Laila is a graphic designer and she just opened her own studio."
+          }
+        },
+        "takeaway": {
+          "fa": "is ویژگی را می‌گوید؛ sounds برداشت از شنیده‌ها را.",
+          "en": "Is describes; sounds reacts to what was heard."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن شغل و ویژگی یک نفر",
+              "en": "Describing a person"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Laila is a graphic designer"
+                },
+                {
+                  "text": "person + is + a + job"
+                },
+                {
+                  "fa": "لیلا طراح گرافیک است",
+                  "en": "A job"
+                }
+              ],
+              [
+                {
+                  "text": "She is very friendly"
+                },
+                {
+                  "text": "she + is + description"
+                },
+                {
+                  "fa": "او خوش‌برخورد است",
+                  "en": "A quality"
+                }
+              ],
+              [
+                {
+                  "text": "That sounds impressive"
+                },
+                {
+                  "text": "that + sounds + description"
+                },
+                {
+                  "fa": "تحسین‌برانگیز به نظر می‌رسد",
+                  "en": "A reaction"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-and-now",
+        "title": {
+          "fa": "آشنایی از گذشته تا امروز",
+          "en": "Knowing someone from before now"
+        },
+        "explanation": {
+          "fa": "How long have you known each other? مدت آشنایی را تا امروز می‌پرسد. known شکل know در این سؤال است. each other یعنی یکدیگر؛ دو نفر همدیگر را می‌شناسند.",
+          "en": "How long have you known each other? asks how long the relationship has lasted until now. Known is the form of know used here. Each other means the two people know one another."
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        },
+        "takeaway": {
+          "fa": "How long مدت را می‌پرسد، نه مکان را.",
+          "en": "How long asks for time, not place."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "آشنایی از گذشته تا امروز",
+              "en": "Knowing someone from before now"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how long have you known each other?"
+                },
+                {
+                  "text": "How long + have you known + each other?"
+                },
+                {
+                  "fa": "چه مدت است همدیگر را می‌شناسید؟",
+                  "en": "A relationship up to now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "finished-past",
+        "title": {
+          "fa": "گفتن کارهای انجام‌شده",
+          "en": "Talking about finished actions"
+        },
+        "explanation": {
+          "fa": "studied گذشتهٔ study است؛ y به i تبدیل شده و ed گرفته است. opened هم گذشتهٔ open است. just کنار opened نشان می‌دهد راه‌افتادن استودیو تازه بوده است.",
+          "en": "Studied is the past of study: change y to i and add ed. Opened is the past of open. Just with opened tells us the studio opened recently."
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        },
+        "takeaway": {
+          "fa": "studied برای درس‌خواندنِ گذشته است.",
+          "en": "Studied describes learning in the past."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن کارهای انجام‌شده",
+              "en": "Talking about finished actions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We studied together at university"
+                },
+                {
+                  "text": "we + studied + place"
+                },
+                {
+                  "fa": "در دانشگاه با هم درس خواندیم",
+                  "en": "A past shared experience"
+                }
+              ],
+              [
+                {
+                  "text": "she just opened her own studio"
+                },
+                {
+                  "text": "she + just + opened + her own studio"
+                },
+                {
+                  "fa": "تازه استودیوی خودش را راه انداخته",
+                  "en": "A recent finished action"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feelings-to",
+        "title": {
+          "fa": "خوشحال از آشنایی",
+          "en": "Being pleased to meet someone"
+        },
+        "explanation": {
+          "fa": "پس از pleased یا glad می‌توانی to meet را بیاوری و بگویی از چه کاری خوشحالی. her در meet her به لیلا اشاره می‌کند. her own studio یعنی استودیوی خود او؛ own روی «خودش» تأکید می‌کند.",
+          "en": "Pleased or glad can be followed by to meet to explain the feeling. Her in meet her means Laila. Her own studio stresses that the studio is hers."
+        },
+        "example": {
+          "text": "That is a strong friendship, and I am glad to meet her through you.",
+          "translation": {
+            "fa": "دوستی محکمی است و خوشحالم که از طریق تو با او آشنا می‌شوم.",
+            "en": "That is a strong friendship, and I am glad to meet her through you."
+          }
+        },
+        "takeaway": {
+          "fa": "meet her یعنی با او آشنا شدن.",
+          "en": "Meet her means meet Laila here."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "خوشحال از آشنایی",
+              "en": "Being pleased to meet someone"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "pleased to meet you"
+                },
+                {
+                  "text": "pleased + to meet + you"
+                },
+                {
+                  "fa": "خوشحال از آشنایی با تو",
+                  "en": "A first-meeting feeling"
+                }
+              ],
+              [
+                {
+                  "text": "glad to meet her through you"
+                },
+                {
+                  "text": "glad + to meet her + through you"
+                },
+                {
+                  "fa": "خوشحال از آشنایی با او از طریق تو",
+                  "en": "Who and how"
+                }
+              ],
+              [
+                {
+                  "text": "her own studio"
+                },
+                {
+                  "text": "her + own + studio"
+                },
+                {
+                  "fa": "استودیوی خودش",
+                  "en": "Emphasizing ownership"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "planning-next",
+        "title": {
+          "fa": "پیشنهاد دیدار بعدی",
+          "en": "Planning another meeting"
+        },
+        "explanation": {
+          "fa": "can برای پیشنهاد یک امکان و will برای تصمیم و برنامه آمده است. maybe یعنی شاید. next week یعنی هفتهٔ آینده؛ پیش از آن at یا on نمی‌آوریم. so هم نتیجه را می‌گوید: با هم درس خواندیم، پس دوستان قدیمی هستیم.",
+          "en": "Can suggests a possibility; will gives a decision or plan. Maybe means perhaps. Say next week without at or on. So introduces a result: they studied together, so they are old friends."
+        },
+        "example": {
+          "text": "I am sure we will, maybe the three of us can have coffee next week.",
+          "translation": {
+            "fa": "مطمئنم همین‌طور می‌شود؛ شاید هفتهٔ آینده هر سه‌نفرمان بتوانیم قهوه بخوریم.",
+            "en": "I am sure we will, maybe the three of us can have coffee next week."
+          }
+        },
+        "takeaway": {
+          "fa": "can have coffee یک پیشنهاد است؛ will arrange یک تصمیم.",
+          "en": "Can have coffee suggests; will arrange decides."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد دیدار بعدی",
+              "en": "Planning another meeting"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we can have coffee next week"
+                },
+                {
+                  "text": "can + have coffee + next week"
+                },
+                {
+                  "fa": "می‌توانیم هفتهٔ آینده قهوه بخوریم",
+                  "en": "A suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "we will arrange it"
+                },
+                {
+                  "text": "will + arrange + it"
+                },
+                {
+                  "fa": "هماهنگش می‌کنیم",
+                  "en": "A decision"
+                }
+              ],
+              [
+                {
+                  "text": "so we are old friends"
+                },
+                {
+                  "text": "so + result"
+                },
+                {
+                  "fa": "پس دوستان قدیمی هستیم",
+                  "en": "A result"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "short-replies",
+        "title": {
+          "fa": "پاسخ کوتاه بدون تکرار",
+          "en": "Short replies without repetition"
+        },
+        "explanation": {
+          "fa": "در I am sure we will، کارِ بعد از will از حرف قبلی فهمیده می‌شود: خوب کنار می‌آییم. Please do هم یعنی «لطفاً همان کار را انجام بده»؛ اینجا پرسیدن از لیلا و هماهنگ‌کردن دیدار.",
+          "en": "In I am sure we will, the earlier action is understood: get along well. Please do asks Reza to do what he offered: ask Laila and arrange the meeting."
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        },
+        "takeaway": {
+          "fa": "برای پاسخ کوتاه می‌توانی کارِ گفته‌شده را تکرار نکنی.",
+          "en": "A short reply need not repeat an earlier action."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پاسخ کوتاه بدون تکرار",
+              "en": "Short replies without repetition"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am sure we will"
+                },
+                {
+                  "text": "we will + understood action"
+                },
+                {
+                  "fa": "مطمئنم کنار می‌آییم",
+                  "en": "Referring back"
+                }
+              ],
+              [
+                {
+                  "text": "Please do"
+                },
+                {
+                  "text": "please + do the offered action"
+                },
+                {
+                  "fa": "لطفاً انجام بده",
+                  "en": "Accepting an offer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "looking-forward",
+        "title": {
+          "fa": "مشتاق چیزی بودن",
+          "en": "Looking forward to something"
+        },
+        "explanation": {
+          "fa": "در I am looking forward to it، کل looking forward to یعنی مشتاق بودن. to در این عبارت پیش از چیزی مثل it می‌آید. در این متن it به دیدار پیشنهادی اشاره دارد.",
+          "en": "In I am looking forward to it, looking forward to means feeling excited about a future event. To is followed by it here, referring to the planned meeting."
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        },
+        "takeaway": {
+          "fa": "looking forward to را یک عبارت یاد بگیر.",
+          "en": "Learn looking forward to as one expression."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مشتاق چیزی بودن",
+              "en": "Looking forward to something"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am really looking forward to it"
+                },
+                {
+                  "text": "am looking forward to + it"
+                },
+                {
+                  "fa": "واقعاً مشتاقش هستم",
+                  "en": "A positive feeling about a future meeting"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hi",
+        "text": "Hi",
+        "pronunciation": {
+          "faReading": "های",
+          "ipa": "/haɪ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hi"
+        },
+        "context": {
+          "fa": "سلامی دوستانه به سَم.",
+          "en": "An informal greeting to Sam."
+        },
+        "example": {
+          "text": "Hi Sam, I want you to meet my friend Laila.",
+          "translation": {
+            "fa": "سلام سَم، می‌خواهم با دوستم لیلا آشنا شوی.",
+            "en": "Hi Sam, I want you to meet my friend Laila."
+          }
+        }
+      },
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hello"
+        },
+        "context": {
+          "fa": "سَم به لیلا سلام می‌کند.",
+          "en": "Sam greets Laila."
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "pleased-meet",
+        "text": "I am very pleased to meet you",
+        "pronunciation": {
+          "faReading": "آی اَم وِری پْلیزد تو میت یو",
+          "ipa": "/aɪ æm ˈvɛri plizd tə mit ju/"
+        },
+        "meaning": {
+          "fa": "از آشنایی با تو خیلی خوشحالم",
+          "en": "I am very pleased to meet you"
+        },
+        "context": {
+          "fa": "برای آشنایی اولیه است و از Hi مؤدبانه‌تر است.",
+          "en": "A polite first-meeting expression, more formal than hi."
+        },
+        "example": {
+          "text": "Hello Laila, I am very pleased to meet you.",
+          "translation": {
+            "fa": "سلام لیلا، از آشنایی با تو خیلی خوشحالم.",
+            "en": "Hello Laila, I am very pleased to meet you."
+          }
+        }
+      },
+      {
+        "id": "sounds-impressive",
+        "text": "That sounds impressive",
+        "pronunciation": {
+          "faReading": "ذَت ساوندز ایم‌پْرِسیو",
+          "ipa": "/ðæt saʊndz ɪmˈprɛsɪv/"
+        },
+        "meaning": {
+          "fa": "تحسین‌برانگیز به نظر می‌رسد",
+          "en": "That sounds impressive"
+        },
+        "context": {
+          "fa": "واکنش مثبت به خبر استودیوی لیلا.",
+          "en": "A positive reaction to the news about Laila’s studio."
+        },
+        "example": {
+          "text": "That sounds impressive, how long have you known each other?",
+          "translation": {
+            "fa": "تحسین‌برانگیز به نظر می‌رسد؛ چه مدت است همدیگر را می‌شناسید؟",
+            "en": "That sounds impressive, how long have you known each other?"
+          }
+        }
+      },
+      {
+        "id": "old-friends",
+        "text": "old friends",
+        "pronunciation": {
+          "faReading": "اُولد فْرِندز",
+          "ipa": "/oʊld frɛndz/"
+        },
+        "meaning": {
+          "fa": "دوستان قدیمی",
+          "en": "Long-time friends"
+        },
+        "context": {
+          "fa": "old اینجا طول آشنایی را می‌گوید، نه سن دوستان را.",
+          "en": "Old here describes the length of the friendship, not their age."
+        },
+        "example": {
+          "text": "We studied together at university, so we are old friends.",
+          "translation": {
+            "fa": "ما با هم در دانشگاه درس خواندیم، پس دوستان قدیمی هستیم.",
+            "en": "We studied together at university, so we are old friends."
+          }
+        }
+      },
+      {
+        "id": "get-along",
+        "text": "get along well",
+        "pronunciation": {
+          "faReading": "گِت اِلانگ وِل",
+          "ipa": "/ɡɛt əˈlɔŋ wɛl/"
+        },
+        "meaning": {
+          "fa": "با هم خوب کنار آمدن",
+          "en": "Get along well"
+        },
+        "context": {
+          "fa": "برای رابطهٔ خوب دو نفر است، نه راه رفتن در یک مسیر.",
+          "en": "Describes a good relationship, not movement along a path."
+        },
+        "example": {
+          "text": "She is very friendly, and I think you two will get along well.",
+          "translation": {
+            "fa": "او خیلی خوش‌برخورد است و فکر می‌کنم شما دو نفر با هم خوب کنار می‌آیید.",
+            "en": "She is very friendly, and I think you two will get along well."
+          }
+        }
+      },
+      {
+        "id": "great-idea",
+        "text": "That is a great idea",
+        "pronunciation": {
+          "faReading": "ذَت ایز اِ گْرِیت آی‌دی‌اِ",
+          "ipa": "/ðæt ɪz ə ɡreɪt aɪˈdiə/"
+        },
+        "meaning": {
+          "fa": "فکر خیلی خوبی است",
+          "en": "That is a great idea"
+        },
+        "context": {
+          "fa": "پیشنهاد قهوه خوردن را تأیید می‌کند.",
+          "en": "Approves the suggestion of coffee together."
+        },
+        "example": {
+          "text": "That is a great idea, I will ask Laila and we will arrange it.",
+          "translation": {
+            "fa": "فکر خیلی خوبی است؛ از لیلا می‌پرسم و هماهنگش می‌کنیم.",
+            "en": "That is a great idea, I will ask Laila and we will arrange it."
+          }
+        }
+      },
+      {
+        "id": "please-do",
+        "text": "Please do",
+        "pronunciation": {
+          "faReading": "پْلیز دو",
+          "ipa": "/pliz du/"
+        },
+        "meaning": {
+          "fa": "لطفاً همین کار را بکن",
+          "en": "Please do"
+        },
+        "context": {
+          "fa": "از رضا می‌خواهد پیشنهاد هماهنگ‌کردن دیدار را انجام دهد.",
+          "en": "Encourages Reza to make the offered arrangements."
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      },
+      {
+        "id": "looking-forward",
+        "text": "I am really looking forward to it",
+        "pronunciation": {
+          "faReading": "آی اَم ریلی لوکینگ فوروِرد تو ایت",
+          "ipa": "/aɪ æm ˈrili ˈlʊkɪŋ ˈfɔrwɚd tə ɪt/"
+        },
+        "meaning": {
+          "fa": "واقعاً مشتاقش هستم",
+          "en": "I am really looking forward to it"
+        },
+        "context": {
+          "fa": "اشتیاق برای دیدار آینده؛ معنی کل عبارت مهم است.",
+          "en": "Expresses excitement about a future meeting; learn the whole expression."
+        },
+        "example": {
+          "text": "Please do, I am really looking forward to it.",
+          "translation": {
+            "fa": "حتماً این کار را بکن؛ واقعاً مشتاقش هستم.",
+            "en": "Please do, I am really looking forward to it."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "موضوع اصلی چیست؟",
+          "en": "What is the main topic?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ثبت‌نام در دانشگاه",
+              "en": "Enrolling at university"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "معرفی یک دوست",
+              "en": "Introducing a friend"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "استخدام یک همکار",
+              "en": "Hiring a colleague"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "رضا می‌خواهد سَم با دوستش لیلا آشنا شود.",
+          "en": "Reza wants Sam to meet his friend Laila."
+        },
+        "evidenceTurnIds": [
+          "t01"
+        ]
+      },
+      {
+        "id": "job",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "شغل لیلا چیست؟",
+          "en": "What is Laila’s job?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "طراح گرافیک",
+              "en": "Graphic designer"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "معلم زبان",
+              "en": "Language teacher"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مدیر فروش",
+              "en": "Sales manager"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "رضا می‌گوید لیلا graphic designer است.",
+          "en": "Reza says Laila is a graphic designer."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "connection",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "رضا و لیلا از کجا همدیگر را می‌شناسند؟",
+          "en": "How do Reza and Laila know each other?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "از کار در یک فروشگاه",
+              "en": "From working in a shop"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "از همسایه بودن",
+              "en": "From being neighbors"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "از درس خواندن در دانشگاه",
+              "en": "From studying at university"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "رضا می‌گوید با هم در دانشگاه درس خوانده‌اند.",
+          "en": "Reza says they studied together at university."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "plan",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "سَم چه دیداری پیشنهاد می‌دهد؟",
+          "en": "What does Sam suggest doing together?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "تماشای فیلم",
+              "en": "Watching a film"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "قهوه خوردن",
+              "en": "Having coffee"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "بازدید از موزه",
+              "en": "Visiting a museum"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "سَم پیشنهاد می‌دهد هر سه‌نفر قهوه بخورند.",
+          "en": "Sam suggests that the three of them have coffee."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      },
+      {
+        "id": "when",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "این دیدار برای چه زمانی پیشنهاد می‌شود؟",
+          "en": "When is the suggested meeting?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفتهٔ آینده",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ماه آینده",
+              "en": "Next month"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فردا صبح",
+              "en": "Tomorrow morning"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "سَم در پیشنهادش می‌گوید next week.",
+          "en": "Sam says next week in his suggestion."
+        },
+        "evidenceTurnIds": [
+          "t08"
+        ]
+      }
+    ]
+  }
+}

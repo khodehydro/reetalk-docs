@@ -1,0 +1,5334 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s12",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "C1",
+  "title": {
+    "fa": "معرفی دکتر کامرانی در اجلاس",
+    "en": "Introducing Dr. Kamrani at the conference"
+  },
+  "objective": {
+    "fa": "هدف سازمان، نقطهٔ شروع فعالیت و گستره و زمان کارزار واکسیناسیون را شناسایی و شیوهٔ تقسیم اعتبار را تحلیل کن.",
+    "en": "Identify the organization’s purpose, its starting point, and the reach and timing of the vaccination campaign; analyze how credit is attributed."
+  },
+  "speakers": [
+    {
+      "id": "dr-kamrani",
+      "name": "Dr. Kamrani",
+      "gender": "man"
+    },
+    {
+      "id": "chair",
+      "name": "Chair",
+      "gender": "woman"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "dr-kamrani",
+      "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+      "translation": {
+        "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+        "en": "Good morning, distinguished guests, it is a privilege to address you today."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ در صبح به‌خیر",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح،",
+            "en": "morning; the first part of the day"
+          }
+        },
+        {
+          "surface": "distinguished",
+          "gloss": {
+            "fa": "ارجمند",
+            "en": "distinguished; respected, used as a formal honorific"
+          }
+        },
+        {
+          "surface": "guests,",
+          "gloss": {
+            "fa": "مهمانان،",
+            "en": "guests; invited participants"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "در این جمله جدا ترجمه نمی‌شود",
+            "en": "it; no separate meaning here"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "privilege",
+          "gloss": {
+            "fa": "افتخار",
+            "en": "privilege; a valued opportunity or honor"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "نشانۀ مصدر؛ پیش از address",
+            "en": "to; infinitive marker before address"
+          }
+        },
+        {
+          "surface": "address",
+          "gloss": {
+            "fa": "سخن گفتن با؛ خطاب کردن",
+            "en": "address; speak formally to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "today.",
+          "gloss": {
+            "fa": "امروز.",
+            "en": "today; on this day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "chair",
+      "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+      "translation": {
+        "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+        "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+      },
+      "tokens": [
+        {
+          "surface": "Good",
+          "gloss": {
+            "fa": "خوب؛ در صبح به‌خیر",
+            "en": "good; pleasant"
+          }
+        },
+        {
+          "surface": "morning,",
+          "gloss": {
+            "fa": "صبح،",
+            "en": "morning; the first part of the day"
+          }
+        },
+        {
+          "surface": "Doctor,",
+          "gloss": {
+            "fa": "دکتر،",
+            "en": "doctor; a professional or academic title"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستیم",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "delighted",
+          "gloss": {
+            "fa": "بسیار خرسند",
+            "en": "delighted; very pleased"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "داشتنِ حضور شما",
+            "en": "have; welcome you here"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما را",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "as",
+          "gloss": {
+            "fa": "به‌عنوانِ",
+            "en": "as; in the role of"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "keynote",
+          "gloss": {
+            "fa": "اصلی",
+            "en": "keynote; a central conference address"
+          }
+        },
+        {
+          "surface": "speaker.",
+          "gloss": {
+            "fa": "سخنران.",
+            "en": "speaker; a person addressing an audience"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "dr-kamrani",
+      "text": "My talk will focus on how our organization supports community health programs.",
+      "translation": {
+        "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+        "en": "My talk will focus on how our organization supports community health programs."
+      },
+      "tokens": [
+        {
+          "surface": "My",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "talk",
+          "gloss": {
+            "fa": "سخنرانی",
+            "en": "talk; a spoken presentation here"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهد",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "focus",
+          "gloss": {
+            "fa": "تمرکز کرد",
+            "en": "focus; direct attention toward a topic"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "بر",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چگونگی",
+            "en": "how; asking about manner or condition"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "organization",
+          "gloss": {
+            "fa": "سازمان",
+            "en": "organization; a structured group with a shared purpose"
+          }
+        },
+        {
+          "surface": "supports",
+          "gloss": {
+            "fa": "حمایت می‌کند از",
+            "en": "supports; provides assistance or resources"
+          }
+        },
+        {
+          "surface": "community",
+          "gloss": {
+            "fa": "جامعه",
+            "en": "community; a local population or group"
+          }
+        },
+        {
+          "surface": "health",
+          "gloss": {
+            "fa": "سلامت",
+            "en": "health; physical and mental wellbeing"
+          }
+        },
+        {
+          "surface": "programs.",
+          "gloss": {
+            "fa": "برنامه‌ها.",
+            "en": "programs; organized sets of activities"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "chair",
+      "text": "That is a vital topic, and many here work in the same field.",
+      "translation": {
+        "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+        "en": "That is a vital topic, and many here work in the same field."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "vital",
+          "gloss": {
+            "fa": "بسیار مهم",
+            "en": "vital; essential or extremely important"
+          }
+        },
+        {
+          "surface": "topic,",
+          "gloss": {
+            "fa": "موضوع،",
+            "en": "topic; the subject being discussed"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "many",
+          "gloss": {
+            "fa": "بسیاری",
+            "en": "many; a large number"
+          }
+        },
+        {
+          "surface": "here",
+          "gloss": {
+            "fa": "اینجا",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار می‌کنند",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "same",
+          "gloss": {
+            "fa": "یکسان",
+            "en": "same; identical or shared"
+          }
+        },
+        {
+          "surface": "field.",
+          "gloss": {
+            "fa": "حوزه.",
+            "en": "field; an area of study or work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "dr-kamrani",
+      "text": "We began our work ten years ago with a small clinic in a rural area.",
+      "translation": {
+        "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+        "en": "We began our work ten years ago with a small clinic in a rural area."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "began",
+          "gloss": {
+            "fa": "آغاز کردیم",
+            "en": "began; past tense of begin"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "ten",
+          "gloss": {
+            "fa": "ده",
+            "en": "ten; 10"
+          }
+        },
+        {
+          "surface": "years",
+          "gloss": {
+            "fa": "سال",
+            "en": "years; periods of twelve months"
+          }
+        },
+        {
+          "surface": "ago",
+          "gloss": {
+            "fa": "پیش",
+            "en": "ago; before now"
+          }
+        },
+        {
+          "surface": "with",
+          "gloss": {
+            "fa": "با",
+            "en": "with; together with"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "clinic",
+          "gloss": {
+            "fa": "درمانگاه",
+            "en": "clinic; a facility offering medical care"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "rural",
+          "gloss": {
+            "fa": "روستایی",
+            "en": "rural; relating to the countryside"
+          }
+        },
+        {
+          "surface": "area.",
+          "gloss": {
+            "fa": "منطقه.",
+            "en": "area; a geographical region"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "chair",
+      "text": "From a small clinic to a national program, that is a remarkable achievement.",
+      "translation": {
+        "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+        "en": "From a small clinic to a national program, that is a remarkable achievement."
+      },
+      "tokens": [
+        {
+          "surface": "From",
+          "gloss": {
+            "fa": "از",
+            "en": "from; starting place"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "small",
+          "gloss": {
+            "fa": "کوچک",
+            "en": "small; limited in size"
+          }
+        },
+        {
+          "surface": "clinic",
+          "gloss": {
+            "fa": "درمانگاه",
+            "en": "clinic; a facility offering medical care"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "national",
+          "gloss": {
+            "fa": "ملی",
+            "en": "national; operating at a country's scale"
+          }
+        },
+        {
+          "surface": "program,",
+          "gloss": {
+            "fa": "برنامه،",
+            "en": "program; an organized set of activities"
+          }
+        },
+        {
+          "surface": "that",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "remarkable",
+          "gloss": {
+            "fa": "چشمگیر",
+            "en": "remarkable; notably impressive"
+          }
+        },
+        {
+          "surface": "achievement.",
+          "gloss": {
+            "fa": "دستاورد.",
+            "en": "achievement; a significant result gained through effort"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "dr-kamrani",
+      "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+      "translation": {
+        "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+        "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "credit",
+          "gloss": {
+            "fa": "اعتبار",
+            "en": "credit; recognition for an achievement"
+          }
+        },
+        {
+          "surface": "belongs",
+          "gloss": {
+            "fa": "تعلق دارد",
+            "en": "belongs; is appropriately attributed to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "dedicated",
+          "gloss": {
+            "fa": "متعهد",
+            "en": "dedicated; strongly committed to a purpose"
+          }
+        },
+        {
+          "surface": "team",
+          "gloss": {
+            "fa": "تیم",
+            "en": "team; people working or playing together"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "trust",
+          "gloss": {
+            "fa": "اعتماد",
+            "en": "trust; confidence in reliability or integrity"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "communities",
+          "gloss": {
+            "fa": "جوامع",
+            "en": "communities; groups connected by place or identity"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "serve.",
+          "gloss": {
+            "fa": "خدمت می‌کنیم به.",
+            "en": "serve; provide support or services to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "chair",
+      "text": "Could you briefly describe one of your most successful projects?",
+      "translation": {
+        "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+        "en": "Could you briefly describe one of your most successful projects?"
+      },
+      "tokens": [
+        {
+          "surface": "Could",
+          "gloss": {
+            "fa": "ممکن است",
+            "en": "could; makes a request less direct"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "briefly",
+          "gloss": {
+            "fa": "به‌اختصار",
+            "en": "briefly; in a concise way"
+          }
+        },
+        {
+          "surface": "describe",
+          "gloss": {
+            "fa": "شرح دهید",
+            "en": "describe; give an account of"
+          }
+        },
+        {
+          "surface": "one",
+          "gloss": {
+            "fa": "یکی",
+            "en": "one; 1"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "most",
+          "gloss": {
+            "fa": "بیشترین؛ در موفق‌ترین",
+            "en": "most; the greatest degree"
+          }
+        },
+        {
+          "surface": "successful",
+          "gloss": {
+            "fa": "موفق",
+            "en": "successful; achieving the intended result"
+          }
+        },
+        {
+          "surface": "projects?",
+          "gloss": {
+            "fa": "پروژه‌ها؟",
+            "en": "projects; planned pieces of work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "dr-kamrani",
+      "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+      "translation": {
+        "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+        "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+      },
+      "tokens": [
+        {
+          "surface": "Certainly,",
+          "gloss": {
+            "fa": "البته،",
+            "en": "certainly; a confident affirmative response"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "mobile",
+          "gloss": {
+            "fa": "سیار",
+            "en": "mobile; able to travel between locations"
+          }
+        },
+        {
+          "surface": "vaccination",
+          "gloss": {
+            "fa": "واکسیناسیون",
+            "en": "vaccination; administering vaccines to prevent disease"
+          }
+        },
+        {
+          "surface": "campaign",
+          "gloss": {
+            "fa": "کارزار",
+            "en": "campaign; an organized effort toward a public goal"
+          }
+        },
+        {
+          "surface": "reached",
+          "gloss": {
+            "fa": "پوشش داد",
+            "en": "reached; extended services to"
+          }
+        },
+        {
+          "surface": "over",
+          "gloss": {
+            "fa": "بیش از",
+            "en": "over; exceeding an amount"
+          }
+        },
+        {
+          "surface": "fifty",
+          "gloss": {
+            "fa": "پنجاه",
+            "en": "fifty; 50"
+          }
+        },
+        {
+          "surface": "thousand",
+          "gloss": {
+            "fa": "هزار",
+            "en": "thousand; 1000"
+          }
+        },
+        {
+          "surface": "families",
+          "gloss": {
+            "fa": "خانواده",
+            "en": "families; groups of related people"
+          }
+        },
+        {
+          "surface": "last",
+          "gloss": {
+            "fa": "گذشته",
+            "en": "last; the previous one"
+          }
+        },
+        {
+          "surface": "year.",
+          "gloss": {
+            "fa": "سال.",
+            "en": "year; twelve months"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "chair",
+      "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+      "translation": {
+        "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+        "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you,",
+          "gloss": {
+            "fa": "شما،",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "Doctor,",
+          "gloss": {
+            "fa": "دکتر،",
+            "en": "doctor; a professional or academic title"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستیم",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه",
+            "en": "all; every part"
+          }
+        },
+        {
+          "surface": "eager",
+          "gloss": {
+            "fa": "مشتاق",
+            "en": "eager; strongly interested in doing something"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "hear",
+          "gloss": {
+            "fa": "شنیدن",
+            "en": "hear; perceive sound or receive news"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "presentation",
+          "gloss": {
+            "fa": "ارائه",
+            "en": "presentation; a structured spoken account"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "به‌صورت",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "full.",
+          "gloss": {
+            "fa": "کامل.",
+            "en": "full; complete"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "speakerId": "dr-kamrani",
+      "text": "I appreciate that, and I look forward to your questions after the talk.",
+      "translation": {
+        "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+        "en": "I appreciate that, and I look forward to your questions after the talk."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "appreciate",
+          "gloss": {
+            "fa": "قدردانی می‌کنم از",
+            "en": "appreciate; be grateful for"
+          }
+        },
+        {
+          "surface": "that,",
+          "gloss": {
+            "fa": "آن،",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "look",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of look forward to"
+          }
+        },
+        {
+          "surface": "forward",
+          "gloss": {
+            "fa": "بخشی از «مشتاق بودن»",
+            "en": "part of look forward to"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "questions",
+          "gloss": {
+            "fa": "پرسش‌ها",
+            "en": "questions; things people ask"
+          }
+        },
+        {
+          "surface": "after",
+          "gloss": {
+            "fa": "پس از",
+            "en": "after; later than"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "talk.",
+          "gloss": {
+            "fa": "سخنرانی.",
+            "en": "talk; a spoken presentation here"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "speakerId": "chair",
+      "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+      "translation": {
+        "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+        "en": "Our next speaker will continue the session, thank you again for your valuable words."
+      },
+      "tokens": [
+        {
+          "surface": "Our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "next",
+          "gloss": {
+            "fa": "بعدی",
+            "en": "next; following this one"
+          }
+        },
+        {
+          "surface": "speaker",
+          "gloss": {
+            "fa": "سخنران",
+            "en": "speaker; a person addressing an audience"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهد",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "continue",
+          "gloss": {
+            "fa": "ادامه داد",
+            "en": "continue; carry on"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "session,",
+          "gloss": {
+            "fa": "نشست،",
+            "en": "session; a scheduled period within an event"
+          }
+        },
+        {
+          "surface": "thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "again",
+          "gloss": {
+            "fa": "دوباره",
+            "en": "again; once more"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "valuable",
+          "gloss": {
+            "fa": "ارزشمند",
+            "en": "valuable; useful or important"
+          }
+        },
+        {
+          "surface": "words.",
+          "gloss": {
+            "fa": "سخنان.",
+            "en": "words; remarks or units of language"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "speakerId": "dr-kamrani",
+      "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+      "translation": {
+        "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+        "en": "I am honored to be here, and I hope our work inspires more cooperation."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم؛ با honored حالت را بیان می‌کند",
+            "en": "am; links I to the state honored"
+          }
+        },
+        {
+          "surface": "honored",
+          "gloss": {
+            "fa": "مفتخر",
+            "en": "honored; feeling privileged by recognition"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "بودن",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "here,",
+          "gloss": {
+            "fa": "اینجا،",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "hope",
+          "gloss": {
+            "fa": "امیدوارم",
+            "en": "hope; want a possible outcome"
+          }
+        },
+        {
+          "surface": "our",
+          "gloss": {
+            "fa": "مال ما",
+            "en": "our; belonging to us"
+          }
+        },
+        {
+          "surface": "work",
+          "gloss": {
+            "fa": "کار",
+            "en": "work; do a job"
+          }
+        },
+        {
+          "surface": "inspires",
+          "gloss": {
+            "fa": "برمی‌انگیزد",
+            "en": "inspires; motivates people toward an action"
+          }
+        },
+        {
+          "surface": "more",
+          "gloss": {
+            "fa": "بیشتر",
+            "en": "more; a greater amount or an additional instance"
+          }
+        },
+        {
+          "surface": "cooperation.",
+          "gloss": {
+            "fa": "همکاری.",
+            "en": "cooperation; coordinated action for a shared purpose"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "speakerId": "chair",
+      "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+      "translation": {
+        "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+        "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+      },
+      "tokens": [
+        {
+          "surface": "It",
+          "gloss": {
+            "fa": "آن",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "certainly",
+          "gloss": {
+            "fa": "قطعاً",
+            "en": "certainly; a confident affirmative response"
+          }
+        },
+        {
+          "surface": "does,",
+          "gloss": {
+            "fa": "برمی‌انگیزد؛ به گفتهٔ قبل برمی‌گردد",
+            "en": "does; stands for inspires cooperation"
+          }
+        },
+        {
+          "surface": "please",
+          "gloss": {
+            "fa": "لطفاً",
+            "en": "please; softens a request"
+          }
+        },
+        {
+          "surface": "join",
+          "gloss": {
+            "fa": "همراه شوید با",
+            "en": "join; become part of a group"
+          }
+        },
+        {
+          "surface": "me",
+          "gloss": {
+            "fa": "من",
+            "en": "me; the speaker"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "thanking",
+          "gloss": {
+            "fa": "تشکر کردن از",
+            "en": "thanking; expressing gratitude to"
+          }
+        },
+        {
+          "surface": "Dr.",
+          "gloss": {
+            "fa": "دکتر",
+            "en": "Dr; a name"
+          }
+        },
+        {
+          "surface": "Kamrani",
+          "gloss": {
+            "fa": "کامرانی",
+            "en": "Kamrani; a name"
+          }
+        },
+        {
+          "surface": "once",
+          "gloss": {
+            "fa": "یک بار؛ در بار دیگر",
+            "en": "once; one time"
+          }
+        },
+        {
+          "surface": "more.",
+          "gloss": {
+            "fa": "بیشتر؛ در بار دیگر.",
+            "en": "more; a greater amount or an additional instance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "speakerId": "dr-kamrani",
+      "text": "Thank you all for your attention and your warm reception.",
+      "translation": {
+        "fa": "از همهٔ شما بابت توجه و استقبال صمیمانه‌تان سپاسگزارم.",
+        "en": "Thank you all for your attention and your warm reception."
+      },
+      "tokens": [
+        {
+          "surface": "Thank",
+          "gloss": {
+            "fa": "تشکر می‌کنم از",
+            "en": "thank; express gratitude to"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "شما",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "all",
+          "gloss": {
+            "fa": "همه",
+            "en": "all; every part"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "attention",
+          "gloss": {
+            "fa": "توجه",
+            "en": "attention; focused listening or consideration"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "your",
+          "gloss": {
+            "fa": "مال شما",
+            "en": "your; belonging to you"
+          }
+        },
+        {
+          "surface": "warm",
+          "gloss": {
+            "fa": "صمیمانه",
+            "en": "warm; cordial and welcoming here"
+          }
+        },
+        {
+          "surface": "reception.",
+          "gloss": {
+            "fa": "استقبال.",
+            "en": "reception; the welcome given to someone"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "speakerId": "chair",
+      "text": "The floor is now yours for the full presentation, Doctor.",
+      "translation": {
+        "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+        "en": "The floor is now yours for the full presentation, Doctor."
+      },
+      "tokens": [
+        {
+          "surface": "The",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "floor",
+          "gloss": {
+            "fa": "نوبت سخن‌گفتن",
+            "en": "floor; the right to speak"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "now",
+          "gloss": {
+            "fa": "اکنون",
+            "en": "now; at the present time"
+          }
+        },
+        {
+          "surface": "yours",
+          "gloss": {
+            "fa": "از آنِ شما",
+            "en": "yours; belonging to or allocated to you"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "برای",
+            "en": "for; purpose or reason"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "full",
+          "gloss": {
+            "fa": "کامل",
+            "en": "full; complete"
+          }
+        },
+        {
+          "surface": "presentation,",
+          "gloss": {
+            "fa": "ارائه،",
+            "en": "presentation; a structured spoken account"
+          }
+        },
+        {
+          "surface": "Doctor.",
+          "gloss": {
+            "fa": "دکتر.",
+            "en": "doctor; a professional or academic title"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "good",
+        "text": "good",
+        "pronunciation": {
+          "faReading": "گود",
+          "ipa": "/ɡʊd/"
+        },
+        "meaning": {
+          "fa": "خوب",
+          "en": "good; pleasant"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "morning",
+        "text": "morning",
+        "pronunciation": {
+          "faReading": "مورنینگ",
+          "ipa": "/ˈmɔrnɪŋ/"
+        },
+        "meaning": {
+          "fa": "صبح",
+          "en": "morning; the first part of the day"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "distinguished",
+        "text": "distinguished",
+        "pronunciation": {
+          "faReading": "دیس‌تینگْویشت",
+          "ipa": "/dɪˈstɪŋɡwɪʃt/"
+        },
+        "meaning": {
+          "fa": "فرهیخته؛ ارجمند در خطاب رسمی",
+          "en": "distinguished; respected, used as a formal honorific"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "guests",
+        "text": "guests",
+        "pronunciation": {
+          "faReading": "گِستس",
+          "ipa": "/ɡɛsts/"
+        },
+        "meaning": {
+          "fa": "مهمانان",
+          "en": "guests; invited participants"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "در این جمله جدا ترجمه نمی‌شود",
+          "en": "it; no separate meaning here"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "privilege",
+        "text": "privilege",
+        "pronunciation": {
+          "faReading": "پْریوِلِج",
+          "ipa": "/ˈprɪvəlɪdʒ/"
+        },
+        "meaning": {
+          "fa": "افتخار؛ امتیاز ارزشمند",
+          "en": "privilege; a valued opportunity or honor"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "نشانۀ مصدر؛ در to address",
+          "en": "to; introduces the infinitival clause specifying the valued opportunity"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "address",
+        "text": "address",
+        "pronunciation": {
+          "faReading": "اِدْرِس",
+          "ipa": "/əˈdrɛs/"
+        },
+        "meaning": {
+          "fa": "خطاب کردن؛ سخن گفتن با",
+          "en": "address; speak formally to an audience"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "today",
+        "text": "today",
+        "pronunciation": {
+          "faReading": "تودِی",
+          "ipa": "/təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "امروز",
+          "en": "today; on this day"
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "doctor",
+        "text": "doctor",
+        "pronunciation": {
+          "faReading": "داکتِر",
+          "ipa": "/ˈdɑktɚ/"
+        },
+        "meaning": {
+          "fa": "دکتر؛ عنوان خطاب",
+          "en": "doctor; a professional or academic title"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "delighted",
+        "text": "delighted",
+        "pronunciation": {
+          "faReading": "دی‌لایْتِد",
+          "ipa": "/dɪˈlaɪtɪd/"
+        },
+        "meaning": {
+          "fa": "بسیار خرسند",
+          "en": "delighted; very pleased"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "to-action",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "نشانۀ مصدر؛ پیش از have، hear یا be",
+          "en": "to; introduces the action complement after delighted, eager or honored"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "حضور داشتنِ کسی در نقشی؛ در have you as our keynote speaker",
+          "en": "have; host someone in a specified role, here keynote speaker"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "as",
+        "text": "as",
+        "pronunciation": {
+          "faReading": "اَز",
+          "ipa": "/æz/"
+        },
+        "meaning": {
+          "fa": "به‌عنوانِ",
+          "en": "as; in the role of"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "our",
+        "text": "our",
+        "pronunciation": {
+          "faReading": "آوِر",
+          "ipa": "/aʊr/"
+        },
+        "meaning": {
+          "fa": "مال ما",
+          "en": "our; belonging to us"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "keynote",
+        "text": "keynote",
+        "pronunciation": {
+          "faReading": "کی‌نُوت",
+          "ipa": "/ˈkiˌnoʊt/"
+        },
+        "meaning": {
+          "fa": "اصلی؛ مربوط به سخنرانی محوری",
+          "en": "keynote; a central conference address"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "speaker",
+        "text": "speaker",
+        "pronunciation": {
+          "faReading": "سْپیکِر",
+          "ipa": "/ˈspikɚ/"
+        },
+        "meaning": {
+          "fa": "سخنران",
+          "en": "speaker; a person addressing an audience"
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "talk",
+        "text": "talk",
+        "pronunciation": {
+          "faReading": "تاک",
+          "ipa": "/tɔk/"
+        },
+        "meaning": {
+          "fa": "سخنرانی؛ صحبت",
+          "en": "talk; a spoken presentation here"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "focus",
+        "text": "focus",
+        "pronunciation": {
+          "faReading": "فُوکِس",
+          "ipa": "/ˈfoʊkəs/"
+        },
+        "meaning": {
+          "fa": "تمرکز کردن",
+          "en": "focus; direct attention toward a topic"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "organization",
+        "text": "organization",
+        "pronunciation": {
+          "faReading": "اورگِنِزِیشن",
+          "ipa": "/ˌɔrɡənəˈzeɪʃən/"
+        },
+        "meaning": {
+          "fa": "سازمان",
+          "en": "organization; a structured group with a shared purpose"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "supports",
+        "text": "supports",
+        "pronunciation": {
+          "faReading": "سِپورتس",
+          "ipa": "/səˈpɔrts/"
+        },
+        "meaning": {
+          "fa": "حمایت می‌کند",
+          "en": "supports; provides assistance or resources"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "community",
+        "text": "community",
+        "pronunciation": {
+          "faReading": "کِمیونِتی",
+          "ipa": "/kəˈmjunəti/"
+        },
+        "meaning": {
+          "fa": "جامعهٔ محلی؛ اجتماعی",
+          "en": "community; a local population or group"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "health",
+        "text": "health",
+        "pronunciation": {
+          "faReading": "هِلث",
+          "ipa": "/hɛlθ/"
+        },
+        "meaning": {
+          "fa": "سلامت",
+          "en": "health; physical and mental wellbeing"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "programs",
+        "text": "programs",
+        "pronunciation": {
+          "faReading": "پْرُوگْرَمز",
+          "ipa": "/ˈproʊɡræmz/"
+        },
+        "meaning": {
+          "fa": "برنامه‌ها",
+          "en": "programs; organized sets of activities"
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "vital",
+        "text": "vital",
+        "pronunciation": {
+          "faReading": "وایتِل",
+          "ipa": "/ˈvaɪtəl/"
+        },
+        "meaning": {
+          "fa": "بسیار مهم؛ حیاتی",
+          "en": "vital; essential or extremely important"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "topic",
+        "text": "topic",
+        "pronunciation": {
+          "faReading": "تاپیک",
+          "ipa": "/ˈtɑpɪk/"
+        },
+        "meaning": {
+          "fa": "موضوع",
+          "en": "topic; the subject being discussed"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "many",
+        "text": "many",
+        "pronunciation": {
+          "faReading": "مِنی",
+          "ipa": "/ˈmɛni/"
+        },
+        "meaning": {
+          "fa": "بسیاری",
+          "en": "many; a large number"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "work",
+        "text": "work",
+        "pronunciation": {
+          "faReading": "وِرک",
+          "ipa": "/wɝk/"
+        },
+        "meaning": {
+          "fa": "کار کردن",
+          "en": "work; do a job"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "same",
+        "text": "same",
+        "pronunciation": {
+          "faReading": "سِیم",
+          "ipa": "/seɪm/"
+        },
+        "meaning": {
+          "fa": "همان؛ یکسان",
+          "en": "same; identical or shared"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "field",
+        "text": "field",
+        "pronunciation": {
+          "faReading": "فیلد",
+          "ipa": "/fild/"
+        },
+        "meaning": {
+          "fa": "حوزه؛ زمینهٔ تخصص",
+          "en": "field; an area of study or work"
+        },
+        "example": {
+          "text": "That is a vital topic, and many here work in the same field.",
+          "translation": {
+            "fa": "این موضوعی بسیار مهم است و بسیاری از حاضران در همین حوزه کار می‌کنند.",
+            "en": "That is a vital topic, and many here work in the same field."
+          }
+        }
+      },
+      {
+        "id": "began",
+        "text": "began",
+        "pronunciation": {
+          "faReading": "بی‌گَن",
+          "ipa": "/bɪˈɡæn/"
+        },
+        "meaning": {
+          "fa": "آغاز کردیم؛ شروع کرد",
+          "en": "began; past tense of begin"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "ten",
+        "text": "ten",
+        "pronunciation": {
+          "faReading": "تِن",
+          "ipa": "/tɛn/"
+        },
+        "meaning": {
+          "fa": "ده",
+          "en": "ten; 10"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "ago",
+        "text": "ago",
+        "pronunciation": {
+          "faReading": "اِگُو",
+          "ipa": "/əˈɡoʊ/"
+        },
+        "meaning": {
+          "fa": "پیش؛ قبل از اکنون",
+          "en": "ago; before now"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "with",
+        "text": "with",
+        "pronunciation": {
+          "faReading": "ویذ",
+          "ipa": "/wɪð/"
+        },
+        "meaning": {
+          "fa": "با",
+          "en": "with; together with"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "small",
+        "text": "small",
+        "pronunciation": {
+          "faReading": "سْمال",
+          "ipa": "/smɔl/"
+        },
+        "meaning": {
+          "fa": "کوچک",
+          "en": "small; limited in size"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "clinic",
+        "text": "clinic",
+        "pronunciation": {
+          "faReading": "کْلینیک",
+          "ipa": "/ˈklɪnɪk/"
+        },
+        "meaning": {
+          "fa": "درمانگاه",
+          "en": "clinic; a facility offering medical care"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "rural",
+        "text": "rural",
+        "pronunciation": {
+          "faReading": "رورِل",
+          "ipa": "/ˈrʊrəl/"
+        },
+        "meaning": {
+          "fa": "روستایی",
+          "en": "rural; relating to the countryside"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "area",
+        "text": "area",
+        "pronunciation": {
+          "faReading": "اِری‌اِ",
+          "ipa": "/ˈɛriə/"
+        },
+        "meaning": {
+          "fa": "منطقه",
+          "en": "area; a geographical region"
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        }
+      },
+      {
+        "id": "from",
+        "text": "from",
+        "pronunciation": {
+          "faReading": "فْرام",
+          "ipa": "/frʌm/"
+        },
+        "meaning": {
+          "fa": "از؛ اهلِ",
+          "en": "from; starting place"
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "national",
+        "text": "national",
+        "pronunciation": {
+          "faReading": "نَشِنِل",
+          "ipa": "/ˈnæʃənəl/"
+        },
+        "meaning": {
+          "fa": "ملی؛ در سراسر کشور",
+          "en": "national; operating at a country's scale"
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "program",
+        "text": "program",
+        "pronunciation": {
+          "faReading": "پْرُوگْرَم",
+          "ipa": "/ˈproʊɡræm/"
+        },
+        "meaning": {
+          "fa": "برنامه؛ طرح سازمان‌یافته",
+          "en": "program; an organized set of activities"
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "remarkable",
+        "text": "remarkable",
+        "pronunciation": {
+          "faReading": "ری‌مارکِبِل",
+          "ipa": "/rɪˈmɑrkəbəl/"
+        },
+        "meaning": {
+          "fa": "چشمگیر",
+          "en": "remarkable; notably impressive"
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "achievement",
+        "text": "achievement",
+        "pronunciation": {
+          "faReading": "اِچیومِنت",
+          "ipa": "/əˈtʃivmənt/"
+        },
+        "meaning": {
+          "fa": "دستاورد",
+          "en": "achievement; a significant result gained through effort"
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "credit",
+        "text": "credit",
+        "pronunciation": {
+          "faReading": "کْرِدیت",
+          "ipa": "/ˈkrɛdɪt/"
+        },
+        "meaning": {
+          "fa": "اعتبار؛ اینجا شایستگیِ قدردانی",
+          "en": "credit; recognition for an achievement"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "belongs",
+        "text": "belongs",
+        "pronunciation": {
+          "faReading": "بی‌لانگْز",
+          "ipa": "/bɪˈlɔŋz/"
+        },
+        "meaning": {
+          "fa": "تعلق دارد",
+          "en": "belongs; is appropriately attributed to"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "dedicated",
+        "text": "dedicated",
+        "pronunciation": {
+          "faReading": "دِدِکِیتِد",
+          "ipa": "/ˈdɛdɪˌkeɪtɪd/"
+        },
+        "meaning": {
+          "fa": "متعهد",
+          "en": "dedicated; strongly committed to a purpose"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "team",
+        "text": "team",
+        "pronunciation": {
+          "faReading": "تیم",
+          "ipa": "/tim/"
+        },
+        "meaning": {
+          "fa": "تیم؛ گروه",
+          "en": "team; people working or playing together"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "trust",
+        "text": "trust",
+        "pronunciation": {
+          "faReading": "تْراست",
+          "ipa": "/trʌst/"
+        },
+        "meaning": {
+          "fa": "اعتماد",
+          "en": "trust; confidence in reliability or integrity"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند واژه‌ها",
+          "en": "of; links related words"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "communities",
+        "text": "communities",
+        "pronunciation": {
+          "faReading": "کِمیونِتیز",
+          "ipa": "/kəˈmjunətiz/"
+        },
+        "meaning": {
+          "fa": "جوامع؛ گروه‌های محلی",
+          "en": "communities; groups connected by place or identity"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "serve",
+        "text": "serve",
+        "pronunciation": {
+          "faReading": "سِرو",
+          "ipa": "/sɝv/"
+        },
+        "meaning": {
+          "fa": "خدمت‌رسانی کردن به",
+          "en": "serve; provide support or services to"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "could",
+        "text": "could",
+        "pronunciation": {
+          "faReading": "کود",
+          "ipa": "/kʊd/"
+        },
+        "meaning": {
+          "fa": "می‌توانید؛ در درخواست مؤدبانه",
+          "en": "could; makes a request less direct"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "briefly",
+        "text": "briefly",
+        "pronunciation": {
+          "faReading": "بْریفلی",
+          "ipa": "/ˈbrifli/"
+        },
+        "meaning": {
+          "fa": "به‌اختصار",
+          "en": "briefly; in a concise way"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "describe",
+        "text": "describe",
+        "pronunciation": {
+          "faReading": "دیس‌کْرایب",
+          "ipa": "/dɪˈskraɪb/"
+        },
+        "meaning": {
+          "fa": "شرح دادن",
+          "en": "describe; give an account of"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "one",
+        "text": "one",
+        "pronunciation": {
+          "faReading": "وان",
+          "ipa": "/wʌn/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "one; 1"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "your",
+        "text": "your",
+        "pronunciation": {
+          "faReading": "یور",
+          "ipa": "/jʊr/"
+        },
+        "meaning": {
+          "fa": "مال تو یا شما",
+          "en": "your; belonging to you"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "most",
+        "text": "most",
+        "pronunciation": {
+          "faReading": "مُوست",
+          "ipa": "/moʊst/"
+        },
+        "meaning": {
+          "fa": "بیشترین؛ در ساخت برترین",
+          "en": "most; the greatest degree"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "successful",
+        "text": "successful",
+        "pronunciation": {
+          "faReading": "سَک‌سِس‌فُل",
+          "ipa": "/səkˈsɛsfəl/"
+        },
+        "meaning": {
+          "fa": "موفق",
+          "en": "successful; achieving the intended result"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "projects",
+        "text": "projects",
+        "pronunciation": {
+          "faReading": "پْراجِکتس",
+          "ipa": "/ˈprɑdʒɛkts/"
+        },
+        "meaning": {
+          "fa": "پروژه‌ها",
+          "en": "projects; planned pieces of work"
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        }
+      },
+      {
+        "id": "certainly",
+        "text": "certainly",
+        "pronunciation": {
+          "faReading": "سِرتِنلی",
+          "ipa": "/ˈsɝtənli/"
+        },
+        "meaning": {
+          "fa": "حتماً؛ البته",
+          "en": "certainly; a confident affirmative response"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "mobile",
+        "text": "mobile",
+        "pronunciation": {
+          "faReading": "مُوبِل",
+          "ipa": "/ˈmoʊbəl/"
+        },
+        "meaning": {
+          "fa": "سیار؛ قابل جابه‌جایی",
+          "en": "mobile; able to travel between locations"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "vaccination",
+        "text": "vaccination",
+        "pronunciation": {
+          "faReading": "وَکسِنِیشن",
+          "ipa": "/ˌvæksəˈneɪʃən/"
+        },
+        "meaning": {
+          "fa": "واکسیناسیون",
+          "en": "vaccination; administering vaccines to prevent disease"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "campaign",
+        "text": "campaign",
+        "pronunciation": {
+          "faReading": "کَم‌پِین",
+          "ipa": "/kæmˈpeɪn/"
+        },
+        "meaning": {
+          "fa": "کارزار؛ برنامهٔ هماهنگ",
+          "en": "campaign; an organized effort toward a public goal"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "reached",
+        "text": "reached",
+        "pronunciation": {
+          "faReading": "ریچت",
+          "ipa": "/ritʃt/"
+        },
+        "meaning": {
+          "fa": "پوشش داد؛ به آن‌ها رسید",
+          "en": "reached; extended services to"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "over",
+        "text": "over",
+        "pronunciation": {
+          "faReading": "اُووِر",
+          "ipa": "/ˈoʊvɚ/"
+        },
+        "meaning": {
+          "fa": "بیش از",
+          "en": "over; exceeding an amount"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "fifty",
+        "text": "fifty",
+        "pronunciation": {
+          "faReading": "فیفتی",
+          "ipa": "/ˈfɪfti/"
+        },
+        "meaning": {
+          "fa": "پنجاه",
+          "en": "fifty; 50"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "thousand",
+        "text": "thousand",
+        "pronunciation": {
+          "faReading": "ثاوزِند",
+          "ipa": "/ˈθaʊzənd/"
+        },
+        "meaning": {
+          "fa": "هزار",
+          "en": "thousand; 1000"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "families",
+        "text": "families",
+        "pronunciation": {
+          "faReading": "فَمِلیز",
+          "ipa": "/ˈfæməliz/"
+        },
+        "meaning": {
+          "fa": "خانواده‌ها",
+          "en": "families; groups of related people"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "last",
+        "text": "last",
+        "pronunciation": {
+          "faReading": "لَست",
+          "ipa": "/læst/"
+        },
+        "meaning": {
+          "fa": "گذشته؛ قبلی",
+          "en": "last; the previous one"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "year",
+        "text": "year",
+        "pronunciation": {
+          "faReading": "ییر",
+          "ipa": "/jɪr/"
+        },
+        "meaning": {
+          "fa": "سال",
+          "en": "year; twelve months"
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "thank",
+        "text": "thank",
+        "pronunciation": {
+          "faReading": "ثَنک",
+          "ipa": "/θæŋk/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thank; express gratitude to"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "all",
+        "text": "all",
+        "pronunciation": {
+          "faReading": "آل",
+          "ipa": "/ɔl/"
+        },
+        "meaning": {
+          "fa": "همه؛ اصلاً",
+          "en": "all; every part"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "eager",
+        "text": "eager",
+        "pronunciation": {
+          "faReading": "ایگِر",
+          "ipa": "/ˈiɡɚ/"
+        },
+        "meaning": {
+          "fa": "مشتاق",
+          "en": "eager; strongly interested in doing something"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "hear",
+        "text": "hear",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "شنیدن",
+          "en": "hear; perceive sound or receive news"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "presentation",
+        "text": "presentation",
+        "pronunciation": {
+          "faReading": "پْرِزِن‌تِیشن",
+          "ipa": "/ˌprɛzənˈteɪʃən/"
+        },
+        "meaning": {
+          "fa": "ارائه؛ سخنرانی",
+          "en": "presentation; a structured spoken account"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "full",
+        "text": "full",
+        "pronunciation": {
+          "faReading": "فول",
+          "ipa": "/fʊl/"
+        },
+        "meaning": {
+          "fa": "کامل",
+          "en": "full; complete"
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "appreciate",
+        "pronunciation": {
+          "faReading": "اِپریشی‌اِیت",
+          "ipa": "/əˈpriʃiˌeɪt/"
+        },
+        "meaning": {
+          "fa": "قدردانی کردن از",
+          "en": "appreciate; be grateful for"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "look",
+        "text": "look",
+        "pronunciation": {
+          "faReading": "لوک",
+          "ipa": "/lʊk/"
+        },
+        "meaning": {
+          "fa": "در look forward to یعنی مشتاق بودن",
+          "en": "look; part of look forward to"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "forward",
+        "text": "forward",
+        "pronunciation": {
+          "faReading": "فوروِرد",
+          "ipa": "/ˈfɔrwɚd/"
+        },
+        "meaning": {
+          "fa": "در look forward to یعنی مشتاق بودن",
+          "en": "forward; part of look forward to"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "questions",
+        "text": "questions",
+        "pronunciation": {
+          "faReading": "کْوِسچِنز",
+          "ipa": "/ˈkwɛstʃənz/"
+        },
+        "meaning": {
+          "fa": "پرسش‌ها",
+          "en": "questions; things people ask"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "after",
+        "text": "after",
+        "pronunciation": {
+          "faReading": "اَفتِر",
+          "ipa": "/ˈæftɚ/"
+        },
+        "meaning": {
+          "fa": "پس از",
+          "en": "after; later than"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "next",
+        "text": "next",
+        "pronunciation": {
+          "faReading": "نِکست",
+          "ipa": "/nɛkst/"
+        },
+        "meaning": {
+          "fa": "بعدی؛ آینده",
+          "en": "next; following this one"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "continue",
+        "text": "continue",
+        "pronunciation": {
+          "faReading": "کِن‌تینیو",
+          "ipa": "/kənˈtɪnju/"
+        },
+        "meaning": {
+          "fa": "ادامه دادن",
+          "en": "continue; carry on"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "session",
+        "text": "session",
+        "pronunciation": {
+          "faReading": "سِشِن",
+          "ipa": "/ˈsɛʃən/"
+        },
+        "meaning": {
+          "fa": "نشست؛ بخش برنامه",
+          "en": "session; a scheduled period within an event"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "again",
+        "text": "again",
+        "pronunciation": {
+          "faReading": "اِگِن",
+          "ipa": "/əˈɡɛn/"
+        },
+        "meaning": {
+          "fa": "دوباره؛ باز هم",
+          "en": "again; once more"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "برای؛ به‌خاطرِ",
+          "en": "for; purpose or reason"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "valuable",
+        "text": "valuable",
+        "pronunciation": {
+          "faReading": "وَلْیوئِبِل",
+          "ipa": "/ˈvæljuəbəl/"
+        },
+        "meaning": {
+          "fa": "ارزشمند",
+          "en": "valuable; useful or important"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "words",
+        "text": "words",
+        "pronunciation": {
+          "faReading": "وِردز",
+          "ipa": "/wɝdz/"
+        },
+        "meaning": {
+          "fa": "سخنان؛ واژه‌ها",
+          "en": "words; remarks or units of language"
+        },
+        "example": {
+          "text": "Our next speaker will continue the session, thank you again for your valuable words.",
+          "translation": {
+            "fa": "سخنران بعدی ما نشست را ادامه خواهد داد؛ باز هم بابت سخنان ارزشمندتان سپاسگزاریم.",
+            "en": "Our next speaker will continue the session, thank you again for your valuable words."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "honored",
+        "text": "honored",
+        "pronunciation": {
+          "faReading": "آنِرد",
+          "ipa": "/ˈɑnɚd/"
+        },
+        "meaning": {
+          "fa": "مفتخر",
+          "en": "honored; feeling privileged by recognition"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "hope",
+        "text": "hope",
+        "pronunciation": {
+          "faReading": "هُوپ",
+          "ipa": "/hoʊp/"
+        },
+        "meaning": {
+          "fa": "امید داشتن",
+          "en": "hope; want a possible outcome"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "inspires",
+        "text": "inspires",
+        "pronunciation": {
+          "faReading": "این‌سْپایِرز",
+          "ipa": "/ɪnˈspaɪɚz/"
+        },
+        "meaning": {
+          "fa": "الهام می‌دهد؛ برمی‌انگیزد",
+          "en": "inspires; motivates people toward an action"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "more",
+        "text": "more",
+        "pronunciation": {
+          "faReading": "مور",
+          "ipa": "/mɔr/"
+        },
+        "meaning": {
+          "fa": "بیشتر؛ دیگر",
+          "en": "more; a greater amount or an additional instance"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "cooperation",
+        "text": "cooperation",
+        "pronunciation": {
+          "faReading": "کُوآپِرِیشن",
+          "ipa": "/koʊˌɑpəˈreɪʃən/"
+        },
+        "meaning": {
+          "fa": "همکاری",
+          "en": "cooperation; coordinated action for a shared purpose"
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "it-base",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ ارجاع به کار سازمان در It certainly does",
+          "en": "it; refers to our work in the preceding claim, not anticipatory it"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "does",
+        "text": "does",
+        "pronunciation": {
+          "faReading": "داز",
+          "ipa": "/dʌz/"
+        },
+        "meaning": {
+          "fa": "جانشین inspires more cooperation؛ تأیید اثرگذاری کار",
+          "en": "does; substitutes for inspires more cooperation and affirms the preceding claim"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "please",
+        "text": "please",
+        "pronunciation": {
+          "faReading": "پْلیز",
+          "ipa": "/pliz/"
+        },
+        "meaning": {
+          "fa": "لطفاً",
+          "en": "please; softens a request"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "join",
+        "text": "join",
+        "pronunciation": {
+          "faReading": "جوین",
+          "ipa": "/dʒɔɪn/"
+        },
+        "meaning": {
+          "fa": "پیوستن؛ همراه شدن",
+          "en": "join; become part of a group"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "me",
+        "text": "me",
+        "pronunciation": {
+          "faReading": "می",
+          "ipa": "/mi/"
+        },
+        "meaning": {
+          "fa": "من را؛ به من",
+          "en": "me; the speaker"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "thanking",
+        "text": "thanking",
+        "pronunciation": {
+          "faReading": "ثَنکینگ",
+          "ipa": "/ˈθæŋkɪŋ/"
+        },
+        "meaning": {
+          "fa": "تشکر کردن از",
+          "en": "thanking; expressing gratitude to"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "once",
+        "text": "once",
+        "pronunciation": {
+          "faReading": "وانس",
+          "ipa": "/wʌns/"
+        },
+        "meaning": {
+          "fa": "یک بار؛ در once more یعنی بار دیگر",
+          "en": "once; one time"
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "attention",
+        "text": "attention",
+        "pronunciation": {
+          "faReading": "اِتِنشِن",
+          "ipa": "/əˈtɛnʃən/"
+        },
+        "meaning": {
+          "fa": "توجه",
+          "en": "attention; focused listening or consideration"
+        },
+        "example": {
+          "text": "Thank you all for your attention and your warm reception.",
+          "translation": {
+            "fa": "از همهٔ شما بابت توجه و استقبال صمیمانه‌تان سپاسگزارم.",
+            "en": "Thank you all for your attention and your warm reception."
+          }
+        }
+      },
+      {
+        "id": "warm",
+        "text": "warm",
+        "pronunciation": {
+          "faReading": "وورم",
+          "ipa": "/wɔrm/"
+        },
+        "meaning": {
+          "fa": "گرم؛ اینجا صمیمانه",
+          "en": "warm; cordial and welcoming here"
+        },
+        "example": {
+          "text": "Thank you all for your attention and your warm reception.",
+          "translation": {
+            "fa": "از همهٔ شما بابت توجه و استقبال صمیمانه‌تان سپاسگزارم.",
+            "en": "Thank you all for your attention and your warm reception."
+          }
+        }
+      },
+      {
+        "id": "reception",
+        "text": "reception",
+        "pronunciation": {
+          "faReading": "ری‌سِپشِن",
+          "ipa": "/rɪˈsɛpʃən/"
+        },
+        "meaning": {
+          "fa": "استقبال؛ اینجا خوشامدگویی",
+          "en": "reception; the welcome given to someone"
+        },
+        "example": {
+          "text": "Thank you all for your attention and your warm reception.",
+          "translation": {
+            "fa": "از همهٔ شما بابت توجه و استقبال صمیمانه‌تان سپاسگزارم.",
+            "en": "Thank you all for your attention and your warm reception."
+          }
+        }
+      },
+      {
+        "id": "floor",
+        "text": "floor",
+        "pronunciation": {
+          "faReading": "فْلور",
+          "ipa": "/flɔr/"
+        },
+        "meaning": {
+          "fa": "نوبت سخن‌گفتن",
+          "en": "floor; the right to speak"
+        },
+        "example": {
+          "text": "The floor is now yours for the full presentation, Doctor.",
+          "translation": {
+            "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+            "en": "The floor is now yours for the full presentation, Doctor."
+          }
+        }
+      },
+      {
+        "id": "now",
+        "text": "now",
+        "pronunciation": {
+          "faReading": "ناو",
+          "ipa": "/naʊ/"
+        },
+        "meaning": {
+          "fa": "اکنون؛ الان",
+          "en": "now; at the present time"
+        },
+        "example": {
+          "text": "The floor is now yours for the full presentation, Doctor.",
+          "translation": {
+            "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+            "en": "The floor is now yours for the full presentation, Doctor."
+          }
+        }
+      },
+      {
+        "id": "yours",
+        "text": "yours",
+        "pronunciation": {
+          "faReading": "یورز",
+          "ipa": "/jʊrz/"
+        },
+        "meaning": {
+          "fa": "از آنِ شما",
+          "en": "yours; belonging to or allocated to you"
+        },
+        "example": {
+          "text": "The floor is now yours for the full presentation, Doctor.",
+          "translation": {
+            "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+            "en": "The floor is now yours for the full presentation, Doctor."
+          }
+        }
+      },
+      {
+        "id": "to-recognition",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به؛ پس از belongs دریافت‌کنندهٔ اعتبار را معرفی می‌کند",
+          "en": "to; preposition introducing the recipients of credit after belongs"
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "to-anticipated",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "جزء look forward to؛ پیش از گروه اسمی پرسش‌ها",
+          "en": "to; preposition taking the noun phrase your questions in look forward to"
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "formal-stance",
+        "title": {
+          "fa": "موضع‌گیری رسمی بدون خودستایی",
+          "en": "Formal stance without self-promotion"
+        },
+        "explanation": {
+          "fa": "It is a privilege to address you با it صوری، موقعیت سخن‌گفتن را ارزیابی می‌کند؛ محتوای ارزیابی در to address you است. I am honored نیز احساس افتخار را برجسته می‌کند، نه برتری شخصی را. delighted، eager و honored در این بافت نقش توصیفی دارند؛ نباید بی‌دلیل برای آن‌ها عامل یا رویداد مجهول اختراع کرد.",
+          "en": "It is a privilege to address you uses anticipatory it to evaluate the speaking opportunity, with the content supplied by the infinitive. I am honored foregrounds gratitude rather than personal superiority. Delighted, eager and honored function descriptively here; an eventive passive or external agent should not automatically be inferred."
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        },
+        "takeaway": {
+          "fa": "این ساخت‌ها شأن موقعیت را بالا می‌برند، نه لزوماً ادعای برتری گوینده را.",
+          "en": "These patterns elevate the occasion rather than necessarily asserting the speaker’s superiority."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "موضع‌گیری رسمی بدون خودستایی",
+              "en": "Formal stance without self-promotion"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "it is a privilege to address you"
+                },
+                {
+                  "text": "anticipatory it + be + evaluation + infinitive"
+                },
+                {
+                  "fa": "افتخار سخن‌گفتن در این موقعیت",
+                  "en": "Evaluating the opportunity"
+                }
+              ],
+              [
+                {
+                  "text": "I am honored to be here"
+                },
+                {
+                  "text": "I + be + evaluative adjective + infinitive"
+                },
+                {
+                  "fa": "از حضور اینجا مفتخرم",
+                  "en": "Expressing appreciation"
+                }
+              ],
+              [
+                {
+                  "text": "we are delighted to have you"
+                },
+                {
+                  "text": "be + delighted + infinitive"
+                },
+                {
+                  "fa": "از حضور شما بسیار خرسندیم",
+                  "en": "An institutional welcome"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "embedded-how",
+        "title": {
+          "fa": "بند how در معرفی موضوع",
+          "en": "Embedded how in a topic statement"
+        },
+        "explanation": {
+          "fa": "how our organization supports ... متمم حرف اضافهٔ on و موضوع تمرکز سخنرانی است. how دربارهٔ چگونگی حمایت است؛ ترتیب درون بند خبری می‌ماند: organization supports. این ساخت را با سؤال مستقیم How does the organization support ...? یکی نکن.",
+          "en": "How our organization supports ... complements on and identifies the talk’s focus. How concerns manner, while the clause retains statement order, organization supports. Contrast it with the direct question How does the organization support ...?, which requires auxiliary inversion."
+        },
+        "example": {
+          "text": "My talk will focus on how our organization supports community health programs.",
+          "translation": {
+            "fa": "سخنرانی من بر چگونگی حمایت سازمانمان از برنامه‌های سلامت جامعه متمرکز خواهد بود.",
+            "en": "My talk will focus on how our organization supports community health programs."
+          }
+        },
+        "takeaway": {
+          "fa": "در بند درونی از supports استفاده می‌شود، نه does ... support.",
+          "en": "The embedded clause uses supports, not does ... support."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بند how در معرفی موضوع",
+              "en": "Embedded how in a topic statement"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "focus on how our organization supports community health programs"
+                },
+                {
+                  "text": "focus on + how + subject + verb + object"
+                },
+                {
+                  "fa": "تمرکز بر چگونگی حمایت سازمان",
+                  "en": "An embedded manner clause"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "timeline-and-aspect",
+        "title": {
+          "fa": "مرزبندی سابقه، دستاورد و برنامه",
+          "en": "Separating history, achievement and agenda"
+        },
+        "explanation": {
+          "fa": "began و reached رویدادهای پایان‌یافته را با ten years ago و last year جایابی می‌کنند. supports و serve نقش جاری سازمان را نشان می‌دهند. will focus و will continue برنامهٔ پیش رو را می‌سازند. برای بازسازی زمان‌بندی، این نشانه‌ها را از تعارف‌های مراسمی جدا بخوان.",
+          "en": "Began and reached locate completed events with ten years ago and last year. Supports and serve describe the organization’s current function. Will focus and will continue project the agenda forward. Distinguish these temporal signals from ceremonial politeness when reconstructing the timeline."
+        },
+        "example": {
+          "text": "We began our work ten years ago with a small clinic in a rural area.",
+          "translation": {
+            "fa": "ده سال پیش کارمان را با درمانگاهی کوچک در منطقه‌ای روستایی آغاز کردیم.",
+            "en": "We began our work ten years ago with a small clinic in a rural area."
+          }
+        },
+        "takeaway": {
+          "fa": "زمان فعل را با قید زمانی و کارکرد نوبت کنار هم تحلیل کن.",
+          "en": "Read verb tense together with time reference and the turn’s function."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "مرزبندی سابقه، دستاورد و برنامه",
+              "en": "Separating history, achievement and agenda"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "We began our work ten years ago"
+                },
+                {
+                  "text": "past simple + ago"
+                },
+                {
+                  "fa": "آغاز فعالیت در گذشته",
+                  "en": "A completed starting point"
+                }
+              ],
+              [
+                {
+                  "text": "reached ... last year"
+                },
+                {
+                  "text": "past simple + last year"
+                },
+                {
+                  "fa": "نتیجهٔ کارزار در سال گذشته",
+                  "en": "A bounded achievement"
+                }
+              ],
+              [
+                {
+                  "text": "My talk will focus on ..."
+                },
+                {
+                  "text": "will + base verb"
+                },
+                {
+                  "fa": "موضوع سخنرانی پیش رو",
+                  "en": "An agenda statement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "relative-clause",
+        "title": {
+          "fa": "بند موصولی با حذف نشانهٔ مفعولی",
+          "en": "An object relative with an omitted marker"
+        },
+        "explanation": {
+          "fa": "در the communities we serve، پس از communities نشانهٔ that یا which حذف شده است. we فاعل serve است و communities چیزی است که خدمت دریافت می‌کند. حذف در این جایگاه مفعولی ممکن است؛ جمله به معنی «جوامعی که ما به آن‌ها خدمت می‌کنیم» است، نه «جوامعی که به ما خدمت می‌کنند».",
+          "en": "In the communities we serve, the object relative marker that or which is omitted. We is the subject of serve and communities is its object. Omission is possible in this object position. The clause means the communities receiving services from us, not communities serving us."
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        },
+        "takeaway": {
+          "fa": "جای فاعل و مفعول در بند موصولی را حتی بدون that دنبال کن.",
+          "en": "Track subject and object even when that is omitted."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "بند موصولی با حذف نشانهٔ مفعولی",
+              "en": "An object relative with an omitted marker"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "the communities we serve"
+                },
+                {
+                  "text": "communities + [that/which] + we + serve"
+                },
+                {
+                  "fa": "جوامعی که به آن‌ها خدمت می‌کنیم",
+                  "en": "An object relative"
+                }
+              ],
+              [
+                {
+                  "text": "the trust of the communities we serve"
+                },
+                {
+                  "text": "trust + of + noun + relative clause"
+                },
+                {
+                  "fa": "اعتماد آن جوامع",
+                  "en": "A relative clause nested inside a noun group"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "credit-and-agreement",
+        "title": {
+          "fa": "هستهٔ مفرد و توزیع اعتبار",
+          "en": "A singular head and distributed credit"
+        },
+        "explanation": {
+          "fa": "در The credit belongs to ...، credit هستهٔ مفرد است و belongs با آن هماهنگ می‌شود. to دو منشأ اعتبار را وصل می‌کند: تیم و اعتماد جوامع. the trust of the communities نیز رابطهٔ اعتماد با جوامع را مشخص می‌کند؛ credit اینجا وام یا موجودی مالی نیست.",
+          "en": "In The credit belongs to ..., singular credit controls belongs. The to-complement coordinates two sources of recognition: the team and the communities’ trust. The trust of the communities specifies whose trust matters; credit here means recognition, not a financial balance."
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        },
+        "takeaway": {
+          "fa": "فهرست پس از to، فاعلِ belongs را جمع نمی‌کند.",
+          "en": "The coordinated phrase after to does not make the subject of belongs plural."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "هستهٔ مفرد و توزیع اعتبار",
+              "en": "A singular head and distributed credit"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "The credit belongs to our dedicated team and the trust ..."
+                },
+                {
+                  "text": "singular head + belongs to + coordinated complements"
+                },
+                {
+                  "fa": "اعتبار به تیم و اعتماد جامعه تعلق دارد",
+                  "en": "Agreement follows credit"
+                }
+              ],
+              [
+                {
+                  "text": "the trust of the communities"
+                },
+                {
+                  "text": "trust + of + communities"
+                },
+                {
+                  "fa": "اعتماد جوامع",
+                  "en": "An of-relationship"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "polite-request-and-superlative",
+        "title": {
+          "fa": "درخواست محدود و انتخاب از مجموعهٔ برترین‌ها",
+          "en": "A bounded request and a superlative set"
+        },
+        "explanation": {
+          "fa": "Could you briefly describe ...? با could فاصلهٔ مؤدبانه می‌سازد و briefly دامنهٔ پاسخ را محدود می‌کند. one of your most successful projects یک عضو از مجموعهٔ پروژه‌های برتر را انتخاب می‌کند؛ projects باید جمع باشد، هرچند موضوع پاسخ فقط یک پروژه است.",
+          "en": "Could you briefly describe ...? combines modal distancing with briefly to limit the expected response. One of your most successful projects selects a single member of a superlative set; projects remains plural even though only one project is requested."
+        },
+        "example": {
+          "text": "Could you briefly describe one of your most successful projects?",
+          "translation": {
+            "fa": "ممکن است به‌اختصار یکی از موفق‌ترین پروژه‌هایتان را شرح دهید؟",
+            "en": "Could you briefly describe one of your most successful projects?"
+          }
+        },
+        "takeaway": {
+          "fa": "one of + گروه جمع؛ ولی پاسخ دربارهٔ یک عضو است.",
+          "en": "One of takes a plural set but selects a single member."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "درخواست محدود و انتخاب از مجموعهٔ برترین‌ها",
+              "en": "A bounded request and a superlative set"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Could you briefly describe ...?"
+                },
+                {
+                  "text": "could + subject + briefly + base verb"
+                },
+                {
+                  "fa": "درخواست مؤدبانهٔ شرح کوتاه",
+                  "en": "Politeness plus scope control"
+                }
+              ],
+              [
+                {
+                  "text": "one of your most successful projects"
+                },
+                {
+                  "text": "one of + possessive + superlative + plural noun"
+                },
+                {
+                  "fa": "یکی از موفق‌ترین پروژه‌هایتان",
+                  "en": "Selecting from a set"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "measured-impact",
+        "title": {
+          "fa": "گزارش عددی اثرگذاری و گروه اسمی فشرده",
+          "en": "Quantified impact and compressed noun groups"
+        },
+        "explanation": {
+          "fa": "mobile vaccination campaign یک گروه اسمی فشرده است: campaign هسته، vaccination نوع و mobile شیوهٔ اجرای سیار را مشخص می‌کند. over fifty thousand families یک حد پایین را بیان می‌کند؛ عدد دقیق را نمی‌دهد. پس از fifty، thousand بدون s و families جمع می‌آید.",
+          "en": "Mobile vaccination campaign compresses several specifications into a noun group: campaign is the head, vaccination gives its type and mobile specifies delivery. Over fifty thousand families sets a lower bound, not an exact figure. Thousand remains uninflected after fifty, while families is plural."
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        },
+        "takeaway": {
+          "fa": "over را حذف نکن؛ «بیش از» با «دقیقاً» یکسان نیست.",
+          "en": "Preserve over: more than is not exactly."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گزارش عددی اثرگذاری و گروه اسمی فشرده",
+              "en": "Quantified impact and compressed noun groups"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "our mobile vaccination campaign"
+                },
+                {
+                  "text": "possessive + modifiers + head noun"
+                },
+                {
+                  "fa": "کارزار سیار واکسیناسیون ما",
+                  "en": "Compressed specification"
+                }
+              ],
+              [
+                {
+                  "text": "over fifty thousand families"
+                },
+                {
+                  "text": "over + number + thousand + plural noun"
+                },
+                {
+                  "fa": "بیش از پنجاه هزار خانواده",
+                  "en": "A lower-bound claim"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "infinitive-and-ing",
+        "title": {
+          "fa": "متمم مصدر و متمم ing پس از حرف اضافه",
+          "en": "Infinitival and prepositional ing complements"
+        },
+        "explanation": {
+          "fa": "پس از eager از to hear برای بیان کنش مورد اشتیاق استفاده شده است. اما در join me in thanking، in حرف اضافه است و پس از آن thanking می‌آید، نه to thank. در look forward to your questions نیز to حرف اضافه و your questions یک گروه اسمی است.",
+          "en": "Eager takes the infinitival complement to hear. In join me in thanking, however, in is a preposition and is followed by thanking, not to thank. In look forward to your questions, to is also prepositional and takes the noun group your questions."
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        },
+        "takeaway": {
+          "fa": "هر to نشانهٔ مصدر نیست؛ واژهٔ قبل و متمم بعدی را بررسی کن.",
+          "en": "Not every to marks an infinitive: inspect its governing expression and complement."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "متمم مصدر و متمم ing پس از حرف اضافه",
+              "en": "Infinitival and prepositional ing complements"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "eager to hear your presentation"
+                },
+                {
+                  "text": "adjective + to-infinitive"
+                },
+                {
+                  "fa": "مشتاق شنیدن ارائه",
+                  "en": "An infinitival complement"
+                }
+              ],
+              [
+                {
+                  "text": "join me in thanking Dr. Kamrani"
+                },
+                {
+                  "text": "join + person + in + ing"
+                },
+                {
+                  "fa": "همراهی در تشکر از دکتر",
+                  "en": "A prepositional ing complement"
+                }
+              ],
+              [
+                {
+                  "text": "look forward to your questions"
+                },
+                {
+                  "text": "look forward to + noun group"
+                },
+                {
+                  "fa": "مشتاق پرسش‌ها بودن",
+                  "en": "A prepositional noun complement"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "substitution-and-turn",
+        "title": {
+          "fa": "جانشینی فعلی و واگذاری نوبت",
+          "en": "Verbal substitution and turn allocation"
+        },
+        "explanation": {
+          "fa": "It certainly does فعل inspires را از گفتهٔ قبلی بازیابی می‌کند؛ certainly درجهٔ تأیید را بالا می‌برد. The floor is now yours نوبت سخن‌گفتن را با yours به مخاطب واگذار می‌کند؛ floor اینجا کف اتاق نیست. now تغییر نقش گوینده در جریان مراسم را برجسته می‌کند.",
+          "en": "It certainly does substitutes for inspires more cooperation from the previous turn, with certainly strengthening agreement. The floor is now yours allocates the speaking turn through yours; floor is not the physical surface. Now highlights a transition in the ceremony’s participation roles."
+        },
+        "example": {
+          "text": "The floor is now yours for the full presentation, Doctor.",
+          "translation": {
+            "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+            "en": "The floor is now yours for the full presentation, Doctor."
+          }
+        },
+        "takeaway": {
+          "fa": "پاسخ کوتاه و اصطلاح نوبت‌دهی را با بافت نوبت قبل تفسیر کن.",
+          "en": "Interpret the short response and floor-allocation formula through the preceding discourse."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "جانشینی فعلی و واگذاری نوبت",
+              "en": "Verbal substitution and turn allocation"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "It certainly does"
+                },
+                {
+                  "text": "it + emphatic adverb + substitute does"
+                },
+                {
+                  "fa": "قطعاً همکاری بیشتری برمی‌انگیزد",
+                  "en": "Verbal substitution"
+                }
+              ],
+              [
+                {
+                  "text": "The floor is now yours"
+                },
+                {
+                  "text": "floor + be + now + possessive pronoun"
+                },
+                {
+                  "fa": "اکنون نوبت سخن‌گفتن شماست",
+                  "en": "Turn allocation"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ceremonial-phrases",
+        "title": {
+          "fa": "نقش ساخت‌های پیوندی در سخن رسمی",
+          "en": "Linking structures in formal speech"
+        },
+        "explanation": {
+          "fa": "From a small clinic to a national program یک مسیر رشد را در گروهی بدون فعل برجسته می‌کند؛ جملهٔ بعد آن را ارزیابی می‌کند. many here به حاضران اشاره دارد، نه همهٔ مخاطبان ممکن. as our keynote speaker نقش را مشخص می‌کند؛ after the talk زمان پرسش‌ها و in full کامل‌بودن ارائه را.",
+          "en": "From a small clinic to a national program foregrounds development in a verbless phrase, followed by an evaluative clause. Many here refers to numerous attendees, not all possible listeners. As our keynote speaker marks a role; after the talk schedules questions and in full specifies completeness."
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        },
+        "takeaway": {
+          "fa": "حرف‌های اضافه و ارجاع‌های کوچک، نقش، دامنه و زمان را تنظیم می‌کنند.",
+          "en": "Small prepositions and references organize role, scope and timing."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "نقش ساخت‌های پیوندی در سخن رسمی",
+              "en": "Linking structures in formal speech"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "From a small clinic to a national program"
+                },
+                {
+                  "text": "from + starting point + to + outcome"
+                },
+                {
+                  "fa": "مسیر رشد از درمانگاه تا برنامهٔ ملی",
+                  "en": "A compressed developmental contrast"
+                }
+              ],
+              [
+                {
+                  "text": "as our keynote speaker"
+                },
+                {
+                  "text": "as + role"
+                },
+                {
+                  "fa": "به‌عنوان سخنران اصلی",
+                  "en": "Role assignment"
+                }
+              ],
+              [
+                {
+                  "text": "after the talk / in full"
+                },
+                {
+                  "text": "after + event / in + full"
+                },
+                {
+                  "fa": "پس از سخنرانی / به‌طور کامل",
+                  "en": "Timing and completeness"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "distinguished-guests",
+        "text": "distinguished guests",
+        "pronunciation": {
+          "faReading": "دیس‌تینگْویشت گِستس",
+          "ipa": "/dɪˈstɪŋɡwɪʃt ɡɛsts/"
+        },
+        "meaning": {
+          "fa": "مهمانان ارجمند",
+          "en": "Distinguished guests"
+        },
+        "context": {
+          "fa": "خطاب تشریفاتی به جمع؛ منزلت مخاطبان را به رسمیت می‌شناسد و ثبت گفتار را رسمی می‌کند.",
+          "en": "A ceremonial address acknowledging the audience’s standing and establishing a formal register."
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "privilege",
+        "text": "it is a privilege to address you today",
+        "pronunciation": {
+          "faReading": "ایت ایز اِ پْریوِلِج تو اِدْرِس یو تودِی",
+          "ipa": "/ɪt ɪz ə ˈprɪvəlɪdʒ tə əˈdrɛs ju təˈdeɪ/"
+        },
+        "meaning": {
+          "fa": "افتخار دارم امروز با شما سخن بگویم",
+          "en": "It is a privilege to address you today"
+        },
+        "context": {
+          "fa": "خوشامد متواضعانهٔ سخنران؛ privilege ارزش فرصت را برجسته می‌کند و address اینجا سخن‌گفتن است، نه نشانی.",
+          "en": "A deferential opening valuing the opportunity; address means speak to an audience, not a location."
+        },
+        "example": {
+          "text": "Good morning, distinguished guests, it is a privilege to address you today.",
+          "translation": {
+            "fa": "صبح به‌خیر، مهمانان ارجمند؛ افتخار دارم امروز با شما سخن بگویم.",
+            "en": "Good morning, distinguished guests, it is a privilege to address you today."
+          }
+        }
+      },
+      {
+        "id": "delighted",
+        "text": "we are delighted to have you as our keynote speaker",
+        "pronunciation": {
+          "faReading": "وی آر دی‌لایْتِد تو هَو یو اَز آوِر کی‌نُوت سْپیکِر",
+          "ipa": "/wi ɑr dɪˈlaɪtɪd tə hæv ju æz aʊr ˈkiˌnoʊt ˈspikɚ/"
+        },
+        "meaning": {
+          "fa": "از حضور شما به‌عنوان سخنران اصلی بسیار خرسندیم",
+          "en": "We are delighted to have you as our keynote speaker"
+        },
+        "context": {
+          "fa": "خوشامد از طرف برگزارکننده؛ we موضع جمعی نهاد و keynote speaker جایگاه محوری مدعو را بیان می‌کند.",
+          "en": "An institutional welcome: we presents the organizer’s collective voice and keynote speaker names the guest’s central role."
+        },
+        "example": {
+          "text": "Good morning, Doctor, we are delighted to have you as our keynote speaker.",
+          "translation": {
+            "fa": "صبح به‌خیر دکتر؛ بسیار خرسندیم که شما سخنران اصلی ما هستید.",
+            "en": "Good morning, Doctor, we are delighted to have you as our keynote speaker."
+          }
+        }
+      },
+      {
+        "id": "remarkable",
+        "text": "that is a remarkable achievement",
+        "pronunciation": {
+          "faReading": "ذَت ایز اِ ری‌مارکِبِل اِچیومِنت",
+          "ipa": "/ðæt ɪz ə rɪˈmɑrkəbəl əˈtʃivmənt/"
+        },
+        "meaning": {
+          "fa": "این دستاوردی چشمگیر است",
+          "en": "That is a remarkable achievement"
+        },
+        "context": {
+          "fa": "تحسین رشد از درمانگاه به برنامهٔ ملی؛ that به همان مسیر رشد ارجاع دارد.",
+          "en": "Praises the development from clinic to national program; that refers to that trajectory."
+        },
+        "example": {
+          "text": "From a small clinic to a national program, that is a remarkable achievement.",
+          "translation": {
+            "fa": "از یک درمانگاه کوچک تا برنامه‌ای ملی؛ این دستاوردی چشمگیر است.",
+            "en": "From a small clinic to a national program, that is a remarkable achievement."
+          }
+        }
+      },
+      {
+        "id": "credit-belongs",
+        "text": "The credit belongs to",
+        "pronunciation": {
+          "faReading": "ذِ کْرِدیت بی‌لانگْز تو",
+          "ipa": "/ðə ˈkrɛdɪt bɪˈlɔŋz tu/"
+        },
+        "meaning": {
+          "fa": "شایستگیِ قدردانی از آنِ ... است",
+          "en": "The credit belongs to"
+        },
+        "context": {
+          "fa": "اعتبار را به تیم و اعتماد جامعه واگذار می‌کند؛ شکل زبانیِ تقسیم اعتبار، نه صرفاً اعلام فروتنی.",
+          "en": "Redistributes recognition to the team and community trust, linguistically enacting shared credit rather than merely claiming modesty."
+        },
+        "example": {
+          "text": "The credit belongs to our dedicated team and the trust of the communities we serve.",
+          "translation": {
+            "fa": "افتخار این کار متعلق به تیم متعهد ما و اعتماد جوامعی است که به آن‌ها خدمت می‌کنیم.",
+            "en": "The credit belongs to our dedicated team and the trust of the communities we serve."
+          }
+        }
+      },
+      {
+        "id": "certainly",
+        "text": "Certainly",
+        "pronunciation": {
+          "faReading": "سِرتِنلی",
+          "ipa": "/ˈsɝtənli/"
+        },
+        "meaning": {
+          "fa": "البته؛ حتماً",
+          "en": "Certainly"
+        },
+        "context": {
+          "fa": "پذیرش رسمی و بی‌درنگ درخواست شرح پروژه؛ به معنی ارائهٔ تضمین برای داده‌های بعدی نیست.",
+          "en": "A prompt formal acceptance of the request to describe a project, not an evidential guarantee for subsequent statistics."
+        },
+        "example": {
+          "text": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year.",
+          "translation": {
+            "fa": "البته؛ کارزار سیار واکسیناسیون ما سال گذشته بیش از پنجاه هزار خانواده را پوشش داد.",
+            "en": "Certainly, our mobile vaccination campaign reached over fifty thousand families last year."
+          }
+        }
+      },
+      {
+        "id": "eager-full",
+        "text": "we are all eager to hear your presentation in full",
+        "pronunciation": {
+          "faReading": "وی آر آل ایگِر تو هیر یور پْرِزِن‌تِیشن این فول",
+          "ipa": "/wi ɑr ɔl ˈiɡɚ tə hɪr jʊr ˌprɛzənˈteɪʃən ɪn fʊl/"
+        },
+        "meaning": {
+          "fa": "همه مشتاق شنیدن ارائهٔ کامل شما هستیم",
+          "en": "We are all eager to hear your presentation in full"
+        },
+        "context": {
+          "fa": "رئیس از طرف جمع، توجه را از گفت‌وگوی مقدماتی به ارائهٔ کامل منتقل می‌کند؛ all یک تعمیم مراسمی است.",
+          "en": "The chair speaks for the audience and shifts attention from introductory exchange to the full presentation; all is a ceremonial generalization."
+        },
+        "example": {
+          "text": "Thank you, Doctor, we are all eager to hear your presentation in full.",
+          "translation": {
+            "fa": "سپاسگزارم دکتر؛ همه مشتاقیم ارائهٔ کامل شما را بشنویم.",
+            "en": "Thank you, Doctor, we are all eager to hear your presentation in full."
+          }
+        }
+      },
+      {
+        "id": "appreciate",
+        "text": "I appreciate that",
+        "pronunciation": {
+          "faReading": "آی اِپریشی‌اِیت ذَت",
+          "ipa": "/aɪ əˈpriʃiˌeɪt ðæt/"
+        },
+        "meaning": {
+          "fa": "از این لطف سپاسگزارم",
+          "en": "I appreciate that"
+        },
+        "context": {
+          "fa": "that به اظهار اشتیاق رئیس اشاره دارد؛ پاسخی کوتاه و رسمی برای پذیرفتن تحسین است.",
+          "en": "That refers to the chair’s expression of interest; the formula briefly and formally acknowledges praise."
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "look-forward",
+        "text": "I look forward to your questions after the talk",
+        "pronunciation": {
+          "faReading": "آی لوک فوروِرد تو یور کْوِسچِنز اَفتِر ذِ تاک",
+          "ipa": "/aɪ lʊk ˈfɔrwɚd tə jʊr ˈkwɛstʃənz ˈæftɚ ðə tɔk/"
+        },
+        "meaning": {
+          "fa": "مشتاق پرسش‌هایتان پس از سخنرانی هستم",
+          "en": "I look forward to your questions after the talk"
+        },
+        "context": {
+          "fa": "ضمن استقبال از مشارکت، زمان آن را به پس از سخنرانی موکول می‌کند؛ استقبال و مدیریت نوبت هم‌زمان‌اند.",
+          "en": "Welcomes participation while scheduling it after the talk, combining openness with turn management."
+        },
+        "example": {
+          "text": "I appreciate that, and I look forward to your questions after the talk.",
+          "translation": {
+            "fa": "از این لطف ممنونم و مشتاق پرسش‌هایتان پس از سخنرانی هستم.",
+            "en": "I appreciate that, and I look forward to your questions after the talk."
+          }
+        }
+      },
+      {
+        "id": "honored",
+        "text": "I am honored to be here",
+        "pronunciation": {
+          "faReading": "آی اَم آنِرد تو بی هیر",
+          "ipa": "/aɪ æm ˈɑnɚd tə bi hɪr/"
+        },
+        "meaning": {
+          "fa": "از حضور اینجا مفتخرم",
+          "en": "I am honored to be here"
+        },
+        "context": {
+          "fa": "فرمول قدردانی از دعوت در ثبت رسمی؛ لزوماً ادعای دریافت نشان یا جایزه نیست.",
+          "en": "A formal expression of appreciation for the invitation, not necessarily a claim of receiving an award."
+        },
+        "example": {
+          "text": "I am honored to be here, and I hope our work inspires more cooperation.",
+          "translation": {
+            "fa": "از حضور در اینجا مفتخرم و امیدوارم کار ما الهام‌بخش همکاری بیشتر باشد.",
+            "en": "I am honored to be here, and I hope our work inspires more cooperation."
+          }
+        }
+      },
+      {
+        "id": "join-thanking",
+        "text": "please join me in thanking",
+        "pronunciation": {
+          "faReading": "پْلیز جوین می این ثَنکینگ",
+          "ipa": "/pliz dʒɔɪn mi ɪn ˈθæŋkɪŋ/"
+        },
+        "meaning": {
+          "fa": "لطفاً در تشکر از ... با من همراه شوید",
+          "en": "Please join me in thanking"
+        },
+        "context": {
+          "fa": "رئیس مخاطبان را به قدردانی جمعی دعوت می‌کند؛ تفسیر طبیعی ممکن است تشویق باشد، اما متن انجام تشویق را گزارش نمی‌کند.",
+          "en": "Invites collective appreciation; applause is a plausible response, but the transcript does not report it actually occurring."
+        },
+        "example": {
+          "text": "It certainly does, please join me in thanking Dr. Kamrani once more.",
+          "translation": {
+            "fa": "قطعاً همین‌طور است؛ لطفاً در تشکر دوباره از دکتر کامرانی با من همراه شوید.",
+            "en": "It certainly does, please join me in thanking Dr. Kamrani once more."
+          }
+        }
+      },
+      {
+        "id": "warm-reception",
+        "text": "your attention and your warm reception",
+        "pronunciation": {
+          "faReading": "یور اِتِنشِن اَند یور وورم ری‌سِپشِن",
+          "ipa": "/jʊr əˈtɛnʃən ænd jʊr wɔrm rɪˈsɛpʃən/"
+        },
+        "meaning": {
+          "fa": "توجه و استقبال صمیمانهٔ شما",
+          "en": "Your attention and warm welcome"
+        },
+        "context": {
+          "fa": "reception اینجا استقبال مخاطبان است، نه میز پذیرش؛ تکرار your دو موضوع تشکر را هم‌وزن می‌کند.",
+          "en": "Reception means the audience’s welcome, not a front desk; repeated your balances the two objects of gratitude."
+        },
+        "example": {
+          "text": "Thank you all for your attention and your warm reception.",
+          "translation": {
+            "fa": "از همهٔ شما بابت توجه و استقبال صمیمانه‌تان سپاسگزارم.",
+            "en": "Thank you all for your attention and your warm reception."
+          }
+        }
+      },
+      {
+        "id": "floor-yours",
+        "text": "The floor is now yours",
+        "pronunciation": {
+          "faReading": "ذِ فْلور ایز ناو یورز",
+          "ipa": "/ðə flɔr ɪz naʊ jʊrz/"
+        },
+        "meaning": {
+          "fa": "اکنون نوبت سخن‌گفتن شماست",
+          "en": "The floor is now yours"
+        },
+        "context": {
+          "fa": "اصطلاح رسمی واگذاری نوبت، نه مالکیت کف سالن. جملهٔ پایانیِ همین نوبت مبنای برداشت است؛ روایت دیگری برای حل ترتیب نامنظم سخنان رئیس ساخته نمی‌شود.",
+          "en": "A formal transfer of the speaking turn, not floor ownership. Interpret this closing turn directly without inventing a narrative to repair the chair’s irregular sequencing."
+        },
+        "example": {
+          "text": "The floor is now yours for the full presentation, Doctor.",
+          "translation": {
+            "fa": "دکتر، اکنون نوبت شماست که ارائهٔ کاملتان را انجام دهید.",
+            "en": "The floor is now yours for the full presentation, Doctor."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "بهترین توصیف کارکرد کلی این تبادل چیست؟",
+          "en": "Which description best captures the overall function of this exchange?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "گزارش نهایی برای تصمیم دربارهٔ بودجه",
+              "en": "A final report to decide on funding"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "معرفی رسمی سخنران و زمینه‌سازی برای ارائه",
+              "en": "A formal introduction that frames the speaker’s presentation"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مصاحبهٔ استخدامی دربارهٔ سابقهٔ درمانی",
+              "en": "A recruitment interview about clinical experience"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "رئیس جایگاه keynote speaker را معرفی می‌کند و در پایان نوبت ارائه را واگذار می‌کند؛ این تبادل خودِ ارائهٔ کامل نیست.",
+          "en": "The chair identifies the keynote speaker and eventually yields the floor, framing rather than constituting the full presentation."
+        },
+        "evidenceTurnIds": [
+          "t02",
+          "t16"
+        ]
+      },
+      {
+        "id": "purpose",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "حوزهٔ فعالیت سازمان چگونه معرفی می‌شود؟",
+          "en": "How is the organization’s purpose presented?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حمایت از برنامه‌های سلامت جامعه",
+              "en": "Supporting community health programs"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "سرمایه‌گذاری در تجهیزات صنعتی",
+              "en": "Investing in industrial equipment"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ارزیابی برنامه‌های آموزش دانشگاهی",
+              "en": "Evaluating university teaching programs"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "دکتر کامرانی می‌گوید موضوع سخنرانی چگونگی حمایت سازمان از community health programs است.",
+          "en": "Dr. Kamrani states that the talk will focus on how the organization supports community health programs."
+        },
+        "evidenceTurnIds": [
+          "t03"
+        ]
+      },
+      {
+        "id": "start-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آغاز فعالیت سازمان به چه زمانی برمی‌گردد؟",
+          "en": "When did the organization’s work begin?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "پنج سال پیش",
+              "en": "Five years ago"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "پانزده سال پیش",
+              "en": "Fifteen years ago"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "ده سال پیش",
+              "en": "Ten years ago"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "We began our work ten years ago نقطهٔ آغاز را مشخص می‌کند.",
+          "en": "We began our work ten years ago explicitly locates the starting point."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "starting-point",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "فعالیت از چه بستری آغاز شده است؟",
+          "en": "What was the initial setting for the work?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "درمانگاهی کوچک در منطقهٔ روستایی",
+              "en": "A small clinic in a rural area"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بیمارستانی بزرگ در مرکز شهر",
+              "en": "A large hospital in the city center"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "مرکزی پژوهشی در یک دانشگاه",
+              "en": "A research center at a university"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "دکتر از a small clinic in a rural area نام می‌برد، نه بیمارستان شهری یا دانشگاه.",
+          "en": "Dr. Kamrani names a small clinic in a rural area, not a city hospital or university."
+        },
+        "evidenceTurnIds": [
+          "t05"
+        ]
+      },
+      {
+        "id": "reach",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دربارهٔ گسترهٔ کارزار سیار واکسیناسیون چه ادعایی می‌شود؟",
+          "en": "What claim is made about the reach of the mobile vaccination campaign?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "دقیقاً پنجاه هزار خانواده",
+              "en": "Exactly fifty thousand families"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بیش از پنجاه هزار خانواده",
+              "en": "Over fifty thousand families"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "کمتر از پنجاه هزار خانواده",
+              "en": "Under fifty thousand families"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "reached over fifty thousand families یک حد پایین می‌دهد؛ over اجازه نمی‌دهد عدد را دقیقاً پنجاه هزار بدانیم.",
+          "en": "Reached over fifty thousand families sets a lower bound; over rules out interpreting the figure as exactly fifty thousand."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "campaign-time",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "این نتیجهٔ کارزار مربوط به چه زمانی است؟",
+          "en": "When was that campaign result achieved?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "ماه گذشته",
+              "en": "Last month"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو سال پیش",
+              "en": "Two years ago"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سال گذشته",
+              "en": "Last year"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "last year در همان جمله، زمان نتیجهٔ گزارش‌شده را تعیین می‌کند.",
+          "en": "Last year in the same sentence dates the reported result."
+        },
+        "evidenceTurnIds": [
+          "t09"
+        ]
+      },
+      {
+        "id": "credit",
+        "stage": "review",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "گوینده چگونه اعتبار دستاورد را توزیع می‌کند؟",
+          "en": "How does the speaker distribute credit for the achievement?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "به تعهد تیم و اعتماد جوامع نسبت می‌دهد.",
+              "en": "By attributing it to the team’s commitment and the communities’ trust."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "به مدیریت شخصی خودش و منابع مالی نسبت می‌دهد.",
+              "en": "By attributing it to personal leadership and financial resources."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "به حمایت رئیس نشست و مهمانان نسبت می‌دهد.",
+              "en": "By attributing it to the chair’s and guests’ support."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "credit belongs to ... دو منشأ را نام می‌برد: تیم متعهد و اعتماد جوامع؛ گوینده موفقیت را صرفاً شخصی نمی‌کند.",
+          "en": "Credit belongs to ... names the dedicated team and community trust, avoiding an exclusively personal claim to success."
+        },
+        "evidenceTurnIds": [
+          "t07"
+        ]
+      }
+    ]
+  }
+}

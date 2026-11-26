@@ -1,0 +1,3234 @@
+{
+  "draftSchemaVersion": 1,
+  "contentType": "reetalk",
+  "dialogueId": "en-t01-s07",
+  "categoryId": "introductions",
+  "targetLanguage": "en",
+  "locale": "en-US",
+  "level": "A2",
+  "title": {
+    "fa": "غریبه‌ها در مهمانی نگار",
+    "en": "Meeting at a party"
+  },
+  "objective": {
+    "fa": "ارتباط آرمان با میزبان، مدت همکاری و روش ادامهٔ ارتباط دو نفر را تشخیص بده.",
+    "en": "Identify Arman’s connection to the host, the length of their work together, and how the speakers will keep in contact."
+  },
+  "speakers": [
+    {
+      "id": "nigar",
+      "name": "Nigar",
+      "gender": "woman"
+    },
+    {
+      "id": "arman",
+      "name": "Arman",
+      "gender": "man"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t01",
+      "speakerId": "nigar",
+      "text": "Hello, I do not think we have met before.",
+      "translation": {
+        "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+        "en": "Hello, I do not think we have met before."
+      },
+      "tokens": [
+        {
+          "surface": "Hello,",
+          "gloss": {
+            "fa": "سلام،",
+            "en": "hello; a greeting"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "برای منفی کردن",
+            "en": "do; act, or help form a question"
+          }
+        },
+        {
+          "surface": "not",
+          "gloss": {
+            "fa": "نه",
+            "en": "not; makes a statement negative"
+          }
+        },
+        {
+          "surface": "think",
+          "gloss": {
+            "fa": "فکر می‌کنم",
+            "en": "think; believe or consider"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "به بخش بعدی فعل کمک می‌کند",
+            "en": "have; links the past to now"
+          }
+        },
+        {
+          "surface": "met",
+          "gloss": {
+            "fa": "آشنا شده‌ایم",
+            "en": "met; past form of meet"
+          }
+        },
+        {
+          "surface": "before.",
+          "gloss": {
+            "fa": "قبلاً.",
+            "en": "before; earlier than"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "speakerId": "arman",
+      "text": "That is right, I am Arman, a friend of the host.",
+      "translation": {
+        "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+        "en": "That is right, I am Arman, a friend of the host."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "right,",
+          "gloss": {
+            "fa": "درست،",
+            "en": "right; exact or correct"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Arman,",
+          "gloss": {
+            "fa": "آرمان،",
+            "en": "Arman; a name"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "friend",
+          "gloss": {
+            "fa": "دوست",
+            "en": "friend; someone you like and know"
+          }
+        },
+        {
+          "surface": "of",
+          "gloss": {
+            "fa": "از",
+            "en": "of; connects related words"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "host.",
+          "gloss": {
+            "fa": "میزبان.",
+            "en": "host; the person giving a party"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "speakerId": "nigar",
+      "text": "I am Nigar, it is a lovely party, how do you know the host?",
+      "translation": {
+        "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+        "en": "I am Nigar, it is a lovely party, how do you know the host?"
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "am",
+          "gloss": {
+            "fa": "هستم",
+            "en": "am; be with I"
+          }
+        },
+        {
+          "surface": "Nigar,",
+          "gloss": {
+            "fa": "نگار،",
+            "en": "Nigar; a name"
+          }
+        },
+        {
+          "surface": "it",
+          "gloss": {
+            "fa": "این",
+            "en": "it; the thing mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "lovely",
+          "gloss": {
+            "fa": "دلپذیر",
+            "en": "lovely; very pleasant"
+          }
+        },
+        {
+          "surface": "party,",
+          "gloss": {
+            "fa": "مهمانی،",
+            "en": "party; a social gathering"
+          }
+        },
+        {
+          "surface": "how",
+          "gloss": {
+            "fa": "چطور",
+            "en": "how; asking about manner or condition"
+          }
+        },
+        {
+          "surface": "do",
+          "gloss": {
+            "fa": "کمک به پرسیدن",
+            "en": "do; helps ask a question"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "know",
+          "gloss": {
+            "fa": "می‌شناسی",
+            "en": "know; be familiar with"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "host?",
+          "gloss": {
+            "fa": "میزبان؟",
+            "en": "host; the person giving a party"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "speakerId": "arman",
+      "text": "We have worked together on a project for two years.",
+      "translation": {
+        "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+        "en": "We have worked together on a project for two years."
+      },
+      "tokens": [
+        {
+          "surface": "We",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "به بخش بعدی فعل کمک می‌کند",
+            "en": "have; links the past to now"
+          }
+        },
+        {
+          "surface": "worked",
+          "gloss": {
+            "fa": "کار کرده‌ایم",
+            "en": "worked; did a job or task"
+          }
+        },
+        {
+          "surface": "together",
+          "gloss": {
+            "fa": "با هم",
+            "en": "together; with each other"
+          }
+        },
+        {
+          "surface": "on",
+          "gloss": {
+            "fa": "روی",
+            "en": "on; a connection or position"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "project",
+          "gloss": {
+            "fa": "پروژه",
+            "en": "project; a planned piece of work"
+          }
+        },
+        {
+          "surface": "for",
+          "gloss": {
+            "fa": "به مدتِ",
+            "en": "for; a length of time"
+          }
+        },
+        {
+          "surface": "two",
+          "gloss": {
+            "fa": "دو",
+            "en": "two; 2"
+          }
+        },
+        {
+          "surface": "years.",
+          "gloss": {
+            "fa": "سال.",
+            "en": "years; periods of twelve months"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "speakerId": "nigar",
+      "text": "That is a long time, are you enjoying the evening so far?",
+      "translation": {
+        "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+        "en": "That is a long time, are you enjoying the evening so far?"
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "a",
+          "gloss": {
+            "fa": "یک",
+            "en": "a; one"
+          }
+        },
+        {
+          "surface": "long",
+          "gloss": {
+            "fa": "طولانی",
+            "en": "long; lasting much time"
+          }
+        },
+        {
+          "surface": "time,",
+          "gloss": {
+            "fa": "زمان،",
+            "en": "time; a period or moment"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "بخشی از «لذت می‌بری»",
+            "en": "are; used with enjoying for an activity now"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "enjoying",
+          "gloss": {
+            "fa": "لذت می‌بری",
+            "en": "enjoying; having a good time"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "evening",
+          "gloss": {
+            "fa": "عصر",
+            "en": "evening; the later part of the day"
+          }
+        },
+        {
+          "surface": "so",
+          "gloss": {
+            "fa": "تا اینجا؛ همراه far",
+            "en": "so; therefore or to that degree"
+          }
+        },
+        {
+          "surface": "far?",
+          "gloss": {
+            "fa": "تا اینجا؛ همراه so؟",
+            "en": "far; in so far, until now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "speakerId": "arman",
+      "text": "Very much, the music and the food are both excellent.",
+      "translation": {
+        "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+        "en": "Very much, the music and the food are both excellent."
+      },
+      "tokens": [
+        {
+          "surface": "Very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "much,",
+          "gloss": {
+            "fa": "زیاد،",
+            "en": "much; a large amount"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "music",
+          "gloss": {
+            "fa": "موسیقی",
+            "en": "music; organized musical sound"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "food",
+          "gloss": {
+            "fa": "غذا",
+            "en": "food; things people eat"
+          }
+        },
+        {
+          "surface": "are",
+          "gloss": {
+            "fa": "هستند",
+            "en": "are; be with you or we"
+          }
+        },
+        {
+          "surface": "both",
+          "gloss": {
+            "fa": "هر دو",
+            "en": "both; the two together"
+          }
+        },
+        {
+          "surface": "excellent.",
+          "gloss": {
+            "fa": "عالی.",
+            "en": "excellent; extremely good"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "speakerId": "nigar",
+      "text": "I agree, and I have already met some very interesting people here.",
+      "translation": {
+        "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+        "en": "I agree, and I have already met some very interesting people here."
+      },
+      "tokens": [
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "agree,",
+          "gloss": {
+            "fa": "موافقم،",
+            "en": "agree; have the same opinion"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "have",
+          "gloss": {
+            "fa": "به بخش بعدی فعل کمک می‌کند",
+            "en": "have; links the past to now"
+          }
+        },
+        {
+          "surface": "already",
+          "gloss": {
+            "fa": "تا همین حالا",
+            "en": "already; before now"
+          }
+        },
+        {
+          "surface": "met",
+          "gloss": {
+            "fa": "آشنا شده‌ام",
+            "en": "met; past form of meet"
+          }
+        },
+        {
+          "surface": "some",
+          "gloss": {
+            "fa": "چند",
+            "en": "some; an amount or number"
+          }
+        },
+        {
+          "surface": "very",
+          "gloss": {
+            "fa": "خیلی",
+            "en": "very; to a high degree"
+          }
+        },
+        {
+          "surface": "interesting",
+          "gloss": {
+            "fa": "جالب",
+            "en": "interesting; holding your attention"
+          }
+        },
+        {
+          "surface": "people",
+          "gloss": {
+            "fa": "آدم",
+            "en": "people; persons"
+          }
+        },
+        {
+          "surface": "here.",
+          "gloss": {
+            "fa": "اینجا.",
+            "en": "here; in this place"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "speakerId": "arman",
+      "text": "Perhaps we can exchange contact information before the party ends.",
+      "translation": {
+        "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+        "en": "Perhaps we can exchange contact information before the party ends."
+      },
+      "tokens": [
+        {
+          "surface": "Perhaps",
+          "gloss": {
+            "fa": "شاید",
+            "en": "perhaps; maybe"
+          }
+        },
+        {
+          "surface": "we",
+          "gloss": {
+            "fa": "ما",
+            "en": "we; the speaker and others"
+          }
+        },
+        {
+          "surface": "can",
+          "gloss": {
+            "fa": "بتوانیم",
+            "en": "can; be able to"
+          }
+        },
+        {
+          "surface": "exchange",
+          "gloss": {
+            "fa": "ردوبدل کنیم",
+            "en": "exchange; give and receive"
+          }
+        },
+        {
+          "surface": "contact",
+          "gloss": {
+            "fa": "تماس",
+            "en": "contact; communication with someone"
+          }
+        },
+        {
+          "surface": "information",
+          "gloss": {
+            "fa": "اطلاعات",
+            "en": "information; useful facts"
+          }
+        },
+        {
+          "surface": "before",
+          "gloss": {
+            "fa": "قبل از",
+            "en": "before; earlier than"
+          }
+        },
+        {
+          "surface": "the",
+          "gloss": {
+            "fa": "همانِ مشخص؛ جدا ترجمه نمی‌شود",
+            "en": "the; marks the particular thing meant"
+          }
+        },
+        {
+          "surface": "party",
+          "gloss": {
+            "fa": "مهمانی",
+            "en": "party; a social gathering"
+          }
+        },
+        {
+          "surface": "ends.",
+          "gloss": {
+            "fa": "تمام شود.",
+            "en": "ends; finishes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "speakerId": "nigar",
+      "text": "That would be nice, I would like to stay in touch.",
+      "translation": {
+        "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+        "en": "That would be nice, I would like to stay in touch."
+      },
+      "tokens": [
+        {
+          "surface": "That",
+          "gloss": {
+            "fa": "آن",
+            "en": "that; the thing just mentioned"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "می‌شد",
+            "en": "would; makes an offer or idea gentler"
+          }
+        },
+        {
+          "surface": "be",
+          "gloss": {
+            "fa": "باشد",
+            "en": "be; exist or have a quality"
+          }
+        },
+        {
+          "surface": "nice,",
+          "gloss": {
+            "fa": "خوب،",
+            "en": "nice; pleasant"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "would",
+          "gloss": {
+            "fa": "می‌خواهم؛ همراه like",
+            "en": "would; makes an offer or idea gentler"
+          }
+        },
+        {
+          "surface": "like",
+          "gloss": {
+            "fa": "دوست داشته باشم",
+            "en": "like; enjoy"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "برای؛ قبل از انجام کار",
+            "en": "to; before an action"
+          }
+        },
+        {
+          "surface": "stay",
+          "gloss": {
+            "fa": "بمانیم",
+            "en": "stay; continue to be"
+          }
+        },
+        {
+          "surface": "in",
+          "gloss": {
+            "fa": "در",
+            "en": "in; within a place or container"
+          }
+        },
+        {
+          "surface": "touch.",
+          "gloss": {
+            "fa": "ارتباط.",
+            "en": "touch; part of stay in touch"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "speakerId": "arman",
+      "text": "Here is my card, and I will write to you tomorrow.",
+      "translation": {
+        "fa": "این کارت من است و فردا برایت می‌نویسم.",
+        "en": "Here is my card, and I will write to you tomorrow."
+      },
+      "tokens": [
+        {
+          "surface": "Here",
+          "gloss": {
+            "fa": "اینجا؛ در این کارت من است",
+            "en": "here; in this place"
+          }
+        },
+        {
+          "surface": "is",
+          "gloss": {
+            "fa": "است",
+            "en": "is; be with he, she or it"
+          }
+        },
+        {
+          "surface": "my",
+          "gloss": {
+            "fa": "مال من",
+            "en": "my; belonging to me"
+          }
+        },
+        {
+          "surface": "card,",
+          "gloss": {
+            "fa": "کارت،",
+            "en": "card; a card with contact information"
+          }
+        },
+        {
+          "surface": "and",
+          "gloss": {
+            "fa": "و",
+            "en": "and; joins related items"
+          }
+        },
+        {
+          "surface": "I",
+          "gloss": {
+            "fa": "من",
+            "en": "I; the speaker"
+          }
+        },
+        {
+          "surface": "will",
+          "gloss": {
+            "fa": "خواهم",
+            "en": "will; a future action"
+          }
+        },
+        {
+          "surface": "write",
+          "gloss": {
+            "fa": "بنویسم",
+            "en": "write; record in writing"
+          }
+        },
+        {
+          "surface": "to",
+          "gloss": {
+            "fa": "به",
+            "en": "to; toward a person or place"
+          }
+        },
+        {
+          "surface": "you",
+          "gloss": {
+            "fa": "تو",
+            "en": "you; the person spoken to"
+          }
+        },
+        {
+          "surface": "tomorrow.",
+          "gloss": {
+            "fa": "فردا.",
+            "en": "tomorrow; the day after today"
+          }
+        }
+      ]
+    }
+  ],
+  "learning": {
+    "words": [
+      {
+        "id": "hello",
+        "text": "hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "hello; a greeting"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "i",
+        "text": "I",
+        "pronunciation": {
+          "faReading": "آی",
+          "ipa": "/aɪ/"
+        },
+        "meaning": {
+          "fa": "من",
+          "en": "I; the speaker"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "do",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "برای منفی کردن؛ در do not think",
+          "en": "do; helps make do not think negative"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "not",
+        "text": "not",
+        "pronunciation": {
+          "faReading": "نات",
+          "ipa": "/nɑt/"
+        },
+        "meaning": {
+          "fa": "نه؛ نشان‌دهندهٔ منفی بودن",
+          "en": "not; makes a statement negative"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "think",
+        "text": "think",
+        "pronunciation": {
+          "faReading": "ثینک",
+          "ipa": "/θɪŋk/"
+        },
+        "meaning": {
+          "fa": "فکر کردن؛ به نظر رسیدن",
+          "en": "think; believe or consider"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "we",
+        "text": "we",
+        "pronunciation": {
+          "faReading": "وی",
+          "ipa": "/wi/"
+        },
+        "meaning": {
+          "fa": "ما",
+          "en": "we; the speaker and others"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "have",
+        "text": "have",
+        "pronunciation": {
+          "faReading": "هَو",
+          "ipa": "/hæv/"
+        },
+        "meaning": {
+          "fa": "در «کار کرده‌ایم» یا «آشنا شده‌ایم»",
+          "en": "have; links earlier actions to now"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "met",
+        "text": "met",
+        "pronunciation": {
+          "faReading": "مِت",
+          "ipa": "/mɛt/"
+        },
+        "meaning": {
+          "fa": "ملاقات کرده؛ آشنا شده",
+          "en": "met; past form of meet"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "before",
+        "text": "before",
+        "pronunciation": {
+          "faReading": "بی‌فور",
+          "ipa": "/bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "قبل از؛ قبلاً",
+          "en": "before; earlier than"
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "that",
+        "text": "that",
+        "pronunciation": {
+          "faReading": "ذَت",
+          "ipa": "/ðæt/"
+        },
+        "meaning": {
+          "fa": "آن؛ آن حرف",
+          "en": "that; the thing just mentioned"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "is",
+        "text": "is",
+        "pronunciation": {
+          "faReading": "ایز",
+          "ipa": "/ɪz/"
+        },
+        "meaning": {
+          "fa": "است",
+          "en": "is; be with he, she or it"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "right",
+        "text": "right",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "درست؛ صحیح",
+          "en": "right; correct"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "am",
+        "text": "am",
+        "pronunciation": {
+          "faReading": "اَم",
+          "ipa": "/æm/"
+        },
+        "meaning": {
+          "fa": "هستم",
+          "en": "am; be with I"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "a",
+        "text": "a",
+        "pronunciation": {
+          "faReading": "اِ",
+          "ipa": "/ə/"
+        },
+        "meaning": {
+          "fa": "یک",
+          "en": "a; one"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "friend",
+        "text": "friend",
+        "pronunciation": {
+          "faReading": "فْرِند",
+          "ipa": "/frɛnd/"
+        },
+        "meaning": {
+          "fa": "دوست",
+          "en": "friend; someone you like and know"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "of",
+        "text": "of",
+        "pronunciation": {
+          "faReading": "اَو",
+          "ipa": "/əv/"
+        },
+        "meaning": {
+          "fa": "از؛ برای پیوند دو واژه",
+          "en": "of; connects related words"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "the",
+        "text": "the",
+        "pronunciation": {
+          "faReading": "ذِ",
+          "ipa": "/ðə/"
+        },
+        "meaning": {
+          "fa": "این یا آنِ مشخص",
+          "en": "the; a particular thing"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "host",
+        "text": "host",
+        "pronunciation": {
+          "faReading": "هُوست",
+          "ipa": "/hoʊst/"
+        },
+        "meaning": {
+          "fa": "میزبان",
+          "en": "host; the person giving a party"
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "it",
+        "text": "it",
+        "pronunciation": {
+          "faReading": "ایت",
+          "ipa": "/ɪt/"
+        },
+        "meaning": {
+          "fa": "آن؛ این",
+          "en": "it; the thing mentioned"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "lovely",
+        "text": "lovely",
+        "pronunciation": {
+          "faReading": "لاولی",
+          "ipa": "/ˈlʌvli/"
+        },
+        "meaning": {
+          "fa": "دلپذیر؛ خیلی خوب",
+          "en": "lovely; very pleasant"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "party",
+        "text": "party",
+        "pronunciation": {
+          "faReading": "پارْتی",
+          "ipa": "/ˈpɑrti/"
+        },
+        "meaning": {
+          "fa": "مهمانی",
+          "en": "party; a social gathering"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "how",
+        "text": "how",
+        "pronunciation": {
+          "faReading": "هاو",
+          "ipa": "/haʊ/"
+        },
+        "meaning": {
+          "fa": "چطور؛ چگونه",
+          "en": "how; asking about manner or condition"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "do-question",
+        "text": "do",
+        "pronunciation": {
+          "faReading": "دو",
+          "ipa": "/du/"
+        },
+        "meaning": {
+          "fa": "کمک به پرسیدن",
+          "en": "do; helps ask a question"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "you",
+        "text": "you",
+        "pronunciation": {
+          "faReading": "یو",
+          "ipa": "/ju/"
+        },
+        "meaning": {
+          "fa": "تو؛ شما",
+          "en": "you; the person spoken to"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "know",
+        "text": "know",
+        "pronunciation": {
+          "faReading": "نُو",
+          "ipa": "/noʊ/"
+        },
+        "meaning": {
+          "fa": "دانستن؛ شناختن",
+          "en": "know; be familiar with"
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "worked",
+        "text": "worked",
+        "pronunciation": {
+          "faReading": "وِرکت",
+          "ipa": "/wɝkt/"
+        },
+        "meaning": {
+          "fa": "کار کرده‌ایم؛ کار کرد",
+          "en": "worked; did a job or task"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "together",
+        "text": "together",
+        "pronunciation": {
+          "faReading": "تُگِذِر",
+          "ipa": "/təˈɡɛðɚ/"
+        },
+        "meaning": {
+          "fa": "با هم",
+          "en": "together; with each other"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "on",
+        "text": "on",
+        "pronunciation": {
+          "faReading": "آن",
+          "ipa": "/ɑn/"
+        },
+        "meaning": {
+          "fa": "روی؛ در ارتباط با",
+          "en": "on; a connection or position"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "project",
+        "text": "project",
+        "pronunciation": {
+          "faReading": "پْراجِکت",
+          "ipa": "/ˈprɑdʒɛkt/"
+        },
+        "meaning": {
+          "fa": "پروژه؛ کار برنامه‌ریزی‌شده",
+          "en": "project; a planned piece of work"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "for",
+        "text": "for",
+        "pronunciation": {
+          "faReading": "فور",
+          "ipa": "/fɔr/"
+        },
+        "meaning": {
+          "fa": "به مدتِ",
+          "en": "for; a length of time"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "two",
+        "text": "two",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "دو",
+          "en": "two; 2"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "years",
+        "text": "years",
+        "pronunciation": {
+          "faReading": "ییرز",
+          "ipa": "/jɪrz/"
+        },
+        "meaning": {
+          "fa": "سال‌ها",
+          "en": "years; periods of twelve months"
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        }
+      },
+      {
+        "id": "long",
+        "text": "long",
+        "pronunciation": {
+          "faReading": "لانگ",
+          "ipa": "/lɔŋ/"
+        },
+        "meaning": {
+          "fa": "طولانی؛ مدت",
+          "en": "long; lasting much time"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "time",
+        "text": "time",
+        "pronunciation": {
+          "faReading": "تایم",
+          "ipa": "/taɪm/"
+        },
+        "meaning": {
+          "fa": "وقت؛ زمان",
+          "en": "time; a period or moment"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "are",
+        "text": "are",
+        "pronunciation": {
+          "faReading": "آر",
+          "ipa": "/ɑr/"
+        },
+        "meaning": {
+          "fa": "هستی؛ هستید؛ هستیم؛ هستند",
+          "en": "are; be with you, we or they"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "enjoying",
+        "text": "enjoying",
+        "pronunciation": {
+          "faReading": "اِن‌جوی‌اینگ",
+          "ipa": "/ɪnˈdʒɔɪɪŋ/"
+        },
+        "meaning": {
+          "fa": "لذت بردن",
+          "en": "enjoying; having a good time"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "evening",
+        "text": "evening",
+        "pronunciation": {
+          "faReading": "ایوْنینگ",
+          "ipa": "/ˈivnɪŋ/"
+        },
+        "meaning": {
+          "fa": "عصر؛ شب پیش از خواب",
+          "en": "evening; the later part of the day"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "so",
+        "text": "so",
+        "pronunciation": {
+          "faReading": "سُو",
+          "ipa": "/soʊ/"
+        },
+        "meaning": {
+          "fa": "پس؛ این‌قدر",
+          "en": "so; therefore or to that degree"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "far",
+        "text": "far",
+        "pronunciation": {
+          "faReading": "فار",
+          "ipa": "/fɑr/"
+        },
+        "meaning": {
+          "fa": "دور؛ در so far یعنی تا الان",
+          "en": "far; in so far, until now"
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        }
+      },
+      {
+        "id": "very",
+        "text": "very",
+        "pronunciation": {
+          "faReading": "وِری",
+          "ipa": "/ˈvɛri/"
+        },
+        "meaning": {
+          "fa": "خیلی",
+          "en": "very; to a high degree"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "much",
+        "text": "much",
+        "pronunciation": {
+          "faReading": "مَچ",
+          "ipa": "/mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی؛ مقدار زیاد",
+          "en": "much; a large amount"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "music",
+        "text": "music",
+        "pronunciation": {
+          "faReading": "میوزیک",
+          "ipa": "/ˈmjuzɪk/"
+        },
+        "meaning": {
+          "fa": "موسیقی",
+          "en": "music; organized musical sound"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "and",
+        "text": "and",
+        "pronunciation": {
+          "faReading": "اَند",
+          "ipa": "/ænd/"
+        },
+        "meaning": {
+          "fa": "و",
+          "en": "and; joins related items"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "food",
+        "text": "food",
+        "pronunciation": {
+          "faReading": "فود",
+          "ipa": "/fud/"
+        },
+        "meaning": {
+          "fa": "غذا",
+          "en": "food; things people eat"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "both",
+        "text": "both",
+        "pronunciation": {
+          "faReading": "بُوث",
+          "ipa": "/boʊθ/"
+        },
+        "meaning": {
+          "fa": "هر دو",
+          "en": "both; the two together"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "excellent",
+        "text": "excellent",
+        "pronunciation": {
+          "faReading": "اِکسِلِنت",
+          "ipa": "/ˈɛksələnt/"
+        },
+        "meaning": {
+          "fa": "عالی؛ بسیار خوب",
+          "en": "excellent; extremely good"
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "agree",
+        "text": "agree",
+        "pronunciation": {
+          "faReading": "اِگْری",
+          "ipa": "/əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافق بودن",
+          "en": "agree; have the same opinion"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "already",
+        "text": "already",
+        "pronunciation": {
+          "faReading": "آل‌رِدی",
+          "ipa": "/ɔlˈrɛdi/"
+        },
+        "meaning": {
+          "fa": "قبلاً؛ تا همین حالا",
+          "en": "already; before now"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "some",
+        "text": "some",
+        "pronunciation": {
+          "faReading": "سَم",
+          "ipa": "/sʌm/"
+        },
+        "meaning": {
+          "fa": "مقداری؛ چند",
+          "en": "some; an amount or number"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "interesting",
+        "text": "interesting",
+        "pronunciation": {
+          "faReading": "اینتِرِستینگ",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        },
+        "meaning": {
+          "fa": "جالب",
+          "en": "interesting; holding your attention"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "people",
+        "text": "people",
+        "pronunciation": {
+          "faReading": "پیپِل",
+          "ipa": "/ˈpipəl/"
+        },
+        "meaning": {
+          "fa": "افراد؛ مردم",
+          "en": "people; persons"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "here",
+        "text": "here",
+        "pronunciation": {
+          "faReading": "هیر",
+          "ipa": "/hɪr/"
+        },
+        "meaning": {
+          "fa": "اینجا",
+          "en": "here; in this place"
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "perhaps",
+        "text": "perhaps",
+        "pronunciation": {
+          "faReading": "پِرهَپس",
+          "ipa": "/pɚˈhæps/"
+        },
+        "meaning": {
+          "fa": "شاید",
+          "en": "perhaps; maybe"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "can",
+        "text": "can",
+        "pronunciation": {
+          "faReading": "کَن",
+          "ipa": "/kæn/"
+        },
+        "meaning": {
+          "fa": "می‌توانم؛ می‌توانی",
+          "en": "can; be able to"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "exchange",
+        "text": "exchange",
+        "pronunciation": {
+          "faReading": "ایکس‌چِینج",
+          "ipa": "/ɪksˈtʃeɪndʒ/"
+        },
+        "meaning": {
+          "fa": "ردوبدل کردن",
+          "en": "exchange; give and receive"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "contact",
+        "text": "contact",
+        "pronunciation": {
+          "faReading": "کانتَکت",
+          "ipa": "/ˈkɑntækt/"
+        },
+        "meaning": {
+          "fa": "تماس؛ ارتباط",
+          "en": "contact; communication with someone"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "information",
+        "text": "information",
+        "pronunciation": {
+          "faReading": "اینفِرمِیشن",
+          "ipa": "/ˌɪnfɚˈmeɪʃən/"
+        },
+        "meaning": {
+          "fa": "اطلاعات",
+          "en": "information; useful facts"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "ends",
+        "text": "ends",
+        "pronunciation": {
+          "faReading": "اِندز",
+          "ipa": "/ɛndz/"
+        },
+        "meaning": {
+          "fa": "تمام می‌شود",
+          "en": "ends; finishes"
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "would",
+        "text": "would",
+        "pronunciation": {
+          "faReading": "وود",
+          "ipa": "/wʊd/"
+        },
+        "meaning": {
+          "fa": "می‌شد؛ در پیشنهاد مؤدبانه",
+          "en": "would; makes an offer or idea gentler"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "be",
+        "text": "be",
+        "pronunciation": {
+          "faReading": "بی",
+          "ipa": "/bi/"
+        },
+        "meaning": {
+          "fa": "بودن",
+          "en": "be; exist or have a quality"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "nice",
+        "text": "nice",
+        "pronunciation": {
+          "faReading": "نایس",
+          "ipa": "/naɪs/"
+        },
+        "meaning": {
+          "fa": "خوشایند؛ خوب",
+          "en": "nice; pleasant"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "like",
+        "text": "like",
+        "pronunciation": {
+          "faReading": "لایک",
+          "ipa": "/laɪk/"
+        },
+        "meaning": {
+          "fa": "خواستن؛ در would like",
+          "en": "like; with would, politely want"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "to",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "برای؛ قبل از انجام کار",
+          "en": "to; before an action"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "stay",
+        "text": "stay",
+        "pronunciation": {
+          "faReading": "سْتِی",
+          "ipa": "/steɪ/"
+        },
+        "meaning": {
+          "fa": "ماندن",
+          "en": "stay; continue to be"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "in",
+        "text": "in",
+        "pronunciation": {
+          "faReading": "این",
+          "ipa": "/ɪn/"
+        },
+        "meaning": {
+          "fa": "در؛ داخل",
+          "en": "in; within a place or container"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "touch",
+        "text": "touch",
+        "pronunciation": {
+          "faReading": "تاچ",
+          "ipa": "/tʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در stay in touch یعنی در ارتباط",
+          "en": "touch; part of stay in touch"
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "my",
+        "text": "my",
+        "pronunciation": {
+          "faReading": "مای",
+          "ipa": "/maɪ/"
+        },
+        "meaning": {
+          "fa": "مال من",
+          "en": "my; belonging to me"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      },
+      {
+        "id": "card",
+        "text": "card",
+        "pronunciation": {
+          "faReading": "کارد",
+          "ipa": "/kɑrd/"
+        },
+        "meaning": {
+          "fa": "کارت؛ اینجا کارت تماس",
+          "en": "card; a card with contact information"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      },
+      {
+        "id": "will",
+        "text": "will",
+        "pronunciation": {
+          "faReading": "ویل",
+          "ipa": "/wɪl/"
+        },
+        "meaning": {
+          "fa": "خواهم؛ قرار است",
+          "en": "will; a future action"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      },
+      {
+        "id": "write",
+        "text": "write",
+        "pronunciation": {
+          "faReading": "رایت",
+          "ipa": "/raɪt/"
+        },
+        "meaning": {
+          "fa": "نوشتن",
+          "en": "write; record in writing"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      },
+      {
+        "id": "to-link",
+        "text": "to",
+        "pronunciation": {
+          "faReading": "تو",
+          "ipa": "/tu/"
+        },
+        "meaning": {
+          "fa": "به",
+          "en": "to; toward a person or place"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      },
+      {
+        "id": "tomorrow",
+        "text": "tomorrow",
+        "pronunciation": {
+          "faReading": "تُمارُو",
+          "ipa": "/təˈmɑroʊ/"
+        },
+        "meaning": {
+          "fa": "فردا",
+          "en": "tomorrow; the day after today"
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "id": "not-think",
+        "title": {
+          "fa": "گفتن «فکر نمی‌کنم...»",
+          "en": "Saying I do not think"
+        },
+        "explanation": {
+          "fa": "I do not think we have met before راه نرم گفتن «فکر نمی‌کنم قبلاً آشنا شده باشیم» است. not کنار do می‌آید. گوینده با I think نشان می‌دهد نظر خودش را می‌گوید، نه یک واقعیت قطعی.",
+          "en": "I do not think we have met before gently says the speakers probably have not met. Not goes with do. I think presents the speaker’s view, not a certain fact."
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        },
+        "takeaway": {
+          "fa": "do not think یعنی فکر نمی‌کنم.",
+          "en": "Do not think means I think this is not so."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "گفتن «فکر نمی‌کنم...»",
+              "en": "Saying I do not think"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I do not think we have met before"
+                },
+                {
+                  "text": "I do not think + a thought"
+                },
+                {
+                  "fa": "فکر نمی‌کنم قبلاً آشنا شده باشیم",
+                  "en": "A gentle opening"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "past-to-present",
+        "title": {
+          "fa": "تجربه و مدت تا الان",
+          "en": "Experience and time up to now"
+        },
+        "explanation": {
+          "fa": "have met دربارهٔ آشناشدن پیش از الان است. have worked together for two years می‌گوید همکاری از قبل شروع شده و تا الان ادامه دارد. already یعنی تا همین حالا کاری انجام شده است.",
+          "en": "Have met is about meeting before now. Have worked together for two years connects earlier work with now. Already says something has happened before this moment."
+        },
+        "example": {
+          "text": "We have worked together on a project for two years.",
+          "translation": {
+            "fa": "دو سال است روی یک پروژه با هم کار می‌کنیم.",
+            "en": "We have worked together on a project for two years."
+          }
+        },
+        "takeaway": {
+          "fa": "for two years مدت همکاری را می‌گوید.",
+          "en": "For two years gives the length of the work."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "تجربه و مدت تا الان",
+              "en": "Experience and time up to now"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "we have met before"
+                },
+                {
+                  "text": "have + met + before"
+                },
+                {
+                  "fa": "قبلاً آشنا شده‌ایم",
+                  "en": "An earlier experience"
+                }
+              ],
+              [
+                {
+                  "text": "We have worked together for two years"
+                },
+                {
+                  "text": "have worked + for + time"
+                },
+                {
+                  "fa": "دو سال است با هم کار می‌کنیم",
+                  "en": "Time up to now"
+                }
+              ],
+              [
+                {
+                  "text": "I have already met some people"
+                },
+                {
+                  "text": "have + already + met"
+                },
+                {
+                  "fa": "تا الان با چند نفر آشنا شده‌ام",
+                  "en": "An experience already completed"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "questions-now",
+        "title": {
+          "fa": "پرسیدن دربارهٔ امشب و آشنایی",
+          "en": "Asking about now and connections"
+        },
+        "explanation": {
+          "fa": "How do you know the host? دربارهٔ رابطه با میزبان است. Are you enjoying the evening? دربارهٔ لذت بردن همین امشب است؛ are پیش از you و enjoying با ing آمده است.",
+          "en": "How do you know the host? asks about a connection. Are you enjoying the evening? asks about this evening now; are comes before you, with enjoying ending in ing."
+        },
+        "example": {
+          "text": "That is a long time, are you enjoying the evening so far?",
+          "translation": {
+            "fa": "زمان زیادی است؛ تا اینجا از امشب لذت می‌بری؟",
+            "en": "That is a long time, are you enjoying the evening so far?"
+          }
+        },
+        "takeaway": {
+          "fa": "do you know برای شناختن؛ are you enjoying برای همین تجربه.",
+          "en": "Do you know asks about a connection; are you enjoying asks about now."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پرسیدن دربارهٔ امشب و آشنایی",
+              "en": "Asking about now and connections"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "how do you know the host?"
+                },
+                {
+                  "text": "How + do you know + person?"
+                },
+                {
+                  "fa": "میزبان را از کجا می‌شناسی؟",
+                  "en": "A connection"
+                }
+              ],
+              [
+                {
+                  "text": "are you enjoying the evening?"
+                },
+                {
+                  "text": "Are + you + enjoying + time?"
+                },
+                {
+                  "fa": "از امشب لذت می‌بری؟",
+                  "en": "An experience happening now"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "amounts-and-both",
+        "title": {
+          "fa": "چند نفر، خیلی و هر دو",
+          "en": "Some, very much and both"
+        },
+        "explanation": {
+          "fa": "some people یعنی چند نفر. people خودش معنی چند نفر دارد و peoples لازم نیست. both می‌گوید دو چیز با هم خوب‌اند: موسیقی و غذا. Very much جواب کوتاهِ «خیلی لذت می‌برم» است.",
+          "en": "Some people means several people; people already means more than one person. Both includes the music and the food. Very much is a short answer meaning I am enjoying it a lot."
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        },
+        "takeaway": {
+          "fa": "both یعنی هر دو، نه فقط یکی.",
+          "en": "Both means the two, not just one."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "چند نفر، خیلی و هر دو",
+              "en": "Some, very much and both"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "some very interesting people"
+                },
+                {
+                  "text": "some + description + people"
+                },
+                {
+                  "fa": "چند آدم خیلی جالب",
+                  "en": "An unspecified number"
+                }
+              ],
+              [
+                {
+                  "text": "the music and the food are both excellent"
+                },
+                {
+                  "text": "two things + are both + description"
+                },
+                {
+                  "fa": "هم موسیقی و هم غذا عالی‌اند",
+                  "en": "Including both things"
+                }
+              ],
+              [
+                {
+                  "text": "Very much"
+                },
+                {
+                  "text": "understood: I enjoy it very much"
+                },
+                {
+                  "fa": "خیلی زیاد",
+                  "en": "A short positive answer"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "polite-possibility",
+        "title": {
+          "fa": "پیشنهاد نرم و مؤدبانه",
+          "en": "Gentle suggestions"
+        },
+        "explanation": {
+          "fa": "Perhaps we can exchange contact information یک پیشنهاد است؛ perhaps یعنی شاید و can یعنی می‌توانیم. I would like to stay in touch هم مؤدبانه‌تر از I want است. پس از would like، to و کار می‌آید.",
+          "en": "Perhaps we can exchange contact information is a gentle suggestion. Perhaps means maybe. I would like is more polite than I want; follow it with to and the action."
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        },
+        "takeaway": {
+          "fa": "would like to + کار، خواسته را مؤدبانه می‌گوید.",
+          "en": "Would like to + action expresses a polite wish."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "پیشنهاد نرم و مؤدبانه",
+              "en": "Gentle suggestions"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "Perhaps we can exchange contact information"
+                },
+                {
+                  "text": "perhaps + we can + action"
+                },
+                {
+                  "fa": "شاید اطلاعات تماس را ردوبدل کنیم",
+                  "en": "A suggestion"
+                }
+              ],
+              [
+                {
+                  "text": "I would like to stay in touch"
+                },
+                {
+                  "text": "would like + to stay in touch"
+                },
+                {
+                  "fa": "دوست دارم در ارتباط بمانیم",
+                  "en": "A polite wish"
+                }
+              ],
+              [
+                {
+                  "text": "That would be nice"
+                },
+                {
+                  "text": "would + be + nice"
+                },
+                {
+                  "fa": "خوب می‌شود",
+                  "en": "Accepting the idea"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "before-and-tomorrow",
+        "title": {
+          "fa": "زمان انجام کار بعدی",
+          "en": "Timing the next action"
+        },
+        "explanation": {
+          "fa": "before the party ends یعنی قبل از تمام شدن مهمانی. در این بخش از ends استفاده شده، نه will end. برای قول نوشتن فردا، I will write آمده است. to you هم دریافت‌کنندهٔ نوشته را می‌گوید.",
+          "en": "Before the party ends means earlier than the end. Use ends in this part, not will end. I will write gives a promise for tomorrow; to you names the receiver."
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        },
+        "takeaway": {
+          "fa": "before + جمله، زمان را مشخص می‌کند.",
+          "en": "Before + a statement gives the time."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "زمان انجام کار بعدی",
+              "en": "Timing the next action"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "before the party ends"
+                },
+                {
+                  "text": "before + the party + ends"
+                },
+                {
+                  "fa": "قبل از پایان مهمانی",
+                  "en": "A time limit"
+                }
+              ],
+              [
+                {
+                  "text": "I will write to you tomorrow"
+                },
+                {
+                  "text": "will write + to you + tomorrow"
+                },
+                {
+                  "fa": "فردا برایت می‌نویسم",
+                  "en": "A promise and its time"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "introductions-and-card",
+        "title": {
+          "fa": "معرفی خود و نشان دادن کارت",
+          "en": "Introducing yourself and a card"
+        },
+        "explanation": {
+          "fa": "I am Arman نام را می‌گوید و a friend of the host رابطه را اضافه می‌کند. Here is my card یعنی «این کارت من است». my نشان می‌دهد کارت مال چه کسی است.",
+          "en": "I am Arman gives a name; a friend of the host adds the relationship. Here is my card presents the card. My says whose card it is."
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        },
+        "takeaway": {
+          "fa": "Here is برای دادن یا نشان دادن چیزی مفید است.",
+          "en": "Here is is useful when presenting something."
+        },
+        "tables": [
+          {
+            "title": {
+              "fa": "معرفی خود و نشان دادن کارت",
+              "en": "Introducing yourself and a card"
+            },
+            "columns": [
+              {
+                "fa": "از گفت‌وگو",
+                "en": "From the conversation"
+              },
+              {
+                "fa": "الگو",
+                "en": "Pattern"
+              },
+              {
+                "fa": "معنی و کاربرد",
+                "en": "Meaning and use"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "text": "I am Arman, a friend of the host"
+                },
+                {
+                  "text": "name + a friend of + person"
+                },
+                {
+                  "fa": "آرمان هستم، از دوستان میزبان",
+                  "en": "Name and connection"
+                }
+              ],
+              [
+                {
+                  "text": "Here is my card"
+                },
+                {
+                  "text": "Here is + my card"
+                },
+                {
+                  "fa": "این کارت من است",
+                  "en": "Presenting contact details"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "id": "hello",
+        "text": "Hello",
+        "pronunciation": {
+          "faReading": "هِلُو",
+          "ipa": "/həˈloʊ/"
+        },
+        "meaning": {
+          "fa": "سلام",
+          "en": "Hello"
+        },
+        "context": {
+          "fa": "سلام برای شروع آشنایی در مهمانی.",
+          "en": "A greeting to start getting acquainted at a party."
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "not-met",
+        "text": "I do not think we have met before",
+        "pronunciation": {
+          "faReading": "آی دو نات ثینک وی هَو مِت بی‌فور",
+          "ipa": "/aɪ du nɑt θɪŋk wi hæv mɛt bɪˈfɔr/"
+        },
+        "meaning": {
+          "fa": "فکر نمی‌کنم قبلاً آشنا شده باشیم",
+          "en": "I do not think we have met before"
+        },
+        "context": {
+          "fa": "شروعی مؤدبانه با کسی که احتمالاً تازه می‌بینیم.",
+          "en": "A polite opening with someone who is probably new to us."
+        },
+        "example": {
+          "text": "Hello, I do not think we have met before.",
+          "translation": {
+            "fa": "سلام، فکر نمی‌کنم قبلاً با هم آشنا شده باشیم.",
+            "en": "Hello, I do not think we have met before."
+          }
+        }
+      },
+      {
+        "id": "that-right",
+        "text": "That is right",
+        "pronunciation": {
+          "faReading": "ذَت ایز رایت",
+          "ipa": "/ðæt ɪz raɪt/"
+        },
+        "meaning": {
+          "fa": "درست است",
+          "en": "That is right"
+        },
+        "context": {
+          "fa": "آرمان گفتهٔ نگار را تأیید می‌کند.",
+          "en": "Arman confirms Nigar’s statement."
+        },
+        "example": {
+          "text": "That is right, I am Arman, a friend of the host.",
+          "translation": {
+            "fa": "درست است؛ من آرمان هستم، از دوستان میزبان.",
+            "en": "That is right, I am Arman, a friend of the host."
+          }
+        }
+      },
+      {
+        "id": "lovely-party",
+        "text": "it is a lovely party",
+        "pronunciation": {
+          "faReading": "ایت ایز اِ لاولی پارْتی",
+          "ipa": "/ɪt ɪz ə ˈlʌvli ˈpɑrti/"
+        },
+        "meaning": {
+          "fa": "مهمانی دلپذیری است",
+          "en": "It is a lovely party"
+        },
+        "context": {
+          "fa": "تعریف از مهمانی برای ادامهٔ یک صحبت دوستانه.",
+          "en": "A compliment about the party that keeps the conversation going."
+        },
+        "example": {
+          "text": "I am Nigar, it is a lovely party, how do you know the host?",
+          "translation": {
+            "fa": "من نگارم؛ مهمانی دلپذیری است. میزبان را از کجا می‌شناسی؟",
+            "en": "I am Nigar, it is a lovely party, how do you know the host?"
+          }
+        }
+      },
+      {
+        "id": "very-much",
+        "text": "Very much",
+        "pronunciation": {
+          "faReading": "وِری مَچ",
+          "ipa": "/ˈvɛri mʌtʃ/"
+        },
+        "meaning": {
+          "fa": "خیلی زیاد",
+          "en": "Very much"
+        },
+        "context": {
+          "fa": "جواب کوتاه به پرسش لذت بردن از امشب.",
+          "en": "A short answer about enjoying the evening."
+        },
+        "example": {
+          "text": "Very much, the music and the food are both excellent.",
+          "translation": {
+            "fa": "خیلی زیاد؛ هم موسیقی و هم غذا عالی‌اند.",
+            "en": "Very much, the music and the food are both excellent."
+          }
+        }
+      },
+      {
+        "id": "i-agree",
+        "text": "I agree",
+        "pronunciation": {
+          "faReading": "آی اِگْری",
+          "ipa": "/aɪ əˈɡri/"
+        },
+        "meaning": {
+          "fa": "موافقم",
+          "en": "I agree"
+        },
+        "context": {
+          "fa": "نگار نظر مثبت دربارهٔ غذا و موسیقی را می‌پذیرد.",
+          "en": "Nigar shares the positive opinion of the food and music."
+        },
+        "example": {
+          "text": "I agree, and I have already met some very interesting people here.",
+          "translation": {
+            "fa": "موافقم و تا همین حالا با چند آدم خیلی جالب اینجا آشنا شده‌ام.",
+            "en": "I agree, and I have already met some very interesting people here."
+          }
+        }
+      },
+      {
+        "id": "exchange-contact",
+        "text": "exchange contact information",
+        "pronunciation": {
+          "faReading": "ایکس‌چِینج کانتَکت اینفِرمِیشن",
+          "ipa": "/ɪksˈtʃeɪndʒ ˈkɑntækt ˌɪnfɚˈmeɪʃən/"
+        },
+        "meaning": {
+          "fa": "اطلاعات تماس ردوبدل کردن",
+          "en": "Exchange contact information"
+        },
+        "context": {
+          "fa": "برای ادامهٔ ارتباط پس از مهمانی؛ exchange یعنی هر دو طرف چیزی می‌دهند.",
+          "en": "A way to continue contact after the party; exchange involves both giving and receiving."
+        },
+        "example": {
+          "text": "Perhaps we can exchange contact information before the party ends.",
+          "translation": {
+            "fa": "شاید بتوانیم قبل از تمام شدن مهمانی اطلاعات تماسمان را ردوبدل کنیم.",
+            "en": "Perhaps we can exchange contact information before the party ends."
+          }
+        }
+      },
+      {
+        "id": "would-nice",
+        "text": "That would be nice",
+        "pronunciation": {
+          "faReading": "ذَت وود بی نایس",
+          "ipa": "/ðæt wʊd bi naɪs/"
+        },
+        "meaning": {
+          "fa": "خوب می‌شود",
+          "en": "That would be nice"
+        },
+        "context": {
+          "fa": "پیشنهاد ردوبدل‌کردن اطلاعات را با لحن نرم قبول می‌کند.",
+          "en": "Gently accepts the suggestion to exchange details."
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "stay-touch",
+        "text": "stay in touch",
+        "pronunciation": {
+          "faReading": "سْتِی این تاچ",
+          "ipa": "/steɪ ɪn tʌtʃ/"
+        },
+        "meaning": {
+          "fa": "در ارتباط ماندن",
+          "en": "Keep in contact"
+        },
+        "context": {
+          "fa": "به معنی ادامهٔ ارتباط است، نه لمس کردن.",
+          "en": "Means continuing communication, not physical touching."
+        },
+        "example": {
+          "text": "That would be nice, I would like to stay in touch.",
+          "translation": {
+            "fa": "خوب می‌شود؛ دوست دارم در ارتباط بمانیم.",
+            "en": "That would be nice, I would like to stay in touch."
+          }
+        }
+      },
+      {
+        "id": "my-card",
+        "text": "Here is my card",
+        "pronunciation": {
+          "faReading": "هیر ایز مای کارد",
+          "ipa": "/hɪr ɪz maɪ kɑrd/"
+        },
+        "meaning": {
+          "fa": "این کارت من است",
+          "en": "Here is my card"
+        },
+        "context": {
+          "fa": "هنگام دادن کارت تماس به طرف مقابل.",
+          "en": "Used when handing someone a contact card."
+        },
+        "example": {
+          "text": "Here is my card, and I will write to you tomorrow.",
+          "translation": {
+            "fa": "این کارت من است و فردا برایت می‌نویسم.",
+            "en": "Here is my card, and I will write to you tomorrow."
+          }
+        }
+      }
+    ],
+    "questions": [
+      {
+        "id": "gist",
+        "stage": "gist",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "دو نفر در حال انجام چه کاری‌اند؟",
+          "en": "What are the speakers doing?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "حل کردن اختلاف کاری",
+              "en": "Settling a work disagreement"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "خریدن بلیت مهمانی",
+              "en": "Buying party tickets"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "آشنا شدن در یک مهمانی",
+              "en": "Getting acquainted at a party"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "نگار می‌گوید احتمالاً قبلاً آشنا نشده‌اند و از مهمانی صحبت می‌کند.",
+          "en": "Nigar says they probably have not met before and mentions the party."
+        },
+        "evidenceTurnIds": [
+          "t01",
+          "t03"
+        ]
+      },
+      {
+        "id": "host",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان میزبان را از چه راهی می‌شناسد؟",
+          "en": "How does Arman know the host?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "با هم کار کرده‌اند.",
+              "en": "They have worked together."
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "با هم همسایه بوده‌اند.",
+              "en": "They have been neighbors."
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "با هم سفر کرده‌اند.",
+              "en": "They have traveled together."
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "آرمان می‌گوید روی یک پروژه با هم کار کرده‌اند.",
+          "en": "Arman says they have worked together on a project."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "duration",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "مدت این همکاری چقدر است؟",
+          "en": "How long have they worked together?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "یک سال",
+              "en": "One year"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "دو سال",
+              "en": "Two years"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "سه سال",
+              "en": "Three years"
+            }
+          }
+        ],
+        "correctOptionId": "o2",
+        "explanation": {
+          "fa": "آرمان می‌گوید for two years.",
+          "en": "Arman says for two years."
+        },
+        "evidenceTurnIds": [
+          "t04"
+        ]
+      },
+      {
+        "id": "contact",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان برای ادامهٔ ارتباط چه چیزی می‌دهد؟",
+          "en": "What does Arman give to help them keep in contact?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "کارت تماسش",
+              "en": "His contact card"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "بلیت مهمانی",
+              "en": "A party ticket"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "عکس پروژه",
+              "en": "A project photo"
+            }
+          }
+        ],
+        "correctOptionId": "o1",
+        "explanation": {
+          "fa": "در پایان آرمان می‌گوید Here is my card.",
+          "en": "At the end Arman says Here is my card."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      },
+      {
+        "id": "follow-up",
+        "stage": "detail",
+        "type": "multiple_choice",
+        "prompt": {
+          "fa": "آرمان چه زمانی می‌خواهد برای نگار بنویسد؟",
+          "en": "When does Arman plan to write to Nigar?"
+        },
+        "options": [
+          {
+            "id": "o1",
+            "text": {
+              "fa": "هفتهٔ بعد",
+              "en": "Next week"
+            }
+          },
+          {
+            "id": "o2",
+            "text": {
+              "fa": "ماه بعد",
+              "en": "Next month"
+            }
+          },
+          {
+            "id": "o3",
+            "text": {
+              "fa": "فردا",
+              "en": "Tomorrow"
+            }
+          }
+        ],
+        "correctOptionId": "o3",
+        "explanation": {
+          "fa": "آرمان می‌گوید I will write to you tomorrow.",
+          "en": "Arman says I will write to you tomorrow."
+        },
+        "evidenceTurnIds": [
+          "t10"
+        ]
+      }
+    ]
+  }
+}
