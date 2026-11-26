@@ -38,15 +38,15 @@ class DraftValidationTests(unittest.TestCase):
                 self.assertEqual(d["dialogueId"], f"en-t01-s{index:02}")
                 validate(d, path.read_text(encoding="utf-8"), studio=index > 4)
 
-    def test_home_cities_title_names_the_actual_speakers(self):
+    def test_home_cities_title_matches_the_topic(self):
         category = ENGLISH / "01 - معرفی و آشنایی"
-        title = "لیلا و امید اهل کجا هستند؟"
+        title = "اهل کجایی؟"
         path = category / f"02 - {title}.txt"
         source = path.read_text(encoding="utf-8")
         draft = load(path.with_suffix(".json"))
         self.assertEqual(draft["dialogueId"], "en-t01-s02")
         self.assertEqual(draft["title"], {
-            "fa": title, "en": "Where Are Leila and Omid From?",
+            "fa": title, "en": "Where Are You From?",
         })
         self.assertEqual([s["name"] for s in draft["speakers"]], ["Leila", "Omid"])
         self.assertEqual({line.split(": ", 1)[0] for line in source.splitlines()}, {"Leila", "Omid"})
@@ -55,7 +55,7 @@ class DraftValidationTests(unittest.TestCase):
         validate(draft, source)
 
     def test_new_neighbor_is_hamid_in_source_and_draft(self):
-        path = ENGLISH / "01 - معرفی و آشنایی" / "05 - همسایه تازه‌وارد طبقه سوم.txt"
+        path = ENGLISH / "01 - معرفی و آشنایی" / "05 - همسایه جدید.txt"
         source = path.read_text(encoding="utf-8")
         draft = load(path.with_suffix(".json"))
         self.assertIn("Hamid: Yes, I moved in yesterday, my name is Hamid.", source)
